@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0eb673da-1e25-8240-a63a-f3b506883251++1694",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "0eb673da-1e25-8240-a63a-f3b506883251++1694" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0eb673da-1e25-8240-a63a-f3b506883251++1694" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9AEA4A61-315F-4E7F-9616-69B0C3F7F6F3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0eb673da-1e25-8240-a63a-f3b506883251++1694" : "Star\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "StarClient",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "StarClient\/frameworks\/runtime-src\/proj.ios_mac\/StarClient.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.2.88",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0eb673da-1e25-8240-a63a-f3b506883251++1694"
+    }
+  ]
+}

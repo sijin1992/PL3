@@ -1,0 +1,46 @@
+local MEMO_PARAM = {}
+MEMO_PARAM["index"] = {}
+MEMO_PARAM["index"][1] = 1
+MEMO_PARAM[1] = {}
+	MEMO_PARAM[1]["ID"] = 1
+	MEMO_PARAM[1]["KEY"] = "#A#"
+	MEMO_PARAM[1]["PARAM"] = {}
+		MEMO_PARAM[1]["PARAM"][1] = "ATTR_PERCENT"
+		MEMO_PARAM[1]["PARAM"][2] = "ENERGY_ATTR_PERCENT"
+		MEMO_PARAM[1]["PARAM"][3] = "ATTR_VALUE"
+	MEMO_PARAM[1]["DESCRIPTION"] = "weapon表攻击属性参数项"
+	MEMO_PARAM[1]["real_idx"] = 1
+
+MEMO_PARAM["index"][2] = 2
+MEMO_PARAM[2] = {}
+	MEMO_PARAM[2]["ID"] = 2
+	MEMO_PARAM[2]["KEY"] = "#B#"
+	MEMO_PARAM[2]["PARAM"] = {}
+		MEMO_PARAM[2]["PARAM"][1] = "BUFF_ATTR_PERCENT"
+		MEMO_PARAM[2]["PARAM"][2] = "BUFF_ATTR_VALUE"
+	MEMO_PARAM[2]["DESCRIPTION"] = "weapon表BUFF属性参数项"
+	MEMO_PARAM[2]["real_idx"] = 2
+
+MEMO_PARAM["index"][3] = 3
+MEMO_PARAM[3] = {}
+	MEMO_PARAM[3]["ID"] = 3
+	MEMO_PARAM[3]["KEY"] = "#C#"
+	MEMO_PARAM[3]["PARAM"] = {}
+		MEMO_PARAM[3]["PARAM"][1] = "BUFF_CONDITION_PERCENT"
+	MEMO_PARAM[3]["DESCRIPTION"] = "weapon表BUFF概率"
+	MEMO_PARAM[3]["real_idx"] = 3
+
+MEMO_PARAM["index"][4] = 4
+MEMO_PARAM[4] = {}
+	MEMO_PARAM[4]["ID"] = 4
+	MEMO_PARAM[4]["KEY"] = "#D#"
+	MEMO_PARAM[4]["PARAM"] = {}
+		MEMO_PARAM[4]["PARAM"][1] = 0
+		MEMO_PARAM[4]["PARAM"][2] = "BUFF_ROUND"
+	MEMO_PARAM[4]["DESCRIPTION"] = "weapon表BUFF持续时间"
+	MEMO_PARAM[4]["real_idx"] = 4
+
+
+MEMO_PARAM["len"] = 4
+
+return MEMO_PARAM

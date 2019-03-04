@@ -1,0 +1,51 @@
+local ROLE_CREATION = {}
+ROLE_CREATION["index"] = {}
+ROLE_CREATION["index"][1] = 1
+ROLE_CREATION[1] = {}
+	ROLE_CREATION[1]["ID"] = 1
+	ROLE_CREATION[1]["NAME_ID"] = "creation_1"
+	ROLE_CREATION[1]["RES_ID"] = 1
+	ROLE_CREATION[1]["ICON_ID"] = 101
+	ROLE_CREATION[1]["MEMO_ID"] = "memo_1"
+	ROLE_CREATION[1]["real_idx"] = 1
+
+ROLE_CREATION["index"][2] = 2
+ROLE_CREATION[2] = {}
+	ROLE_CREATION[2]["ID"] = 2
+	ROLE_CREATION[2]["NAME_ID"] = "creation_2"
+	ROLE_CREATION[2]["RES_ID"] = 2
+	ROLE_CREATION[2]["ICON_ID"] = 201
+	ROLE_CREATION[2]["MEMO_ID"] = "memo_2"
+	ROLE_CREATION[2]["real_idx"] = 2
+
+ROLE_CREATION["index"][3] = 3
+ROLE_CREATION[3] = {}
+	ROLE_CREATION[3]["ID"] = 3
+	ROLE_CREATION[3]["NAME_ID"] = "creation_3"
+	ROLE_CREATION[3]["RES_ID"] = 3
+	ROLE_CREATION[3]["ICON_ID"] = 301
+	ROLE_CREATION[3]["MEMO_ID"] = "memo_3"
+	ROLE_CREATION[3]["real_idx"] = 3
+
+ROLE_CREATION["index"][4] = 4
+ROLE_CREATION[4] = {}
+	ROLE_CREATION[4]["ID"] = 4
+	ROLE_CREATION[4]["NAME_ID"] = "creation_4"
+	ROLE_CREATION[4]["RES_ID"] = 4
+	ROLE_CREATION[4]["ICON_ID"] = 401
+	ROLE_CREATION[4]["MEMO_ID"] = "memo_4"
+	ROLE_CREATION[4]["real_idx"] = 4
+
+ROLE_CREATION["index"][5] = 5
+ROLE_CREATION[5] = {}
+	ROLE_CREATION[5]["ID"] = 5
+	ROLE_CREATION[5]["NAME_ID"] = "creation_5"
+	ROLE_CREATION[5]["RES_ID"] = 5
+	ROLE_CREATION[5]["ICON_ID"] = 501
+	ROLE_CREATION[5]["MEMO_ID"] = "memo_5"
+	ROLE_CREATION[5]["real_idx"] = 5
+
+
+ROLE_CREATION["len"] = 5
+
+return ROLE_CREATION

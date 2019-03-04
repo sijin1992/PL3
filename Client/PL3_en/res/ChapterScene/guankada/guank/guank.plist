@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>ChapterScene/guankada/guank/1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,287},{284,272}}</string>
+				<key>offset</key>
+				<string>{-2,7}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{294,294}</string>
+			</dict>
+			<key>ChapterScene/guankada/guank/3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{149,571},{50,50}}</string>
+				<key>offset</key>
+				<string>{1,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,51}</string>
+			</dict>
+			<key>ChapterScene/guankada/guank/4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,571},{149,157}}</string>
+				<key>offset</key>
+				<string>{0,-6}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{155,187}</string>
+			</dict>
+			<key>ChapterScene/guankada/guank/6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{277,287}}</string>
+				<key>offset</key>
+				<string>{1,7}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,308}</string>
+			</dict>
+			<key>ChapterScene/guankada/guank/7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,728},{402,42}}</string>
+				<key>offset</key>
+				<string>{-64,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{543,47}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>guank.png</string>
+			<key>realTextureFileName</key>
+			<string>guank.png</string>
+			<key>size</key>
+			<string>{402,770}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>402</integer>
+			<key>height</key>
+			<integer>770</integer>
+		</dict>
+	</dict>
+</plist>

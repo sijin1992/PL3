@@ -1,0 +1,112 @@
+热更相关问题20180606
+外网120.78.149.226
+内网192.168.1.67
+1、服务器上获取版本号的代码在哪里
+	F:\StarClient\src\app\views\UpdateScene.lua(156)				function UpdateScene:checkUpdate()          
+																		local server_version = cc.UserDefault:getInstance():getStringForKey("server_version")
+2、如何不通过服务器，在代码中写死服务器端的版本号
+	例如在上面的代码下面新增代码：
+		server_version = "1.0.5"    （写死有风险，调试需谨慎！）
+3、设置获取热更资源URL目录的路径的代码在哪里
+	F:\StarClient\src\app\views\UpdateScene.lua（133）  		local packageUrl = g_update_server_url..g_big_version.."/"..need_version.."/cocos2dx-update-temp-package.zip"
+4、如何在自己电脑上架设FTP
+	具体请参考本地win32实现热更步骤的World文档！！！
+5、如何将正式版的热更资源URL目录 替换成自己电脑上的
+	F:\StarClient\src\app\views\UpdateScene.lua（133）			local packageUrl = g_update_server_url..g_big_version.."/"..need_version.."/cocos2dx-update-temp-package.zip"     (http://192.168.1.222:9096/update_package/0/5/cocos2dx-update-temp-package.zip)
+																local versionFileUrl = g_update_server_url..g_big_version.."/"..need_version.."/version.txt"	
+	将上面2个路径改成本地替换的URL
+6、版本号是从哪个配置文件读取的
+	F:\StarClient\simulator\win32\UserDefault.xml
+7、版本号字符串的拆分规则是什么
+	F:\StarClient\src\app\views\UpdateScene.lua（177）			local client_version_list = Tools.split(client_version, ".") 将版本字符串中的“.”号删除，储存在一个table里
+8、什么情况下，客户端会判断需不需要从热更资源服务器下载
+	以版本号1.0.4为例，第2个数是大版本号，如果服务器的大版本号大于客户端，则让玩家去苹果或者谷歌商店的URL下载新的apk（客户端的大版本号存在是一个全局常量：g_big_version）
+					   第3个数是小版本号，如果客户端的小版本号小于服务器的小版本号，客户端判断为需要从热更资源服务器下载。
+9、从热更资源服务器下载的文件，被写入到哪个目录里了                
+	F:\StarClient\src\app\views\UpdateScene.lua(16)			local storagePath = FileUtils:getWritablePath() .. "update_file/"          (F:\StarClient\simulator\win32\update_file\)
+10、安卓上和Windows上的存放路径不一样，安卓上是如何存放下载的资源的
+	F:\StarClient\frameworks\cocos2d-x\cocos\platform\android\CCFileUtils-android.cpp									  getWritablePath()	   (调用java)
+	F:\StarClient\frameworks\cocos2d-x\cocos\platform\android\java\src\org\cocos2dx\lib\Cocos2dxHelper.java               public static String getCocos2dxWritablePath() { return Cocos2dxHelper.sFileDirectory;}
+	F:\StarClient\frameworks\cocos2d-x\cocos\platform\android\java\src\org\cocos2dx\lib\Cocos2dxHelper.java               Cocos2dxHelper.sFileDirectory = activity.getFilesDir().getAbsolutePath();			（ getFilesDir用于获取/data/data/<application package>/files目录，getAbsolutePath 转为绝对路径 ）
+	默认安卓的下载目录为(/data/data/<application package>/files/update_file/)
+11、热更的zip文件是如何生成的
+	具体请参考本地win32实现热更步骤的World文档！！！
+12、如何只生成体积较小的差异zip文件
+	
+13、客户端代码中，版本比对、下载zip、解压，这些循环的大体流程是什么
+	①版本比对：    F:\StarClient\src\app\views\UpdateScene.lua(292)		if self:checkUpdate() then																	UpdateScene:checkUpdate
+																				if self:getAssetsManager(true):checkUpdate() then										UpdateScene:getAssetsManager(init)
+																					self:getAssetsManager():update()													AssetsManager::checkUpdate
+																				end																						AssetsManager::update
+																			else
+																				self:startPreload()
+																			end
+					F:\StarClient\src\app\views\UpdateScene.lua(156)		function UpdateScene:checkUpdate()
+																				if tonumber(server_version_list[2]) > g_big_version then
+																				if tonumber(client_version_list[3]) >= tonumber(server_version_list[3]) then
+																				
+					F:\StarClient\frameworks\cocos2d-x\extensions\assets-manager\AssetsManager.cpp(195)			bool AssetsManager::checkUpdate()		
+																												_downloader->createDownloadDataTask(_versionFileUrl);
+					F:\StarClient\frameworks\cocos2d-x\cocos\network\CCDownloader.cpp(131)						std::shared_ptr<const DownloadTask> Downloader::createDownloadDataTask(const std::string& srcUrl, const std::string& identifier/* = ""*/)
+					F:\StarClient\frameworks\cocos2d-x\extensions\assets-manager\AssetsManager.cpp(105)			_downloader->onDataTaskSuccess = [this](const DownloadTask& task,std::vector<unsigned char>& data)
+																				
+	②下载zip:	判断是否下载完包:F:\StarClient\frameworks\cocos2d-x\extensions\assets-manager\AssetsManager.cpp(139)	_downloadedVersion = UserDefault::getInstance()->getStringForKey(keyOfDownloadedVersion().c_str());
+																															if (_downloadedVersion == _version)
+					F:\StarClient\frameworks\cocos2d-x\extensions\assets-manager\AssetsManager.cpp(148)			_downloader->createDownloadFileTask(_packageUrl, outFileName);
+	③解压zip:		F:\StarClient\frameworks\cocos2d-x\extensions\assets-manager\AssetsManager.cpp(152)			_downloader->onFileTaskSuccess = [this](const DownloadTask& task)
+																													downloadAndUncompress();
+																														if (! uncompress())
+					F:\StarClient\frameworks\cocos2d-x\extensions\assets-manager\AssetsManager.cpp(260)			bool AssetsManager::uncompress()
+14、下载的zip文件和解压后的文件，分别存放在哪些路径
+	下载的zip文件会自动删除
+		F:\StarClient_zuoan\frameworks\cocos2d-x\extensions\assets-manager\AssetsManager.cpp(236)				// Delete unloaded zip file.
+	解压后的文件放在update_file文件夹下
+15、当安卓包中已经包含了资源文件时，判断从安卓包里读取，还是从服务器下载zip，相关的代码在哪里
+	因为设置了读文件的优先级，所以会先从设置的路径读取文件，没有再读根目录。
+	F:\StarClient\src\app\views\UpdateScene.lua(197)									cc.FileUtils:getInstance():addSearchPath(storagePath.."src/", true)
+																						cc.FileUtils:getInstance():addSearchPath(storagePath.."res/", true)
+16、游戏运行时，需要的资源，是通过什么代码读取的，从哪个路径读取的文件
+	
+17、运行时，读取的热更资源文件被缓存到哪个数据结构中了
+	
+18、版本号的规则是什么，每个数字在代码中是起到什么作用
+	参考第8个问题，第1个数字作用尚不清楚
+19、如果需要重新下载安装包，应该如何设置版本号
+	参考第8个问题，将客户端版本号的第2个数字设为比服务器的小
+20、冷更新（重新下载安装包）相关的代码在哪里，是否有弹窗提示重新下载的代码
+	有弹窗提示
+	代码在 checkUpdate()方法中 if device.platform == "ios" then	GameHandler.handler_c.openUrl(g_apple_store_url)
+21、zip压缩 解压缩用了哪个第三方库，在电脑上应该用什么软件去压缩，怎样选择压缩算法
+	用的是cocos 自带AssetsManager类的解压缩方法
+22、为什么现在是要逐个版本循环升级，而不能跳过中间的版本，直接更到最新的版本号
+	那个版本更新逻辑是逐级循环更新，比如1.0.0的客户端，发现服务器是1.0.3，会先从1.0.0升到1.0.1，解压后再从1.0.1升1.0.2。
+	因为更新是比较版本号，而不是比较md5，下载所有缺少的文件
+23、热更的lua脚本存放在哪个路径了
+	
+24、源码中读取JSON或XML的第三方库是哪个
+	
+25、加载进度条的算法是什么，是假的进度条，还是真的计算了
+	
+	F:\StarClient\frameworks\cocos2d-x\extensions\assets-manager\AssetsManager.cpp										        int percent = totalBytesExpected ? int(totalBytesReceived * 100 / totalBytesExpected) : 0;
+	F:\StarClient\frameworks\cocos2d-x\extensions\assets-manager\AssetsManager.cpp												_delegate->onProgress(percent);
+	F:\StarClient\src\app\views\UpdateScene.lua																					local function onProgress( percent )
+26、热更进度条如果中途退出，下次再启动游戏，会不会出现版本错误
+	
+27、判断一个版本完全更新完成的条件是什么，代码在哪里
+	
+28、zip包中包含了哪些安卓版不需要的文件（win版、mac版资源）
+	
+29、如果热更出错了，一键修复的代码在哪里
+	
+30、运行时，加密后的lua脚本，是通过什么方式解码的
+
+31、运行时，加密后的资源，是通过什么方式解码的
+
+32、如果脚本和资源不加密，代码里是否能判断，并且正确的读取
+
+33、热更zip应该包含哪些文件
+	应该包含新版本的res、src文件
+34、如果只改了1个lua脚本，最便捷的热更方式是什么
+	
+35、怎么设置冷更新下载地址。
+	F:\StarClient\src\Common.lua

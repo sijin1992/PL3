@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/external/Box2D/Dynamics/Joints/b2Joint.cpp \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Joints/b2Joint.h \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/build/../external/Box2D/Common/b2Math.h \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/build/../external/Box2D/Common/b2Settings.h \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Joints/b2DistanceJoint.h \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Joints/b2WheelJoint.h \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Joints/b2MouseJoint.h \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Joints/b2RevoluteJoint.h \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Joints/b2PrismaticJoint.h \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Joints/b2PulleyJoint.h \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Joints/b2GearJoint.h \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Joints/b2WeldJoint.h \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Joints/b2FrictionJoint.h \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Joints/b2RopeJoint.h \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Joints/b2MotorJoint.h \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/b2Body.h \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/build/../external/Box2D/Collision/Shapes/b2Shape.h \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/build/../external/Box2D/Common/b2BlockAllocator.h \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/build/../external/Box2D/Collision/b2Collision.h \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/b2World.h \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/build/../external/Box2D/Common/b2StackAllocator.h \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/b2ContactManager.h \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/build/../external/Box2D/Collision/b2BroadPhase.h \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/build/../external/Box2D/Collision/b2DynamicTree.h \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/build/../external/Box2D/Common/b2GrowableStack.h \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/b2WorldCallbacks.h \
+  /Users/hankai/Documents/CocosProjects/Star/StarClient/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/b2TimeStep.h

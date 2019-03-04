@@ -1,0 +1,25 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="attack101" Type="Plist" ID="d110175f-d844-4a1a-8518-dc8defaa2d4c" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="sfx/weapon/attack101/attack101/20001.png" />
+      <FilePathData Path="sfx/weapon/attack101/attack101/20002.png" />
+      <FilePathData Path="sfx/weapon/attack101/attack101/20003.png" />
+      <FilePathData Path="sfx/weapon/attack101/attack101/20004.png" />
+      <FilePathData Path="sfx/weapon/attack101/attack101/20005.png" />
+      <FilePathData Path="sfx/weapon/attack101/attack101/20006.png" />
+      <FilePathData Path="sfx/weapon/attack101/attack101/20007.png" />
+      <FilePathData Path="sfx/weapon/attack101/attack101/20008.png" />
+      <FilePathData Path="sfx/weapon/attack101/attack101/20009.png" />
+      <FilePathData Path="sfx/weapon/attack101/attack101/20010.png" />
+      <FilePathData Path="sfx/weapon/attack101/attack101/20011.png" />
+      <FilePathData Path="sfx/weapon/attack101/attack101/20012.png" />
+      <FilePathData Path="sfx/weapon/attack101/attack101/20013.png" />
+      <FilePathData Path="sfx/weapon/attack101/attack101/20014.png" />
+      <FilePathData Path="sfx/weapon/attack101/attack101/20015.png" />
+      <FilePathData Path="sfx/weapon/attack101/attack101/20016.png" />
+      <FilePathData Path="sfx/weapon/attack101/attack101/20017.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

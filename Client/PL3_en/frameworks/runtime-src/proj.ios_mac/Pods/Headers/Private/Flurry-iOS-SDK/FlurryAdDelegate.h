@@ -1,0 +1,1 @@
+link ../../../Flurry-iOS-SDK/FlurryAds/StaticAPI/FlurryAdDelegate.h

@@ -1,0 +1,7 @@
+rd /s /q "..\frameworks\runtime-src\proj.android-studio\.gradle"
+rd /s /q "..\frameworks\runtime-src\proj.android-studio\build"
+rd /s /q "..\frameworks\runtime-src\proj.android-studio\app\build"
+rd /s /q "..\frameworks\runtime-src\proj.android-studio\adjust\build"
+rd /s /q "..\frameworks\cocos2d-x\cocos\platform\android\libcocos2dx\build"
+rd /s /q "..\frameworks\runtime-src\proj.android-studio\app\assets"
+rd /s /q "..\frameworks\runtime-src\proj.android-studio\app\obj"

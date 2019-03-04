@@ -1,0 +1,94 @@
+
+
+import "Item.proto";
+import "Home.proto";
+import "UserSync.proto";
+
+//获取家园状态
+message GetHomeSatusReq
+{
+	required int32 home_type = 1;
+};
+
+message GetHomeSatusResp
+{
+	required int32 result 			  = 1;	// 0:成功 1:失败 2:未开启
+	optional UserSync user_sync		  = 2;	//同步
+};
+
+//采集资源
+message GetResourceReq
+{
+	required int32 land_index = 1;			//土地编号
+};
+
+message GetResourceResp
+{
+	required int32 result 			  = 1;	// 0:成功 1:失败
+	optional UserSync user_sync		  = 2;	//同步
+	optional int32 land_index		  = 3;	//土地编号
+	optional int32 resource_type 	  	  = 4;	//资源类型id
+	optional int32 resource_num		  = 5;  //资源数量
+};
+
+//升级资源田等级/建造资源田
+message UpgradeResLandReq
+{
+	required int32 land_index 		  = 1;	//土地编号
+	optional int32 resource_type 	  = 2;	//资源类型
+};
+
+message UpgradeResLandResp
+{
+	required int32 result 			  = 1;	// 0:成功 1:失败
+	optional UserSync user_sync		  = 2;	//同步
+	optional int32 land_index		  = 3;	//土地编号
+	optional int32 resource_type 	  = 4;	//资源类型id
+	optional int32 building_time 	  = 5;	//建造时间
+};
+
+//拆除资源田
+message RemoveResLandReq
+{
+	required int32 land_index 		  = 1;	//土地编号
+};
+
+message RemoveResLandResp
+{
+	required int32 result 			  = 1;	// 0:成功 1:失败
+	optional int32 building_time 	  = 2;	//拆除时间
+};
+
+//取消升级/建造资源田
+//取消拆除资源田
+message CancelResBuildingReq
+{
+	required int32 land_index 		  = 1;	//土地编号
+};
+
+message CancelResBuildingResp
+{
+	required int32 result 			  = 1;	// 0:成功 1:失败
+	optional UserSync user_sync		  = 2;	//同步，返还资源
+};
+
+//加速建造
+message SpeedUpBuildReq
+{
+	required int32 land_index 		  = 1;	//土地编号
+};
+
+message SpeedUpBuildResp
+{
+	required int32 result 			  = 1;	// 0:成功 1:失败
+	optional UserSync user_sync		  = 2;	//同步
+	optional int32 land_index 		  = 3;	//土地编号
+};
+
+
+//获取贸易中心资源
+
+message TradeGetMoneyResp{
+	required int32 result = 1;	
+	optional UserSync user_sync = 2;
+};

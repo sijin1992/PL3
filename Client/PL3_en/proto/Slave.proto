@@ -1,0 +1,64 @@
+
+message SlaveNoteInfo{
+	enum SlaveNoteType
+	{
+		WORK_ADD = 1;
+		WORK_SUB = 2;
+		FAWN_ON_ADD = 3;
+		FAWN_ON_SUB = 4;
+		ROB_SUCCESS = 5;
+		SAVE_SUCCESS = 6;
+		SHOW = 7;
+		BE_SHOW = 8;
+		WATCH = 9;
+		BE_ROB_SUCCESS = 10; 
+		BE_SAVE_SUCCESS = 11;
+		SLAVE_BE_SAVE_SUCCESS = 12;
+		SAVE_SELF_SUCCESS = 13;
+		FREE = 14;
+		BE_FREE = 15;
+		BE_CATCH = 16;
+	};
+	required SlaveNoteType type = 1;
+	required int32 text_index = 2;
+	repeated string param_list = 3;
+}
+
+message SlaveData{
+	required string user_name = 1;
+	required int32 state = 2;	//1:正常 2:示众
+	required int64 work_cd_start_time = 3;	//工作cd开始时间
+	required int64 fawn_on_cd_start_time = 4;	//讨好cd开始时间
+	required int64 help_cd_start_time = 5;	//求救CD开始时间
+	required int64 revolt_cd_start_time = 6;	//独立CD开始时间
+	required int64 slaved_start_time = 7;	//被奴役开始时间
+	required int64 show_start_time = 8;	//示众开始时间
+	required int64 get_res_start_time = 9;	//获取资源开始时间
+	required int32 show_watch_num = 10;	//被围观次数
+	required int32 get_slaves_times = 11;	//奴役次数
+	required int32 buy_get_slaves_times = 12;	//购买的奴役次数
+	required int32 get_save_times = 13;	//解救次数
+	required int32 buy_get_save_times = 14;	//购买的解救次数次数
+	optional string master = 15;
+	repeated string slave_list = 16;
+	repeated string enemy_list = 17;
+	repeated string help_list = 18;
+	repeated string watch_list = 19;
+	repeated SlaveNoteInfo note = 20;	//日记
+	repeated int64 res_pool = 21;	//1.金币 2.金属 3.晶体 4.气体
+	required int64 exp_pool = 22;
+	repeated int64 res_sub_cache = 23;
+}
+
+message SlaveBriefInfo{
+	required string user_name = 1;
+	required string nickname = 2;
+	required int32 icon_id = 3;
+	required int32 level = 4;
+	required int32 power = 5;
+	required int32 slave_count = 6;
+	required int32 state = 7;
+	optional string group_nickname = 8;
+	optional string master = 9;
+	optional string master_nickname = 10;
+}

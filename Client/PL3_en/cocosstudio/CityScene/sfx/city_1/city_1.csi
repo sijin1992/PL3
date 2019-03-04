@@ -1,0 +1,48 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="city_1" Type="Plist" ID="1abcb5c0-47c5-49f6-abc9-c02178bd4b5c" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="CityScene/sfx/city_1/city_1.png" />
+      <FilePathData Path="CityScene/sfx/city_1/hongdeng.png" />
+      <FilePathData Path="CityScene/sfx/city_1/huangdeng.png" />
+      <FilePathData Path="CityScene/sfx/city_1/landeng.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lanseguangyun.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuanrao_0001.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuanrao_0002.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuanrao_0003.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuanrao_0004.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuanrao_0005.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuanrao_0006.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_1_0002.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_1_0003.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_1_0004.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_1_0005.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_1_0006.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_1_0007.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_1_0008.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_1_0009.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_1_0010.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_1_0011.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_1_0012.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_1_0013.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_1_0014.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_1_0015.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_2_0001.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_2_0002.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_2_0003.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_2_0004.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_2_0005.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_2_0006.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_2_0007.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_2_0008.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_2_0009.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_2_0010.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_2_0011.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_2_0012.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_2_0013.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_2_0014.png" />
+      <FilePathData Path="CityScene/sfx/city_1/lansexuliedeng_2_0015.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

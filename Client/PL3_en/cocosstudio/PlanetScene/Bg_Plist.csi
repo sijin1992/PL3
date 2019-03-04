@@ -1,0 +1,17 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="Bg_Plist" Type="Plist" ID="d41394dd-4a51-44e1-a9c8-6c83f74510b0" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="PlanetScene/ui/bg_qiu_1.png" />
+      <FilePathData Path="PlanetScene/ui/bg_star_yun_2.png" />
+      <FilePathData Path="PlanetScene/ui/light_star.png" />
+      <FilePathData Path="PlanetScene/ui/bg_qiu_2.png" />
+      <FilePathData Path="PlanetScene/ui/bg_stone_1.png" />
+      <FilePathData Path="PlanetScene/ui/bg_stone_2.png" />
+      <FilePathData Path="PlanetScene/ui/bg_qiu_3.png" />
+      <FilePathData Path="PlanetScene/ui/bg_star_yun_1.png" />
+      <FilePathData Path="PlanetScene/ui/yun.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

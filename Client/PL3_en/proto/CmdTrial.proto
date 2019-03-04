@@ -1,0 +1,95 @@
+import "AirShip.proto";
+import "Item.proto";
+import "Trial.proto";
+import "UserSync.proto";
+
+message TrialAddTicketReq{
+	required int32 item_id = 1;
+	required int32 num = 2;
+}
+
+message TrialAddTicketResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	optional int32 ticket_num = 3;
+}
+
+message TrialGetTimesReq{
+	required int32 type = 1;
+}
+
+message TrialGetTimesResp{
+	required int32 result = 1;
+	required int32 ticket_num = 2; //星域剩余可挑战次数
+}
+
+
+message TrialAreaReq {
+	required int32 type = 1; //1:进入区域  2:重新布阵  3:关闭区域
+	required int32 area_id = 2;
+	repeated int32 lineup = 3; //阵容
+}
+
+message TrialAreaResp {
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+}
+
+message TrialGetRewardReq {
+	required int32 copy_id = 1;
+}
+
+message TrialGetRewardResp {
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	optional int32 copy_id = 3;
+}
+
+message TrialBuilding {
+	required string user_name = 1;//持有者name
+	repeated int32 lineup = 2;
+	repeated int32 id_lineup = 3;
+}
+
+message TrialGetBuildingInfoReq {
+	required int32 level_id = 1;
+}
+
+message TrialGetBuildingInfoResp {
+	required int32 result = 1;
+	optional int32 type = 2;
+	optional TrialBuilding building_info = 3;
+}
+
+
+
+message TrialPveStartReq {
+	required int32 type = 1; //1:开始 2：布阵信息
+	required int32 level_id = 2;
+	optional string target_name = 3;
+}
+
+message TrialPveStartResp {
+	required int32 result = 1;		
+	optional UserSync user_sync = 2;
+	repeated AirShip attack_list = 3;		//我方阵型,Weapon_list只包含weapon_id
+	repeated AirShip hurter_list = 4;		//对方阵型,Weapon_list只包含weapon_id
+	optional int32 level_id = 5;
+	repeated int32 hp_list = 6;                     //剩余血量
+	optional int32 type = 7;
+}
+
+message TrialPveEndReq {
+	required int32 level_id = 1;
+	required int32 result = 2;		//0,战斗失败,1,战斗胜利
+	required int32 star   = 3;		//战斗胜利评价【1~3星】
+	repeated int32 hp_list = 4;                     //剩余血量
+}
+
+message TrialPveEndResp {
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	optional int32 level_id = 3;
+	optional bool reward_flag = 4;	//true:获得了首杀奖励
+	repeated Pair get_item_list = 5;	//获得道具
+}

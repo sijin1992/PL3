@@ -1,0 +1,19104 @@
+local DIRTYWORD = {}
+DIRTYWORD["index"] = {}
+DIRTYWORD["index"][1] = 1
+DIRTYWORD[1] = {}
+	DIRTYWORD[1]["ID"] = 1
+	DIRTYWORD[1]["KEY"] = "毛泽东"
+	DIRTYWORD[1]["real_idx"] = 1
+
+DIRTYWORD["index"][2] = 2
+DIRTYWORD[2] = {}
+	DIRTYWORD[2]["ID"] = 2
+	DIRTYWORD[2]["KEY"] = "周恩来"
+	DIRTYWORD[2]["real_idx"] = 2
+
+DIRTYWORD["index"][3] = 3
+DIRTYWORD[3] = {}
+	DIRTYWORD[3]["ID"] = 3
+	DIRTYWORD[3]["KEY"] = "刘少奇"
+	DIRTYWORD[3]["real_idx"] = 3
+
+DIRTYWORD["index"][4] = 4
+DIRTYWORD[4] = {}
+	DIRTYWORD[4]["ID"] = 4
+	DIRTYWORD[4]["KEY"] = "朱德"
+	DIRTYWORD[4]["real_idx"] = 4
+
+DIRTYWORD["index"][5] = 5
+DIRTYWORD[5] = {}
+	DIRTYWORD[5]["ID"] = 5
+	DIRTYWORD[5]["KEY"] = "彭德怀"
+	DIRTYWORD[5]["real_idx"] = 5
+
+DIRTYWORD["index"][6] = 6
+DIRTYWORD[6] = {}
+	DIRTYWORD[6]["ID"] = 6
+	DIRTYWORD[6]["KEY"] = "林彪"
+	DIRTYWORD[6]["real_idx"] = 6
+
+DIRTYWORD["index"][7] = 7
+DIRTYWORD[7] = {}
+	DIRTYWORD[7]["ID"] = 7
+	DIRTYWORD[7]["KEY"] = "刘伯承"
+	DIRTYWORD[7]["real_idx"] = 7
+
+DIRTYWORD["index"][8] = 8
+DIRTYWORD[8] = {}
+	DIRTYWORD[8]["ID"] = 8
+	DIRTYWORD[8]["KEY"] = "陈毅"
+	DIRTYWORD[8]["real_idx"] = 8
+
+DIRTYWORD["index"][9] = 9
+DIRTYWORD[9] = {}
+	DIRTYWORD[9]["ID"] = 9
+	DIRTYWORD[9]["KEY"] = "贺龙"
+	DIRTYWORD[9]["real_idx"] = 9
+
+DIRTYWORD["index"][10] = 10
+DIRTYWORD[10] = {}
+	DIRTYWORD[10]["ID"] = 10
+	DIRTYWORD[10]["KEY"] = "聂荣臻"
+	DIRTYWORD[10]["real_idx"] = 10
+
+DIRTYWORD["index"][11] = 11
+DIRTYWORD[11] = {}
+	DIRTYWORD[11]["ID"] = 11
+	DIRTYWORD[11]["KEY"] = "徐向前"
+	DIRTYWORD[11]["real_idx"] = 11
+
+DIRTYWORD["index"][12] = 12
+DIRTYWORD[12] = {}
+	DIRTYWORD[12]["ID"] = 12
+	DIRTYWORD[12]["KEY"] = "罗荣桓"
+	DIRTYWORD[12]["real_idx"] = 12
+
+DIRTYWORD["index"][13] = 13
+DIRTYWORD[13] = {}
+	DIRTYWORD[13]["ID"] = 13
+	DIRTYWORD[13]["KEY"] = "叶剑英"
+	DIRTYWORD[13]["real_idx"] = 13
+
+DIRTYWORD["index"][14] = 14
+DIRTYWORD[14] = {}
+	DIRTYWORD[14]["ID"] = 14
+	DIRTYWORD[14]["KEY"] = "李大钊"
+	DIRTYWORD[14]["real_idx"] = 14
+
+DIRTYWORD["index"][15] = 15
+DIRTYWORD[15] = {}
+	DIRTYWORD[15]["ID"] = 15
+	DIRTYWORD[15]["KEY"] = "陈独秀"
+	DIRTYWORD[15]["real_idx"] = 15
+
+DIRTYWORD["index"][16] = 16
+DIRTYWORD[16] = {}
+	DIRTYWORD[16]["ID"] = 16
+	DIRTYWORD[16]["KEY"] = "孙中山"
+	DIRTYWORD[16]["real_idx"] = 16
+
+DIRTYWORD["index"][17] = 17
+DIRTYWORD[17] = {}
+	DIRTYWORD[17]["ID"] = 17
+	DIRTYWORD[17]["KEY"] = "孙文"
+	DIRTYWORD[17]["real_idx"] = 17
+
+DIRTYWORD["index"][18] = 18
+DIRTYWORD[18] = {}
+	DIRTYWORD[18]["ID"] = 18
+	DIRTYWORD[18]["KEY"] = "孙逸仙"
+	DIRTYWORD[18]["real_idx"] = 18
+
+DIRTYWORD["index"][19] = 19
+DIRTYWORD[19] = {}
+	DIRTYWORD[19]["ID"] = 19
+	DIRTYWORD[19]["KEY"] = "邓小平"
+	DIRTYWORD[19]["real_idx"] = 19
+
+DIRTYWORD["index"][20] = 20
+DIRTYWORD[20] = {}
+	DIRTYWORD[20]["ID"] = 20
+	DIRTYWORD[20]["KEY"] = "陈云"
+	DIRTYWORD[20]["real_idx"] = 20
+
+DIRTYWORD["index"][21] = 21
+DIRTYWORD[21] = {}
+	DIRTYWORD[21]["ID"] = 21
+	DIRTYWORD[21]["KEY"] = "江泽民"
+	DIRTYWORD[21]["real_idx"] = 21
+
+DIRTYWORD["index"][22] = 22
+DIRTYWORD[22] = {}
+	DIRTYWORD[22]["ID"] = 22
+	DIRTYWORD[22]["KEY"] = "李鹏"
+	DIRTYWORD[22]["real_idx"] = 22
+
+DIRTYWORD["index"][23] = 23
+DIRTYWORD[23] = {}
+	DIRTYWORD[23]["ID"] = 23
+	DIRTYWORD[23]["KEY"] = "朱镕基"
+	DIRTYWORD[23]["real_idx"] = 23
+
+DIRTYWORD["index"][24] = 24
+DIRTYWORD[24] = {}
+	DIRTYWORD[24]["ID"] = 24
+	DIRTYWORD[24]["KEY"] = "李瑞环"
+	DIRTYWORD[24]["real_idx"] = 24
+
+DIRTYWORD["index"][25] = 25
+DIRTYWORD[25] = {}
+	DIRTYWORD[25]["ID"] = 25
+	DIRTYWORD[25]["KEY"] = "尉健行"
+	DIRTYWORD[25]["real_idx"] = 25
+
+DIRTYWORD["index"][26] = 26
+DIRTYWORD[26] = {}
+	DIRTYWORD[26]["ID"] = 26
+	DIRTYWORD[26]["KEY"] = "李岚清"
+	DIRTYWORD[26]["real_idx"] = 26
+
+DIRTYWORD["index"][27] = 27
+DIRTYWORD[27] = {}
+	DIRTYWORD[27]["ID"] = 27
+	DIRTYWORD[27]["KEY"] = "胡锦涛"
+	DIRTYWORD[27]["real_idx"] = 27
+
+DIRTYWORD["index"][28] = 28
+DIRTYWORD[28] = {}
+	DIRTYWORD[28]["ID"] = 28
+	DIRTYWORD[28]["KEY"] = "罗干"
+	DIRTYWORD[28]["real_idx"] = 28
+
+DIRTYWORD["index"][29] = 29
+DIRTYWORD[29] = {}
+	DIRTYWORD[29]["ID"] = 29
+	DIRTYWORD[29]["KEY"] = "温家宝"
+	DIRTYWORD[29]["real_idx"] = 29
+
+DIRTYWORD["index"][30] = 30
+DIRTYWORD[30] = {}
+	DIRTYWORD[30]["ID"] = 30
+	DIRTYWORD[30]["KEY"] = "吴邦国"
+	DIRTYWORD[30]["real_idx"] = 30
+
+DIRTYWORD["index"][31] = 31
+DIRTYWORD[31] = {}
+	DIRTYWORD[31]["ID"] = 31
+	DIRTYWORD[31]["KEY"] = "曾庆红"
+	DIRTYWORD[31]["real_idx"] = 31
+
+DIRTYWORD["index"][32] = 32
+DIRTYWORD[32] = {}
+	DIRTYWORD[32]["ID"] = 32
+	DIRTYWORD[32]["KEY"] = "贾庆林"
+	DIRTYWORD[32]["real_idx"] = 32
+
+DIRTYWORD["index"][33] = 33
+DIRTYWORD[33] = {}
+	DIRTYWORD[33]["ID"] = 33
+	DIRTYWORD[33]["KEY"] = "黄菊"
+	DIRTYWORD[33]["real_idx"] = 33
+
+DIRTYWORD["index"][34] = 34
+DIRTYWORD[34] = {}
+	DIRTYWORD[34]["ID"] = 34
+	DIRTYWORD[34]["KEY"] = "吴官正"
+	DIRTYWORD[34]["real_idx"] = 34
+
+DIRTYWORD["index"][35] = 35
+DIRTYWORD[35] = {}
+	DIRTYWORD[35]["ID"] = 35
+	DIRTYWORD[35]["KEY"] = "李长春"
+	DIRTYWORD[35]["real_idx"] = 35
+
+DIRTYWORD["index"][36] = 36
+DIRTYWORD[36] = {}
+	DIRTYWORD[36]["ID"] = 36
+	DIRTYWORD[36]["KEY"] = "吴仪"
+	DIRTYWORD[36]["real_idx"] = 36
+
+DIRTYWORD["index"][37] = 37
+DIRTYWORD[37] = {}
+	DIRTYWORD[37]["ID"] = 37
+	DIRTYWORD[37]["KEY"] = "回良玉"
+	DIRTYWORD[37]["real_idx"] = 37
+
+DIRTYWORD["index"][38] = 38
+DIRTYWORD[38] = {}
+	DIRTYWORD[38]["ID"] = 38
+	DIRTYWORD[38]["KEY"] = "曾培炎"
+	DIRTYWORD[38]["real_idx"] = 38
+
+DIRTYWORD["index"][39] = 39
+DIRTYWORD[39] = {}
+	DIRTYWORD[39]["ID"] = 39
+	DIRTYWORD[39]["KEY"] = "周永康"
+	DIRTYWORD[39]["real_idx"] = 39
+
+DIRTYWORD["index"][40] = 40
+DIRTYWORD[40] = {}
+	DIRTYWORD[40]["ID"] = 40
+	DIRTYWORD[40]["KEY"] = "曹刚川"
+	DIRTYWORD[40]["real_idx"] = 40
+
+DIRTYWORD["index"][41] = 41
+DIRTYWORD[41] = {}
+	DIRTYWORD[41]["ID"] = 41
+	DIRTYWORD[41]["KEY"] = "唐家璇"
+	DIRTYWORD[41]["real_idx"] = 41
+
+DIRTYWORD["index"][42] = 42
+DIRTYWORD[42] = {}
+	DIRTYWORD[42]["ID"] = 42
+	DIRTYWORD[42]["KEY"] = "华建敏"
+	DIRTYWORD[42]["real_idx"] = 42
+
+DIRTYWORD["index"][43] = 43
+DIRTYWORD[43] = {}
+	DIRTYWORD[43]["ID"] = 43
+	DIRTYWORD[43]["KEY"] = "陈至立"
+	DIRTYWORD[43]["real_idx"] = 43
+
+DIRTYWORD["index"][44] = 44
+DIRTYWORD[44] = {}
+	DIRTYWORD[44]["ID"] = 44
+	DIRTYWORD[44]["KEY"] = "陈良宇"
+	DIRTYWORD[44]["real_idx"] = 44
+
+DIRTYWORD["index"][45] = 45
+DIRTYWORD[45] = {}
+	DIRTYWORD[45]["ID"] = 45
+	DIRTYWORD[45]["KEY"] = "张德江"
+	DIRTYWORD[45]["real_idx"] = 45
+
+DIRTYWORD["index"][46] = 46
+DIRTYWORD[46] = {}
+	DIRTYWORD[46]["ID"] = 46
+	DIRTYWORD[46]["KEY"] = "张立昌"
+	DIRTYWORD[46]["real_idx"] = 46
+
+DIRTYWORD["index"][47] = 47
+DIRTYWORD[47] = {}
+	DIRTYWORD[47]["ID"] = 47
+	DIRTYWORD[47]["KEY"] = "俞正声"
+	DIRTYWORD[47]["real_idx"] = 47
+
+DIRTYWORD["index"][48] = 48
+DIRTYWORD[48] = {}
+	DIRTYWORD[48]["ID"] = 48
+	DIRTYWORD[48]["KEY"] = "王乐泉"
+	DIRTYWORD[48]["real_idx"] = 48
+
+DIRTYWORD["index"][49] = 49
+DIRTYWORD[49] = {}
+	DIRTYWORD[49]["ID"] = 49
+	DIRTYWORD[49]["KEY"] = "刘云山"
+	DIRTYWORD[49]["real_idx"] = 49
+
+DIRTYWORD["index"][50] = 50
+DIRTYWORD[50] = {}
+	DIRTYWORD[50]["ID"] = 50
+	DIRTYWORD[50]["KEY"] = "王刚"
+	DIRTYWORD[50]["real_idx"] = 50
+
+DIRTYWORD["index"][51] = 51
+DIRTYWORD[51] = {}
+	DIRTYWORD[51]["ID"] = 51
+	DIRTYWORD[51]["KEY"] = "王兆国"
+	DIRTYWORD[51]["real_idx"] = 51
+
+DIRTYWORD["index"][52] = 52
+DIRTYWORD[52] = {}
+	DIRTYWORD[52]["ID"] = 52
+	DIRTYWORD[52]["KEY"] = "刘淇"
+	DIRTYWORD[52]["real_idx"] = 52
+
+DIRTYWORD["index"][53] = 53
+DIRTYWORD[53] = {}
+	DIRTYWORD[53]["ID"] = 53
+	DIRTYWORD[53]["KEY"] = "贺国强"
+	DIRTYWORD[53]["real_idx"] = 53
+
+DIRTYWORD["index"][54] = 54
+DIRTYWORD[54] = {}
+	DIRTYWORD[54]["ID"] = 54
+	DIRTYWORD[54]["KEY"] = "郭伯雄"
+	DIRTYWORD[54]["real_idx"] = 54
+
+DIRTYWORD["index"][55] = 55
+DIRTYWORD[55] = {}
+	DIRTYWORD[55]["ID"] = 55
+	DIRTYWORD[55]["KEY"] = "胡耀邦"
+	DIRTYWORD[55]["real_idx"] = 55
+
+DIRTYWORD["index"][56] = 56
+DIRTYWORD[56] = {}
+	DIRTYWORD[56]["ID"] = 56
+	DIRTYWORD[56]["KEY"] = "王乐泉"
+	DIRTYWORD[56]["real_idx"] = 56
+
+DIRTYWORD["index"][57] = 57
+DIRTYWORD[57] = {}
+	DIRTYWORD[57]["ID"] = 57
+	DIRTYWORD[57]["KEY"] = "王兆国"
+	DIRTYWORD[57]["real_idx"] = 57
+
+DIRTYWORD["index"][58] = 58
+DIRTYWORD[58] = {}
+	DIRTYWORD[58]["ID"] = 58
+	DIRTYWORD[58]["KEY"] = "周永康"
+	DIRTYWORD[58]["real_idx"] = 58
+
+DIRTYWORD["index"][59] = 59
+DIRTYWORD[59] = {}
+	DIRTYWORD[59]["ID"] = 59
+	DIRTYWORD[59]["KEY"] = "李登辉"
+	DIRTYWORD[59]["real_idx"] = 59
+
+DIRTYWORD["index"][60] = 60
+DIRTYWORD[60] = {}
+	DIRTYWORD[60]["ID"] = 60
+	DIRTYWORD[60]["KEY"] = "连战"
+	DIRTYWORD[60]["real_idx"] = 60
+
+DIRTYWORD["index"][61] = 61
+DIRTYWORD[61] = {}
+	DIRTYWORD[61]["ID"] = 61
+	DIRTYWORD[61]["KEY"] = "陈水扁"
+	DIRTYWORD[61]["real_idx"] = 61
+
+DIRTYWORD["index"][62] = 62
+DIRTYWORD[62] = {}
+	DIRTYWORD[62]["ID"] = 62
+	DIRTYWORD[62]["KEY"] = "宋楚瑜"
+	DIRTYWORD[62]["real_idx"] = 62
+
+DIRTYWORD["index"][63] = 63
+DIRTYWORD[63] = {}
+	DIRTYWORD[63]["ID"] = 63
+	DIRTYWORD[63]["KEY"] = "吕秀莲"
+	DIRTYWORD[63]["real_idx"] = 63
+
+DIRTYWORD["index"][64] = 64
+DIRTYWORD[64] = {}
+	DIRTYWORD[64]["ID"] = 64
+	DIRTYWORD[64]["KEY"] = "郁慕明"
+	DIRTYWORD[64]["real_idx"] = 64
+
+DIRTYWORD["index"][65] = 65
+DIRTYWORD[65] = {}
+	DIRTYWORD[65]["ID"] = 65
+	DIRTYWORD[65]["KEY"] = "蒋介石"
+	DIRTYWORD[65]["real_idx"] = 65
+
+DIRTYWORD["index"][66] = 66
+DIRTYWORD[66] = {}
+	DIRTYWORD[66]["ID"] = 66
+	DIRTYWORD[66]["KEY"] = "蒋中正"
+	DIRTYWORD[66]["real_idx"] = 66
+
+DIRTYWORD["index"][67] = 67
+DIRTYWORD[67] = {}
+	DIRTYWORD[67]["ID"] = 67
+	DIRTYWORD[67]["KEY"] = "蒋经国"
+	DIRTYWORD[67]["real_idx"] = 67
+
+DIRTYWORD["index"][68] = 68
+DIRTYWORD[68] = {}
+	DIRTYWORD[68]["ID"] = 68
+	DIRTYWORD[68]["KEY"] = "马英九"
+	DIRTYWORD[68]["real_idx"] = 68
+
+DIRTYWORD["index"][69] = 69
+DIRTYWORD[69] = {}
+	DIRTYWORD[69]["ID"] = 69
+	DIRTYWORD[69]["KEY"] = "习近平"
+	DIRTYWORD[69]["real_idx"] = 69
+
+DIRTYWORD["index"][70] = 70
+DIRTYWORD[70] = {}
+	DIRTYWORD[70]["ID"] = 70
+	DIRTYWORD[70]["KEY"] = "李克强"
+	DIRTYWORD[70]["real_idx"] = 70
+
+DIRTYWORD["index"][71] = 71
+DIRTYWORD[71] = {}
+	DIRTYWORD[71]["ID"] = 71
+	DIRTYWORD[71]["KEY"] = "吴帮国"
+	DIRTYWORD[71]["real_idx"] = 71
+
+DIRTYWORD["index"][72] = 72
+DIRTYWORD[72] = {}
+	DIRTYWORD[72]["ID"] = 72
+	DIRTYWORD[72]["KEY"] = "无帮国"
+	DIRTYWORD[72]["real_idx"] = 72
+
+DIRTYWORD["index"][73] = 73
+DIRTYWORD[73] = {}
+	DIRTYWORD[73]["ID"] = 73
+	DIRTYWORD[73]["KEY"] = "无邦国"
+	DIRTYWORD[73]["real_idx"] = 73
+
+DIRTYWORD["index"][74] = 74
+DIRTYWORD[74] = {}
+	DIRTYWORD[74]["ID"] = 74
+	DIRTYWORD[74]["KEY"] = "无帮过"
+	DIRTYWORD[74]["real_idx"] = 74
+
+DIRTYWORD["index"][75] = 75
+DIRTYWORD[75] = {}
+	DIRTYWORD[75]["ID"] = 75
+	DIRTYWORD[75]["KEY"] = "瘟家宝"
+	DIRTYWORD[75]["real_idx"] = 75
+
+DIRTYWORD["index"][76] = 76
+DIRTYWORD[76] = {}
+	DIRTYWORD[76]["ID"] = 76
+	DIRTYWORD[76]["KEY"] = "假庆林"
+	DIRTYWORD[76]["real_idx"] = 76
+
+DIRTYWORD["index"][77] = 77
+DIRTYWORD[77] = {}
+	DIRTYWORD[77]["ID"] = 77
+	DIRTYWORD[77]["KEY"] = "甲庆林"
+	DIRTYWORD[77]["real_idx"] = 77
+
+DIRTYWORD["index"][78] = 78
+DIRTYWORD[78] = {}
+	DIRTYWORD[78]["ID"] = 78
+	DIRTYWORD[78]["KEY"] = "假青林"
+	DIRTYWORD[78]["real_idx"] = 78
+
+DIRTYWORD["index"][79] = 79
+DIRTYWORD[79] = {}
+	DIRTYWORD[79]["ID"] = 79
+	DIRTYWORD[79]["KEY"] = "离长春"
+	DIRTYWORD[79]["real_idx"] = 79
+
+DIRTYWORD["index"][80] = 80
+DIRTYWORD[80] = {}
+	DIRTYWORD[80]["ID"] = 80
+	DIRTYWORD[80]["KEY"] = "习远平"
+	DIRTYWORD[80]["real_idx"] = 80
+
+DIRTYWORD["index"][81] = 81
+DIRTYWORD[81] = {}
+	DIRTYWORD[81]["ID"] = 81
+	DIRTYWORD[81]["KEY"] = "袭近平"
+	DIRTYWORD[81]["real_idx"] = 81
+
+DIRTYWORD["index"][82] = 82
+DIRTYWORD[82] = {}
+	DIRTYWORD[82]["ID"] = 82
+	DIRTYWORD[82]["KEY"] = "李磕墙"
+	DIRTYWORD[82]["real_idx"] = 82
+
+DIRTYWORD["index"][83] = 83
+DIRTYWORD[83] = {}
+	DIRTYWORD[83]["ID"] = 83
+	DIRTYWORD[83]["KEY"] = "贺过墙"
+	DIRTYWORD[83]["real_idx"] = 83
+
+DIRTYWORD["index"][84] = 84
+DIRTYWORD[84] = {}
+	DIRTYWORD[84]["ID"] = 84
+	DIRTYWORD[84]["KEY"] = "和锅枪"
+	DIRTYWORD[84]["real_idx"] = 84
+
+DIRTYWORD["index"][85] = 85
+DIRTYWORD[85] = {}
+	DIRTYWORD[85]["ID"] = 85
+	DIRTYWORD[85]["KEY"] = "粥永康"
+	DIRTYWORD[85]["real_idx"] = 85
+
+DIRTYWORD["index"][86] = 86
+DIRTYWORD[86] = {}
+	DIRTYWORD[86]["ID"] = 86
+	DIRTYWORD[86]["KEY"] = "轴永康"
+	DIRTYWORD[86]["real_idx"] = 86
+
+DIRTYWORD["index"][87] = 87
+DIRTYWORD[87] = {}
+	DIRTYWORD[87]["ID"] = 87
+	DIRTYWORD[87]["KEY"] = "肘永康"
+	DIRTYWORD[87]["real_idx"] = 87
+
+DIRTYWORD["index"][88] = 88
+DIRTYWORD[88] = {}
+	DIRTYWORD[88]["ID"] = 88
+	DIRTYWORD[88]["KEY"] = "周健康"
+	DIRTYWORD[88]["real_idx"] = 88
+
+DIRTYWORD["index"][89] = 89
+DIRTYWORD[89] = {}
+	DIRTYWORD[89]["ID"] = 89
+	DIRTYWORD[89]["KEY"] = "粥健康"
+	DIRTYWORD[89]["real_idx"] = 89
+
+DIRTYWORD["index"][90] = 90
+DIRTYWORD[90] = {}
+	DIRTYWORD[90]["ID"] = 90
+	DIRTYWORD[90]["KEY"] = "周小康"
+	DIRTYWORD[90]["real_idx"] = 90
+
+DIRTYWORD["index"][91] = 91
+DIRTYWORD[91] = {}
+	DIRTYWORD[91]["ID"] = 91
+	DIRTYWORD[91]["KEY"] = "布什"
+	DIRTYWORD[91]["real_idx"] = 91
+
+DIRTYWORD["index"][92] = 92
+DIRTYWORD[92] = {}
+	DIRTYWORD[92]["ID"] = 92
+	DIRTYWORD[92]["KEY"] = "布莱尔"
+	DIRTYWORD[92]["real_idx"] = 92
+
+DIRTYWORD["index"][93] = 93
+DIRTYWORD[93] = {}
+	DIRTYWORD[93]["ID"] = 93
+	DIRTYWORD[93]["KEY"] = "小泉"
+	DIRTYWORD[93]["real_idx"] = 93
+
+DIRTYWORD["index"][94] = 94
+DIRTYWORD[94] = {}
+	DIRTYWORD[94]["ID"] = 94
+	DIRTYWORD[94]["KEY"] = "纯一郎"
+	DIRTYWORD[94]["real_idx"] = 94
+
+DIRTYWORD["index"][95] = 95
+DIRTYWORD[95] = {}
+	DIRTYWORD[95]["ID"] = 95
+	DIRTYWORD[95]["KEY"] = "萨马兰奇"
+	DIRTYWORD[95]["real_idx"] = 95
+
+DIRTYWORD["index"][96] = 96
+DIRTYWORD[96] = {}
+	DIRTYWORD[96]["ID"] = 96
+	DIRTYWORD[96]["KEY"] = "安南"
+	DIRTYWORD[96]["real_idx"] = 96
+
+DIRTYWORD["index"][97] = 97
+DIRTYWORD[97] = {}
+	DIRTYWORD[97]["ID"] = 97
+	DIRTYWORD[97]["KEY"] = "阿拉法特"
+	DIRTYWORD[97]["real_idx"] = 97
+
+DIRTYWORD["index"][98] = 98
+DIRTYWORD[98] = {}
+	DIRTYWORD[98]["ID"] = 98
+	DIRTYWORD[98]["KEY"] = "普京"
+	DIRTYWORD[98]["real_idx"] = 98
+
+DIRTYWORD["index"][99] = 99
+DIRTYWORD[99] = {}
+	DIRTYWORD[99]["ID"] = 99
+	DIRTYWORD[99]["KEY"] = "默克尔"
+	DIRTYWORD[99]["real_idx"] = 99
+
+DIRTYWORD["index"][100] = 100
+DIRTYWORD[100] = {}
+	DIRTYWORD[100]["ID"] = 100
+	DIRTYWORD[100]["KEY"] = "克林顿"
+	DIRTYWORD[100]["real_idx"] = 100
+
+DIRTYWORD["index"][101] = 101
+DIRTYWORD[101] = {}
+	DIRTYWORD[101]["ID"] = 101
+	DIRTYWORD[101]["KEY"] = "里根"
+	DIRTYWORD[101]["real_idx"] = 101
+
+DIRTYWORD["index"][102] = 102
+DIRTYWORD[102] = {}
+	DIRTYWORD[102]["ID"] = 102
+	DIRTYWORD[102]["KEY"] = "尼克松"
+	DIRTYWORD[102]["real_idx"] = 102
+
+DIRTYWORD["index"][103] = 103
+DIRTYWORD[103] = {}
+	DIRTYWORD[103]["ID"] = 103
+	DIRTYWORD[103]["KEY"] = "林肯"
+	DIRTYWORD[103]["real_idx"] = 103
+
+DIRTYWORD["index"][104] = 104
+DIRTYWORD[104] = {}
+	DIRTYWORD[104]["ID"] = 104
+	DIRTYWORD[104]["KEY"] = "杜鲁门"
+	DIRTYWORD[104]["real_idx"] = 104
+
+DIRTYWORD["index"][105] = 105
+DIRTYWORD[105] = {}
+	DIRTYWORD[105]["ID"] = 105
+	DIRTYWORD[105]["KEY"] = "赫鲁晓夫"
+	DIRTYWORD[105]["real_idx"] = 105
+
+DIRTYWORD["index"][106] = 106
+DIRTYWORD[106] = {}
+	DIRTYWORD[106]["ID"] = 106
+	DIRTYWORD[106]["KEY"] = "列宁"
+	DIRTYWORD[106]["real_idx"] = 106
+
+DIRTYWORD["index"][107] = 107
+DIRTYWORD[107] = {}
+	DIRTYWORD[107]["ID"] = 107
+	DIRTYWORD[107]["KEY"] = "斯大林"
+	DIRTYWORD[107]["real_idx"] = 107
+
+DIRTYWORD["index"][108] = 108
+DIRTYWORD[108] = {}
+	DIRTYWORD[108]["ID"] = 108
+	DIRTYWORD[108]["KEY"] = "马克思"
+	DIRTYWORD[108]["real_idx"] = 108
+
+DIRTYWORD["index"][109] = 109
+DIRTYWORD[109] = {}
+	DIRTYWORD[109]["ID"] = 109
+	DIRTYWORD[109]["KEY"] = "恩格斯"
+	DIRTYWORD[109]["real_idx"] = 109
+
+DIRTYWORD["index"][110] = 110
+DIRTYWORD[110] = {}
+	DIRTYWORD[110]["ID"] = 110
+	DIRTYWORD[110]["KEY"] = "金正日"
+	DIRTYWORD[110]["real_idx"] = 110
+
+DIRTYWORD["index"][111] = 111
+DIRTYWORD[111] = {}
+	DIRTYWORD[111]["ID"] = 111
+	DIRTYWORD[111]["KEY"] = "金日成"
+	DIRTYWORD[111]["real_idx"] = 111
+
+DIRTYWORD["index"][112] = 112
+DIRTYWORD[112] = {}
+	DIRTYWORD[112]["ID"] = 112
+	DIRTYWORD[112]["KEY"] = "萨达姆"
+	DIRTYWORD[112]["real_idx"] = 112
+
+DIRTYWORD["index"][113] = 113
+DIRTYWORD[113] = {}
+	DIRTYWORD[113]["ID"] = 113
+	DIRTYWORD[113]["KEY"] = "胡志明"
+	DIRTYWORD[113]["real_idx"] = 113
+
+DIRTYWORD["index"][114] = 114
+DIRTYWORD[114] = {}
+	DIRTYWORD[114]["ID"] = 114
+	DIRTYWORD[114]["KEY"] = "西哈努克"
+	DIRTYWORD[114]["real_idx"] = 114
+
+DIRTYWORD["index"][115] = 115
+DIRTYWORD[115] = {}
+	DIRTYWORD[115]["ID"] = 115
+	DIRTYWORD[115]["KEY"] = "希拉克"
+	DIRTYWORD[115]["real_idx"] = 115
+
+DIRTYWORD["index"][116] = 116
+DIRTYWORD[116] = {}
+	DIRTYWORD[116]["ID"] = 116
+	DIRTYWORD[116]["KEY"] = "撒切尔"
+	DIRTYWORD[116]["real_idx"] = 116
+
+DIRTYWORD["index"][117] = 117
+DIRTYWORD[117] = {}
+	DIRTYWORD[117]["ID"] = 117
+	DIRTYWORD[117]["KEY"] = "阿罗约"
+	DIRTYWORD[117]["real_idx"] = 117
+
+DIRTYWORD["index"][118] = 118
+DIRTYWORD[118] = {}
+	DIRTYWORD[118]["ID"] = 118
+	DIRTYWORD[118]["KEY"] = "曼德拉"
+	DIRTYWORD[118]["real_idx"] = 118
+
+DIRTYWORD["index"][119] = 119
+DIRTYWORD[119] = {}
+	DIRTYWORD[119]["ID"] = 119
+	DIRTYWORD[119]["KEY"] = "卡斯特罗"
+	DIRTYWORD[119]["real_idx"] = 119
+
+DIRTYWORD["index"][120] = 120
+DIRTYWORD[120] = {}
+	DIRTYWORD[120]["ID"] = 120
+	DIRTYWORD[120]["KEY"] = "富兰克林"
+	DIRTYWORD[120]["real_idx"] = 120
+
+DIRTYWORD["index"][121] = 121
+DIRTYWORD[121] = {}
+	DIRTYWORD[121]["ID"] = 121
+	DIRTYWORD[121]["KEY"] = "华盛顿"
+	DIRTYWORD[121]["real_idx"] = 121
+
+DIRTYWORD["index"][122] = 122
+DIRTYWORD[122] = {}
+	DIRTYWORD[122]["ID"] = 122
+	DIRTYWORD[122]["KEY"] = "艾森豪威尔"
+	DIRTYWORD[122]["real_idx"] = 122
+
+DIRTYWORD["index"][123] = 123
+DIRTYWORD[123] = {}
+	DIRTYWORD[123]["ID"] = 123
+	DIRTYWORD[123]["KEY"] = "拿破仑"
+	DIRTYWORD[123]["real_idx"] = 123
+
+DIRTYWORD["index"][124] = 124
+DIRTYWORD[124] = {}
+	DIRTYWORD[124]["ID"] = 124
+	DIRTYWORD[124]["KEY"] = "亚历山大"
+	DIRTYWORD[124]["real_idx"] = 124
+
+DIRTYWORD["index"][125] = 125
+DIRTYWORD[125] = {}
+	DIRTYWORD[125]["ID"] = 125
+	DIRTYWORD[125]["KEY"] = "路易"
+	DIRTYWORD[125]["real_idx"] = 125
+
+DIRTYWORD["index"][126] = 126
+DIRTYWORD[126] = {}
+	DIRTYWORD[126]["ID"] = 126
+	DIRTYWORD[126]["KEY"] = "拉姆斯菲尔德"
+	DIRTYWORD[126]["real_idx"] = 126
+
+DIRTYWORD["index"][127] = 127
+DIRTYWORD[127] = {}
+	DIRTYWORD[127]["ID"] = 127
+	DIRTYWORD[127]["KEY"] = "劳拉"
+	DIRTYWORD[127]["real_idx"] = 127
+
+DIRTYWORD["index"][128] = 128
+DIRTYWORD[128] = {}
+	DIRTYWORD[128]["ID"] = 128
+	DIRTYWORD[128]["KEY"] = "鲍威尔"
+	DIRTYWORD[128]["real_idx"] = 128
+
+DIRTYWORD["index"][129] = 129
+DIRTYWORD[129] = {}
+	DIRTYWORD[129]["ID"] = 129
+	DIRTYWORD[129]["KEY"] = "奥巴马"
+	DIRTYWORD[129]["real_idx"] = 129
+
+DIRTYWORD["index"][130] = 130
+DIRTYWORD[130] = {}
+	DIRTYWORD[130]["ID"] = 130
+	DIRTYWORD[130]["KEY"] = "本拉登"
+	DIRTYWORD[130]["real_idx"] = 130
+
+DIRTYWORD["index"][131] = 131
+DIRTYWORD[131] = {}
+	DIRTYWORD[131]["ID"] = 131
+	DIRTYWORD[131]["KEY"] = "奥马尔"
+	DIRTYWORD[131]["real_idx"] = 131
+
+DIRTYWORD["index"][132] = 132
+DIRTYWORD[132] = {}
+	DIRTYWORD[132]["ID"] = 132
+	DIRTYWORD[132]["KEY"] = "柴玲"
+	DIRTYWORD[132]["real_idx"] = 132
+
+DIRTYWORD["index"][133] = 133
+DIRTYWORD[133] = {}
+	DIRTYWORD[133]["ID"] = 133
+	DIRTYWORD[133]["KEY"] = "达赖喇嘛"
+	DIRTYWORD[133]["real_idx"] = 133
+
+DIRTYWORD["index"][134] = 134
+DIRTYWORD[134] = {}
+	DIRTYWORD[134]["ID"] = 134
+	DIRTYWORD[134]["KEY"] = "江青"
+	DIRTYWORD[134]["real_idx"] = 134
+
+DIRTYWORD["index"][135] = 135
+DIRTYWORD[135] = {}
+	DIRTYWORD[135]["ID"] = 135
+	DIRTYWORD[135]["KEY"] = "张春桥"
+	DIRTYWORD[135]["real_idx"] = 135
+
+DIRTYWORD["index"][136] = 136
+DIRTYWORD[136] = {}
+	DIRTYWORD[136]["ID"] = 136
+	DIRTYWORD[136]["KEY"] = "姚文元"
+	DIRTYWORD[136]["real_idx"] = 136
+
+DIRTYWORD["index"][137] = 137
+DIRTYWORD[137] = {}
+	DIRTYWORD[137]["ID"] = 137
+	DIRTYWORD[137]["KEY"] = "王洪文"
+	DIRTYWORD[137]["real_idx"] = 137
+
+DIRTYWORD["index"][138] = 138
+DIRTYWORD[138] = {}
+	DIRTYWORD[138]["ID"] = 138
+	DIRTYWORD[138]["KEY"] = "东条英机"
+	DIRTYWORD[138]["real_idx"] = 138
+
+DIRTYWORD["index"][139] = 139
+DIRTYWORD[139] = {}
+	DIRTYWORD[139]["ID"] = 139
+	DIRTYWORD[139]["KEY"] = "希特勒"
+	DIRTYWORD[139]["real_idx"] = 139
+
+DIRTYWORD["index"][140] = 140
+DIRTYWORD[140] = {}
+	DIRTYWORD[140]["ID"] = 140
+	DIRTYWORD[140]["KEY"] = "墨索里尼"
+	DIRTYWORD[140]["real_idx"] = 140
+
+DIRTYWORD["index"][141] = 141
+DIRTYWORD[141] = {}
+	DIRTYWORD[141]["ID"] = 141
+	DIRTYWORD[141]["KEY"] = "冈村秀树"
+	DIRTYWORD[141]["real_idx"] = 141
+
+DIRTYWORD["index"][142] = 142
+DIRTYWORD[142] = {}
+	DIRTYWORD[142]["ID"] = 142
+	DIRTYWORD[142]["KEY"] = "冈村宁次"
+	DIRTYWORD[142]["real_idx"] = 142
+
+DIRTYWORD["index"][143] = 143
+DIRTYWORD[143] = {}
+	DIRTYWORD[143]["ID"] = 143
+	DIRTYWORD[143]["KEY"] = "高丽朴"
+	DIRTYWORD[143]["real_idx"] = 143
+
+DIRTYWORD["index"][144] = 144
+DIRTYWORD[144] = {}
+	DIRTYWORD[144]["ID"] = 144
+	DIRTYWORD[144]["KEY"] = "赵紫阳"
+	DIRTYWORD[144]["real_idx"] = 144
+
+DIRTYWORD["index"][145] = 145
+DIRTYWORD[145] = {}
+	DIRTYWORD[145]["ID"] = 145
+	DIRTYWORD[145]["KEY"] = "王丹"
+	DIRTYWORD[145]["real_idx"] = 145
+
+DIRTYWORD["index"][146] = 146
+DIRTYWORD[146] = {}
+	DIRTYWORD[146]["ID"] = 146
+	DIRTYWORD[146]["KEY"] = "沃尔开西"
+	DIRTYWORD[146]["real_idx"] = 146
+
+DIRTYWORD["index"][147] = 147
+DIRTYWORD[147] = {}
+	DIRTYWORD[147]["ID"] = 147
+	DIRTYWORD[147]["KEY"] = "李洪志"
+	DIRTYWORD[147]["real_idx"] = 147
+
+DIRTYWORD["index"][148] = 148
+DIRTYWORD[148] = {}
+	DIRTYWORD[148]["ID"] = 148
+	DIRTYWORD[148]["KEY"] = "李大师"
+	DIRTYWORD[148]["real_idx"] = 148
+
+DIRTYWORD["index"][149] = 149
+DIRTYWORD[149] = {}
+	DIRTYWORD[149]["ID"] = 149
+	DIRTYWORD[149]["KEY"] = "赖昌星"
+	DIRTYWORD[149]["real_idx"] = 149
+
+DIRTYWORD["index"][150] = 150
+DIRTYWORD[150] = {}
+	DIRTYWORD[150]["ID"] = 150
+	DIRTYWORD[150]["KEY"] = "马加爵"
+	DIRTYWORD[150]["real_idx"] = 150
+
+DIRTYWORD["index"][151] = 151
+DIRTYWORD[151] = {}
+	DIRTYWORD[151]["ID"] = 151
+	DIRTYWORD[151]["KEY"] = "班禅"
+	DIRTYWORD[151]["real_idx"] = 151
+
+DIRTYWORD["index"][152] = 152
+DIRTYWORD[152] = {}
+	DIRTYWORD[152]["ID"] = 152
+	DIRTYWORD[152]["KEY"] = "额尔德尼"
+	DIRTYWORD[152]["real_idx"] = 152
+
+DIRTYWORD["index"][153] = 153
+DIRTYWORD[153] = {}
+	DIRTYWORD[153]["ID"] = 153
+	DIRTYWORD[153]["KEY"] = "山本五十六"
+	DIRTYWORD[153]["real_idx"] = 153
+
+DIRTYWORD["index"][154] = 154
+DIRTYWORD[154] = {}
+	DIRTYWORD[154]["ID"] = 154
+	DIRTYWORD[154]["KEY"] = "阿扁"
+	DIRTYWORD[154]["real_idx"] = 154
+
+DIRTYWORD["index"][155] = 155
+DIRTYWORD[155] = {}
+	DIRTYWORD[155]["ID"] = 155
+	DIRTYWORD[155]["KEY"] = "阿扁万岁"
+	DIRTYWORD[155]["real_idx"] = 155
+
+DIRTYWORD["index"][156] = 156
+DIRTYWORD[156] = {}
+	DIRTYWORD[156]["ID"] = 156
+	DIRTYWORD[156]["KEY"] = "热那亚"
+	DIRTYWORD[156]["real_idx"] = 156
+
+DIRTYWORD["index"][157] = 157
+DIRTYWORD[157] = {}
+	DIRTYWORD[157]["ID"] = 157
+	DIRTYWORD[157]["KEY"] = "热比娅"
+	DIRTYWORD[157]["real_idx"] = 157
+
+DIRTYWORD["index"][158] = 158
+DIRTYWORD[158] = {}
+	DIRTYWORD[158]["ID"] = 158
+	DIRTYWORD[158]["KEY"] = "一边一国"
+	DIRTYWORD[158]["real_idx"] = 158
+
+DIRTYWORD["index"][159] = 159
+DIRTYWORD[159] = {}
+	DIRTYWORD[159]["ID"] = 159
+	DIRTYWORD[159]["KEY"] = "两国论"
+	DIRTYWORD[159]["real_idx"] = 159
+
+DIRTYWORD["index"][160] = 160
+DIRTYWORD[160] = {}
+	DIRTYWORD[160]["ID"] = 160
+	DIRTYWORD[160]["KEY"] = "分裂中国"
+	DIRTYWORD[160]["real_idx"] = 160
+
+DIRTYWORD["index"][161] = 161
+DIRTYWORD[161] = {}
+	DIRTYWORD[161]["ID"] = 161
+	DIRTYWORD[161]["KEY"] = "革命"
+	DIRTYWORD[161]["real_idx"] = 161
+
+DIRTYWORD["index"][162] = 162
+DIRTYWORD[162] = {}
+	DIRTYWORD[162]["ID"] = 162
+	DIRTYWORD[162]["KEY"] = "茉莉花"
+	DIRTYWORD[162]["real_idx"] = 162
+
+DIRTYWORD["index"][163] = 163
+DIRTYWORD[163] = {}
+	DIRTYWORD[163]["ID"] = 163
+	DIRTYWORD[163]["KEY"] = "突尼斯"
+	DIRTYWORD[163]["real_idx"] = 163
+
+DIRTYWORD["index"][164] = 164
+DIRTYWORD[164] = {}
+	DIRTYWORD[164]["ID"] = 164
+	DIRTYWORD[164]["KEY"] = "国内动态详情"
+	DIRTYWORD[164]["real_idx"] = 164
+
+DIRTYWORD["index"][165] = 165
+DIRTYWORD[165] = {}
+	DIRTYWORD[165]["ID"] = 165
+	DIRTYWORD[165]["KEY"] = "回回"
+	DIRTYWORD[165]["real_idx"] = 165
+
+DIRTYWORD["index"][166] = 166
+DIRTYWORD[166] = {}
+	DIRTYWORD[166]["ID"] = 166
+	DIRTYWORD[166]["KEY"] = "六四"
+	DIRTYWORD[166]["real_idx"] = 166
+
+DIRTYWORD["index"][167] = 167
+DIRTYWORD[167] = {}
+	DIRTYWORD[167]["ID"] = 167
+	DIRTYWORD[167]["KEY"] = "六四运动"
+	DIRTYWORD[167]["real_idx"] = 167
+
+DIRTYWORD["index"][168] = 168
+DIRTYWORD[168] = {}
+	DIRTYWORD[168]["ID"] = 168
+	DIRTYWORD[168]["KEY"] = "美国之音"
+	DIRTYWORD[168]["real_idx"] = 168
+
+DIRTYWORD["index"][169] = 169
+DIRTYWORD[169] = {}
+	DIRTYWORD[169]["ID"] = 169
+	DIRTYWORD[169]["KEY"] = "密宗"
+	DIRTYWORD[169]["real_idx"] = 169
+
+DIRTYWORD["index"][170] = 170
+DIRTYWORD[170] = {}
+	DIRTYWORD[170]["ID"] = 170
+	DIRTYWORD[170]["KEY"] = "民国"
+	DIRTYWORD[170]["real_idx"] = 170
+
+DIRTYWORD["index"][171] = 171
+DIRTYWORD[171] = {}
+	DIRTYWORD[171]["ID"] = 171
+	DIRTYWORD[171]["KEY"] = "民进党"
+	DIRTYWORD[171]["real_idx"] = 171
+
+DIRTYWORD["index"][172] = 172
+DIRTYWORD[172] = {}
+	DIRTYWORD[172]["ID"] = 172
+	DIRTYWORD[172]["KEY"] = "民运"
+	DIRTYWORD[172]["real_idx"] = 172
+
+DIRTYWORD["index"][173] = 173
+DIRTYWORD[173] = {}
+	DIRTYWORD[173]["ID"] = 173
+	DIRTYWORD[173]["KEY"] = "民主"
+	DIRTYWORD[173]["real_idx"] = 173
+
+DIRTYWORD["index"][174] = 174
+DIRTYWORD[174] = {}
+	DIRTYWORD[174]["ID"] = 174
+	DIRTYWORD[174]["KEY"] = "民主潮"
+	DIRTYWORD[174]["real_idx"] = 174
+
+DIRTYWORD["index"][175] = 175
+DIRTYWORD[175] = {}
+	DIRTYWORD[175]["ID"] = 175
+	DIRTYWORD[175]["KEY"] = "摩门教"
+	DIRTYWORD[175]["real_idx"] = 175
+
+DIRTYWORD["index"][176] = 176
+DIRTYWORD[176] = {}
+	DIRTYWORD[176]["ID"] = 176
+	DIRTYWORD[176]["KEY"] = "纳粹"
+	DIRTYWORD[176]["real_idx"] = 176
+
+DIRTYWORD["index"][177] = 177
+DIRTYWORD[177] = {}
+	DIRTYWORD[177]["ID"] = 177
+	DIRTYWORD[177]["KEY"] = "南华早报"
+	DIRTYWORD[177]["real_idx"] = 177
+
+DIRTYWORD["index"][178] = 178
+DIRTYWORD[178] = {}
+	DIRTYWORD[178]["ID"] = 178
+	DIRTYWORD[178]["KEY"] = "南蛮"
+	DIRTYWORD[178]["real_idx"] = 178
+
+DIRTYWORD["index"][179] = 179
+DIRTYWORD[179] = {}
+	DIRTYWORD[179]["ID"] = 179
+	DIRTYWORD[179]["KEY"] = "明慧网"
+	DIRTYWORD[179]["real_idx"] = 179
+
+DIRTYWORD["index"][180] = 180
+DIRTYWORD[180] = {}
+	DIRTYWORD[180]["ID"] = 180
+	DIRTYWORD[180]["KEY"] = "起义"
+	DIRTYWORD[180]["real_idx"] = 180
+
+DIRTYWORD["index"][181] = 181
+DIRTYWORD[181] = {}
+	DIRTYWORD[181]["ID"] = 181
+	DIRTYWORD[181]["KEY"] = "亲民党"
+	DIRTYWORD[181]["real_idx"] = 181
+
+DIRTYWORD["index"][182] = 182
+DIRTYWORD[182] = {}
+	DIRTYWORD[182]["ID"] = 182
+	DIRTYWORD[182]["KEY"] = "瘸腿帮"
+	DIRTYWORD[182]["real_idx"] = 182
+
+DIRTYWORD["index"][183] = 183
+DIRTYWORD[183] = {}
+	DIRTYWORD[183]["ID"] = 183
+	DIRTYWORD[183]["KEY"] = "人民报"
+	DIRTYWORD[183]["real_idx"] = 183
+
+DIRTYWORD["index"][184] = 184
+DIRTYWORD[184] = {}
+	DIRTYWORD[184]["ID"] = 184
+	DIRTYWORD[184]["KEY"] = "法轮功"
+	DIRTYWORD[184]["real_idx"] = 184
+
+DIRTYWORD["index"][185] = 185
+DIRTYWORD[185] = {}
+	DIRTYWORD[185]["ID"] = 185
+	DIRTYWORD[185]["KEY"] = "法轮大法"
+	DIRTYWORD[185]["real_idx"] = 185
+
+DIRTYWORD["index"][186] = 186
+DIRTYWORD[186] = {}
+	DIRTYWORD[186]["ID"] = 186
+	DIRTYWORD[186]["KEY"] = "打倒共产党"
+	DIRTYWORD[186]["real_idx"] = 186
+
+DIRTYWORD["index"][187] = 187
+DIRTYWORD[187] = {}
+	DIRTYWORD[187]["ID"] = 187
+	DIRTYWORD[187]["KEY"] = "台独万岁"
+	DIRTYWORD[187]["real_idx"] = 187
+
+DIRTYWORD["index"][188] = 188
+DIRTYWORD[188] = {}
+	DIRTYWORD[188]["ID"] = 188
+	DIRTYWORD[188]["KEY"] = "圣战"
+	DIRTYWORD[188]["real_idx"] = 188
+
+DIRTYWORD["index"][189] = 189
+DIRTYWORD[189] = {}
+	DIRTYWORD[189]["ID"] = 189
+	DIRTYWORD[189]["KEY"] = "示威"
+	DIRTYWORD[189]["real_idx"] = 189
+
+DIRTYWORD["index"][190] = 190
+DIRTYWORD[190] = {}
+	DIRTYWORD[190]["ID"] = 190
+	DIRTYWORD[190]["KEY"] = "台独"
+	DIRTYWORD[190]["real_idx"] = 190
+
+DIRTYWORD["index"][191] = 191
+DIRTYWORD[191] = {}
+	DIRTYWORD[191]["ID"] = 191
+	DIRTYWORD[191]["KEY"] = "台独分子"
+	DIRTYWORD[191]["real_idx"] = 191
+
+DIRTYWORD["index"][192] = 192
+DIRTYWORD[192] = {}
+	DIRTYWORD[192]["ID"] = 192
+	DIRTYWORD[192]["KEY"] = "台联"
+	DIRTYWORD[192]["real_idx"] = 192
+
+DIRTYWORD["index"][193] = 193
+DIRTYWORD[193] = {}
+	DIRTYWORD[193]["ID"] = 193
+	DIRTYWORD[193]["KEY"] = "台湾民国"
+	DIRTYWORD[193]["real_idx"] = 193
+
+DIRTYWORD["index"][194] = 194
+DIRTYWORD[194] = {}
+	DIRTYWORD[194]["ID"] = 194
+	DIRTYWORD[194]["KEY"] = "台湾岛国"
+	DIRTYWORD[194]["real_idx"] = 194
+
+DIRTYWORD["index"][195] = 195
+DIRTYWORD[195] = {}
+	DIRTYWORD[195]["ID"] = 195
+	DIRTYWORD[195]["KEY"] = "台湾国"
+	DIRTYWORD[195]["real_idx"] = 195
+
+DIRTYWORD["index"][196] = 196
+DIRTYWORD[196] = {}
+	DIRTYWORD[196]["ID"] = 196
+	DIRTYWORD[196]["KEY"] = "台湾独立"
+	DIRTYWORD[196]["real_idx"] = 196
+
+DIRTYWORD["index"][197] = 197
+DIRTYWORD[197] = {}
+	DIRTYWORD[197]["ID"] = 197
+	DIRTYWORD[197]["KEY"] = "太子党"
+	DIRTYWORD[197]["real_idx"] = 197
+
+DIRTYWORD["index"][198] = 198
+DIRTYWORD[198] = {}
+	DIRTYWORD[198]["ID"] = 198
+	DIRTYWORD[198]["KEY"] = "天安门事件"
+	DIRTYWORD[198]["real_idx"] = 198
+
+DIRTYWORD["index"][199] = 199
+DIRTYWORD[199] = {}
+	DIRTYWORD[199]["ID"] = 199
+	DIRTYWORD[199]["KEY"] = "屠杀"
+	DIRTYWORD[199]["real_idx"] = 199
+
+DIRTYWORD["index"][200] = 200
+DIRTYWORD[200] = {}
+	DIRTYWORD[200]["ID"] = 200
+	DIRTYWORD[200]["KEY"] = "小泉"
+	DIRTYWORD[200]["real_idx"] = 200
+
+DIRTYWORD["index"][201] = 201
+DIRTYWORD[201] = {}
+	DIRTYWORD[201]["ID"] = 201
+	DIRTYWORD[201]["KEY"] = "新党"
+	DIRTYWORD[201]["real_idx"] = 201
+
+DIRTYWORD["index"][202] = 202
+DIRTYWORD[202] = {}
+	DIRTYWORD[202]["ID"] = 202
+	DIRTYWORD[202]["KEY"] = "新疆独立"
+	DIRTYWORD[202]["real_idx"] = 202
+
+DIRTYWORD["index"][203] = 203
+DIRTYWORD[203] = {}
+	DIRTYWORD[203]["ID"] = 203
+	DIRTYWORD[203]["KEY"] = "新疆分裂"
+	DIRTYWORD[203]["real_idx"] = 203
+
+DIRTYWORD["index"][204] = 204
+DIRTYWORD[204] = {}
+	DIRTYWORD[204]["ID"] = 204
+	DIRTYWORD[204]["KEY"] = "新疆国"
+	DIRTYWORD[204]["real_idx"] = 204
+
+DIRTYWORD["index"][205] = 205
+DIRTYWORD[205] = {}
+	DIRTYWORD[205]["ID"] = 205
+	DIRTYWORD[205]["KEY"] = "疆独"
+	DIRTYWORD[205]["real_idx"] = 205
+
+DIRTYWORD["index"][206] = 206
+DIRTYWORD[206] = {}
+	DIRTYWORD[206]["ID"] = 206
+	DIRTYWORD[206]["KEY"] = "西藏独立"
+	DIRTYWORD[206]["real_idx"] = 206
+
+DIRTYWORD["index"][207] = 207
+DIRTYWORD[207] = {}
+	DIRTYWORD[207]["ID"] = 207
+	DIRTYWORD[207]["KEY"] = "西藏分裂"
+	DIRTYWORD[207]["real_idx"] = 207
+
+DIRTYWORD["index"][208] = 208
+DIRTYWORD[208] = {}
+	DIRTYWORD[208]["ID"] = 208
+	DIRTYWORD[208]["KEY"] = "西藏国"
+	DIRTYWORD[208]["real_idx"] = 208
+
+DIRTYWORD["index"][209] = 209
+DIRTYWORD[209] = {}
+	DIRTYWORD[209]["ID"] = 209
+	DIRTYWORD[209]["KEY"] = "藏独"
+	DIRTYWORD[209]["real_idx"] = 209
+
+DIRTYWORD["index"][210] = 210
+DIRTYWORD[210] = {}
+	DIRTYWORD[210]["ID"] = 210
+	DIRTYWORD[210]["KEY"] = "藏青会"
+	DIRTYWORD[210]["real_idx"] = 210
+
+DIRTYWORD["index"][211] = 211
+DIRTYWORD[211] = {}
+	DIRTYWORD[211]["ID"] = 211
+	DIRTYWORD[211]["KEY"] = "藏妇会"
+	DIRTYWORD[211]["real_idx"] = 211
+
+DIRTYWORD["index"][212] = 212
+DIRTYWORD[212] = {}
+	DIRTYWORD[212]["ID"] = 212
+	DIRTYWORD[212]["KEY"] = "学潮"
+	DIRTYWORD[212]["real_idx"] = 212
+
+DIRTYWORD["index"][213] = 213
+DIRTYWORD[213] = {}
+	DIRTYWORD[213]["ID"] = 213
+	DIRTYWORD[213]["KEY"] = "学运"
+	DIRTYWORD[213]["real_idx"] = 213
+
+DIRTYWORD["index"][214] = 214
+DIRTYWORD[214] = {}
+	DIRTYWORD[214]["ID"] = 214
+	DIRTYWORD[214]["KEY"] = "一党专政"
+	DIRTYWORD[214]["real_idx"] = 214
+
+DIRTYWORD["index"][215] = 215
+DIRTYWORD[215] = {}
+	DIRTYWORD[215]["ID"] = 215
+	DIRTYWORD[215]["KEY"] = "一中一台"
+	DIRTYWORD[215]["real_idx"] = 215
+
+DIRTYWORD["index"][216] = 216
+DIRTYWORD[216] = {}
+	DIRTYWORD[216]["ID"] = 216
+	DIRTYWORD[216]["KEY"] = "两个中国"
+	DIRTYWORD[216]["real_idx"] = 216
+
+DIRTYWORD["index"][217] = 217
+DIRTYWORD[217] = {}
+	DIRTYWORD[217]["ID"] = 217
+	DIRTYWORD[217]["KEY"] = "一贯道"
+	DIRTYWORD[217]["real_idx"] = 217
+
+DIRTYWORD["index"][218] = 218
+DIRTYWORD[218] = {}
+	DIRTYWORD[218]["ID"] = 218
+	DIRTYWORD[218]["KEY"] = "游行"
+	DIRTYWORD[218]["real_idx"] = 218
+
+DIRTYWORD["index"][219] = 219
+DIRTYWORD[219] = {}
+	DIRTYWORD[219]["ID"] = 219
+	DIRTYWORD[219]["KEY"] = "造反"
+	DIRTYWORD[219]["real_idx"] = 219
+
+DIRTYWORD["index"][220] = 220
+DIRTYWORD[220] = {}
+	DIRTYWORD[220]["ID"] = 220
+	DIRTYWORD[220]["KEY"] = "真善忍"
+	DIRTYWORD[220]["real_idx"] = 220
+
+DIRTYWORD["index"][221] = 221
+DIRTYWORD[221] = {}
+	DIRTYWORD[221]["ID"] = 221
+	DIRTYWORD[221]["KEY"] = "镇压"
+	DIRTYWORD[221]["real_idx"] = 221
+
+DIRTYWORD["index"][222] = 222
+DIRTYWORD[222] = {}
+	DIRTYWORD[222]["ID"] = 222
+	DIRTYWORD[222]["KEY"] = "政变"
+	DIRTYWORD[222]["real_idx"] = 222
+
+DIRTYWORD["index"][223] = 223
+DIRTYWORD[223] = {}
+	DIRTYWORD[223]["ID"] = 223
+	DIRTYWORD[223]["KEY"] = "政治"
+	DIRTYWORD[223]["real_idx"] = 223
+
+DIRTYWORD["index"][224] = 224
+DIRTYWORD[224] = {}
+	DIRTYWORD[224]["ID"] = 224
+	DIRTYWORD[224]["KEY"] = "政治反对派"
+	DIRTYWORD[224]["real_idx"] = 224
+
+DIRTYWORD["index"][225] = 225
+DIRTYWORD[225] = {}
+	DIRTYWORD[225]["ID"] = 225
+	DIRTYWORD[225]["KEY"] = "政治犯"
+	DIRTYWORD[225]["real_idx"] = 225
+
+DIRTYWORD["index"][226] = 226
+DIRTYWORD[226] = {}
+	DIRTYWORD[226]["ID"] = 226
+	DIRTYWORD[226]["KEY"] = "中共"
+	DIRTYWORD[226]["real_idx"] = 226
+
+DIRTYWORD["index"][227] = 227
+DIRTYWORD[227] = {}
+	DIRTYWORD[227]["ID"] = 227
+	DIRTYWORD[227]["KEY"] = "共产党"
+	DIRTYWORD[227]["real_idx"] = 227
+
+DIRTYWORD["index"][228] = 228
+DIRTYWORD[228] = {}
+	DIRTYWORD[228]["ID"] = 228
+	DIRTYWORD[228]["KEY"] = "反党"
+	DIRTYWORD[228]["real_idx"] = 228
+
+DIRTYWORD["index"][229] = 229
+DIRTYWORD[229] = {}
+	DIRTYWORD[229]["ID"] = 229
+	DIRTYWORD[229]["KEY"] = "反共"
+	DIRTYWORD[229]["real_idx"] = 229
+
+DIRTYWORD["index"][230] = 230
+DIRTYWORD[230] = {}
+	DIRTYWORD[230]["ID"] = 230
+	DIRTYWORD[230]["KEY"] = "政府"
+	DIRTYWORD[230]["real_idx"] = 230
+
+DIRTYWORD["index"][231] = 231
+DIRTYWORD[231] = {}
+	DIRTYWORD[231]["ID"] = 231
+	DIRTYWORD[231]["KEY"] = "民主党"
+	DIRTYWORD[231]["real_idx"] = 231
+
+DIRTYWORD["index"][232] = 232
+DIRTYWORD[232] = {}
+	DIRTYWORD[232]["ID"] = 232
+	DIRTYWORD[232]["KEY"] = "中国之春"
+	DIRTYWORD[232]["real_idx"] = 232
+
+DIRTYWORD["index"][233] = 233
+DIRTYWORD[233] = {}
+	DIRTYWORD[233]["ID"] = 233
+	DIRTYWORD[233]["KEY"] = "转法轮"
+	DIRTYWORD[233]["real_idx"] = 233
+
+DIRTYWORD["index"][234] = 234
+DIRTYWORD[234] = {}
+	DIRTYWORD[234]["ID"] = 234
+	DIRTYWORD[234]["KEY"] = "自焚"
+	DIRTYWORD[234]["real_idx"] = 234
+
+DIRTYWORD["index"][235] = 235
+DIRTYWORD[235] = {}
+	DIRTYWORD[235]["ID"] = 235
+	DIRTYWORD[235]["KEY"] = "共党"
+	DIRTYWORD[235]["real_idx"] = 235
+
+DIRTYWORD["index"][236] = 236
+DIRTYWORD[236] = {}
+	DIRTYWORD[236]["ID"] = 236
+	DIRTYWORD[236]["KEY"] = "共匪"
+	DIRTYWORD[236]["real_idx"] = 236
+
+DIRTYWORD["index"][237] = 237
+DIRTYWORD[237] = {}
+	DIRTYWORD[237]["ID"] = 237
+	DIRTYWORD[237]["KEY"] = "苏家屯"
+	DIRTYWORD[237]["real_idx"] = 237
+
+DIRTYWORD["index"][238] = 238
+DIRTYWORD[238] = {}
+	DIRTYWORD[238]["ID"] = 238
+	DIRTYWORD[238]["KEY"] = "基地组织"
+	DIRTYWORD[238]["real_idx"] = 238
+
+DIRTYWORD["index"][239] = 239
+DIRTYWORD[239] = {}
+	DIRTYWORD[239]["ID"] = 239
+	DIRTYWORD[239]["KEY"] = "塔利班"
+	DIRTYWORD[239]["real_idx"] = 239
+
+DIRTYWORD["index"][240] = 240
+DIRTYWORD[240] = {}
+	DIRTYWORD[240]["ID"] = 240
+	DIRTYWORD[240]["KEY"] = "东亚病夫"
+	DIRTYWORD[240]["real_idx"] = 240
+
+DIRTYWORD["index"][241] = 241
+DIRTYWORD[241] = {}
+	DIRTYWORD[241]["ID"] = 241
+	DIRTYWORD[241]["KEY"] = "支那"
+	DIRTYWORD[241]["real_idx"] = 241
+
+DIRTYWORD["index"][242] = 242
+DIRTYWORD[242] = {}
+	DIRTYWORD[242]["ID"] = 242
+	DIRTYWORD[242]["KEY"] = "高治联"
+	DIRTYWORD[242]["real_idx"] = 242
+
+DIRTYWORD["index"][243] = 243
+DIRTYWORD[243] = {}
+	DIRTYWORD[243]["ID"] = 243
+	DIRTYWORD[243]["KEY"] = "高自联"
+	DIRTYWORD[243]["real_idx"] = 243
+
+DIRTYWORD["index"][244] = 244
+DIRTYWORD[244] = {}
+	DIRTYWORD[244]["ID"] = 244
+	DIRTYWORD[244]["KEY"] = "专政"
+	DIRTYWORD[244]["real_idx"] = 244
+
+DIRTYWORD["index"][245] = 245
+DIRTYWORD[245] = {}
+	DIRTYWORD[245]["ID"] = 245
+	DIRTYWORD[245]["KEY"] = "专制"
+	DIRTYWORD[245]["real_idx"] = 245
+
+DIRTYWORD["index"][246] = 246
+DIRTYWORD[246] = {}
+	DIRTYWORD[246]["ID"] = 246
+	DIRTYWORD[246]["KEY"] = "世界维吾尔大会"
+	DIRTYWORD[246]["real_idx"] = 246
+
+DIRTYWORD["index"][247] = 247
+DIRTYWORD[247] = {}
+	DIRTYWORD[247]["ID"] = 247
+	DIRTYWORD[247]["KEY"] = "核工业基地"
+	DIRTYWORD[247]["real_idx"] = 247
+
+DIRTYWORD["index"][248] = 248
+DIRTYWORD[248] = {}
+	DIRTYWORD[248]["ID"] = 248
+	DIRTYWORD[248]["KEY"] = "核武器"
+	DIRTYWORD[248]["real_idx"] = 248
+
+DIRTYWORD["index"][249] = 249
+DIRTYWORD[249] = {}
+	DIRTYWORD[249]["ID"] = 249
+	DIRTYWORD[249]["KEY"] = "铀"
+	DIRTYWORD[249]["real_idx"] = 249
+
+DIRTYWORD["index"][250] = 250
+DIRTYWORD[250] = {}
+	DIRTYWORD[250]["ID"] = 250
+	DIRTYWORD[250]["KEY"] = "原子弹"
+	DIRTYWORD[250]["real_idx"] = 250
+
+DIRTYWORD["index"][251] = 251
+DIRTYWORD[251] = {}
+	DIRTYWORD[251]["ID"] = 251
+	DIRTYWORD[251]["KEY"] = "氢弹"
+	DIRTYWORD[251]["real_idx"] = 251
+
+DIRTYWORD["index"][252] = 252
+DIRTYWORD[252] = {}
+	DIRTYWORD[252]["ID"] = 252
+	DIRTYWORD[252]["KEY"] = "导弹"
+	DIRTYWORD[252]["real_idx"] = 252
+
+DIRTYWORD["index"][253] = 253
+DIRTYWORD[253] = {}
+	DIRTYWORD[253]["ID"] = 253
+	DIRTYWORD[253]["KEY"] = "核潜艇"
+	DIRTYWORD[253]["real_idx"] = 253
+
+DIRTYWORD["index"][254] = 254
+DIRTYWORD[254] = {}
+	DIRTYWORD[254]["ID"] = 254
+	DIRTYWORD[254]["KEY"] = "大参考"
+	DIRTYWORD[254]["real_idx"] = 254
+
+DIRTYWORD["index"][255] = 255
+DIRTYWORD[255] = {}
+	DIRTYWORD[255]["ID"] = 255
+	DIRTYWORD[255]["KEY"] = "小参考"
+	DIRTYWORD[255]["real_idx"] = 255
+
+DIRTYWORD["index"][256] = 256
+DIRTYWORD[256] = {}
+	DIRTYWORD[256]["ID"] = 256
+	DIRTYWORD[256]["KEY"] = "国内动态清样"
+	DIRTYWORD[256]["real_idx"] = 256
+
+DIRTYWORD["index"][257] = 257
+DIRTYWORD[257] = {}
+	DIRTYWORD[257]["ID"] = 257
+	DIRTYWORD[257]["KEY"] = "释迦牟尼"
+	DIRTYWORD[257]["real_idx"] = 257
+
+DIRTYWORD["index"][258] = 258
+DIRTYWORD[258] = {}
+	DIRTYWORD[258]["ID"] = 258
+	DIRTYWORD[258]["KEY"] = "阿弥陀佛"
+	DIRTYWORD[258]["real_idx"] = 258
+
+DIRTYWORD["index"][259] = 259
+DIRTYWORD[259] = {}
+	DIRTYWORD[259]["ID"] = 259
+	DIRTYWORD[259]["KEY"] = "多维"
+	DIRTYWORD[259]["real_idx"] = 259
+
+DIRTYWORD["index"][260] = 260
+DIRTYWORD[260] = {}
+	DIRTYWORD[260]["ID"] = 260
+	DIRTYWORD[260]["KEY"] = "河殇"
+	DIRTYWORD[260]["real_idx"] = 260
+
+DIRTYWORD["index"][261] = 261
+DIRTYWORD[261] = {}
+	DIRTYWORD[261]["ID"] = 261
+	DIRTYWORD[261]["KEY"] = "摩门教"
+	DIRTYWORD[261]["real_idx"] = 261
+
+DIRTYWORD["index"][262] = 262
+DIRTYWORD[262] = {}
+	DIRTYWORD[262]["ID"] = 262
+	DIRTYWORD[262]["KEY"] = "穆罕默德"
+	DIRTYWORD[262]["real_idx"] = 262
+
+DIRTYWORD["index"][263] = 263
+DIRTYWORD[263] = {}
+	DIRTYWORD[263]["ID"] = 263
+	DIRTYWORD[263]["KEY"] = "圣战"
+	DIRTYWORD[263]["real_idx"] = 263
+
+DIRTYWORD["index"][264] = 264
+DIRTYWORD[264] = {}
+	DIRTYWORD[264]["ID"] = 264
+	DIRTYWORD[264]["KEY"] = "耶和华"
+	DIRTYWORD[264]["real_idx"] = 264
+
+DIRTYWORD["index"][265] = 265
+DIRTYWORD[265] = {}
+	DIRTYWORD[265]["ID"] = 265
+	DIRTYWORD[265]["KEY"] = "耶稣"
+	DIRTYWORD[265]["real_idx"] = 265
+
+DIRTYWORD["index"][266] = 266
+DIRTYWORD[266] = {}
+	DIRTYWORD[266]["ID"] = 266
+	DIRTYWORD[266]["KEY"] = "伊斯兰"
+	DIRTYWORD[266]["real_idx"] = 266
+
+DIRTYWORD["index"][267] = 267
+DIRTYWORD[267] = {}
+	DIRTYWORD[267]["ID"] = 267
+	DIRTYWORD[267]["KEY"] = "真主安拉"
+	DIRTYWORD[267]["real_idx"] = 267
+
+DIRTYWORD["index"][268] = 268
+DIRTYWORD[268] = {}
+	DIRTYWORD[268]["ID"] = 268
+	DIRTYWORD[268]["KEY"] = "白莲教"
+	DIRTYWORD[268]["real_idx"] = 268
+
+DIRTYWORD["index"][269] = 269
+DIRTYWORD[269] = {}
+	DIRTYWORD[269]["ID"] = 269
+	DIRTYWORD[269]["KEY"] = "天主教"
+	DIRTYWORD[269]["real_idx"] = 269
+
+DIRTYWORD["index"][270] = 270
+DIRTYWORD[270] = {}
+	DIRTYWORD[270]["ID"] = 270
+	DIRTYWORD[270]["KEY"] = "基督教"
+	DIRTYWORD[270]["real_idx"] = 270
+
+DIRTYWORD["index"][271] = 271
+DIRTYWORD[271] = {}
+	DIRTYWORD[271]["ID"] = 271
+	DIRTYWORD[271]["KEY"] = "东正教"
+	DIRTYWORD[271]["real_idx"] = 271
+
+DIRTYWORD["index"][272] = 272
+DIRTYWORD[272] = {}
+	DIRTYWORD[272]["ID"] = 272
+	DIRTYWORD[272]["KEY"] = "大法"
+	DIRTYWORD[272]["real_idx"] = 272
+
+DIRTYWORD["index"][273] = 273
+DIRTYWORD[273] = {}
+	DIRTYWORD[273]["ID"] = 273
+	DIRTYWORD[273]["KEY"] = "法轮"
+	DIRTYWORD[273]["real_idx"] = 273
+
+DIRTYWORD["index"][274] = 274
+DIRTYWORD[274] = {}
+	DIRTYWORD[274]["ID"] = 274
+	DIRTYWORD[274]["KEY"] = "法轮功"
+	DIRTYWORD[274]["real_idx"] = 274
+
+DIRTYWORD["index"][275] = 275
+DIRTYWORD[275] = {}
+	DIRTYWORD[275]["ID"] = 275
+	DIRTYWORD[275]["KEY"] = "瘸腿帮"
+	DIRTYWORD[275]["real_idx"] = 275
+
+DIRTYWORD["index"][276] = 276
+DIRTYWORD[276] = {}
+	DIRTYWORD[276]["ID"] = 276
+	DIRTYWORD[276]["KEY"] = "真理教"
+	DIRTYWORD[276]["real_idx"] = 276
+
+DIRTYWORD["index"][277] = 277
+DIRTYWORD[277] = {}
+	DIRTYWORD[277]["ID"] = 277
+	DIRTYWORD[277]["KEY"] = "真善忍"
+	DIRTYWORD[277]["real_idx"] = 277
+
+DIRTYWORD["index"][278] = 278
+DIRTYWORD[278] = {}
+	DIRTYWORD[278]["ID"] = 278
+	DIRTYWORD[278]["KEY"] = "转法轮"
+	DIRTYWORD[278]["real_idx"] = 278
+
+DIRTYWORD["index"][279] = 279
+DIRTYWORD[279] = {}
+	DIRTYWORD[279]["ID"] = 279
+	DIRTYWORD[279]["KEY"] = "自焚"
+	DIRTYWORD[279]["real_idx"] = 279
+
+DIRTYWORD["index"][280] = 280
+DIRTYWORD[280] = {}
+	DIRTYWORD[280]["ID"] = 280
+	DIRTYWORD[280]["KEY"] = "走向圆满"
+	DIRTYWORD[280]["real_idx"] = 280
+
+DIRTYWORD["index"][281] = 281
+DIRTYWORD[281] = {}
+	DIRTYWORD[281]["ID"] = 281
+	DIRTYWORD[281]["KEY"] = "黄大仙"
+	DIRTYWORD[281]["real_idx"] = 281
+
+DIRTYWORD["index"][282] = 282
+DIRTYWORD[282] = {}
+	DIRTYWORD[282]["ID"] = 282
+	DIRTYWORD[282]["KEY"] = "跳大神"
+	DIRTYWORD[282]["real_idx"] = 282
+
+DIRTYWORD["index"][283] = 283
+DIRTYWORD[283] = {}
+	DIRTYWORD[283]["ID"] = 283
+	DIRTYWORD[283]["KEY"] = "神汉"
+	DIRTYWORD[283]["real_idx"] = 283
+
+DIRTYWORD["index"][284] = 284
+DIRTYWORD[284] = {}
+	DIRTYWORD[284]["ID"] = 284
+	DIRTYWORD[284]["KEY"] = "神婆"
+	DIRTYWORD[284]["real_idx"] = 284
+
+DIRTYWORD["index"][285] = 285
+DIRTYWORD[285] = {}
+	DIRTYWORD[285]["ID"] = 285
+	DIRTYWORD[285]["KEY"] = "真理教"
+	DIRTYWORD[285]["real_idx"] = 285
+
+DIRTYWORD["index"][286] = 286
+DIRTYWORD[286] = {}
+	DIRTYWORD[286]["ID"] = 286
+	DIRTYWORD[286]["KEY"] = "大卫教"
+	DIRTYWORD[286]["real_idx"] = 286
+
+DIRTYWORD["index"][287] = 287
+DIRTYWORD[287] = {}
+	DIRTYWORD[287]["ID"] = 287
+	DIRTYWORD[287]["KEY"] = "阎王"
+	DIRTYWORD[287]["real_idx"] = 287
+
+DIRTYWORD["index"][288] = 288
+DIRTYWORD[288] = {}
+	DIRTYWORD[288]["ID"] = 288
+	DIRTYWORD[288]["KEY"] = "黑白无常"
+	DIRTYWORD[288]["real_idx"] = 288
+
+DIRTYWORD["index"][289] = 289
+DIRTYWORD[289] = {}
+	DIRTYWORD[289]["ID"] = 289
+	DIRTYWORD[289]["KEY"] = "牛头马面"
+	DIRTYWORD[289]["real_idx"] = 289
+
+DIRTYWORD["index"][290] = 290
+DIRTYWORD[290] = {}
+	DIRTYWORD[290]["ID"] = 290
+	DIRTYWORD[290]["KEY"] = "藏独"
+	DIRTYWORD[290]["real_idx"] = 290
+
+DIRTYWORD["index"][291] = 291
+DIRTYWORD[291] = {}
+	DIRTYWORD[291]["ID"] = 291
+	DIRTYWORD[291]["KEY"] = "高丽棒子"
+	DIRTYWORD[291]["real_idx"] = 291
+
+DIRTYWORD["index"][292] = 292
+DIRTYWORD[292] = {}
+	DIRTYWORD[292]["ID"] = 292
+	DIRTYWORD[292]["KEY"] = "疆独"
+	DIRTYWORD[292]["real_idx"] = 292
+
+DIRTYWORD["index"][293] = 293
+DIRTYWORD[293] = {}
+	DIRTYWORD[293]["ID"] = 293
+	DIRTYWORD[293]["KEY"] = "蒙古鞑子"
+	DIRTYWORD[293]["real_idx"] = 293
+
+DIRTYWORD["index"][294] = 294
+DIRTYWORD[294] = {}
+	DIRTYWORD[294]["ID"] = 294
+	DIRTYWORD[294]["KEY"] = "台独"
+	DIRTYWORD[294]["real_idx"] = 294
+
+DIRTYWORD["index"][295] = 295
+DIRTYWORD[295] = {}
+	DIRTYWORD[295]["ID"] = 295
+	DIRTYWORD[295]["KEY"] = "台独分子"
+	DIRTYWORD[295]["real_idx"] = 295
+
+DIRTYWORD["index"][296] = 296
+DIRTYWORD[296] = {}
+	DIRTYWORD[296]["ID"] = 296
+	DIRTYWORD[296]["KEY"] = "台联"
+	DIRTYWORD[296]["real_idx"] = 296
+
+DIRTYWORD["index"][297] = 297
+DIRTYWORD[297] = {}
+	DIRTYWORD[297]["ID"] = 297
+	DIRTYWORD[297]["KEY"] = "台湾民国"
+	DIRTYWORD[297]["real_idx"] = 297
+
+DIRTYWORD["index"][298] = 298
+DIRTYWORD[298] = {}
+	DIRTYWORD[298]["ID"] = 298
+	DIRTYWORD[298]["KEY"] = "西藏独立"
+	DIRTYWORD[298]["real_idx"] = 298
+
+DIRTYWORD["index"][299] = 299
+DIRTYWORD[299] = {}
+	DIRTYWORD[299]["ID"] = 299
+	DIRTYWORD[299]["KEY"] = "新疆独立"
+	DIRTYWORD[299]["real_idx"] = 299
+
+DIRTYWORD["index"][300] = 300
+DIRTYWORD[300] = {}
+	DIRTYWORD[300]["ID"] = 300
+	DIRTYWORD[300]["KEY"] = "南蛮"
+	DIRTYWORD[300]["real_idx"] = 300
+
+DIRTYWORD["index"][301] = 301
+DIRTYWORD[301] = {}
+	DIRTYWORD[301]["ID"] = 301
+	DIRTYWORD[301]["KEY"] = "老毛子"
+	DIRTYWORD[301]["real_idx"] = 301
+
+DIRTYWORD["index"][302] = 302
+DIRTYWORD[302] = {}
+	DIRTYWORD[302]["ID"] = 302
+	DIRTYWORD[302]["KEY"] = "回民吃猪肉"
+	DIRTYWORD[302]["real_idx"] = 302
+
+DIRTYWORD["index"][303] = 303
+DIRTYWORD[303] = {}
+	DIRTYWORD[303]["ID"] = 303
+	DIRTYWORD[303]["KEY"] = "k粉"
+	DIRTYWORD[303]["real_idx"] = 303
+
+DIRTYWORD["index"][304] = 304
+DIRTYWORD[304] = {}
+	DIRTYWORD[304]["ID"] = 304
+	DIRTYWORD[304]["KEY"] = "古柯碱"
+	DIRTYWORD[304]["real_idx"] = 304
+
+DIRTYWORD["index"][305] = 305
+DIRTYWORD[305] = {}
+	DIRTYWORD[305]["ID"] = 305
+	DIRTYWORD[305]["KEY"] = "谋杀"
+	DIRTYWORD[305]["real_idx"] = 305
+
+DIRTYWORD["index"][306] = 306
+DIRTYWORD[306] = {}
+	DIRTYWORD[306]["ID"] = 306
+	DIRTYWORD[306]["KEY"] = "杀人"
+	DIRTYWORD[306]["real_idx"] = 306
+
+DIRTYWORD["index"][307] = 307
+DIRTYWORD[307] = {}
+	DIRTYWORD[307]["ID"] = 307
+	DIRTYWORD[307]["KEY"] = "吸毒"
+	DIRTYWORD[307]["real_idx"] = 307
+
+DIRTYWORD["index"][308] = 308
+DIRTYWORD[308] = {}
+	DIRTYWORD[308]["ID"] = 308
+	DIRTYWORD[308]["KEY"] = "贩毒"
+	DIRTYWORD[308]["real_idx"] = 308
+
+DIRTYWORD["index"][309] = 309
+DIRTYWORD[309] = {}
+	DIRTYWORD[309]["ID"] = 309
+	DIRTYWORD[309]["KEY"] = "赌博"
+	DIRTYWORD[309]["real_idx"] = 309
+
+DIRTYWORD["index"][310] = 310
+DIRTYWORD[310] = {}
+	DIRTYWORD[310]["ID"] = 310
+	DIRTYWORD[310]["KEY"] = "拐卖"
+	DIRTYWORD[310]["real_idx"] = 310
+
+DIRTYWORD["index"][311] = 311
+DIRTYWORD[311] = {}
+	DIRTYWORD[311]["ID"] = 311
+	DIRTYWORD[311]["KEY"] = "走私"
+	DIRTYWORD[311]["real_idx"] = 311
+
+DIRTYWORD["index"][312] = 312
+DIRTYWORD[312] = {}
+	DIRTYWORD[312]["ID"] = 312
+	DIRTYWORD[312]["KEY"] = "卖淫"
+	DIRTYWORD[312]["real_idx"] = 312
+
+DIRTYWORD["index"][313] = 313
+DIRTYWORD[313] = {}
+	DIRTYWORD[313]["ID"] = 313
+	DIRTYWORD[313]["KEY"] = "造反"
+	DIRTYWORD[313]["real_idx"] = 313
+
+DIRTYWORD["index"][314] = 314
+DIRTYWORD[314] = {}
+	DIRTYWORD[314]["ID"] = 314
+	DIRTYWORD[314]["KEY"] = "强奸"
+	DIRTYWORD[314]["real_idx"] = 314
+
+DIRTYWORD["index"][315] = 315
+DIRTYWORD[315] = {}
+	DIRTYWORD[315]["ID"] = 315
+	DIRTYWORD[315]["KEY"] = "轮奸"
+	DIRTYWORD[315]["real_idx"] = 315
+
+DIRTYWORD["index"][316] = 316
+DIRTYWORD[316] = {}
+	DIRTYWORD[316]["ID"] = 316
+	DIRTYWORD[316]["KEY"] = "抢劫"
+	DIRTYWORD[316]["real_idx"] = 316
+
+DIRTYWORD["index"][317] = 317
+DIRTYWORD[317] = {}
+	DIRTYWORD[317]["ID"] = 317
+	DIRTYWORD[317]["KEY"] = "先奸后杀"
+	DIRTYWORD[317]["real_idx"] = 317
+
+DIRTYWORD["index"][318] = 318
+DIRTYWORD[318] = {}
+	DIRTYWORD[318]["ID"] = 318
+	DIRTYWORD[318]["KEY"] = "押大"
+	DIRTYWORD[318]["real_idx"] = 318
+
+DIRTYWORD["index"][319] = 319
+DIRTYWORD[319] = {}
+	DIRTYWORD[319]["ID"] = 319
+	DIRTYWORD[319]["KEY"] = "押小"
+	DIRTYWORD[319]["real_idx"] = 319
+
+DIRTYWORD["index"][320] = 320
+DIRTYWORD[320] = {}
+	DIRTYWORD[320]["ID"] = 320
+	DIRTYWORD[320]["KEY"] = "押注"
+	DIRTYWORD[320]["real_idx"] = 320
+
+DIRTYWORD["index"][321] = 321
+DIRTYWORD[321] = {}
+	DIRTYWORD[321]["ID"] = 321
+	DIRTYWORD[321]["KEY"] = "下注"
+	DIRTYWORD[321]["real_idx"] = 321
+
+DIRTYWORD["index"][322] = 322
+DIRTYWORD[322] = {}
+	DIRTYWORD[322]["ID"] = 322
+	DIRTYWORD[322]["KEY"] = "抽头"
+	DIRTYWORD[322]["real_idx"] = 322
+
+DIRTYWORD["index"][323] = 323
+DIRTYWORD[323] = {}
+	DIRTYWORD[323]["ID"] = 323
+	DIRTYWORD[323]["KEY"] = "坐庄"
+	DIRTYWORD[323]["real_idx"] = 323
+
+DIRTYWORD["index"][324] = 324
+DIRTYWORD[324] = {}
+	DIRTYWORD[324]["ID"] = 324
+	DIRTYWORD[324]["KEY"] = "赌马"
+	DIRTYWORD[324]["real_idx"] = 324
+
+DIRTYWORD["index"][325] = 325
+DIRTYWORD[325] = {}
+	DIRTYWORD[325]["ID"] = 325
+	DIRTYWORD[325]["KEY"] = "赌球"
+	DIRTYWORD[325]["real_idx"] = 325
+
+DIRTYWORD["index"][326] = 326
+DIRTYWORD[326] = {}
+	DIRTYWORD[326]["ID"] = 326
+	DIRTYWORD[326]["KEY"] = "筹码"
+	DIRTYWORD[326]["real_idx"] = 326
+
+DIRTYWORD["index"][327] = 327
+DIRTYWORD[327] = {}
+	DIRTYWORD[327]["ID"] = 327
+	DIRTYWORD[327]["KEY"] = "老虎机"
+	DIRTYWORD[327]["real_idx"] = 327
+
+DIRTYWORD["index"][328] = 328
+DIRTYWORD[328] = {}
+	DIRTYWORD[328]["ID"] = 328
+	DIRTYWORD[328]["KEY"] = "轮盘赌"
+	DIRTYWORD[328]["real_idx"] = 328
+
+DIRTYWORD["index"][329] = 329
+DIRTYWORD[329] = {}
+	DIRTYWORD[329]["ID"] = 329
+	DIRTYWORD[329]["KEY"] = "安非他命"
+	DIRTYWORD[329]["real_idx"] = 329
+
+DIRTYWORD["index"][330] = 330
+DIRTYWORD[330] = {}
+	DIRTYWORD[330]["ID"] = 330
+	DIRTYWORD[330]["KEY"] = "大麻"
+	DIRTYWORD[330]["real_idx"] = 330
+
+DIRTYWORD["index"][331] = 331
+DIRTYWORD[331] = {}
+	DIRTYWORD[331]["ID"] = 331
+	DIRTYWORD[331]["KEY"] = "可卡因"
+	DIRTYWORD[331]["real_idx"] = 331
+
+DIRTYWORD["index"][332] = 332
+DIRTYWORD[332] = {}
+	DIRTYWORD[332]["ID"] = 332
+	DIRTYWORD[332]["KEY"] = "海洛因"
+	DIRTYWORD[332]["real_idx"] = 332
+
+DIRTYWORD["index"][333] = 333
+DIRTYWORD[333] = {}
+	DIRTYWORD[333]["ID"] = 333
+	DIRTYWORD[333]["KEY"] = "冰毒"
+	DIRTYWORD[333]["real_idx"] = 333
+
+DIRTYWORD["index"][334] = 334
+DIRTYWORD[334] = {}
+	DIRTYWORD[334]["ID"] = 334
+	DIRTYWORD[334]["KEY"] = "摇头丸"
+	DIRTYWORD[334]["real_idx"] = 334
+
+DIRTYWORD["index"][335] = 335
+DIRTYWORD[335] = {}
+	DIRTYWORD[335]["ID"] = 335
+	DIRTYWORD[335]["KEY"] = "杜冷丁"
+	DIRTYWORD[335]["real_idx"] = 335
+
+DIRTYWORD["index"][336] = 336
+DIRTYWORD[336] = {}
+	DIRTYWORD[336]["ID"] = 336
+	DIRTYWORD[336]["KEY"] = "鸦片"
+	DIRTYWORD[336]["real_idx"] = 336
+
+DIRTYWORD["index"][337] = 337
+DIRTYWORD[337] = {}
+	DIRTYWORD[337]["ID"] = 337
+	DIRTYWORD[337]["KEY"] = "罂粟"
+	DIRTYWORD[337]["real_idx"] = 337
+
+DIRTYWORD["index"][338] = 338
+DIRTYWORD[338] = {}
+	DIRTYWORD[338]["ID"] = 338
+	DIRTYWORD[338]["KEY"] = "迷幻药"
+	DIRTYWORD[338]["real_idx"] = 338
+
+DIRTYWORD["index"][339] = 339
+DIRTYWORD[339] = {}
+	DIRTYWORD[339]["ID"] = 339
+	DIRTYWORD[339]["KEY"] = "白粉"
+	DIRTYWORD[339]["real_idx"] = 339
+
+DIRTYWORD["index"][340] = 340
+DIRTYWORD[340] = {}
+	DIRTYWORD[340]["ID"] = 340
+	DIRTYWORD[340]["KEY"] = "嗑药"
+	DIRTYWORD[340]["real_idx"] = 340
+
+DIRTYWORD["index"][341] = 341
+DIRTYWORD[341] = {}
+	DIRTYWORD[341]["ID"] = 341
+	DIRTYWORD[341]["KEY"] = "吸毒"
+	DIRTYWORD[341]["real_idx"] = 341
+
+DIRTYWORD["index"][342] = 342
+DIRTYWORD[342] = {}
+	DIRTYWORD[342]["ID"] = 342
+	DIRTYWORD[342]["KEY"] = "冰毒"
+	DIRTYWORD[342]["real_idx"] = 342
+
+DIRTYWORD["index"][343] = 343
+DIRTYWORD[343] = {}
+	DIRTYWORD[343]["ID"] = 343
+	DIRTYWORD[343]["KEY"] = "冰粉"
+	DIRTYWORD[343]["real_idx"] = 343
+
+DIRTYWORD["index"][344] = 344
+DIRTYWORD[344] = {}
+	DIRTYWORD[344]["ID"] = 344
+	DIRTYWORD[344]["KEY"] = "AIDS"
+	DIRTYWORD[344]["real_idx"] = 344
+
+DIRTYWORD["index"][345] = 345
+DIRTYWORD[345] = {}
+	DIRTYWORD[345]["ID"] = 345
+	DIRTYWORD[345]["KEY"] = "aids"
+	DIRTYWORD[345]["real_idx"] = 345
+
+DIRTYWORD["index"][346] = 346
+DIRTYWORD[346] = {}
+	DIRTYWORD[346]["ID"] = 346
+	DIRTYWORD[346]["KEY"] = "Aids"
+	DIRTYWORD[346]["real_idx"] = 346
+
+DIRTYWORD["index"][347] = 347
+DIRTYWORD[347] = {}
+	DIRTYWORD[347]["ID"] = 347
+	DIRTYWORD[347]["KEY"] = "DICK"
+	DIRTYWORD[347]["real_idx"] = 347
+
+DIRTYWORD["index"][348] = 348
+DIRTYWORD[348] = {}
+	DIRTYWORD[348]["ID"] = 348
+	DIRTYWORD[348]["KEY"] = "dick"
+	DIRTYWORD[348]["real_idx"] = 348
+
+DIRTYWORD["index"][349] = 349
+DIRTYWORD[349] = {}
+	DIRTYWORD[349]["ID"] = 349
+	DIRTYWORD[349]["KEY"] = "Dick"
+	DIRTYWORD[349]["real_idx"] = 349
+
+DIRTYWORD["index"][350] = 350
+DIRTYWORD[350] = {}
+	DIRTYWORD[350]["ID"] = 350
+	DIRTYWORD[350]["KEY"] = "penis"
+	DIRTYWORD[350]["real_idx"] = 350
+
+DIRTYWORD["index"][351] = 351
+DIRTYWORD[351] = {}
+	DIRTYWORD[351]["ID"] = 351
+	DIRTYWORD[351]["KEY"] = "sex"
+	DIRTYWORD[351]["real_idx"] = 351
+
+DIRTYWORD["index"][352] = 352
+DIRTYWORD[352] = {}
+	DIRTYWORD[352]["ID"] = 352
+	DIRTYWORD[352]["KEY"] = "SM"
+	DIRTYWORD[352]["real_idx"] = 352
+
+DIRTYWORD["index"][353] = 353
+DIRTYWORD[353] = {}
+	DIRTYWORD[353]["ID"] = 353
+	DIRTYWORD[353]["KEY"] = "屙"
+	DIRTYWORD[353]["real_idx"] = 353
+
+DIRTYWORD["index"][354] = 354
+DIRTYWORD[354] = {}
+	DIRTYWORD[354]["ID"] = 354
+	DIRTYWORD[354]["KEY"] = "爱滋"
+	DIRTYWORD[354]["real_idx"] = 354
+
+DIRTYWORD["index"][355] = 355
+DIRTYWORD[355] = {}
+	DIRTYWORD[355]["ID"] = 355
+	DIRTYWORD[355]["KEY"] = "淋病"
+	DIRTYWORD[355]["real_idx"] = 355
+
+DIRTYWORD["index"][356] = 356
+DIRTYWORD[356] = {}
+	DIRTYWORD[356]["ID"] = 356
+	DIRTYWORD[356]["KEY"] = "梅毒"
+	DIRTYWORD[356]["real_idx"] = 356
+
+DIRTYWORD["index"][357] = 357
+DIRTYWORD[357] = {}
+	DIRTYWORD[357]["ID"] = 357
+	DIRTYWORD[357]["KEY"] = "爱液"
+	DIRTYWORD[357]["real_idx"] = 357
+
+DIRTYWORD["index"][358] = 358
+DIRTYWORD[358] = {}
+	DIRTYWORD[358]["ID"] = 358
+	DIRTYWORD[358]["KEY"] = "屄"
+	DIRTYWORD[358]["real_idx"] = 358
+
+DIRTYWORD["index"][359] = 359
+DIRTYWORD[359] = {}
+	DIRTYWORD[359]["ID"] = 359
+	DIRTYWORD[359]["KEY"] = "逼"
+	DIRTYWORD[359]["real_idx"] = 359
+
+DIRTYWORD["index"][360] = 360
+DIRTYWORD[360] = {}
+	DIRTYWORD[360]["ID"] = 360
+	DIRTYWORD[360]["KEY"] = "臭机八"
+	DIRTYWORD[360]["real_idx"] = 360
+
+DIRTYWORD["index"][361] = 361
+DIRTYWORD[361] = {}
+	DIRTYWORD[361]["ID"] = 361
+	DIRTYWORD[361]["KEY"] = "臭鸡巴"
+	DIRTYWORD[361]["real_idx"] = 361
+
+DIRTYWORD["index"][362] = 362
+DIRTYWORD[362] = {}
+	DIRTYWORD[362]["ID"] = 362
+	DIRTYWORD[362]["KEY"] = "吹喇叭"
+	DIRTYWORD[362]["real_idx"] = 362
+
+DIRTYWORD["index"][363] = 363
+DIRTYWORD[363] = {}
+	DIRTYWORD[363]["ID"] = 363
+	DIRTYWORD[363]["KEY"] = "吹箫"
+	DIRTYWORD[363]["real_idx"] = 363
+
+DIRTYWORD["index"][364] = 364
+DIRTYWORD[364] = {}
+	DIRTYWORD[364]["ID"] = 364
+	DIRTYWORD[364]["KEY"] = "催情药"
+	DIRTYWORD[364]["real_idx"] = 364
+
+DIRTYWORD["index"][365] = 365
+DIRTYWORD[365] = {}
+	DIRTYWORD[365]["ID"] = 365
+	DIRTYWORD[365]["KEY"] = "屌"
+	DIRTYWORD[365]["real_idx"] = 365
+
+DIRTYWORD["index"][366] = 366
+DIRTYWORD[366] = {}
+	DIRTYWORD[366]["ID"] = 366
+	DIRTYWORD[366]["KEY"] = "肛交"
+	DIRTYWORD[366]["real_idx"] = 366
+
+DIRTYWORD["index"][367] = 367
+DIRTYWORD[367] = {}
+	DIRTYWORD[367]["ID"] = 367
+	DIRTYWORD[367]["KEY"] = "肛门"
+	DIRTYWORD[367]["real_idx"] = 367
+
+DIRTYWORD["index"][368] = 368
+DIRTYWORD[368] = {}
+	DIRTYWORD[368]["ID"] = 368
+	DIRTYWORD[368]["KEY"] = "龟头"
+	DIRTYWORD[368]["real_idx"] = 368
+
+DIRTYWORD["index"][369] = 369
+DIRTYWORD[369] = {}
+	DIRTYWORD[369]["ID"] = 369
+	DIRTYWORD[369]["KEY"] = "黄色"
+	DIRTYWORD[369]["real_idx"] = 369
+
+DIRTYWORD["index"][370] = 370
+DIRTYWORD[370] = {}
+	DIRTYWORD[370]["ID"] = 370
+	DIRTYWORD[370]["KEY"] = "机八"
+	DIRTYWORD[370]["real_idx"] = 370
+
+DIRTYWORD["index"][371] = 371
+DIRTYWORD[371] = {}
+	DIRTYWORD[371]["ID"] = 371
+	DIRTYWORD[371]["KEY"] = "机巴"
+	DIRTYWORD[371]["real_idx"] = 371
+
+DIRTYWORD["index"][372] = 372
+DIRTYWORD[372] = {}
+	DIRTYWORD[372]["ID"] = 372
+	DIRTYWORD[372]["KEY"] = "鸡八"
+	DIRTYWORD[372]["real_idx"] = 372
+
+DIRTYWORD["index"][373] = 373
+DIRTYWORD[373] = {}
+	DIRTYWORD[373]["ID"] = 373
+	DIRTYWORD[373]["KEY"] = "鸡巴"
+	DIRTYWORD[373]["real_idx"] = 373
+
+DIRTYWORD["index"][374] = 374
+DIRTYWORD[374] = {}
+	DIRTYWORD[374]["ID"] = 374
+	DIRTYWORD[374]["KEY"] = "机掰"
+	DIRTYWORD[374]["real_idx"] = 374
+
+DIRTYWORD["index"][375] = 375
+DIRTYWORD[375] = {}
+	DIRTYWORD[375]["ID"] = 375
+	DIRTYWORD[375]["KEY"] = "机巴"
+	DIRTYWORD[375]["real_idx"] = 375
+
+DIRTYWORD["index"][376] = 376
+DIRTYWORD[376] = {}
+	DIRTYWORD[376]["ID"] = 376
+	DIRTYWORD[376]["KEY"] = "鸡叭"
+	DIRTYWORD[376]["real_idx"] = 376
+
+DIRTYWORD["index"][377] = 377
+DIRTYWORD[377] = {}
+	DIRTYWORD[377]["ID"] = 377
+	DIRTYWORD[377]["KEY"] = "鸡鸡"
+	DIRTYWORD[377]["real_idx"] = 377
+
+DIRTYWORD["index"][378] = 378
+DIRTYWORD[378] = {}
+	DIRTYWORD[378]["ID"] = 378
+	DIRTYWORD[378]["KEY"] = "鸡掰"
+	DIRTYWORD[378]["real_idx"] = 378
+
+DIRTYWORD["index"][379] = 379
+DIRTYWORD[379] = {}
+	DIRTYWORD[379]["ID"] = 379
+	DIRTYWORD[379]["KEY"] = "鸡奸"
+	DIRTYWORD[379]["real_idx"] = 379
+
+DIRTYWORD["index"][380] = 380
+DIRTYWORD[380] = {}
+	DIRTYWORD[380]["ID"] = 380
+	DIRTYWORD[380]["KEY"] = "妓女"
+	DIRTYWORD[380]["real_idx"] = 380
+
+DIRTYWORD["index"][381] = 381
+DIRTYWORD[381] = {}
+	DIRTYWORD[381]["ID"] = 381
+	DIRTYWORD[381]["KEY"] = "奸"
+	DIRTYWORD[381]["real_idx"] = 381
+
+DIRTYWORD["index"][382] = 382
+DIRTYWORD[382] = {}
+	DIRTYWORD[382]["ID"] = 382
+	DIRTYWORD[382]["KEY"] = "茎"
+	DIRTYWORD[382]["real_idx"] = 382
+
+DIRTYWORD["index"][383] = 383
+DIRTYWORD[383] = {}
+	DIRTYWORD[383]["ID"] = 383
+	DIRTYWORD[383]["KEY"] = "精液"
+	DIRTYWORD[383]["real_idx"] = 383
+
+DIRTYWORD["index"][384] = 384
+DIRTYWORD[384] = {}
+	DIRTYWORD[384]["ID"] = 384
+	DIRTYWORD[384]["KEY"] = "精子"
+	DIRTYWORD[384]["real_idx"] = 384
+
+DIRTYWORD["index"][385] = 385
+DIRTYWORD[385] = {}
+	DIRTYWORD[385]["ID"] = 385
+	DIRTYWORD[385]["KEY"] = "尻"
+	DIRTYWORD[385]["real_idx"] = 385
+
+DIRTYWORD["index"][386] = 386
+DIRTYWORD[386] = {}
+	DIRTYWORD[386]["ID"] = 386
+	DIRTYWORD[386]["KEY"] = "口交"
+	DIRTYWORD[386]["real_idx"] = 386
+
+DIRTYWORD["index"][387] = 387
+DIRTYWORD[387] = {}
+	DIRTYWORD[387]["ID"] = 387
+	DIRTYWORD[387]["KEY"] = "滥交"
+	DIRTYWORD[387]["real_idx"] = 387
+
+DIRTYWORD["index"][388] = 388
+DIRTYWORD[388] = {}
+	DIRTYWORD[388]["ID"] = 388
+	DIRTYWORD[388]["KEY"] = "乱交"
+	DIRTYWORD[388]["real_idx"] = 388
+
+DIRTYWORD["index"][389] = 389
+DIRTYWORD[389] = {}
+	DIRTYWORD[389]["ID"] = 389
+	DIRTYWORD[389]["KEY"] = "轮奸"
+	DIRTYWORD[389]["real_idx"] = 389
+
+DIRTYWORD["index"][390] = 390
+DIRTYWORD[390] = {}
+	DIRTYWORD[390]["ID"] = 390
+	DIRTYWORD[390]["KEY"] = "卖淫"
+	DIRTYWORD[390]["real_idx"] = 390
+
+DIRTYWORD["index"][391] = 391
+DIRTYWORD[391] = {}
+	DIRTYWORD[391]["ID"] = 391
+	DIRTYWORD[391]["KEY"] = "屁眼"
+	DIRTYWORD[391]["real_idx"] = 391
+
+DIRTYWORD["index"][392] = 392
+DIRTYWORD[392] = {}
+	DIRTYWORD[392]["ID"] = 392
+	DIRTYWORD[392]["KEY"] = "嫖娼"
+	DIRTYWORD[392]["real_idx"] = 392
+
+DIRTYWORD["index"][393] = 393
+DIRTYWORD[393] = {}
+	DIRTYWORD[393]["ID"] = 393
+	DIRTYWORD[393]["KEY"] = "强奸"
+	DIRTYWORD[393]["real_idx"] = 393
+
+DIRTYWORD["index"][394] = 394
+DIRTYWORD[394] = {}
+	DIRTYWORD[394]["ID"] = 394
+	DIRTYWORD[394]["KEY"] = "强奸犯"
+	DIRTYWORD[394]["real_idx"] = 394
+
+DIRTYWORD["index"][395] = 395
+DIRTYWORD[395] = {}
+	DIRTYWORD[395]["ID"] = 395
+	DIRTYWORD[395]["KEY"] = "情色"
+	DIRTYWORD[395]["real_idx"] = 395
+
+DIRTYWORD["index"][396] = 396
+DIRTYWORD[396] = {}
+	DIRTYWORD[396]["ID"] = 396
+	DIRTYWORD[396]["KEY"] = "肉棒"
+	DIRTYWORD[396]["real_idx"] = 396
+
+DIRTYWORD["index"][397] = 397
+DIRTYWORD[397] = {}
+	DIRTYWORD[397]["ID"] = 397
+	DIRTYWORD[397]["KEY"] = "乳房"
+	DIRTYWORD[397]["real_idx"] = 397
+
+DIRTYWORD["index"][398] = 398
+DIRTYWORD[398] = {}
+	DIRTYWORD[398]["ID"] = 398
+	DIRTYWORD[398]["KEY"] = "乳峰"
+	DIRTYWORD[398]["real_idx"] = 398
+
+DIRTYWORD["index"][399] = 399
+DIRTYWORD[399] = {}
+	DIRTYWORD[399]["ID"] = 399
+	DIRTYWORD[399]["KEY"] = "乳交"
+	DIRTYWORD[399]["real_idx"] = 399
+
+DIRTYWORD["index"][400] = 400
+DIRTYWORD[400] = {}
+	DIRTYWORD[400]["ID"] = 400
+	DIRTYWORD[400]["KEY"] = "乳头"
+	DIRTYWORD[400]["real_idx"] = 400
+
+DIRTYWORD["index"][401] = 401
+DIRTYWORD[401] = {}
+	DIRTYWORD[401]["ID"] = 401
+	DIRTYWORD[401]["KEY"] = "乳晕"
+	DIRTYWORD[401]["real_idx"] = 401
+
+DIRTYWORD["index"][402] = 402
+DIRTYWORD[402] = {}
+	DIRTYWORD[402]["ID"] = 402
+	DIRTYWORD[402]["KEY"] = "三陪"
+	DIRTYWORD[402]["real_idx"] = 402
+
+DIRTYWORD["index"][403] = 403
+DIRTYWORD[403] = {}
+	DIRTYWORD[403]["ID"] = 403
+	DIRTYWORD[403]["KEY"] = "色情"
+	DIRTYWORD[403]["real_idx"] = 403
+
+DIRTYWORD["index"][404] = 404
+DIRTYWORD[404] = {}
+	DIRTYWORD[404]["ID"] = 404
+	DIRTYWORD[404]["KEY"] = "射精"
+	DIRTYWORD[404]["real_idx"] = 404
+
+DIRTYWORD["index"][405] = 405
+DIRTYWORD[405] = {}
+	DIRTYWORD[405]["ID"] = 405
+	DIRTYWORD[405]["KEY"] = "手淫"
+	DIRTYWORD[405]["real_idx"] = 405
+
+DIRTYWORD["index"][406] = 406
+DIRTYWORD[406] = {}
+	DIRTYWORD[406]["ID"] = 406
+	DIRTYWORD[406]["KEY"] = "威而钢"
+	DIRTYWORD[406]["real_idx"] = 406
+
+DIRTYWORD["index"][407] = 407
+DIRTYWORD[407] = {}
+	DIRTYWORD[407]["ID"] = 407
+	DIRTYWORD[407]["KEY"] = "威而柔"
+	DIRTYWORD[407]["real_idx"] = 407
+
+DIRTYWORD["index"][408] = 408
+DIRTYWORD[408] = {}
+	DIRTYWORD[408]["ID"] = 408
+	DIRTYWORD[408]["KEY"] = "伟哥"
+	DIRTYWORD[408]["real_idx"] = 408
+
+DIRTYWORD["index"][409] = 409
+DIRTYWORD[409] = {}
+	DIRTYWORD[409]["ID"] = 409
+	DIRTYWORD[409]["KEY"] = "性高潮"
+	DIRTYWORD[409]["real_idx"] = 409
+
+DIRTYWORD["index"][410] = 410
+DIRTYWORD[410] = {}
+	DIRTYWORD[410]["ID"] = 410
+	DIRTYWORD[410]["KEY"] = "性交"
+	DIRTYWORD[410]["real_idx"] = 410
+
+DIRTYWORD["index"][411] = 411
+DIRTYWORD[411] = {}
+	DIRTYWORD[411]["ID"] = 411
+	DIRTYWORD[411]["KEY"] = "性虐"
+	DIRTYWORD[411]["real_idx"] = 411
+
+DIRTYWORD["index"][412] = 412
+DIRTYWORD[412] = {}
+	DIRTYWORD[412]["ID"] = 412
+	DIRTYWORD[412]["KEY"] = "性欲"
+	DIRTYWORD[412]["real_idx"] = 412
+
+DIRTYWORD["index"][413] = 413
+DIRTYWORD[413] = {}
+	DIRTYWORD[413]["ID"] = 413
+	DIRTYWORD[413]["KEY"] = "穴"
+	DIRTYWORD[413]["real_idx"] = 413
+
+DIRTYWORD["index"][414] = 414
+DIRTYWORD[414] = {}
+	DIRTYWORD[414]["ID"] = 414
+	DIRTYWORD[414]["KEY"] = "颜射"
+	DIRTYWORD[414]["real_idx"] = 414
+
+DIRTYWORD["index"][415] = 415
+DIRTYWORD[415] = {}
+	DIRTYWORD[415]["ID"] = 415
+	DIRTYWORD[415]["KEY"] = "阳物"
+	DIRTYWORD[415]["real_idx"] = 415
+
+DIRTYWORD["index"][416] = 416
+DIRTYWORD[416] = {}
+	DIRTYWORD[416]["ID"] = 416
+	DIRTYWORD[416]["KEY"] = "一夜情"
+	DIRTYWORD[416]["real_idx"] = 416
+
+DIRTYWORD["index"][417] = 417
+DIRTYWORD[417] = {}
+	DIRTYWORD[417]["ID"] = 417
+	DIRTYWORD[417]["KEY"] = "阴部"
+	DIRTYWORD[417]["real_idx"] = 417
+
+DIRTYWORD["index"][418] = 418
+DIRTYWORD[418] = {}
+	DIRTYWORD[418]["ID"] = 418
+	DIRTYWORD[418]["KEY"] = "阴唇"
+	DIRTYWORD[418]["real_idx"] = 418
+
+DIRTYWORD["index"][419] = 419
+DIRTYWORD[419] = {}
+	DIRTYWORD[419]["ID"] = 419
+	DIRTYWORD[419]["KEY"] = "阴道"
+	DIRTYWORD[419]["real_idx"] = 419
+
+DIRTYWORD["index"][420] = 420
+DIRTYWORD[420] = {}
+	DIRTYWORD[420]["ID"] = 420
+	DIRTYWORD[420]["KEY"] = "阴蒂"
+	DIRTYWORD[420]["real_idx"] = 420
+
+DIRTYWORD["index"][421] = 421
+DIRTYWORD[421] = {}
+	DIRTYWORD[421]["ID"] = 421
+	DIRTYWORD[421]["KEY"] = "阴核"
+	DIRTYWORD[421]["real_idx"] = 421
+
+DIRTYWORD["index"][422] = 422
+DIRTYWORD[422] = {}
+	DIRTYWORD[422]["ID"] = 422
+	DIRTYWORD[422]["KEY"] = "阴户"
+	DIRTYWORD[422]["real_idx"] = 422
+
+DIRTYWORD["index"][423] = 423
+DIRTYWORD[423] = {}
+	DIRTYWORD[423]["ID"] = 423
+	DIRTYWORD[423]["KEY"] = "阴茎"
+	DIRTYWORD[423]["real_idx"] = 423
+
+DIRTYWORD["index"][424] = 424
+DIRTYWORD[424] = {}
+	DIRTYWORD[424]["ID"] = 424
+	DIRTYWORD[424]["KEY"] = "阴门"
+	DIRTYWORD[424]["real_idx"] = 424
+
+DIRTYWORD["index"][425] = 425
+DIRTYWORD[425] = {}
+	DIRTYWORD[425]["ID"] = 425
+	DIRTYWORD[425]["KEY"] = "淫"
+	DIRTYWORD[425]["real_idx"] = 425
+
+DIRTYWORD["index"][426] = 426
+DIRTYWORD[426] = {}
+	DIRTYWORD[426]["ID"] = 426
+	DIRTYWORD[426]["KEY"] = "淫秽"
+	DIRTYWORD[426]["real_idx"] = 426
+
+DIRTYWORD["index"][427] = 427
+DIRTYWORD[427] = {}
+	DIRTYWORD[427]["ID"] = 427
+	DIRTYWORD[427]["KEY"] = "淫乱"
+	DIRTYWORD[427]["real_idx"] = 427
+
+DIRTYWORD["index"][428] = 428
+DIRTYWORD[428] = {}
+	DIRTYWORD[428]["ID"] = 428
+	DIRTYWORD[428]["KEY"] = "淫水"
+	DIRTYWORD[428]["real_idx"] = 428
+
+DIRTYWORD["index"][429] = 429
+DIRTYWORD[429] = {}
+	DIRTYWORD[429]["ID"] = 429
+	DIRTYWORD[429]["KEY"] = "淫娃"
+	DIRTYWORD[429]["real_idx"] = 429
+
+DIRTYWORD["index"][430] = 430
+DIRTYWORD[430] = {}
+	DIRTYWORD[430]["ID"] = 430
+	DIRTYWORD[430]["KEY"] = "淫液"
+	DIRTYWORD[430]["real_idx"] = 430
+
+DIRTYWORD["index"][431] = 431
+DIRTYWORD[431] = {}
+	DIRTYWORD[431]["ID"] = 431
+	DIRTYWORD[431]["KEY"] = "淫汁"
+	DIRTYWORD[431]["real_idx"] = 431
+
+DIRTYWORD["index"][432] = 432
+DIRTYWORD[432] = {}
+	DIRTYWORD[432]["ID"] = 432
+	DIRTYWORD[432]["KEY"] = "淫穴"
+	DIRTYWORD[432]["real_idx"] = 432
+
+DIRTYWORD["index"][433] = 433
+DIRTYWORD[433] = {}
+	DIRTYWORD[433]["ID"] = 433
+	DIRTYWORD[433]["KEY"] = "淫洞"
+	DIRTYWORD[433]["real_idx"] = 433
+
+DIRTYWORD["index"][434] = 434
+DIRTYWORD[434] = {}
+	DIRTYWORD[434]["ID"] = 434
+	DIRTYWORD[434]["KEY"] = "援交妹"
+	DIRTYWORD[434]["real_idx"] = 434
+
+DIRTYWORD["index"][435] = 435
+DIRTYWORD[435] = {}
+	DIRTYWORD[435]["ID"] = 435
+	DIRTYWORD[435]["KEY"] = "做爱"
+	DIRTYWORD[435]["real_idx"] = 435
+
+DIRTYWORD["index"][436] = 436
+DIRTYWORD[436] = {}
+	DIRTYWORD[436]["ID"] = 436
+	DIRTYWORD[436]["KEY"] = "梦遗"
+	DIRTYWORD[436]["real_idx"] = 436
+
+DIRTYWORD["index"][437] = 437
+DIRTYWORD[437] = {}
+	DIRTYWORD[437]["ID"] = 437
+	DIRTYWORD[437]["KEY"] = "阳痿"
+	DIRTYWORD[437]["real_idx"] = 437
+
+DIRTYWORD["index"][438] = 438
+DIRTYWORD[438] = {}
+	DIRTYWORD[438]["ID"] = 438
+	DIRTYWORD[438]["KEY"] = "早泄"
+	DIRTYWORD[438]["real_idx"] = 438
+
+DIRTYWORD["index"][439] = 439
+DIRTYWORD[439] = {}
+	DIRTYWORD[439]["ID"] = 439
+	DIRTYWORD[439]["KEY"] = "奸淫"
+	DIRTYWORD[439]["real_idx"] = 439
+
+DIRTYWORD["index"][440] = 440
+DIRTYWORD[440] = {}
+	DIRTYWORD[440]["ID"] = 440
+	DIRTYWORD[440]["KEY"] = "性欲"
+	DIRTYWORD[440]["real_idx"] = 440
+
+DIRTYWORD["index"][441] = 441
+DIRTYWORD[441] = {}
+	DIRTYWORD[441]["ID"] = 441
+	DIRTYWORD[441]["KEY"] = "性交"
+	DIRTYWORD[441]["real_idx"] = 441
+
+DIRTYWORD["index"][442] = 442
+DIRTYWORD[442] = {}
+	DIRTYWORD[442]["ID"] = 442
+	DIRTYWORD[442]["KEY"] = "Bitch"
+	DIRTYWORD[442]["real_idx"] = 442
+
+DIRTYWORD["index"][443] = 443
+DIRTYWORD[443] = {}
+	DIRTYWORD[443]["ID"] = 443
+	DIRTYWORD[443]["KEY"] = "bt"
+	DIRTYWORD[443]["real_idx"] = 443
+
+DIRTYWORD["index"][444] = 444
+DIRTYWORD[444] = {}
+	DIRTYWORD[444]["ID"] = 444
+	DIRTYWORD[444]["KEY"] = "cao"
+	DIRTYWORD[444]["real_idx"] = 444
+
+DIRTYWORD["index"][445] = 445
+DIRTYWORD[445] = {}
+	DIRTYWORD[445]["ID"] = 445
+	DIRTYWORD[445]["KEY"] = "KUCK"
+	DIRTYWORD[445]["real_idx"] = 445
+
+DIRTYWORD["index"][446] = 446
+DIRTYWORD[446] = {}
+	DIRTYWORD[446]["ID"] = 446
+	DIRTYWORD[446]["KEY"] = "Kuck"
+	DIRTYWORD[446]["real_idx"] = 446
+
+DIRTYWORD["index"][447] = 447
+DIRTYWORD[447] = {}
+	DIRTYWORD[447]["ID"] = 447
+	DIRTYWORD[447]["KEY"] = "Kuck"
+	DIRTYWORD[447]["real_idx"] = 447
+
+DIRTYWORD["index"][448] = 448
+DIRTYWORD[448] = {}
+	DIRTYWORD[448]["ID"] = 448
+	DIRTYWORD[448]["KEY"] = "kao"
+	DIRTYWORD[448]["real_idx"] = 448
+
+DIRTYWORD["index"][449] = 449
+DIRTYWORD[449] = {}
+	DIRTYWORD[449]["ID"] = 449
+	DIRTYWORD[449]["KEY"] = "NMD"
+	DIRTYWORD[449]["real_idx"] = 449
+
+DIRTYWORD["index"][450] = 450
+DIRTYWORD[450] = {}
+	DIRTYWORD[450]["ID"] = 450
+	DIRTYWORD[450]["KEY"] = "NND"
+	DIRTYWORD[450]["real_idx"] = 450
+
+DIRTYWORD["index"][451] = 451
+DIRTYWORD[451] = {}
+	DIRTYWORD[451]["ID"] = 451
+	DIRTYWORD[451]["KEY"] = "sb"
+	DIRTYWORD[451]["real_idx"] = 451
+
+DIRTYWORD["index"][452] = 452
+DIRTYWORD[452] = {}
+	DIRTYWORD[452]["ID"] = 452
+	DIRTYWORD[452]["KEY"] = "shit"
+	DIRTYWORD[452]["real_idx"] = 452
+
+DIRTYWORD["index"][453] = 453
+DIRTYWORD[453] = {}
+	DIRTYWORD[453]["ID"] = 453
+	DIRTYWORD[453]["KEY"] = "SHIT"
+	DIRTYWORD[453]["real_idx"] = 453
+
+DIRTYWORD["index"][454] = 454
+DIRTYWORD[454] = {}
+	DIRTYWORD[454]["ID"] = 454
+	DIRTYWORD[454]["KEY"] = "SUCK"
+	DIRTYWORD[454]["real_idx"] = 454
+
+DIRTYWORD["index"][455] = 455
+DIRTYWORD[455] = {}
+	DIRTYWORD[455]["ID"] = 455
+	DIRTYWORD[455]["KEY"] = "Suck"
+	DIRTYWORD[455]["real_idx"] = 455
+
+DIRTYWORD["index"][456] = 456
+DIRTYWORD[456] = {}
+	DIRTYWORD[456]["ID"] = 456
+	DIRTYWORD[456]["KEY"] = "tmd"
+	DIRTYWORD[456]["real_idx"] = 456
+
+DIRTYWORD["index"][457] = 457
+DIRTYWORD[457] = {}
+	DIRTYWORD[457]["ID"] = 457
+	DIRTYWORD[457]["KEY"] = "TMD"
+	DIRTYWORD[457]["real_idx"] = 457
+
+DIRTYWORD["index"][458] = 458
+DIRTYWORD[458] = {}
+	DIRTYWORD[458]["ID"] = 458
+	DIRTYWORD[458]["KEY"] = "tnnd"
+	DIRTYWORD[458]["real_idx"] = 458
+
+DIRTYWORD["index"][459] = 459
+DIRTYWORD[459] = {}
+	DIRTYWORD[459]["ID"] = 459
+	DIRTYWORD[459]["KEY"] = "K他命"
+	DIRTYWORD[459]["real_idx"] = 459
+
+DIRTYWORD["index"][460] = 460
+DIRTYWORD[460] = {}
+	DIRTYWORD[460]["ID"] = 460
+	DIRTYWORD[460]["KEY"] = "白痴"
+	DIRTYWORD[460]["real_idx"] = 460
+
+DIRTYWORD["index"][461] = 461
+DIRTYWORD[461] = {}
+	DIRTYWORD[461]["ID"] = 461
+	DIRTYWORD[461]["KEY"] = "笨蛋"
+	DIRTYWORD[461]["real_idx"] = 461
+
+DIRTYWORD["index"][462] = 462
+DIRTYWORD[462] = {}
+	DIRTYWORD[462]["ID"] = 462
+	DIRTYWORD[462]["KEY"] = "屄"
+	DIRTYWORD[462]["real_idx"] = 462
+
+DIRTYWORD["index"][463] = 463
+DIRTYWORD[463] = {}
+	DIRTYWORD[463]["ID"] = 463
+	DIRTYWORD[463]["KEY"] = "变态"
+	DIRTYWORD[463]["real_idx"] = 463
+
+DIRTYWORD["index"][464] = 464
+DIRTYWORD[464] = {}
+	DIRTYWORD[464]["ID"] = 464
+	DIRTYWORD[464]["KEY"] = "婊子"
+	DIRTYWORD[464]["real_idx"] = 464
+
+DIRTYWORD["index"][465] = 465
+DIRTYWORD[465] = {}
+	DIRTYWORD[465]["ID"] = 465
+	DIRTYWORD[465]["KEY"] = "操她妈"
+	DIRTYWORD[465]["real_idx"] = 465
+
+DIRTYWORD["index"][466] = 466
+DIRTYWORD[466] = {}
+	DIRTYWORD[466]["ID"] = 466
+	DIRTYWORD[466]["KEY"] = "操妳妈"
+	DIRTYWORD[466]["real_idx"] = 466
+
+DIRTYWORD["index"][467] = 467
+DIRTYWORD[467] = {}
+	DIRTYWORD[467]["ID"] = 467
+	DIRTYWORD[467]["KEY"] = "操你"
+	DIRTYWORD[467]["real_idx"] = 467
+
+DIRTYWORD["index"][468] = 468
+DIRTYWORD[468] = {}
+	DIRTYWORD[468]["ID"] = 468
+	DIRTYWORD[468]["KEY"] = "操你妈"
+	DIRTYWORD[468]["real_idx"] = 468
+
+DIRTYWORD["index"][469] = 469
+DIRTYWORD[469] = {}
+	DIRTYWORD[469]["ID"] = 469
+	DIRTYWORD[469]["KEY"] = "操他妈"
+	DIRTYWORD[469]["real_idx"] = 469
+
+DIRTYWORD["index"][470] = 470
+DIRTYWORD[470] = {}
+	DIRTYWORD[470]["ID"] = 470
+	DIRTYWORD[470]["KEY"] = "草你"
+	DIRTYWORD[470]["real_idx"] = 470
+
+DIRTYWORD["index"][471] = 471
+DIRTYWORD[471] = {}
+	DIRTYWORD[471]["ID"] = 471
+	DIRTYWORD[471]["KEY"] = "肏"
+	DIRTYWORD[471]["real_idx"] = 471
+
+DIRTYWORD["index"][472] = 472
+DIRTYWORD[472] = {}
+	DIRTYWORD[472]["ID"] = 472
+	DIRTYWORD[472]["KEY"] = "册那"
+	DIRTYWORD[472]["real_idx"] = 472
+
+DIRTYWORD["index"][473] = 473
+DIRTYWORD[473] = {}
+	DIRTYWORD[473]["ID"] = 473
+	DIRTYWORD[473]["KEY"] = "侧那"
+	DIRTYWORD[473]["real_idx"] = 473
+
+DIRTYWORD["index"][474] = 474
+DIRTYWORD[474] = {}
+	DIRTYWORD[474]["ID"] = 474
+	DIRTYWORD[474]["KEY"] = "测拿"
+	DIRTYWORD[474]["real_idx"] = 474
+
+DIRTYWORD["index"][475] = 475
+DIRTYWORD[475] = {}
+	DIRTYWORD[475]["ID"] = 475
+	DIRTYWORD[475]["KEY"] = "插"
+	DIRTYWORD[475]["real_idx"] = 475
+
+DIRTYWORD["index"][476] = 476
+DIRTYWORD[476] = {}
+	DIRTYWORD[476]["ID"] = 476
+	DIRTYWORD[476]["KEY"] = "蠢猪"
+	DIRTYWORD[476]["real_idx"] = 476
+
+DIRTYWORD["index"][477] = 477
+DIRTYWORD[477] = {}
+	DIRTYWORD[477]["ID"] = 477
+	DIRTYWORD[477]["KEY"] = "荡妇"
+	DIRTYWORD[477]["real_idx"] = 477
+
+DIRTYWORD["index"][478] = 478
+DIRTYWORD[478] = {}
+	DIRTYWORD[478]["ID"] = 478
+	DIRTYWORD[478]["KEY"] = "发骚"
+	DIRTYWORD[478]["real_idx"] = 478
+
+DIRTYWORD["index"][479] = 479
+DIRTYWORD[479] = {}
+	DIRTYWORD[479]["ID"] = 479
+	DIRTYWORD[479]["KEY"] = "废物"
+	DIRTYWORD[479]["real_idx"] = 479
+
+DIRTYWORD["index"][480] = 480
+DIRTYWORD[480] = {}
+	DIRTYWORD[480]["ID"] = 480
+	DIRTYWORD[480]["KEY"] = "干她妈"
+	DIRTYWORD[480]["real_idx"] = 480
+
+DIRTYWORD["index"][481] = 481
+DIRTYWORD[481] = {}
+	DIRTYWORD[481]["ID"] = 481
+	DIRTYWORD[481]["KEY"] = "干妳"
+	DIRTYWORD[481]["real_idx"] = 481
+
+DIRTYWORD["index"][482] = 482
+DIRTYWORD[482] = {}
+	DIRTYWORD[482]["ID"] = 482
+	DIRTYWORD[482]["KEY"] = "干妳娘"
+	DIRTYWORD[482]["real_idx"] = 482
+
+DIRTYWORD["index"][483] = 483
+DIRTYWORD[483] = {}
+	DIRTYWORD[483]["ID"] = 483
+	DIRTYWORD[483]["KEY"] = "干你"
+	DIRTYWORD[483]["real_idx"] = 483
+
+DIRTYWORD["index"][484] = 484
+DIRTYWORD[484] = {}
+	DIRTYWORD[484]["ID"] = 484
+	DIRTYWORD[484]["KEY"] = "干你妈"
+	DIRTYWORD[484]["real_idx"] = 484
+
+DIRTYWORD["index"][485] = 485
+DIRTYWORD[485] = {}
+	DIRTYWORD[485]["ID"] = 485
+	DIRTYWORD[485]["KEY"] = "干你妈B"
+	DIRTYWORD[485]["real_idx"] = 485
+
+DIRTYWORD["index"][486] = 486
+DIRTYWORD[486] = {}
+	DIRTYWORD[486]["ID"] = 486
+	DIRTYWORD[486]["KEY"] = "干你妈b"
+	DIRTYWORD[486]["real_idx"] = 486
+
+DIRTYWORD["index"][487] = 487
+DIRTYWORD[487] = {}
+	DIRTYWORD[487]["ID"] = 487
+	DIRTYWORD[487]["KEY"] = "干你妈逼"
+	DIRTYWORD[487]["real_idx"] = 487
+
+DIRTYWORD["index"][488] = 488
+DIRTYWORD[488] = {}
+	DIRTYWORD[488]["ID"] = 488
+	DIRTYWORD[488]["KEY"] = "干你娘"
+	DIRTYWORD[488]["real_idx"] = 488
+
+DIRTYWORD["index"][489] = 489
+DIRTYWORD[489] = {}
+	DIRTYWORD[489]["ID"] = 489
+	DIRTYWORD[489]["KEY"] = "干他妈"
+	DIRTYWORD[489]["real_idx"] = 489
+
+DIRTYWORD["index"][490] = 490
+DIRTYWORD[490] = {}
+	DIRTYWORD[490]["ID"] = 490
+	DIRTYWORD[490]["KEY"] = "狗娘养的"
+	DIRTYWORD[490]["real_idx"] = 490
+
+DIRTYWORD["index"][491] = 491
+DIRTYWORD[491] = {}
+	DIRTYWORD[491]["ID"] = 491
+	DIRTYWORD[491]["KEY"] = "滚"
+	DIRTYWORD[491]["real_idx"] = 491
+
+DIRTYWORD["index"][492] = 492
+DIRTYWORD[492] = {}
+	DIRTYWORD[492]["ID"] = 492
+	DIRTYWORD[492]["KEY"] = "鸡奸"
+	DIRTYWORD[492]["real_idx"] = 492
+
+DIRTYWORD["index"][493] = 493
+DIRTYWORD[493] = {}
+	DIRTYWORD[493]["ID"] = 493
+	DIRTYWORD[493]["KEY"] = "贱货"
+	DIRTYWORD[493]["real_idx"] = 493
+
+DIRTYWORD["index"][494] = 494
+DIRTYWORD[494] = {}
+	DIRTYWORD[494]["ID"] = 494
+	DIRTYWORD[494]["KEY"] = "贱人"
+	DIRTYWORD[494]["real_idx"] = 494
+
+DIRTYWORD["index"][495] = 495
+DIRTYWORD[495] = {}
+	DIRTYWORD[495]["ID"] = 495
+	DIRTYWORD[495]["KEY"] = "烂人"
+	DIRTYWORD[495]["real_idx"] = 495
+
+DIRTYWORD["index"][496] = 496
+DIRTYWORD[496] = {}
+	DIRTYWORD[496]["ID"] = 496
+	DIRTYWORD[496]["KEY"] = "老母"
+	DIRTYWORD[496]["real_idx"] = 496
+
+DIRTYWORD["index"][497] = 497
+DIRTYWORD[497] = {}
+	DIRTYWORD[497]["ID"] = 497
+	DIRTYWORD[497]["KEY"] = "老土"
+	DIRTYWORD[497]["real_idx"] = 497
+
+DIRTYWORD["index"][498] = 498
+DIRTYWORD[498] = {}
+	DIRTYWORD[498]["ID"] = 498
+	DIRTYWORD[498]["KEY"] = "妈比"
+	DIRTYWORD[498]["real_idx"] = 498
+
+DIRTYWORD["index"][499] = 499
+DIRTYWORD[499] = {}
+	DIRTYWORD[499]["ID"] = 499
+	DIRTYWORD[499]["KEY"] = "妈的"
+	DIRTYWORD[499]["real_idx"] = 499
+
+DIRTYWORD["index"][500] = 500
+DIRTYWORD[500] = {}
+	DIRTYWORD[500]["ID"] = 500
+	DIRTYWORD[500]["KEY"] = "马的"
+	DIRTYWORD[500]["real_idx"] = 500
+
+DIRTYWORD["index"][501] = 501
+DIRTYWORD[501] = {}
+	DIRTYWORD[501]["ID"] = 501
+	DIRTYWORD[501]["KEY"] = "妳老母的"
+	DIRTYWORD[501]["real_idx"] = 501
+
+DIRTYWORD["index"][502] = 502
+DIRTYWORD[502] = {}
+	DIRTYWORD[502]["ID"] = 502
+	DIRTYWORD[502]["KEY"] = "妳娘的"
+	DIRTYWORD[502]["real_idx"] = 502
+
+DIRTYWORD["index"][503] = 503
+DIRTYWORD[503] = {}
+	DIRTYWORD[503]["ID"] = 503
+	DIRTYWORD[503]["KEY"] = "你妈逼"
+	DIRTYWORD[503]["real_idx"] = 503
+
+DIRTYWORD["index"][504] = 504
+DIRTYWORD[504] = {}
+	DIRTYWORD[504]["ID"] = 504
+	DIRTYWORD[504]["KEY"] = "破鞋"
+	DIRTYWORD[504]["real_idx"] = 504
+
+DIRTYWORD["index"][505] = 505
+DIRTYWORD[505] = {}
+	DIRTYWORD[505]["ID"] = 505
+	DIRTYWORD[505]["KEY"] = "仆街"
+	DIRTYWORD[505]["real_idx"] = 505
+
+DIRTYWORD["index"][506] = 506
+DIRTYWORD[506] = {}
+	DIRTYWORD[506]["ID"] = 506
+	DIRTYWORD[506]["KEY"] = "去她妈"
+	DIRTYWORD[506]["real_idx"] = 506
+
+DIRTYWORD["index"][507] = 507
+DIRTYWORD[507] = {}
+	DIRTYWORD[507]["ID"] = 507
+	DIRTYWORD[507]["KEY"] = "去妳的"
+	DIRTYWORD[507]["real_idx"] = 507
+
+DIRTYWORD["index"][508] = 508
+DIRTYWORD[508] = {}
+	DIRTYWORD[508]["ID"] = 508
+	DIRTYWORD[508]["KEY"] = "去妳妈"
+	DIRTYWORD[508]["real_idx"] = 508
+
+DIRTYWORD["index"][509] = 509
+DIRTYWORD[509] = {}
+	DIRTYWORD[509]["ID"] = 509
+	DIRTYWORD[509]["KEY"] = "去你的"
+	DIRTYWORD[509]["real_idx"] = 509
+
+DIRTYWORD["index"][510] = 510
+DIRTYWORD[510] = {}
+	DIRTYWORD[510]["ID"] = 510
+	DIRTYWORD[510]["KEY"] = "去你妈"
+	DIRTYWORD[510]["real_idx"] = 510
+
+DIRTYWORD["index"][511] = 511
+DIRTYWORD[511] = {}
+	DIRTYWORD[511]["ID"] = 511
+	DIRTYWORD[511]["KEY"] = "去死"
+	DIRTYWORD[511]["real_idx"] = 511
+
+DIRTYWORD["index"][512] = 512
+DIRTYWORD[512] = {}
+	DIRTYWORD[512]["ID"] = 512
+	DIRTYWORD[512]["KEY"] = "去他妈"
+	DIRTYWORD[512]["real_idx"] = 512
+
+DIRTYWORD["index"][513] = 513
+DIRTYWORD[513] = {}
+	DIRTYWORD[513]["ID"] = 513
+	DIRTYWORD[513]["KEY"] = "日"
+	DIRTYWORD[513]["real_idx"] = 513
+
+DIRTYWORD["index"][514] = 514
+DIRTYWORD[514] = {}
+	DIRTYWORD[514]["ID"] = 514
+	DIRTYWORD[514]["KEY"] = "日你"
+	DIRTYWORD[514]["real_idx"] = 514
+
+DIRTYWORD["index"][515] = 515
+DIRTYWORD[515] = {}
+	DIRTYWORD[515]["ID"] = 515
+	DIRTYWORD[515]["KEY"] = "赛她娘"
+	DIRTYWORD[515]["real_idx"] = 515
+
+DIRTYWORD["index"][516] = 516
+DIRTYWORD[516] = {}
+	DIRTYWORD[516]["ID"] = 516
+	DIRTYWORD[516]["KEY"] = "赛妳娘"
+	DIRTYWORD[516]["real_idx"] = 516
+
+DIRTYWORD["index"][517] = 517
+DIRTYWORD[517] = {}
+	DIRTYWORD[517]["ID"] = 517
+	DIRTYWORD[517]["KEY"] = "赛你娘"
+	DIRTYWORD[517]["real_idx"] = 517
+
+DIRTYWORD["index"][518] = 518
+DIRTYWORD[518] = {}
+	DIRTYWORD[518]["ID"] = 518
+	DIRTYWORD[518]["KEY"] = "赛他娘"
+	DIRTYWORD[518]["real_idx"] = 518
+
+DIRTYWORD["index"][519] = 519
+DIRTYWORD[519] = {}
+	DIRTYWORD[519]["ID"] = 519
+	DIRTYWORD[519]["KEY"] = "骚货"
+	DIRTYWORD[519]["real_idx"] = 519
+
+DIRTYWORD["index"][520] = 520
+DIRTYWORD[520] = {}
+	DIRTYWORD[520]["ID"] = 520
+	DIRTYWORD[520]["KEY"] = "傻B"
+	DIRTYWORD[520]["real_idx"] = 520
+
+DIRTYWORD["index"][521] = 521
+DIRTYWORD[521] = {}
+	DIRTYWORD[521]["ID"] = 521
+	DIRTYWORD[521]["KEY"] = "傻比"
+	DIRTYWORD[521]["real_idx"] = 521
+
+DIRTYWORD["index"][522] = 522
+DIRTYWORD[522] = {}
+	DIRTYWORD[522]["ID"] = 522
+	DIRTYWORD[522]["KEY"] = "傻子"
+	DIRTYWORD[522]["real_idx"] = 522
+
+DIRTYWORD["index"][523] = 523
+DIRTYWORD[523] = {}
+	DIRTYWORD[523]["ID"] = 523
+	DIRTYWORD[523]["KEY"] = "上妳"
+	DIRTYWORD[523]["real_idx"] = 523
+
+DIRTYWORD["index"][524] = 524
+DIRTYWORD[524] = {}
+	DIRTYWORD[524]["ID"] = 524
+	DIRTYWORD[524]["KEY"] = "上你"
+	DIRTYWORD[524]["real_idx"] = 524
+
+DIRTYWORD["index"][525] = 525
+DIRTYWORD[525] = {}
+	DIRTYWORD[525]["ID"] = 525
+	DIRTYWORD[525]["KEY"] = "神经病"
+	DIRTYWORD[525]["real_idx"] = 525
+
+DIRTYWORD["index"][526] = 526
+DIRTYWORD[526] = {}
+	DIRTYWORD[526]["ID"] = 526
+	DIRTYWORD[526]["KEY"] = "屎"
+	DIRTYWORD[526]["real_idx"] = 526
+
+DIRTYWORD["index"][527] = 527
+DIRTYWORD[527] = {}
+	DIRTYWORD[527]["ID"] = 527
+	DIRTYWORD[527]["KEY"] = "屎妳娘"
+	DIRTYWORD[527]["real_idx"] = 527
+
+DIRTYWORD["index"][528] = 528
+DIRTYWORD[528] = {}
+	DIRTYWORD[528]["ID"] = 528
+	DIRTYWORD[528]["KEY"] = "屎你娘"
+	DIRTYWORD[528]["real_idx"] = 528
+
+DIRTYWORD["index"][529] = 529
+DIRTYWORD[529] = {}
+	DIRTYWORD[529]["ID"] = 529
+	DIRTYWORD[529]["KEY"] = "他妈的"
+	DIRTYWORD[529]["real_idx"] = 529
+
+DIRTYWORD["index"][530] = 530
+DIRTYWORD[530] = {}
+	DIRTYWORD[530]["ID"] = 530
+	DIRTYWORD[530]["KEY"] = "王八蛋"
+	DIRTYWORD[530]["real_idx"] = 530
+
+DIRTYWORD["index"][531] = 531
+DIRTYWORD[531] = {}
+	DIRTYWORD[531]["ID"] = 531
+	DIRTYWORD[531]["KEY"] = "我操"
+	DIRTYWORD[531]["real_idx"] = 531
+
+DIRTYWORD["index"][532] = 532
+DIRTYWORD[532] = {}
+	DIRTYWORD[532]["ID"] = 532
+	DIRTYWORD[532]["KEY"] = "我日"
+	DIRTYWORD[532]["real_idx"] = 532
+
+DIRTYWORD["index"][533] = 533
+DIRTYWORD[533] = {}
+	DIRTYWORD[533]["ID"] = 533
+	DIRTYWORD[533]["KEY"] = "乡巴佬"
+	DIRTYWORD[533]["real_idx"] = 533
+
+DIRTYWORD["index"][534] = 534
+DIRTYWORD[534] = {}
+	DIRTYWORD[534]["ID"] = 534
+	DIRTYWORD[534]["KEY"] = "猪猡"
+	DIRTYWORD[534]["real_idx"] = 534
+
+DIRTYWORD["index"][535] = 535
+DIRTYWORD[535] = {}
+	DIRTYWORD[535]["ID"] = 535
+	DIRTYWORD[535]["KEY"] = "屙"
+	DIRTYWORD[535]["real_idx"] = 535
+
+DIRTYWORD["index"][536] = 536
+DIRTYWORD[536] = {}
+	DIRTYWORD[536]["ID"] = 536
+	DIRTYWORD[536]["KEY"] = "干"
+	DIRTYWORD[536]["real_idx"] = 536
+
+DIRTYWORD["index"][537] = 537
+DIRTYWORD[537] = {}
+	DIRTYWORD[537]["ID"] = 537
+	DIRTYWORD[537]["KEY"] = "尿"
+	DIRTYWORD[537]["real_idx"] = 537
+
+DIRTYWORD["index"][538] = 538
+DIRTYWORD[538] = {}
+	DIRTYWORD[538]["ID"] = 538
+	DIRTYWORD[538]["KEY"] = "掯"
+	DIRTYWORD[538]["real_idx"] = 538
+
+DIRTYWORD["index"][539] = 539
+DIRTYWORD[539] = {}
+	DIRTYWORD[539]["ID"] = 539
+	DIRTYWORD[539]["KEY"] = "屌"
+	DIRTYWORD[539]["real_idx"] = 539
+
+DIRTYWORD["index"][540] = 540
+DIRTYWORD[540] = {}
+	DIRTYWORD[540]["ID"] = 540
+	DIRTYWORD[540]["KEY"] = "操"
+	DIRTYWORD[540]["real_idx"] = 540
+
+DIRTYWORD["index"][541] = 541
+DIRTYWORD[541] = {}
+	DIRTYWORD[541]["ID"] = 541
+	DIRTYWORD[541]["KEY"] = "骑你"
+	DIRTYWORD[541]["real_idx"] = 541
+
+DIRTYWORD["index"][542] = 542
+DIRTYWORD[542] = {}
+	DIRTYWORD[542]["ID"] = 542
+	DIRTYWORD[542]["KEY"] = "湿了"
+	DIRTYWORD[542]["real_idx"] = 542
+
+DIRTYWORD["index"][543] = 543
+DIRTYWORD[543] = {}
+	DIRTYWORD[543]["ID"] = 543
+	DIRTYWORD[543]["KEY"] = "操你"
+	DIRTYWORD[543]["real_idx"] = 543
+
+DIRTYWORD["index"][544] = 544
+DIRTYWORD[544] = {}
+	DIRTYWORD[544]["ID"] = 544
+	DIRTYWORD[544]["KEY"] = "操他"
+	DIRTYWORD[544]["real_idx"] = 544
+
+DIRTYWORD["index"][545] = 545
+DIRTYWORD[545] = {}
+	DIRTYWORD[545]["ID"] = 545
+	DIRTYWORD[545]["KEY"] = "操她"
+	DIRTYWORD[545]["real_idx"] = 545
+
+DIRTYWORD["index"][546] = 546
+DIRTYWORD[546] = {}
+	DIRTYWORD[546]["ID"] = 546
+	DIRTYWORD[546]["KEY"] = "骑你"
+	DIRTYWORD[546]["real_idx"] = 546
+
+DIRTYWORD["index"][547] = 547
+DIRTYWORD[547] = {}
+	DIRTYWORD[547]["ID"] = 547
+	DIRTYWORD[547]["KEY"] = "骑他"
+	DIRTYWORD[547]["real_idx"] = 547
+
+DIRTYWORD["index"][548] = 548
+DIRTYWORD[548] = {}
+	DIRTYWORD[548]["ID"] = 548
+	DIRTYWORD[548]["KEY"] = "骑她"
+	DIRTYWORD[548]["real_idx"] = 548
+
+DIRTYWORD["index"][549] = 549
+DIRTYWORD[549] = {}
+	DIRTYWORD[549]["ID"] = 549
+	DIRTYWORD[549]["KEY"] = "欠骑"
+	DIRTYWORD[549]["real_idx"] = 549
+
+DIRTYWORD["index"][550] = 550
+DIRTYWORD[550] = {}
+	DIRTYWORD[550]["ID"] = 550
+	DIRTYWORD[550]["KEY"] = "欠人骑"
+	DIRTYWORD[550]["real_idx"] = 550
+
+DIRTYWORD["index"][551] = 551
+DIRTYWORD[551] = {}
+	DIRTYWORD[551]["ID"] = 551
+	DIRTYWORD[551]["KEY"] = "来爽我"
+	DIRTYWORD[551]["real_idx"] = 551
+
+DIRTYWORD["index"][552] = 552
+DIRTYWORD[552] = {}
+	DIRTYWORD[552]["ID"] = 552
+	DIRTYWORD[552]["KEY"] = "来插我"
+	DIRTYWORD[552]["real_idx"] = 552
+
+DIRTYWORD["index"][553] = 553
+DIRTYWORD[553] = {}
+	DIRTYWORD[553]["ID"] = 553
+	DIRTYWORD[553]["KEY"] = "干你"
+	DIRTYWORD[553]["real_idx"] = 553
+
+DIRTYWORD["index"][554] = 554
+DIRTYWORD[554] = {}
+	DIRTYWORD[554]["ID"] = 554
+	DIRTYWORD[554]["KEY"] = "干他"
+	DIRTYWORD[554]["real_idx"] = 554
+
+DIRTYWORD["index"][555] = 555
+DIRTYWORD[555] = {}
+	DIRTYWORD[555]["ID"] = 555
+	DIRTYWORD[555]["KEY"] = "干她"
+	DIRTYWORD[555]["real_idx"] = 555
+
+DIRTYWORD["index"][556] = 556
+DIRTYWORD[556] = {}
+	DIRTYWORD[556]["ID"] = 556
+	DIRTYWORD[556]["KEY"] = "干死"
+	DIRTYWORD[556]["real_idx"] = 556
+
+DIRTYWORD["index"][557] = 557
+DIRTYWORD[557] = {}
+	DIRTYWORD[557]["ID"] = 557
+	DIRTYWORD[557]["KEY"] = "干爆"
+	DIRTYWORD[557]["real_idx"] = 557
+
+DIRTYWORD["index"][558] = 558
+DIRTYWORD[558] = {}
+	DIRTYWORD[558]["ID"] = 558
+	DIRTYWORD[558]["KEY"] = "干机"
+	DIRTYWORD[558]["real_idx"] = 558
+
+DIRTYWORD["index"][559] = 559
+DIRTYWORD[559] = {}
+	DIRTYWORD[559]["ID"] = 559
+	DIRTYWORD[559]["KEY"] = "KUCK"
+	DIRTYWORD[559]["real_idx"] = 559
+
+DIRTYWORD["index"][560] = 560
+DIRTYWORD[560] = {}
+	DIRTYWORD[560]["ID"] = 560
+	DIRTYWORD[560]["KEY"] = "机叭"
+	DIRTYWORD[560]["real_idx"] = 560
+
+DIRTYWORD["index"][561] = 561
+DIRTYWORD[561] = {}
+	DIRTYWORD[561]["ID"] = 561
+	DIRTYWORD[561]["KEY"] = "臭鸡"
+	DIRTYWORD[561]["real_idx"] = 561
+
+DIRTYWORD["index"][562] = 562
+DIRTYWORD[562] = {}
+	DIRTYWORD[562]["ID"] = 562
+	DIRTYWORD[562]["KEY"] = "臭机"
+	DIRTYWORD[562]["real_idx"] = 562
+
+DIRTYWORD["index"][563] = 563
+DIRTYWORD[563] = {}
+	DIRTYWORD[563]["ID"] = 563
+	DIRTYWORD[563]["KEY"] = "烂鸟"
+	DIRTYWORD[563]["real_idx"] = 563
+
+DIRTYWORD["index"][564] = 564
+DIRTYWORD[564] = {}
+	DIRTYWORD[564]["ID"] = 564
+	DIRTYWORD[564]["KEY"] = "览叫"
+	DIRTYWORD[564]["real_idx"] = 564
+
+DIRTYWORD["index"][565] = 565
+DIRTYWORD[565] = {}
+	DIRTYWORD[565]["ID"] = 565
+	DIRTYWORD[565]["KEY"] = "阳具"
+	DIRTYWORD[565]["real_idx"] = 565
+
+DIRTYWORD["index"][566] = 566
+DIRTYWORD[566] = {}
+	DIRTYWORD[566]["ID"] = 566
+	DIRTYWORD[566]["KEY"] = "肉棒"
+	DIRTYWORD[566]["real_idx"] = 566
+
+DIRTYWORD["index"][567] = 567
+DIRTYWORD[567] = {}
+	DIRTYWORD[567]["ID"] = 567
+	DIRTYWORD[567]["KEY"] = "肉壶"
+	DIRTYWORD[567]["real_idx"] = 567
+
+DIRTYWORD["index"][568] = 568
+DIRTYWORD[568] = {}
+	DIRTYWORD[568]["ID"] = 568
+	DIRTYWORD[568]["KEY"] = "奶子"
+	DIRTYWORD[568]["real_idx"] = 568
+
+DIRTYWORD["index"][569] = 569
+DIRTYWORD[569] = {}
+	DIRTYWORD[569]["ID"] = 569
+	DIRTYWORD[569]["KEY"] = "摸咪咪"
+	DIRTYWORD[569]["real_idx"] = 569
+
+DIRTYWORD["index"][570] = 570
+DIRTYWORD[570] = {}
+	DIRTYWORD[570]["ID"] = 570
+	DIRTYWORD[570]["KEY"] = "干鸡"
+	DIRTYWORD[570]["real_idx"] = 570
+
+DIRTYWORD["index"][571] = 571
+DIRTYWORD[571] = {}
+	DIRTYWORD[571]["ID"] = 571
+	DIRTYWORD[571]["KEY"] = "干入"
+	DIRTYWORD[571]["real_idx"] = 571
+
+DIRTYWORD["index"][572] = 572
+DIRTYWORD[572] = {}
+	DIRTYWORD[572]["ID"] = 572
+	DIRTYWORD[572]["KEY"] = "小穴"
+	DIRTYWORD[572]["real_idx"] = 572
+
+DIRTYWORD["index"][573] = 573
+DIRTYWORD[573] = {}
+	DIRTYWORD[573]["ID"] = 573
+	DIRTYWORD[573]["KEY"] = "强奸"
+	DIRTYWORD[573]["real_idx"] = 573
+
+DIRTYWORD["index"][574] = 574
+DIRTYWORD[574] = {}
+	DIRTYWORD[574]["ID"] = 574
+	DIRTYWORD[574]["KEY"] = "插你"
+	DIRTYWORD[574]["real_idx"] = 574
+
+DIRTYWORD["index"][575] = 575
+DIRTYWORD[575] = {}
+	DIRTYWORD[575]["ID"] = 575
+	DIRTYWORD[575]["KEY"] = "插你"
+	DIRTYWORD[575]["real_idx"] = 575
+
+DIRTYWORD["index"][576] = 576
+DIRTYWORD[576] = {}
+	DIRTYWORD[576]["ID"] = 576
+	DIRTYWORD[576]["KEY"] = "爽你"
+	DIRTYWORD[576]["real_idx"] = 576
+
+DIRTYWORD["index"][577] = 577
+DIRTYWORD[577] = {}
+	DIRTYWORD[577]["ID"] = 577
+	DIRTYWORD[577]["KEY"] = "爽你"
+	DIRTYWORD[577]["real_idx"] = 577
+
+DIRTYWORD["index"][578] = 578
+DIRTYWORD[578] = {}
+	DIRTYWORD[578]["ID"] = 578
+	DIRTYWORD[578]["KEY"] = "干干"
+	DIRTYWORD[578]["real_idx"] = 578
+
+DIRTYWORD["index"][579] = 579
+DIRTYWORD[579] = {}
+	DIRTYWORD[579]["ID"] = 579
+	DIRTYWORD[579]["KEY"] = "干X"
+	DIRTYWORD[579]["real_idx"] = 579
+
+DIRTYWORD["index"][580] = 580
+DIRTYWORD[580] = {}
+	DIRTYWORD[580]["ID"] = 580
+	DIRTYWORD[580]["KEY"] = "我操"
+	DIRTYWORD[580]["real_idx"] = 580
+
+DIRTYWORD["index"][581] = 581
+DIRTYWORD[581] = {}
+	DIRTYWORD[581]["ID"] = 581
+	DIRTYWORD[581]["KEY"] = "他干"
+	DIRTYWORD[581]["real_idx"] = 581
+
+DIRTYWORD["index"][582] = 582
+DIRTYWORD[582] = {}
+	DIRTYWORD[582]["ID"] = 582
+	DIRTYWORD[582]["KEY"] = "干它"
+	DIRTYWORD[582]["real_idx"] = 582
+
+DIRTYWORD["index"][583] = 583
+DIRTYWORD[583] = {}
+	DIRTYWORD[583]["ID"] = 583
+	DIRTYWORD[583]["KEY"] = "干牠"
+	DIRTYWORD[583]["real_idx"] = 583
+
+DIRTYWORD["index"][584] = 584
+DIRTYWORD[584] = {}
+	DIRTYWORD[584]["ID"] = 584
+	DIRTYWORD[584]["KEY"] = "干您"
+	DIRTYWORD[584]["real_idx"] = 584
+
+DIRTYWORD["index"][585] = 585
+DIRTYWORD[585] = {}
+	DIRTYWORD[585]["ID"] = 585
+	DIRTYWORD[585]["KEY"] = "干汝"
+	DIRTYWORD[585]["real_idx"] = 585
+
+DIRTYWORD["index"][586] = 586
+DIRTYWORD[586] = {}
+	DIRTYWORD[586]["ID"] = 586
+	DIRTYWORD[586]["KEY"] = "干林"
+	DIRTYWORD[586]["real_idx"] = 586
+
+DIRTYWORD["index"][587] = 587
+DIRTYWORD[587] = {}
+	DIRTYWORD[587]["ID"] = 587
+	DIRTYWORD[587]["KEY"] = "操林"
+	DIRTYWORD[587]["real_idx"] = 587
+
+DIRTYWORD["index"][588] = 588
+DIRTYWORD[588] = {}
+	DIRTYWORD[588]["ID"] = 588
+	DIRTYWORD[588]["KEY"] = "干尼"
+	DIRTYWORD[588]["real_idx"] = 588
+
+DIRTYWORD["index"][589] = 589
+DIRTYWORD[589] = {}
+	DIRTYWORD[589]["ID"] = 589
+	DIRTYWORD[589]["KEY"] = "操尼"
+	DIRTYWORD[589]["real_idx"] = 589
+
+DIRTYWORD["index"][590] = 590
+DIRTYWORD[590] = {}
+	DIRTYWORD[590]["ID"] = 590
+	DIRTYWORD[590]["KEY"] = "我咧干"
+	DIRTYWORD[590]["real_idx"] = 590
+
+DIRTYWORD["index"][591] = 591
+DIRTYWORD[591] = {}
+	DIRTYWORD[591]["ID"] = 591
+	DIRTYWORD[591]["KEY"] = "干勒"
+	DIRTYWORD[591]["real_idx"] = 591
+
+DIRTYWORD["index"][592] = 592
+DIRTYWORD[592] = {}
+	DIRTYWORD[592]["ID"] = 592
+	DIRTYWORD[592]["KEY"] = "干我"
+	DIRTYWORD[592]["real_idx"] = 592
+
+DIRTYWORD["index"][593] = 593
+DIRTYWORD[593] = {}
+	DIRTYWORD[593]["ID"] = 593
+	DIRTYWORD[593]["KEY"] = "干到"
+	DIRTYWORD[593]["real_idx"] = 593
+
+DIRTYWORD["index"][594] = 594
+DIRTYWORD[594] = {}
+	DIRTYWORD[594]["ID"] = 594
+	DIRTYWORD[594]["KEY"] = "干啦"
+	DIRTYWORD[594]["real_idx"] = 594
+
+DIRTYWORD["index"][595] = 595
+DIRTYWORD[595] = {}
+	DIRTYWORD[595]["ID"] = 595
+	DIRTYWORD[595]["KEY"] = "干爽"
+	DIRTYWORD[595]["real_idx"] = 595
+
+DIRTYWORD["index"][596] = 596
+DIRTYWORD[596] = {}
+	DIRTYWORD[596]["ID"] = 596
+	DIRTYWORD[596]["KEY"] = "欠干"
+	DIRTYWORD[596]["real_idx"] = 596
+
+DIRTYWORD["index"][597] = 597
+DIRTYWORD[597] = {}
+	DIRTYWORD[597]["ID"] = 597
+	DIRTYWORD[597]["KEY"] = "狗干"
+	DIRTYWORD[597]["real_idx"] = 597
+
+DIRTYWORD["index"][598] = 598
+DIRTYWORD[598] = {}
+	DIRTYWORD[598]["ID"] = 598
+	DIRTYWORD[598]["KEY"] = "我干"
+	DIRTYWORD[598]["real_idx"] = 598
+
+DIRTYWORD["index"][599] = 599
+DIRTYWORD[599] = {}
+	DIRTYWORD[599]["ID"] = 599
+	DIRTYWORD[599]["KEY"] = "来干"
+	DIRTYWORD[599]["real_idx"] = 599
+
+DIRTYWORD["index"][600] = 600
+DIRTYWORD[600] = {}
+	DIRTYWORD[600]["ID"] = 600
+	DIRTYWORD[600]["KEY"] = "轮干"
+	DIRTYWORD[600]["real_idx"] = 600
+
+DIRTYWORD["index"][601] = 601
+DIRTYWORD[601] = {}
+	DIRTYWORD[601]["ID"] = 601
+	DIRTYWORD[601]["KEY"] = "轮流干"
+	DIRTYWORD[601]["real_idx"] = 601
+
+DIRTYWORD["index"][602] = 602
+DIRTYWORD[602] = {}
+	DIRTYWORD[602]["ID"] = 602
+	DIRTYWORD[602]["KEY"] = "干一干"
+	DIRTYWORD[602]["real_idx"] = 602
+
+DIRTYWORD["index"][603] = 603
+DIRTYWORD[603] = {}
+	DIRTYWORD[603]["ID"] = 603
+	DIRTYWORD[603]["KEY"] = "援交"
+	DIRTYWORD[603]["real_idx"] = 603
+
+DIRTYWORD["index"][604] = 604
+DIRTYWORD[604] = {}
+	DIRTYWORD[604]["ID"] = 604
+	DIRTYWORD[604]["KEY"] = "骑你"
+	DIRTYWORD[604]["real_idx"] = 604
+
+DIRTYWORD["index"][605] = 605
+DIRTYWORD[605] = {}
+	DIRTYWORD[605]["ID"] = 605
+	DIRTYWORD[605]["KEY"] = "我操"
+	DIRTYWORD[605]["real_idx"] = 605
+
+DIRTYWORD["index"][606] = 606
+DIRTYWORD[606] = {}
+	DIRTYWORD[606]["ID"] = 606
+	DIRTYWORD[606]["KEY"] = "轮奸"
+	DIRTYWORD[606]["real_idx"] = 606
+
+DIRTYWORD["index"][607] = 607
+DIRTYWORD[607] = {}
+	DIRTYWORD[607]["ID"] = 607
+	DIRTYWORD[607]["KEY"] = "鸡奸"
+	DIRTYWORD[607]["real_idx"] = 607
+
+DIRTYWORD["index"][608] = 608
+DIRTYWORD[608] = {}
+	DIRTYWORD[608]["ID"] = 608
+	DIRTYWORD[608]["KEY"] = "奸暴"
+	DIRTYWORD[608]["real_idx"] = 608
+
+DIRTYWORD["index"][609] = 609
+DIRTYWORD[609] = {}
+	DIRTYWORD[609]["ID"] = 609
+	DIRTYWORD[609]["KEY"] = "再奸"
+	DIRTYWORD[609]["real_idx"] = 609
+
+DIRTYWORD["index"][610] = 610
+DIRTYWORD[610] = {}
+	DIRTYWORD[610]["ID"] = 610
+	DIRTYWORD[610]["KEY"] = "我奸"
+	DIRTYWORD[610]["real_idx"] = 610
+
+DIRTYWORD["index"][611] = 611
+DIRTYWORD[611] = {}
+	DIRTYWORD[611]["ID"] = 611
+	DIRTYWORD[611]["KEY"] = "奸你"
+	DIRTYWORD[611]["real_idx"] = 611
+
+DIRTYWORD["index"][612] = 612
+DIRTYWORD[612] = {}
+	DIRTYWORD[612]["ID"] = 612
+	DIRTYWORD[612]["KEY"] = "奸你"
+	DIRTYWORD[612]["real_idx"] = 612
+
+DIRTYWORD["index"][613] = 613
+DIRTYWORD[613] = {}
+	DIRTYWORD[613]["ID"] = 613
+	DIRTYWORD[613]["KEY"] = "奸他"
+	DIRTYWORD[613]["real_idx"] = 613
+
+DIRTYWORD["index"][614] = 614
+DIRTYWORD[614] = {}
+	DIRTYWORD[614]["ID"] = 614
+	DIRTYWORD[614]["KEY"] = "奸她"
+	DIRTYWORD[614]["real_idx"] = 614
+
+DIRTYWORD["index"][615] = 615
+DIRTYWORD[615] = {}
+	DIRTYWORD[615]["ID"] = 615
+	DIRTYWORD[615]["KEY"] = "奸一奸"
+	DIRTYWORD[615]["real_idx"] = 615
+
+DIRTYWORD["index"][616] = 616
+DIRTYWORD[616] = {}
+	DIRTYWORD[616]["ID"] = 616
+	DIRTYWORD[616]["KEY"] = "淫水"
+	DIRTYWORD[616]["real_idx"] = 616
+
+DIRTYWORD["index"][617] = 617
+DIRTYWORD[617] = {}
+	DIRTYWORD[617]["ID"] = 617
+	DIRTYWORD[617]["KEY"] = "淫湿"
+	DIRTYWORD[617]["real_idx"] = 617
+
+DIRTYWORD["index"][618] = 618
+DIRTYWORD[618] = {}
+	DIRTYWORD[618]["ID"] = 618
+	DIRTYWORD[618]["KEY"] = "鸡歪"
+	DIRTYWORD[618]["real_idx"] = 618
+
+DIRTYWORD["index"][619] = 619
+DIRTYWORD[619] = {}
+	DIRTYWORD[619]["ID"] = 619
+	DIRTYWORD[619]["KEY"] = "仆街"
+	DIRTYWORD[619]["real_idx"] = 619
+
+DIRTYWORD["index"][620] = 620
+DIRTYWORD[620] = {}
+	DIRTYWORD[620]["ID"] = 620
+	DIRTYWORD[620]["KEY"] = "臭西"
+	DIRTYWORD[620]["real_idx"] = 620
+
+DIRTYWORD["index"][621] = 621
+DIRTYWORD[621] = {}
+	DIRTYWORD[621]["ID"] = 621
+	DIRTYWORD[621]["KEY"] = "尻"
+	DIRTYWORD[621]["real_idx"] = 621
+
+DIRTYWORD["index"][622] = 622
+DIRTYWORD[622] = {}
+	DIRTYWORD[622]["ID"] = 622
+	DIRTYWORD[622]["KEY"] = "遗精"
+	DIRTYWORD[622]["real_idx"] = 622
+
+DIRTYWORD["index"][623] = 623
+DIRTYWORD[623] = {}
+	DIRTYWORD[623]["ID"] = 623
+	DIRTYWORD[623]["KEY"] = "烂逼"
+	DIRTYWORD[623]["real_idx"] = 623
+
+DIRTYWORD["index"][624] = 624
+DIRTYWORD[624] = {}
+	DIRTYWORD[624]["ID"] = 624
+	DIRTYWORD[624]["KEY"] = "大血比"
+	DIRTYWORD[624]["real_idx"] = 624
+
+DIRTYWORD["index"][625] = 625
+DIRTYWORD[625] = {}
+	DIRTYWORD[625]["ID"] = 625
+	DIRTYWORD[625]["KEY"] = "叼你妈"
+	DIRTYWORD[625]["real_idx"] = 625
+
+DIRTYWORD["index"][626] = 626
+DIRTYWORD[626] = {}
+	DIRTYWORD[626]["ID"] = 626
+	DIRTYWORD[626]["KEY"] = "靠你妈"
+	DIRTYWORD[626]["real_idx"] = 626
+
+DIRTYWORD["index"][627] = 627
+DIRTYWORD[627] = {}
+	DIRTYWORD[627]["ID"] = 627
+	DIRTYWORD[627]["KEY"] = "草你"
+	DIRTYWORD[627]["real_idx"] = 627
+
+DIRTYWORD["index"][628] = 628
+DIRTYWORD[628] = {}
+	DIRTYWORD[628]["ID"] = 628
+	DIRTYWORD[628]["KEY"] = "干你"
+	DIRTYWORD[628]["real_idx"] = 628
+
+DIRTYWORD["index"][629] = 629
+DIRTYWORD[629] = {}
+	DIRTYWORD[629]["ID"] = 629
+	DIRTYWORD[629]["KEY"] = "日你"
+	DIRTYWORD[629]["real_idx"] = 629
+
+DIRTYWORD["index"][630] = 630
+DIRTYWORD[630] = {}
+	DIRTYWORD[630]["ID"] = 630
+	DIRTYWORD[630]["KEY"] = "插你"
+	DIRTYWORD[630]["real_idx"] = 630
+
+DIRTYWORD["index"][631] = 631
+DIRTYWORD[631] = {}
+	DIRTYWORD[631]["ID"] = 631
+	DIRTYWORD[631]["KEY"] = "奸你"
+	DIRTYWORD[631]["real_idx"] = 631
+
+DIRTYWORD["index"][632] = 632
+DIRTYWORD[632] = {}
+	DIRTYWORD[632]["ID"] = 632
+	DIRTYWORD[632]["KEY"] = "戳你"
+	DIRTYWORD[632]["real_idx"] = 632
+
+DIRTYWORD["index"][633] = 633
+DIRTYWORD[633] = {}
+	DIRTYWORD[633]["ID"] = 633
+	DIRTYWORD[633]["KEY"] = "逼你老母"
+	DIRTYWORD[633]["real_idx"] = 633
+
+DIRTYWORD["index"][634] = 634
+DIRTYWORD[634] = {}
+	DIRTYWORD[634]["ID"] = 634
+	DIRTYWORD[634]["KEY"] = "挨球"
+	DIRTYWORD[634]["real_idx"] = 634
+
+DIRTYWORD["index"][635] = 635
+DIRTYWORD[635] = {}
+	DIRTYWORD[635]["ID"] = 635
+	DIRTYWORD[635]["KEY"] = "我日你"
+	DIRTYWORD[635]["real_idx"] = 635
+
+DIRTYWORD["index"][636] = 636
+DIRTYWORD[636] = {}
+	DIRTYWORD[636]["ID"] = 636
+	DIRTYWORD[636]["KEY"] = "草拟妈"
+	DIRTYWORD[636]["real_idx"] = 636
+
+DIRTYWORD["index"][637] = 637
+DIRTYWORD[637] = {}
+	DIRTYWORD[637]["ID"] = 637
+	DIRTYWORD[637]["KEY"] = "卖逼"
+	DIRTYWORD[637]["real_idx"] = 637
+
+DIRTYWORD["index"][638] = 638
+DIRTYWORD[638] = {}
+	DIRTYWORD[638]["ID"] = 638
+	DIRTYWORD[638]["KEY"] = "狗操卖逼"
+	DIRTYWORD[638]["real_idx"] = 638
+
+DIRTYWORD["index"][639] = 639
+DIRTYWORD[639] = {}
+	DIRTYWORD[639]["ID"] = 639
+	DIRTYWORD[639]["KEY"] = "奸淫"
+	DIRTYWORD[639]["real_idx"] = 639
+
+DIRTYWORD["index"][640] = 640
+DIRTYWORD[640] = {}
+	DIRTYWORD[640]["ID"] = 640
+	DIRTYWORD[640]["KEY"] = "日死"
+	DIRTYWORD[640]["real_idx"] = 640
+
+DIRTYWORD["index"][641] = 641
+DIRTYWORD[641] = {}
+	DIRTYWORD[641]["ID"] = 641
+	DIRTYWORD[641]["KEY"] = "奶子"
+	DIRTYWORD[641]["real_idx"] = 641
+
+DIRTYWORD["index"][642] = 642
+DIRTYWORD[642] = {}
+	DIRTYWORD[642]["ID"] = 642
+	DIRTYWORD[642]["KEY"] = "阴茎"
+	DIRTYWORD[642]["real_idx"] = 642
+
+DIRTYWORD["index"][643] = 643
+DIRTYWORD[643] = {}
+	DIRTYWORD[643]["ID"] = 643
+	DIRTYWORD[643]["KEY"] = "奶娘"
+	DIRTYWORD[643]["real_idx"] = 643
+
+DIRTYWORD["index"][644] = 644
+DIRTYWORD[644] = {}
+	DIRTYWORD[644]["ID"] = 644
+	DIRTYWORD[644]["KEY"] = "他娘"
+	DIRTYWORD[644]["real_idx"] = 644
+
+DIRTYWORD["index"][645] = 645
+DIRTYWORD[645] = {}
+	DIRTYWORD[645]["ID"] = 645
+	DIRTYWORD[645]["KEY"] = "她娘"
+	DIRTYWORD[645]["real_idx"] = 645
+
+DIRTYWORD["index"][646] = 646
+DIRTYWORD[646] = {}
+	DIRTYWORD[646]["ID"] = 646
+	DIRTYWORD[646]["KEY"] = "骚B"
+	DIRTYWORD[646]["real_idx"] = 646
+
+DIRTYWORD["index"][647] = 647
+DIRTYWORD[647] = {}
+	DIRTYWORD[647]["ID"] = 647
+	DIRTYWORD[647]["KEY"] = "你妈了妹"
+	DIRTYWORD[647]["real_idx"] = 647
+
+DIRTYWORD["index"][648] = 648
+DIRTYWORD[648] = {}
+	DIRTYWORD[648]["ID"] = 648
+	DIRTYWORD[648]["KEY"] = "逼毛"
+	DIRTYWORD[648]["real_idx"] = 648
+
+DIRTYWORD["index"][649] = 649
+DIRTYWORD[649] = {}
+	DIRTYWORD[649]["ID"] = 649
+	DIRTYWORD[649]["KEY"] = "插你妈"
+	DIRTYWORD[649]["real_idx"] = 649
+
+DIRTYWORD["index"][650] = 650
+DIRTYWORD[650] = {}
+	DIRTYWORD[650]["ID"] = 650
+	DIRTYWORD[650]["KEY"] = "叼你"
+	DIRTYWORD[650]["real_idx"] = 650
+
+DIRTYWORD["index"][651] = 651
+DIRTYWORD[651] = {}
+	DIRTYWORD[651]["ID"] = 651
+	DIRTYWORD[651]["KEY"] = "渣波波"
+	DIRTYWORD[651]["real_idx"] = 651
+
+DIRTYWORD["index"][652] = 652
+DIRTYWORD[652] = {}
+	DIRTYWORD[652]["ID"] = 652
+	DIRTYWORD[652]["KEY"] = "嫩b"
+	DIRTYWORD[652]["real_idx"] = 652
+
+DIRTYWORD["index"][653] = 653
+DIRTYWORD[653] = {}
+	DIRTYWORD[653]["ID"] = 653
+	DIRTYWORD[653]["KEY"] = "weelaa"
+	DIRTYWORD[653]["real_idx"] = 653
+
+DIRTYWORD["index"][654] = 654
+DIRTYWORD[654] = {}
+	DIRTYWORD[654]["ID"] = 654
+	DIRTYWORD[654]["KEY"] = "缔顺"
+	DIRTYWORD[654]["real_idx"] = 654
+
+DIRTYWORD["index"][655] = 655
+DIRTYWORD[655] = {}
+	DIRTYWORD[655]["ID"] = 655
+	DIRTYWORD[655]["KEY"] = "帝顺"
+	DIRTYWORD[655]["real_idx"] = 655
+
+DIRTYWORD["index"][656] = 656
+DIRTYWORD[656] = {}
+	DIRTYWORD[656]["ID"] = 656
+	DIRTYWORD[656]["KEY"] = "蒂顺"
+	DIRTYWORD[656]["real_idx"] = 656
+
+DIRTYWORD["index"][657] = 657
+DIRTYWORD[657] = {}
+	DIRTYWORD[657]["ID"] = 657
+	DIRTYWORD[657]["KEY"] = "系统消息"
+	DIRTYWORD[657]["real_idx"] = 657
+
+DIRTYWORD["index"][658] = 658
+DIRTYWORD[658] = {}
+	DIRTYWORD[658]["ID"] = 658
+	DIRTYWORD[658]["KEY"] = "午夜"
+	DIRTYWORD[658]["real_idx"] = 658
+
+DIRTYWORD["index"][659] = 659
+DIRTYWORD[659] = {}
+	DIRTYWORD[659]["ID"] = 659
+	DIRTYWORD[659]["KEY"] = "看下"
+	DIRTYWORD[659]["real_idx"] = 659
+
+DIRTYWORD["index"][660] = 660
+DIRTYWORD[660] = {}
+	DIRTYWORD[660]["ID"] = 660
+	DIRTYWORD[660]["KEY"] = "草泥马"
+	DIRTYWORD[660]["real_idx"] = 660
+
+DIRTYWORD["index"][661] = 661
+DIRTYWORD[661] = {}
+	DIRTYWORD[661]["ID"] = 661
+	DIRTYWORD[661]["KEY"] = "法克鱿"
+	DIRTYWORD[661]["real_idx"] = 661
+
+DIRTYWORD["index"][662] = 662
+DIRTYWORD[662] = {}
+	DIRTYWORD[662]["ID"] = 662
+	DIRTYWORD[662]["KEY"] = "雅蠛蝶"
+	DIRTYWORD[662]["real_idx"] = 662
+
+DIRTYWORD["index"][663] = 663
+DIRTYWORD[663] = {}
+	DIRTYWORD[663]["ID"] = 663
+	DIRTYWORD[663]["KEY"] = "潜烈蟹"
+	DIRTYWORD[663]["real_idx"] = 663
+
+DIRTYWORD["index"][664] = 664
+DIRTYWORD[664] = {}
+	DIRTYWORD[664]["ID"] = 664
+	DIRTYWORD[664]["KEY"] = "菊花蚕"
+	DIRTYWORD[664]["real_idx"] = 664
+
+DIRTYWORD["index"][665] = 665
+DIRTYWORD[665] = {}
+	DIRTYWORD[665]["ID"] = 665
+	DIRTYWORD[665]["KEY"] = "尾申鲸"
+	DIRTYWORD[665]["real_idx"] = 665
+
+DIRTYWORD["index"][666] = 666
+DIRTYWORD[666] = {}
+	DIRTYWORD[666]["ID"] = 666
+	DIRTYWORD[666]["KEY"] = "吉跋猫"
+	DIRTYWORD[666]["real_idx"] = 666
+
+DIRTYWORD["index"][667] = 667
+DIRTYWORD[667] = {}
+	DIRTYWORD[667]["ID"] = 667
+	DIRTYWORD[667]["KEY"] = "搞栗棒"
+	DIRTYWORD[667]["real_idx"] = 667
+
+DIRTYWORD["index"][668] = 668
+DIRTYWORD[668] = {}
+	DIRTYWORD[668]["ID"] = 668
+	DIRTYWORD[668]["KEY"] = "吟稻雁"
+	DIRTYWORD[668]["real_idx"] = 668
+
+DIRTYWORD["index"][669] = 669
+DIRTYWORD[669] = {}
+	DIRTYWORD[669]["ID"] = 669
+	DIRTYWORD[669]["KEY"] = "达菲鸡"
+	DIRTYWORD[669]["real_idx"] = 669
+
+DIRTYWORD["index"][670] = 670
+DIRTYWORD[670] = {}
+	DIRTYWORD[670]["ID"] = 670
+	DIRTYWORD[670]["KEY"] = "SM"
+	DIRTYWORD[670]["real_idx"] = 670
+
+DIRTYWORD["index"][671] = 671
+DIRTYWORD[671] = {}
+	DIRTYWORD[671]["ID"] = 671
+	DIRTYWORD[671]["KEY"] = "ML"
+	DIRTYWORD[671]["real_idx"] = 671
+
+DIRTYWORD["index"][672] = 672
+DIRTYWORD[672] = {}
+	DIRTYWORD[672]["ID"] = 672
+	DIRTYWORD[672]["KEY"] = "3P"
+	DIRTYWORD[672]["real_idx"] = 672
+
+DIRTYWORD["index"][673] = 673
+DIRTYWORD[673] = {}
+	DIRTYWORD[673]["ID"] = 673
+	DIRTYWORD[673]["KEY"] = "群P"
+	DIRTYWORD[673]["real_idx"] = 673
+
+DIRTYWORD["index"][674] = 674
+DIRTYWORD[674] = {}
+	DIRTYWORD[674]["ID"] = 674
+	DIRTYWORD[674]["KEY"] = "马勒戈壁"
+	DIRTYWORD[674]["real_idx"] = 674
+
+DIRTYWORD["index"][675] = 675
+DIRTYWORD[675] = {}
+	DIRTYWORD[675]["ID"] = 675
+	DIRTYWORD[675]["KEY"] = "双飞"
+	DIRTYWORD[675]["real_idx"] = 675
+
+DIRTYWORD["index"][676] = 676
+DIRTYWORD[676] = {}
+	DIRTYWORD[676]["ID"] = 676
+	DIRTYWORD[676]["KEY"] = "周恩來"
+	DIRTYWORD[676]["real_idx"] = 676
+
+DIRTYWORD["index"][677] = 677
+DIRTYWORD[677] = {}
+	DIRTYWORD[677]["ID"] = 677
+	DIRTYWORD[677]["KEY"] = "碡 "
+	DIRTYWORD[677]["real_idx"] = 677
+
+DIRTYWORD["index"][678] = 678
+DIRTYWORD[678] = {}
+	DIRTYWORD[678]["ID"] = 678
+	DIRTYWORD[678]["KEY"] = "籀"
+	DIRTYWORD[678]["real_idx"] = 678
+
+DIRTYWORD["index"][679] = 679
+DIRTYWORD[679] = {}
+	DIRTYWORD[679]["ID"] = 679
+	DIRTYWORD[679]["KEY"] = "朱駿 "
+	DIRTYWORD[679]["real_idx"] = 679
+
+DIRTYWORD["index"][680] = 680
+DIRTYWORD[680] = {}
+	DIRTYWORD[680]["ID"] = 680
+	DIRTYWORD[680]["KEY"] = "朱狨基"
+	DIRTYWORD[680]["real_idx"] = 680
+
+DIRTYWORD["index"][681] = 681
+DIRTYWORD[681] = {}
+	DIRTYWORD[681]["ID"] = 681
+	DIRTYWORD[681]["KEY"] = "朱容基"
+	DIRTYWORD[681]["real_idx"] = 681
+
+DIRTYWORD["index"][682] = 682
+DIRTYWORD[682] = {}
+	DIRTYWORD[682]["ID"] = 682
+	DIRTYWORD[682]["KEY"] = "朱溶剂"
+	DIRTYWORD[682]["real_idx"] = 682
+
+DIRTYWORD["index"][683] = 683
+DIRTYWORD[683] = {}
+	DIRTYWORD[683]["ID"] = 683
+	DIRTYWORD[683]["KEY"] = "朱熔基"
+	DIRTYWORD[683]["real_idx"] = 683
+
+DIRTYWORD["index"][684] = 684
+DIRTYWORD[684] = {}
+	DIRTYWORD[684]["ID"] = 684
+	DIRTYWORD[684]["KEY"] = "朱镕基"
+	DIRTYWORD[684]["real_idx"] = 684
+
+DIRTYWORD["index"][685] = 685
+DIRTYWORD[685] = {}
+	DIRTYWORD[685]["ID"] = 685
+	DIRTYWORD[685]["KEY"] = "邾"
+	DIRTYWORD[685]["real_idx"] = 685
+
+DIRTYWORD["index"][686] = 686
+DIRTYWORD[686] = {}
+	DIRTYWORD[686]["ID"] = 686
+	DIRTYWORD[686]["KEY"] = "猪操"
+	DIRTYWORD[686]["real_idx"] = 686
+
+DIRTYWORD["index"][687] = 687
+DIRTYWORD[687] = {}
+	DIRTYWORD[687]["ID"] = 687
+	DIRTYWORD[687]["KEY"] = "猪聋畸"
+	DIRTYWORD[687]["real_idx"] = 687
+
+DIRTYWORD["index"][688] = 688
+DIRTYWORD[688] = {}
+	DIRTYWORD[688]["ID"] = 688
+	DIRTYWORD[688]["KEY"] = "猪毛"
+	DIRTYWORD[688]["real_idx"] = 688
+
+DIRTYWORD["index"][689] = 689
+DIRTYWORD[689] = {}
+	DIRTYWORD[689]["ID"] = 689
+	DIRTYWORD[689]["KEY"] = "猪毛1"
+	DIRTYWORD[689]["real_idx"] = 689
+
+DIRTYWORD["index"][690] = 690
+DIRTYWORD[690] = {}
+	DIRTYWORD[690]["ID"] = 690
+	DIRTYWORD[690]["KEY"] = "舳"
+	DIRTYWORD[690]["real_idx"] = 690
+
+DIRTYWORD["index"][691] = 691
+DIRTYWORD[691] = {}
+	DIRTYWORD[691]["ID"] = 691
+	DIRTYWORD[691]["KEY"] = "瘃"
+	DIRTYWORD[691]["real_idx"] = 691
+
+DIRTYWORD["index"][692] = 692
+DIRTYWORD[692] = {}
+	DIRTYWORD[692]["ID"] = 692
+	DIRTYWORD[692]["KEY"] = "躅"
+	DIRTYWORD[692]["real_idx"] = 692
+
+DIRTYWORD["index"][693] = 693
+DIRTYWORD[693] = {}
+	DIRTYWORD[693]["ID"] = 693
+	DIRTYWORD[693]["KEY"] = "翥"
+	DIRTYWORD[693]["real_idx"] = 693
+
+DIRTYWORD["index"][694] = 694
+DIRTYWORD[694] = {}
+	DIRTYWORD[694]["ID"] = 694
+	DIRTYWORD[694]["KEY"] = "專政"
+	DIRTYWORD[694]["real_idx"] = 694
+
+DIRTYWORD["index"][695] = 695
+DIRTYWORD[695] = {}
+	DIRTYWORD[695]["ID"] = 695
+	DIRTYWORD[695]["KEY"] = "颛"
+	DIRTYWORD[695]["real_idx"] = 695
+
+DIRTYWORD["index"][696] = 696
+DIRTYWORD[696] = {}
+	DIRTYWORD[696]["ID"] = 696
+	DIRTYWORD[696]["KEY"] = "丬"
+	DIRTYWORD[696]["real_idx"] = 696
+
+DIRTYWORD["index"][697] = 697
+DIRTYWORD[697] = {}
+	DIRTYWORD[697]["ID"] = 697
+	DIRTYWORD[697]["KEY"] = "隹"
+	DIRTYWORD[697]["real_idx"] = 697
+
+DIRTYWORD["index"][698] = 698
+DIRTYWORD[698] = {}
+	DIRTYWORD[698]["ID"] = 698
+	DIRTYWORD[698]["KEY"] = "窀"
+	DIRTYWORD[698]["real_idx"] = 698
+
+DIRTYWORD["index"][699] = 699
+DIRTYWORD[699] = {}
+	DIRTYWORD[699]["ID"] = 699
+	DIRTYWORD[699]["KEY"] = "卓伯源"
+	DIRTYWORD[699]["real_idx"] = 699
+
+DIRTYWORD["index"][700] = 700
+DIRTYWORD[700] = {}
+	DIRTYWORD[700]["ID"] = 700
+	DIRTYWORD[700]["KEY"] = "倬"
+	DIRTYWORD[700]["real_idx"] = 700
+
+DIRTYWORD["index"][701] = 701
+DIRTYWORD[701] = {}
+	DIRTYWORD[701]["ID"] = 701
+	DIRTYWORD[701]["KEY"] = "斫"
+	DIRTYWORD[701]["real_idx"] = 701
+
+DIRTYWORD["index"][702] = 702
+DIRTYWORD[702] = {}
+	DIRTYWORD[702]["ID"] = 702
+	DIRTYWORD[702]["KEY"] = "诼"
+	DIRTYWORD[702]["real_idx"] = 702
+
+DIRTYWORD["index"][703] = 703
+DIRTYWORD[703] = {}
+	DIRTYWORD[703]["ID"] = 703
+	DIRTYWORD[703]["KEY"] = "髭"
+	DIRTYWORD[703]["real_idx"] = 703
+
+DIRTYWORD["index"][704] = 704
+DIRTYWORD[704] = {}
+	DIRTYWORD[704]["ID"] = 704
+	DIRTYWORD[704]["KEY"] = "鲻"
+	DIRTYWORD[704]["real_idx"] = 704
+
+DIRTYWORD["index"][705] = 705
+DIRTYWORD[705] = {}
+	DIRTYWORD[705]["ID"] = 705
+	DIRTYWORD[705]["KEY"] = "子宫"
+	DIRTYWORD[705]["real_idx"] = 705
+
+DIRTYWORD["index"][706] = 706
+DIRTYWORD[706] = {}
+	DIRTYWORD[706]["ID"] = 706
+	DIRTYWORD[706]["KEY"] = "秭"
+	DIRTYWORD[706]["real_idx"] = 706
+
+DIRTYWORD["index"][707] = 707
+DIRTYWORD[707] = {}
+	DIRTYWORD[707]["ID"] = 707
+	DIRTYWORD[707]["KEY"] = "訾"
+	DIRTYWORD[707]["real_idx"] = 707
+
+DIRTYWORD["index"][708] = 708
+DIRTYWORD[708] = {}
+	DIRTYWORD[708]["ID"] = 708
+	DIRTYWORD[708]["KEY"] = "自焚"
+	DIRTYWORD[708]["real_idx"] = 708
+
+DIRTYWORD["index"][709] = 709
+DIRTYWORD[709] = {}
+	DIRTYWORD[709]["ID"] = 709
+	DIRTYWORD[709]["KEY"] = "自民党"
+	DIRTYWORD[709]["real_idx"] = 709
+
+DIRTYWORD["index"][710] = 710
+DIRTYWORD[710] = {}
+	DIRTYWORD[710]["ID"] = 710
+	DIRTYWORD[710]["KEY"] = "自慰"
+	DIRTYWORD[710]["real_idx"] = 710
+
+DIRTYWORD["index"][711] = 711
+DIRTYWORD[711] = {}
+	DIRTYWORD[711]["ID"] = 711
+	DIRTYWORD[711]["KEY"] = "自已的故事"
+	DIRTYWORD[711]["real_idx"] = 711
+
+DIRTYWORD["index"][712] = 712
+DIRTYWORD[712] = {}
+	DIRTYWORD[712]["ID"] = 712
+	DIRTYWORD[712]["KEY"] = "自由民主论坛"
+	DIRTYWORD[712]["real_idx"] = 712
+
+DIRTYWORD["index"][713] = 713
+DIRTYWORD[713] = {}
+	DIRTYWORD[713]["ID"] = 713
+	DIRTYWORD[713]["KEY"] = "总理"
+	DIRTYWORD[713]["real_idx"] = 713
+
+DIRTYWORD["index"][714] = 714
+DIRTYWORD[714] = {}
+	DIRTYWORD[714]["ID"] = 714
+	DIRTYWORD[714]["KEY"] = "偬"
+	DIRTYWORD[714]["real_idx"] = 714
+
+DIRTYWORD["index"][715] = 715
+DIRTYWORD[715] = {}
+	DIRTYWORD[715]["ID"] = 715
+	DIRTYWORD[715]["KEY"] = "诹"
+	DIRTYWORD[715]["real_idx"] = 715
+
+DIRTYWORD["index"][716] = 716
+DIRTYWORD[716] = {}
+	DIRTYWORD[716]["ID"] = 716
+	DIRTYWORD[716]["KEY"] = "陬"
+	DIRTYWORD[716]["real_idx"] = 716
+
+DIRTYWORD["index"][717] = 717
+DIRTYWORD[717] = {}
+	DIRTYWORD[717]["ID"] = 717
+	DIRTYWORD[717]["KEY"] = "鄹"
+	DIRTYWORD[717]["real_idx"] = 717
+
+DIRTYWORD["index"][718] = 718
+DIRTYWORD[718] = {}
+	DIRTYWORD[718]["ID"] = 718
+	DIRTYWORD[718]["KEY"] = "鲰"
+	DIRTYWORD[718]["real_idx"] = 718
+
+DIRTYWORD["index"][719] = 719
+DIRTYWORD[719] = {}
+	DIRTYWORD[719]["ID"] = 719
+	DIRTYWORD[719]["KEY"] = "躜"
+	DIRTYWORD[719]["real_idx"] = 719
+
+DIRTYWORD["index"][720] = 720
+DIRTYWORD[720] = {}
+	DIRTYWORD[720]["ID"] = 720
+	DIRTYWORD[720]["KEY"] = "缵"
+	DIRTYWORD[720]["real_idx"] = 720
+
+DIRTYWORD["index"][721] = 721
+DIRTYWORD[721] = {}
+	DIRTYWORD[721]["ID"] = 721
+	DIRTYWORD[721]["KEY"] = "作爱"
+	DIRTYWORD[721]["real_idx"] = 721
+
+DIRTYWORD["index"][722] = 722
+DIRTYWORD[722] = {}
+	DIRTYWORD[722]["ID"] = 722
+	DIRTYWORD[722]["KEY"] = "作秀"
+	DIRTYWORD[722]["real_idx"] = 722
+
+DIRTYWORD["index"][723] = 723
+DIRTYWORD[723] = {}
+	DIRTYWORD[723]["ID"] = 723
+	DIRTYWORD[723]["KEY"] = "阼"
+	DIRTYWORD[723]["real_idx"] = 723
+
+DIRTYWORD["index"][724] = 724
+DIRTYWORD[724] = {}
+	DIRTYWORD[724]["ID"] = 724
+	DIRTYWORD[724]["KEY"] = "祚"
+	DIRTYWORD[724]["real_idx"] = 724
+
+DIRTYWORD["index"][725] = 725
+DIRTYWORD[725] = {}
+	DIRTYWORD[725]["ID"] = 725
+	DIRTYWORD[725]["KEY"] = "做爱"
+	DIRTYWORD[725]["real_idx"] = 725
+
+DIRTYWORD["index"][726] = 726
+DIRTYWORD[726] = {}
+	DIRTYWORD[726]["ID"] = 726
+	DIRTYWORD[726]["KEY"] = "阿扁萬歲"
+	DIRTYWORD[726]["real_idx"] = 726
+
+DIRTYWORD["index"][727] = 727
+DIRTYWORD[727] = {}
+	DIRTYWORD[727]["ID"] = 727
+	DIRTYWORD[727]["KEY"] = "阿萊娜"
+	DIRTYWORD[727]["real_idx"] = 727
+
+DIRTYWORD["index"][728] = 728
+DIRTYWORD[728] = {}
+	DIRTYWORD[728]["ID"] = 728
+	DIRTYWORD[728]["KEY"] = "啊無卵"
+	DIRTYWORD[728]["real_idx"] = 728
+
+DIRTYWORD["index"][729] = 729
+DIRTYWORD[729] = {}
+	DIRTYWORD[729]["ID"] = 729
+	DIRTYWORD[729]["KEY"] = "埃裏克蘇特勤"
+	DIRTYWORD[729]["real_idx"] = 729
+
+DIRTYWORD["index"][730] = 730
+DIRTYWORD[730] = {}
+	DIRTYWORD[730]["ID"] = 730
+	DIRTYWORD[730]["KEY"] = "埃斯萬"
+	DIRTYWORD[730]["real_idx"] = 730
+
+DIRTYWORD["index"][731] = 731
+DIRTYWORD[731] = {}
+	DIRTYWORD[731]["ID"] = 731
+	DIRTYWORD[731]["KEY"] = "艾麗絲"
+	DIRTYWORD[731]["real_idx"] = 731
+
+DIRTYWORD["index"][732] = 732
+DIRTYWORD[732] = {}
+	DIRTYWORD[732]["ID"] = 732
+	DIRTYWORD[732]["KEY"] = "愛滋"
+	DIRTYWORD[732]["real_idx"] = 732
+
+DIRTYWORD["index"][733] = 733
+DIRTYWORD[733] = {}
+	DIRTYWORD[733]["ID"] = 733
+	DIRTYWORD[733]["KEY"] = "愛滋病"
+	DIRTYWORD[733]["real_idx"] = 733
+
+DIRTYWORD["index"][734] = 734
+DIRTYWORD[734] = {}
+	DIRTYWORD[734]["ID"] = 734
+	DIRTYWORD[734]["KEY"] = "垵"
+	DIRTYWORD[734]["real_idx"] = 734
+
+DIRTYWORD["index"][735] = 735
+DIRTYWORD[735] = {}
+	DIRTYWORD[735]["ID"] = 735
+	DIRTYWORD[735]["KEY"] = "暗黑法師"
+	DIRTYWORD[735]["real_idx"] = 735
+
+DIRTYWORD["index"][736] = 736
+DIRTYWORD[736] = {}
+	DIRTYWORD[736]["ID"] = 736
+	DIRTYWORD[736]["KEY"] = "嶴"
+	DIRTYWORD[736]["real_idx"] = 736
+
+DIRTYWORD["index"][737] = 737
+DIRTYWORD[737] = {}
+	DIRTYWORD[737]["ID"] = 737
+	DIRTYWORD[737]["KEY"] = "奧克拉"
+	DIRTYWORD[737]["real_idx"] = 737
+
+DIRTYWORD["index"][738] = 738
+DIRTYWORD[738] = {}
+	DIRTYWORD[738]["ID"] = 738
+	DIRTYWORD[738]["KEY"] = "奧拉德"
+	DIRTYWORD[738]["real_idx"] = 738
+
+DIRTYWORD["index"][739] = 739
+DIRTYWORD[739] = {}
+	DIRTYWORD[739]["ID"] = 739
+	DIRTYWORD[739]["KEY"] = "奧利弗"
+	DIRTYWORD[739]["real_idx"] = 739
+
+DIRTYWORD["index"][740] = 740
+DIRTYWORD[740] = {}
+	DIRTYWORD[740]["ID"] = 740
+	DIRTYWORD[740]["KEY"] = "奧魯奇"
+	DIRTYWORD[740]["real_idx"] = 740
+
+DIRTYWORD["index"][741] = 741
+DIRTYWORD[741] = {}
+	DIRTYWORD[741]["ID"] = 741
+	DIRTYWORD[741]["KEY"] = "奧倫"
+	DIRTYWORD[741]["real_idx"] = 741
+
+DIRTYWORD["index"][742] = 742
+DIRTYWORD[742] = {}
+	DIRTYWORD[742]["ID"] = 742
+	DIRTYWORD[742]["KEY"] = "奧特蘭"
+	DIRTYWORD[742]["real_idx"] = 742
+
+DIRTYWORD["index"][743] = 743
+DIRTYWORD[743] = {}
+	DIRTYWORD[743]["ID"] = 743
+	DIRTYWORD[743]["KEY"] = "㈧"
+	DIRTYWORD[743]["real_idx"] = 743
+
+DIRTYWORD["index"][744] = 744
+DIRTYWORD[744] = {}
+	DIRTYWORD[744]["ID"] = 744
+	DIRTYWORD[744]["KEY"] = "巴倫侍從"
+	DIRTYWORD[744]["real_idx"] = 744
+
+DIRTYWORD["index"][745] = 745
+DIRTYWORD[745] = {}
+	DIRTYWORD[745]["ID"] = 745
+	DIRTYWORD[745]["KEY"] = "巴倫坦"
+	DIRTYWORD[745]["real_idx"] = 745
+
+DIRTYWORD["index"][746] = 746
+DIRTYWORD[746] = {}
+	DIRTYWORD[746]["ID"] = 746
+	DIRTYWORD[746]["KEY"] = "白立樸"
+	DIRTYWORD[746]["real_idx"] = 746
+
+DIRTYWORD["index"][747] = 747
+DIRTYWORD[747] = {}
+	DIRTYWORD[747]["ID"] = 747
+	DIRTYWORD[747]["KEY"] = "白夢"
+	DIRTYWORD[747]["real_idx"] = 747
+
+DIRTYWORD["index"][748] = 748
+DIRTYWORD[748] = {}
+	DIRTYWORD[748]["ID"] = 748
+	DIRTYWORD[748]["KEY"] = "白皮書"
+	DIRTYWORD[748]["real_idx"] = 748
+
+DIRTYWORD["index"][749] = 749
+DIRTYWORD[749] = {}
+	DIRTYWORD[749]["ID"] = 749
+	DIRTYWORD[749]["KEY"] = "班禪"
+	DIRTYWORD[749]["real_idx"] = 749
+
+DIRTYWORD["index"][750] = 750
+DIRTYWORD[750] = {}
+	DIRTYWORD[750]["ID"] = 750
+	DIRTYWORD[750]["KEY"] = "寶石商人"
+	DIRTYWORD[750]["real_idx"] = 750
+
+DIRTYWORD["index"][751] = 751
+DIRTYWORD[751] = {}
+	DIRTYWORD[751]["ID"] = 751
+	DIRTYWORD[751]["KEY"] = "保釣"
+	DIRTYWORD[751]["real_idx"] = 751
+
+DIRTYWORD["index"][752] = 752
+DIRTYWORD[752] = {}
+	DIRTYWORD[752]["ID"] = 752
+	DIRTYWORD[752]["KEY"] = "鮑戈"
+	DIRTYWORD[752]["real_idx"] = 752
+
+DIRTYWORD["index"][753] = 753
+DIRTYWORD[753] = {}
+	DIRTYWORD[753]["ID"] = 753
+	DIRTYWORD[753]["KEY"] = "鮑彤"
+	DIRTYWORD[753]["real_idx"] = 753
+
+DIRTYWORD["index"][754] = 754
+DIRTYWORD[754] = {}
+	DIRTYWORD[754]["ID"] = 754
+	DIRTYWORD[754]["KEY"] = "鮑伊"
+	DIRTYWORD[754]["real_idx"] = 754
+
+DIRTYWORD["index"][755] = 755
+DIRTYWORD[755] = {}
+	DIRTYWORD[755]["ID"] = 755
+	DIRTYWORD[755]["KEY"] = "暴風亡靈"
+	DIRTYWORD[755]["real_idx"] = 755
+
+DIRTYWORD["index"][756] = 756
+DIRTYWORD[756] = {}
+	DIRTYWORD[756]["ID"] = 756
+	DIRTYWORD[756]["KEY"] = "暴亂"
+	DIRTYWORD[756]["real_idx"] = 756
+
+DIRTYWORD["index"][757] = 757
+DIRTYWORD[757] = {}
+	DIRTYWORD[757]["ID"] = 757
+	DIRTYWORD[757]["KEY"] = "暴熱的戰士"
+	DIRTYWORD[757]["real_idx"] = 757
+
+DIRTYWORD["index"][758] = 758
+DIRTYWORD[758] = {}
+	DIRTYWORD[758]["ID"] = 758
+	DIRTYWORD[758]["KEY"] = "暴躁的城塔野獸"
+	DIRTYWORD[758]["real_idx"] = 758
+
+DIRTYWORD["index"][759] = 759
+DIRTYWORD[759] = {}
+	DIRTYWORD[759]["ID"] = 759
+	DIRTYWORD[759]["KEY"] = "暴躁的警衛兵靈魂"
+	DIRTYWORD[759]["real_idx"] = 759
+
+DIRTYWORD["index"][760] = 760
+DIRTYWORD[760] = {}
+	DIRTYWORD[760]["ID"] = 760
+	DIRTYWORD[760]["KEY"] = "暴躁的馬杜克"
+	DIRTYWORD[760]["real_idx"] = 760
+
+DIRTYWORD["index"][761] = 761
+DIRTYWORD[761] = {}
+	DIRTYWORD[761]["ID"] = 761
+	DIRTYWORD[761]["KEY"] = "北大三角地論壇"
+	DIRTYWORD[761]["real_idx"] = 761
+
+DIRTYWORD["index"][762] = 762
+DIRTYWORD[762] = {}
+	DIRTYWORD[762]["ID"] = 762
+	DIRTYWORD[762]["KEY"] = "北韓"
+	DIRTYWORD[762]["real_idx"] = 762
+
+DIRTYWORD["index"][763] = 763
+DIRTYWORD[763] = {}
+	DIRTYWORD[763]["ID"] = 763
+	DIRTYWORD[763]["KEY"] = "北京當局"
+	DIRTYWORD[763]["real_idx"] = 763
+
+DIRTYWORD["index"][764] = 764
+DIRTYWORD[764] = {}
+	DIRTYWORD[764]["ID"] = 764
+	DIRTYWORD[764]["KEY"] = "北美自由論壇"
+	DIRTYWORD[764]["real_idx"] = 764
+
+DIRTYWORD["index"][765] = 765
+DIRTYWORD[765] = {}
+	DIRTYWORD[765]["ID"] = 765
+	DIRTYWORD[765]["KEY"] = "貝尤爾"
+	DIRTYWORD[765]["real_idx"] = 765
+
+DIRTYWORD["index"][766] = 766
+DIRTYWORD[766] = {}
+	DIRTYWORD[766]["ID"] = 766
+	DIRTYWORD[766]["KEY"] = "韝"
+	DIRTYWORD[766]["real_idx"] = 766
+
+DIRTYWORD["index"][767] = 767
+DIRTYWORD[767] = {}
+	DIRTYWORD[767]["ID"] = 767
+	DIRTYWORD[767]["KEY"] = "逼樣"
+	DIRTYWORD[767]["real_idx"] = 767
+
+DIRTYWORD["index"][768] = 768
+DIRTYWORD[768] = {}
+	DIRTYWORD[768]["ID"] = 768
+	DIRTYWORD[768]["KEY"] = "比樣"
+	DIRTYWORD[768]["real_idx"] = 768
+
+DIRTYWORD["index"][769] = 769
+DIRTYWORD[769] = {}
+	DIRTYWORD[769]["ID"] = 769
+	DIRTYWORD[769]["KEY"] = "蹕"
+	DIRTYWORD[769]["real_idx"] = 769
+
+DIRTYWORD["index"][770] = 770
+DIRTYWORD[770] = {}
+	DIRTYWORD[770]["ID"] = 770
+	DIRTYWORD[770]["KEY"] = "颮"
+	DIRTYWORD[770]["real_idx"] = 770
+
+DIRTYWORD["index"][771] = 771
+DIRTYWORD[771] = {}
+	DIRTYWORD[771]["ID"] = 771
+	DIRTYWORD[771]["KEY"] = "鑣"
+	DIRTYWORD[771]["real_idx"] = 771
+
+DIRTYWORD["index"][772] = 772
+DIRTYWORD[772] = {}
+	DIRTYWORD[772]["ID"] = 772
+	DIRTYWORD[772]["KEY"] = "婊子養的 "
+	DIRTYWORD[772]["real_idx"] = 772
+
+DIRTYWORD["index"][773] = 773
+DIRTYWORD[773] = {}
+	DIRTYWORD[773]["ID"] = 773
+	DIRTYWORD[773]["KEY"] = "賓周"
+	DIRTYWORD[773]["real_idx"] = 773
+
+DIRTYWORD["index"][774] = 774
+DIRTYWORD[774] = {}
+	DIRTYWORD[774]["ID"] = 774
+	DIRTYWORD[774]["KEY"] = "冰後"
+	DIRTYWORD[774]["real_idx"] = 774
+
+DIRTYWORD["index"][775] = 775
+DIRTYWORD[775] = {}
+	DIRTYWORD[775]["ID"] = 775
+	DIRTYWORD[775]["KEY"] = "博訊"
+	DIRTYWORD[775]["real_idx"] = 775
+
+DIRTYWORD["index"][776] = 776
+DIRTYWORD[776] = {}
+	DIRTYWORD[776]["ID"] = 776
+	DIRTYWORD[776]["KEY"] = "不滅帝王"
+	DIRTYWORD[776]["real_idx"] = 776
+
+DIRTYWORD["index"][777] = 777
+DIRTYWORD[777] = {}
+	DIRTYWORD[777]["ID"] = 777
+	DIRTYWORD[777]["KEY"] = "不爽不要錢"
+	DIRTYWORD[777]["real_idx"] = 777
+
+DIRTYWORD["index"][778] = 778
+DIRTYWORD[778] = {}
+	DIRTYWORD[778]["ID"] = 778
+	DIRTYWORD[778]["KEY"] = "布萊爾"
+	DIRTYWORD[778]["real_idx"] = 778
+
+DIRTYWORD["index"][779] = 779
+DIRTYWORD[779] = {}
+	DIRTYWORD[779]["ID"] = 779
+	DIRTYWORD[779]["KEY"] = "布雷爾"
+	DIRTYWORD[779]["real_idx"] = 779
+
+DIRTYWORD["index"][780] = 780
+DIRTYWORD[780] = {}
+	DIRTYWORD[780]["ID"] = 780
+	DIRTYWORD[780]["KEY"] = "蔡崇國"
+	DIRTYWORD[780]["real_idx"] = 780
+
+DIRTYWORD["index"][781] = 781
+DIRTYWORD[781] = {}
+	DIRTYWORD[781]["ID"] = 781
+	DIRTYWORD[781]["KEY"] = "蔡啓芳"
+	DIRTYWORD[781]["real_idx"] = 781
+
+DIRTYWORD["index"][782] = 782
+DIRTYWORD[782] = {}
+	DIRTYWORD[782]["ID"] = 782
+	DIRTYWORD[782]["KEY"] = "黲"
+	DIRTYWORD[782]["real_idx"] = 782
+
+DIRTYWORD["index"][783] = 783
+DIRTYWORD[783] = {}
+	DIRTYWORD[783]["ID"] = 783
+	DIRTYWORD[783]["KEY"] = "操鶏"
+	DIRTYWORD[783]["real_idx"] = 783
+
+DIRTYWORD["index"][784] = 784
+DIRTYWORD[784] = {}
+	DIRTYWORD[784]["ID"] = 784
+	DIRTYWORD[784]["KEY"] = "操那嗎B"
+	DIRTYWORD[784]["real_idx"] = 784
+
+DIRTYWORD["index"][785] = 785
+DIRTYWORD[785] = {}
+	DIRTYWORD[785]["ID"] = 785
+	DIRTYWORD[785]["KEY"] = "操那嗎逼"
+	DIRTYWORD[785]["real_idx"] = 785
+
+DIRTYWORD["index"][786] = 786
+DIRTYWORD[786] = {}
+	DIRTYWORD[786]["ID"] = 786
+	DIRTYWORD[786]["KEY"] = "操那嗎比"
+	DIRTYWORD[786]["real_idx"] = 786
+
+DIRTYWORD["index"][787] = 787
+DIRTYWORD[787] = {}
+	DIRTYWORD[787]["ID"] = 787
+	DIRTYWORD[787]["KEY"] = "操你媽"
+	DIRTYWORD[787]["real_idx"] = 787
+
+DIRTYWORD["index"][788] = 788
+DIRTYWORD[788] = {}
+	DIRTYWORD[788]["ID"] = 788
+	DIRTYWORD[788]["KEY"] = "操你爺爺"
+	DIRTYWORD[788]["real_idx"] = 788
+
+DIRTYWORD["index"][789] = 789
+DIRTYWORD[789] = {}
+	DIRTYWORD[789]["ID"] = 789
+	DIRTYWORD[789]["KEY"] = "曹長青"
+	DIRTYWORD[789]["real_idx"] = 789
+
+DIRTYWORD["index"][790] = 790
+DIRTYWORD[790] = {}
+	DIRTYWORD[790]["ID"] = 790
+	DIRTYWORD[790]["KEY"] = "曹剛川"
+	DIRTYWORD[790]["real_idx"] = 790
+
+DIRTYWORD["index"][791] = 791
+DIRTYWORD[791] = {}
+	DIRTYWORD[791]["ID"] = 791
+	DIRTYWORD[791]["KEY"] = "草"
+	DIRTYWORD[791]["real_idx"] = 791
+
+DIRTYWORD["index"][792] = 792
+DIRTYWORD[792] = {}
+	DIRTYWORD[792]["ID"] = 792
+	DIRTYWORD[792]["KEY"] = "草你媽"
+	DIRTYWORD[792]["real_idx"] = 792
+
+DIRTYWORD["index"][793] = 793
+DIRTYWORD[793] = {}
+	DIRTYWORD[793]["ID"] = 793
+	DIRTYWORD[793]["KEY"] = "草擬媽"
+	DIRTYWORD[793]["real_idx"] = 793
+
+DIRTYWORD["index"][794] = 794
+DIRTYWORD[794] = {}
+	DIRTYWORD[794]["ID"] = 794
+	DIRTYWORD[794]["KEY"] = "册那娘餓比"
+	DIRTYWORD[794]["real_idx"] = 794
+
+DIRTYWORD["index"][795] = 795
+DIRTYWORD[795] = {}
+	DIRTYWORD[795]["ID"] = 795
+	DIRTYWORD[795]["KEY"] = "插那嗎B"
+	DIRTYWORD[795]["real_idx"] = 795
+
+DIRTYWORD["index"][796] = 796
+DIRTYWORD[796] = {}
+	DIRTYWORD[796]["ID"] = 796
+	DIRTYWORD[796]["KEY"] = "插那嗎逼"
+	DIRTYWORD[796]["real_idx"] = 796
+
+DIRTYWORD["index"][797] = 797
+DIRTYWORD[797] = {}
+	DIRTYWORD[797]["ID"] = 797
+	DIRTYWORD[797]["KEY"] = "插那嗎比"
+	DIRTYWORD[797]["real_idx"] = 797
+
+DIRTYWORD["index"][798] = 798
+DIRTYWORD[798] = {}
+	DIRTYWORD[798]["ID"] = 798
+	DIRTYWORD[798]["KEY"] = "插你媽"
+	DIRTYWORD[798]["real_idx"] = 798
+
+DIRTYWORD["index"][799] = 799
+DIRTYWORD[799] = {}
+	DIRTYWORD[799]["ID"] = 799
+	DIRTYWORD[799]["KEY"] = "插你爺爺"
+	DIRTYWORD[799]["real_idx"] = 799
+
+DIRTYWORD["index"][800] = 800
+DIRTYWORD[800] = {}
+	DIRTYWORD[800]["ID"] = 800
+	DIRTYWORD[800]["KEY"] = "覘"
+	DIRTYWORD[800]["real_idx"] = 800
+
+DIRTYWORD["index"][801] = 801
+DIRTYWORD[801] = {}
+	DIRTYWORD[801]["ID"] = 801
+	DIRTYWORD[801]["KEY"] = "蕆"
+	DIRTYWORD[801]["real_idx"] = 801
+
+DIRTYWORD["index"][802] = 802
+DIRTYWORD[802] = {}
+	DIRTYWORD[802]["ID"] = 802
+	DIRTYWORD[802]["KEY"] = "囅"
+	DIRTYWORD[802]["real_idx"] = 802
+
+DIRTYWORD["index"][803] = 803
+DIRTYWORD[803] = {}
+	DIRTYWORD[803]["ID"] = 803
+	DIRTYWORD[803]["KEY"] = "閶"
+	DIRTYWORD[803]["real_idx"] = 803
+
+DIRTYWORD["index"][804] = 804
+DIRTYWORD[804] = {}
+	DIRTYWORD[804]["ID"] = 804
+	DIRTYWORD[804]["KEY"] = "長官沙塔特"
+	DIRTYWORD[804]["real_idx"] = 804
+
+DIRTYWORD["index"][805] = 805
+DIRTYWORD[805] = {}
+	DIRTYWORD[805]["ID"] = 805
+	DIRTYWORD[805]["KEY"] = "常勁"
+	DIRTYWORD[805]["real_idx"] = 805
+
+DIRTYWORD["index"][806] = 806
+DIRTYWORD[806] = {}
+	DIRTYWORD[806]["ID"] = 806
+	DIRTYWORD[806]["KEY"] = "朝鮮"
+	DIRTYWORD[806]["real_idx"] = 806
+
+DIRTYWORD["index"][807] = 807
+DIRTYWORD[807] = {}
+	DIRTYWORD[807]["ID"] = 807
+	DIRTYWORD[807]["KEY"] = "車侖"
+	DIRTYWORD[807]["real_idx"] = 807
+
+DIRTYWORD["index"][808] = 808
+DIRTYWORD[808] = {}
+	DIRTYWORD[808]["ID"] = 808
+	DIRTYWORD[808]["KEY"] = "車侖女幹"
+	DIRTYWORD[808]["real_idx"] = 808
+
+DIRTYWORD["index"][809] = 809
+DIRTYWORD[809] = {}
+	DIRTYWORD[809]["ID"] = 809
+	DIRTYWORD[809]["KEY"] = "沉睡圖騰"
+	DIRTYWORD[809]["real_idx"] = 809
+
+DIRTYWORD["index"][810] = 810
+DIRTYWORD[810] = {}
+	DIRTYWORD[810]["ID"] = 810
+	DIRTYWORD[810]["KEY"] = "陳炳基"
+	DIRTYWORD[810]["real_idx"] = 810
+
+DIRTYWORD["index"][811] = 811
+DIRTYWORD[811] = {}
+	DIRTYWORD[811]["ID"] = 811
+	DIRTYWORD[811]["KEY"] = "陳博志"
+	DIRTYWORD[811]["real_idx"] = 811
+
+DIRTYWORD["index"][812] = 812
+DIRTYWORD[812] = {}
+	DIRTYWORD[812]["ID"] = 812
+	DIRTYWORD[812]["KEY"] = "陳定南"
+	DIRTYWORD[812]["real_idx"] = 812
+
+DIRTYWORD["index"][813] = 813
+DIRTYWORD[813] = {}
+	DIRTYWORD[813]["ID"] = 813
+	DIRTYWORD[813]["KEY"] = "陳建銘"
+	DIRTYWORD[813]["real_idx"] = 813
+
+DIRTYWORD["index"][814] = 814
+DIRTYWORD[814] = {}
+	DIRTYWORD[814]["ID"] = 814
+	DIRTYWORD[814]["KEY"] = "陳景俊"
+	DIRTYWORD[814]["real_idx"] = 814
+
+DIRTYWORD["index"][815] = 815
+DIRTYWORD[815] = {}
+	DIRTYWORD[815]["ID"] = 815
+	DIRTYWORD[815]["KEY"] = "陳菊"
+	DIRTYWORD[815]["real_idx"] = 815
+
+DIRTYWORD["index"][816] = 816
+DIRTYWORD[816] = {}
+	DIRTYWORD[816]["ID"] = 816
+	DIRTYWORD[816]["KEY"] = "陳軍"
+	DIRTYWORD[816]["real_idx"] = 816
+
+DIRTYWORD["index"][817] = 817
+DIRTYWORD[817] = {}
+	DIRTYWORD[817]["ID"] = 817
+	DIRTYWORD[817]["KEY"] = "陳良宇"
+	DIRTYWORD[817]["real_idx"] = 817
+
+DIRTYWORD["index"][818] = 818
+DIRTYWORD[818] = {}
+	DIRTYWORD[818]["ID"] = 818
+	DIRTYWORD[818]["KEY"] = "陳蒙"
+	DIRTYWORD[818]["real_idx"] = 818
+
+DIRTYWORD["index"][819] = 819
+DIRTYWORD[819] = {}
+	DIRTYWORD[819]["ID"] = 819
+	DIRTYWORD[819]["KEY"] = "陳破空"
+	DIRTYWORD[819]["real_idx"] = 819
+
+DIRTYWORD["index"][820] = 820
+DIRTYWORD[820] = {}
+	DIRTYWORD[820]["ID"] = 820
+	DIRTYWORD[820]["KEY"] = "陳水扁"
+	DIRTYWORD[820]["real_idx"] = 820
+
+DIRTYWORD["index"][821] = 821
+DIRTYWORD[821] = {}
+	DIRTYWORD[821]["ID"] = 821
+	DIRTYWORD[821]["KEY"] = "陳唐山"
+	DIRTYWORD[821]["real_idx"] = 821
+
+DIRTYWORD["index"][822] = 822
+DIRTYWORD[822] = {}
+	DIRTYWORD[822]["ID"] = 822
+	DIRTYWORD[822]["KEY"] = "陳希同"
+	DIRTYWORD[822]["real_idx"] = 822
+
+DIRTYWORD["index"][823] = 823
+DIRTYWORD[823] = {}
+	DIRTYWORD[823]["ID"] = 823
+	DIRTYWORD[823]["KEY"] = "陳小同"
+	DIRTYWORD[823]["real_idx"] = 823
+
+DIRTYWORD["index"][824] = 824
+DIRTYWORD[824] = {}
+	DIRTYWORD[824]["ID"] = 824
+	DIRTYWORD[824]["KEY"] = "陳宣良"
+	DIRTYWORD[824]["real_idx"] = 824
+
+DIRTYWORD["index"][825] = 825
+DIRTYWORD[825] = {}
+	DIRTYWORD[825]["ID"] = 825
+	DIRTYWORD[825]["KEY"] = "陳學聖"
+	DIRTYWORD[825]["real_idx"] = 825
+
+DIRTYWORD["index"][826] = 826
+DIRTYWORD[826] = {}
+	DIRTYWORD[826]["ID"] = 826
+	DIRTYWORD[826]["KEY"] = "陳一諮"
+	DIRTYWORD[826]["real_idx"] = 826
+
+DIRTYWORD["index"][827] = 827
+DIRTYWORD[827] = {}
+	DIRTYWORD[827]["ID"] = 827
+	DIRTYWORD[827]["KEY"] = "陳總統"
+	DIRTYWORD[827]["real_idx"] = 827
+
+DIRTYWORD["index"][828] = 828
+DIRTYWORD[828] = {}
+	DIRTYWORD[828]["ID"] = 828
+	DIRTYWORD[828]["KEY"] = "諶"
+	DIRTYWORD[828]["real_idx"] = 828
+
+DIRTYWORD["index"][829] = 829
+DIRTYWORD[829] = {}
+	DIRTYWORD[829]["ID"] = 829
+	DIRTYWORD[829]["KEY"] = "齔"
+	DIRTYWORD[829]["real_idx"] = 829
+
+DIRTYWORD["index"][830] = 830
+DIRTYWORD[830] = {}
+	DIRTYWORD[830]["ID"] = 830
+	DIRTYWORD[830]["KEY"] = "櫬"
+	DIRTYWORD[830]["real_idx"] = 830
+
+DIRTYWORD["index"][831] = 831
+DIRTYWORD[831] = {}
+	DIRTYWORD[831]["ID"] = 831
+	DIRTYWORD[831]["KEY"] = "讖"
+	DIRTYWORD[831]["real_idx"] = 831
+
+DIRTYWORD["index"][832] = 832
+DIRTYWORD[832] = {}
+	DIRTYWORD[832]["ID"] = 832
+	DIRTYWORD[832]["KEY"] = "程凱"
+	DIRTYWORD[832]["real_idx"] = 832
+
+DIRTYWORD["index"][833] = 833
+DIRTYWORD[833] = {}
+	DIRTYWORD[833]["ID"] = 833
+	DIRTYWORD[833]["KEY"] = "程鐵軍"
+	DIRTYWORD[833]["real_idx"] = 833
+
+DIRTYWORD["index"][834] = 834
+DIRTYWORD[834] = {}
+	DIRTYWORD[834]["ID"] = 834
+	DIRTYWORD[834]["KEY"] = "鴟"
+	DIRTYWORD[834]["real_idx"] = 834
+
+DIRTYWORD["index"][835] = 835
+DIRTYWORD[835] = {}
+	DIRTYWORD[835]["ID"] = 835
+	DIRTYWORD[835]["KEY"] = "痴鳩"
+	DIRTYWORD[835]["real_idx"] = 835
+
+DIRTYWORD["index"][836] = 836
+DIRTYWORD[836] = {}
+	DIRTYWORD[836]["ID"] = 836
+	DIRTYWORD[836]["KEY"] = "痴拈"
+	DIRTYWORD[836]["real_idx"] = 836
+
+DIRTYWORD["index"][837] = 837
+DIRTYWORD[837] = {}
+	DIRTYWORD[837]["ID"] = 837
+	DIRTYWORD[837]["KEY"] = "遲鈍的圖騰"
+	DIRTYWORD[837]["real_idx"] = 837
+
+DIRTYWORD["index"][838] = 838
+DIRTYWORD[838] = {}
+	DIRTYWORD[838]["ID"] = 838
+	DIRTYWORD[838]["KEY"] = "持不同政見 "
+	DIRTYWORD[838]["real_idx"] = 838
+
+DIRTYWORD["index"][839] = 839
+DIRTYWORD[839] = {}
+	DIRTYWORD[839]["ID"] = 839
+	DIRTYWORD[839]["KEY"] = "赤色騎士"
+	DIRTYWORD[839]["real_idx"] = 839
+
+DIRTYWORD["index"][840] = 840
+DIRTYWORD[840] = {}
+	DIRTYWORD[840]["ID"] = 840
+	DIRTYWORD[840]["KEY"] = "赤色戰士"
+	DIRTYWORD[840]["real_idx"] = 840
+
+DIRTYWORD["index"][841] = 841
+DIRTYWORD[841] = {}
+	DIRTYWORD[841]["ID"] = 841
+	DIRTYWORD[841]["KEY"] = "處女膜"
+	DIRTYWORD[841]["real_idx"] = 841
+
+DIRTYWORD["index"][842] = 842
+DIRTYWORD[842] = {}
+	DIRTYWORD[842]["ID"] = 842
+	DIRTYWORD[842]["KEY"] = "傳染性病"
+	DIRTYWORD[842]["real_idx"] = 842
+
+DIRTYWORD["index"][843] = 843
+DIRTYWORD[843] = {}
+	DIRTYWORD[843]["ID"] = 843
+	DIRTYWORD[843]["KEY"] = "吹簫"
+	DIRTYWORD[843]["real_idx"] = 843
+
+DIRTYWORD["index"][844] = 844
+DIRTYWORD[844] = {}
+	DIRTYWORD[844]["ID"] = 844
+	DIRTYWORD[844]["KEY"] = "春夏自由論壇"
+	DIRTYWORD[844]["real_idx"] = 844
+
+DIRTYWORD["index"][845] = 845
+DIRTYWORD[845] = {}
+	DIRTYWORD[845]["ID"] = 845
+	DIRTYWORD[845]["KEY"] = "戳那嗎B"
+	DIRTYWORD[845]["real_idx"] = 845
+
+DIRTYWORD["index"][846] = 846
+DIRTYWORD[846] = {}
+	DIRTYWORD[846]["ID"] = 846
+	DIRTYWORD[846]["KEY"] = "戳那嗎逼"
+	DIRTYWORD[846]["real_idx"] = 846
+
+DIRTYWORD["index"][847] = 847
+DIRTYWORD[847] = {}
+	DIRTYWORD[847]["ID"] = 847
+	DIRTYWORD[847]["KEY"] = "戳那嗎比"
+	DIRTYWORD[847]["real_idx"] = 847
+
+DIRTYWORD["index"][848] = 848
+DIRTYWORD[848] = {}
+	DIRTYWORD[848]["ID"] = 848
+	DIRTYWORD[848]["KEY"] = "輳"
+	DIRTYWORD[848]["real_idx"] = 848
+
+DIRTYWORD["index"][849] = 849
+DIRTYWORD[849] = {}
+	DIRTYWORD[849]["ID"] = 849
+	DIRTYWORD[849]["KEY"] = "鹺"
+	DIRTYWORD[849]["real_idx"] = 849
+
+DIRTYWORD["index"][850] = 850
+DIRTYWORD[850] = {}
+	DIRTYWORD[850]["ID"] = 850
+	DIRTYWORD[850]["KEY"] = "錯B"
+	DIRTYWORD[850]["real_idx"] = 850
+
+DIRTYWORD["index"][851] = 851
+DIRTYWORD[851] = {}
+	DIRTYWORD[851]["ID"] = 851
+	DIRTYWORD[851]["KEY"] = "錯逼"
+	DIRTYWORD[851]["real_idx"] = 851
+
+DIRTYWORD["index"][852] = 852
+DIRTYWORD[852] = {}
+	DIRTYWORD[852]["ID"] = 852
+	DIRTYWORD[852]["KEY"] = "錯比"
+	DIRTYWORD[852]["real_idx"] = 852
+
+DIRTYWORD["index"][853] = 853
+DIRTYWORD[853] = {}
+	DIRTYWORD[853]["ID"] = 853
+	DIRTYWORD[853]["KEY"] = "錯那嗎B"
+	DIRTYWORD[853]["real_idx"] = 853
+
+DIRTYWORD["index"][854] = 854
+DIRTYWORD[854] = {}
+	DIRTYWORD[854]["ID"] = 854
+	DIRTYWORD[854]["KEY"] = "錯那嗎逼"
+	DIRTYWORD[854]["real_idx"] = 854
+
+DIRTYWORD["index"][855] = 855
+DIRTYWORD[855] = {}
+	DIRTYWORD[855]["ID"] = 855
+	DIRTYWORD[855]["KEY"] = "錯那嗎比"
+	DIRTYWORD[855]["real_idx"] = 855
+
+DIRTYWORD["index"][856] = 856
+DIRTYWORD[856] = {}
+	DIRTYWORD[856]["ID"] = 856
+	DIRTYWORD[856]["KEY"] = "達夫警衛兵"
+	DIRTYWORD[856]["real_idx"] = 856
+
+DIRTYWORD["index"][857] = 857
+DIRTYWORD[857] = {}
+	DIRTYWORD[857]["ID"] = 857
+	DIRTYWORD[857]["KEY"] = "達夫侍從"
+	DIRTYWORD[857]["real_idx"] = 857
+
+DIRTYWORD["index"][858] = 858
+DIRTYWORD[858] = {}
+	DIRTYWORD[858]["ID"] = 858
+	DIRTYWORD[858]["KEY"] = "達癩"
+	DIRTYWORD[858]["real_idx"] = 858
+
+DIRTYWORD["index"][859] = 859
+DIRTYWORD[859] = {}
+	DIRTYWORD[859]["ID"] = 859
+	DIRTYWORD[859]["KEY"] = "打飛機"
+	DIRTYWORD[859]["real_idx"] = 859
+
+DIRTYWORD["index"][860] = 860
+DIRTYWORD[860] = {}
+	DIRTYWORD[860]["ID"] = 860
+	DIRTYWORD[860]["KEY"] = "大參考"
+	DIRTYWORD[860]["real_idx"] = 860
+
+DIRTYWORD["index"][861] = 861
+DIRTYWORD[861] = {}
+	DIRTYWORD[861]["ID"] = 861
+	DIRTYWORD[861]["KEY"] = "大東亞"
+	DIRTYWORD[861]["real_idx"] = 861
+
+DIRTYWORD["index"][862] = 862
+DIRTYWORD[862] = {}
+	DIRTYWORD[862]["ID"] = 862
+	DIRTYWORD[862]["KEY"] = "大東亞共榮"
+	DIRTYWORD[862]["real_idx"] = 862
+
+DIRTYWORD["index"][863] = 863
+DIRTYWORD[863] = {}
+	DIRTYWORD[863]["ID"] = 863
+	DIRTYWORD[863]["KEY"] = "大鶏巴"
+	DIRTYWORD[863]["real_idx"] = 863
+
+DIRTYWORD["index"][864] = 864
+DIRTYWORD[864] = {}
+	DIRTYWORD[864]["ID"] = 864
+	DIRTYWORD[864]["KEY"] = "大紀元"
+	DIRTYWORD[864]["real_idx"] = 864
+
+DIRTYWORD["index"][865] = 865
+DIRTYWORD[865] = {}
+	DIRTYWORD[865]["ID"] = 865
+	DIRTYWORD[865]["KEY"] = "大紀元新聞網"
+	DIRTYWORD[865]["real_idx"] = 865
+
+DIRTYWORD["index"][866] = 866
+DIRTYWORD[866] = {}
+	DIRTYWORD[866]["ID"] = 866
+	DIRTYWORD[866]["KEY"] = "大紀園"
+	DIRTYWORD[866]["real_idx"] = 866
+
+DIRTYWORD["index"][867] = 867
+DIRTYWORD[867] = {}
+	DIRTYWORD[867]["ID"] = 867
+	DIRTYWORD[867]["KEY"] = "大家論壇"
+	DIRTYWORD[867]["real_idx"] = 867
+
+DIRTYWORD["index"][868] = 868
+DIRTYWORD[868] = {}
+	DIRTYWORD[868]["ID"] = 868
+	DIRTYWORD[868]["KEY"] = "大奶媽"
+	DIRTYWORD[868]["real_idx"] = 868
+
+DIRTYWORD["index"][869] = 869
+DIRTYWORD[869] = {}
+	DIRTYWORD[869]["ID"] = 869
+	DIRTYWORD[869]["KEY"] = "大史記"
+	DIRTYWORD[869]["real_idx"] = 869
+
+DIRTYWORD["index"][870] = 870
+DIRTYWORD[870] = {}
+	DIRTYWORD[870]["ID"] = 870
+	DIRTYWORD[870]["KEY"] = "大史紀"
+	DIRTYWORD[870]["real_idx"] = 870
+
+DIRTYWORD["index"][871] = 871
+DIRTYWORD[871] = {}
+	DIRTYWORD[871]["ID"] = 871
+	DIRTYWORD[871]["KEY"] = "大衛教"
+	DIRTYWORD[871]["real_idx"] = 871
+
+DIRTYWORD["index"][872] = 872
+DIRTYWORD[872] = {}
+	DIRTYWORD[872]["ID"] = 872
+	DIRTYWORD[872]["KEY"] = "大中國論壇"
+	DIRTYWORD[872]["real_idx"] = 872
+
+DIRTYWORD["index"][873] = 873
+DIRTYWORD[873] = {}
+	DIRTYWORD[873]["ID"] = 873
+	DIRTYWORD[873]["KEY"] = "大中華論壇"
+	DIRTYWORD[873]["real_idx"] = 873
+
+DIRTYWORD["index"][874] = 874
+DIRTYWORD[874] = {}
+	DIRTYWORD[874]["ID"] = 874
+	DIRTYWORD[874]["KEY"] = "大衆真人真事"
+	DIRTYWORD[874]["real_idx"] = 874
+
+DIRTYWORD["index"][875] = 875
+DIRTYWORD[875] = {}
+	DIRTYWORD[875]["ID"] = 875
+	DIRTYWORD[875]["KEY"] = "紿"
+	DIRTYWORD[875]["real_idx"] = 875
+
+DIRTYWORD["index"][876] = 876
+DIRTYWORD[876] = {}
+	DIRTYWORD[876]["ID"] = 876
+	DIRTYWORD[876]["KEY"] = "戴維教"
+	DIRTYWORD[876]["real_idx"] = 876
+
+DIRTYWORD["index"][877] = 877
+DIRTYWORD[877] = {}
+	DIRTYWORD[877]["ID"] = 877
+	DIRTYWORD[877]["KEY"] = "戴相龍"
+	DIRTYWORD[877]["real_idx"] = 877
+
+DIRTYWORD["index"][878] = 878
+DIRTYWORD[878] = {}
+	DIRTYWORD[878]["ID"] = 878
+	DIRTYWORD[878]["KEY"] = "彈劾"
+	DIRTYWORD[878]["real_idx"] = 878
+
+DIRTYWORD["index"][879] = 879
+DIRTYWORD[879] = {}
+	DIRTYWORD[879]["ID"] = 879
+	DIRTYWORD[879]["KEY"] = "氹"
+	DIRTYWORD[879]["real_idx"] = 879
+
+DIRTYWORD["index"][880] = 880
+DIRTYWORD[880] = {}
+	DIRTYWORD[880]["ID"] = 880
+	DIRTYWORD[880]["KEY"] = "蕩婦"
+	DIRTYWORD[880]["real_idx"] = 880
+
+DIRTYWORD["index"][881] = 881
+DIRTYWORD[881] = {}
+	DIRTYWORD[881]["ID"] = 881
+	DIRTYWORD[881]["KEY"] = "導師"
+	DIRTYWORD[881]["real_idx"] = 881
+
+DIRTYWORD["index"][882] = 882
+DIRTYWORD[882] = {}
+	DIRTYWORD[882]["ID"] = 882
+	DIRTYWORD[882]["KEY"] = "盜竊犯"
+	DIRTYWORD[882]["real_idx"] = 882
+
+DIRTYWORD["index"][883] = 883
+DIRTYWORD[883] = {}
+	DIRTYWORD[883]["ID"] = 883
+	DIRTYWORD[883]["KEY"] = "德維爾"
+	DIRTYWORD[883]["real_idx"] = 883
+
+DIRTYWORD["index"][884] = 884
+DIRTYWORD[884] = {}
+	DIRTYWORD[884]["ID"] = 884
+	DIRTYWORD[884]["KEY"] = "登輝"
+	DIRTYWORD[884]["real_idx"] = 884
+
+DIRTYWORD["index"][885] = 885
+DIRTYWORD[885] = {}
+	DIRTYWORD[885]["ID"] = 885
+	DIRTYWORD[885]["KEY"] = "鄧笑貧"
+	DIRTYWORD[885]["real_idx"] = 885
+
+DIRTYWORD["index"][886] = 886
+DIRTYWORD[886] = {}
+	DIRTYWORD[886]["ID"] = 886
+	DIRTYWORD[886]["KEY"] = "糴"
+	DIRTYWORD[886]["real_idx"] = 886
+
+DIRTYWORD["index"][887] = 887
+DIRTYWORD[887] = {}
+	DIRTYWORD[887]["ID"] = 887
+	DIRTYWORD[887]["KEY"] = "迪裏夏提"
+	DIRTYWORD[887]["real_idx"] = 887
+
+DIRTYWORD["index"][888] = 888
+DIRTYWORD[888] = {}
+	DIRTYWORD[888]["ID"] = 888
+	DIRTYWORD[888]["KEY"] = "覿"
+	DIRTYWORD[888]["real_idx"] = 888
+
+DIRTYWORD["index"][889] = 889
+DIRTYWORD[889] = {}
+	DIRTYWORD[889]["ID"] = 889
+	DIRTYWORD[889]["KEY"] = "地下教會"
+	DIRTYWORD[889]["real_idx"] = 889
+
+DIRTYWORD["index"][890] = 890
+DIRTYWORD[890] = {}
+	DIRTYWORD[890]["ID"] = 890
+	DIRTYWORD[890]["KEY"] = "帝國主義"
+	DIRTYWORD[890]["real_idx"] = 890
+
+DIRTYWORD["index"][891] = 891
+DIRTYWORD[891] = {}
+	DIRTYWORD[891]["ID"] = 891
+	DIRTYWORD[891]["KEY"] = "電視流氓"
+	DIRTYWORD[891]["real_idx"] = 891
+
+DIRTYWORD["index"][892] = 892
+DIRTYWORD[892] = {}
+	DIRTYWORD[892]["ID"] = 892
+	DIRTYWORD[892]["KEY"] = "叼你媽"
+	DIRTYWORD[892]["real_idx"] = 892
+
+DIRTYWORD["index"][893] = 893
+DIRTYWORD[893] = {}
+	DIRTYWORD[893]["ID"] = 893
+	DIRTYWORD[893]["KEY"] = "釣魚島"
+	DIRTYWORD[893]["real_idx"] = 893
+
+DIRTYWORD["index"][894] = 894
+DIRTYWORD[894] = {}
+	DIRTYWORD[894]["ID"] = 894
+	DIRTYWORD[894]["KEY"] = "丁關根"
+	DIRTYWORD[894]["real_idx"] = 894
+
+DIRTYWORD["index"][895] = 895
+DIRTYWORD[895] = {}
+	DIRTYWORD[895]["ID"] = 895
+	DIRTYWORD[895]["KEY"] = "東北獨立"
+	DIRTYWORD[895]["real_idx"] = 895
+
+DIRTYWORD["index"][896] = 896
+DIRTYWORD[896] = {}
+	DIRTYWORD[896]["ID"] = 896
+	DIRTYWORD[896]["KEY"] = "東部地下水路"
+	DIRTYWORD[896]["real_idx"] = 896
+
+DIRTYWORD["index"][897] = 897
+DIRTYWORD[897] = {}
+	DIRTYWORD[897]["ID"] = 897
+	DIRTYWORD[897]["KEY"] = "東方紅時空"
+	DIRTYWORD[897]["real_idx"] = 897
+
+DIRTYWORD["index"][898] = 898
+DIRTYWORD[898] = {}
+	DIRTYWORD[898]["ID"] = 898
+	DIRTYWORD[898]["KEY"] = "東方時空"
+	DIRTYWORD[898]["real_idx"] = 898
+
+DIRTYWORD["index"][899] = 899
+DIRTYWORD[899] = {}
+	DIRTYWORD[899]["ID"] = 899
+	DIRTYWORD[899]["KEY"] = "東南西北論談"
+	DIRTYWORD[899]["real_idx"] = 899
+
+DIRTYWORD["index"][900] = 900
+DIRTYWORD[900] = {}
+	DIRTYWORD[900]["ID"] = 900
+	DIRTYWORD[900]["KEY"] = "東社"
+	DIRTYWORD[900]["real_idx"] = 900
+
+DIRTYWORD["index"][901] = 901
+DIRTYWORD[901] = {}
+	DIRTYWORD[901]["ID"] = 901
+	DIRTYWORD[901]["KEY"] = "東升"
+	DIRTYWORD[901]["real_idx"] = 901
+
+DIRTYWORD["index"][902] = 902
+DIRTYWORD[902] = {}
+	DIRTYWORD[902]["ID"] = 902
+	DIRTYWORD[902]["KEY"] = "東條"
+	DIRTYWORD[902]["real_idx"] = 902
+
+DIRTYWORD["index"][903] = 903
+DIRTYWORD[903] = {}
+	DIRTYWORD[903]["ID"] = 903
+	DIRTYWORD[903]["KEY"] = "東條英機"
+	DIRTYWORD[903]["real_idx"] = 903
+
+DIRTYWORD["index"][904] = 904
+DIRTYWORD[904] = {}
+	DIRTYWORD[904]["ID"] = 904
+	DIRTYWORD[904]["KEY"] = "東突暴動"
+	DIRTYWORD[904]["real_idx"] = 904
+
+DIRTYWORD["index"][905] = 905
+DIRTYWORD[905] = {}
+	DIRTYWORD[905]["ID"] = 905
+	DIRTYWORD[905]["KEY"] = "東突獨立"
+	DIRTYWORD[905]["real_idx"] = 905
+
+DIRTYWORD["index"][906] = 906
+DIRTYWORD[906] = {}
+	DIRTYWORD[906]["ID"] = 906
+	DIRTYWORD[906]["KEY"] = "東土耳其斯坦"
+	DIRTYWORD[906]["real_idx"] = 906
+
+DIRTYWORD["index"][907] = 907
+DIRTYWORD[907] = {}
+	DIRTYWORD[907]["ID"] = 907
+	DIRTYWORD[907]["KEY"] = "東西南北論壇"
+	DIRTYWORD[907]["real_idx"] = 907
+
+DIRTYWORD["index"][908] = 908
+DIRTYWORD[908] = {}
+	DIRTYWORD[908]["ID"] = 908
+	DIRTYWORD[908]["KEY"] = "東亞"
+	DIRTYWORD[908]["real_idx"] = 908
+
+DIRTYWORD["index"][909] = 909
+DIRTYWORD[909] = {}
+	DIRTYWORD[909]["ID"] = 909
+	DIRTYWORD[909]["KEY"] = "東院看守"
+	DIRTYWORD[909]["real_idx"] = 909
+
+DIRTYWORD["index"][910] = 910
+DIRTYWORD[910] = {}
+	DIRTYWORD[910]["ID"] = 910
+	DIRTYWORD[910]["KEY"] = "動亂"
+	DIRTYWORD[910]["real_idx"] = 910
+
+DIRTYWORD["index"][911] = 911
+DIRTYWORD[911] = {}
+	DIRTYWORD[911]["ID"] = 911
+	DIRTYWORD[911]["KEY"] = "鬥士哈夫拉蘇"
+	DIRTYWORD[911]["real_idx"] = 911
+
+DIRTYWORD["index"][912] = 912
+DIRTYWORD[912] = {}
+	DIRTYWORD[912]["ID"] = 912
+	DIRTYWORD[912]["KEY"] = "鬥士霍克"
+	DIRTYWORD[912]["real_idx"] = 912
+
+DIRTYWORD["index"][913] = 913
+DIRTYWORD[913] = {}
+	DIRTYWORD[913]["ID"] = 913
+	DIRTYWORD[913]["KEY"] = "獨裁"
+	DIRTYWORD[913]["real_idx"] = 913
+
+DIRTYWORD["index"][914] = 914
+DIRTYWORD[914] = {}
+	DIRTYWORD[914]["ID"] = 914
+	DIRTYWORD[914]["KEY"] = "獨裁政治"
+	DIRTYWORD[914]["real_idx"] = 914
+
+DIRTYWORD["index"][915] = 915
+DIRTYWORD[915] = {}
+	DIRTYWORD[915]["ID"] = 915
+	DIRTYWORD[915]["KEY"] = "獨夫"
+	DIRTYWORD[915]["real_idx"] = 915
+
+DIRTYWORD["index"][916] = 916
+DIRTYWORD[916] = {}
+	DIRTYWORD[916]["ID"] = 916
+	DIRTYWORD[916]["KEY"] = "獨立臺灣會"
+	DIRTYWORD[916]["real_idx"] = 916
+
+DIRTYWORD["index"][917] = 917
+DIRTYWORD[917] = {}
+	DIRTYWORD[917]["ID"] = 917
+	DIRTYWORD[917]["KEY"] = "俄國 "
+	DIRTYWORD[917]["real_idx"] = 917
+
+DIRTYWORD["index"][918] = 918
+DIRTYWORD[918] = {}
+	DIRTYWORD[918]["ID"] = 918
+	DIRTYWORD[918]["KEY"] = "鮞"
+	DIRTYWORD[918]["real_idx"] = 918
+
+DIRTYWORD["index"][919] = 919
+DIRTYWORD[919] = {}
+	DIRTYWORD[919]["ID"] = 919
+	DIRTYWORD[919]["KEY"] = "㈡"
+	DIRTYWORD[919]["real_idx"] = 919
+
+DIRTYWORD["index"][920] = 920
+DIRTYWORD[920] = {}
+	DIRTYWORD[920]["ID"] = 920
+	DIRTYWORD[920]["KEY"] = "發楞"
+	DIRTYWORD[920]["real_idx"] = 920
+
+DIRTYWORD["index"][921] = 921
+DIRTYWORD[921] = {}
+	DIRTYWORD[921]["ID"] = 921
+	DIRTYWORD[921]["KEY"] = "發掄"
+	DIRTYWORD[921]["real_idx"] = 921
+
+DIRTYWORD["index"][922] = 922
+DIRTYWORD[922] = {}
+	DIRTYWORD[922]["ID"] = 922
+	DIRTYWORD[922]["KEY"] = "發掄功"
+	DIRTYWORD[922]["real_idx"] = 922
+
+DIRTYWORD["index"][923] = 923
+DIRTYWORD[923] = {}
+	DIRTYWORD[923]["ID"] = 923
+	DIRTYWORD[923]["KEY"] = "發倫"
+	DIRTYWORD[923]["real_idx"] = 923
+
+DIRTYWORD["index"][924] = 924
+DIRTYWORD[924] = {}
+	DIRTYWORD[924]["ID"] = 924
+	DIRTYWORD[924]["KEY"] = "發倫功"
+	DIRTYWORD[924]["real_idx"] = 924
+
+DIRTYWORD["index"][925] = 925
+DIRTYWORD[925] = {}
+	DIRTYWORD[925]["ID"] = 925
+	DIRTYWORD[925]["KEY"] = "發輪"
+	DIRTYWORD[925]["real_idx"] = 925
+
+DIRTYWORD["index"][926] = 926
+DIRTYWORD[926] = {}
+	DIRTYWORD[926]["ID"] = 926
+	DIRTYWORD[926]["KEY"] = "發論"
+	DIRTYWORD[926]["real_idx"] = 926
+
+DIRTYWORD["index"][927] = 927
+DIRTYWORD[927] = {}
+	DIRTYWORD[927]["ID"] = 927
+	DIRTYWORD[927]["KEY"] = "發論公"
+	DIRTYWORD[927]["real_idx"] = 927
+
+DIRTYWORD["index"][928] = 928
+DIRTYWORD[928] = {}
+	DIRTYWORD[928]["ID"] = 928
+	DIRTYWORD[928]["KEY"] = "發論功"
+	DIRTYWORD[928]["real_idx"] = 928
+
+DIRTYWORD["index"][929] = 929
+DIRTYWORD[929] = {}
+	DIRTYWORD[929]["ID"] = 929
+	DIRTYWORD[929]["KEY"] = "發騷"
+	DIRTYWORD[929]["real_idx"] = 929
+
+DIRTYWORD["index"][930] = 930
+DIRTYWORD[930] = {}
+	DIRTYWORD[930]["ID"] = 930
+	DIRTYWORD[930]["KEY"] = "發正念"
+	DIRTYWORD[930]["real_idx"] = 930
+
+DIRTYWORD["index"][931] = 931
+DIRTYWORD[931] = {}
+	DIRTYWORD[931]["ID"] = 931
+	DIRTYWORD[931]["KEY"] = "法~倫"
+	DIRTYWORD[931]["real_idx"] = 931
+
+DIRTYWORD["index"][932] = 932
+DIRTYWORD[932] = {}
+	DIRTYWORD[932]["ID"] = 932
+	DIRTYWORD[932]["KEY"] = "法~淪"
+	DIRTYWORD[932]["real_idx"] = 932
+
+DIRTYWORD["index"][933] = 933
+DIRTYWORD[933] = {}
+	DIRTYWORD[933]["ID"] = 933
+	DIRTYWORD[933]["KEY"] = "法~綸"
+	DIRTYWORD[933]["real_idx"] = 933
+
+DIRTYWORD["index"][934] = 934
+DIRTYWORD[934] = {}
+	DIRTYWORD[934]["ID"] = 934
+	DIRTYWORD[934]["KEY"] = "法~輪"
+	DIRTYWORD[934]["real_idx"] = 934
+
+DIRTYWORD["index"][935] = 935
+DIRTYWORD[935] = {}
+	DIRTYWORD[935]["ID"] = 935
+	DIRTYWORD[935]["KEY"] = "法~論"
+	DIRTYWORD[935]["real_idx"] = 935
+
+DIRTYWORD["index"][936] = 936
+DIRTYWORD[936] = {}
+	DIRTYWORD[936]["ID"] = 936
+	DIRTYWORD[936]["KEY"] = "法爾卡"
+	DIRTYWORD[936]["real_idx"] = 936
+
+DIRTYWORD["index"][937] = 937
+DIRTYWORD[937] = {}
+	DIRTYWORD[937]["ID"] = 937
+	DIRTYWORD[937]["KEY"] = "法掄"
+	DIRTYWORD[937]["real_idx"] = 937
+
+DIRTYWORD["index"][938] = 938
+DIRTYWORD[938] = {}
+	DIRTYWORD[938]["ID"] = 938
+	DIRTYWORD[938]["KEY"] = "法掄功"
+	DIRTYWORD[938]["real_idx"] = 938
+
+DIRTYWORD["index"][939] = 939
+DIRTYWORD[939] = {}
+	DIRTYWORD[939]["ID"] = 939
+	DIRTYWORD[939]["KEY"] = "法侖"
+	DIRTYWORD[939]["real_idx"] = 939
+
+DIRTYWORD["index"][940] = 940
+DIRTYWORD[940] = {}
+	DIRTYWORD[940]["ID"] = 940
+	DIRTYWORD[940]["KEY"] = "法淪"
+	DIRTYWORD[940]["real_idx"] = 940
+
+DIRTYWORD["index"][941] = 941
+DIRTYWORD[941] = {}
+	DIRTYWORD[941]["ID"] = 941
+	DIRTYWORD[941]["KEY"] = "法綸"
+	DIRTYWORD[941]["real_idx"] = 941
+
+DIRTYWORD["index"][942] = 942
+DIRTYWORD[942] = {}
+	DIRTYWORD[942]["ID"] = 942
+	DIRTYWORD[942]["KEY"] = "法輪大法"
+	DIRTYWORD[942]["real_idx"] = 942
+
+DIRTYWORD["index"][943] = 943
+DIRTYWORD[943] = {}
+	DIRTYWORD[943]["ID"] = 943
+	DIRTYWORD[943]["KEY"] = "法輪功"
+	DIRTYWORD[943]["real_idx"] = 943
+
+DIRTYWORD["index"][944] = 944
+DIRTYWORD[944] = {}
+	DIRTYWORD[944]["ID"] = 944
+	DIRTYWORD[944]["KEY"] = "法十輪十功"
+	DIRTYWORD[944]["real_idx"] = 944
+
+DIRTYWORD["index"][945] = 945
+DIRTYWORD[945] = {}
+	DIRTYWORD[945]["ID"] = 945
+	DIRTYWORD[945]["KEY"] = "法謫"
+	DIRTYWORD[945]["real_idx"] = 945
+
+DIRTYWORD["index"][946] = 946
+DIRTYWORD[946] = {}
+	DIRTYWORD[946]["ID"] = 946
+	DIRTYWORD[946]["KEY"] = "法謫功"
+	DIRTYWORD[946]["real_idx"] = 946
+
+DIRTYWORD["index"][947] = 947
+DIRTYWORD[947] = {}
+	DIRTYWORD[947]["ID"] = 947
+	DIRTYWORD[947]["KEY"] = "反封鎖"
+	DIRTYWORD[947]["real_idx"] = 947
+
+DIRTYWORD["index"][948] = 948
+DIRTYWORD[948] = {}
+	DIRTYWORD[948]["ID"] = 948
+	DIRTYWORD[948]["KEY"] = "反封鎖技術"
+	DIRTYWORD[948]["real_idx"] = 948
+
+DIRTYWORD["index"][949] = 949
+DIRTYWORD[949] = {}
+	DIRTYWORD[949]["ID"] = 949
+	DIRTYWORD[949]["KEY"] = "反腐敗論壇"
+	DIRTYWORD[949]["real_idx"] = 949
+
+DIRTYWORD["index"][950] = 950
+DIRTYWORD[950] = {}
+	DIRTYWORD[950]["ID"] = 950
+	DIRTYWORD[950]["KEY"] = "反人類"
+	DIRTYWORD[950]["real_idx"] = 950
+
+DIRTYWORD["index"][951] = 951
+DIRTYWORD[951] = {}
+	DIRTYWORD[951]["ID"] = 951
+	DIRTYWORD[951]["KEY"] = "反社會"
+	DIRTYWORD[951]["real_idx"] = 951
+
+DIRTYWORD["index"][952] = 952
+DIRTYWORD[952] = {}
+	DIRTYWORD[952]["ID"] = 952
+	DIRTYWORD[952]["KEY"] = "方勵之"
+	DIRTYWORD[952]["real_idx"] = 952
+
+DIRTYWORD["index"][953] = 953
+DIRTYWORD[953] = {}
+	DIRTYWORD[953]["ID"] = 953
+	DIRTYWORD[953]["KEY"] = "防衛指揮官"
+	DIRTYWORD[953]["real_idx"] = 953
+
+DIRTYWORD["index"][954] = 954
+DIRTYWORD[954] = {}
+	DIRTYWORD[954]["ID"] = 954
+	DIRTYWORD[954]["KEY"] = "放蕩"
+	DIRTYWORD[954]["real_idx"] = 954
+
+DIRTYWORD["index"][955] = 955
+DIRTYWORD[955] = {}
+	DIRTYWORD[955]["ID"] = 955
+	DIRTYWORD[955]["KEY"] = "飛揚論壇"
+	DIRTYWORD[955]["real_idx"] = 955
+
+DIRTYWORD["index"][956] = 956
+DIRTYWORD[956] = {}
+	DIRTYWORD[956]["ID"] = 956
+	DIRTYWORD[956]["KEY"] = "廢墟守護者"
+	DIRTYWORD[956]["real_idx"] = 956
+
+DIRTYWORD["index"][957] = 957
+DIRTYWORD[957] = {}
+	DIRTYWORD[957]["ID"] = 957
+	DIRTYWORD[957]["KEY"] = "費鴻泰"
+	DIRTYWORD[957]["real_idx"] = 957
+
+DIRTYWORD["index"][958] = 958
+DIRTYWORD[958] = {}
+	DIRTYWORD[958]["ID"] = 958
+	DIRTYWORD[958]["KEY"] = "費良勇"
+	DIRTYWORD[958]["real_idx"] = 958
+
+DIRTYWORD["index"][959] = 959
+DIRTYWORD[959] = {}
+	DIRTYWORD[959]["ID"] = 959
+	DIRTYWORD[959]["KEY"] = "分隊長施蒂文"
+	DIRTYWORD[959]["real_idx"] = 959
+
+DIRTYWORD["index"][960] = 960
+DIRTYWORD[960] = {}
+	DIRTYWORD[960]["ID"] = 960
+	DIRTYWORD[960]["KEY"] = "粉飾太平"
+	DIRTYWORD[960]["real_idx"] = 960
+
+DIRTYWORD["index"][961] = 961
+DIRTYWORD[961] = {}
+	DIRTYWORD[961]["ID"] = 961
+	DIRTYWORD[961]["KEY"] = "糞便"
+	DIRTYWORD[961]["real_idx"] = 961
+
+DIRTYWORD["index"][962] = 962
+DIRTYWORD[962] = {}
+	DIRTYWORD[962]["ID"] = 962
+	DIRTYWORD[962]["KEY"] = "鱝"
+	DIRTYWORD[962]["real_idx"] = 962
+
+DIRTYWORD["index"][963] = 963
+DIRTYWORD[963] = {}
+	DIRTYWORD[963]["ID"] = 963
+	DIRTYWORD[963]["KEY"] = "豐饒的果實"
+	DIRTYWORD[963]["real_idx"] = 963
+
+DIRTYWORD["index"][964] = 964
+DIRTYWORD[964] = {}
+	DIRTYWORD[964]["ID"] = 964
+	DIRTYWORD[964]["KEY"] = "風雨神州"
+	DIRTYWORD[964]["real_idx"] = 964
+
+DIRTYWORD["index"][965] = 965
+DIRTYWORD[965] = {}
+	DIRTYWORD[965]["ID"] = 965
+	DIRTYWORD[965]["KEY"] = "風雨神州論壇"
+	DIRTYWORD[965]["real_idx"] = 965
+
+DIRTYWORD["index"][966] = 966
+DIRTYWORD[966] = {}
+	DIRTYWORD[966]["ID"] = 966
+	DIRTYWORD[966]["KEY"] = "封從德"
+	DIRTYWORD[966]["real_idx"] = 966
+
+DIRTYWORD["index"][967] = 967
+DIRTYWORD[967] = {}
+	DIRTYWORD[967]["ID"] = 967
+	DIRTYWORD[967]["KEY"] = "封殺"
+	DIRTYWORD[967]["real_idx"] = 967
+
+DIRTYWORD["index"][968] = 968
+DIRTYWORD[968] = {}
+	DIRTYWORD[968]["ID"] = 968
+	DIRTYWORD[968]["KEY"] = "封印的靈魂騎士"
+	DIRTYWORD[968]["real_idx"] = 968
+
+DIRTYWORD["index"][969] = 969
+DIRTYWORD[969] = {}
+	DIRTYWORD[969]["ID"] = 969
+	DIRTYWORD[969]["KEY"] = "馮東海"
+	DIRTYWORD[969]["real_idx"] = 969
+
+DIRTYWORD["index"][970] = 970
+DIRTYWORD[970] = {}
+	DIRTYWORD[970]["ID"] = 970
+	DIRTYWORD[970]["KEY"] = "馮素英"
+	DIRTYWORD[970]["real_idx"] = 970
+
+DIRTYWORD["index"][971] = 971
+DIRTYWORD[971] = {}
+	DIRTYWORD[971]["ID"] = 971
+	DIRTYWORD[971]["KEY"] = "紱"
+	DIRTYWORD[971]["real_idx"] = 971
+
+DIRTYWORD["index"][972] = 972
+DIRTYWORD[972] = {}
+	DIRTYWORD[972]["ID"] = 972
+	DIRTYWORD[972]["KEY"] = "襆"
+	DIRTYWORD[972]["real_idx"] = 972
+
+DIRTYWORD["index"][973] = 973
+DIRTYWORD[973] = {}
+	DIRTYWORD[973]["ID"] = 973
+	DIRTYWORD[973]["KEY"] = "嘸 "
+	DIRTYWORD[973]["real_idx"] = 973
+
+DIRTYWORD["index"][974] = 974
+DIRTYWORD[974] = {}
+	DIRTYWORD[974]["ID"] = 974
+	DIRTYWORD[974]["KEY"] = "傅作義"
+	DIRTYWORD[974]["real_idx"] = 974
+
+DIRTYWORD["index"][975] = 975
+DIRTYWORD[975] = {}
+	DIRTYWORD[975]["ID"] = 975
+	DIRTYWORD[975]["KEY"] = "幹bi"
+	DIRTYWORD[975]["real_idx"] = 975
+
+DIRTYWORD["index"][976] = 976
+DIRTYWORD[976] = {}
+	DIRTYWORD[976]["ID"] = 976
+	DIRTYWORD[976]["KEY"] = "幹逼"
+	DIRTYWORD[976]["real_idx"] = 976
+
+DIRTYWORD["index"][977] = 977
+DIRTYWORD[977] = {}
+	DIRTYWORD[977]["ID"] = 977
+	DIRTYWORD[977]["KEY"] = "幹比"
+	DIRTYWORD[977]["real_idx"] = 977
+
+DIRTYWORD["index"][978] = 978
+DIRTYWORD[978] = {}
+	DIRTYWORD[978]["ID"] = 978
+	DIRTYWORD[978]["KEY"] = "幹的你"
+	DIRTYWORD[978]["real_idx"] = 978
+
+DIRTYWORD["index"][979] = 979
+DIRTYWORD[979] = {}
+	DIRTYWORD[979]["ID"] = 979
+	DIRTYWORD[979]["KEY"] = "幹幹幹"
+	DIRTYWORD[979]["real_idx"] = 979
+
+DIRTYWORD["index"][980] = 980
+DIRTYWORD[980] = {}
+	DIRTYWORD[980]["ID"] = 980
+	DIRTYWORD[980]["KEY"] = "幹她"
+	DIRTYWORD[980]["real_idx"] = 980
+
+DIRTYWORD["index"][981] = 981
+DIRTYWORD[981] = {}
+	DIRTYWORD[981]["ID"] = 981
+	DIRTYWORD[981]["KEY"] = "幹你"
+	DIRTYWORD[981]["real_idx"] = 981
+
+DIRTYWORD["index"][982] = 982
+DIRTYWORD[982] = {}
+	DIRTYWORD[982]["ID"] = 982
+	DIRTYWORD[982]["KEY"] = "幹你老比"
+	DIRTYWORD[982]["real_idx"] = 982
+
+DIRTYWORD["index"][983] = 983
+DIRTYWORD[983] = {}
+	DIRTYWORD[983]["ID"] = 983
+	DIRTYWORD[983]["KEY"] = "幹你老母"
+	DIRTYWORD[983]["real_idx"] = 983
+
+DIRTYWORD["index"][984] = 984
+DIRTYWORD[984] = {}
+	DIRTYWORD[984]["ID"] = 984
+	DIRTYWORD[984]["KEY"] = "幹你娘"
+	DIRTYWORD[984]["real_idx"] = 984
+
+DIRTYWORD["index"][985] = 985
+DIRTYWORD[985] = {}
+	DIRTYWORD[985]["ID"] = 985
+	DIRTYWORD[985]["KEY"] = "幹全家"
+	DIRTYWORD[985]["real_idx"] = 985
+
+DIRTYWORD["index"][986] = 986
+DIRTYWORD[986] = {}
+	DIRTYWORD[986]["ID"] = 986
+	DIRTYWORD[986]["KEY"] = "幹死"
+	DIRTYWORD[986]["real_idx"] = 986
+
+DIRTYWORD["index"][987] = 987
+DIRTYWORD[987] = {}
+	DIRTYWORD[987]["ID"] = 987
+	DIRTYWORD[987]["KEY"] = "幹死你"
+	DIRTYWORD[987]["real_idx"] = 987
+
+DIRTYWORD["index"][988] = 988
+DIRTYWORD[988] = {}
+	DIRTYWORD[988]["ID"] = 988
+	DIRTYWORD[988]["KEY"] = "幹他"
+	DIRTYWORD[988]["real_idx"] = 988
+
+DIRTYWORD["index"][989] = 989
+DIRTYWORD[989] = {}
+	DIRTYWORD[989]["ID"] = 989
+	DIRTYWORD[989]["KEY"] = "幹一家"
+	DIRTYWORD[989]["real_idx"] = 989
+
+DIRTYWORD["index"][990] = 990
+DIRTYWORD[990] = {}
+	DIRTYWORD[990]["ID"] = 990
+	DIRTYWORD[990]["KEY"] = "趕你娘"
+	DIRTYWORD[990]["real_idx"] = 990
+
+DIRTYWORD["index"][991] = 991
+DIRTYWORD[991] = {}
+	DIRTYWORD[991]["ID"] = 991
+	DIRTYWORD[991]["KEY"] = "岡巒"
+	DIRTYWORD[991]["real_idx"] = 991
+
+DIRTYWORD["index"][992] = 992
+DIRTYWORD[992] = {}
+	DIRTYWORD[992]["ID"] = 992
+	DIRTYWORD[992]["KEY"] = "剛比"
+	DIRTYWORD[992]["real_idx"] = 992
+
+DIRTYWORD["index"][993] = 993
+DIRTYWORD[993] = {}
+	DIRTYWORD[993]["ID"] = 993
+	DIRTYWORD[993]["KEY"] = "剛比樣子"
+	DIRTYWORD[993]["real_idx"] = 993
+
+DIRTYWORD["index"][994] = 994
+DIRTYWORD[994] = {}
+	DIRTYWORD[994]["ID"] = 994
+	DIRTYWORD[994]["KEY"] = "崗哨士兵"
+	DIRTYWORD[994]["real_idx"] = 994
+
+DIRTYWORD["index"][995] = 995
+DIRTYWORD[995] = {}
+	DIRTYWORD[995]["ID"] = 995
+	DIRTYWORD[995]["KEY"] = "肛門"
+	DIRTYWORD[995]["real_idx"] = 995
+
+DIRTYWORD["index"][996] = 996
+DIRTYWORD[996] = {}
+	DIRTYWORD[996]["ID"] = 996
+	DIRTYWORD[996]["KEY"] = "高麗棒子"
+	DIRTYWORD[996]["real_idx"] = 996
+
+DIRTYWORD["index"][997] = 997
+DIRTYWORD[997] = {}
+	DIRTYWORD[997]["ID"] = 997
+	DIRTYWORD[997]["KEY"] = "高文謙"
+	DIRTYWORD[997]["real_idx"] = 997
+
+DIRTYWORD["index"][998] = 998
+DIRTYWORD[998] = {}
+	DIRTYWORD[998]["ID"] = 998
+	DIRTYWORD[998]["KEY"] = "高薪養廉"
+	DIRTYWORD[998]["real_idx"] = 998
+
+DIRTYWORD["index"][999] = 999
+DIRTYWORD[999] = {}
+	DIRTYWORD[999]["ID"] = 999
+	DIRTYWORD[999]["KEY"] = "高自聯"
+	DIRTYWORD[999]["real_idx"] = 999
+
+DIRTYWORD["index"][1000] = 1000
+DIRTYWORD[1000] = {}
+	DIRTYWORD[1000]["ID"] = 1000
+	DIRTYWORD[1000]["KEY"] = "膏藥旗"
+	DIRTYWORD[1000]["real_idx"] = 1000
+
+DIRTYWORD["index"][1001] = 1001
+DIRTYWORD[1001] = {}
+	DIRTYWORD[1001]["ID"] = 1001
+	DIRTYWORD[1001]["KEY"] = "戈瑞爾德"
+	DIRTYWORD[1001]["real_idx"] = 1001
+
+DIRTYWORD["index"][1002] = 1002
+DIRTYWORD[1002] = {}
+	DIRTYWORD[1002]["ID"] = 1002
+	DIRTYWORD[1002]["KEY"] = "戈揚"
+	DIRTYWORD[1002]["real_idx"] = 1002
+
+DIRTYWORD["index"][1003] = 1003
+DIRTYWORD[1003] = {}
+	DIRTYWORD[1003]["ID"] = 1003
+	DIRTYWORD[1003]["KEY"] = "鴿派"
+	DIRTYWORD[1003]["real_idx"] = 1003
+
+DIRTYWORD["index"][1004] = 1004
+DIRTYWORD[1004] = {}
+	DIRTYWORD[1004]["ID"] = 1004
+	DIRTYWORD[1004]["KEY"] = "歌功頌德"
+	DIRTYWORD[1004]["real_idx"] = 1004
+
+DIRTYWORD["index"][1005] = 1005
+DIRTYWORD[1005] = {}
+	DIRTYWORD[1005]["ID"] = 1005
+	DIRTYWORD[1005]["KEY"] = "格雷(關卡排名管理者)"
+	DIRTYWORD[1005]["real_idx"] = 1005
+
+DIRTYWORD["index"][1006] = 1006
+DIRTYWORD[1006] = {}
+	DIRTYWORD[1006]["ID"] = 1006
+	DIRTYWORD[1006]["KEY"] = "格魯"
+	DIRTYWORD[1006]["real_idx"] = 1006
+
+DIRTYWORD["index"][1007] = 1007
+DIRTYWORD[1007] = {}
+	DIRTYWORD[1007]["ID"] = 1007
+	DIRTYWORD[1007]["KEY"] = "格魯(城鎮移動)"
+	DIRTYWORD[1007]["real_idx"] = 1007
+
+DIRTYWORD["index"][1008] = 1008
+DIRTYWORD[1008] = {}
+	DIRTYWORD[1008]["ID"] = 1008
+	DIRTYWORD[1008]["KEY"] = "鯁"
+	DIRTYWORD[1008]["real_idx"] = 1008
+
+DIRTYWORD["index"][1009] = 1009
+DIRTYWORD[1009] = {}
+	DIRTYWORD[1009]["ID"] = 1009
+	DIRTYWORD[1009]["KEY"] = "工自聯"
+	DIRTYWORD[1009]["real_idx"] = 1009
+
+DIRTYWORD["index"][1010] = 1010
+DIRTYWORD[1010] = {}
+	DIRTYWORD[1010]["ID"] = 1010
+	DIRTYWORD[1010]["KEY"] = "弓雖"
+	DIRTYWORD[1010]["real_idx"] = 1010
+
+DIRTYWORD["index"][1011] = 1011
+DIRTYWORD[1011] = {}
+	DIRTYWORD[1011]["ID"] = 1011
+	DIRTYWORD[1011]["KEY"] = "共産"
+	DIRTYWORD[1011]["real_idx"] = 1011
+
+DIRTYWORD["index"][1012] = 1012
+DIRTYWORD[1012] = {}
+	DIRTYWORD[1012]["ID"] = 1012
+	DIRTYWORD[1012]["KEY"] = "共産黨"
+	DIRTYWORD[1012]["real_idx"] = 1012
+
+DIRTYWORD["index"][1013] = 1013
+DIRTYWORD[1013] = {}
+	DIRTYWORD[1013]["ID"] = 1013
+	DIRTYWORD[1013]["KEY"] = "共産主義"
+	DIRTYWORD[1013]["real_idx"] = 1013
+
+DIRTYWORD["index"][1014] = 1014
+DIRTYWORD[1014] = {}
+	DIRTYWORD[1014]["ID"] = 1014
+	DIRTYWORD[1014]["KEY"] = "共黨"
+	DIRTYWORD[1014]["real_idx"] = 1014
+
+DIRTYWORD["index"][1015] = 1015
+DIRTYWORD[1015] = {}
+	DIRTYWORD[1015]["ID"] = 1015
+	DIRTYWORD[1015]["KEY"] = "共軍"
+	DIRTYWORD[1015]["real_idx"] = 1015
+
+DIRTYWORD["index"][1016] = 1016
+DIRTYWORD[1016] = {}
+	DIRTYWORD[1016]["ID"] = 1016
+	DIRTYWORD[1016]["KEY"] = "共榮圈"
+	DIRTYWORD[1016]["real_idx"] = 1016
+
+DIRTYWORD["index"][1017] = 1017
+DIRTYWORD[1017] = {}
+	DIRTYWORD[1017]["ID"] = 1017
+	DIRTYWORD[1017]["KEY"] = "緱"
+	DIRTYWORD[1017]["real_idx"] = 1017
+
+DIRTYWORD["index"][1018] = 1018
+DIRTYWORD[1018] = {}
+	DIRTYWORD[1018]["ID"] = 1018
+	DIRTYWORD[1018]["KEY"] = "狗誠"
+	DIRTYWORD[1018]["real_idx"] = 1018
+
+DIRTYWORD["index"][1019] = 1019
+DIRTYWORD[1019] = {}
+	DIRTYWORD[1019]["ID"] = 1019
+	DIRTYWORD[1019]["KEY"] = "狗狼養的"
+	DIRTYWORD[1019]["real_idx"] = 1019
+
+DIRTYWORD["index"][1020] = 1020
+DIRTYWORD[1020] = {}
+	DIRTYWORD[1020]["ID"] = 1020
+	DIRTYWORD[1020]["KEY"] = "狗娘養的"
+	DIRTYWORD[1020]["real_idx"] = 1020
+
+DIRTYWORD["index"][1021] = 1021
+DIRTYWORD[1021] = {}
+	DIRTYWORD[1021]["ID"] = 1021
+	DIRTYWORD[1021]["KEY"] = "狗養"
+	DIRTYWORD[1021]["real_idx"] = 1021
+
+DIRTYWORD["index"][1022] = 1022
+DIRTYWORD[1022] = {}
+	DIRTYWORD[1022]["ID"] = 1022
+	DIRTYWORD[1022]["KEY"] = "狗雜種"
+	DIRTYWORD[1022]["real_idx"] = 1022
+
+DIRTYWORD["index"][1023] = 1023
+DIRTYWORD[1023] = {}
+	DIRTYWORD[1023]["ID"] = 1023
+	DIRTYWORD[1023]["KEY"] = "覯"
+	DIRTYWORD[1023]["real_idx"] = 1023
+
+DIRTYWORD["index"][1024] = 1024
+DIRTYWORD[1024] = {}
+	DIRTYWORD[1024]["ID"] = 1024
+	DIRTYWORD[1024]["KEY"] = "轂"
+	DIRTYWORD[1024]["real_idx"] = 1024
+
+DIRTYWORD["index"][1025] = 1025
+DIRTYWORD[1025] = {}
+	DIRTYWORD[1025]["ID"] = 1025
+	DIRTYWORD[1025]["KEY"] = "古龍祭壇"
+	DIRTYWORD[1025]["real_idx"] = 1025
+
+DIRTYWORD["index"][1026] = 1026
+DIRTYWORD[1026] = {}
+	DIRTYWORD[1026]["ID"] = 1026
+	DIRTYWORD[1026]["KEY"] = "骨獅"
+	DIRTYWORD[1026]["real_idx"] = 1026
+
+DIRTYWORD["index"][1027] = 1027
+DIRTYWORD[1027] = {}
+	DIRTYWORD[1027]["ID"] = 1027
+	DIRTYWORD[1027]["KEY"] = "鯝"
+	DIRTYWORD[1027]["real_idx"] = 1027
+
+DIRTYWORD["index"][1028] = 1028
+DIRTYWORD[1028] = {}
+	DIRTYWORD[1028]["ID"] = 1028
+	DIRTYWORD[1028]["KEY"] = "鴰"
+	DIRTYWORD[1028]["real_idx"] = 1028
+
+DIRTYWORD["index"][1029] = 1029
+DIRTYWORD[1029] = {}
+	DIRTYWORD[1029]["ID"] = 1029
+	DIRTYWORD[1029]["KEY"] = "詿"
+	DIRTYWORD[1029]["real_idx"] = 1029
+
+DIRTYWORD["index"][1030] = 1030
+DIRTYWORD[1030] = {}
+	DIRTYWORD[1030]["ID"] = 1030
+	DIRTYWORD[1030]["KEY"] = "關卓中"
+	DIRTYWORD[1030]["real_idx"] = 1030
+
+DIRTYWORD["index"][1031] = 1031
+DIRTYWORD[1031] = {}
+	DIRTYWORD[1031]["ID"] = 1031
+	DIRTYWORD[1031]["KEY"] = "貫通兩極法"
+	DIRTYWORD[1031]["real_idx"] = 1031
+
+DIRTYWORD["index"][1032] = 1032
+DIRTYWORD[1032] = {}
+	DIRTYWORD[1032]["ID"] = 1032
+	DIRTYWORD[1032]["KEY"] = "廣聞"
+	DIRTYWORD[1032]["real_idx"] = 1032
+
+DIRTYWORD["index"][1033] = 1033
+DIRTYWORD[1033] = {}
+	DIRTYWORD[1033]["ID"] = 1033
+	DIRTYWORD[1033]["KEY"] = "嬀"
+	DIRTYWORD[1033]["real_idx"] = 1033
+
+DIRTYWORD["index"][1034] = 1034
+DIRTYWORD[1034] = {}
+	DIRTYWORD[1034]["ID"] = 1034
+	DIRTYWORD[1034]["KEY"] = "龜兒子"
+	DIRTYWORD[1034]["real_idx"] = 1034
+
+DIRTYWORD["index"][1035] = 1035
+DIRTYWORD[1035] = {}
+	DIRTYWORD[1035]["ID"] = 1035
+	DIRTYWORD[1035]["KEY"] = "龜公"
+	DIRTYWORD[1035]["real_idx"] = 1035
+
+DIRTYWORD["index"][1036] = 1036
+DIRTYWORD[1036] = {}
+	DIRTYWORD[1036]["ID"] = 1036
+	DIRTYWORD[1036]["KEY"] = "龜孫子"
+	DIRTYWORD[1036]["real_idx"] = 1036
+
+DIRTYWORD["index"][1037] = 1037
+DIRTYWORD[1037] = {}
+	DIRTYWORD[1037]["ID"] = 1037
+	DIRTYWORD[1037]["KEY"] = "龜頭"
+	DIRTYWORD[1037]["real_idx"] = 1037
+
+DIRTYWORD["index"][1038] = 1038
+DIRTYWORD[1038] = {}
+	DIRTYWORD[1038]["ID"] = 1038
+	DIRTYWORD[1038]["KEY"] = "龜投"
+	DIRTYWORD[1038]["real_idx"] = 1038
+
+DIRTYWORD["index"][1039] = 1039
+DIRTYWORD[1039] = {}
+	DIRTYWORD[1039]["ID"] = 1039
+	DIRTYWORD[1039]["KEY"] = "劌"
+	DIRTYWORD[1039]["real_idx"] = 1039
+
+DIRTYWORD["index"][1040] = 1040
+DIRTYWORD[1040] = {}
+	DIRTYWORD[1040]["ID"] = 1040
+	DIRTYWORD[1040]["KEY"] = "緄"
+	DIRTYWORD[1040]["real_idx"] = 1040
+
+DIRTYWORD["index"][1041] = 1041
+DIRTYWORD[1041] = {}
+	DIRTYWORD[1041]["ID"] = 1041
+	DIRTYWORD[1041]["KEY"] = "滾那嗎"
+	DIRTYWORD[1041]["real_idx"] = 1041
+
+DIRTYWORD["index"][1042] = 1042
+DIRTYWORD[1042] = {}
+	DIRTYWORD[1042]["ID"] = 1042
+	DIRTYWORD[1042]["KEY"] = "滾那嗎B"
+	DIRTYWORD[1042]["real_idx"] = 1042
+
+DIRTYWORD["index"][1043] = 1043
+DIRTYWORD[1043] = {}
+	DIRTYWORD[1043]["ID"] = 1043
+	DIRTYWORD[1043]["KEY"] = "滾那嗎錯比"
+	DIRTYWORD[1043]["real_idx"] = 1043
+
+DIRTYWORD["index"][1044] = 1044
+DIRTYWORD[1044] = {}
+	DIRTYWORD[1044]["ID"] = 1044
+	DIRTYWORD[1044]["KEY"] = "滾那嗎老比"
+	DIRTYWORD[1044]["real_idx"] = 1044
+
+DIRTYWORD["index"][1045] = 1045
+DIRTYWORD[1045] = {}
+	DIRTYWORD[1045]["ID"] = 1045
+	DIRTYWORD[1045]["KEY"] = "滾那嗎瘟比"
+	DIRTYWORD[1045]["real_idx"] = 1045
+
+DIRTYWORD["index"][1046] = 1046
+DIRTYWORD[1046] = {}
+	DIRTYWORD[1046]["ID"] = 1046
+	DIRTYWORD[1046]["KEY"] = "鯀"
+	DIRTYWORD[1046]["real_idx"] = 1046
+
+DIRTYWORD["index"][1047] = 1047
+DIRTYWORD[1047] = {}
+	DIRTYWORD[1047]["ID"] = 1047
+	DIRTYWORD[1047]["KEY"] = "咼"
+	DIRTYWORD[1047]["real_idx"] = 1047
+
+DIRTYWORD["index"][1048] = 1048
+DIRTYWORD[1048] = {}
+	DIRTYWORD[1048]["ID"] = 1048
+	DIRTYWORD[1048]["KEY"] = "郭俊銘"
+	DIRTYWORD[1048]["real_idx"] = 1048
+
+DIRTYWORD["index"][1049] = 1049
+DIRTYWORD[1049] = {}
+	DIRTYWORD[1049]["ID"] = 1049
+	DIRTYWORD[1049]["KEY"] = "郭羅基"
+	DIRTYWORD[1049]["real_idx"] = 1049
+
+DIRTYWORD["index"][1050] = 1050
+DIRTYWORD[1050] = {}
+	DIRTYWORD[1050]["ID"] = 1050
+	DIRTYWORD[1050]["KEY"] = "郭岩華"
+	DIRTYWORD[1050]["real_idx"] = 1050
+
+DIRTYWORD["index"][1051] = 1051
+DIRTYWORD[1051] = {}
+	DIRTYWORD[1051]["ID"] = 1051
+	DIRTYWORD[1051]["KEY"] = "國家安全"
+	DIRTYWORD[1051]["real_idx"] = 1051
+
+DIRTYWORD["index"][1052] = 1052
+DIRTYWORD[1052] = {}
+	DIRTYWORD[1052]["ID"] = 1052
+	DIRTYWORD[1052]["KEY"] = "國家機密"
+	DIRTYWORD[1052]["real_idx"] = 1052
+
+DIRTYWORD["index"][1053] = 1053
+DIRTYWORD[1053] = {}
+	DIRTYWORD[1053]["ID"] = 1053
+	DIRTYWORD[1053]["KEY"] = "國軍"
+	DIRTYWORD[1053]["real_idx"] = 1053
+
+DIRTYWORD["index"][1054] = 1054
+DIRTYWORD[1054] = {}
+	DIRTYWORD[1054]["ID"] = 1054
+	DIRTYWORD[1054]["KEY"] = "國賊"
+	DIRTYWORD[1054]["real_idx"] = 1054
+
+DIRTYWORD["index"][1055] = 1055
+DIRTYWORD[1055] = {}
+	DIRTYWORD[1055]["ID"] = 1055
+	DIRTYWORD[1055]["KEY"] = "哈爾羅尼"
+	DIRTYWORD[1055]["real_idx"] = 1055
+
+DIRTYWORD["index"][1056] = 1056
+DIRTYWORD[1056] = {}
+	DIRTYWORD[1056]["ID"] = 1056
+	DIRTYWORD[1056]["KEY"] = "頇"
+	DIRTYWORD[1056]["real_idx"] = 1056
+
+DIRTYWORD["index"][1057] = 1057
+DIRTYWORD[1057] = {}
+	DIRTYWORD[1057]["ID"] = 1057
+	DIRTYWORD[1057]["KEY"] = "韓東方"
+	DIRTYWORD[1057]["real_idx"] = 1057
+
+DIRTYWORD["index"][1058] = 1058
+DIRTYWORD[1058] = {}
+	DIRTYWORD[1058]["ID"] = 1058
+	DIRTYWORD[1058]["KEY"] = "韓聯潮"
+	DIRTYWORD[1058]["real_idx"] = 1058
+
+DIRTYWORD["index"][1059] = 1059
+DIRTYWORD[1059] = {}
+	DIRTYWORD[1059]["ID"] = 1059
+	DIRTYWORD[1059]["KEY"] = "韓正"
+	DIRTYWORD[1059]["real_idx"] = 1059
+
+DIRTYWORD["index"][1060] = 1060
+DIRTYWORD[1060] = {}
+	DIRTYWORD[1060]["ID"] = 1060
+	DIRTYWORD[1060]["KEY"] = "漢奸"
+	DIRTYWORD[1060]["real_idx"] = 1060
+
+DIRTYWORD["index"][1061] = 1061
+DIRTYWORD[1061] = {}
+	DIRTYWORD[1061]["ID"] = 1061
+	DIRTYWORD[1061]["KEY"] = "顥"
+	DIRTYWORD[1061]["real_idx"] = 1061
+
+DIRTYWORD["index"][1062] = 1062
+DIRTYWORD[1062] = {}
+	DIRTYWORD[1062]["ID"] = 1062
+	DIRTYWORD[1062]["KEY"] = "灝"
+	DIRTYWORD[1062]["real_idx"] = 1062
+
+DIRTYWORD["index"][1063] = 1063
+DIRTYWORD[1063] = {}
+	DIRTYWORD[1063]["ID"] = 1063
+	DIRTYWORD[1063]["KEY"] = "河殤"
+	DIRTYWORD[1063]["real_idx"] = 1063
+
+DIRTYWORD["index"][1064] = 1064
+DIRTYWORD[1064] = {}
+	DIRTYWORD[1064]["ID"] = 1064
+	DIRTYWORD[1064]["KEY"] = "賀國强"
+	DIRTYWORD[1064]["real_idx"] = 1064
+
+DIRTYWORD["index"][1065] = 1065
+DIRTYWORD[1065] = {}
+	DIRTYWORD[1065]["ID"] = 1065
+	DIRTYWORD[1065]["KEY"] = "賀龍"
+	DIRTYWORD[1065]["real_idx"] = 1065
+
+DIRTYWORD["index"][1066] = 1066
+DIRTYWORD[1066] = {}
+	DIRTYWORD[1066]["ID"] = 1066
+	DIRTYWORD[1066]["KEY"] = "黑社會"
+	DIRTYWORD[1066]["real_idx"] = 1066
+
+DIRTYWORD["index"][1067] = 1067
+DIRTYWORD[1067] = {}
+	DIRTYWORD[1067]["ID"] = 1067
+	DIRTYWORD[1067]["KEY"] = "黑手黨"
+	DIRTYWORD[1067]["real_idx"] = 1067
+
+DIRTYWORD["index"][1068] = 1068
+DIRTYWORD[1068] = {}
+	DIRTYWORD[1068]["ID"] = 1068
+	DIRTYWORD[1068]["KEY"] = "紅燈區"
+	DIRTYWORD[1068]["real_idx"] = 1068
+
+DIRTYWORD["index"][1069] = 1069
+DIRTYWORD[1069] = {}
+	DIRTYWORD[1069]["ID"] = 1069
+	DIRTYWORD[1069]["KEY"] = "紅色恐怖"
+	DIRTYWORD[1069]["real_idx"] = 1069
+
+DIRTYWORD["index"][1070] = 1070
+DIRTYWORD[1070] = {}
+	DIRTYWORD[1070]["ID"] = 1070
+	DIRTYWORD[1070]["KEY"] = "紅炎猛獸"
+	DIRTYWORD[1070]["real_idx"] = 1070
+
+DIRTYWORD["index"][1071] = 1071
+DIRTYWORD[1071] = {}
+	DIRTYWORD[1071]["ID"] = 1071
+	DIRTYWORD[1071]["KEY"] = "洪傳"
+	DIRTYWORD[1071]["real_idx"] = 1071
+
+DIRTYWORD["index"][1072] = 1072
+DIRTYWORD[1072] = {}
+	DIRTYWORD[1072]["ID"] = 1072
+	DIRTYWORD[1072]["KEY"] = "洪興"
+	DIRTYWORD[1072]["real_idx"] = 1072
+
+DIRTYWORD["index"][1073] = 1073
+DIRTYWORD[1073] = {}
+	DIRTYWORD[1073]["ID"] = 1073
+	DIRTYWORD[1073]["KEY"] = "洪哲勝"
+	DIRTYWORD[1073]["real_idx"] = 1073
+
+DIRTYWORD["index"][1074] = 1074
+DIRTYWORD[1074] = {}
+	DIRTYWORD[1074]["ID"] = 1074
+	DIRTYWORD[1074]["KEY"] = "黌"
+	DIRTYWORD[1074]["real_idx"] = 1074
+
+DIRTYWORD["index"][1075] = 1075
+DIRTYWORD[1075] = {}
+	DIRTYWORD[1075]["ID"] = 1075
+	DIRTYWORD[1075]["KEY"] = "鱟"
+	DIRTYWORD[1075]["real_idx"] = 1075
+
+DIRTYWORD["index"][1076] = 1076
+DIRTYWORD[1076] = {}
+	DIRTYWORD[1076]["ID"] = 1076
+	DIRTYWORD[1076]["KEY"] = "胡緊掏"
+	DIRTYWORD[1076]["real_idx"] = 1076
+
+DIRTYWORD["index"][1077] = 1077
+DIRTYWORD[1077] = {}
+	DIRTYWORD[1077]["ID"] = 1077
+	DIRTYWORD[1077]["KEY"] = "胡錦滔"
+	DIRTYWORD[1077]["real_idx"] = 1077
+
+DIRTYWORD["index"][1078] = 1078
+DIRTYWORD[1078] = {}
+	DIRTYWORD[1078]["ID"] = 1078
+	DIRTYWORD[1078]["KEY"] = "胡錦淘"
+	DIRTYWORD[1078]["real_idx"] = 1078
+
+DIRTYWORD["index"][1079] = 1079
+DIRTYWORD[1079] = {}
+	DIRTYWORD[1079]["ID"] = 1079
+	DIRTYWORD[1079]["KEY"] = "胡景濤"
+	DIRTYWORD[1079]["real_idx"] = 1079
+
+DIRTYWORD["index"][1080] = 1080
+DIRTYWORD[1080] = {}
+	DIRTYWORD[1080]["ID"] = 1080
+	DIRTYWORD[1080]["KEY"] = "胡喬木"
+	DIRTYWORD[1080]["real_idx"] = 1080
+
+DIRTYWORD["index"][1081] = 1081
+DIRTYWORD[1081] = {}
+	DIRTYWORD[1081]["ID"] = 1081
+	DIRTYWORD[1081]["KEY"] = "胡總書記"
+	DIRTYWORD[1081]["real_idx"] = 1081
+
+DIRTYWORD["index"][1082] = 1082
+DIRTYWORD[1082] = {}
+	DIRTYWORD[1082]["ID"] = 1082
+	DIRTYWORD[1082]["KEY"] = "湖岸護衛兵"
+	DIRTYWORD[1082]["real_idx"] = 1082
+
+DIRTYWORD["index"][1083] = 1083
+DIRTYWORD[1083] = {}
+	DIRTYWORD[1083]["ID"] = 1083
+	DIRTYWORD[1083]["KEY"] = "湖岸警衛兵"
+	DIRTYWORD[1083]["real_idx"] = 1083
+
+DIRTYWORD["index"][1084] = 1084
+DIRTYWORD[1084] = {}
+	DIRTYWORD[1084]["ID"] = 1084
+	DIRTYWORD[1084]["KEY"] = "湖岸哨兵隊長"
+	DIRTYWORD[1084]["real_idx"] = 1084
+
+DIRTYWORD["index"][1085] = 1085
+DIRTYWORD[1085] = {}
+	DIRTYWORD[1085]["ID"] = 1085
+	DIRTYWORD[1085]["KEY"] = "護法"
+	DIRTYWORD[1085]["real_idx"] = 1085
+
+DIRTYWORD["index"][1086] = 1086
+DIRTYWORD[1086] = {}
+	DIRTYWORD[1086]["ID"] = 1086
+	DIRTYWORD[1086]["KEY"] = "鸌"
+	DIRTYWORD[1086]["real_idx"] = 1086
+
+DIRTYWORD["index"][1087] = 1087
+DIRTYWORD[1087] = {}
+	DIRTYWORD[1087]["ID"] = 1087
+	DIRTYWORD[1087]["KEY"] = "華建敏"
+	DIRTYWORD[1087]["real_idx"] = 1087
+
+DIRTYWORD["index"][1088] = 1088
+DIRTYWORD[1088] = {}
+	DIRTYWORD[1088]["ID"] = 1088
+	DIRTYWORD[1088]["KEY"] = "華通時事論壇"
+	DIRTYWORD[1088]["real_idx"] = 1088
+
+DIRTYWORD["index"][1089] = 1089
+DIRTYWORD[1089] = {}
+	DIRTYWORD[1089]["ID"] = 1089
+	DIRTYWORD[1089]["KEY"] = "華夏文摘"
+	DIRTYWORD[1089]["real_idx"] = 1089
+
+DIRTYWORD["index"][1090] = 1090
+DIRTYWORD[1090] = {}
+	DIRTYWORD[1090]["ID"] = 1090
+	DIRTYWORD[1090]["KEY"] = "華語世界論壇"
+	DIRTYWORD[1090]["real_idx"] = 1090
+
+DIRTYWORD["index"][1091] = 1091
+DIRTYWORD[1091] = {}
+	DIRTYWORD[1091]["ID"] = 1091
+	DIRTYWORD[1091]["KEY"] = "華岳時事論壇"
+	DIRTYWORD[1091]["real_idx"] = 1091
+
+DIRTYWORD["index"][1092] = 1092
+DIRTYWORD[1092] = {}
+	DIRTYWORD[1092]["ID"] = 1092
+	DIRTYWORD[1092]["KEY"] = "懷特"
+	DIRTYWORD[1092]["real_idx"] = 1092
+
+DIRTYWORD["index"][1093] = 1093
+DIRTYWORD[1093] = {}
+	DIRTYWORD[1093]["ID"] = 1093
+	DIRTYWORD[1093]["KEY"] = "鍰"
+	DIRTYWORD[1093]["real_idx"] = 1093
+
+DIRTYWORD["index"][1094] = 1094
+DIRTYWORD[1094] = {}
+	DIRTYWORD[1094]["ID"] = 1094
+	DIRTYWORD[1094]["KEY"] = "皇軍"
+	DIRTYWORD[1094]["real_idx"] = 1094
+
+DIRTYWORD["index"][1095] = 1095
+DIRTYWORD[1095] = {}
+	DIRTYWORD[1095]["ID"] = 1095
+	DIRTYWORD[1095]["KEY"] = "黃伯源"
+	DIRTYWORD[1095]["real_idx"] = 1095
+
+DIRTYWORD["index"][1096] = 1096
+DIRTYWORD[1096] = {}
+	DIRTYWORD[1096]["ID"] = 1096
+	DIRTYWORD[1096]["KEY"] = "黃慈萍"
+	DIRTYWORD[1096]["real_idx"] = 1096
+
+DIRTYWORD["index"][1097] = 1097
+DIRTYWORD[1097] = {}
+	DIRTYWORD[1097]["ID"] = 1097
+	DIRTYWORD[1097]["KEY"] = "黃禍"
+	DIRTYWORD[1097]["real_idx"] = 1097
+
+DIRTYWORD["index"][1098] = 1098
+DIRTYWORD[1098] = {}
+	DIRTYWORD[1098]["ID"] = 1098
+	DIRTYWORD[1098]["KEY"] = "黃劍輝"
+	DIRTYWORD[1098]["real_idx"] = 1098
+
+DIRTYWORD["index"][1099] = 1099
+DIRTYWORD[1099] = {}
+	DIRTYWORD[1099]["ID"] = 1099
+	DIRTYWORD[1099]["KEY"] = "黃金幼龍"
+	DIRTYWORD[1099]["real_idx"] = 1099
+
+DIRTYWORD["index"][1100] = 1100
+DIRTYWORD[1100] = {}
+	DIRTYWORD[1100]["ID"] = 1100
+	DIRTYWORD[1100]["KEY"] = "黃菊"
+	DIRTYWORD[1100]["real_idx"] = 1100
+
+DIRTYWORD["index"][1101] = 1101
+DIRTYWORD[1101] = {}
+	DIRTYWORD[1101]["ID"] = 1101
+	DIRTYWORD[1101]["KEY"] = "黃片"
+	DIRTYWORD[1101]["real_idx"] = 1101
+
+DIRTYWORD["index"][1102] = 1102
+DIRTYWORD[1102] = {}
+	DIRTYWORD[1102]["ID"] = 1102
+	DIRTYWORD[1102]["KEY"] = "黃翔"
+	DIRTYWORD[1102]["real_idx"] = 1102
+
+DIRTYWORD["index"][1103] = 1103
+DIRTYWORD[1103] = {}
+	DIRTYWORD[1103]["ID"] = 1103
+	DIRTYWORD[1103]["KEY"] = "黃義交"
+	DIRTYWORD[1103]["real_idx"] = 1103
+
+DIRTYWORD["index"][1104] = 1104
+DIRTYWORD[1104] = {}
+	DIRTYWORD[1104]["ID"] = 1104
+	DIRTYWORD[1104]["KEY"] = "黃仲生"
+	DIRTYWORD[1104]["real_idx"] = 1104
+
+DIRTYWORD["index"][1105] = 1105
+DIRTYWORD[1105] = {}
+	DIRTYWORD[1105]["ID"] = 1105
+	DIRTYWORD[1105]["KEY"] = "回民暴動"
+	DIRTYWORD[1105]["real_idx"] = 1105
+
+DIRTYWORD["index"][1106] = 1106
+DIRTYWORD[1106] = {}
+	DIRTYWORD[1106]["ID"] = 1106
+	DIRTYWORD[1106]["KEY"] = "噦"
+	DIRTYWORD[1106]["real_idx"] = 1106
+
+DIRTYWORD["index"][1107] = 1107
+DIRTYWORD[1107] = {}
+	DIRTYWORD[1107]["ID"] = 1107
+	DIRTYWORD[1107]["KEY"] = "繢"
+	DIRTYWORD[1107]["real_idx"] = 1107
+
+DIRTYWORD["index"][1108] = 1108
+DIRTYWORD[1108] = {}
+	DIRTYWORD[1108]["ID"] = 1108
+	DIRTYWORD[1108]["KEY"] = "毀滅步兵"
+	DIRTYWORD[1108]["real_idx"] = 1108
+
+DIRTYWORD["index"][1109] = 1109
+DIRTYWORD[1109] = {}
+	DIRTYWORD[1109]["ID"] = 1109
+	DIRTYWORD[1109]["KEY"] = "毀滅騎士"
+	DIRTYWORD[1109]["real_idx"] = 1109
+
+DIRTYWORD["index"][1110] = 1110
+DIRTYWORD[1110] = {}
+	DIRTYWORD[1110]["ID"] = 1110
+	DIRTYWORD[1110]["KEY"] = "毀滅射手"
+	DIRTYWORD[1110]["real_idx"] = 1110
+
+DIRTYWORD["index"][1111] = 1111
+DIRTYWORD[1111] = {}
+	DIRTYWORD[1111]["ID"] = 1111
+	DIRTYWORD[1111]["KEY"] = "昏迷圖騰"
+	DIRTYWORD[1111]["real_idx"] = 1111
+
+DIRTYWORD["index"][1112] = 1112
+DIRTYWORD[1112] = {}
+	DIRTYWORD[1112]["ID"] = 1112
+	DIRTYWORD[1112]["KEY"] = "混亂的圖騰"
+	DIRTYWORD[1112]["real_idx"] = 1112
+
+DIRTYWORD["index"][1113] = 1113
+DIRTYWORD[1113] = {}
+	DIRTYWORD[1113]["ID"] = 1113
+	DIRTYWORD[1113]["KEY"] = "鍃"
+	DIRTYWORD[1113]["real_idx"] = 1113
+
+DIRTYWORD["index"][1114] = 1114
+DIRTYWORD[1114] = {}
+	DIRTYWORD[1114]["ID"] = 1114
+	DIRTYWORD[1114]["KEY"] = "活動 "
+	DIRTYWORD[1114]["real_idx"] = 1114
+
+DIRTYWORD["index"][1115] = 1115
+DIRTYWORD[1115] = {}
+	DIRTYWORD[1115]["ID"] = 1115
+	DIRTYWORD[1115]["KEY"] = "擊倒圖騰"
+	DIRTYWORD[1115]["real_idx"] = 1115
+
+DIRTYWORD["index"][1116] = 1116
+DIRTYWORD[1116] = {}
+	DIRTYWORD[1116]["ID"] = 1116
+	DIRTYWORD[1116]["KEY"] = "擊傷的圖騰"
+	DIRTYWORD[1116]["real_idx"] = 1116
+
+DIRTYWORD["index"][1117] = 1117
+DIRTYWORD[1117] = {}
+	DIRTYWORD[1117]["ID"] = 1117
+	DIRTYWORD[1117]["KEY"] = "鶏8"
+	DIRTYWORD[1117]["real_idx"] = 1117
+
+DIRTYWORD["index"][1118] = 1118
+DIRTYWORD[1118] = {}
+	DIRTYWORD[1118]["ID"] = 1118
+	DIRTYWORD[1118]["KEY"] = "鶏八"
+	DIRTYWORD[1118]["real_idx"] = 1118
+
+DIRTYWORD["index"][1119] = 1119
+DIRTYWORD[1119] = {}
+	DIRTYWORD[1119]["ID"] = 1119
+	DIRTYWORD[1119]["KEY"] = "鶏巴"
+	DIRTYWORD[1119]["real_idx"] = 1119
+
+DIRTYWORD["index"][1120] = 1120
+DIRTYWORD[1120] = {}
+	DIRTYWORD[1120]["ID"] = 1120
+	DIRTYWORD[1120]["KEY"] = "鶏吧"
+	DIRTYWORD[1120]["real_idx"] = 1120
+
+DIRTYWORD["index"][1121] = 1121
+DIRTYWORD[1121] = {}
+	DIRTYWORD[1121]["ID"] = 1121
+	DIRTYWORD[1121]["KEY"] = "鶏鶏"
+	DIRTYWORD[1121]["real_idx"] = 1121
+
+DIRTYWORD["index"][1122] = 1122
+DIRTYWORD[1122] = {}
+	DIRTYWORD[1122]["ID"] = 1122
+	DIRTYWORD[1122]["KEY"] = "鶏奸"
+	DIRTYWORD[1122]["real_idx"] = 1122
+
+DIRTYWORD["index"][1123] = 1123
+DIRTYWORD[1123] = {}
+	DIRTYWORD[1123]["ID"] = 1123
+	DIRTYWORD[1123]["KEY"] = "鶏毛信文匯"
+	DIRTYWORD[1123]["real_idx"] = 1123
+
+DIRTYWORD["index"][1124] = 1124
+DIRTYWORD[1124] = {}
+	DIRTYWORD[1124]["ID"] = 1124
+	DIRTYWORD[1124]["KEY"] = "鶏女"
+	DIRTYWORD[1124]["real_idx"] = 1124
+
+DIRTYWORD["index"][1125] = 1125
+DIRTYWORD[1125] = {}
+	DIRTYWORD[1125]["ID"] = 1125
+	DIRTYWORD[1125]["KEY"] = "鶏院"
+	DIRTYWORD[1125]["real_idx"] = 1125
+
+DIRTYWORD["index"][1126] = 1126
+DIRTYWORD[1126] = {}
+	DIRTYWORD[1126]["ID"] = 1126
+	DIRTYWORD[1126]["KEY"] = "姬勝德"
+	DIRTYWORD[1126]["real_idx"] = 1126
+
+DIRTYWORD["index"][1127] = 1127
+DIRTYWORD[1127] = {}
+	DIRTYWORD[1127]["ID"] = 1127
+	DIRTYWORD[1127]["KEY"] = "積克館"
+	DIRTYWORD[1127]["real_idx"] = 1127
+
+DIRTYWORD["index"][1128] = 1128
+DIRTYWORD[1128] = {}
+	DIRTYWORD[1128]["ID"] = 1128
+	DIRTYWORD[1128]["KEY"] = "賫"
+	DIRTYWORD[1128]["real_idx"] = 1128
+
+DIRTYWORD["index"][1129] = 1129
+DIRTYWORD[1129] = {}
+	DIRTYWORD[1129]["ID"] = 1129
+	DIRTYWORD[1129]["KEY"] = "鱭"
+	DIRTYWORD[1129]["real_idx"] = 1129
+
+DIRTYWORD["index"][1130] = 1130
+DIRTYWORD[1130] = {}
+	DIRTYWORD[1130]["ID"] = 1130
+	DIRTYWORD[1130]["KEY"] = "賈廷安"
+	DIRTYWORD[1130]["real_idx"] = 1130
+
+DIRTYWORD["index"][1131] = 1131
+DIRTYWORD[1131] = {}
+	DIRTYWORD[1131]["ID"] = 1131
+	DIRTYWORD[1131]["KEY"] = "賈育台"
+	DIRTYWORD[1131]["real_idx"] = 1131
+
+DIRTYWORD["index"][1132] = 1132
+DIRTYWORD[1132] = {}
+	DIRTYWORD[1132]["ID"] = 1132
+	DIRTYWORD[1132]["KEY"] = "戔"
+	DIRTYWORD[1132]["real_idx"] = 1132
+
+DIRTYWORD["index"][1133] = 1133
+DIRTYWORD[1133] = {}
+	DIRTYWORD[1133]["ID"] = 1133
+	DIRTYWORD[1133]["KEY"] = "監視塔"
+	DIRTYWORD[1133]["real_idx"] = 1133
+
+DIRTYWORD["index"][1134] = 1134
+DIRTYWORD[1134] = {}
+	DIRTYWORD[1134]["ID"] = 1134
+	DIRTYWORD[1134]["KEY"] = "監視塔哨兵"
+	DIRTYWORD[1134]["real_idx"] = 1134
+
+DIRTYWORD["index"][1135] = 1135
+DIRTYWORD[1135] = {}
+	DIRTYWORD[1135]["ID"] = 1135
+	DIRTYWORD[1135]["KEY"] = "監視塔哨兵隊長"
+	DIRTYWORD[1135]["real_idx"] = 1135
+
+DIRTYWORD["index"][1136] = 1136
+DIRTYWORD[1136] = {}
+	DIRTYWORD[1136]["ID"] = 1136
+	DIRTYWORD[1136]["KEY"] = "鰹"
+	DIRTYWORD[1136]["real_idx"] = 1136
+
+DIRTYWORD["index"][1137] = 1137
+DIRTYWORD[1137] = {}
+	DIRTYWORD[1137]["ID"] = 1137
+	DIRTYWORD[1137]["KEY"] = "韉"
+	DIRTYWORD[1137]["real_idx"] = 1137
+
+DIRTYWORD["index"][1138] = 1138
+DIRTYWORD[1138] = {}
+	DIRTYWORD[1138]["ID"] = 1138
+	DIRTYWORD[1138]["KEY"] = "簡肇棟"
+	DIRTYWORD[1138]["real_idx"] = 1138
+
+DIRTYWORD["index"][1139] = 1139
+DIRTYWORD[1139] = {}
+	DIRTYWORD[1139]["ID"] = 1139
+	DIRTYWORD[1139]["KEY"] = "建國黨"
+	DIRTYWORD[1139]["real_idx"] = 1139
+
+DIRTYWORD["index"][1140] = 1140
+DIRTYWORD[1140] = {}
+	DIRTYWORD[1140]["ID"] = 1140
+	DIRTYWORD[1140]["KEY"] = "賤B"
+	DIRTYWORD[1140]["real_idx"] = 1140
+
+DIRTYWORD["index"][1141] = 1141
+DIRTYWORD[1141] = {}
+	DIRTYWORD[1141]["ID"] = 1141
+	DIRTYWORD[1141]["KEY"] = "賤bi"
+	DIRTYWORD[1141]["real_idx"] = 1141
+
+DIRTYWORD["index"][1142] = 1142
+DIRTYWORD[1142] = {}
+	DIRTYWORD[1142]["ID"] = 1142
+	DIRTYWORD[1142]["KEY"] = "賤逼"
+	DIRTYWORD[1142]["real_idx"] = 1142
+
+DIRTYWORD["index"][1143] = 1143
+DIRTYWORD[1143] = {}
+	DIRTYWORD[1143]["ID"] = 1143
+	DIRTYWORD[1143]["KEY"] = "賤比"
+	DIRTYWORD[1143]["real_idx"] = 1143
+
+DIRTYWORD["index"][1144] = 1144
+DIRTYWORD[1144] = {}
+	DIRTYWORD[1144]["ID"] = 1144
+	DIRTYWORD[1144]["KEY"] = "賤貨"
+	DIRTYWORD[1144]["real_idx"] = 1144
+
+DIRTYWORD["index"][1145] = 1145
+DIRTYWORD[1145] = {}
+	DIRTYWORD[1145]["ID"] = 1145
+	DIRTYWORD[1145]["KEY"] = "賤人"
+	DIRTYWORD[1145]["real_idx"] = 1145
+
+DIRTYWORD["index"][1146] = 1146
+DIRTYWORD[1146] = {}
+	DIRTYWORD[1146]["ID"] = 1146
+	DIRTYWORD[1146]["KEY"] = "賤種"
+	DIRTYWORD[1146]["real_idx"] = 1146
+
+DIRTYWORD["index"][1147] = 1147
+DIRTYWORD[1147] = {}
+	DIRTYWORD[1147]["ID"] = 1147
+	DIRTYWORD[1147]["KEY"] = "江八點"
+	DIRTYWORD[1147]["real_idx"] = 1147
+
+DIRTYWORD["index"][1148] = 1148
+DIRTYWORD[1148] = {}
+	DIRTYWORD[1148]["ID"] = 1148
+	DIRTYWORD[1148]["KEY"] = "江羅"
+	DIRTYWORD[1148]["real_idx"] = 1148
+
+DIRTYWORD["index"][1149] = 1149
+DIRTYWORD[1149] = {}
+	DIRTYWORD[1149]["ID"] = 1149
+	DIRTYWORD[1149]["KEY"] = "江綿恒"
+	DIRTYWORD[1149]["real_idx"] = 1149
+
+DIRTYWORD["index"][1150] = 1150
+DIRTYWORD[1150] = {}
+	DIRTYWORD[1150]["ID"] = 1150
+	DIRTYWORD[1150]["KEY"] = "江戲子"
+	DIRTYWORD[1150]["real_idx"] = 1150
+
+DIRTYWORD["index"][1151] = 1151
+DIRTYWORD[1151] = {}
+	DIRTYWORD[1151]["ID"] = 1151
+	DIRTYWORD[1151]["KEY"] = "江則民"
+	DIRTYWORD[1151]["real_idx"] = 1151
+
+DIRTYWORD["index"][1152] = 1152
+DIRTYWORD[1152] = {}
+	DIRTYWORD[1152]["ID"] = 1152
+	DIRTYWORD[1152]["KEY"] = "江澤慧"
+	DIRTYWORD[1152]["real_idx"] = 1152
+
+DIRTYWORD["index"][1153] = 1153
+DIRTYWORD[1153] = {}
+	DIRTYWORD[1153]["ID"] = 1153
+	DIRTYWORD[1153]["KEY"] = "江賊"
+	DIRTYWORD[1153]["real_idx"] = 1153
+
+DIRTYWORD["index"][1154] = 1154
+DIRTYWORD[1154] = {}
+	DIRTYWORD[1154]["ID"] = 1154
+	DIRTYWORD[1154]["KEY"] = "江賊民"
+	DIRTYWORD[1154]["real_idx"] = 1154
+
+DIRTYWORD["index"][1155] = 1155
+DIRTYWORD[1155] = {}
+	DIRTYWORD[1155]["ID"] = 1155
+	DIRTYWORD[1155]["KEY"] = "薑春雲"
+	DIRTYWORD[1155]["real_idx"] = 1155
+
+DIRTYWORD["index"][1156] = 1156
+DIRTYWORD[1156] = {}
+	DIRTYWORD[1156]["ID"] = 1156
+	DIRTYWORD[1156]["KEY"] = "將則民"
+	DIRTYWORD[1156]["real_idx"] = 1156
+
+DIRTYWORD["index"][1157] = 1157
+DIRTYWORD[1157] = {}
+	DIRTYWORD[1157]["ID"] = 1157
+	DIRTYWORD[1157]["KEY"] = "僵賊"
+	DIRTYWORD[1157]["real_idx"] = 1157
+
+DIRTYWORD["index"][1158] = 1158
+DIRTYWORD[1158] = {}
+	DIRTYWORD[1158]["ID"] = 1158
+	DIRTYWORD[1158]["KEY"] = "僵賊民"
+	DIRTYWORD[1158]["real_idx"] = 1158
+
+DIRTYWORD["index"][1159] = 1159
+DIRTYWORD[1159] = {}
+	DIRTYWORD[1159]["ID"] = 1159
+	DIRTYWORD[1159]["KEY"] = "講法"
+	DIRTYWORD[1159]["real_idx"] = 1159
+
+DIRTYWORD["index"][1160] = 1160
+DIRTYWORD[1160] = {}
+	DIRTYWORD[1160]["ID"] = 1160
+	DIRTYWORD[1160]["KEY"] = "蔣介石"
+	DIRTYWORD[1160]["real_idx"] = 1160
+
+DIRTYWORD["index"][1161] = 1161
+DIRTYWORD[1161] = {}
+	DIRTYWORD[1161]["ID"] = 1161
+	DIRTYWORD[1161]["KEY"] = "蔣中正"
+	DIRTYWORD[1161]["real_idx"] = 1161
+
+DIRTYWORD["index"][1162] = 1162
+DIRTYWORD[1162] = {}
+	DIRTYWORD[1162]["ID"] = 1162
+	DIRTYWORD[1162]["KEY"] = "降低命中的圖騰"
+	DIRTYWORD[1162]["real_idx"] = 1162
+
+DIRTYWORD["index"][1163] = 1163
+DIRTYWORD[1163] = {}
+	DIRTYWORD[1163]["ID"] = 1163
+	DIRTYWORD[1163]["KEY"] = "醬猪媳"
+	DIRTYWORD[1163]["real_idx"] = 1163
+
+DIRTYWORD["index"][1164] = 1164
+DIRTYWORD[1164] = {}
+	DIRTYWORD[1164]["ID"] = 1164
+	DIRTYWORD[1164]["KEY"] = "撟"
+	DIRTYWORD[1164]["real_idx"] = 1164
+
+DIRTYWORD["index"][1165] = 1165
+DIRTYWORD[1165] = {}
+	DIRTYWORD[1165]["ID"] = 1165
+	DIRTYWORD[1165]["KEY"] = "狡猾的達夫"
+	DIRTYWORD[1165]["real_idx"] = 1165
+
+DIRTYWORD["index"][1166] = 1166
+DIRTYWORD[1166] = {}
+	DIRTYWORD[1166]["ID"] = 1166
+	DIRTYWORD[1166]["KEY"] = "矯健的馬努爾"
+	DIRTYWORD[1166]["real_idx"] = 1166
+
+DIRTYWORD["index"][1167] = 1167
+DIRTYWORD[1167] = {}
+	DIRTYWORD[1167]["ID"] = 1167
+	DIRTYWORD[1167]["KEY"] = "嶠"
+	DIRTYWORD[1167]["real_idx"] = 1167
+
+DIRTYWORD["index"][1168] = 1168
+DIRTYWORD[1168] = {}
+	DIRTYWORD[1168]["ID"] = 1168
+	DIRTYWORD[1168]["KEY"] = "教養院"
+	DIRTYWORD[1168]["real_idx"] = 1168
+
+DIRTYWORD["index"][1169] = 1169
+DIRTYWORD[1169] = {}
+	DIRTYWORD[1169]["ID"] = 1169
+	DIRTYWORD[1169]["KEY"] = "癤"
+	DIRTYWORD[1169]["real_idx"] = 1169
+
+DIRTYWORD["index"][1170] = 1170
+DIRTYWORD[1170] = {}
+	DIRTYWORD[1170]["ID"] = 1170
+	DIRTYWORD[1170]["KEY"] = "揭批書"
+	DIRTYWORD[1170]["real_idx"] = 1170
+
+DIRTYWORD["index"][1171] = 1171
+DIRTYWORD[1171] = {}
+	DIRTYWORD[1171]["ID"] = 1171
+	DIRTYWORD[1171]["KEY"] = "訐"
+	DIRTYWORD[1171]["real_idx"] = 1171
+
+DIRTYWORD["index"][1172] = 1172
+DIRTYWORD[1172] = {}
+	DIRTYWORD[1172]["ID"] = 1172
+	DIRTYWORD[1172]["KEY"] = "她媽"
+	DIRTYWORD[1172]["real_idx"] = 1172
+
+DIRTYWORD["index"][1173] = 1173
+DIRTYWORD[1173] = {}
+	DIRTYWORD[1173]["ID"] = 1173
+	DIRTYWORD[1173]["KEY"] = "届中央政治局委員"
+	DIRTYWORD[1173]["real_idx"] = 1173
+
+DIRTYWORD["index"][1174] = 1174
+DIRTYWORD[1174] = {}
+	DIRTYWORD[1174]["ID"] = 1174
+	DIRTYWORD[1174]["KEY"] = "金槍不倒 "
+	DIRTYWORD[1174]["real_idx"] = 1174
+
+DIRTYWORD["index"][1175] = 1175
+DIRTYWORD[1175] = {}
+	DIRTYWORD[1175]["ID"] = 1175
+	DIRTYWORD[1175]["KEY"] = "金堯如"
+	DIRTYWORD[1175]["real_idx"] = 1175
+
+DIRTYWORD["index"][1176] = 1176
+DIRTYWORD[1176] = {}
+	DIRTYWORD[1176]["ID"] = 1176
+	DIRTYWORD[1176]["KEY"] = "金澤辰"
+	DIRTYWORD[1176]["real_idx"] = 1176
+
+DIRTYWORD["index"][1177] = 1177
+DIRTYWORD[1177] = {}
+	DIRTYWORD[1177]["ID"] = 1177
+	DIRTYWORD[1177]["KEY"] = "巹"
+	DIRTYWORD[1177]["real_idx"] = 1177
+
+DIRTYWORD["index"][1178] = 1178
+DIRTYWORD[1178] = {}
+	DIRTYWORD[1178]["ID"] = 1178
+	DIRTYWORD[1178]["KEY"] = "錦濤"
+	DIRTYWORD[1178]["real_idx"] = 1178
+
+DIRTYWORD["index"][1179] = 1179
+DIRTYWORD[1179] = {}
+	DIRTYWORD[1179]["ID"] = 1179
+	DIRTYWORD[1179]["KEY"] = "經文"
+	DIRTYWORD[1179]["real_idx"] = 1179
+
+DIRTYWORD["index"][1180] = 1180
+DIRTYWORD[1180] = {}
+	DIRTYWORD[1180]["ID"] = 1180
+	DIRTYWORD[1180]["KEY"] = "經血"
+	DIRTYWORD[1180]["real_idx"] = 1180
+
+DIRTYWORD["index"][1181] = 1181
+DIRTYWORD[1181] = {}
+	DIRTYWORD[1181]["ID"] = 1181
+	DIRTYWORD[1181]["KEY"] = "莖候佳陰"
+	DIRTYWORD[1181]["real_idx"] = 1181
+
+DIRTYWORD["index"][1182] = 1182
+DIRTYWORD[1182] = {}
+	DIRTYWORD[1182]["ID"] = 1182
+	DIRTYWORD[1182]["KEY"] = "荊棘護衛兵 "
+	DIRTYWORD[1182]["real_idx"] = 1182
+
+DIRTYWORD["index"][1183] = 1183
+DIRTYWORD[1183] = {}
+	DIRTYWORD[1183]["ID"] = 1183
+	DIRTYWORD[1183]["KEY"] = "靖國神社"
+	DIRTYWORD[1183]["real_idx"] = 1183
+
+DIRTYWORD["index"][1184] = 1184
+DIRTYWORD[1184] = {}
+	DIRTYWORD[1184]["ID"] = 1184
+	DIRTYWORD[1184]["KEY"] = "㈨"
+	DIRTYWORD[1184]["real_idx"] = 1184
+
+DIRTYWORD["index"][1185] = 1185
+DIRTYWORD[1185] = {}
+	DIRTYWORD[1185]["ID"] = 1185
+	DIRTYWORD[1185]["KEY"] = "舊斗篷哨兵"
+	DIRTYWORD[1185]["real_idx"] = 1185
+
+DIRTYWORD["index"][1186] = 1186
+DIRTYWORD[1186] = {}
+	DIRTYWORD[1186]["ID"] = 1186
+	DIRTYWORD[1186]["KEY"] = "齟"
+	DIRTYWORD[1186]["real_idx"] = 1186
+
+DIRTYWORD["index"][1187] = 1187
+DIRTYWORD[1187] = {}
+	DIRTYWORD[1187]["ID"] = 1187
+	DIRTYWORD[1187]["KEY"] = "巨槌騎兵"
+	DIRTYWORD[1187]["real_idx"] = 1187
+
+DIRTYWORD["index"][1188] = 1188
+DIRTYWORD[1188] = {}
+	DIRTYWORD[1188]["ID"] = 1188
+	DIRTYWORD[1188]["KEY"] = "巨鐵角哈克"
+	DIRTYWORD[1188]["real_idx"] = 1188
+
+DIRTYWORD["index"][1189] = 1189
+DIRTYWORD[1189] = {}
+	DIRTYWORD[1189]["ID"] = 1189
+	DIRTYWORD[1189]["KEY"] = "鋸齒通道被遺弃的骷髏"
+	DIRTYWORD[1189]["real_idx"] = 1189
+
+DIRTYWORD["index"][1190] = 1190
+DIRTYWORD[1190] = {}
+	DIRTYWORD[1190]["ID"] = 1190
+	DIRTYWORD[1190]["KEY"] = "鋸齒通道骷髏"
+	DIRTYWORD[1190]["real_idx"] = 1190
+
+DIRTYWORD["index"][1191] = 1191
+DIRTYWORD[1191] = {}
+	DIRTYWORD[1191]["ID"] = 1191
+	DIRTYWORD[1191]["KEY"] = "屨"
+	DIRTYWORD[1191]["real_idx"] = 1191
+
+DIRTYWORD["index"][1192] = 1192
+DIRTYWORD[1192] = {}
+	DIRTYWORD[1192]["ID"] = 1192
+	DIRTYWORD[1192]["KEY"] = "棬"
+	DIRTYWORD[1192]["real_idx"] = 1192
+
+DIRTYWORD["index"][1193] = 1193
+DIRTYWORD[1193] = {}
+	DIRTYWORD[1193]["ID"] = 1193
+	DIRTYWORD[1193]["KEY"] = "絕望之地"
+	DIRTYWORD[1193]["real_idx"] = 1193
+
+DIRTYWORD["index"][1194] = 1194
+DIRTYWORD[1194] = {}
+	DIRTYWORD[1194]["ID"] = 1194
+	DIRTYWORD[1194]["KEY"] = "譎"
+	DIRTYWORD[1194]["real_idx"] = 1194
+
+DIRTYWORD["index"][1195] = 1195
+DIRTYWORD[1195] = {}
+	DIRTYWORD[1195]["ID"] = 1195
+	DIRTYWORD[1195]["KEY"] = "軍妓"
+	DIRTYWORD[1195]["real_idx"] = 1195
+
+DIRTYWORD["index"][1196] = 1196
+DIRTYWORD[1196] = {}
+	DIRTYWORD[1196]["ID"] = 1196
+	DIRTYWORD[1196]["KEY"] = "開苞"
+	DIRTYWORD[1196]["real_idx"] = 1196
+
+DIRTYWORD["index"][1197] = 1197
+DIRTYWORD[1197] = {}
+	DIRTYWORD[1197]["ID"] = 1197
+	DIRTYWORD[1197]["KEY"] = "開放雜志"
+	DIRTYWORD[1197]["real_idx"] = 1197
+
+DIRTYWORD["index"][1198] = 1198
+DIRTYWORD[1198] = {}
+	DIRTYWORD[1198]["ID"] = 1198
+	DIRTYWORD[1198]["KEY"] = "凱奧勒尼什"
+	DIRTYWORD[1198]["real_idx"] = 1198
+
+DIRTYWORD["index"][1199] = 1199
+DIRTYWORD[1199] = {}
+	DIRTYWORD[1199]["ID"] = 1199
+	DIRTYWORD[1199]["KEY"] = "凱爾本"
+	DIRTYWORD[1199]["real_idx"] = 1199
+
+DIRTYWORD["index"][1200] = 1200
+DIRTYWORD[1200] = {}
+	DIRTYWORD[1200]["ID"] = 1200
+	DIRTYWORD[1200]["KEY"] = "凱爾雷斯"
+	DIRTYWORD[1200]["real_idx"] = 1200
+
+DIRTYWORD["index"][1201] = 1201
+DIRTYWORD[1201] = {}
+	DIRTYWORD[1201]["ID"] = 1201
+	DIRTYWORD[1201]["KEY"] = "凱特切爾"
+	DIRTYWORD[1201]["real_idx"] = 1201
+
+DIRTYWORD["index"][1202] = 1202
+DIRTYWORD[1202] = {}
+	DIRTYWORD[1202]["ID"] = 1202
+	DIRTYWORD[1202]["KEY"] = "砍翻一條街"
+	DIRTYWORD[1202]["real_idx"] = 1202
+
+DIRTYWORD["index"][1203] = 1203
+DIRTYWORD[1203] = {}
+	DIRTYWORD[1203]["ID"] = 1203
+	DIRTYWORD[1203]["KEY"] = "看中國"
+	DIRTYWORD[1203]["real_idx"] = 1203
+
+DIRTYWORD["index"][1204] = 1204
+DIRTYWORD[1204] = {}
+	DIRTYWORD[1204]["ID"] = 1204
+	DIRTYWORD[1204]["KEY"] = "闞"
+	DIRTYWORD[1204]["real_idx"] = 1204
+
+DIRTYWORD["index"][1205] = 1205
+DIRTYWORD[1205] = {}
+	DIRTYWORD[1205]["ID"] = 1205
+	DIRTYWORD[1205]["KEY"] = "靠你媽"
+	DIRTYWORD[1205]["real_idx"] = 1205
+
+DIRTYWORD["index"][1206] = 1206
+DIRTYWORD[1206] = {}
+	DIRTYWORD[1206]["ID"] = 1206
+	DIRTYWORD[1206]["KEY"] = "柯賜海"
+	DIRTYWORD[1206]["real_idx"] = 1206
+
+DIRTYWORD["index"][1207] = 1207
+DIRTYWORD[1207] = {}
+	DIRTYWORD[1207]["ID"] = 1207
+	DIRTYWORD[1207]["KEY"] = "柯建銘"
+	DIRTYWORD[1207]["real_idx"] = 1207
+
+DIRTYWORD["index"][1208] = 1208
+DIRTYWORD[1208] = {}
+	DIRTYWORD[1208]["ID"] = 1208
+	DIRTYWORD[1208]["KEY"] = "科萊爾"
+	DIRTYWORD[1208]["real_idx"] = 1208
+
+DIRTYWORD["index"][1209] = 1209
+DIRTYWORD[1209] = {}
+	DIRTYWORD[1209]["ID"] = 1209
+	DIRTYWORD[1209]["KEY"] = "克萊恩"
+	DIRTYWORD[1209]["real_idx"] = 1209
+
+DIRTYWORD["index"][1210] = 1210
+DIRTYWORD[1210] = {}
+	DIRTYWORD[1210]["ID"] = 1210
+	DIRTYWORD[1210]["KEY"] = "克萊特"
+	DIRTYWORD[1210]["real_idx"] = 1210
+
+DIRTYWORD["index"][1211] = 1211
+DIRTYWORD[1211] = {}
+	DIRTYWORD[1211]["ID"] = 1211
+	DIRTYWORD[1211]["KEY"] = "克勞森"
+	DIRTYWORD[1211]["real_idx"] = 1211
+
+DIRTYWORD["index"][1212] = 1212
+DIRTYWORD[1212] = {}
+	DIRTYWORD[1212]["ID"] = 1212
+	DIRTYWORD[1212]["KEY"] = "客戶服務"
+	DIRTYWORD[1212]["real_idx"] = 1212
+
+DIRTYWORD["index"][1213] = 1213
+DIRTYWORD[1213] = {}
+	DIRTYWORD[1213]["ID"] = 1213
+	DIRTYWORD[1213]["KEY"] = "緙"
+	DIRTYWORD[1213]["real_idx"] = 1213
+
+DIRTYWORD["index"][1214] = 1214
+DIRTYWORD[1214] = {}
+	DIRTYWORD[1214]["ID"] = 1214
+	DIRTYWORD[1214]["KEY"] = "空氣精靈"
+	DIRTYWORD[1214]["real_idx"] = 1214
+
+DIRTYWORD["index"][1215] = 1215
+DIRTYWORD[1215] = {}
+	DIRTYWORD[1215]["ID"] = 1215
+	DIRTYWORD[1215]["KEY"] = "空虛的伊坤"
+	DIRTYWORD[1215]["real_idx"] = 1215
+
+DIRTYWORD["index"][1216] = 1216
+DIRTYWORD[1216] = {}
+	DIRTYWORD[1216]["ID"] = 1216
+	DIRTYWORD[1216]["KEY"] = "空虛之地"
+	DIRTYWORD[1216]["real_idx"] = 1216
+
+DIRTYWORD["index"][1217] = 1217
+DIRTYWORD[1217] = {}
+	DIRTYWORD[1217]["ID"] = 1217
+	DIRTYWORD[1217]["KEY"] = "恐怖主義"
+	DIRTYWORD[1217]["real_idx"] = 1217
+
+DIRTYWORD["index"][1218] = 1218
+DIRTYWORD[1218] = {}
+	DIRTYWORD[1218]["ID"] = 1218
+	DIRTYWORD[1218]["KEY"] = "瞘"
+	DIRTYWORD[1218]["real_idx"] = 1218
+
+DIRTYWORD["index"][1219] = 1219
+DIRTYWORD[1219] = {}
+	DIRTYWORD[1219]["ID"] = 1219
+	DIRTYWORD[1219]["KEY"] = "嚳"
+	DIRTYWORD[1219]["real_idx"] = 1219
+
+DIRTYWORD["index"][1220] = 1220
+DIRTYWORD[1220] = {}
+	DIRTYWORD[1220]["ID"] = 1220
+	DIRTYWORD[1220]["KEY"] = "鄺錦文"
+	DIRTYWORD[1220]["real_idx"] = 1220
+
+DIRTYWORD["index"][1221] = 1221
+DIRTYWORD[1221] = {}
+	DIRTYWORD[1221]["ID"] = 1221
+	DIRTYWORD[1221]["KEY"] = "貺"
+	DIRTYWORD[1221]["real_idx"] = 1221
+
+DIRTYWORD["index"][1222] = 1222
+DIRTYWORD[1222] = {}
+	DIRTYWORD[1222]["ID"] = 1222
+	DIRTYWORD[1222]["KEY"] = "昆圖"
+	DIRTYWORD[1222]["real_idx"] = 1222
+
+DIRTYWORD["index"][1223] = 1223
+DIRTYWORD[1223] = {}
+	DIRTYWORD[1223]["ID"] = 1223
+	DIRTYWORD[1223]["KEY"] = "拉姆斯菲爾德"
+	DIRTYWORD[1223]["real_idx"] = 1223
+
+DIRTYWORD["index"][1224] = 1224
+DIRTYWORD[1224] = {}
+	DIRTYWORD[1224]["ID"] = 1224
+	DIRTYWORD[1224]["KEY"] = "拉皮條"
+	DIRTYWORD[1224]["real_idx"] = 1224
+
+DIRTYWORD["index"][1225] = 1225
+DIRTYWORD[1225] = {}
+	DIRTYWORD[1225]["ID"] = 1225
+	DIRTYWORD[1225]["KEY"] = "萊特"
+	DIRTYWORD[1225]["real_idx"] = 1225
+
+DIRTYWORD["index"][1226] = 1226
+DIRTYWORD[1226] = {}
+	DIRTYWORD[1226]["ID"] = 1226
+	DIRTYWORD[1226]["KEY"] = "賴士葆"
+	DIRTYWORD[1226]["real_idx"] = 1226
+
+DIRTYWORD["index"][1227] = 1227
+DIRTYWORD[1227] = {}
+	DIRTYWORD[1227]["ID"] = 1227
+	DIRTYWORD[1227]["KEY"] = "蘭迪"
+	DIRTYWORD[1227]["real_idx"] = 1227
+
+DIRTYWORD["index"][1228] = 1228
+DIRTYWORD[1228] = {}
+	DIRTYWORD[1228]["ID"] = 1228
+	DIRTYWORD[1228]["KEY"] = "爛B"
+	DIRTYWORD[1228]["real_idx"] = 1228
+
+DIRTYWORD["index"][1229] = 1229
+DIRTYWORD[1229] = {}
+	DIRTYWORD[1229]["ID"] = 1229
+	DIRTYWORD[1229]["KEY"] = "爛逼"
+	DIRTYWORD[1229]["real_idx"] = 1229
+
+DIRTYWORD["index"][1230] = 1230
+DIRTYWORD[1230] = {}
+	DIRTYWORD[1230]["ID"] = 1230
+	DIRTYWORD[1230]["KEY"] = "爛比"
+	DIRTYWORD[1230]["real_idx"] = 1230
+
+DIRTYWORD["index"][1231] = 1231
+DIRTYWORD[1231] = {}
+	DIRTYWORD[1231]["ID"] = 1231
+	DIRTYWORD[1231]["KEY"] = "爛袋"
+	DIRTYWORD[1231]["real_idx"] = 1231
+
+DIRTYWORD["index"][1232] = 1232
+DIRTYWORD[1232] = {}
+	DIRTYWORD[1232]["ID"] = 1232
+	DIRTYWORD[1232]["KEY"] = "爛貨"
+	DIRTYWORD[1232]["real_idx"] = 1232
+
+DIRTYWORD["index"][1233] = 1233
+DIRTYWORD[1233] = {}
+	DIRTYWORD[1233]["ID"] = 1233
+	DIRTYWORD[1233]["KEY"] = "濫B"
+	DIRTYWORD[1233]["real_idx"] = 1233
+
+DIRTYWORD["index"][1234] = 1234
+DIRTYWORD[1234] = {}
+	DIRTYWORD[1234]["ID"] = 1234
+	DIRTYWORD[1234]["KEY"] = "濫逼"
+	DIRTYWORD[1234]["real_idx"] = 1234
+
+DIRTYWORD["index"][1235] = 1235
+DIRTYWORD[1235] = {}
+	DIRTYWORD[1235]["ID"] = 1235
+	DIRTYWORD[1235]["KEY"] = "濫比"
+	DIRTYWORD[1235]["real_idx"] = 1235
+
+DIRTYWORD["index"][1236] = 1236
+DIRTYWORD[1236] = {}
+	DIRTYWORD[1236]["ID"] = 1236
+	DIRTYWORD[1236]["KEY"] = "濫貨"
+	DIRTYWORD[1236]["real_idx"] = 1236
+
+DIRTYWORD["index"][1237] = 1237
+DIRTYWORD[1237] = {}
+	DIRTYWORD[1237]["ID"] = 1237
+	DIRTYWORD[1237]["KEY"] = "濫交"
+	DIRTYWORD[1237]["real_idx"] = 1237
+
+DIRTYWORD["index"][1238] = 1238
+DIRTYWORD[1238] = {}
+	DIRTYWORD[1238]["ID"] = 1238
+	DIRTYWORD[1238]["KEY"] = "勞動教養所"
+	DIRTYWORD[1238]["real_idx"] = 1238
+
+DIRTYWORD["index"][1239] = 1239
+DIRTYWORD[1239] = {}
+	DIRTYWORD[1239]["ID"] = 1239
+	DIRTYWORD[1239]["KEY"] = "勞改"
+	DIRTYWORD[1239]["real_idx"] = 1239
+
+DIRTYWORD["index"][1240] = 1240
+DIRTYWORD[1240] = {}
+	DIRTYWORD[1240]["ID"] = 1240
+	DIRTYWORD[1240]["KEY"] = "勞教"
+	DIRTYWORD[1240]["real_idx"] = 1240
+
+DIRTYWORD["index"][1241] = 1241
+DIRTYWORD[1241] = {}
+	DIRTYWORD[1241]["ID"] = 1241
+	DIRTYWORD[1241]["KEY"] = "鰳"
+	DIRTYWORD[1241]["real_idx"] = 1241
+
+DIRTYWORD["index"][1242] = 1242
+DIRTYWORD[1242] = {}
+	DIRTYWORD[1242]["ID"] = 1242
+	DIRTYWORD[1242]["KEY"] = "雷尼亞"
+	DIRTYWORD[1242]["real_idx"] = 1242
+
+DIRTYWORD["index"][1243] = 1243
+DIRTYWORD[1243] = {}
+	DIRTYWORD[1243]["ID"] = 1243
+	DIRTYWORD[1243]["KEY"] = "誄"
+	DIRTYWORD[1243]["real_idx"] = 1243
+
+DIRTYWORD["index"][1244] = 1244
+DIRTYWORD[1244] = {}
+	DIRTYWORD[1244]["ID"] = 1244
+	DIRTYWORD[1244]["KEY"] = "李紅痔"
+	DIRTYWORD[1244]["real_idx"] = 1244
+
+DIRTYWORD["index"][1245] = 1245
+DIRTYWORD[1245] = {}
+	DIRTYWORD[1245]["ID"] = 1245
+	DIRTYWORD[1245]["KEY"] = "李洪寬"
+	DIRTYWORD[1245]["real_idx"] = 1245
+
+DIRTYWORD["index"][1246] = 1246
+DIRTYWORD[1246] = {}
+	DIRTYWORD[1246]["ID"] = 1246
+	DIRTYWORD[1246]["KEY"] = "李繼耐"
+	DIRTYWORD[1246]["real_idx"] = 1246
+
+DIRTYWORD["index"][1247] = 1247
+DIRTYWORD[1247] = {}
+	DIRTYWORD[1247]["ID"] = 1247
+	DIRTYWORD[1247]["KEY"] = "李蘭菊"
+	DIRTYWORD[1247]["real_idx"] = 1247
+
+DIRTYWORD["index"][1248] = 1248
+DIRTYWORD[1248] = {}
+	DIRTYWORD[1248]["ID"] = 1248
+	DIRTYWORD[1248]["KEY"] = "李老師"
+	DIRTYWORD[1248]["real_idx"] = 1248
+
+DIRTYWORD["index"][1249] = 1249
+DIRTYWORD[1249] = {}
+	DIRTYWORD[1249]["ID"] = 1249
+	DIRTYWORD[1249]["KEY"] = "李錄"
+	DIRTYWORD[1249]["real_idx"] = 1249
+
+DIRTYWORD["index"][1250] = 1250
+DIRTYWORD[1250] = {}
+	DIRTYWORD[1250]["ID"] = 1250
+	DIRTYWORD[1250]["KEY"] = "李祿"
+	DIRTYWORD[1250]["real_idx"] = 1250
+
+DIRTYWORD["index"][1251] = 1251
+DIRTYWORD[1251] = {}
+	DIRTYWORD[1251]["ID"] = 1251
+	DIRTYWORD[1251]["KEY"] = "李慶安"
+	DIRTYWORD[1251]["real_idx"] = 1251
+
+DIRTYWORD["index"][1252] = 1252
+DIRTYWORD[1252] = {}
+	DIRTYWORD[1252]["ID"] = 1252
+	DIRTYWORD[1252]["KEY"] = "李慶華"
+	DIRTYWORD[1252]["real_idx"] = 1252
+
+DIRTYWORD["index"][1253] = 1253
+DIRTYWORD[1253] = {}
+	DIRTYWORD[1253]["ID"] = 1253
+	DIRTYWORD[1253]["KEY"] = "李淑嫻"
+	DIRTYWORD[1253]["real_idx"] = 1253
+
+DIRTYWORD["index"][1254] = 1254
+DIRTYWORD[1254] = {}
+	DIRTYWORD[1254]["ID"] = 1254
+	DIRTYWORD[1254]["KEY"] = "李鐵映"
+	DIRTYWORD[1254]["real_idx"] = 1254
+
+DIRTYWORD["index"][1255] = 1255
+DIRTYWORD[1255] = {}
+	DIRTYWORD[1255]["ID"] = 1255
+	DIRTYWORD[1255]["KEY"] = "李旺陽"
+	DIRTYWORD[1255]["real_idx"] = 1255
+
+DIRTYWORD["index"][1256] = 1256
+DIRTYWORD[1256] = {}
+	DIRTYWORD[1256]["ID"] = 1256
+	DIRTYWORD[1256]["KEY"] = "李小鵬"
+	DIRTYWORD[1256]["real_idx"] = 1256
+
+DIRTYWORD["index"][1257] = 1257
+DIRTYWORD[1257] = {}
+	DIRTYWORD[1257]["ID"] = 1257
+	DIRTYWORD[1257]["KEY"] = "李月月鳥"
+	DIRTYWORD[1257]["real_idx"] = 1257
+
+DIRTYWORD["index"][1258] = 1258
+DIRTYWORD[1258] = {}
+	DIRTYWORD[1258]["ID"] = 1258
+	DIRTYWORD[1258]["KEY"] = "李志綏"
+	DIRTYWORD[1258]["real_idx"] = 1258
+
+DIRTYWORD["index"][1259] = 1259
+DIRTYWORD[1259] = {}
+	DIRTYWORD[1259]["ID"] = 1259
+	DIRTYWORD[1259]["KEY"] = "李總理"
+	DIRTYWORD[1259]["real_idx"] = 1259
+
+DIRTYWORD["index"][1260] = 1260
+DIRTYWORD[1260] = {}
+	DIRTYWORD[1260]["ID"] = 1260
+	DIRTYWORD[1260]["KEY"] = "李總統"
+	DIRTYWORD[1260]["real_idx"] = 1260
+
+DIRTYWORD["index"][1261] = 1261
+DIRTYWORD[1261] = {}
+	DIRTYWORD[1261]["ID"] = 1261
+	DIRTYWORD[1261]["KEY"] = "裏菲斯"
+	DIRTYWORD[1261]["real_idx"] = 1261
+
+DIRTYWORD["index"][1262] = 1262
+DIRTYWORD[1262] = {}
+	DIRTYWORD[1262]["ID"] = 1262
+	DIRTYWORD[1262]["KEY"] = "鱧"
+	DIRTYWORD[1262]["real_idx"] = 1262
+
+DIRTYWORD["index"][1263] = 1263
+DIRTYWORD[1263] = {}
+	DIRTYWORD[1263]["ID"] = 1263
+	DIRTYWORD[1263]["KEY"] = "轢"
+	DIRTYWORD[1263]["real_idx"] = 1263
+
+DIRTYWORD["index"][1264] = 1264
+DIRTYWORD[1264] = {}
+	DIRTYWORD[1264]["ID"] = 1264
+	DIRTYWORD[1264]["KEY"] = "躒"
+	DIRTYWORD[1264]["real_idx"] = 1264
+
+DIRTYWORD["index"][1265] = 1265
+DIRTYWORD[1265] = {}
+	DIRTYWORD[1265]["ID"] = 1265
+	DIRTYWORD[1265]["KEY"] = "奩"
+	DIRTYWORD[1265]["real_idx"] = 1265
+
+DIRTYWORD["index"][1266] = 1266
+DIRTYWORD[1266] = {}
+	DIRTYWORD[1266]["ID"] = 1266
+	DIRTYWORD[1266]["KEY"] = "連方瑀"
+	DIRTYWORD[1266]["real_idx"] = 1266
+
+DIRTYWORD["index"][1267] = 1267
+DIRTYWORD[1267] = {}
+	DIRTYWORD[1267]["ID"] = 1267
+	DIRTYWORD[1267]["KEY"] = "連惠心"
+	DIRTYWORD[1267]["real_idx"] = 1267
+
+DIRTYWORD["index"][1268] = 1268
+DIRTYWORD[1268] = {}
+	DIRTYWORD[1268]["ID"] = 1268
+	DIRTYWORD[1268]["KEY"] = "連勝德"
+	DIRTYWORD[1268]["real_idx"] = 1268
+
+DIRTYWORD["index"][1269] = 1269
+DIRTYWORD[1269] = {}
+	DIRTYWORD[1269]["ID"] = 1269
+	DIRTYWORD[1269]["KEY"] = "連勝文"
+	DIRTYWORD[1269]["real_idx"] = 1269
+
+DIRTYWORD["index"][1270] = 1270
+DIRTYWORD[1270] = {}
+	DIRTYWORD[1270]["ID"] = 1270
+	DIRTYWORD[1270]["KEY"] = "連戰"
+	DIRTYWORD[1270]["real_idx"] = 1270
+
+DIRTYWORD["index"][1271] = 1271
+DIRTYWORD[1271] = {}
+	DIRTYWORD[1271]["ID"] = 1271
+	DIRTYWORD[1271]["KEY"] = "聯總"
+	DIRTYWORD[1271]["real_idx"] = 1271
+
+DIRTYWORD["index"][1272] = 1272
+DIRTYWORD[1272] = {}
+	DIRTYWORD[1272]["ID"] = 1272
+	DIRTYWORD[1272]["KEY"] = "廉政大論壇"
+	DIRTYWORD[1272]["real_idx"] = 1272
+
+DIRTYWORD["index"][1273] = 1273
+DIRTYWORD[1273] = {}
+	DIRTYWORD[1273]["ID"] = 1273
+	DIRTYWORD[1273]["KEY"] = "煉功"
+	DIRTYWORD[1273]["real_idx"] = 1273
+
+DIRTYWORD["index"][1274] = 1274
+DIRTYWORD[1274] = {}
+	DIRTYWORD[1274]["ID"] = 1274
+	DIRTYWORD[1274]["KEY"] = "兩岸關係"
+	DIRTYWORD[1274]["real_idx"] = 1274
+
+DIRTYWORD["index"][1275] = 1275
+DIRTYWORD[1275] = {}
+	DIRTYWORD[1275]["ID"] = 1275
+	DIRTYWORD[1275]["KEY"] = "兩岸三地論壇"
+	DIRTYWORD[1275]["real_idx"] = 1275
+
+DIRTYWORD["index"][1276] = 1276
+DIRTYWORD[1276] = {}
+	DIRTYWORD[1276]["ID"] = 1276
+	DIRTYWORD[1276]["KEY"] = "兩個中國"
+	DIRTYWORD[1276]["real_idx"] = 1276
+
+DIRTYWORD["index"][1277] = 1277
+DIRTYWORD[1277] = {}
+	DIRTYWORD[1277]["ID"] = 1277
+	DIRTYWORD[1277]["KEY"] = "兩會"
+	DIRTYWORD[1277]["real_idx"] = 1277
+
+DIRTYWORD["index"][1278] = 1278
+DIRTYWORD[1278] = {}
+	DIRTYWORD[1278]["ID"] = 1278
+	DIRTYWORD[1278]["KEY"] = "兩會報道"
+	DIRTYWORD[1278]["real_idx"] = 1278
+
+DIRTYWORD["index"][1279] = 1279
+DIRTYWORD[1279] = {}
+	DIRTYWORD[1279]["ID"] = 1279
+	DIRTYWORD[1279]["KEY"] = "兩會新聞"
+	DIRTYWORD[1279]["real_idx"] = 1279
+
+DIRTYWORD["index"][1280] = 1280
+DIRTYWORD[1280] = {}
+	DIRTYWORD[1280]["ID"] = 1280
+	DIRTYWORD[1280]["KEY"] = "廖錫龍 "
+	DIRTYWORD[1280]["real_idx"] = 1280
+
+DIRTYWORD["index"][1281] = 1281
+DIRTYWORD[1281] = {}
+	DIRTYWORD[1281]["ID"] = 1281
+	DIRTYWORD[1281]["KEY"] = "林保華"
+	DIRTYWORD[1281]["real_idx"] = 1281
+
+DIRTYWORD["index"][1282] = 1282
+DIRTYWORD[1282] = {}
+	DIRTYWORD[1282]["ID"] = 1282
+	DIRTYWORD[1282]["KEY"] = "林長盛"
+	DIRTYWORD[1282]["real_idx"] = 1282
+
+DIRTYWORD["index"][1283] = 1283
+DIRTYWORD[1283] = {}
+	DIRTYWORD[1283]["ID"] = 1283
+	DIRTYWORD[1283]["KEY"] = "林佳龍"
+	DIRTYWORD[1283]["real_idx"] = 1283
+
+DIRTYWORD["index"][1284] = 1284
+DIRTYWORD[1284] = {}
+	DIRTYWORD[1284]["ID"] = 1284
+	DIRTYWORD[1284]["KEY"] = "林信義"
+	DIRTYWORD[1284]["real_idx"] = 1284
+
+DIRTYWORD["index"][1285] = 1285
+DIRTYWORD[1285] = {}
+	DIRTYWORD[1285]["ID"] = 1285
+	DIRTYWORD[1285]["KEY"] = "林正勝"
+	DIRTYWORD[1285]["real_idx"] = 1285
+
+DIRTYWORD["index"][1286] = 1286
+DIRTYWORD[1286] = {}
+	DIRTYWORD[1286]["ID"] = 1286
+	DIRTYWORD[1286]["KEY"] = "林重謨"
+	DIRTYWORD[1286]["real_idx"] = 1286
+
+DIRTYWORD["index"][1287] = 1287
+DIRTYWORD[1287] = {}
+	DIRTYWORD[1287]["ID"] = 1287
+	DIRTYWORD[1287]["KEY"] = "躪"
+	DIRTYWORD[1287]["real_idx"] = 1287
+
+DIRTYWORD["index"][1288] = 1288
+DIRTYWORD[1288] = {}
+	DIRTYWORD[1288]["ID"] = 1288
+	DIRTYWORD[1288]["KEY"] = "淩鋒"
+	DIRTYWORD[1288]["real_idx"] = 1288
+
+DIRTYWORD["index"][1289] = 1289
+DIRTYWORD[1289] = {}
+	DIRTYWORD[1289]["ID"] = 1289
+	DIRTYWORD[1289]["KEY"] = "劉賓深"
+	DIRTYWORD[1289]["real_idx"] = 1289
+
+DIRTYWORD["index"][1290] = 1290
+DIRTYWORD[1290] = {}
+	DIRTYWORD[1290]["ID"] = 1290
+	DIRTYWORD[1290]["KEY"] = "劉賓雁"
+	DIRTYWORD[1290]["real_idx"] = 1290
+
+DIRTYWORD["index"][1291] = 1291
+DIRTYWORD[1291] = {}
+	DIRTYWORD[1291]["ID"] = 1291
+	DIRTYWORD[1291]["KEY"] = "劉剛"
+	DIRTYWORD[1291]["real_idx"] = 1291
+
+DIRTYWORD["index"][1292] = 1292
+DIRTYWORD[1292] = {}
+	DIRTYWORD[1292]["ID"] = 1292
+	DIRTYWORD[1292]["KEY"] = "劉國凱"
+	DIRTYWORD[1292]["real_idx"] = 1292
+
+DIRTYWORD["index"][1293] = 1293
+DIRTYWORD[1293] = {}
+	DIRTYWORD[1293]["ID"] = 1293
+	DIRTYWORD[1293]["KEY"] = "劉華清"
+	DIRTYWORD[1293]["real_idx"] = 1293
+
+DIRTYWORD["index"][1294] = 1294
+DIRTYWORD[1294] = {}
+	DIRTYWORD[1294]["ID"] = 1294
+	DIRTYWORD[1294]["KEY"] = "劉俊國"
+	DIRTYWORD[1294]["real_idx"] = 1294
+
+DIRTYWORD["index"][1295] = 1295
+DIRTYWORD[1295] = {}
+	DIRTYWORD[1295]["ID"] = 1295
+	DIRTYWORD[1295]["KEY"] = "劉凱中"
+	DIRTYWORD[1295]["real_idx"] = 1295
+
+DIRTYWORD["index"][1296] = 1296
+DIRTYWORD[1296] = {}
+	DIRTYWORD[1296]["ID"] = 1296
+	DIRTYWORD[1296]["KEY"] = "劉千石"
+	DIRTYWORD[1296]["real_idx"] = 1296
+
+DIRTYWORD["index"][1297] = 1297
+DIRTYWORD[1297] = {}
+	DIRTYWORD[1297]["ID"] = 1297
+	DIRTYWORD[1297]["KEY"] = "劉青"
+	DIRTYWORD[1297]["real_idx"] = 1297
+
+DIRTYWORD["index"][1298] = 1298
+DIRTYWORD[1298] = {}
+	DIRTYWORD[1298]["ID"] = 1298
+	DIRTYWORD[1298]["KEY"] = "劉山青"
+	DIRTYWORD[1298]["real_idx"] = 1298
+
+DIRTYWORD["index"][1299] = 1299
+DIRTYWORD[1299] = {}
+	DIRTYWORD[1299]["ID"] = 1299
+	DIRTYWORD[1299]["KEY"] = "劉士賢"
+	DIRTYWORD[1299]["real_idx"] = 1299
+
+DIRTYWORD["index"][1300] = 1300
+DIRTYWORD[1300] = {}
+	DIRTYWORD[1300]["ID"] = 1300
+	DIRTYWORD[1300]["KEY"] = "劉文勝"
+	DIRTYWORD[1300]["real_idx"] = 1300
+
+DIRTYWORD["index"][1301] = 1301
+DIRTYWORD[1301] = {}
+	DIRTYWORD[1301]["ID"] = 1301
+	DIRTYWORD[1301]["KEY"] = "劉文雄"
+	DIRTYWORD[1301]["real_idx"] = 1301
+
+DIRTYWORD["index"][1302] = 1302
+DIRTYWORD[1302] = {}
+	DIRTYWORD[1302]["ID"] = 1302
+	DIRTYWORD[1302]["KEY"] = "劉曉波"
+	DIRTYWORD[1302]["real_idx"] = 1302
+
+DIRTYWORD["index"][1303] = 1303
+DIRTYWORD[1303] = {}
+	DIRTYWORD[1303]["ID"] = 1303
+	DIRTYWORD[1303]["KEY"] = "劉曉竹"
+	DIRTYWORD[1303]["real_idx"] = 1303
+
+DIRTYWORD["index"][1304] = 1304
+DIRTYWORD[1304] = {}
+	DIRTYWORD[1304]["ID"] = 1304
+	DIRTYWORD[1304]["KEY"] = "劉永川"
+	DIRTYWORD[1304]["real_idx"] = 1304
+
+DIRTYWORD["index"][1305] = 1305
+DIRTYWORD[1305] = {}
+	DIRTYWORD[1305]["ID"] = 1305
+	DIRTYWORD[1305]["KEY"] = "㈥"
+	DIRTYWORD[1305]["real_idx"] = 1305
+
+DIRTYWORD["index"][1306] = 1306
+DIRTYWORD[1306] = {}
+	DIRTYWORD[1306]["ID"] = 1306
+	DIRTYWORD[1306]["KEY"] = "鷚"
+	DIRTYWORD[1306]["real_idx"] = 1306
+
+DIRTYWORD["index"][1307] = 1307
+DIRTYWORD[1307] = {}
+	DIRTYWORD[1307]["ID"] = 1307
+	DIRTYWORD[1307]["KEY"] = "龍虎豹"
+	DIRTYWORD[1307]["real_idx"] = 1307
+
+DIRTYWORD["index"][1308] = 1308
+DIRTYWORD[1308] = {}
+	DIRTYWORD[1308]["ID"] = 1308
+	DIRTYWORD[1308]["KEY"] = "龍火之心"
+	DIRTYWORD[1308]["real_idx"] = 1308
+
+DIRTYWORD["index"][1309] = 1309
+DIRTYWORD[1309] = {}
+	DIRTYWORD[1309]["ID"] = 1309
+	DIRTYWORD[1309]["KEY"] = "盧卡"
+	DIRTYWORD[1309]["real_idx"] = 1309
+
+DIRTYWORD["index"][1310] = 1310
+DIRTYWORD[1310] = {}
+	DIRTYWORD[1310]["ID"] = 1310
+	DIRTYWORD[1310]["KEY"] = "盧西德"
+	DIRTYWORD[1310]["real_idx"] = 1310
+
+DIRTYWORD["index"][1311] = 1311
+DIRTYWORD[1311] = {}
+	DIRTYWORD[1311]["ID"] = 1311
+	DIRTYWORD[1311]["KEY"] = "陸委會"
+	DIRTYWORD[1311]["real_idx"] = 1311
+
+DIRTYWORD["index"][1312] = 1312
+DIRTYWORD[1312] = {}
+	DIRTYWORD[1312]["ID"] = 1312
+	DIRTYWORD[1312]["KEY"] = "輅"
+	DIRTYWORD[1312]["real_idx"] = 1312
+
+DIRTYWORD["index"][1313] = 1313
+DIRTYWORD[1313] = {}
+	DIRTYWORD[1313]["ID"] = 1313
+	DIRTYWORD[1313]["KEY"] = "呂京花"
+	DIRTYWORD[1313]["real_idx"] = 1313
+
+DIRTYWORD["index"][1314] = 1314
+DIRTYWORD[1314] = {}
+	DIRTYWORD[1314]["ID"] = 1314
+	DIRTYWORD[1314]["KEY"] = "呂秀蓮"
+	DIRTYWORD[1314]["real_idx"] = 1314
+
+DIRTYWORD["index"][1315] = 1315
+DIRTYWORD[1315] = {}
+	DIRTYWORD[1315]["ID"] = 1315
+	DIRTYWORD[1315]["KEY"] = "亂交"
+	DIRTYWORD[1315]["real_idx"] = 1315
+
+DIRTYWORD["index"][1316] = 1316
+DIRTYWORD[1316] = {}
+	DIRTYWORD[1316]["ID"] = 1316
+	DIRTYWORD[1316]["KEY"] = "亂倫"
+	DIRTYWORD[1316]["real_idx"] = 1316
+
+DIRTYWORD["index"][1317] = 1317
+DIRTYWORD[1317] = {}
+	DIRTYWORD[1317]["ID"] = 1317
+	DIRTYWORD[1317]["KEY"] = "亂輪"
+	DIRTYWORD[1317]["real_idx"] = 1317
+
+DIRTYWORD["index"][1318] = 1318
+DIRTYWORD[1318] = {}
+	DIRTYWORD[1318]["ID"] = 1318
+	DIRTYWORD[1318]["KEY"] = "鋝"
+	DIRTYWORD[1318]["real_idx"] = 1318
+
+DIRTYWORD["index"][1319] = 1319
+DIRTYWORD[1319] = {}
+	DIRTYWORD[1319]["ID"] = 1319
+	DIRTYWORD[1319]["KEY"] = "掄功"
+	DIRTYWORD[1319]["real_idx"] = 1319
+
+DIRTYWORD["index"][1320] = 1320
+DIRTYWORD[1320] = {}
+	DIRTYWORD[1320]["ID"] = 1320
+	DIRTYWORD[1320]["KEY"] = "倫功"
+	DIRTYWORD[1320]["real_idx"] = 1320
+
+DIRTYWORD["index"][1321] = 1321
+DIRTYWORD[1321] = {}
+	DIRTYWORD[1321]["ID"] = 1321
+	DIRTYWORD[1321]["KEY"] = "輪大"
+	DIRTYWORD[1321]["real_idx"] = 1321
+
+DIRTYWORD["index"][1322] = 1322
+DIRTYWORD[1322] = {}
+	DIRTYWORD[1322]["ID"] = 1322
+	DIRTYWORD[1322]["KEY"] = "輪功"
+	DIRTYWORD[1322]["real_idx"] = 1322
+
+DIRTYWORD["index"][1323] = 1323
+DIRTYWORD[1323] = {}
+	DIRTYWORD[1323]["ID"] = 1323
+	DIRTYWORD[1323]["KEY"] = "輪奸"
+	DIRTYWORD[1323]["real_idx"] = 1323
+
+DIRTYWORD["index"][1324] = 1324
+DIRTYWORD[1324] = {}
+	DIRTYWORD[1324]["ID"] = 1324
+	DIRTYWORD[1324]["KEY"] = "論壇管理員"
+	DIRTYWORD[1324]["real_idx"] = 1324
+
+DIRTYWORD["index"][1325] = 1325
+DIRTYWORD[1325] = {}
+	DIRTYWORD[1325]["ID"] = 1325
+	DIRTYWORD[1325]["KEY"] = "羅福助"
+	DIRTYWORD[1325]["real_idx"] = 1325
+
+DIRTYWORD["index"][1326] = 1326
+DIRTYWORD[1326] = {}
+	DIRTYWORD[1326]["ID"] = 1326
+	DIRTYWORD[1326]["KEY"] = "羅幹"
+	DIRTYWORD[1326]["real_idx"] = 1326
+
+DIRTYWORD["index"][1327] = 1327
+DIRTYWORD[1327] = {}
+	DIRTYWORD[1327]["ID"] = 1327
+	DIRTYWORD[1327]["KEY"] = "羅禮詩"
+	DIRTYWORD[1327]["real_idx"] = 1327
+
+DIRTYWORD["index"][1328] = 1328
+DIRTYWORD[1328] = {}
+	DIRTYWORD[1328]["ID"] = 1328
+	DIRTYWORD[1328]["KEY"] = "羅文嘉"
+	DIRTYWORD[1328]["real_idx"] = 1328
+
+DIRTYWORD["index"][1329] = 1329
+DIRTYWORD[1329] = {}
+	DIRTYWORD[1329]["ID"] = 1329
+	DIRTYWORD[1329]["KEY"] = "羅志明"
+	DIRTYWORD[1329]["real_idx"] = 1329
+
+DIRTYWORD["index"][1330] = 1330
+DIRTYWORD[1330] = {}
+	DIRTYWORD[1330]["ID"] = 1330
+	DIRTYWORD[1330]["KEY"] = "腡"
+	DIRTYWORD[1330]["real_idx"] = 1330
+
+DIRTYWORD["index"][1331] = 1331
+DIRTYWORD[1331] = {}
+	DIRTYWORD[1331]["ID"] = 1331
+	DIRTYWORD[1331]["KEY"] = "濼"
+	DIRTYWORD[1331]["real_idx"] = 1331
+
+DIRTYWORD["index"][1332] = 1332
+DIRTYWORD[1332] = {}
+	DIRTYWORD[1332]["ID"] = 1332
+	DIRTYWORD[1332]["KEY"] = "洛克菲爾特"
+	DIRTYWORD[1332]["real_idx"] = 1332
+
+DIRTYWORD["index"][1333] = 1333
+DIRTYWORD[1333] = {}
+	DIRTYWORD[1333]["ID"] = 1333
+	DIRTYWORD[1333]["KEY"] = "媽B"
+	DIRTYWORD[1333]["real_idx"] = 1333
+
+DIRTYWORD["index"][1334] = 1334
+DIRTYWORD[1334] = {}
+	DIRTYWORD[1334]["ID"] = 1334
+	DIRTYWORD[1334]["KEY"] = "媽比"
+	DIRTYWORD[1334]["real_idx"] = 1334
+
+DIRTYWORD["index"][1335] = 1335
+DIRTYWORD[1335] = {}
+	DIRTYWORD[1335]["ID"] = 1335
+	DIRTYWORD[1335]["KEY"] = "媽的"
+	DIRTYWORD[1335]["real_idx"] = 1335
+
+DIRTYWORD["index"][1336] = 1336
+DIRTYWORD[1336] = {}
+	DIRTYWORD[1336]["ID"] = 1336
+	DIRTYWORD[1336]["KEY"] = "媽批"
+	DIRTYWORD[1336]["real_idx"] = 1336
+
+DIRTYWORD["index"][1337] = 1337
+DIRTYWORD[1337] = {}
+	DIRTYWORD[1337]["ID"] = 1337
+	DIRTYWORD[1337]["KEY"] = "馬大維"
+	DIRTYWORD[1337]["real_idx"] = 1337
+
+DIRTYWORD["index"][1338] = 1338
+DIRTYWORD[1338] = {}
+	DIRTYWORD[1338]["ID"] = 1338
+	DIRTYWORD[1338]["KEY"] = "馬克思"
+	DIRTYWORD[1338]["real_idx"] = 1338
+
+DIRTYWORD["index"][1339] = 1339
+DIRTYWORD[1339] = {}
+	DIRTYWORD[1339]["ID"] = 1339
+	DIRTYWORD[1339]["KEY"] = "馬良駿"
+	DIRTYWORD[1339]["real_idx"] = 1339
+
+DIRTYWORD["index"][1340] = 1340
+DIRTYWORD[1340] = {}
+	DIRTYWORD[1340]["ID"] = 1340
+	DIRTYWORD[1340]["KEY"] = "馬三家"
+	DIRTYWORD[1340]["real_idx"] = 1340
+
+DIRTYWORD["index"][1341] = 1341
+DIRTYWORD[1341] = {}
+	DIRTYWORD[1341]["ID"] = 1341
+	DIRTYWORD[1341]["KEY"] = "馬時敏"
+	DIRTYWORD[1341]["real_idx"] = 1341
+
+DIRTYWORD["index"][1342] = 1342
+DIRTYWORD[1342] = {}
+	DIRTYWORD[1342]["ID"] = 1342
+	DIRTYWORD[1342]["KEY"] = "馬特斯"
+	DIRTYWORD[1342]["real_idx"] = 1342
+
+DIRTYWORD["index"][1343] = 1343
+DIRTYWORD[1343] = {}
+	DIRTYWORD[1343]["ID"] = 1343
+	DIRTYWORD[1343]["KEY"] = "馬英九"
+	DIRTYWORD[1343]["real_idx"] = 1343
+
+DIRTYWORD["index"][1344] = 1344
+DIRTYWORD[1344] = {}
+	DIRTYWORD[1344]["ID"] = 1344
+	DIRTYWORD[1344]["KEY"] = "馬永成"
+	DIRTYWORD[1344]["real_idx"] = 1344
+
+DIRTYWORD["index"][1345] = 1345
+DIRTYWORD[1345] = {}
+	DIRTYWORD[1345]["ID"] = 1345
+	DIRTYWORD[1345]["KEY"] = "瑪麗亞"
+	DIRTYWORD[1345]["real_idx"] = 1345
+
+DIRTYWORD["index"][1346] = 1346
+DIRTYWORD[1346] = {}
+	DIRTYWORD[1346]["ID"] = 1346
+	DIRTYWORD[1346]["KEY"] = "瑪雅"
+	DIRTYWORD[1346]["real_idx"] = 1346
+
+DIRTYWORD["index"][1347] = 1347
+DIRTYWORD[1347] = {}
+	DIRTYWORD[1347]["ID"] = 1347
+	DIRTYWORD[1347]["KEY"] = "嗎的"
+	DIRTYWORD[1347]["real_idx"] = 1347
+
+DIRTYWORD["index"][1348] = 1348
+DIRTYWORD[1348] = {}
+	DIRTYWORD[1348]["ID"] = 1348
+	DIRTYWORD[1348]["KEY"] = "嗎啡"
+	DIRTYWORD[1348]["real_idx"] = 1348
+
+DIRTYWORD["index"][1349] = 1349
+DIRTYWORD[1349] = {}
+	DIRTYWORD[1349]["ID"] = 1349
+	DIRTYWORD[1349]["KEY"] = "勱"
+	DIRTYWORD[1349]["real_idx"] = 1349
+
+DIRTYWORD["index"][1350] = 1350
+DIRTYWORD[1350] = {}
+	DIRTYWORD[1350]["ID"] = 1350
+	DIRTYWORD[1350]["KEY"] = "麥克斯"
+	DIRTYWORD[1350]["real_idx"] = 1350
+
+DIRTYWORD["index"][1351] = 1351
+DIRTYWORD[1351] = {}
+	DIRTYWORD[1351]["ID"] = 1351
+	DIRTYWORD[1351]["KEY"] = "賣逼"
+	DIRTYWORD[1351]["real_idx"] = 1351
+
+DIRTYWORD["index"][1352] = 1352
+DIRTYWORD[1352] = {}
+	DIRTYWORD[1352]["ID"] = 1352
+	DIRTYWORD[1352]["KEY"] = "賣比"
+	DIRTYWORD[1352]["real_idx"] = 1352
+
+DIRTYWORD["index"][1353] = 1353
+DIRTYWORD[1353] = {}
+	DIRTYWORD[1353]["ID"] = 1353
+	DIRTYWORD[1353]["KEY"] = "賣國"
+	DIRTYWORD[1353]["real_idx"] = 1353
+
+DIRTYWORD["index"][1354] = 1354
+DIRTYWORD[1354] = {}
+	DIRTYWORD[1354]["ID"] = 1354
+	DIRTYWORD[1354]["KEY"] = "賣騷"
+	DIRTYWORD[1354]["real_idx"] = 1354
+
+DIRTYWORD["index"][1355] = 1355
+DIRTYWORD[1355] = {}
+	DIRTYWORD[1355]["ID"] = 1355
+	DIRTYWORD[1355]["KEY"] = "賣淫"
+	DIRTYWORD[1355]["real_idx"] = 1355
+
+DIRTYWORD["index"][1356] = 1356
+DIRTYWORD[1356] = {}
+	DIRTYWORD[1356]["ID"] = 1356
+	DIRTYWORD[1356]["KEY"] = "瞞報"
+	DIRTYWORD[1356]["real_idx"] = 1356
+
+DIRTYWORD["index"][1357] = 1357
+DIRTYWORD[1357] = {}
+	DIRTYWORD[1357]["ID"] = 1357
+	DIRTYWORD[1357]["KEY"] = "毛厠洞"
+	DIRTYWORD[1357]["real_idx"] = 1357
+
+DIRTYWORD["index"][1358] = 1358
+DIRTYWORD[1358] = {}
+	DIRTYWORD[1358]["ID"] = 1358
+	DIRTYWORD[1358]["KEY"] = "毛賊"
+	DIRTYWORD[1358]["real_idx"] = 1358
+
+DIRTYWORD["index"][1359] = 1359
+DIRTYWORD[1359] = {}
+	DIRTYWORD[1359]["ID"] = 1359
+	DIRTYWORD[1359]["KEY"] = "毛賊東"
+	DIRTYWORD[1359]["real_idx"] = 1359
+
+DIRTYWORD["index"][1360] = 1360
+DIRTYWORD[1360] = {}
+	DIRTYWORD[1360]["ID"] = 1360
+	DIRTYWORD[1360]["KEY"] = "美國"
+	DIRTYWORD[1360]["real_idx"] = 1360
+
+DIRTYWORD["index"][1361] = 1361
+DIRTYWORD[1361] = {}
+	DIRTYWORD[1361]["ID"] = 1361
+	DIRTYWORD[1361]["KEY"] = "美國參考"
+	DIRTYWORD[1361]["real_idx"] = 1361
+
+DIRTYWORD["index"][1362] = 1362
+DIRTYWORD[1362] = {}
+	DIRTYWORD[1362]["ID"] = 1362
+	DIRTYWORD[1362]["KEY"] = "美國佬"
+	DIRTYWORD[1362]["real_idx"] = 1362
+
+DIRTYWORD["index"][1363] = 1363
+DIRTYWORD[1363] = {}
+	DIRTYWORD[1363]["ID"] = 1363
+	DIRTYWORD[1363]["KEY"] = "美國之音"
+	DIRTYWORD[1363]["real_idx"] = 1363
+
+DIRTYWORD["index"][1364] = 1364
+DIRTYWORD[1364] = {}
+	DIRTYWORD[1364]["ID"] = 1364
+	DIRTYWORD[1364]["KEY"] = "蒙獨"
+	DIRTYWORD[1364]["real_idx"] = 1364
+
+DIRTYWORD["index"][1365] = 1365
+DIRTYWORD[1365] = {}
+	DIRTYWORD[1365]["ID"] = 1365
+	DIRTYWORD[1365]["KEY"] = "蒙古達子"
+	DIRTYWORD[1365]["real_idx"] = 1365
+
+DIRTYWORD["index"][1366] = 1366
+DIRTYWORD[1366] = {}
+	DIRTYWORD[1366]["ID"] = 1366
+	DIRTYWORD[1366]["KEY"] = "蒙古獨"
+	DIRTYWORD[1366]["real_idx"] = 1366
+
+DIRTYWORD["index"][1367] = 1367
+DIRTYWORD[1367] = {}
+	DIRTYWORD[1367]["ID"] = 1367
+	DIRTYWORD[1367]["KEY"] = "蒙古獨立"
+	DIRTYWORD[1367]["real_idx"] = 1367
+
+DIRTYWORD["index"][1368] = 1368
+DIRTYWORD[1368] = {}
+	DIRTYWORD[1368]["ID"] = 1368
+	DIRTYWORD[1368]["KEY"] = "禰"
+	DIRTYWORD[1368]["real_idx"] = 1368
+
+DIRTYWORD["index"][1369] = 1369
+DIRTYWORD[1369] = {}
+	DIRTYWORD[1369]["ID"] = 1369
+	DIRTYWORD[1369]["KEY"] = "羋"
+	DIRTYWORD[1369]["real_idx"] = 1369
+
+DIRTYWORD["index"][1370] = 1370
+DIRTYWORD[1370] = {}
+	DIRTYWORD[1370]["ID"] = 1370
+	DIRTYWORD[1370]["KEY"] = "綿恒"
+	DIRTYWORD[1370]["real_idx"] = 1370
+
+DIRTYWORD["index"][1371] = 1371
+DIRTYWORD[1371] = {}
+	DIRTYWORD[1371]["ID"] = 1371
+	DIRTYWORD[1371]["KEY"] = "黽"
+	DIRTYWORD[1371]["real_idx"] = 1371
+
+DIRTYWORD["index"][1372] = 1372
+DIRTYWORD[1372] = {}
+	DIRTYWORD[1372]["ID"] = 1372
+	DIRTYWORD[1372]["KEY"] = "民國"
+	DIRTYWORD[1372]["real_idx"] = 1372
+
+DIRTYWORD["index"][1373] = 1373
+DIRTYWORD[1373] = {}
+	DIRTYWORD[1373]["ID"] = 1373
+	DIRTYWORD[1373]["KEY"] = "民進黨"
+	DIRTYWORD[1373]["real_idx"] = 1373
+
+DIRTYWORD["index"][1374] = 1374
+DIRTYWORD[1374] = {}
+	DIRTYWORD[1374]["ID"] = 1374
+	DIRTYWORD[1374]["KEY"] = "民聯"
+	DIRTYWORD[1374]["real_idx"] = 1374
+
+DIRTYWORD["index"][1375] = 1375
+DIRTYWORD[1375] = {}
+	DIRTYWORD[1375]["ID"] = 1375
+	DIRTYWORD[1375]["KEY"] = "民意論壇"
+	DIRTYWORD[1375]["real_idx"] = 1375
+
+DIRTYWORD["index"][1376] = 1376
+DIRTYWORD[1376] = {}
+	DIRTYWORD[1376]["ID"] = 1376
+	DIRTYWORD[1376]["KEY"] = "民陣"
+	DIRTYWORD[1376]["real_idx"] = 1376
+
+DIRTYWORD["index"][1377] = 1377
+DIRTYWORD[1377] = {}
+	DIRTYWORD[1377]["ID"] = 1377
+	DIRTYWORD[1377]["KEY"] = "民主墻"
+	DIRTYWORD[1377]["real_idx"] = 1377
+
+DIRTYWORD["index"][1378] = 1378
+DIRTYWORD[1378] = {}
+	DIRTYWORD[1378]["ID"] = 1378
+	DIRTYWORD[1378]["KEY"] = "緡"
+	DIRTYWORD[1378]["real_idx"] = 1378
+
+DIRTYWORD["index"][1379] = 1379
+DIRTYWORD[1379] = {}
+	DIRTYWORD[1379]["ID"] = 1379
+	DIRTYWORD[1379]["KEY"] = "湣"
+	DIRTYWORD[1379]["real_idx"] = 1379
+
+DIRTYWORD["index"][1380] = 1380
+DIRTYWORD[1380] = {}
+	DIRTYWORD[1380]["ID"] = 1380
+	DIRTYWORD[1380]["KEY"] = "鰵"
+	DIRTYWORD[1380]["real_idx"] = 1380
+
+DIRTYWORD["index"][1381] = 1381
+DIRTYWORD[1381] = {}
+	DIRTYWORD[1381]["ID"] = 1381
+	DIRTYWORD[1381]["KEY"] = "摸你鶏巴"
+	DIRTYWORD[1381]["real_idx"] = 1381
+
+DIRTYWORD["index"][1382] = 1382
+DIRTYWORD[1382] = {}
+	DIRTYWORD[1382]["ID"] = 1382
+	DIRTYWORD[1382]["KEY"] = "莫偉强"
+	DIRTYWORD[1382]["real_idx"] = 1382
+
+DIRTYWORD["index"][1383] = 1383
+DIRTYWORD[1383] = {}
+	DIRTYWORD[1383]["ID"] = 1383
+	DIRTYWORD[1383]["KEY"] = "木子論壇"
+	DIRTYWORD[1383]["real_idx"] = 1383
+
+DIRTYWORD["index"][1384] = 1384
+DIRTYWORD[1384] = {}
+	DIRTYWORD[1384]["ID"] = 1384
+	DIRTYWORD[1384]["KEY"] = "內褲"
+	DIRTYWORD[1384]["real_idx"] = 1384
+
+DIRTYWORD["index"][1385] = 1385
+DIRTYWORD[1385] = {}
+	DIRTYWORD[1385]["ID"] = 1385
+	DIRTYWORD[1385]["KEY"] = "內衣"
+	DIRTYWORD[1385]["real_idx"] = 1385
+
+DIRTYWORD["index"][1386] = 1386
+DIRTYWORD[1386] = {}
+	DIRTYWORD[1386]["ID"] = 1386
+	DIRTYWORD[1386]["KEY"] = "那嗎B"
+	DIRTYWORD[1386]["real_idx"] = 1386
+
+DIRTYWORD["index"][1387] = 1387
+DIRTYWORD[1387] = {}
+	DIRTYWORD[1387]["ID"] = 1387
+	DIRTYWORD[1387]["KEY"] = "那嗎逼"
+	DIRTYWORD[1387]["real_idx"] = 1387
+
+DIRTYWORD["index"][1388] = 1388
+DIRTYWORD[1388] = {}
+	DIRTYWORD[1388]["ID"] = 1388
+	DIRTYWORD[1388]["KEY"] = "那嗎錯比"
+	DIRTYWORD[1388]["real_idx"] = 1388
+
+DIRTYWORD["index"][1389] = 1389
+DIRTYWORD[1389] = {}
+	DIRTYWORD[1389]["ID"] = 1389
+	DIRTYWORD[1389]["KEY"] = "那嗎老比"
+	DIRTYWORD[1389]["real_idx"] = 1389
+
+DIRTYWORD["index"][1390] = 1390
+DIRTYWORD[1390] = {}
+	DIRTYWORD[1390]["ID"] = 1390
+	DIRTYWORD[1390]["KEY"] = "那嗎瘟比"
+	DIRTYWORD[1390]["real_idx"] = 1390
+
+DIRTYWORD["index"][1391] = 1391
+DIRTYWORD[1391] = {}
+	DIRTYWORD[1391]["ID"] = 1391
+	DIRTYWORD[1391]["KEY"] = "那娘錯比"
+	DIRTYWORD[1391]["real_idx"] = 1391
+
+DIRTYWORD["index"][1392] = 1392
+DIRTYWORD[1392] = {}
+	DIRTYWORD[1392]["ID"] = 1392
+	DIRTYWORD[1392]["KEY"] = "納粹"
+	DIRTYWORD[1392]["real_idx"] = 1392
+
+DIRTYWORD["index"][1393] = 1393
+DIRTYWORD[1393] = {}
+	DIRTYWORD[1393]["ID"] = 1393
+	DIRTYWORD[1393]["KEY"] = "奶頭"
+	DIRTYWORD[1393]["real_idx"] = 1393
+
+DIRTYWORD["index"][1394] = 1394
+DIRTYWORD[1394] = {}
+	DIRTYWORD[1394]["ID"] = 1394
+	DIRTYWORD[1394]["KEY"] = "南大自由論壇"
+	DIRTYWORD[1394]["real_idx"] = 1394
+
+DIRTYWORD["index"][1395] = 1395
+DIRTYWORD[1395] = {}
+	DIRTYWORD[1395]["ID"] = 1395
+	DIRTYWORD[1395]["KEY"] = "南蠻子"
+	DIRTYWORD[1395]["real_idx"] = 1395
+
+DIRTYWORD["index"][1396] = 1396
+DIRTYWORD[1396] = {}
+	DIRTYWORD[1396]["ID"] = 1396
+	DIRTYWORD[1396]["KEY"] = "鬧事"
+	DIRTYWORD[1396]["real_idx"] = 1396
+
+DIRTYWORD["index"][1397] = 1397
+DIRTYWORD[1397] = {}
+	DIRTYWORD[1397]["ID"] = 1397
+	DIRTYWORD[1397]["KEY"] = "能樣"
+	DIRTYWORD[1397]["real_idx"] = 1397
+
+DIRTYWORD["index"][1398] = 1398
+DIRTYWORD[1398] = {}
+	DIRTYWORD[1398]["ID"] = 1398
+	DIRTYWORD[1398]["KEY"] = "尼奧夫"
+	DIRTYWORD[1398]["real_idx"] = 1398
+
+DIRTYWORD["index"][1399] = 1399
+DIRTYWORD[1399] = {}
+	DIRTYWORD[1399]["ID"] = 1399
+	DIRTYWORD[1399]["KEY"] = "倪育賢"
+	DIRTYWORD[1399]["real_idx"] = 1399
+
+DIRTYWORD["index"][1400] = 1400
+DIRTYWORD[1400] = {}
+	DIRTYWORD[1400]["ID"] = 1400
+	DIRTYWORD[1400]["KEY"] = "鯢"
+	DIRTYWORD[1400]["real_idx"] = 1400
+
+DIRTYWORD["index"][1401] = 1401
+DIRTYWORD[1401] = {}
+	DIRTYWORD[1401]["ID"] = 1401
+	DIRTYWORD[1401]["KEY"] = "你媽"
+	DIRTYWORD[1401]["real_idx"] = 1401
+
+DIRTYWORD["index"][1402] = 1402
+DIRTYWORD[1402] = {}
+	DIRTYWORD[1402]["ID"] = 1402
+	DIRTYWORD[1402]["KEY"] = "你媽逼"
+	DIRTYWORD[1402]["real_idx"] = 1402
+
+DIRTYWORD["index"][1403] = 1403
+DIRTYWORD[1403] = {}
+	DIRTYWORD[1403]["ID"] = 1403
+	DIRTYWORD[1403]["KEY"] = "你媽比"
+	DIRTYWORD[1403]["real_idx"] = 1403
+
+DIRTYWORD["index"][1404] = 1404
+DIRTYWORD[1404] = {}
+	DIRTYWORD[1404]["ID"] = 1404
+	DIRTYWORD[1404]["KEY"] = "你媽的"
+	DIRTYWORD[1404]["real_idx"] = 1404
+
+DIRTYWORD["index"][1405] = 1405
+DIRTYWORD[1405] = {}
+	DIRTYWORD[1405]["ID"] = 1405
+	DIRTYWORD[1405]["KEY"] = "你媽了妹"
+	DIRTYWORD[1405]["real_idx"] = 1405
+
+DIRTYWORD["index"][1406] = 1406
+DIRTYWORD[1406] = {}
+	DIRTYWORD[1406]["ID"] = 1406
+	DIRTYWORD[1406]["KEY"] = "你說我說論壇"
+	DIRTYWORD[1406]["real_idx"] = 1406
+
+DIRTYWORD["index"][1407] = 1407
+DIRTYWORD[1407] = {}
+	DIRTYWORD[1407]["ID"] = 1407
+	DIRTYWORD[1407]["KEY"] = "你爺 "
+	DIRTYWORD[1407]["real_idx"] = 1407
+
+DIRTYWORD["index"][1408] = 1408
+DIRTYWORD[1408] = {}
+	DIRTYWORD[1408]["ID"] = 1408
+	DIRTYWORD[1408]["KEY"] = "娘餓比"
+	DIRTYWORD[1408]["real_idx"] = 1408
+
+DIRTYWORD["index"][1409] = 1409
+DIRTYWORD[1409] = {}
+	DIRTYWORD[1409]["ID"] = 1409
+	DIRTYWORD[1409]["KEY"] = "捏你鶏巴"
+	DIRTYWORD[1409]["real_idx"] = 1409
+
+DIRTYWORD["index"][1410] = 1410
+DIRTYWORD[1410] = {}
+	DIRTYWORD[1410]["ID"] = 1410
+	DIRTYWORD[1410]["KEY"] = "儂著岡巒"
+	DIRTYWORD[1410]["real_idx"] = 1410
+
+DIRTYWORD["index"][1411] = 1411
+DIRTYWORD[1411] = {}
+	DIRTYWORD[1411]["ID"] = 1411
+	DIRTYWORD[1411]["KEY"] = "儂著卵拋"
+	DIRTYWORD[1411]["real_idx"] = 1411
+
+DIRTYWORD["index"][1412] = 1412
+DIRTYWORD[1412] = {}
+	DIRTYWORD[1412]["ID"] = 1412
+	DIRTYWORD[1412]["KEY"] = "奴隸魔族士兵"
+	DIRTYWORD[1412]["real_idx"] = 1412
+
+DIRTYWORD["index"][1413] = 1413
+DIRTYWORD[1413] = {}
+	DIRTYWORD[1413]["ID"] = 1413
+	DIRTYWORD[1413]["KEY"] = "女幹"
+	DIRTYWORD[1413]["real_idx"] = 1413
+
+DIRTYWORD["index"][1414] = 1414
+DIRTYWORD[1414] = {}
+	DIRTYWORD[1414]["ID"] = 1414
+	DIRTYWORD[1414]["KEY"] = "女主人羅姬馬莉"
+	DIRTYWORD[1414]["real_idx"] = 1414
+
+DIRTYWORD["index"][1415] = 1415
+DIRTYWORD[1415] = {}
+	DIRTYWORD[1415]["ID"] = 1415
+	DIRTYWORD[1415]["KEY"] = "儺"
+	DIRTYWORD[1415]["real_idx"] = 1415
+
+DIRTYWORD["index"][1416] = 1416
+DIRTYWORD[1416] = {}
+	DIRTYWORD[1416]["ID"] = 1416
+	DIRTYWORD[1416]["KEY"] = "諾姆"
+	DIRTYWORD[1416]["real_idx"] = 1416
+
+DIRTYWORD["index"][1417] = 1417
+DIRTYWORD[1417] = {}
+	DIRTYWORD[1417]["ID"] = 1417
+	DIRTYWORD[1417]["KEY"] = "潘國平"
+	DIRTYWORD[1417]["real_idx"] = 1417
+
+DIRTYWORD["index"][1418] = 1418
+DIRTYWORD[1418] = {}
+	DIRTYWORD[1418]["ID"] = 1418
+	DIRTYWORD[1418]["KEY"] = "蹣 "
+	DIRTYWORD[1418]["real_idx"] = 1418
+
+DIRTYWORD["index"][1419] = 1419
+DIRTYWORD[1419] = {}
+	DIRTYWORD[1419]["ID"] = 1419
+	DIRTYWORD[1419]["KEY"] = "龐建國"
+	DIRTYWORD[1419]["real_idx"] = 1419
+
+DIRTYWORD["index"][1420] = 1420
+DIRTYWORD[1420] = {}
+	DIRTYWORD[1420]["ID"] = 1420
+	DIRTYWORD[1420]["KEY"] = "泡沫經濟"
+	DIRTYWORD[1420]["real_idx"] = 1420
+
+DIRTYWORD["index"][1421] = 1421
+DIRTYWORD[1421] = {}
+	DIRTYWORD[1421]["ID"] = 1421
+	DIRTYWORD[1421]["KEY"] = "轡"
+	DIRTYWORD[1421]["real_idx"] = 1421
+
+DIRTYWORD["index"][1422] = 1422
+DIRTYWORD[1422] = {}
+	DIRTYWORD[1422]["ID"] = 1422
+	DIRTYWORD[1422]["KEY"] = "噴你"
+	DIRTYWORD[1422]["real_idx"] = 1422
+
+DIRTYWORD["index"][1423] = 1423
+DIRTYWORD[1423] = {}
+	DIRTYWORD[1423]["ID"] = 1423
+	DIRTYWORD[1423]["KEY"] = "皮條客"
+	DIRTYWORD[1423]["real_idx"] = 1423
+
+DIRTYWORD["index"][1424] = 1424
+DIRTYWORD[1424] = {}
+	DIRTYWORD[1424]["ID"] = 1424
+	DIRTYWORD[1424]["KEY"] = "羆"
+	DIRTYWORD[1424]["real_idx"] = 1424
+
+DIRTYWORD["index"][1425] = 1425
+DIRTYWORD[1425] = {}
+	DIRTYWORD[1425]["ID"] = 1425
+	DIRTYWORD[1425]["KEY"] = "諞"
+	DIRTYWORD[1425]["real_idx"] = 1425
+
+DIRTYWORD["index"][1426] = 1426
+DIRTYWORD[1426] = {}
+	DIRTYWORD[1426]["ID"] = 1426
+	DIRTYWORD[1426]["KEY"] = "潑婦 "
+	DIRTYWORD[1426]["real_idx"] = 1426
+
+DIRTYWORD["index"][1427] = 1427
+DIRTYWORD[1427] = {}
+	DIRTYWORD[1427]["ID"] = 1427
+	DIRTYWORD[1427]["KEY"] = "齊墨"
+	DIRTYWORD[1427]["real_idx"] = 1427
+
+DIRTYWORD["index"][1428] = 1428
+DIRTYWORD[1428] = {}
+	DIRTYWORD[1428]["ID"] = 1428
+	DIRTYWORD[1428]["KEY"] = "齊諾"
+	DIRTYWORD[1428]["real_idx"] = 1428
+
+DIRTYWORD["index"][1429] = 1429
+DIRTYWORD[1429] = {}
+	DIRTYWORD[1429]["ID"] = 1429
+	DIRTYWORD[1429]["KEY"] = "騎你"
+	DIRTYWORD[1429]["real_idx"] = 1429
+
+DIRTYWORD["index"][1430] = 1430
+DIRTYWORD[1430] = {}
+	DIRTYWORD[1430]["ID"] = 1430
+	DIRTYWORD[1430]["KEY"] = "磧"
+	DIRTYWORD[1430]["real_idx"] = 1430
+
+DIRTYWORD["index"][1431] = 1431
+DIRTYWORD[1431] = {}
+	DIRTYWORD[1431]["ID"] = 1431
+	DIRTYWORD[1431]["KEY"] = "僉"
+	DIRTYWORD[1431]["real_idx"] = 1431
+
+DIRTYWORD["index"][1432] = 1432
+DIRTYWORD[1432] = {}
+	DIRTYWORD[1432]["ID"] = 1432
+	DIRTYWORD[1432]["KEY"] = "鈐"
+	DIRTYWORD[1432]["real_idx"] = 1432
+
+DIRTYWORD["index"][1433] = 1433
+DIRTYWORD[1433] = {}
+	DIRTYWORD[1433]["ID"] = 1433
+	DIRTYWORD[1433]["KEY"] = "錢達"
+	DIRTYWORD[1433]["real_idx"] = 1433
+
+DIRTYWORD["index"][1434] = 1434
+DIRTYWORD[1434] = {}
+	DIRTYWORD[1434]["ID"] = 1434
+	DIRTYWORD[1434]["KEY"] = "錢國梁"
+	DIRTYWORD[1434]["real_idx"] = 1434
+
+DIRTYWORD["index"][1435] = 1435
+DIRTYWORD[1435] = {}
+	DIRTYWORD[1435]["ID"] = 1435
+	DIRTYWORD[1435]["KEY"] = "錢其琛"
+	DIRTYWORD[1435]["real_idx"] = 1435
+
+DIRTYWORD["index"][1436] = 1436
+DIRTYWORD[1436] = {}
+	DIRTYWORD[1436]["ID"] = 1436
+	DIRTYWORD[1436]["KEY"] = "膁"
+	DIRTYWORD[1436]["real_idx"] = 1436
+
+DIRTYWORD["index"][1437] = 1437
+DIRTYWORD[1437] = {}
+	DIRTYWORD[1437]["ID"] = 1437
+	DIRTYWORD[1437]["KEY"] = "槧"
+	DIRTYWORD[1437]["real_idx"] = 1437
+
+DIRTYWORD["index"][1438] = 1438
+DIRTYWORD[1438] = {}
+	DIRTYWORD[1438]["ID"] = 1438
+	DIRTYWORD[1438]["KEY"] = "錆"
+	DIRTYWORD[1438]["real_idx"] = 1438
+
+DIRTYWORD["index"][1439] = 1439
+DIRTYWORD[1439] = {}
+	DIRTYWORD[1439]["ID"] = 1439
+	DIRTYWORD[1439]["KEY"] = "繰"
+	DIRTYWORD[1439]["real_idx"] = 1439
+
+DIRTYWORD["index"][1440] = 1440
+DIRTYWORD[1440] = {}
+	DIRTYWORD[1440]["ID"] = 1440
+	DIRTYWORD[1440]["KEY"] = "喬石"
+	DIRTYWORD[1440]["real_idx"] = 1440
+
+DIRTYWORD["index"][1441] = 1441
+DIRTYWORD[1441] = {}
+	DIRTYWORD[1441]["ID"] = 1441
+	DIRTYWORD[1441]["KEY"] = "喬伊"
+	DIRTYWORD[1441]["real_idx"] = 1441
+
+DIRTYWORD["index"][1442] = 1442
+DIRTYWORD[1442] = {}
+	DIRTYWORD[1442]["ID"] = 1442
+	DIRTYWORD[1442]["KEY"] = "橋侵襲兵"
+	DIRTYWORD[1442]["real_idx"] = 1442
+
+DIRTYWORD["index"][1443] = 1443
+DIRTYWORD[1443] = {}
+	DIRTYWORD[1443]["ID"] = 1443
+	DIRTYWORD[1443]["KEY"] = "譙"
+	DIRTYWORD[1443]["real_idx"] = 1443
+
+DIRTYWORD["index"][1444] = 1444
+DIRTYWORD[1444] = {}
+	DIRTYWORD[1444]["ID"] = 1444
+	DIRTYWORD[1444]["KEY"] = "鞽"
+	DIRTYWORD[1444]["real_idx"] = 1444
+
+DIRTYWORD["index"][1445] = 1445
+DIRTYWORD[1445] = {}
+	DIRTYWORD[1445]["ID"] = 1445
+	DIRTYWORD[1445]["KEY"] = "篋"
+	DIRTYWORD[1445]["real_idx"] = 1445
+
+DIRTYWORD["index"][1446] = 1446
+DIRTYWORD[1446] = {}
+	DIRTYWORD[1446]["ID"] = 1446
+	DIRTYWORD[1446]["KEY"] = "親美"
+	DIRTYWORD[1446]["real_idx"] = 1446
+
+DIRTYWORD["index"][1447] = 1447
+DIRTYWORD[1447] = {}
+	DIRTYWORD[1447]["ID"] = 1447
+	DIRTYWORD[1447]["KEY"] = "親民黨"
+	DIRTYWORD[1447]["real_idx"] = 1447
+
+DIRTYWORD["index"][1448] = 1448
+DIRTYWORD[1448] = {}
+	DIRTYWORD[1448]["ID"] = 1448
+	DIRTYWORD[1448]["KEY"] = "親日"
+	DIRTYWORD[1448]["real_idx"] = 1448
+
+DIRTYWORD["index"][1449] = 1449
+DIRTYWORD[1449] = {}
+	DIRTYWORD[1449]["ID"] = 1449
+	DIRTYWORD[1449]["KEY"] = "欽本立"
+	DIRTYWORD[1449]["real_idx"] = 1449
+
+DIRTYWORD["index"][1450] = 1450
+DIRTYWORD[1450] = {}
+	DIRTYWORD[1450]["ID"] = 1450
+	DIRTYWORD[1450]["KEY"] = "禽獸"
+	DIRTYWORD[1450]["real_idx"] = 1450
+
+DIRTYWORD["index"][1451] = 1451
+DIRTYWORD[1451] = {}
+	DIRTYWORD[1451]["ID"] = 1451
+	DIRTYWORD[1451]["KEY"] = "唚"
+	DIRTYWORD[1451]["real_idx"] = 1451
+
+DIRTYWORD["index"][1452] = 1452
+DIRTYWORD[1452] = {}
+	DIRTYWORD[1452]["ID"] = 1452
+	DIRTYWORD[1452]["KEY"] = "輕舟快訊"
+	DIRTYWORD[1452]["real_idx"] = 1452
+
+DIRTYWORD["index"][1453] = 1453
+DIRTYWORD[1453] = {}
+	DIRTYWORD[1453]["ID"] = 1453
+	DIRTYWORD[1453]["KEY"] = "情婦"
+	DIRTYWORD[1453]["real_idx"] = 1453
+
+DIRTYWORD["index"][1454] = 1454
+DIRTYWORD[1454] = {}
+	DIRTYWORD[1454]["ID"] = 1454
+	DIRTYWORD[1454]["KEY"] = "情獸"
+	DIRTYWORD[1454]["real_idx"] = 1454
+
+DIRTYWORD["index"][1455] = 1455
+DIRTYWORD[1455] = {}
+	DIRTYWORD[1455]["ID"] = 1455
+	DIRTYWORD[1455]["KEY"] = "檾"
+	DIRTYWORD[1455]["real_idx"] = 1455
+
+DIRTYWORD["index"][1456] = 1456
+DIRTYWORD[1456] = {}
+	DIRTYWORD[1456]["ID"] = 1456
+	DIRTYWORD[1456]["KEY"] = "慶紅"
+	DIRTYWORD[1456]["real_idx"] = 1456
+
+DIRTYWORD["index"][1457] = 1457
+DIRTYWORD[1457] = {}
+	DIRTYWORD[1457]["ID"] = 1457
+	DIRTYWORD[1457]["KEY"] = "丘垂貞"
+	DIRTYWORD[1457]["real_idx"] = 1457
+
+DIRTYWORD["index"][1458] = 1458
+DIRTYWORD[1458] = {}
+	DIRTYWORD[1458]["ID"] = 1458
+	DIRTYWORD[1458]["KEY"] = "詘"
+	DIRTYWORD[1458]["real_idx"] = 1458
+
+DIRTYWORD["index"][1459] = 1459
+DIRTYWORD[1459] = {}
+	DIRTYWORD[1459]["ID"] = 1459
+	DIRTYWORD[1459]["KEY"] = "去你媽的"
+	DIRTYWORD[1459]["real_idx"] = 1459
+
+DIRTYWORD["index"][1460] = 1460
+DIRTYWORD[1460] = {}
+	DIRTYWORD[1460]["ID"] = 1460
+	DIRTYWORD[1460]["KEY"] = "闃"
+	DIRTYWORD[1460]["real_idx"] = 1460
+
+DIRTYWORD["index"][1461] = 1461
+DIRTYWORD[1461] = {}
+	DIRTYWORD[1461]["ID"] = 1461
+	DIRTYWORD[1461]["KEY"] = "全國兩會"
+	DIRTYWORD[1461]["real_idx"] = 1461
+
+DIRTYWORD["index"][1462] = 1462
+DIRTYWORD[1462] = {}
+	DIRTYWORD[1462]["ID"] = 1462
+	DIRTYWORD[1462]["KEY"] = "全國人大"
+	DIRTYWORD[1462]["real_idx"] = 1462
+
+DIRTYWORD["index"][1463] = 1463
+DIRTYWORD[1463] = {}
+	DIRTYWORD[1463]["ID"] = 1463
+	DIRTYWORD[1463]["KEY"] = "犬"
+	DIRTYWORD[1463]["real_idx"] = 1463
+
+DIRTYWORD["index"][1464] = 1464
+DIRTYWORD[1464] = {}
+	DIRTYWORD[1464]["ID"] = 1464
+	DIRTYWORD[1464]["KEY"] = "綣"
+	DIRTYWORD[1464]["real_idx"] = 1464
+
+DIRTYWORD["index"][1465] = 1465
+DIRTYWORD[1465] = {}
+	DIRTYWORD[1465]["ID"] = 1465
+	DIRTYWORD[1465]["KEY"] = "瘸腿幫"
+	DIRTYWORD[1465]["real_idx"] = 1465
+
+DIRTYWORD["index"][1466] = 1466
+DIRTYWORD[1466] = {}
+	DIRTYWORD[1466]["ID"] = 1466
+	DIRTYWORD[1466]["KEY"] = "愨"
+	DIRTYWORD[1466]["real_idx"] = 1466
+
+DIRTYWORD["index"][1467] = 1467
+DIRTYWORD[1467] = {}
+	DIRTYWORD[1467]["ID"] = 1467
+	DIRTYWORD[1467]["KEY"] = "讓你操"
+	DIRTYWORD[1467]["real_idx"] = 1467
+
+DIRTYWORD["index"][1468] = 1468
+DIRTYWORD[1468] = {}
+	DIRTYWORD[1468]["ID"] = 1468
+	DIRTYWORD[1468]["KEY"] = "熱比婭"
+	DIRTYWORD[1468]["real_idx"] = 1468
+
+DIRTYWORD["index"][1469] = 1469
+DIRTYWORD[1469] = {}
+	DIRTYWORD[1469]["ID"] = 1469
+	DIRTYWORD[1469]["KEY"] = "熱站政論網"
+	DIRTYWORD[1469]["real_idx"] = 1469
+
+DIRTYWORD["index"][1470] = 1470
+DIRTYWORD[1470] = {}
+	DIRTYWORD[1470]["ID"] = 1470
+	DIRTYWORD[1470]["KEY"] = "人民報"
+	DIRTYWORD[1470]["real_idx"] = 1470
+
+DIRTYWORD["index"][1471] = 1471
+DIRTYWORD[1471] = {}
+	DIRTYWORD[1471]["ID"] = 1471
+	DIRTYWORD[1471]["KEY"] = "人民大會堂"
+	DIRTYWORD[1471]["real_idx"] = 1471
+
+DIRTYWORD["index"][1472] = 1472
+DIRTYWORD[1472] = {}
+	DIRTYWORD[1472]["ID"] = 1472
+	DIRTYWORD[1472]["KEY"] = "人民內情真相"
+	DIRTYWORD[1472]["real_idx"] = 1472
+
+DIRTYWORD["index"][1473] = 1473
+DIRTYWORD[1473] = {}
+	DIRTYWORD[1473]["ID"] = 1473
+	DIRTYWORD[1473]["KEY"] = "人民真實"
+	DIRTYWORD[1473]["real_idx"] = 1473
+
+DIRTYWORD["index"][1474] = 1474
+DIRTYWORD[1474] = {}
+	DIRTYWORD[1474]["ID"] = 1474
+	DIRTYWORD[1474]["KEY"] = "人民之聲論壇"
+	DIRTYWORD[1474]["real_idx"] = 1474
+
+DIRTYWORD["index"][1475] = 1475
+DIRTYWORD[1475] = {}
+	DIRTYWORD[1475]["ID"] = 1475
+	DIRTYWORD[1475]["KEY"] = "人權"
+	DIRTYWORD[1475]["real_idx"] = 1475
+
+DIRTYWORD["index"][1476] = 1476
+DIRTYWORD[1476] = {}
+	DIRTYWORD[1476]["ID"] = 1476
+	DIRTYWORD[1476]["KEY"] = "日本帝國"
+	DIRTYWORD[1476]["real_idx"] = 1476
+
+DIRTYWORD["index"][1477] = 1477
+DIRTYWORD[1477] = {}
+	DIRTYWORD[1477]["ID"] = 1477
+	DIRTYWORD[1477]["KEY"] = "日軍"
+	DIRTYWORD[1477]["real_idx"] = 1477
+
+DIRTYWORD["index"][1478] = 1478
+DIRTYWORD[1478] = {}
+	DIRTYWORD[1478]["ID"] = 1478
+	DIRTYWORD[1478]["KEY"] = "日內瓦金融"
+	DIRTYWORD[1478]["real_idx"] = 1478
+
+DIRTYWORD["index"][1479] = 1479
+DIRTYWORD[1479] = {}
+	DIRTYWORD[1479]["ID"] = 1479
+	DIRTYWORD[1479]["KEY"] = "日你媽"
+	DIRTYWORD[1479]["real_idx"] = 1479
+
+DIRTYWORD["index"][1480] = 1480
+DIRTYWORD[1480] = {}
+	DIRTYWORD[1480]["ID"] = 1480
+	DIRTYWORD[1480]["KEY"] = "日你爺爺"
+	DIRTYWORD[1480]["real_idx"] = 1480
+
+DIRTYWORD["index"][1481] = 1481
+DIRTYWORD[1481] = {}
+	DIRTYWORD[1481]["ID"] = 1481
+	DIRTYWORD[1481]["KEY"] = "日朱駿"
+	DIRTYWORD[1481]["real_idx"] = 1481
+
+DIRTYWORD["index"][1482] = 1482
+DIRTYWORD[1482] = {}
+	DIRTYWORD[1482]["ID"] = 1482
+	DIRTYWORD[1482]["KEY"] = "顬"
+	DIRTYWORD[1482]["real_idx"] = 1482
+
+DIRTYWORD["index"][1483] = 1483
+DIRTYWORD[1483] = {}
+	DIRTYWORD[1483]["ID"] = 1483
+	DIRTYWORD[1483]["KEY"] = "乳頭"
+	DIRTYWORD[1483]["real_idx"] = 1483
+
+DIRTYWORD["index"][1484] = 1484
+DIRTYWORD[1484] = {}
+	DIRTYWORD[1484]["ID"] = 1484
+	DIRTYWORD[1484]["KEY"] = "乳暈"
+	DIRTYWORD[1484]["real_idx"] = 1484
+
+DIRTYWORD["index"][1485] = 1485
+DIRTYWORD[1485] = {}
+	DIRTYWORD[1485]["ID"] = 1485
+	DIRTYWORD[1485]["KEY"] = "瑞士金融大學"
+	DIRTYWORD[1485]["real_idx"] = 1485
+
+DIRTYWORD["index"][1486] = 1486
+DIRTYWORD[1486] = {}
+	DIRTYWORD[1486]["ID"] = 1486
+	DIRTYWORD[1486]["KEY"] = "薩達姆"
+	DIRTYWORD[1486]["real_idx"] = 1486
+
+DIRTYWORD["index"][1487] = 1487
+DIRTYWORD[1487] = {}
+	DIRTYWORD[1487]["ID"] = 1487
+	DIRTYWORD[1487]["KEY"] = "三K黨"
+	DIRTYWORD[1487]["real_idx"] = 1487
+
+DIRTYWORD["index"][1488] = 1488
+DIRTYWORD[1488] = {}
+	DIRTYWORD[1488]["ID"] = 1488
+	DIRTYWORD[1488]["KEY"] = "三個代表"
+	DIRTYWORD[1488]["real_idx"] = 1488
+
+DIRTYWORD["index"][1489] = 1489
+DIRTYWORD[1489] = {}
+	DIRTYWORD[1489]["ID"] = 1489
+	DIRTYWORD[1489]["KEY"] = "三級片"
+	DIRTYWORD[1489]["real_idx"] = 1489
+
+DIRTYWORD["index"][1490] = 1490
+DIRTYWORD[1490] = {}
+	DIRTYWORD[1490]["ID"] = 1490
+	DIRTYWORD[1490]["KEY"] = "三去車侖工力"
+	DIRTYWORD[1490]["real_idx"] = 1490
+
+DIRTYWORD["index"][1491] = 1491
+DIRTYWORD[1491] = {}
+	DIRTYWORD[1491]["ID"] = 1491
+	DIRTYWORD[1491]["KEY"] = "㈢"
+	DIRTYWORD[1491]["real_idx"] = 1491
+
+DIRTYWORD["index"][1492] = 1492
+DIRTYWORD[1492] = {}
+	DIRTYWORD[1492]["ID"] = 1492
+	DIRTYWORD[1492]["KEY"] = "毿"
+	DIRTYWORD[1492]["real_idx"] = 1492
+
+DIRTYWORD["index"][1493] = 1493
+DIRTYWORD[1493] = {}
+	DIRTYWORD[1493]["ID"] = 1493
+	DIRTYWORD[1493]["KEY"] = "糝"
+	DIRTYWORD[1493]["real_idx"] = 1493
+
+DIRTYWORD["index"][1494] = 1494
+DIRTYWORD[1494] = {}
+	DIRTYWORD[1494]["ID"] = 1494
+	DIRTYWORD[1494]["KEY"] = "騷B"
+	DIRTYWORD[1494]["real_idx"] = 1494
+
+DIRTYWORD["index"][1495] = 1495
+DIRTYWORD[1495] = {}
+	DIRTYWORD[1495]["ID"] = 1495
+	DIRTYWORD[1495]["KEY"] = "騷棒"
+	DIRTYWORD[1495]["real_idx"] = 1495
+
+DIRTYWORD["index"][1496] = 1496
+DIRTYWORD[1496] = {}
+	DIRTYWORD[1496]["ID"] = 1496
+	DIRTYWORD[1496]["KEY"] = "騷包"
+	DIRTYWORD[1496]["real_idx"] = 1496
+
+DIRTYWORD["index"][1497] = 1497
+DIRTYWORD[1497] = {}
+	DIRTYWORD[1497]["ID"] = 1497
+	DIRTYWORD[1497]["KEY"] = "騷逼"
+	DIRTYWORD[1497]["real_idx"] = 1497
+
+DIRTYWORD["index"][1498] = 1498
+DIRTYWORD[1498] = {}
+	DIRTYWORD[1498]["ID"] = 1498
+	DIRTYWORD[1498]["KEY"] = "騷棍"
+	DIRTYWORD[1498]["real_idx"] = 1498
+
+DIRTYWORD["index"][1499] = 1499
+DIRTYWORD[1499] = {}
+	DIRTYWORD[1499]["ID"] = 1499
+	DIRTYWORD[1499]["KEY"] = "騷貨"
+	DIRTYWORD[1499]["real_idx"] = 1499
+
+DIRTYWORD["index"][1500] = 1500
+DIRTYWORD[1500] = {}
+	DIRTYWORD[1500]["ID"] = 1500
+	DIRTYWORD[1500]["KEY"] = "騷鶏"
+	DIRTYWORD[1500]["real_idx"] = 1500
+
+DIRTYWORD["index"][1501] = 1501
+DIRTYWORD[1501] = {}
+	DIRTYWORD[1501]["ID"] = 1501
+	DIRTYWORD[1501]["KEY"] = "騷卵 "
+	DIRTYWORD[1501]["real_idx"] = 1501
+
+DIRTYWORD["index"][1502] = 1502
+DIRTYWORD[1502] = {}
+	DIRTYWORD[1502]["ID"] = 1502
+	DIRTYWORD[1502]["KEY"] = "殺你全家"
+	DIRTYWORD[1502]["real_idx"] = 1502
+
+DIRTYWORD["index"][1503] = 1503
+DIRTYWORD[1503] = {}
+	DIRTYWORD[1503]["ID"] = 1503
+	DIRTYWORD[1503]["KEY"] = "殺你一家"
+	DIRTYWORD[1503]["real_idx"] = 1503
+
+DIRTYWORD["index"][1504] = 1504
+DIRTYWORD[1504] = {}
+	DIRTYWORD[1504]["ID"] = 1504
+	DIRTYWORD[1504]["KEY"] = "殺人犯"
+	DIRTYWORD[1504]["real_idx"] = 1504
+
+DIRTYWORD["index"][1505] = 1505
+DIRTYWORD[1505] = {}
+	DIRTYWORD[1505]["ID"] = 1505
+	DIRTYWORD[1505]["KEY"] = "傻鳥"
+	DIRTYWORD[1505]["real_idx"] = 1505
+
+DIRTYWORD["index"][1506] = 1506
+DIRTYWORD[1506] = {}
+	DIRTYWORD[1506]["ID"] = 1506
+	DIRTYWORD[1506]["KEY"] = "煞筆"
+	DIRTYWORD[1506]["real_idx"] = 1506
+
+DIRTYWORD["index"][1507] = 1507
+DIRTYWORD[1507] = {}
+	DIRTYWORD[1507]["ID"] = 1507
+	DIRTYWORD[1507]["KEY"] = "山口組"
+	DIRTYWORD[1507]["real_idx"] = 1507
+
+DIRTYWORD["index"][1508] = 1508
+DIRTYWORD[1508] = {}
+	DIRTYWORD[1508]["ID"] = 1508
+	DIRTYWORD[1508]["KEY"] = "善惡有報"
+	DIRTYWORD[1508]["real_idx"] = 1508
+
+DIRTYWORD["index"][1509] = 1509
+DIRTYWORD[1509] = {}
+	DIRTYWORD[1509]["ID"] = 1509
+	DIRTYWORD[1509]["KEY"] = "上訪"
+	DIRTYWORD[1509]["real_idx"] = 1509
+
+DIRTYWORD["index"][1510] = 1510
+DIRTYWORD[1510] = {}
+	DIRTYWORD[1510]["ID"] = 1510
+	DIRTYWORD[1510]["KEY"] = "上海幫"
+	DIRTYWORD[1510]["real_idx"] = 1510
+
+DIRTYWORD["index"][1511] = 1511
+DIRTYWORD[1511] = {}
+	DIRTYWORD[1511]["ID"] = 1511
+	DIRTYWORD[1511]["KEY"] = "上海孤兒院"
+	DIRTYWORD[1511]["real_idx"] = 1511
+
+DIRTYWORD["index"][1512] = 1512
+DIRTYWORD[1512] = {}
+	DIRTYWORD[1512]["ID"] = 1512
+	DIRTYWORD[1512]["KEY"] = "厙"
+	DIRTYWORD[1512]["real_idx"] = 1512
+
+DIRTYWORD["index"][1513] = 1513
+DIRTYWORD[1513] = {}
+	DIRTYWORD[1513]["ID"] = 1513
+	DIRTYWORD[1513]["KEY"] = "社會主義"
+	DIRTYWORD[1513]["real_idx"] = 1513
+
+DIRTYWORD["index"][1514] = 1514
+DIRTYWORD[1514] = {}
+	DIRTYWORD[1514]["ID"] = 1514
+	DIRTYWORD[1514]["KEY"] = "射了還說要"
+	DIRTYWORD[1514]["real_idx"] = 1514
+
+DIRTYWORD["index"][1515] = 1515
+DIRTYWORD[1515] = {}
+	DIRTYWORD[1515]["ID"] = 1515
+	DIRTYWORD[1515]["KEY"] = "灄"
+	DIRTYWORD[1515]["real_idx"] = 1515
+
+DIRTYWORD["index"][1516] = 1516
+DIRTYWORD[1516] = {}
+	DIRTYWORD[1516]["ID"] = 1516
+	DIRTYWORD[1516]["KEY"] = "詵"
+	DIRTYWORD[1516]["real_idx"] = 1516
+
+DIRTYWORD["index"][1517] = 1517
+DIRTYWORD[1517] = {}
+	DIRTYWORD[1517]["ID"] = 1517
+	DIRTYWORD[1517]["KEY"] = "神經病"
+	DIRTYWORD[1517]["real_idx"] = 1517
+
+DIRTYWORD["index"][1518] = 1518
+DIRTYWORD[1518] = {}
+	DIRTYWORD[1518]["ID"] = 1518
+	DIRTYWORD[1518]["KEY"] = "諗"
+	DIRTYWORD[1518]["real_idx"] = 1518
+
+DIRTYWORD["index"][1519] = 1519
+DIRTYWORD[1519] = {}
+	DIRTYWORD[1519]["ID"] = 1519
+	DIRTYWORD[1519]["KEY"] = "生孩子沒屁眼"
+	DIRTYWORD[1519]["real_idx"] = 1519
+
+DIRTYWORD["index"][1520] = 1520
+DIRTYWORD[1520] = {}
+	DIRTYWORD[1520]["ID"] = 1520
+	DIRTYWORD[1520]["KEY"] = "生命分流的圖騰"
+	DIRTYWORD[1520]["real_idx"] = 1520
+
+DIRTYWORD["index"][1521] = 1521
+DIRTYWORD[1521] = {}
+	DIRTYWORD[1521]["ID"] = 1521
+	DIRTYWORD[1521]["KEY"] = "澠"
+	DIRTYWORD[1521]["real_idx"] = 1521
+
+DIRTYWORD["index"][1522] = 1522
+DIRTYWORD[1522] = {}
+	DIRTYWORD[1522]["ID"] = 1522
+	DIRTYWORD[1522]["KEY"] = "聖射手"
+	DIRTYWORD[1522]["real_idx"] = 1522
+
+DIRTYWORD["index"][1523] = 1523
+DIRTYWORD[1523] = {}
+	DIRTYWORD[1523]["ID"] = 1523
+	DIRTYWORD[1523]["KEY"] = "聖戰"
+	DIRTYWORD[1523]["real_idx"] = 1523
+
+DIRTYWORD["index"][1524] = 1524
+DIRTYWORD[1524] = {}
+	DIRTYWORD[1524]["ID"] = 1524
+	DIRTYWORD[1524]["KEY"] = "盛華仁"
+	DIRTYWORD[1524]["real_idx"] = 1524
+
+DIRTYWORD["index"][1525] = 1525
+DIRTYWORD[1525] = {}
+	DIRTYWORD[1525]["ID"] = 1525
+	DIRTYWORD[1525]["KEY"] = "濕了還說不要"
+	DIRTYWORD[1525]["real_idx"] = 1525
+
+DIRTYWORD["index"][1526] = 1526
+DIRTYWORD[1526] = {}
+	DIRTYWORD[1526]["ID"] = 1526
+	DIRTYWORD[1526]["KEY"] = "濕了還說要"
+	DIRTYWORD[1526]["real_idx"] = 1526
+
+DIRTYWORD["index"][1527] = 1527
+DIRTYWORD[1527] = {}
+	DIRTYWORD[1527]["ID"] = 1527
+	DIRTYWORD[1527]["KEY"] = "釃"
+	DIRTYWORD[1527]["real_idx"] = 1527
+
+DIRTYWORD["index"][1528] = 1528
+DIRTYWORD[1528] = {}
+	DIRTYWORD[1528]["ID"] = 1528
+	DIRTYWORD[1528]["KEY"] = "鯴"
+	DIRTYWORD[1528]["real_idx"] = 1528
+
+DIRTYWORD["index"][1529] = 1529
+DIRTYWORD[1529] = {}
+	DIRTYWORD[1529]["ID"] = 1529
+	DIRTYWORD[1529]["KEY"] = "㈩"
+	DIRTYWORD[1529]["real_idx"] = 1529
+
+DIRTYWORD["index"][1530] = 1530
+DIRTYWORD[1530] = {}
+	DIRTYWORD[1530]["ID"] = 1530
+	DIRTYWORD[1530]["KEY"] = "石化圖騰"
+	DIRTYWORD[1530]["real_idx"] = 1530
+
+DIRTYWORD["index"][1531] = 1531
+DIRTYWORD[1531] = {}
+	DIRTYWORD[1531]["ID"] = 1531
+	DIRTYWORD[1531]["KEY"] = "石拳戰鬥兵"
+	DIRTYWORD[1531]["real_idx"] = 1531
+
+DIRTYWORD["index"][1532] = 1532
+DIRTYWORD[1532] = {}
+	DIRTYWORD[1532]["ID"] = 1532
+	DIRTYWORD[1532]["KEY"] = "時代論壇"
+	DIRTYWORD[1532]["real_idx"] = 1532
+
+DIRTYWORD["index"][1533] = 1533
+DIRTYWORD[1533] = {}
+	DIRTYWORD[1533]["ID"] = 1533
+	DIRTYWORD[1533]["KEY"] = "時事論壇"
+	DIRTYWORD[1533]["real_idx"] = 1533
+
+DIRTYWORD["index"][1534] = 1534
+DIRTYWORD[1534] = {}
+	DIRTYWORD[1534]["ID"] = 1534
+	DIRTYWORD[1534]["KEY"] = "鰣"
+	DIRTYWORD[1534]["real_idx"] = 1534
+
+DIRTYWORD["index"][1535] = 1535
+DIRTYWORD[1535] = {}
+	DIRTYWORD[1535]["ID"] = 1535
+	DIRTYWORD[1535]["KEY"] = "史萊姆"
+	DIRTYWORD[1535]["real_idx"] = 1535
+
+DIRTYWORD["index"][1536] = 1536
+DIRTYWORD[1536] = {}
+	DIRTYWORD[1536]["ID"] = 1536
+	DIRTYWORD[1536]["KEY"] = "史萊姆王"
+	DIRTYWORD[1536]["real_idx"] = 1536
+
+DIRTYWORD["index"][1537] = 1537
+DIRTYWORD[1537] = {}
+	DIRTYWORD[1537]["ID"] = 1537
+	DIRTYWORD[1537]["KEY"] = "士兵管理員瓦爾臣"
+	DIRTYWORD[1537]["real_idx"] = 1537
+
+DIRTYWORD["index"][1538] = 1538
+DIRTYWORD[1538] = {}
+	DIRTYWORD[1538]["ID"] = 1538
+	DIRTYWORD[1538]["KEY"] = "世界經濟導報"
+	DIRTYWORD[1538]["real_idx"] = 1538
+
+DIRTYWORD["index"][1539] = 1539
+DIRTYWORD[1539] = {}
+	DIRTYWORD[1539]["ID"] = 1539
+	DIRTYWORD[1539]["KEY"] = "事實獨立"
+	DIRTYWORD[1539]["real_idx"] = 1539
+
+DIRTYWORD["index"][1540] = 1540
+DIRTYWORD[1540] = {}
+	DIRTYWORD[1540]["ID"] = 1540
+	DIRTYWORD[1540]["KEY"] = "侍從貝赫爾特"
+	DIRTYWORD[1540]["real_idx"] = 1540
+
+DIRTYWORD["index"][1541] = 1541
+DIRTYWORD[1541] = {}
+	DIRTYWORD[1541]["ID"] = 1541
+	DIRTYWORD[1541]["KEY"] = "侍從倫斯韋"
+	DIRTYWORD[1541]["real_idx"] = 1541
+
+DIRTYWORD["index"][1542] = 1542
+DIRTYWORD[1542] = {}
+	DIRTYWORD[1542]["ID"] = 1542
+	DIRTYWORD[1542]["KEY"] = "貰"
+	DIRTYWORD[1542]["real_idx"] = 1542
+
+DIRTYWORD["index"][1543] = 1543
+DIRTYWORD[1543] = {}
+	DIRTYWORD[1543]["ID"] = 1543
+	DIRTYWORD[1543]["KEY"] = "攄"
+	DIRTYWORD[1543]["real_idx"] = 1543
+
+DIRTYWORD["index"][1544] = 1544
+DIRTYWORD[1544] = {}
+	DIRTYWORD[1544]["ID"] = 1544
+	DIRTYWORD[1544]["KEY"] = "數據中國"
+	DIRTYWORD[1544]["real_idx"] = 1544
+
+DIRTYWORD["index"][1545] = 1545
+DIRTYWORD[1545] = {}
+	DIRTYWORD[1545]["ID"] = 1545
+	DIRTYWORD[1545]["KEY"] = "雙十節"
+	DIRTYWORD[1545]["real_idx"] = 1545
+
+DIRTYWORD["index"][1546] = 1546
+DIRTYWORD[1546] = {}
+	DIRTYWORD[1546]["ID"] = 1546
+	DIRTYWORD[1546]["KEY"] = "氵去車侖工力"
+	DIRTYWORD[1546]["real_idx"] = 1546
+
+DIRTYWORD["index"][1547] = 1547
+DIRTYWORD[1547] = {}
+	DIRTYWORD[1547]["ID"] = 1547
+	DIRTYWORD[1547]["KEY"] = "氵去車侖工力?"
+	DIRTYWORD[1547]["real_idx"] = 1547
+
+DIRTYWORD["index"][1548] = 1548
+DIRTYWORD[1548] = {}
+	DIRTYWORD[1548]["ID"] = 1548
+	DIRTYWORD[1548]["KEY"] = "稅力"
+	DIRTYWORD[1548]["real_idx"] = 1548
+
+DIRTYWORD["index"][1549] = 1549
+DIRTYWORD[1549] = {}
+	DIRTYWORD[1549]["ID"] = 1549
+	DIRTYWORD[1549]["KEY"] = "司馬晋"
+	DIRTYWORD[1549]["real_idx"] = 1549
+
+DIRTYWORD["index"][1550] = 1550
+DIRTYWORD[1550] = {}
+	DIRTYWORD[1550]["ID"] = 1550
+	DIRTYWORD[1550]["KEY"] = "司馬璐"
+	DIRTYWORD[1550]["real_idx"] = 1550
+
+DIRTYWORD["index"][1551] = 1551
+DIRTYWORD[1551] = {}
+	DIRTYWORD[1551]["ID"] = 1551
+	DIRTYWORD[1551]["KEY"] = "司徒華"
+	DIRTYWORD[1551]["real_idx"] = 1551
+
+DIRTYWORD["index"][1552] = 1552
+DIRTYWORD[1552] = {}
+	DIRTYWORD[1552]["ID"] = 1552
+	DIRTYWORD[1552]["KEY"] = "私?服"
+	DIRTYWORD[1552]["real_idx"] = 1552
+
+DIRTYWORD["index"][1553] = 1553
+DIRTYWORD[1553] = {}
+	DIRTYWORD[1553]["ID"] = 1553
+	DIRTYWORD[1553]["KEY"] = "私處"
+	DIRTYWORD[1553]["real_idx"] = 1553
+
+DIRTYWORD["index"][1554] = 1554
+DIRTYWORD[1554] = {}
+	DIRTYWORD[1554]["ID"] = 1554
+	DIRTYWORD[1554]["KEY"] = "思科羅"
+	DIRTYWORD[1554]["real_idx"] = 1554
+
+DIRTYWORD["index"][1555] = 1555
+DIRTYWORD[1555] = {}
+	DIRTYWORD[1555]["ID"] = 1555
+	DIRTYWORD[1555]["KEY"] = "斯諾"
+	DIRTYWORD[1555]["real_idx"] = 1555
+
+DIRTYWORD["index"][1556] = 1556
+DIRTYWORD[1556] = {}
+	DIRTYWORD[1556]["ID"] = 1556
+	DIRTYWORD[1556]["KEY"] = "斯皮爾德"
+	DIRTYWORD[1556]["real_idx"] = 1556
+
+DIRTYWORD["index"][1557] = 1557
+DIRTYWORD[1557] = {}
+	DIRTYWORD[1557]["ID"] = 1557
+	DIRTYWORD[1557]["KEY"] = "四川獨"
+	DIRTYWORD[1557]["real_idx"] = 1557
+
+DIRTYWORD["index"][1558] = 1558
+DIRTYWORD[1558] = {}
+	DIRTYWORD[1558]["ID"] = 1558
+	DIRTYWORD[1558]["KEY"] = "四川獨立"
+	DIRTYWORD[1558]["real_idx"] = 1558
+
+DIRTYWORD["index"][1559] = 1559
+DIRTYWORD[1559] = {}
+	DIRTYWORD[1559]["ID"] = 1559
+	DIRTYWORD[1559]["KEY"] = "四人幫"
+	DIRTYWORD[1559]["real_idx"] = 1559
+
+DIRTYWORD["index"][1560] = 1560
+DIRTYWORD[1560] = {}
+	DIRTYWORD[1560]["ID"] = 1560
+	DIRTYWORD[1560]["KEY"] = "㈣"
+	DIRTYWORD[1560]["real_idx"] = 1560
+
+DIRTYWORD["index"][1561] = 1561
+DIRTYWORD[1561] = {}
+	DIRTYWORD[1561]["ID"] = 1561
+	DIRTYWORD[1561]["KEY"] = "宋書元"
+	DIRTYWORD[1561]["real_idx"] = 1561
+
+DIRTYWORD["index"][1562] = 1562
+DIRTYWORD[1562] = {}
+	DIRTYWORD[1562]["ID"] = 1562
+	DIRTYWORD[1562]["KEY"] = "藪"
+	DIRTYWORD[1562]["real_idx"] = 1562
+
+DIRTYWORD["index"][1563] = 1563
+DIRTYWORD[1563] = {}
+	DIRTYWORD[1563]["ID"] = 1563
+	DIRTYWORD[1563]["KEY"] = "蘇菲爾"
+	DIRTYWORD[1563]["real_idx"] = 1563
+
+DIRTYWORD["index"][1564] = 1564
+DIRTYWORD[1564] = {}
+	DIRTYWORD[1564]["ID"] = 1564
+	DIRTYWORD[1564]["KEY"] = "蘇拉"
+	DIRTYWORD[1564]["real_idx"] = 1564
+
+DIRTYWORD["index"][1565] = 1565
+DIRTYWORD[1565] = {}
+	DIRTYWORD[1565]["ID"] = 1565
+	DIRTYWORD[1565]["KEY"] = "蘇南成"
+	DIRTYWORD[1565]["real_idx"] = 1565
+
+DIRTYWORD["index"][1566] = 1566
+DIRTYWORD[1566] = {}
+	DIRTYWORD[1566]["ID"] = 1566
+	DIRTYWORD[1566]["KEY"] = "蘇紹智"
+	DIRTYWORD[1566]["real_idx"] = 1566
+
+DIRTYWORD["index"][1567] = 1567
+DIRTYWORD[1567] = {}
+	DIRTYWORD[1567]["ID"] = 1567
+	DIRTYWORD[1567]["KEY"] = "蘇特勒守護兵"
+	DIRTYWORD[1567]["real_idx"] = 1567
+
+DIRTYWORD["index"][1568] = 1568
+DIRTYWORD[1568] = {}
+	DIRTYWORD[1568]["ID"] = 1568
+	DIRTYWORD[1568]["KEY"] = "蘇特勤"
+	DIRTYWORD[1568]["real_idx"] = 1568
+
+DIRTYWORD["index"][1569] = 1569
+DIRTYWORD[1569] = {}
+	DIRTYWORD[1569]["ID"] = 1569
+	DIRTYWORD[1569]["KEY"] = "蘇特勤護衛兵"
+	DIRTYWORD[1569]["real_idx"] = 1569
+
+DIRTYWORD["index"][1570] = 1570
+DIRTYWORD[1570] = {}
+	DIRTYWORD[1570]["ID"] = 1570
+	DIRTYWORD[1570]["KEY"] = "蘇特勤魔法師"
+	DIRTYWORD[1570]["real_idx"] = 1570
+
+DIRTYWORD["index"][1571] = 1571
+DIRTYWORD[1571] = {}
+	DIRTYWORD[1571]["ID"] = 1571
+	DIRTYWORD[1571]["KEY"] = "蘇曉康"
+	DIRTYWORD[1571]["real_idx"] = 1571
+
+DIRTYWORD["index"][1572] = 1572
+DIRTYWORD[1572] = {}
+	DIRTYWORD[1572]["ID"] = 1572
+	DIRTYWORD[1572]["KEY"] = "蘇盈貴"
+	DIRTYWORD[1572]["real_idx"] = 1572
+
+DIRTYWORD["index"][1573] = 1573
+DIRTYWORD[1573] = {}
+	DIRTYWORD[1573]["ID"] = 1573
+	DIRTYWORD[1573]["KEY"] = "蘇貞昌"
+	DIRTYWORD[1573]["real_idx"] = 1573
+
+DIRTYWORD["index"][1574] = 1574
+DIRTYWORD[1574] = {}
+	DIRTYWORD[1574]["ID"] = 1574
+	DIRTYWORD[1574]["KEY"] = "誶"
+	DIRTYWORD[1574]["real_idx"] = 1574
+
+DIRTYWORD["index"][1575] = 1575
+DIRTYWORD[1575] = {}
+	DIRTYWORD[1575]["ID"] = 1575
+	DIRTYWORD[1575]["KEY"] = "碎片製造商人馬克"
+	DIRTYWORD[1575]["real_idx"] = 1575
+
+DIRTYWORD["index"][1576] = 1576
+DIRTYWORD[1576] = {}
+	DIRTYWORD[1576]["ID"] = 1576
+	DIRTYWORD[1576]["KEY"] = "碎片製造商人蘇克"
+	DIRTYWORD[1576]["real_idx"] = 1576
+
+DIRTYWORD["index"][1577] = 1577
+DIRTYWORD[1577] = {}
+	DIRTYWORD[1577]["ID"] = 1577
+	DIRTYWORD[1577]["KEY"] = "孫大千"
+	DIRTYWORD[1577]["real_idx"] = 1577
+
+DIRTYWORD["index"][1578] = 1578
+DIRTYWORD[1578] = {}
+	DIRTYWORD[1578]["ID"] = 1578
+	DIRTYWORD[1578]["KEY"] = "孫中山"
+	DIRTYWORD[1578]["real_idx"] = 1578
+
+DIRTYWORD["index"][1579] = 1579
+DIRTYWORD[1579] = {}
+	DIRTYWORD[1579]["ID"] = 1579
+	DIRTYWORD[1579]["KEY"] = "他媽"
+	DIRTYWORD[1579]["real_idx"] = 1579
+
+DIRTYWORD["index"][1580] = 1580
+DIRTYWORD[1580] = {}
+	DIRTYWORD[1580]["ID"] = 1580
+	DIRTYWORD[1580]["KEY"] = "他媽的"
+	DIRTYWORD[1580]["real_idx"] = 1580
+
+DIRTYWORD["index"][1581] = 1581
+DIRTYWORD[1581] = {}
+	DIRTYWORD[1581]["ID"] = 1581
+	DIRTYWORD[1581]["KEY"] = "他嗎的"
+	DIRTYWORD[1581]["real_idx"] = 1581
+
+DIRTYWORD["index"][1582] = 1582
+DIRTYWORD[1582] = {}
+	DIRTYWORD[1582]["ID"] = 1582
+	DIRTYWORD[1582]["KEY"] = "他母親"
+	DIRTYWORD[1582]["real_idx"] = 1582
+
+DIRTYWORD["index"][1583] = 1583
+DIRTYWORD[1583] = {}
+	DIRTYWORD[1583]["ID"] = 1583
+	DIRTYWORD[1583]["KEY"] = "塔內"
+	DIRTYWORD[1583]["real_idx"] = 1583
+
+DIRTYWORD["index"][1584] = 1584
+DIRTYWORD[1584] = {}
+	DIRTYWORD[1584]["ID"] = 1584
+	DIRTYWORD[1584]["KEY"] = "塔烏"
+	DIRTYWORD[1584]["real_idx"] = 1584
+
+DIRTYWORD["index"][1585] = 1585
+DIRTYWORD[1585] = {}
+	DIRTYWORD[1585]["ID"] = 1585
+	DIRTYWORD[1585]["KEY"] = "鰨"
+	DIRTYWORD[1585]["real_idx"] = 1585
+
+DIRTYWORD["index"][1586] = 1586
+DIRTYWORD[1586] = {}
+	DIRTYWORD[1586]["ID"] = 1586
+	DIRTYWORD[1586]["KEY"] = "闥"
+	DIRTYWORD[1586]["real_idx"] = 1586
+
+DIRTYWORD["index"][1587] = 1587
+DIRTYWORD[1587] = {}
+	DIRTYWORD[1587]["ID"] = 1587
+	DIRTYWORD[1587]["KEY"] = "臺盟"
+	DIRTYWORD[1587]["real_idx"] = 1587
+
+DIRTYWORD["index"][1588] = 1588
+DIRTYWORD[1588] = {}
+	DIRTYWORD[1588]["ID"] = 1588
+	DIRTYWORD[1588]["KEY"] = "臺灣帝國"
+	DIRTYWORD[1588]["real_idx"] = 1588
+
+DIRTYWORD["index"][1589] = 1589
+DIRTYWORD[1589] = {}
+	DIRTYWORD[1589]["ID"] = 1589
+	DIRTYWORD[1589]["KEY"] = "臺灣獨立"
+	DIRTYWORD[1589]["real_idx"] = 1589
+
+DIRTYWORD["index"][1590] = 1590
+DIRTYWORD[1590] = {}
+	DIRTYWORD[1590]["ID"] = 1590
+	DIRTYWORD[1590]["KEY"] = "臺灣獨"
+	DIRTYWORD[1590]["real_idx"] = 1590
+
+DIRTYWORD["index"][1591] = 1591
+DIRTYWORD[1591] = {}
+	DIRTYWORD[1591]["ID"] = 1591
+	DIRTYWORD[1591]["KEY"] = "臺灣共産黨"
+	DIRTYWORD[1591]["real_idx"] = 1591
+
+DIRTYWORD["index"][1592] = 1592
+DIRTYWORD[1592] = {}
+	DIRTYWORD[1592]["ID"] = 1592
+	DIRTYWORD[1592]["KEY"] = "臺灣狗"
+	DIRTYWORD[1592]["real_idx"] = 1592
+
+DIRTYWORD["index"][1593] = 1593
+DIRTYWORD[1593] = {}
+	DIRTYWORD[1593]["ID"] = 1593
+	DIRTYWORD[1593]["KEY"] = "臺灣建國運動組織"
+	DIRTYWORD[1593]["real_idx"] = 1593
+
+DIRTYWORD["index"][1594] = 1594
+DIRTYWORD[1594] = {}
+	DIRTYWORD[1594]["ID"] = 1594
+	DIRTYWORD[1594]["KEY"] = "臺灣民國"
+	DIRTYWORD[1594]["real_idx"] = 1594
+
+DIRTYWORD["index"][1595] = 1595
+DIRTYWORD[1595] = {}
+	DIRTYWORD[1595]["ID"] = 1595
+	DIRTYWORD[1595]["KEY"] = "臺灣青年獨立聯盟"
+	DIRTYWORD[1595]["real_idx"] = 1595
+
+DIRTYWORD["index"][1596] = 1596
+DIRTYWORD[1596] = {}
+	DIRTYWORD[1596]["ID"] = 1596
+	DIRTYWORD[1596]["KEY"] = "臺灣政論區"
+	DIRTYWORD[1596]["real_idx"] = 1596
+
+DIRTYWORD["index"][1597] = 1597
+DIRTYWORD[1597] = {}
+	DIRTYWORD[1597]["ID"] = 1597
+	DIRTYWORD[1597]["KEY"] = "臺灣自由聯盟"
+	DIRTYWORD[1597]["real_idx"] = 1597
+
+DIRTYWORD["index"][1598] = 1598
+DIRTYWORD[1598] = {}
+	DIRTYWORD[1598]["ID"] = 1598
+	DIRTYWORD[1598]["KEY"] = "鮐"
+	DIRTYWORD[1598]["real_idx"] = 1598
+
+DIRTYWORD["index"][1599] = 1599
+DIRTYWORD[1599] = {}
+	DIRTYWORD[1599]["ID"] = 1599
+	DIRTYWORD[1599]["KEY"] = "太監"
+	DIRTYWORD[1599]["real_idx"] = 1599
+
+DIRTYWORD["index"][1600] = 1600
+DIRTYWORD[1600] = {}
+	DIRTYWORD[1600]["ID"] = 1600
+	DIRTYWORD[1600]["KEY"] = "泰奴橋警衛兵"
+	DIRTYWORD[1600]["real_idx"] = 1600
+
+DIRTYWORD["index"][1601] = 1601
+DIRTYWORD[1601] = {}
+	DIRTYWORD[1601]["ID"] = 1601
+	DIRTYWORD[1601]["KEY"] = "泰奴橋掠奪者"
+	DIRTYWORD[1601]["real_idx"] = 1601
+
+DIRTYWORD["index"][1602] = 1602
+DIRTYWORD[1602] = {}
+	DIRTYWORD[1602]["ID"] = 1602
+	DIRTYWORD[1602]["KEY"] = "湯光中"
+	DIRTYWORD[1602]["real_idx"] = 1602
+
+DIRTYWORD["index"][1603] = 1603
+DIRTYWORD[1603] = {}
+	DIRTYWORD[1603]["ID"] = 1603
+	DIRTYWORD[1603]["KEY"] = "唐柏橋"
+	DIRTYWORD[1603]["real_idx"] = 1603
+
+DIRTYWORD["index"][1604] = 1604
+DIRTYWORD[1604] = {}
+	DIRTYWORD[1604]["ID"] = 1604
+	DIRTYWORD[1604]["KEY"] = "鞀"
+	DIRTYWORD[1604]["real_idx"] = 1604
+
+DIRTYWORD["index"][1605] = 1605
+DIRTYWORD[1605] = {}
+	DIRTYWORD[1605]["ID"] = 1605
+	DIRTYWORD[1605]["KEY"] = "謄"
+	DIRTYWORD[1605]["real_idx"] = 1605
+
+DIRTYWORD["index"][1606] = 1606
+DIRTYWORD[1606] = {}
+	DIRTYWORD[1606]["ID"] = 1606
+	DIRTYWORD[1606]["KEY"] = "天安門"
+	DIRTYWORD[1606]["real_idx"] = 1606
+
+DIRTYWORD["index"][1607] = 1607
+DIRTYWORD[1607] = {}
+	DIRTYWORD[1607]["ID"] = 1607
+	DIRTYWORD[1607]["KEY"] = "天安門錄影帶"
+	DIRTYWORD[1607]["real_idx"] = 1607
+
+DIRTYWORD["index"][1608] = 1608
+DIRTYWORD[1608] = {}
+	DIRTYWORD[1608]["ID"] = 1608
+	DIRTYWORD[1608]["KEY"] = "天安門事件"
+	DIRTYWORD[1608]["real_idx"] = 1608
+
+DIRTYWORD["index"][1609] = 1609
+DIRTYWORD[1609] = {}
+	DIRTYWORD[1609]["ID"] = 1609
+	DIRTYWORD[1609]["KEY"] = "天安門屠殺"
+	DIRTYWORD[1609]["real_idx"] = 1609
+
+DIRTYWORD["index"][1610] = 1610
+DIRTYWORD[1610] = {}
+	DIRTYWORD[1610]["ID"] = 1610
+	DIRTYWORD[1610]["KEY"] = "天安門一代"
+	DIRTYWORD[1610]["real_idx"] = 1610
+
+DIRTYWORD["index"][1611] = 1611
+DIRTYWORD[1611] = {}
+	DIRTYWORD[1611]["ID"] = 1611
+	DIRTYWORD[1611]["KEY"] = "天閹"
+	DIRTYWORD[1611]["real_idx"] = 1611
+
+DIRTYWORD["index"][1612] = 1612
+DIRTYWORD[1612] = {}
+	DIRTYWORD[1612]["ID"] = 1612
+	DIRTYWORD[1612]["KEY"] = "田紀雲"
+	DIRTYWORD[1612]["real_idx"] = 1612
+
+DIRTYWORD["index"][1613] = 1613
+DIRTYWORD[1613] = {}
+	DIRTYWORD[1613]["ID"] = 1613
+	DIRTYWORD[1613]["KEY"] = "齠"
+	DIRTYWORD[1613]["real_idx"] = 1613
+
+DIRTYWORD["index"][1614] = 1614
+DIRTYWORD[1614] = {}
+	DIRTYWORD[1614]["ID"] = 1614
+	DIRTYWORD[1614]["KEY"] = "鰷"
+	DIRTYWORD[1614]["real_idx"] = 1614
+
+DIRTYWORD["index"][1615] = 1615
+DIRTYWORD[1615] = {}
+	DIRTYWORD[1615]["ID"] = 1615
+	DIRTYWORD[1615]["KEY"] = "銚"
+	DIRTYWORD[1615]["real_idx"] = 1615
+
+DIRTYWORD["index"][1616] = 1616
+DIRTYWORD[1616] = {}
+	DIRTYWORD[1616]["ID"] = 1616
+	DIRTYWORD[1616]["KEY"] = "庭院警衛兵"
+	DIRTYWORD[1616]["real_idx"] = 1616
+
+DIRTYWORD["index"][1617] = 1617
+DIRTYWORD[1617] = {}
+	DIRTYWORD[1617]["ID"] = 1617
+	DIRTYWORD[1617]["KEY"] = "統獨"
+	DIRTYWORD[1617]["real_idx"] = 1617
+
+DIRTYWORD["index"][1618] = 1618
+DIRTYWORD[1618] = {}
+	DIRTYWORD[1618]["ID"] = 1618
+	DIRTYWORD[1618]["KEY"] = "統獨論壇"
+	DIRTYWORD[1618]["real_idx"] = 1618
+
+DIRTYWORD["index"][1619] = 1619
+DIRTYWORD[1619] = {}
+	DIRTYWORD[1619]["ID"] = 1619
+	DIRTYWORD[1619]["KEY"] = "統戰"
+	DIRTYWORD[1619]["real_idx"] = 1619
+
+DIRTYWORD["index"][1620] = 1620
+DIRTYWORD[1620] = {}
+	DIRTYWORD[1620]["ID"] = 1620
+	DIRTYWORD[1620]["KEY"] = "頭領奧馬"
+	DIRTYWORD[1620]["real_idx"] = 1620
+
+DIRTYWORD["index"][1621] = 1621
+DIRTYWORD[1621] = {}
+	DIRTYWORD[1621]["ID"] = 1621
+	DIRTYWORD[1621]["KEY"] = "頭領墳墓管理員"
+	DIRTYWORD[1621]["real_idx"] = 1621
+
+DIRTYWORD["index"][1622] = 1622
+DIRTYWORD[1622] = {}
+	DIRTYWORD[1622]["ID"] = 1622
+	DIRTYWORD[1622]["KEY"] = "圖書管理員卡特"
+	DIRTYWORD[1622]["real_idx"] = 1622
+
+DIRTYWORD["index"][1623] = 1623
+DIRTYWORD[1623] = {}
+	DIRTYWORD[1623]["ID"] = 1623
+	DIRTYWORD[1623]["KEY"] = "屠殺"
+	DIRTYWORD[1623]["real_idx"] = 1623
+
+DIRTYWORD["index"][1624] = 1624
+DIRTYWORD[1624] = {}
+	DIRTYWORD[1624]["ID"] = 1624
+	DIRTYWORD[1624]["KEY"] = "團長戈登"
+	DIRTYWORD[1624]["real_idx"] = 1624
+
+DIRTYWORD["index"][1625] = 1625
+DIRTYWORD[1625] = {}
+	DIRTYWORD[1625]["ID"] = 1625
+	DIRTYWORD[1625]["KEY"] = "團員馬爾汀"
+	DIRTYWORD[1625]["real_idx"] = 1625
+
+DIRTYWORD["index"][1626] = 1626
+DIRTYWORD[1626] = {}
+	DIRTYWORD[1626]["ID"] = 1626
+	DIRTYWORD[1626]["KEY"] = "摶"
+	DIRTYWORD[1626]["real_idx"] = 1626
+
+DIRTYWORD["index"][1627] = 1627
+DIRTYWORD[1627] = {}
+	DIRTYWORD[1627]["ID"] = 1627
+	DIRTYWORD[1627]["KEY"] = "鼉"
+	DIRTYWORD[1627]["real_idx"] = 1627
+
+DIRTYWORD["index"][1628] = 1628
+DIRTYWORD[1628] = {}
+	DIRTYWORD[1628]["ID"] = 1628
+	DIRTYWORD[1628]["KEY"] = "籜"
+	DIRTYWORD[1628]["real_idx"] = 1628
+
+DIRTYWORD["index"][1629] = 1629
+DIRTYWORD[1629] = {}
+	DIRTYWORD[1629]["ID"] = 1629
+	DIRTYWORD[1629]["KEY"] = "膃"
+	DIRTYWORD[1629]["real_idx"] = 1629
+
+DIRTYWORD["index"][1630] = 1630
+DIRTYWORD[1630] = {}
+	DIRTYWORD[1630]["ID"] = 1630
+	DIRTYWORD[1630]["KEY"] = "外交論壇"
+	DIRTYWORD[1630]["real_idx"] = 1630
+
+DIRTYWORD["index"][1631] = 1631
+DIRTYWORD[1631] = {}
+	DIRTYWORD[1631]["ID"] = 1631
+	DIRTYWORD[1631]["KEY"] = "外交與方略"
+	DIRTYWORD[1631]["real_idx"] = 1631
+
+DIRTYWORD["index"][1632] = 1632
+DIRTYWORD[1632] = {}
+	DIRTYWORD[1632]["ID"] = 1632
+	DIRTYWORD[1632]["KEY"] = "晚年周恩來"
+	DIRTYWORD[1632]["real_idx"] = 1632
+
+DIRTYWORD["index"][1633] = 1633
+DIRTYWORD[1633] = {}
+	DIRTYWORD[1633]["ID"] = 1633
+	DIRTYWORD[1633]["KEY"] = "綰"
+	DIRTYWORD[1633]["real_idx"] = 1633
+
+DIRTYWORD["index"][1634] = 1634
+DIRTYWORD[1634] = {}
+	DIRTYWORD[1634]["ID"] = 1634
+	DIRTYWORD[1634]["KEY"] = "萬里"
+	DIRTYWORD[1634]["real_idx"] = 1634
+
+DIRTYWORD["index"][1635] = 1635
+DIRTYWORD[1635] = {}
+	DIRTYWORD[1635]["ID"] = 1635
+	DIRTYWORD[1635]["KEY"] = "萬潤南"
+	DIRTYWORD[1635]["real_idx"] = 1635
+
+DIRTYWORD["index"][1636] = 1636
+DIRTYWORD[1636] = {}
+	DIRTYWORD[1636]["ID"] = 1636
+	DIRTYWORD[1636]["KEY"] = "萬維讀者論壇"
+	DIRTYWORD[1636]["real_idx"] = 1636
+
+DIRTYWORD["index"][1637] = 1637
+DIRTYWORD[1637] = {}
+	DIRTYWORD[1637]["ID"] = 1637
+	DIRTYWORD[1637]["KEY"] = "萬曉東"
+	DIRTYWORD[1637]["real_idx"] = 1637
+
+DIRTYWORD["index"][1638] = 1638
+DIRTYWORD[1638] = {}
+	DIRTYWORD[1638]["ID"] = 1638
+	DIRTYWORD[1638]["KEY"] = "王寶森"
+	DIRTYWORD[1638]["real_idx"] = 1638
+
+DIRTYWORD["index"][1639] = 1639
+DIRTYWORD[1639] = {}
+	DIRTYWORD[1639]["ID"] = 1639
+	DIRTYWORD[1639]["KEY"] = "王超華"
+	DIRTYWORD[1639]["real_idx"] = 1639
+
+DIRTYWORD["index"][1640] = 1640
+DIRTYWORD[1640] = {}
+	DIRTYWORD[1640]["ID"] = 1640
+	DIRTYWORD[1640]["KEY"] = "王輔臣"
+	DIRTYWORD[1640]["real_idx"] = 1640
+
+DIRTYWORD["index"][1641] = 1641
+DIRTYWORD[1641] = {}
+	DIRTYWORD[1641]["ID"] = 1641
+	DIRTYWORD[1641]["KEY"] = "王剛"
+	DIRTYWORD[1641]["real_idx"] = 1641
+
+DIRTYWORD["index"][1642] = 1642
+DIRTYWORD[1642] = {}
+	DIRTYWORD[1642]["ID"] = 1642
+	DIRTYWORD[1642]["KEY"] = "王涵萬"
+	DIRTYWORD[1642]["real_idx"] = 1642
+
+DIRTYWORD["index"][1643] = 1643
+DIRTYWORD[1643] = {}
+	DIRTYWORD[1643]["ID"] = 1643
+	DIRTYWORD[1643]["KEY"] = "王滬寧"
+	DIRTYWORD[1643]["real_idx"] = 1643
+
+DIRTYWORD["index"][1644] = 1644
+DIRTYWORD[1644] = {}
+	DIRTYWORD[1644]["ID"] = 1644
+	DIRTYWORD[1644]["KEY"] = "王軍濤"
+	DIRTYWORD[1644]["real_idx"] = 1644
+
+DIRTYWORD["index"][1645] = 1645
+DIRTYWORD[1645] = {}
+	DIRTYWORD[1645]["ID"] = 1645
+	DIRTYWORD[1645]["KEY"] = "王樂泉"
+	DIRTYWORD[1645]["real_idx"] = 1645
+
+DIRTYWORD["index"][1646] = 1646
+DIRTYWORD[1646] = {}
+	DIRTYWORD[1646]["ID"] = 1646
+	DIRTYWORD[1646]["KEY"] = "王潤生"
+	DIRTYWORD[1646]["real_idx"] = 1646
+
+DIRTYWORD["index"][1647] = 1647
+DIRTYWORD[1647] = {}
+	DIRTYWORD[1647]["ID"] = 1647
+	DIRTYWORD[1647]["KEY"] = "王世堅"
+	DIRTYWORD[1647]["real_idx"] = 1647
+
+DIRTYWORD["index"][1648] = 1648
+DIRTYWORD[1648] = {}
+	DIRTYWORD[1648]["ID"] = 1648
+	DIRTYWORD[1648]["KEY"] = "王世勛"
+	DIRTYWORD[1648]["real_idx"] = 1648
+
+DIRTYWORD["index"][1649] = 1649
+DIRTYWORD[1649] = {}
+	DIRTYWORD[1649]["ID"] = 1649
+	DIRTYWORD[1649]["KEY"] = "王秀麗"
+	DIRTYWORD[1649]["real_idx"] = 1649
+
+DIRTYWORD["index"][1650] = 1650
+DIRTYWORD[1650] = {}
+	DIRTYWORD[1650]["ID"] = 1650
+	DIRTYWORD[1650]["KEY"] = "王兆國"
+	DIRTYWORD[1650]["real_idx"] = 1650
+
+DIRTYWORD["index"][1651] = 1651
+DIRTYWORD[1651] = {}
+	DIRTYWORD[1651]["ID"] = 1651
+	DIRTYWORD[1651]["KEY"] = "網禪"
+	DIRTYWORD[1651]["real_idx"] = 1651
+
+DIRTYWORD["index"][1652] = 1652
+DIRTYWORD[1652] = {}
+	DIRTYWORD[1652]["ID"] = 1652
+	DIRTYWORD[1652]["KEY"] = "網特"
+	DIRTYWORD[1652]["real_idx"] = 1652
+
+DIRTYWORD["index"][1653] = 1653
+DIRTYWORD[1653] = {}
+	DIRTYWORD[1653]["ID"] = 1653
+	DIRTYWORD[1653]["KEY"] = "猥褻"
+	DIRTYWORD[1653]["real_idx"] = 1653
+
+DIRTYWORD["index"][1654] = 1654
+DIRTYWORD[1654] = {}
+	DIRTYWORD[1654]["ID"] = 1654
+	DIRTYWORD[1654]["KEY"] = "鮪"
+	DIRTYWORD[1654]["real_idx"] = 1654
+
+DIRTYWORD["index"][1655] = 1655
+DIRTYWORD[1655] = {}
+	DIRTYWORD[1655]["ID"] = 1655
+	DIRTYWORD[1655]["KEY"] = "溫B"
+	DIRTYWORD[1655]["real_idx"] = 1655
+
+DIRTYWORD["index"][1656] = 1656
+DIRTYWORD[1656] = {}
+	DIRTYWORD[1656]["ID"] = 1656
+	DIRTYWORD[1656]["KEY"] = "溫逼"
+	DIRTYWORD[1656]["real_idx"] = 1656
+
+DIRTYWORD["index"][1657] = 1657
+DIRTYWORD[1657] = {}
+	DIRTYWORD[1657]["ID"] = 1657
+	DIRTYWORD[1657]["KEY"] = "溫比"
+	DIRTYWORD[1657]["real_idx"] = 1657
+
+DIRTYWORD["index"][1658] = 1658
+DIRTYWORD[1658] = {}
+	DIRTYWORD[1658]["ID"] = 1658
+	DIRTYWORD[1658]["KEY"] = "溫家寶"
+	DIRTYWORD[1658]["real_idx"] = 1658
+
+DIRTYWORD["index"][1659] = 1659
+DIRTYWORD[1659] = {}
+	DIRTYWORD[1659]["ID"] = 1659
+	DIRTYWORD[1659]["KEY"] = "溫元凱"
+	DIRTYWORD[1659]["real_idx"] = 1659
+
+DIRTYWORD["index"][1660] = 1660
+DIRTYWORD[1660] = {}
+	DIRTYWORD[1660]["ID"] = 1660
+	DIRTYWORD[1660]["KEY"] = "閿"
+	DIRTYWORD[1660]["real_idx"] = 1660
+
+DIRTYWORD["index"][1661] = 1661
+DIRTYWORD[1661] = {}
+	DIRTYWORD[1661]["ID"] = 1661
+	DIRTYWORD[1661]["KEY"] = "無界瀏覽器"
+	DIRTYWORD[1661]["real_idx"] = 1661
+
+DIRTYWORD["index"][1662] = 1662
+DIRTYWORD[1662] = {}
+	DIRTYWORD[1662]["ID"] = 1662
+	DIRTYWORD[1662]["KEY"] = "吳百益"
+	DIRTYWORD[1662]["real_idx"] = 1662
+
+DIRTYWORD["index"][1663] = 1663
+DIRTYWORD[1663] = {}
+	DIRTYWORD[1663]["ID"] = 1663
+	DIRTYWORD[1663]["KEY"] = "吳敦義"
+	DIRTYWORD[1663]["real_idx"] = 1663
+
+DIRTYWORD["index"][1664] = 1664
+DIRTYWORD[1664] = {}
+	DIRTYWORD[1664]["ID"] = 1664
+	DIRTYWORD[1664]["KEY"] = "吳方城"
+	DIRTYWORD[1664]["real_idx"] = 1664
+
+DIRTYWORD["index"][1665] = 1665
+DIRTYWORD[1665] = {}
+	DIRTYWORD[1665]["ID"] = 1665
+	DIRTYWORD[1665]["KEY"] = "吳弘達"
+	DIRTYWORD[1665]["real_idx"] = 1665
+
+DIRTYWORD["index"][1666] = 1666
+DIRTYWORD[1666] = {}
+	DIRTYWORD[1666]["ID"] = 1666
+	DIRTYWORD[1666]["KEY"] = "吳宏達"
+	DIRTYWORD[1666]["real_idx"] = 1666
+
+DIRTYWORD["index"][1667] = 1667
+DIRTYWORD[1667] = {}
+	DIRTYWORD[1667]["ID"] = 1667
+	DIRTYWORD[1667]["KEY"] = "吳仁華"
+	DIRTYWORD[1667]["real_idx"] = 1667
+
+DIRTYWORD["index"][1668] = 1668
+DIRTYWORD[1668] = {}
+	DIRTYWORD[1668]["ID"] = 1668
+	DIRTYWORD[1668]["KEY"] = "吳淑珍"
+	DIRTYWORD[1668]["real_idx"] = 1668
+
+DIRTYWORD["index"][1669] = 1669
+DIRTYWORD[1669] = {}
+	DIRTYWORD[1669]["ID"] = 1669
+	DIRTYWORD[1669]["KEY"] = "吳學燦"
+	DIRTYWORD[1669]["real_idx"] = 1669
+
+DIRTYWORD["index"][1670] = 1670
+DIRTYWORD[1670] = {}
+	DIRTYWORD[1670]["ID"] = 1670
+	DIRTYWORD[1670]["KEY"] = "吳學璨"
+	DIRTYWORD[1670]["real_idx"] = 1670
+
+DIRTYWORD["index"][1671] = 1671
+DIRTYWORD[1671] = {}
+	DIRTYWORD[1671]["ID"] = 1671
+	DIRTYWORD[1671]["KEY"] = "吳育升"
+	DIRTYWORD[1671]["real_idx"] = 1671
+
+DIRTYWORD["index"][1672] = 1672
+DIRTYWORD[1672] = {}
+	DIRTYWORD[1672]["ID"] = 1672
+	DIRTYWORD[1672]["KEY"] = "吳志芳"
+	DIRTYWORD[1672]["real_idx"] = 1672
+
+DIRTYWORD["index"][1673] = 1673
+DIRTYWORD[1673] = {}
+	DIRTYWORD[1673]["ID"] = 1673
+	DIRTYWORD[1673]["KEY"] = "西藏獨"
+	DIRTYWORD[1673]["real_idx"] = 1673
+
+DIRTYWORD["index"][1674] = 1674
+DIRTYWORD[1674] = {}
+	DIRTYWORD[1674]["ID"] = 1674
+	DIRTYWORD[1674]["KEY"] = "吸收的圖騰"
+	DIRTYWORD[1674]["real_idx"] = 1674
+
+DIRTYWORD["index"][1675] = 1675
+DIRTYWORD[1675] = {}
+	DIRTYWORD[1675]["ID"] = 1675
+	DIRTYWORD[1675]["KEY"] = "吸血獸"
+	DIRTYWORD[1675]["real_idx"] = 1675
+
+DIRTYWORD["index"][1676] = 1676
+DIRTYWORD[1676] = {}
+	DIRTYWORD[1676]["ID"] = 1676
+	DIRTYWORD[1676]["KEY"] = "覡"
+	DIRTYWORD[1676]["real_idx"] = 1676
+
+DIRTYWORD["index"][1677] = 1677
+DIRTYWORD[1677] = {}
+	DIRTYWORD[1677]["ID"] = 1677
+	DIRTYWORD[1677]["KEY"] = "洗腦"
+	DIRTYWORD[1677]["real_idx"] = 1677
+
+DIRTYWORD["index"][1678] = 1678
+DIRTYWORD[1678] = {}
+	DIRTYWORD[1678]["ID"] = 1678
+	DIRTYWORD[1678]["KEY"] = "系統"
+	DIRTYWORD[1678]["real_idx"] = 1678
+
+DIRTYWORD["index"][1679] = 1679
+DIRTYWORD[1679] = {}
+	DIRTYWORD[1679]["ID"] = 1679
+	DIRTYWORD[1679]["KEY"] = "系統公告"
+	DIRTYWORD[1679]["real_idx"] = 1679
+
+DIRTYWORD["index"][1680] = 1680
+DIRTYWORD[1680] = {}
+	DIRTYWORD[1680]["ID"] = 1680
+	DIRTYWORD[1680]["KEY"] = "餼"
+	DIRTYWORD[1680]["real_idx"] = 1680
+
+DIRTYWORD["index"][1681] = 1681
+DIRTYWORD[1681] = {}
+	DIRTYWORD[1681]["ID"] = 1681
+	DIRTYWORD[1681]["KEY"] = "郤"
+	DIRTYWORD[1681]["real_idx"] = 1681
+
+DIRTYWORD["index"][1682] = 1682
+DIRTYWORD[1682] = {}
+	DIRTYWORD[1682]["ID"] = 1682
+	DIRTYWORD[1682]["KEY"] = "下賤"
+	DIRTYWORD[1682]["real_idx"] = 1682
+
+DIRTYWORD["index"][1683] = 1683
+DIRTYWORD[1683] = {}
+	DIRTYWORD[1683]["ID"] = 1683
+	DIRTYWORD[1683]["KEY"] = "下體"
+	DIRTYWORD[1683]["real_idx"] = 1683
+
+DIRTYWORD["index"][1684] = 1684
+DIRTYWORD[1684] = {}
+	DIRTYWORD[1684]["ID"] = 1684
+	DIRTYWORD[1684]["KEY"] = "薟"
+	DIRTYWORD[1684]["real_idx"] = 1684
+
+DIRTYWORD["index"][1685] = 1685
+DIRTYWORD[1685] = {}
+	DIRTYWORD[1685]["ID"] = 1685
+	DIRTYWORD[1685]["KEY"] = "躚"
+	DIRTYWORD[1685]["real_idx"] = 1685
+
+DIRTYWORD["index"][1686] = 1686
+DIRTYWORD[1686] = {}
+	DIRTYWORD[1686]["ID"] = 1686
+	DIRTYWORD[1686]["KEY"] = "鮮族"
+	DIRTYWORD[1686]["real_idx"] = 1686
+
+DIRTYWORD["index"][1687] = 1687
+DIRTYWORD[1687] = {}
+	DIRTYWORD[1687]["ID"] = 1687
+	DIRTYWORD[1687]["KEY"] = "獫"
+	DIRTYWORD[1687]["real_idx"] = 1687
+
+DIRTYWORD["index"][1688] = 1688
+DIRTYWORD[1688] = {}
+	DIRTYWORD[1688]["ID"] = 1688
+	DIRTYWORD[1688]["KEY"] = "蜆"
+	DIRTYWORD[1688]["real_idx"] = 1688
+
+DIRTYWORD["index"][1689] = 1689
+DIRTYWORD[1689] = {}
+	DIRTYWORD[1689]["ID"] = 1689
+	DIRTYWORD[1689]["KEY"] = "峴"
+	DIRTYWORD[1689]["real_idx"] = 1689
+
+DIRTYWORD["index"][1690] = 1690
+DIRTYWORD[1690] = {}
+	DIRTYWORD[1690]["ID"] = 1690
+	DIRTYWORD[1690]["KEY"] = "現金"
+	DIRTYWORD[1690]["real_idx"] = 1690
+
+DIRTYWORD["index"][1691] = 1691
+DIRTYWORD[1691] = {}
+	DIRTYWORD[1691]["ID"] = 1691
+	DIRTYWORD[1691]["KEY"] = "現金交易"
+	DIRTYWORD[1691]["real_idx"] = 1691
+
+DIRTYWORD["index"][1692] = 1692
+DIRTYWORD[1692] = {}
+	DIRTYWORD[1692]["ID"] = 1692
+	DIRTYWORD[1692]["KEY"] = "獻祭的圖騰"
+	DIRTYWORD[1692]["real_idx"] = 1692
+
+DIRTYWORD["index"][1693] = 1693
+DIRTYWORD[1693] = {}
+	DIRTYWORD[1693]["ID"] = 1693
+	DIRTYWORD[1693]["KEY"] = "鯗"
+	DIRTYWORD[1693]["real_idx"] = 1693
+
+DIRTYWORD["index"][1694] = 1694
+DIRTYWORD[1694] = {}
+	DIRTYWORD[1694]["ID"] = 1694
+	DIRTYWORD[1694]["KEY"] = "項懷誠"
+	DIRTYWORD[1694]["real_idx"] = 1694
+
+DIRTYWORD["index"][1695] = 1695
+DIRTYWORD[1695] = {}
+	DIRTYWORD[1695]["ID"] = 1695
+	DIRTYWORD[1695]["KEY"] = "項小吉"
+	DIRTYWORD[1695]["real_idx"] = 1695
+
+DIRTYWORD["index"][1696] = 1696
+DIRTYWORD[1696] = {}
+	DIRTYWORD[1696]["ID"] = 1696
+	DIRTYWORD[1696]["KEY"] = "嘵"
+	DIRTYWORD[1696]["real_idx"] = 1696
+
+DIRTYWORD["index"][1697] = 1697
+DIRTYWORD[1697] = {}
+	DIRTYWORD[1697]["ID"] = 1697
+	DIRTYWORD[1697]["KEY"] = "小B樣"
+	DIRTYWORD[1697]["real_idx"] = 1697
+
+DIRTYWORD["index"][1698] = 1698
+DIRTYWORD[1698] = {}
+	DIRTYWORD[1698]["ID"] = 1698
+	DIRTYWORD[1698]["KEY"] = "小比樣"
+	DIRTYWORD[1698]["real_idx"] = 1698
+
+DIRTYWORD["index"][1699] = 1699
+DIRTYWORD[1699] = {}
+	DIRTYWORD[1699]["ID"] = 1699
+	DIRTYWORD[1699]["KEY"] = "小參考"
+	DIRTYWORD[1699]["real_idx"] = 1699
+
+DIRTYWORD["index"][1700] = 1700
+DIRTYWORD[1700] = {}
+	DIRTYWORD[1700]["ID"] = 1700
+	DIRTYWORD[1700]["KEY"] = "小鶏鶏"
+	DIRTYWORD[1700]["real_idx"] = 1700
+
+DIRTYWORD["index"][1701] = 1701
+DIRTYWORD[1701] = {}
+	DIRTYWORD[1701]["ID"] = 1701
+	DIRTYWORD[1701]["KEY"] = "小靈通"
+	DIRTYWORD[1701]["real_idx"] = 1701
+
+DIRTYWORD["index"][1702] = 1702
+DIRTYWORD[1702] = {}
+	DIRTYWORD[1702]["ID"] = 1702
+	DIRTYWORD[1702]["KEY"] = "小泉純一郎"
+	DIRTYWORD[1702]["real_idx"] = 1702
+
+DIRTYWORD["index"][1703] = 1703
+DIRTYWORD[1703] = {}
+	DIRTYWORD[1703]["ID"] = 1703
+	DIRTYWORD[1703]["KEY"] = "謝長廷"
+	DIRTYWORD[1703]["real_idx"] = 1703
+
+DIRTYWORD["index"][1704] = 1704
+DIRTYWORD[1704] = {}
+	DIRTYWORD[1704]["ID"] = 1704
+	DIRTYWORD[1704]["KEY"] = "謝深山"
+	DIRTYWORD[1704]["real_idx"] = 1704
+
+DIRTYWORD["index"][1705] = 1705
+DIRTYWORD[1705] = {}
+	DIRTYWORD[1705]["ID"] = 1705
+	DIRTYWORD[1705]["KEY"] = "謝選駿"
+	DIRTYWORD[1705]["real_idx"] = 1705
+
+DIRTYWORD["index"][1706] = 1706
+DIRTYWORD[1706] = {}
+	DIRTYWORD[1706]["ID"] = 1706
+	DIRTYWORD[1706]["KEY"] = "謝中之"
+	DIRTYWORD[1706]["real_idx"] = 1706
+
+DIRTYWORD["index"][1707] = 1707
+DIRTYWORD[1707] = {}
+	DIRTYWORD[1707]["ID"] = 1707
+	DIRTYWORD[1707]["KEY"] = "辛灝年"
+	DIRTYWORD[1707]["real_idx"] = 1707
+
+DIRTYWORD["index"][1708] = 1708
+DIRTYWORD[1708] = {}
+	DIRTYWORD[1708]["ID"] = 1708
+	DIRTYWORD[1708]["KEY"] = "新觀察論壇"
+	DIRTYWORD[1708]["real_idx"] = 1708
+
+DIRTYWORD["index"][1709] = 1709
+DIRTYWORD[1709] = {}
+	DIRTYWORD[1709]["ID"] = 1709
+	DIRTYWORD[1709]["KEY"] = "新華舉報"
+	DIRTYWORD[1709]["real_idx"] = 1709
+
+DIRTYWORD["index"][1710] = 1710
+DIRTYWORD[1710] = {}
+	DIRTYWORD[1710]["ID"] = 1710
+	DIRTYWORD[1710]["KEY"] = "新華內情"
+	DIRTYWORD[1710]["real_idx"] = 1710
+
+DIRTYWORD["index"][1711] = 1711
+DIRTYWORD[1711] = {}
+	DIRTYWORD[1711]["ID"] = 1711
+	DIRTYWORD[1711]["KEY"] = "新華通論壇"
+	DIRTYWORD[1711]["real_idx"] = 1711
+
+DIRTYWORD["index"][1712] = 1712
+DIRTYWORD[1712] = {}
+	DIRTYWORD[1712]["ID"] = 1712
+	DIRTYWORD[1712]["KEY"] = "新疆獨"
+	DIRTYWORD[1712]["real_idx"] = 1712
+
+DIRTYWORD["index"][1713] = 1713
+DIRTYWORD[1713] = {}
+	DIRTYWORD[1713]["ID"] = 1713
+	DIRTYWORD[1713]["KEY"] = "新生網"
+	DIRTYWORD[1713]["real_idx"] = 1713
+
+DIRTYWORD["index"][1714] = 1714
+DIRTYWORD[1714] = {}
+	DIRTYWORD[1714]["ID"] = 1714
+	DIRTYWORD[1714]["KEY"] = "新手訓練營"
+	DIRTYWORD[1714]["real_idx"] = 1714
+
+DIRTYWORD["index"][1715] = 1715
+DIRTYWORD[1715] = {}
+	DIRTYWORD[1715]["ID"] = 1715
+	DIRTYWORD[1715]["KEY"] = "新聞出版總署"
+	DIRTYWORD[1715]["real_idx"] = 1715
+
+DIRTYWORD["index"][1716] = 1716
+DIRTYWORD[1716] = {}
+	DIRTYWORD[1716]["ID"] = 1716
+	DIRTYWORD[1716]["KEY"] = "新聞封鎖"
+	DIRTYWORD[1716]["real_idx"] = 1716
+
+DIRTYWORD["index"][1717] = 1717
+DIRTYWORD[1717] = {}
+	DIRTYWORD[1717]["ID"] = 1717
+	DIRTYWORD[1717]["KEY"] = "新義安"
+	DIRTYWORD[1717]["real_idx"] = 1717
+
+DIRTYWORD["index"][1718] = 1718
+DIRTYWORD[1718] = {}
+	DIRTYWORD[1718]["ID"] = 1718
+	DIRTYWORD[1718]["KEY"] = "新語絲"
+	DIRTYWORD[1718]["real_idx"] = 1718
+
+DIRTYWORD["index"][1719] = 1719
+DIRTYWORD[1719] = {}
+	DIRTYWORD[1719]["ID"] = 1719
+	DIRTYWORD[1719]["KEY"] = "信用危機"
+	DIRTYWORD[1719]["real_idx"] = 1719
+
+DIRTYWORD["index"][1720] = 1720
+DIRTYWORD[1720] = {}
+	DIRTYWORD[1720]["ID"] = 1720
+	DIRTYWORD[1720]["KEY"] = "邢錚"
+	DIRTYWORD[1720]["real_idx"] = 1720
+
+DIRTYWORD["index"][1721] = 1721
+DIRTYWORD[1721] = {}
+	DIRTYWORD[1721]["ID"] = 1721
+	DIRTYWORD[1721]["KEY"] = "性愛"
+	DIRTYWORD[1721]["real_idx"] = 1721
+
+DIRTYWORD["index"][1722] = 1722
+DIRTYWORD[1722] = {}
+	DIRTYWORD[1722]["ID"] = 1722
+	DIRTYWORD[1722]["KEY"] = "性無能"
+	DIRTYWORD[1722]["real_idx"] = 1722
+
+DIRTYWORD["index"][1723] = 1723
+DIRTYWORD[1723] = {}
+	DIRTYWORD[1723]["ID"] = 1723
+	DIRTYWORD[1723]["KEY"] = "修煉"
+	DIRTYWORD[1723]["real_idx"] = 1723
+
+DIRTYWORD["index"][1724] = 1724
+DIRTYWORD[1724] = {}
+	DIRTYWORD[1724]["ID"] = 1724
+	DIRTYWORD[1724]["KEY"] = "頊"
+	DIRTYWORD[1724]["real_idx"] = 1724
+
+DIRTYWORD["index"][1725] = 1725
+DIRTYWORD[1725] = {}
+	DIRTYWORD[1725]["ID"] = 1725
+	DIRTYWORD[1725]["KEY"] = "虛弱圖騰"
+	DIRTYWORD[1725]["real_idx"] = 1725
+
+DIRTYWORD["index"][1726] = 1726
+DIRTYWORD[1726] = {}
+	DIRTYWORD[1726]["ID"] = 1726
+	DIRTYWORD[1726]["KEY"] = "虛無的飽食者"
+	DIRTYWORD[1726]["real_idx"] = 1726
+
+DIRTYWORD["index"][1727] = 1727
+DIRTYWORD[1727] = {}
+	DIRTYWORD[1727]["ID"] = 1727
+	DIRTYWORD[1727]["KEY"] = "徐國舅"
+	DIRTYWORD[1727]["real_idx"] = 1727
+
+DIRTYWORD["index"][1728] = 1728
+DIRTYWORD[1728] = {}
+	DIRTYWORD[1728]["ID"] = 1728
+	DIRTYWORD[1728]["KEY"] = "許財利"
+	DIRTYWORD[1728]["real_idx"] = 1728
+
+DIRTYWORD["index"][1729] = 1729
+DIRTYWORD[1729] = {}
+	DIRTYWORD[1729]["ID"] = 1729
+	DIRTYWORD[1729]["KEY"] = "許家屯"
+	DIRTYWORD[1729]["real_idx"] = 1729
+
+DIRTYWORD["index"][1730] = 1730
+DIRTYWORD[1730] = {}
+	DIRTYWORD[1730]["ID"] = 1730
+	DIRTYWORD[1730]["KEY"] = "許信良"
+	DIRTYWORD[1730]["real_idx"] = 1730
+
+DIRTYWORD["index"][1731] = 1731
+DIRTYWORD[1731] = {}
+	DIRTYWORD[1731]["ID"] = 1731
+	DIRTYWORD[1731]["KEY"] = "諼"
+	DIRTYWORD[1731]["real_idx"] = 1731
+
+DIRTYWORD["index"][1732] = 1732
+DIRTYWORD[1732] = {}
+	DIRTYWORD[1732]["ID"] = 1732
+	DIRTYWORD[1732]["KEY"] = "薛偉"
+	DIRTYWORD[1732]["real_idx"] = 1732
+
+DIRTYWORD["index"][1733] = 1733
+DIRTYWORD[1733] = {}
+	DIRTYWORD[1733]["ID"] = 1733
+	DIRTYWORD[1733]["KEY"] = "學潮"
+	DIRTYWORD[1733]["real_idx"] = 1733
+
+DIRTYWORD["index"][1734] = 1734
+DIRTYWORD[1734] = {}
+	DIRTYWORD[1734]["ID"] = 1734
+	DIRTYWORD[1734]["KEY"] = "學聯"
+	DIRTYWORD[1734]["real_idx"] = 1734
+
+DIRTYWORD["index"][1735] = 1735
+DIRTYWORD[1735] = {}
+	DIRTYWORD[1735]["ID"] = 1735
+	DIRTYWORD[1735]["KEY"] = "學運"
+	DIRTYWORD[1735]["real_idx"] = 1735
+
+DIRTYWORD["index"][1736] = 1736
+DIRTYWORD[1736] = {}
+	DIRTYWORD[1736]["ID"] = 1736
+	DIRTYWORD[1736]["KEY"] = "學自聯"
+	DIRTYWORD[1736]["real_idx"] = 1736
+
+DIRTYWORD["index"][1737] = 1737
+DIRTYWORD[1737] = {}
+	DIRTYWORD[1737]["ID"] = 1737
+	DIRTYWORD[1737]["KEY"] = "澩"
+	DIRTYWORD[1737]["real_idx"] = 1737
+
+DIRTYWORD["index"][1738] = 1738
+DIRTYWORD[1738] = {}
+	DIRTYWORD[1738]["ID"] = 1738
+	DIRTYWORD[1738]["KEY"] = "閹狗"
+	DIRTYWORD[1738]["real_idx"] = 1738
+
+DIRTYWORD["index"][1739] = 1739
+DIRTYWORD[1739] = {}
+	DIRTYWORD[1739]["ID"] = 1739
+	DIRTYWORD[1739]["KEY"] = "訁"
+	DIRTYWORD[1739]["real_idx"] = 1739
+
+DIRTYWORD["index"][1740] = 1740
+DIRTYWORD[1740] = {}
+	DIRTYWORD[1740]["ID"] = 1740
+	DIRTYWORD[1740]["KEY"] = "嚴家其"
+	DIRTYWORD[1740]["real_idx"] = 1740
+
+DIRTYWORD["index"][1741] = 1741
+DIRTYWORD[1741] = {}
+	DIRTYWORD[1741]["ID"] = 1741
+	DIRTYWORD[1741]["KEY"] = "嚴家祺"
+	DIRTYWORD[1741]["real_idx"] = 1741
+
+DIRTYWORD["index"][1742] = 1742
+DIRTYWORD[1742] = {}
+	DIRTYWORD[1742]["ID"] = 1742
+	DIRTYWORD[1742]["KEY"] = "閻明複"
+	DIRTYWORD[1742]["real_idx"] = 1742
+
+DIRTYWORD["index"][1743] = 1743
+DIRTYWORD[1743] = {}
+	DIRTYWORD[1743]["ID"] = 1743
+	DIRTYWORD[1743]["KEY"] = "顔清標"
+	DIRTYWORD[1743]["real_idx"] = 1743
+
+DIRTYWORD["index"][1744] = 1744
+DIRTYWORD[1744] = {}
+	DIRTYWORD[1744]["ID"] = 1744
+	DIRTYWORD[1744]["KEY"] = "顔慶章"
+	DIRTYWORD[1744]["real_idx"] = 1744
+
+DIRTYWORD["index"][1745] = 1745
+DIRTYWORD[1745] = {}
+	DIRTYWORD[1745]["ID"] = 1745
+	DIRTYWORD[1745]["KEY"] = "顔射"
+	DIRTYWORD[1745]["real_idx"] = 1745
+
+DIRTYWORD["index"][1746] = 1746
+DIRTYWORD[1746] = {}
+	DIRTYWORD[1746]["ID"] = 1746
+	DIRTYWORD[1746]["KEY"] = "讞"
+	DIRTYWORD[1746]["real_idx"] = 1746
+
+DIRTYWORD["index"][1747] = 1747
+DIRTYWORD[1747] = {}
+	DIRTYWORD[1747]["ID"] = 1747
+	DIRTYWORD[1747]["KEY"] = "央視內部晚會"
+	DIRTYWORD[1747]["real_idx"] = 1747
+
+DIRTYWORD["index"][1748] = 1748
+DIRTYWORD[1748] = {}
+	DIRTYWORD[1748]["ID"] = 1748
+	DIRTYWORD[1748]["KEY"] = "陽具"
+	DIRTYWORD[1748]["real_idx"] = 1748
+
+DIRTYWORD["index"][1749] = 1749
+DIRTYWORD[1749] = {}
+	DIRTYWORD[1749]["ID"] = 1749
+	DIRTYWORD[1749]["KEY"] = "陽痿"
+	DIRTYWORD[1749]["real_idx"] = 1749
+
+DIRTYWORD["index"][1750] = 1750
+DIRTYWORD[1750] = {}
+	DIRTYWORD[1750]["ID"] = 1750
+	DIRTYWORD[1750]["KEY"] = "陽物"
+	DIRTYWORD[1750]["real_idx"] = 1750
+
+DIRTYWORD["index"][1751] = 1751
+DIRTYWORD[1751] = {}
+	DIRTYWORD[1751]["ID"] = 1751
+	DIRTYWORD[1751]["KEY"] = "楊懷安"
+	DIRTYWORD[1751]["real_idx"] = 1751
+
+DIRTYWORD["index"][1752] = 1752
+DIRTYWORD[1752] = {}
+	DIRTYWORD[1752]["ID"] = 1752
+	DIRTYWORD[1752]["KEY"] = "楊建利"
+	DIRTYWORD[1752]["real_idx"] = 1752
+
+DIRTYWORD["index"][1753] = 1753
+DIRTYWORD[1753] = {}
+	DIRTYWORD[1753]["ID"] = 1753
+	DIRTYWORD[1753]["KEY"] = "楊巍"
+	DIRTYWORD[1753]["real_idx"] = 1753
+
+DIRTYWORD["index"][1754] = 1754
+DIRTYWORD[1754] = {}
+	DIRTYWORD[1754]["ID"] = 1754
+	DIRTYWORD[1754]["KEY"] = "楊月清"
+	DIRTYWORD[1754]["real_idx"] = 1754
+
+DIRTYWORD["index"][1755] = 1755
+DIRTYWORD[1755] = {}
+	DIRTYWORD[1755]["ID"] = 1755
+	DIRTYWORD[1755]["KEY"] = "楊周"
+	DIRTYWORD[1755]["real_idx"] = 1755
+
+DIRTYWORD["index"][1756] = 1756
+DIRTYWORD[1756] = {}
+	DIRTYWORD[1756]["ID"] = 1756
+	DIRTYWORD[1756]["KEY"] = "姚羅"
+	DIRTYWORD[1756]["real_idx"] = 1756
+
+DIRTYWORD["index"][1757] = 1757
+DIRTYWORD[1757] = {}
+	DIRTYWORD[1757]["ID"] = 1757
+	DIRTYWORD[1757]["KEY"] = "姚月謙"
+	DIRTYWORD[1757]["real_idx"] = 1757
+
+DIRTYWORD["index"][1758] = 1758
+DIRTYWORD[1758] = {}
+	DIRTYWORD[1758]["ID"] = 1758
+	DIRTYWORD[1758]["KEY"] = "軺"
+	DIRTYWORD[1758]["real_idx"] = 1758
+
+DIRTYWORD["index"][1759] = 1759
+DIRTYWORD[1759] = {}
+	DIRTYWORD[1759]["ID"] = 1759
+	DIRTYWORD[1759]["KEY"] = "搖頭丸"
+	DIRTYWORD[1759]["real_idx"] = 1759
+
+DIRTYWORD["index"][1760] = 1760
+DIRTYWORD[1760] = {}
+	DIRTYWORD[1760]["ID"] = 1760
+	DIRTYWORD[1760]["KEY"] = "藥材商人蘇耐得"
+	DIRTYWORD[1760]["real_idx"] = 1760
+
+DIRTYWORD["index"][1761] = 1761
+DIRTYWORD[1761] = {}
+	DIRTYWORD[1761]["ID"] = 1761
+	DIRTYWORD[1761]["KEY"] = "藥水"
+	DIRTYWORD[1761]["real_idx"] = 1761
+
+DIRTYWORD["index"][1762] = 1762
+DIRTYWORD[1762] = {}
+	DIRTYWORD[1762]["ID"] = 1762
+	DIRTYWORD[1762]["KEY"] = "耶穌"
+	DIRTYWORD[1762]["real_idx"] = 1762
+
+DIRTYWORD["index"][1763] = 1763
+DIRTYWORD[1763] = {}
+	DIRTYWORD[1763]["ID"] = 1763
+	DIRTYWORD[1763]["KEY"] = "野鶏"
+	DIRTYWORD[1763]["real_idx"] = 1763
+
+DIRTYWORD["index"][1764] = 1764
+DIRTYWORD[1764] = {}
+	DIRTYWORD[1764]["ID"] = 1764
+	DIRTYWORD[1764]["KEY"] = "葉菊蘭"
+	DIRTYWORD[1764]["real_idx"] = 1764
+
+DIRTYWORD["index"][1765] = 1765
+DIRTYWORD[1765] = {}
+	DIRTYWORD[1765]["ID"] = 1765
+	DIRTYWORD[1765]["KEY"] = "夜話紫禁城"
+	DIRTYWORD[1765]["real_idx"] = 1765
+
+DIRTYWORD["index"][1766] = 1766
+DIRTYWORD[1766] = {}
+	DIRTYWORD[1766]["ID"] = 1766
+	DIRTYWORD[1766]["KEY"] = "一陀糞"
+	DIRTYWORD[1766]["real_idx"] = 1766
+
+DIRTYWORD["index"][1767] = 1767
+DIRTYWORD[1767] = {}
+	DIRTYWORD[1767]["ID"] = 1767
+	DIRTYWORD[1767]["KEY"] = "㈠"
+	DIRTYWORD[1767]["real_idx"] = 1767
+
+DIRTYWORD["index"][1768] = 1768
+DIRTYWORD[1768] = {}
+	DIRTYWORD[1768]["ID"] = 1768
+	DIRTYWORD[1768]["KEY"] = "伊莎貝爾"
+	DIRTYWORD[1768]["real_idx"] = 1768
+
+DIRTYWORD["index"][1769] = 1769
+DIRTYWORD[1769] = {}
+	DIRTYWORD[1769]["ID"] = 1769
+	DIRTYWORD[1769]["KEY"] = "伊斯蘭"
+	DIRTYWORD[1769]["real_idx"] = 1769
+
+DIRTYWORD["index"][1770] = 1770
+DIRTYWORD[1770] = {}
+	DIRTYWORD[1770]["ID"] = 1770
+	DIRTYWORD[1770]["KEY"] = "伊斯蘭亞格林尼斯"
+	DIRTYWORD[1770]["real_idx"] = 1770
+
+DIRTYWORD["index"][1771] = 1771
+DIRTYWORD[1771] = {}
+	DIRTYWORD[1771]["ID"] = 1771
+	DIRTYWORD[1771]["KEY"] = "遺精"
+	DIRTYWORD[1771]["real_idx"] = 1771
+
+DIRTYWORD["index"][1772] = 1772
+DIRTYWORD[1772] = {}
+	DIRTYWORD[1772]["ID"] = 1772
+	DIRTYWORD[1772]["KEY"] = "議長阿茵斯塔"
+	DIRTYWORD[1772]["real_idx"] = 1772
+
+DIRTYWORD["index"][1773] = 1773
+DIRTYWORD[1773] = {}
+	DIRTYWORD[1773]["ID"] = 1773
+	DIRTYWORD[1773]["KEY"] = "議員斯格文德"
+	DIRTYWORD[1773]["real_idx"] = 1773
+
+DIRTYWORD["index"][1774] = 1774
+DIRTYWORD[1774] = {}
+	DIRTYWORD[1774]["ID"] = 1774
+	DIRTYWORD[1774]["KEY"] = "异見人士"
+	DIRTYWORD[1774]["real_idx"] = 1774
+
+DIRTYWORD["index"][1775] = 1775
+DIRTYWORD[1775] = {}
+	DIRTYWORD[1775]["ID"] = 1775
+	DIRTYWORD[1775]["KEY"] = "异型叛軍"
+	DIRTYWORD[1775]["real_idx"] = 1775
+
+DIRTYWORD["index"][1776] = 1776
+DIRTYWORD[1776] = {}
+	DIRTYWORD[1776]["ID"] = 1776
+	DIRTYWORD[1776]["KEY"] = "异議人士"
+	DIRTYWORD[1776]["real_idx"] = 1776
+
+DIRTYWORD["index"][1777] = 1777
+DIRTYWORD[1777] = {}
+	DIRTYWORD[1777]["ID"] = 1777
+	DIRTYWORD[1777]["KEY"] = "易丹軒"
+	DIRTYWORD[1777]["real_idx"] = 1777
+
+DIRTYWORD["index"][1778] = 1778
+DIRTYWORD[1778] = {}
+	DIRTYWORD[1778]["ID"] = 1778
+	DIRTYWORD[1778]["KEY"] = "意志不堅的圖騰"
+	DIRTYWORD[1778]["real_idx"] = 1778
+
+DIRTYWORD["index"][1779] = 1779
+DIRTYWORD[1779] = {}
+	DIRTYWORD[1779]["ID"] = 1779
+	DIRTYWORD[1779]["KEY"] = "瘞"
+	DIRTYWORD[1779]["real_idx"] = 1779
+
+DIRTYWORD["index"][1780] = 1780
+DIRTYWORD[1780] = {}
+	DIRTYWORD[1780]["ID"] = 1780
+	DIRTYWORD[1780]["KEY"] = "陰部"
+	DIRTYWORD[1780]["real_idx"] = 1780
+
+DIRTYWORD["index"][1781] = 1781
+DIRTYWORD[1781] = {}
+	DIRTYWORD[1781]["ID"] = 1781
+	DIRTYWORD[1781]["KEY"] = "陰唇"
+	DIRTYWORD[1781]["real_idx"] = 1781
+
+DIRTYWORD["index"][1782] = 1782
+DIRTYWORD[1782] = {}
+	DIRTYWORD[1782]["ID"] = 1782
+	DIRTYWORD[1782]["KEY"] = "陰道"
+	DIRTYWORD[1782]["real_idx"] = 1782
+
+DIRTYWORD["index"][1783] = 1783
+DIRTYWORD[1783] = {}
+	DIRTYWORD[1783]["ID"] = 1783
+	DIRTYWORD[1783]["KEY"] = "陰蒂"
+	DIRTYWORD[1783]["real_idx"] = 1783
+
+DIRTYWORD["index"][1784] = 1784
+DIRTYWORD[1784] = {}
+	DIRTYWORD[1784]["ID"] = 1784
+	DIRTYWORD[1784]["KEY"] = "陰戶"
+	DIRTYWORD[1784]["real_idx"] = 1784
+
+DIRTYWORD["index"][1785] = 1785
+DIRTYWORD[1785] = {}
+	DIRTYWORD[1785]["ID"] = 1785
+	DIRTYWORD[1785]["KEY"] = "陰莖"
+	DIRTYWORD[1785]["real_idx"] = 1785
+
+DIRTYWORD["index"][1786] = 1786
+DIRTYWORD[1786] = {}
+	DIRTYWORD[1786]["ID"] = 1786
+	DIRTYWORD[1786]["KEY"] = "陰精"
+	DIRTYWORD[1786]["real_idx"] = 1786
+
+DIRTYWORD["index"][1787] = 1787
+DIRTYWORD[1787] = {}
+	DIRTYWORD[1787]["ID"] = 1787
+	DIRTYWORD[1787]["KEY"] = "陰毛"
+	DIRTYWORD[1787]["real_idx"] = 1787
+
+DIRTYWORD["index"][1788] = 1788
+DIRTYWORD[1788] = {}
+	DIRTYWORD[1788]["ID"] = 1788
+	DIRTYWORD[1788]["KEY"] = "陰門"
+	DIRTYWORD[1788]["real_idx"] = 1788
+
+DIRTYWORD["index"][1789] = 1789
+DIRTYWORD[1789] = {}
+	DIRTYWORD[1789]["ID"] = 1789
+	DIRTYWORD[1789]["KEY"] = "陰囊"
+	DIRTYWORD[1789]["real_idx"] = 1789
+
+DIRTYWORD["index"][1790] = 1790
+DIRTYWORD[1790] = {}
+	DIRTYWORD[1790]["ID"] = 1790
+	DIRTYWORD[1790]["KEY"] = "陰水"
+	DIRTYWORD[1790]["real_idx"] = 1790
+
+DIRTYWORD["index"][1791] = 1791
+DIRTYWORD[1791] = {}
+	DIRTYWORD[1791]["ID"] = 1791
+	DIRTYWORD[1791]["KEY"] = "淫蕩"
+	DIRTYWORD[1791]["real_idx"] = 1791
+
+DIRTYWORD["index"][1792] = 1792
+DIRTYWORD[1792] = {}
+	DIRTYWORD[1792]["ID"] = 1792
+	DIRTYWORD[1792]["KEY"] = "淫穢"
+	DIRTYWORD[1792]["real_idx"] = 1792
+
+DIRTYWORD["index"][1793] = 1793
+DIRTYWORD[1793] = {}
+	DIRTYWORD[1793]["ID"] = 1793
+	DIRTYWORD[1793]["KEY"] = "淫貨"
+	DIRTYWORD[1793]["real_idx"] = 1793
+
+DIRTYWORD["index"][1794] = 1794
+DIRTYWORD[1794] = {}
+	DIRTYWORD[1794]["ID"] = 1794
+	DIRTYWORD[1794]["KEY"] = "淫賤"
+	DIRTYWORD[1794]["real_idx"] = 1794
+
+DIRTYWORD["index"][1795] = 1795
+DIRTYWORD[1795] = {}
+	DIRTYWORD[1795]["ID"] = 1795
+	DIRTYWORD[1795]["KEY"] = "尹慶民"
+	DIRTYWORD[1795]["real_idx"] = 1795
+
+DIRTYWORD["index"][1796] = 1796
+DIRTYWORD[1796] = {}
+	DIRTYWORD[1796]["ID"] = 1796
+	DIRTYWORD[1796]["KEY"] = "引導"
+	DIRTYWORD[1796]["real_idx"] = 1796
+
+DIRTYWORD["index"][1797] = 1797
+DIRTYWORD[1797] = {}
+	DIRTYWORD[1797]["ID"] = 1797
+	DIRTYWORD[1797]["KEY"] = "隱者之路"
+	DIRTYWORD[1797]["real_idx"] = 1797
+
+DIRTYWORD["index"][1798] = 1798
+DIRTYWORD[1798] = {}
+	DIRTYWORD[1798]["ID"] = 1798
+	DIRTYWORD[1798]["KEY"] = "鷹眼派氏族"
+	DIRTYWORD[1798]["real_idx"] = 1798
+
+DIRTYWORD["index"][1799] = 1799
+DIRTYWORD[1799] = {}
+	DIRTYWORD[1799]["ID"] = 1799
+	DIRTYWORD[1799]["KEY"] = "硬直圖騰"
+	DIRTYWORD[1799]["real_idx"] = 1799
+
+DIRTYWORD["index"][1800] = 1800
+DIRTYWORD[1800] = {}
+	DIRTYWORD[1800]["ID"] = 1800
+	DIRTYWORD[1800]["KEY"] = "憂鬱的艾拉"
+	DIRTYWORD[1800]["real_idx"] = 1800
+
+DIRTYWORD["index"][1801] = 1801
+DIRTYWORD[1801] = {}
+	DIRTYWORD[1801]["ID"] = 1801
+	DIRTYWORD[1801]["KEY"] = "尤比亞"
+	DIRTYWORD[1801]["real_idx"] = 1801
+
+DIRTYWORD["index"][1802] = 1802
+DIRTYWORD[1802] = {}
+	DIRTYWORD[1802]["ID"] = 1802
+	DIRTYWORD[1802]["KEY"] = "由喜貴"
+	DIRTYWORD[1802]["real_idx"] = 1802
+
+DIRTYWORD["index"][1803] = 1803
+DIRTYWORD[1803] = {}
+	DIRTYWORD[1803]["ID"] = 1803
+	DIRTYWORD[1803]["KEY"] = "游蕩的僵尸"
+	DIRTYWORD[1803]["real_idx"] = 1803
+
+DIRTYWORD["index"][1804] = 1804
+DIRTYWORD[1804] = {}
+	DIRTYWORD[1804]["ID"] = 1804
+	DIRTYWORD[1804]["KEY"] = "游蕩的士兵"
+	DIRTYWORD[1804]["real_idx"] = 1804
+
+DIRTYWORD["index"][1805] = 1805
+DIRTYWORD[1805] = {}
+	DIRTYWORD[1805]["ID"] = 1805
+	DIRTYWORD[1805]["KEY"] = "游蕩爪牙"
+	DIRTYWORD[1805]["real_idx"] = 1805
+
+DIRTYWORD["index"][1806] = 1806
+DIRTYWORD[1806] = {}
+	DIRTYWORD[1806]["ID"] = 1806
+	DIRTYWORD[1806]["KEY"] = "游錫坤"
+	DIRTYWORD[1806]["real_idx"] = 1806
+
+DIRTYWORD["index"][1807] = 1807
+DIRTYWORD[1807] = {}
+	DIRTYWORD[1807]["ID"] = 1807
+	DIRTYWORD[1807]["KEY"] = "游戲管理員"
+	DIRTYWORD[1807]["real_idx"] = 1807
+
+DIRTYWORD["index"][1808] = 1808
+DIRTYWORD[1808] = {}
+	DIRTYWORD[1808]["ID"] = 1808
+	DIRTYWORD[1808]["KEY"] = "友好的魯德"
+	DIRTYWORD[1808]["real_idx"] = 1808
+
+DIRTYWORD["index"][1809] = 1809
+DIRTYWORD[1809] = {}
+	DIRTYWORD[1809]["ID"] = 1809
+	DIRTYWORD[1809]["KEY"] = "幼齒"
+	DIRTYWORD[1809]["real_idx"] = 1809
+
+DIRTYWORD["index"][1810] = 1810
+DIRTYWORD[1810] = {}
+	DIRTYWORD[1810]["ID"] = 1810
+	DIRTYWORD[1810]["KEY"] = "幼龍"
+	DIRTYWORD[1810]["real_idx"] = 1810
+
+DIRTYWORD["index"][1811] = 1811
+DIRTYWORD[1811] = {}
+	DIRTYWORD[1811]["ID"] = 1811
+	DIRTYWORD[1811]["KEY"] = "于幼軍"
+	DIRTYWORD[1811]["real_idx"] = 1811
+
+DIRTYWORD["index"][1812] = 1812
+DIRTYWORD[1812] = {}
+	DIRTYWORD[1812]["ID"] = 1812
+	DIRTYWORD[1812]["KEY"] = "余英時"
+	DIRTYWORD[1812]["real_idx"] = 1812
+
+DIRTYWORD["index"][1813] = 1813
+DIRTYWORD[1813] = {}
+	DIRTYWORD[1813]["ID"] = 1813
+	DIRTYWORD[1813]["KEY"] = "漁夫菲斯曼"
+	DIRTYWORD[1813]["real_idx"] = 1813
+
+DIRTYWORD["index"][1814] = 1814
+DIRTYWORD[1814] = {}
+	DIRTYWORD[1814]["ID"] = 1814
+	DIRTYWORD[1814]["KEY"] = "輿論"
+	DIRTYWORD[1814]["real_idx"] = 1814
+
+DIRTYWORD["index"][1815] = 1815
+DIRTYWORD[1815] = {}
+	DIRTYWORD[1815]["ID"] = 1815
+	DIRTYWORD[1815]["KEY"] = "輿論反制"
+	DIRTYWORD[1815]["real_idx"] = 1815
+
+DIRTYWORD["index"][1816] = 1816
+DIRTYWORD[1816] = {}
+	DIRTYWORD[1816]["ID"] = 1816
+	DIRTYWORD[1816]["KEY"] = "傴"
+	DIRTYWORD[1816]["real_idx"] = 1816
+
+DIRTYWORD["index"][1817] = 1817
+DIRTYWORD[1817] = {}
+	DIRTYWORD[1817]["ID"] = 1817
+	DIRTYWORD[1817]["KEY"] = "宇明網"
+	DIRTYWORD[1817]["real_idx"] = 1817
+
+DIRTYWORD["index"][1818] = 1818
+DIRTYWORD[1818] = {}
+	DIRTYWORD[1818]["ID"] = 1818
+	DIRTYWORD[1818]["KEY"] = "齬"
+	DIRTYWORD[1818]["real_idx"] = 1818
+
+DIRTYWORD["index"][1819] = 1819
+DIRTYWORD[1819] = {}
+	DIRTYWORD[1819]["ID"] = 1819
+	DIRTYWORD[1819]["KEY"] = "飫"
+	DIRTYWORD[1819]["real_idx"] = 1819
+
+DIRTYWORD["index"][1820] = 1820
+DIRTYWORD[1820] = {}
+	DIRTYWORD[1820]["ID"] = 1820
+	DIRTYWORD[1820]["KEY"] = "鵒"
+	DIRTYWORD[1820]["real_idx"] = 1820
+
+DIRTYWORD["index"][1821] = 1821
+DIRTYWORD[1821] = {}
+	DIRTYWORD[1821]["ID"] = 1821
+	DIRTYWORD[1821]["KEY"] = "元老蘭提(沃德）"
+	DIRTYWORD[1821]["real_idx"] = 1821
+
+DIRTYWORD["index"][1822] = 1822
+DIRTYWORD[1822] = {}
+	DIRTYWORD[1822]["ID"] = 1822
+	DIRTYWORD[1822]["KEY"] = "圓滿"
+	DIRTYWORD[1822]["real_idx"] = 1822
+
+DIRTYWORD["index"][1823] = 1823
+DIRTYWORD[1823] = {}
+	DIRTYWORD[1823]["ID"] = 1823
+	DIRTYWORD[1823]["KEY"] = "緣圈圈"
+	DIRTYWORD[1823]["real_idx"] = 1823
+
+DIRTYWORD["index"][1824] = 1824
+DIRTYWORD[1824] = {}
+	DIRTYWORD[1824]["ID"] = 1824
+	DIRTYWORD[1824]["KEY"] = "遠志明"
+	DIRTYWORD[1824]["real_idx"] = 1824
+
+DIRTYWORD["index"][1825] = 1825
+DIRTYWORD[1825] = {}
+	DIRTYWORD[1825]["ID"] = 1825
+	DIRTYWORD[1825]["KEY"] = "月經"
+	DIRTYWORD[1825]["real_idx"] = 1825
+
+DIRTYWORD["index"][1826] = 1826
+DIRTYWORD[1826] = {}
+	DIRTYWORD[1826]["ID"] = 1826
+	DIRTYWORD[1826]["KEY"] = "韞"
+	DIRTYWORD[1826]["real_idx"] = 1826
+
+DIRTYWORD["index"][1827] = 1827
+DIRTYWORD[1827] = {}
+	DIRTYWORD[1827]["ID"] = 1827
+	DIRTYWORD[1827]["KEY"] = "雜種"
+	DIRTYWORD[1827]["real_idx"] = 1827
+
+DIRTYWORD["index"][1828] = 1828
+DIRTYWORD[1828] = {}
+	DIRTYWORD[1828]["ID"] = 1828
+	DIRTYWORD[1828]["KEY"] = "鏨"
+	DIRTYWORD[1828]["real_idx"] = 1828
+
+DIRTYWORD["index"][1829] = 1829
+DIRTYWORD[1829] = {}
+	DIRTYWORD[1829]["ID"] = 1829
+	DIRTYWORD[1829]["KEY"] = "造愛"
+	DIRTYWORD[1829]["real_idx"] = 1829
+
+DIRTYWORD["index"][1830] = 1830
+DIRTYWORD[1830] = {}
+	DIRTYWORD[1830]["ID"] = 1830
+	DIRTYWORD[1830]["KEY"] = "則民"
+	DIRTYWORD[1830]["real_idx"] = 1830
+
+DIRTYWORD["index"][1831] = 1831
+DIRTYWORD[1831] = {}
+	DIRTYWORD[1831]["ID"] = 1831
+	DIRTYWORD[1831]["KEY"] = "擇民"
+	DIRTYWORD[1831]["real_idx"] = 1831
+
+DIRTYWORD["index"][1832] = 1832
+DIRTYWORD[1832] = {}
+	DIRTYWORD[1832]["ID"] = 1832
+	DIRTYWORD[1832]["KEY"] = "澤夫"
+	DIRTYWORD[1832]["real_idx"] = 1832
+
+DIRTYWORD["index"][1833] = 1833
+DIRTYWORD[1833] = {}
+	DIRTYWORD[1833]["ID"] = 1833
+	DIRTYWORD[1833]["KEY"] = "澤民"
+	DIRTYWORD[1833]["real_idx"] = 1833
+
+DIRTYWORD["index"][1834] = 1834
+DIRTYWORD[1834] = {}
+	DIRTYWORD[1834]["ID"] = 1834
+	DIRTYWORD[1834]["KEY"] = "賾"
+	DIRTYWORD[1834]["real_idx"] = 1834
+
+DIRTYWORD["index"][1835] = 1835
+DIRTYWORD[1835] = {}
+	DIRTYWORD[1835]["ID"] = 1835
+	DIRTYWORD[1835]["KEY"] = "賊民"
+	DIRTYWORD[1835]["real_idx"] = 1835
+
+DIRTYWORD["index"][1836] = 1836
+DIRTYWORD[1836] = {}
+	DIRTYWORD[1836]["ID"] = 1836
+	DIRTYWORD[1836]["KEY"] = "譖"
+	DIRTYWORD[1836]["real_idx"] = 1836
+
+DIRTYWORD["index"][1837] = 1837
+DIRTYWORD[1837] = {}
+	DIRTYWORD[1837]["ID"] = 1837
+	DIRTYWORD[1837]["KEY"] = "扎卡維是英雄"
+	DIRTYWORD[1837]["real_idx"] = 1837
+
+DIRTYWORD["index"][1838] = 1838
+DIRTYWORD[1838] = {}
+	DIRTYWORD[1838]["ID"] = 1838
+	DIRTYWORD[1838]["KEY"] = "驏"
+	DIRTYWORD[1838]["real_idx"] = 1838
+
+DIRTYWORD["index"][1839] = 1839
+DIRTYWORD[1839] = {}
+	DIRTYWORD[1839]["ID"] = 1839
+	DIRTYWORD[1839]["KEY"] = "張伯笠"
+	DIRTYWORD[1839]["real_idx"] = 1839
+
+DIRTYWORD["index"][1840] = 1840
+DIRTYWORD[1840] = {}
+	DIRTYWORD[1840]["ID"] = 1840
+	DIRTYWORD[1840]["KEY"] = "張博雅"
+	DIRTYWORD[1840]["real_idx"] = 1840
+
+DIRTYWORD["index"][1841] = 1841
+DIRTYWORD[1841] = {}
+	DIRTYWORD[1841]["ID"] = 1841
+	DIRTYWORD[1841]["KEY"] = "張鋼"
+	DIRTYWORD[1841]["real_idx"] = 1841
+
+DIRTYWORD["index"][1842] = 1842
+DIRTYWORD[1842] = {}
+	DIRTYWORD[1842]["ID"] = 1842
+	DIRTYWORD[1842]["KEY"] = "張健"
+	DIRTYWORD[1842]["real_idx"] = 1842
+
+DIRTYWORD["index"][1843] = 1843
+DIRTYWORD[1843] = {}
+	DIRTYWORD[1843]["ID"] = 1843
+	DIRTYWORD[1843]["KEY"] = "張林"
+	DIRTYWORD[1843]["real_idx"] = 1843
+
+DIRTYWORD["index"][1844] = 1844
+DIRTYWORD[1844] = {}
+	DIRTYWORD[1844]["ID"] = 1844
+	DIRTYWORD[1844]["KEY"] = "張清芳"
+	DIRTYWORD[1844]["real_idx"] = 1844
+
+DIRTYWORD["index"][1845] = 1845
+DIRTYWORD[1845] = {}
+	DIRTYWORD[1845]["ID"] = 1845
+	DIRTYWORD[1845]["KEY"] = "張偉國"
+	DIRTYWORD[1845]["real_idx"] = 1845
+
+DIRTYWORD["index"][1846] = 1846
+DIRTYWORD[1846] = {}
+	DIRTYWORD[1846]["ID"] = 1846
+	DIRTYWORD[1846]["KEY"] = "張溫鷹"
+	DIRTYWORD[1846]["real_idx"] = 1846
+
+DIRTYWORD["index"][1847] = 1847
+DIRTYWORD[1847] = {}
+	DIRTYWORD[1847]["ID"] = 1847
+	DIRTYWORD[1847]["KEY"] = "張昭富"
+	DIRTYWORD[1847]["real_idx"] = 1847
+
+DIRTYWORD["index"][1848] = 1848
+DIRTYWORD[1848] = {}
+	DIRTYWORD[1848]["ID"] = 1848
+	DIRTYWORD[1848]["KEY"] = "張志清"
+	DIRTYWORD[1848]["real_idx"] = 1848
+
+DIRTYWORD["index"][1849] = 1849
+DIRTYWORD[1849] = {}
+	DIRTYWORD[1849]["ID"] = 1849
+	DIRTYWORD[1849]["KEY"] = "章孝嚴"
+	DIRTYWORD[1849]["real_idx"] = 1849
+
+DIRTYWORD["index"][1850] = 1850
+DIRTYWORD[1850] = {}
+	DIRTYWORD[1850]["ID"] = 1850
+	DIRTYWORD[1850]["KEY"] = "帳號"
+	DIRTYWORD[1850]["real_idx"] = 1850
+
+DIRTYWORD["index"][1851] = 1851
+DIRTYWORD[1851] = {}
+	DIRTYWORD[1851]["ID"] = 1851
+	DIRTYWORD[1851]["KEY"] = "賬號"
+	DIRTYWORD[1851]["real_idx"] = 1851
+
+DIRTYWORD["index"][1852] = 1852
+DIRTYWORD[1852] = {}
+	DIRTYWORD[1852]["ID"] = 1852
+	DIRTYWORD[1852]["KEY"] = "招鶏"
+	DIRTYWORD[1852]["real_idx"] = 1852
+
+DIRTYWORD["index"][1853] = 1853
+DIRTYWORD[1853] = {}
+	DIRTYWORD[1853]["ID"] = 1853
+	DIRTYWORD[1853]["KEY"] = "趙海青"
+	DIRTYWORD[1853]["real_idx"] = 1853
+
+DIRTYWORD["index"][1854] = 1854
+DIRTYWORD[1854] = {}
+	DIRTYWORD[1854]["ID"] = 1854
+	DIRTYWORD[1854]["KEY"] = "趙建銘"
+	DIRTYWORD[1854]["real_idx"] = 1854
+
+DIRTYWORD["index"][1855] = 1855
+DIRTYWORD[1855] = {}
+	DIRTYWORD[1855]["ID"] = 1855
+	DIRTYWORD[1855]["KEY"] = "趙南"
+	DIRTYWORD[1855]["real_idx"] = 1855
+
+DIRTYWORD["index"][1856] = 1856
+DIRTYWORD[1856] = {}
+	DIRTYWORD[1856]["ID"] = 1856
+	DIRTYWORD[1856]["KEY"] = "趙品潞"
+	DIRTYWORD[1856]["real_idx"] = 1856
+
+DIRTYWORD["index"][1857] = 1857
+DIRTYWORD[1857] = {}
+	DIRTYWORD[1857]["ID"] = 1857
+	DIRTYWORD[1857]["KEY"] = "趙曉微"
+	DIRTYWORD[1857]["real_idx"] = 1857
+
+DIRTYWORD["index"][1858] = 1858
+DIRTYWORD[1858] = {}
+	DIRTYWORD[1858]["ID"] = 1858
+	DIRTYWORD[1858]["KEY"] = "趙紫陽"
+	DIRTYWORD[1858]["real_idx"] = 1858
+
+DIRTYWORD["index"][1859] = 1859
+DIRTYWORD[1859] = {}
+	DIRTYWORD[1859]["ID"] = 1859
+	DIRTYWORD[1859]["KEY"] = "貞操"
+	DIRTYWORD[1859]["real_idx"] = 1859
+
+DIRTYWORD["index"][1860] = 1860
+DIRTYWORD[1860] = {}
+	DIRTYWORD[1860]["ID"] = 1860
+	DIRTYWORD[1860]["KEY"] = "鎮壓"
+	DIRTYWORD[1860]["real_idx"] = 1860
+
+DIRTYWORD["index"][1861] = 1861
+DIRTYWORD[1861] = {}
+	DIRTYWORD[1861]["ID"] = 1861
+	DIRTYWORD[1861]["KEY"] = "爭鳴論壇"
+	DIRTYWORD[1861]["real_idx"] = 1861
+
+DIRTYWORD["index"][1862] = 1862
+DIRTYWORD[1862] = {}
+	DIRTYWORD[1862]["ID"] = 1862
+	DIRTYWORD[1862]["KEY"] = "正見網"
+	DIRTYWORD[1862]["real_idx"] = 1862
+
+DIRTYWORD["index"][1863] = 1863
+DIRTYWORD[1863] = {}
+	DIRTYWORD[1863]["ID"] = 1863
+	DIRTYWORD[1863]["KEY"] = "正義黨論壇"
+	DIRTYWORD[1863]["real_idx"] = 1863
+
+DIRTYWORD["index"][1864] = 1864
+DIRTYWORD[1864] = {}
+	DIRTYWORD[1864]["ID"] = 1864
+	DIRTYWORD[1864]["KEY"] = "㊣"
+	DIRTYWORD[1864]["real_idx"] = 1864
+
+DIRTYWORD["index"][1865] = 1865
+DIRTYWORD[1865] = {}
+	DIRTYWORD[1865]["ID"] = 1865
+	DIRTYWORD[1865]["KEY"] = "鄭寶清"
+	DIRTYWORD[1865]["real_idx"] = 1865
+
+DIRTYWORD["index"][1866] = 1866
+DIRTYWORD[1866] = {}
+	DIRTYWORD[1866]["ID"] = 1866
+	DIRTYWORD[1866]["KEY"] = "鄭麗文"
+	DIRTYWORD[1866]["real_idx"] = 1866
+
+DIRTYWORD["index"][1867] = 1867
+DIRTYWORD[1867] = {}
+	DIRTYWORD[1867]["ID"] = 1867
+	DIRTYWORD[1867]["KEY"] = "鄭義"
+	DIRTYWORD[1867]["real_idx"] = 1867
+
+DIRTYWORD["index"][1868] = 1868
+DIRTYWORD[1868] = {}
+	DIRTYWORD[1868]["ID"] = 1868
+	DIRTYWORD[1868]["KEY"] = "鄭餘鎮"
+	DIRTYWORD[1868]["real_idx"] = 1868
+
+DIRTYWORD["index"][1869] = 1869
+DIRTYWORD[1869] = {}
+	DIRTYWORD[1869]["ID"] = 1869
+	DIRTYWORD[1869]["KEY"] = "鄭源"
+	DIRTYWORD[1869]["real_idx"] = 1869
+
+DIRTYWORD["index"][1870] = 1870
+DIRTYWORD[1870] = {}
+	DIRTYWORD[1870]["ID"] = 1870
+	DIRTYWORD[1870]["KEY"] = "鄭運鵬"
+	DIRTYWORD[1870]["real_idx"] = 1870
+
+DIRTYWORD["index"][1871] = 1871
+DIRTYWORD[1871] = {}
+	DIRTYWORD[1871]["ID"] = 1871
+	DIRTYWORD[1871]["KEY"] = "政權"
+	DIRTYWORD[1871]["real_idx"] = 1871
+
+DIRTYWORD["index"][1872] = 1872
+DIRTYWORD[1872] = {}
+	DIRTYWORD[1872]["ID"] = 1872
+	DIRTYWORD[1872]["KEY"] = "政治反對派"
+	DIRTYWORD[1872]["real_idx"] = 1872
+
+DIRTYWORD["index"][1873] = 1873
+DIRTYWORD[1873] = {}
+	DIRTYWORD[1873]["ID"] = 1873
+	DIRTYWORD[1873]["KEY"] = "縶"
+	DIRTYWORD[1873]["real_idx"] = 1873
+
+DIRTYWORD["index"][1874] = 1874
+DIRTYWORD[1874] = {}
+	DIRTYWORD[1874]["ID"] = 1874
+	DIRTYWORD[1874]["KEY"] = "躑"
+	DIRTYWORD[1874]["real_idx"] = 1874
+
+DIRTYWORD["index"][1875] = 1875
+DIRTYWORD[1875] = {}
+	DIRTYWORD[1875]["ID"] = 1875
+	DIRTYWORD[1875]["KEY"] = "指點江山論壇"
+	DIRTYWORD[1875]["real_idx"] = 1875
+
+DIRTYWORD["index"][1876] = 1876
+DIRTYWORD[1876] = {}
+	DIRTYWORD[1876]["ID"] = 1876
+	DIRTYWORD[1876]["KEY"] = "騭"
+	DIRTYWORD[1876]["real_idx"] = 1876
+
+DIRTYWORD["index"][1877] = 1877
+DIRTYWORD[1877] = {}
+	DIRTYWORD[1877]["ID"] = 1877
+	DIRTYWORD[1877]["KEY"] = "觶"
+	DIRTYWORD[1877]["real_idx"] = 1877
+
+DIRTYWORD["index"][1878] = 1878
+DIRTYWORD[1878] = {}
+	DIRTYWORD[1878]["ID"] = 1878
+	DIRTYWORD[1878]["KEY"] = "躓"
+	DIRTYWORD[1878]["real_idx"] = 1878
+
+DIRTYWORD["index"][1879] = 1879
+DIRTYWORD[1879] = {}
+	DIRTYWORD[1879]["ID"] = 1879
+	DIRTYWORD[1879]["KEY"] = "中毒的圖騰"
+	DIRTYWORD[1879]["real_idx"] = 1879
+
+DIRTYWORD["index"][1880] = 1880
+DIRTYWORD[1880] = {}
+	DIRTYWORD[1880]["ID"] = 1880
+	DIRTYWORD[1880]["KEY"] = "中毒圖騰"
+	DIRTYWORD[1880]["real_idx"] = 1880
+
+DIRTYWORD["index"][1881] = 1881
+DIRTYWORD[1881] = {}
+	DIRTYWORD[1881]["ID"] = 1881
+	DIRTYWORD[1881]["KEY"] = "中俄邊界"
+	DIRTYWORD[1881]["real_idx"] = 1881
+
+DIRTYWORD["index"][1882] = 1882
+DIRTYWORD[1882] = {}
+	DIRTYWORD[1882]["ID"] = 1882
+	DIRTYWORD[1882]["KEY"] = "中國復興論壇"
+	DIRTYWORD[1882]["real_idx"] = 1882
+
+DIRTYWORD["index"][1883] = 1883
+DIRTYWORD[1883] = {}
+	DIRTYWORD[1883]["ID"] = 1883
+	DIRTYWORD[1883]["KEY"] = "中國共産黨"
+	DIRTYWORD[1883]["real_idx"] = 1883
+
+DIRTYWORD["index"][1884] = 1884
+DIRTYWORD[1884] = {}
+	DIRTYWORD[1884]["ID"] = 1884
+	DIRTYWORD[1884]["KEY"] = "中國孤兒院"
+	DIRTYWORD[1884]["real_idx"] = 1884
+
+DIRTYWORD["index"][1885] = 1885
+DIRTYWORD[1885] = {}
+	DIRTYWORD[1885]["ID"] = 1885
+	DIRTYWORD[1885]["KEY"] = "中國和平"
+	DIRTYWORD[1885]["real_idx"] = 1885
+
+DIRTYWORD["index"][1886] = 1886
+DIRTYWORD[1886] = {}
+	DIRTYWORD[1886]["ID"] = 1886
+	DIRTYWORD[1886]["KEY"] = "中國論壇"
+	DIRTYWORD[1886]["real_idx"] = 1886
+
+DIRTYWORD["index"][1887] = 1887
+DIRTYWORD[1887] = {}
+	DIRTYWORD[1887]["ID"] = 1887
+	DIRTYWORD[1887]["KEY"] = "中國社會進步黨"
+	DIRTYWORD[1887]["real_idx"] = 1887
+
+DIRTYWORD["index"][1888] = 1888
+DIRTYWORD[1888] = {}
+	DIRTYWORD[1888]["ID"] = 1888
+	DIRTYWORD[1888]["KEY"] = "中國社會論壇"
+	DIRTYWORD[1888]["real_idx"] = 1888
+
+DIRTYWORD["index"][1889] = 1889
+DIRTYWORD[1889] = {}
+	DIRTYWORD[1889]["ID"] = 1889
+	DIRTYWORD[1889]["KEY"] = "中國威脅論"
+	DIRTYWORD[1889]["real_idx"] = 1889
+
+DIRTYWORD["index"][1890] = 1890
+DIRTYWORD[1890] = {}
+	DIRTYWORD[1890]["ID"] = 1890
+	DIRTYWORD[1890]["KEY"] = "中國問題論壇"
+	DIRTYWORD[1890]["real_idx"] = 1890
+
+DIRTYWORD["index"][1891] = 1891
+DIRTYWORD[1891] = {}
+	DIRTYWORD[1891]["ID"] = 1891
+	DIRTYWORD[1891]["KEY"] = "中國移動通信"
+	DIRTYWORD[1891]["real_idx"] = 1891
+
+DIRTYWORD["index"][1892] = 1892
+DIRTYWORD[1892] = {}
+	DIRTYWORD[1892]["ID"] = 1892
+	DIRTYWORD[1892]["KEY"] = "中國真實內容"
+	DIRTYWORD[1892]["real_idx"] = 1892
+
+DIRTYWORD["index"][1893] = 1893
+DIRTYWORD[1893] = {}
+	DIRTYWORD[1893]["ID"] = 1893
+	DIRTYWORD[1893]["KEY"] = "中國之春"
+	DIRTYWORD[1893]["real_idx"] = 1893
+
+DIRTYWORD["index"][1894] = 1894
+DIRTYWORD[1894] = {}
+	DIRTYWORD[1894]["ID"] = 1894
+	DIRTYWORD[1894]["KEY"] = "中國猪"
+	DIRTYWORD[1894]["real_idx"] = 1894
+
+DIRTYWORD["index"][1895] = 1895
+DIRTYWORD[1895] = {}
+	DIRTYWORD[1895]["ID"] = 1895
+	DIRTYWORD[1895]["KEY"] = "中華大地"
+	DIRTYWORD[1895]["real_idx"] = 1895
+
+DIRTYWORD["index"][1896] = 1896
+DIRTYWORD[1896] = {}
+	DIRTYWORD[1896]["ID"] = 1896
+	DIRTYWORD[1896]["KEY"] = "中華大衆"
+	DIRTYWORD[1896]["real_idx"] = 1896
+
+DIRTYWORD["index"][1897] = 1897
+DIRTYWORD[1897] = {}
+	DIRTYWORD[1897]["ID"] = 1897
+	DIRTYWORD[1897]["KEY"] = "中華講清"
+	DIRTYWORD[1897]["real_idx"] = 1897
+
+DIRTYWORD["index"][1898] = 1898
+DIRTYWORD[1898] = {}
+	DIRTYWORD[1898]["ID"] = 1898
+	DIRTYWORD[1898]["KEY"] = "中華民國"
+	DIRTYWORD[1898]["real_idx"] = 1898
+
+DIRTYWORD["index"][1899] = 1899
+DIRTYWORD[1899] = {}
+	DIRTYWORD[1899]["ID"] = 1899
+	DIRTYWORD[1899]["KEY"] = "中華人民實話實說"
+	DIRTYWORD[1899]["real_idx"] = 1899
+
+DIRTYWORD["index"][1900] = 1900
+DIRTYWORD[1900] = {}
+	DIRTYWORD[1900]["ID"] = 1900
+	DIRTYWORD[1900]["KEY"] = "中華人民正邪"
+	DIRTYWORD[1900]["real_idx"] = 1900
+
+DIRTYWORD["index"][1901] = 1901
+DIRTYWORD[1901] = {}
+	DIRTYWORD[1901]["ID"] = 1901
+	DIRTYWORD[1901]["KEY"] = "中華時事"
+	DIRTYWORD[1901]["real_idx"] = 1901
+
+DIRTYWORD["index"][1902] = 1902
+DIRTYWORD[1902] = {}
+	DIRTYWORD[1902]["ID"] = 1902
+	DIRTYWORD[1902]["KEY"] = "中華養生益智功"
+	DIRTYWORD[1902]["real_idx"] = 1902
+
+DIRTYWORD["index"][1903] = 1903
+DIRTYWORD[1903] = {}
+	DIRTYWORD[1903]["ID"] = 1903
+	DIRTYWORD[1903]["KEY"] = "中華真實報道"
+	DIRTYWORD[1903]["real_idx"] = 1903
+
+DIRTYWORD["index"][1904] = 1904
+DIRTYWORD[1904] = {}
+	DIRTYWORD[1904]["ID"] = 1904
+	DIRTYWORD[1904]["KEY"] = "中央電視臺"
+	DIRTYWORD[1904]["real_idx"] = 1904
+
+DIRTYWORD["index"][1905] = 1905
+DIRTYWORD[1905] = {}
+	DIRTYWORD[1905]["ID"] = 1905
+	DIRTYWORD[1905]["KEY"] = "鐘山風雨論壇"
+	DIRTYWORD[1905]["real_idx"] = 1905
+
+DIRTYWORD["index"][1906] = 1906
+DIRTYWORD[1906] = {}
+	DIRTYWORD[1906]["ID"] = 1906
+	DIRTYWORD[1906]["KEY"] = "周鋒鎖"
+	DIRTYWORD[1906]["real_idx"] = 1906
+
+DIRTYWORD["index"][1907] = 1907
+DIRTYWORD[1907] = {}
+	DIRTYWORD[1907]["ID"] = 1907
+	DIRTYWORD[1907]["KEY"] = "周守訓 "
+	DIRTYWORD[1907]["real_idx"] = 1907
+
+DIRTYWORD["index"][1908] = 1908
+DIRTYWORD[1908] = {}
+	DIRTYWORD[1908]["ID"] = 1908
+	DIRTYWORD[1908]["KEY"] = "朱鳳芝"
+	DIRTYWORD[1908]["real_idx"] = 1908
+
+DIRTYWORD["index"][1909] = 1909
+DIRTYWORD[1909] = {}
+	DIRTYWORD[1909]["ID"] = 1909
+	DIRTYWORD[1909]["KEY"] = "朱立倫"
+	DIRTYWORD[1909]["real_idx"] = 1909
+
+DIRTYWORD["index"][1910] = 1910
+DIRTYWORD[1910] = {}
+	DIRTYWORD[1910]["ID"] = 1910
+	DIRTYWORD[1910]["KEY"] = "朱溶劑"
+	DIRTYWORD[1910]["real_idx"] = 1910
+
+DIRTYWORD["index"][1911] = 1911
+DIRTYWORD[1911] = {}
+	DIRTYWORD[1911]["ID"] = 1911
+	DIRTYWORD[1911]["KEY"] = "㈱"
+	DIRTYWORD[1911]["real_idx"] = 1911
+
+DIRTYWORD["index"][1912] = 1912
+DIRTYWORD[1912] = {}
+	DIRTYWORD[1912]["ID"] = 1912
+	DIRTYWORD[1912]["KEY"] = "猪聾畸"
+	DIRTYWORD[1912]["real_idx"] = 1912
+
+DIRTYWORD["index"][1913] = 1913
+DIRTYWORD[1913] = {}
+	DIRTYWORD[1913]["ID"] = 1913
+	DIRTYWORD[1913]["KEY"] = "主攻指揮官"
+	DIRTYWORD[1913]["real_idx"] = 1913
+
+DIRTYWORD["index"][1914] = 1914
+DIRTYWORD[1914] = {}
+	DIRTYWORD[1914]["ID"] = 1914
+	DIRTYWORD[1914]["KEY"] = "主義"
+	DIRTYWORD[1914]["real_idx"] = 1914
+
+DIRTYWORD["index"][1915] = 1915
+DIRTYWORD[1915] = {}
+	DIRTYWORD[1915]["ID"] = 1915
+	DIRTYWORD[1915]["KEY"] = "助手威爾特"
+	DIRTYWORD[1915]["real_idx"] = 1915
+
+DIRTYWORD["index"][1916] = 1916
+DIRTYWORD[1916] = {}
+	DIRTYWORD[1916]["ID"] = 1916
+	DIRTYWORD[1916]["KEY"] = "專制"
+	DIRTYWORD[1916]["real_idx"] = 1916
+
+DIRTYWORD["index"][1917] = 1917
+DIRTYWORD[1917] = {}
+	DIRTYWORD[1917]["ID"] = 1917
+	DIRTYWORD[1917]["KEY"] = "顓"
+	DIRTYWORD[1917]["real_idx"] = 1917
+
+DIRTYWORD["index"][1918] = 1918
+DIRTYWORD[1918] = {}
+	DIRTYWORD[1918]["ID"] = 1918
+	DIRTYWORD[1918]["KEY"] = "轉化"
+	DIRTYWORD[1918]["real_idx"] = 1918
+
+DIRTYWORD["index"][1919] = 1919
+DIRTYWORD[1919] = {}
+	DIRTYWORD[1919]["ID"] = 1919
+	DIRTYWORD[1919]["KEY"] = "諑"
+	DIRTYWORD[1919]["real_idx"] = 1919
+
+DIRTYWORD["index"][1920] = 1920
+DIRTYWORD[1920] = {}
+	DIRTYWORD[1920]["ID"] = 1920
+	DIRTYWORD[1920]["KEY"] = "資本主義"
+	DIRTYWORD[1920]["real_idx"] = 1920
+
+DIRTYWORD["index"][1921] = 1921
+DIRTYWORD[1921] = {}
+	DIRTYWORD[1921]["ID"] = 1921
+	DIRTYWORD[1921]["KEY"] = "鯔"
+	DIRTYWORD[1921]["real_idx"] = 1921
+
+DIRTYWORD["index"][1922] = 1922
+DIRTYWORD[1922] = {}
+	DIRTYWORD[1922]["ID"] = 1922
+	DIRTYWORD[1922]["KEY"] = "子宮"
+	DIRTYWORD[1922]["real_idx"] = 1922
+
+DIRTYWORD["index"][1923] = 1923
+DIRTYWORD[1923] = {}
+	DIRTYWORD[1923]["ID"] = 1923
+	DIRTYWORD[1923]["KEY"] = "自民黨"
+	DIRTYWORD[1923]["real_idx"] = 1923
+
+DIRTYWORD["index"][1924] = 1924
+DIRTYWORD[1924] = {}
+	DIRTYWORD[1924]["ID"] = 1924
+	DIRTYWORD[1924]["KEY"] = "自由民主論壇"
+	DIRTYWORD[1924]["real_idx"] = 1924
+
+DIRTYWORD["index"][1925] = 1925
+DIRTYWORD[1925] = {}
+	DIRTYWORD[1925]["ID"] = 1925
+	DIRTYWORD[1925]["KEY"] = "總理"
+	DIRTYWORD[1925]["real_idx"] = 1925
+
+DIRTYWORD["index"][1926] = 1926
+DIRTYWORD[1926] = {}
+	DIRTYWORD[1926]["ID"] = 1926
+	DIRTYWORD[1926]["KEY"] = "諏"
+	DIRTYWORD[1926]["real_idx"] = 1926
+
+DIRTYWORD["index"][1927] = 1927
+DIRTYWORD[1927] = {}
+	DIRTYWORD[1927]["ID"] = 1927
+	DIRTYWORD[1927]["KEY"] = "鯫 "
+	DIRTYWORD[1927]["real_idx"] = 1927
+
+DIRTYWORD["index"][1928] = 1928
+DIRTYWORD[1928] = {}
+	DIRTYWORD[1928]["ID"] = 1928
+	DIRTYWORD[1928]["KEY"] = "躦"
+	DIRTYWORD[1928]["real_idx"] = 1928
+
+DIRTYWORD["index"][1929] = 1929
+DIRTYWORD[1929] = {}
+	DIRTYWORD[1929]["ID"] = 1929
+	DIRTYWORD[1929]["KEY"] = "纘"
+	DIRTYWORD[1929]["real_idx"] = 1929
+
+DIRTYWORD["index"][1930] = 1930
+DIRTYWORD[1930] = {}
+	DIRTYWORD[1930]["ID"] = 1930
+	DIRTYWORD[1930]["KEY"] = "作愛"
+	DIRTYWORD[1930]["real_idx"] = 1930
+
+DIRTYWORD["index"][1931] = 1931
+DIRTYWORD[1931] = {}
+	DIRTYWORD[1931]["ID"] = 1931
+	DIRTYWORD[1931]["KEY"] = "做愛"
+	DIRTYWORD[1931]["real_idx"] = 1931
+
+DIRTYWORD["index"][1932] = 1932
+DIRTYWORD[1932] = {}
+	DIRTYWORD[1932]["ID"] = 1932
+	DIRTYWORD[1932]["KEY"] = "胡总书记，胡景涛"
+	DIRTYWORD[1932]["real_idx"] = 1932
+
+DIRTYWORD["index"][1933] = 1933
+DIRTYWORD[1933] = {}
+	DIRTYWORD[1933]["ID"] = 1933
+	DIRTYWORD[1933]["KEY"] = "大纪元"
+	DIRTYWORD[1933]["real_idx"] = 1933
+
+DIRTYWORD["index"][1934] = 1934
+DIRTYWORD[1934] = {}
+	DIRTYWORD[1934]["ID"] = 1934
+	DIRTYWORD[1934]["KEY"] = "大纪元新闻网"
+	DIRTYWORD[1934]["real_idx"] = 1934
+
+DIRTYWORD["index"][1935] = 1935
+DIRTYWORD[1935] = {}
+	DIRTYWORD[1935]["ID"] = 1935
+	DIRTYWORD[1935]["KEY"] = "燕玲论坛"
+	DIRTYWORD[1935]["real_idx"] = 1935
+
+DIRTYWORD["index"][1936] = 1936
+DIRTYWORD[1936] = {}
+	DIRTYWORD[1936]["ID"] = 1936
+	DIRTYWORD[1936]["KEY"] = "Kuck"
+	DIRTYWORD[1936]["real_idx"] = 1936
+
+DIRTYWORD["index"][1937] = 1937
+DIRTYWORD[1937] = {}
+	DIRTYWORD[1937]["ID"] = 1937
+	DIRTYWORD[1937]["KEY"] = "共产党"
+	DIRTYWORD[1937]["real_idx"] = 1937
+
+DIRTYWORD["index"][1938] = 1938
+DIRTYWORD[1938] = {}
+	DIRTYWORD[1938]["ID"] = 1938
+	DIRTYWORD[1938]["KEY"] = "urban"
+	DIRTYWORD[1938]["real_idx"] = 1938
+
+DIRTYWORD["index"][1939] = 1939
+DIRTYWORD[1939] = {}
+	DIRTYWORD[1939]["ID"] = 1939
+	DIRTYWORD[1939]["KEY"] = "我操"
+	DIRTYWORD[1939]["real_idx"] = 1939
+
+DIRTYWORD["index"][1940] = 1940
+DIRTYWORD[1940] = {}
+	DIRTYWORD[1940]["ID"] = 1940
+	DIRTYWORD[1940]["KEY"] = "cao"
+	DIRTYWORD[1940]["real_idx"] = 1940
+
+DIRTYWORD["index"][1941] = 1941
+DIRTYWORD[1941] = {}
+	DIRTYWORD[1941]["ID"] = 1941
+	DIRTYWORD[1941]["KEY"] = "他妈的"
+	DIRTYWORD[1941]["real_idx"] = 1941
+
+DIRTYWORD["index"][1942] = 1942
+DIRTYWORD[1942] = {}
+	DIRTYWORD[1942]["ID"] = 1942
+	DIRTYWORD[1942]["KEY"] = "TMD"
+	DIRTYWORD[1942]["real_idx"] = 1942
+
+DIRTYWORD["index"][1943] = 1943
+DIRTYWORD[1943] = {}
+	DIRTYWORD[1943]["ID"] = 1943
+	DIRTYWORD[1943]["KEY"] = "鸡巴"
+	DIRTYWORD[1943]["real_idx"] = 1943
+
+DIRTYWORD["index"][1944] = 1944
+DIRTYWORD[1944] = {}
+	DIRTYWORD[1944]["ID"] = 1944
+	DIRTYWORD[1944]["KEY"] = "煞笔"
+	DIRTYWORD[1944]["real_idx"] = 1944
+
+DIRTYWORD["index"][1945] = 1945
+DIRTYWORD[1945] = {}
+	DIRTYWORD[1945]["ID"] = 1945
+	DIRTYWORD[1945]["KEY"] = "傻B"
+	DIRTYWORD[1945]["real_idx"] = 1945
+
+DIRTYWORD["index"][1946] = 1946
+DIRTYWORD[1946] = {}
+	DIRTYWORD[1946]["ID"] = 1946
+	DIRTYWORD[1946]["KEY"] = "法轮功"
+	DIRTYWORD[1946]["real_idx"] = 1946
+
+DIRTYWORD["index"][1947] = 1947
+DIRTYWORD[1947] = {}
+	DIRTYWORD[1947]["ID"] = 1947
+	DIRTYWORD[1947]["KEY"] = "江泽民"
+	DIRTYWORD[1947]["real_idx"] = 1947
+
+DIRTYWORD["index"][1948] = 1948
+DIRTYWORD[1948] = {}
+	DIRTYWORD[1948]["ID"] = 1948
+	DIRTYWORD[1948]["KEY"] = "胡锦涛"
+	DIRTYWORD[1948]["real_idx"] = 1948
+
+DIRTYWORD["index"][1949] = 1949
+DIRTYWORD[1949] = {}
+	DIRTYWORD[1949]["ID"] = 1949
+	DIRTYWORD[1949]["KEY"] = "温家宝"
+	DIRTYWORD[1949]["real_idx"] = 1949
+
+DIRTYWORD["index"][1950] = 1950
+DIRTYWORD[1950] = {}
+	DIRTYWORD[1950]["ID"] = 1950
+	DIRTYWORD[1950]["KEY"] = "urban-rivals"
+	DIRTYWORD[1950]["real_idx"] = 1950
+
+DIRTYWORD["index"][1951] = 1951
+DIRTYWORD[1951] = {}
+	DIRTYWORD[1951]["ID"] = 1951
+	DIRTYWORD[1951]["KEY"] = "rivals"
+	DIRTYWORD[1951]["real_idx"] = 1951
+
+DIRTYWORD["index"][1952] = 1952
+DIRTYWORD[1952] = {}
+	DIRTYWORD[1952]["ID"] = 1952
+	DIRTYWORD[1952]["KEY"] = "我日"
+	DIRTYWORD[1952]["real_idx"] = 1952
+
+DIRTYWORD["index"][1953] = 1953
+DIRTYWORD[1953] = {}
+	DIRTYWORD[1953]["ID"] = 1953
+	DIRTYWORD[1953]["KEY"] = "UR"
+	DIRTYWORD[1953]["real_idx"] = 1953
+
+DIRTYWORD["index"][1954] = 1954
+DIRTYWORD[1954] = {}
+	DIRTYWORD[1954]["ID"] = 1954
+	DIRTYWORD[1954]["KEY"] = "ur"
+	DIRTYWORD[1954]["real_idx"] = 1954
+
+DIRTYWORD["index"][1955] = 1955
+DIRTYWORD[1955] = {}
+	DIRTYWORD[1955]["ID"] = 1955
+	DIRTYWORD[1955]["KEY"] = "性交"
+	DIRTYWORD[1955]["real_idx"] = 1955
+
+DIRTYWORD["index"][1956] = 1956
+DIRTYWORD[1956] = {}
+	DIRTYWORD[1956]["ID"] = 1956
+	DIRTYWORD[1956]["KEY"] = "口交"
+	DIRTYWORD[1956]["real_idx"] = 1956
+
+DIRTYWORD["index"][1957] = 1957
+DIRTYWORD[1957] = {}
+	DIRTYWORD[1957]["ID"] = 1957
+	DIRTYWORD[1957]["KEY"] = "婊子"
+	DIRTYWORD[1957]["real_idx"] = 1957
+
+DIRTYWORD["index"][1958] = 1958
+DIRTYWORD[1958] = {}
+	DIRTYWORD[1958]["ID"] = 1958
+	DIRTYWORD[1958]["KEY"] = "妓女"
+	DIRTYWORD[1958]["real_idx"] = 1958
+
+DIRTYWORD["index"][1959] = 1959
+DIRTYWORD[1959] = {}
+	DIRTYWORD[1959]["ID"] = 1959
+	DIRTYWORD[1959]["KEY"] = "她妈"
+	DIRTYWORD[1959]["real_idx"] = 1959
+
+DIRTYWORD["index"][1960] = 1960
+DIRTYWORD[1960] = {}
+	DIRTYWORD[1960]["ID"] = 1960
+	DIRTYWORD[1960]["KEY"] = "牛逼"
+	DIRTYWORD[1960]["real_idx"] = 1960
+
+DIRTYWORD["index"][1961] = 1961
+DIRTYWORD[1961] = {}
+	DIRTYWORD[1961]["ID"] = 1961
+	DIRTYWORD[1961]["KEY"] = "牛B，牛比"
+	DIRTYWORD[1961]["real_idx"] = 1961
+
+DIRTYWORD["index"][1962] = 1962
+DIRTYWORD[1962] = {}
+	DIRTYWORD[1962]["ID"] = 1962
+	DIRTYWORD[1962]["KEY"] = "煞笔"
+	DIRTYWORD[1962]["real_idx"] = 1962
+
+DIRTYWORD["index"][1963] = 1963
+DIRTYWORD[1963] = {}
+	DIRTYWORD[1963]["ID"] = 1963
+	DIRTYWORD[1963]["KEY"] = "傻逼"
+	DIRTYWORD[1963]["real_idx"] = 1963
+
+DIRTYWORD["index"][1964] = 1964
+DIRTYWORD[1964] = {}
+	DIRTYWORD[1964]["ID"] = 1964
+	DIRTYWORD[1964]["KEY"] = "傻B"
+	DIRTYWORD[1964]["real_idx"] = 1964
+
+DIRTYWORD["index"][1965] = 1965
+DIRTYWORD[1965] = {}
+	DIRTYWORD[1965]["ID"] = 1965
+	DIRTYWORD[1965]["KEY"] = "操你妈"
+	DIRTYWORD[1965]["real_idx"] = 1965
+
+DIRTYWORD["index"][1966] = 1966
+DIRTYWORD[1966] = {}
+	DIRTYWORD[1966]["ID"] = 1966
+	DIRTYWORD[1966]["KEY"] = "装逼"
+	DIRTYWORD[1966]["real_idx"] = 1966
+
+DIRTYWORD["index"][1967] = 1967
+DIRTYWORD[1967] = {}
+	DIRTYWORD[1967]["ID"] = 1967
+	DIRTYWORD[1967]["KEY"] = "装B"
+	DIRTYWORD[1967]["real_idx"] = 1967
+
+DIRTYWORD["index"][1968] = 1968
+DIRTYWORD[1968] = {}
+	DIRTYWORD[1968]["ID"] = 1968
+	DIRTYWORD[1968]["KEY"] = "日你妈"
+	DIRTYWORD[1968]["real_idx"] = 1968
+
+DIRTYWORD["index"][1969] = 1969
+DIRTYWORD[1969] = {}
+	DIRTYWORD[1969]["ID"] = 1969
+	DIRTYWORD[1969]["KEY"] = "不玩了"
+	DIRTYWORD[1969]["real_idx"] = 1969
+
+DIRTYWORD["index"][1970] = 1970
+DIRTYWORD[1970] = {}
+	DIRTYWORD[1970]["ID"] = 1970
+	DIRTYWORD[1970]["KEY"] = "删号"
+	DIRTYWORD[1970]["real_idx"] = 1970
+
+DIRTYWORD["index"][1971] = 1971
+DIRTYWORD[1971] = {}
+	DIRTYWORD[1971]["ID"] = 1971
+	DIRTYWORD[1971]["KEY"] = "卖号 "
+	DIRTYWORD[1971]["real_idx"] = 1971
+
+DIRTYWORD["index"][1972] = 1972
+DIRTYWORD[1972] = {}
+	DIRTYWORD[1972]["ID"] = 1972
+	DIRTYWORD[1972]["KEY"] = "删 号"
+	DIRTYWORD[1972]["real_idx"] = 1972
+
+DIRTYWORD["index"][1973] = 1973
+DIRTYWORD[1973] = {}
+	DIRTYWORD[1973]["ID"] = 1973
+	DIRTYWORD[1973]["KEY"] = "妈的"
+	DIRTYWORD[1973]["real_idx"] = 1973
+
+DIRTYWORD["index"][1974] = 1974
+DIRTYWORD[1974] = {}
+	DIRTYWORD[1974]["ID"] = 1974
+	DIRTYWORD[1974]["KEY"] = "妈逼"
+	DIRTYWORD[1974]["real_idx"] = 1974
+
+DIRTYWORD["index"][1975] = 1975
+DIRTYWORD[1975] = {}
+	DIRTYWORD[1975]["ID"] = 1975
+	DIRTYWORD[1975]["KEY"] = "草你妈"
+	DIRTYWORD[1975]["real_idx"] = 1975
+
+DIRTYWORD["index"][1976] = 1976
+DIRTYWORD[1976] = {}
+	DIRTYWORD[1976]["ID"] = 1976
+	DIRTYWORD[1976]["KEY"] = "T.M.D"
+	DIRTYWORD[1976]["real_idx"] = 1976
+
+DIRTYWORD["index"][1977] = 1977
+DIRTYWORD[1977] = {}
+	DIRTYWORD[1977]["ID"] = 1977
+	DIRTYWORD[1977]["KEY"] = "JB"
+	DIRTYWORD[1977]["real_idx"] = 1977
+
+DIRTYWORD["index"][1978] = 1978
+DIRTYWORD[1978] = {}
+	DIRTYWORD[1978]["ID"] = 1978
+	DIRTYWORD[1978]["KEY"] = "jb"
+	DIRTYWORD[1978]["real_idx"] = 1978
+
+DIRTYWORD["index"][1979] = 1979
+DIRTYWORD[1979] = {}
+	DIRTYWORD[1979]["ID"] = 1979
+	DIRTYWORD[1979]["KEY"] = "出售账号"
+	DIRTYWORD[1979]["real_idx"] = 1979
+
+DIRTYWORD["index"][1980] = 1980
+DIRTYWORD[1980] = {}
+	DIRTYWORD[1980]["ID"] = 1980
+	DIRTYWORD[1980]["KEY"] = "出售此号"
+	DIRTYWORD[1980]["real_idx"] = 1980
+
+DIRTYWORD["index"][1981] = 1981
+DIRTYWORD[1981] = {}
+	DIRTYWORD[1981]["ID"] = 1981
+	DIRTYWORD[1981]["KEY"] = "卖号"
+	DIRTYWORD[1981]["real_idx"] = 1981
+
+DIRTYWORD["index"][1982] = 1982
+DIRTYWORD[1982] = {}
+	DIRTYWORD[1982]["ID"] = 1982
+	DIRTYWORD[1982]["KEY"] = "U/R"
+	DIRTYWORD[1982]["real_idx"] = 1982
+
+DIRTYWORD["index"][1983] = 1983
+DIRTYWORD[1983] = {}
+	DIRTYWORD[1983]["ID"] = 1983
+	DIRTYWORD[1983]["KEY"] = "U-R"
+	DIRTYWORD[1983]["real_idx"] = 1983
+
+DIRTYWORD["index"][1984] = 1984
+DIRTYWORD[1984] = {}
+	DIRTYWORD[1984]["ID"] = 1984
+	DIRTYWORD[1984]["KEY"] = "j8"
+	DIRTYWORD[1984]["real_idx"] = 1984
+
+DIRTYWORD["index"][1985] = 1985
+DIRTYWORD[1985] = {}
+	DIRTYWORD[1985]["ID"] = 1985
+	DIRTYWORD[1985]["KEY"] = "吗的"
+	DIRTYWORD[1985]["real_idx"] = 1985
+
+DIRTYWORD["index"][1986] = 1986
+DIRTYWORD[1986] = {}
+	DIRTYWORD[1986]["ID"] = 1986
+	DIRTYWORD[1986]["KEY"] = "8仙"
+	DIRTYWORD[1986]["real_idx"] = 1986
+
+DIRTYWORD["index"][1987] = 1987
+DIRTYWORD[1987] = {}
+	DIRTYWORD[1987]["ID"] = 1987
+	DIRTYWORD[1987]["KEY"] = "狗日"
+	DIRTYWORD[1987]["real_idx"] = 1987
+
+DIRTYWORD["index"][1988] = 1988
+DIRTYWORD[1988] = {}
+	DIRTYWORD[1988]["ID"] = 1988
+	DIRTYWORD[1988]["KEY"] = "出售神符"
+	DIRTYWORD[1988]["real_idx"] = 1988
+
+DIRTYWORD["index"][1989] = 1989
+DIRTYWORD[1989] = {}
+	DIRTYWORD[1989]["ID"] = 1989
+	DIRTYWORD[1989]["KEY"] = "色情"
+	DIRTYWORD[1989]["real_idx"] = 1989
+
+DIRTYWORD["index"][1990] = 1990
+DIRTYWORD[1990] = {}
+	DIRTYWORD[1990]["ID"] = 1990
+	DIRTYWORD[1990]["KEY"] = "黄色"
+	DIRTYWORD[1990]["real_idx"] = 1990
+
+DIRTYWORD["index"][1991] = 1991
+DIRTYWORD[1991] = {}
+	DIRTYWORD[1991]["ID"] = 1991
+	DIRTYWORD[1991]["KEY"] = "藏独"
+	DIRTYWORD[1991]["real_idx"] = 1991
+
+DIRTYWORD["index"][1992] = 1992
+DIRTYWORD[1992] = {}
+	DIRTYWORD[1992]["ID"] = 1992
+	DIRTYWORD[1992]["KEY"] = "台独"
+	DIRTYWORD[1992]["real_idx"] = 1992
+
+DIRTYWORD["index"][1993] = 1993
+DIRTYWORD[1993] = {}
+	DIRTYWORD[1993]["ID"] = 1993
+	DIRTYWORD[1993]["KEY"] = "法轮大法"
+	DIRTYWORD[1993]["real_idx"] = 1993
+
+DIRTYWORD["index"][1994] = 1994
+DIRTYWORD[1994] = {}
+	DIRTYWORD[1994]["ID"] = 1994
+	DIRTYWORD[1994]["KEY"] = "鸡巴"
+	DIRTYWORD[1994]["real_idx"] = 1994
+
+DIRTYWORD["index"][1995] = 1995
+DIRTYWORD[1995] = {}
+	DIRTYWORD[1995]["ID"] = 1995
+	DIRTYWORD[1995]["KEY"] = "毛泽东"
+	DIRTYWORD[1995]["real_idx"] = 1995
+
+DIRTYWORD["index"][1996] = 1996
+DIRTYWORD[1996] = {}
+	DIRTYWORD[1996]["ID"] = 1996
+	DIRTYWORD[1996]["KEY"] = "NPC"
+	DIRTYWORD[1996]["real_idx"] = 1996
+
+DIRTYWORD["index"][1997] = 1997
+DIRTYWORD[1997] = {}
+	DIRTYWORD[1997]["ID"] = 1997
+	DIRTYWORD[1997]["KEY"] = "*法*轮*功*"
+	DIRTYWORD[1997]["real_idx"] = 1997
+
+DIRTYWORD["index"][1998] = 1998
+DIRTYWORD[1998] = {}
+	DIRTYWORD[1998]["ID"] = 1998
+	DIRTYWORD[1998]["KEY"] = "*李*洪*志*阿扁"
+	DIRTYWORD[1998]["real_idx"] = 1998
+
+DIRTYWORD["index"][1999] = 1999
+DIRTYWORD[1999] = {}
+	DIRTYWORD[1999]["ID"] = 1999
+	DIRTYWORD[1999]["KEY"] = "阿扁万岁"
+	DIRTYWORD[1999]["real_idx"] = 1999
+
+DIRTYWORD["index"][2000] = 2000
+DIRTYWORD[2000] = {}
+	DIRTYWORD[2000]["ID"] = 2000
+	DIRTYWORD[2000]["KEY"] = "阿拉"
+	DIRTYWORD[2000]["real_idx"] = 2000
+
+DIRTYWORD["index"][2001] = 2001
+DIRTYWORD[2001] = {}
+	DIRTYWORD[2001]["ID"] = 2001
+	DIRTYWORD[2001]["KEY"] = "阿拉法特"
+	DIRTYWORD[2001]["real_idx"] = 2001
+
+DIRTYWORD["index"][2002] = 2002
+DIRTYWORD[2002] = {}
+	DIRTYWORD[2002]["ID"] = 2002
+	DIRTYWORD[2002]["KEY"] = "挨球"
+	DIRTYWORD[2002]["real_idx"] = 2002
+
+DIRTYWORD["index"][2003] = 2003
+DIRTYWORD[2003] = {}
+	DIRTYWORD[2003]["ID"] = 2003
+	DIRTYWORD[2003]["KEY"] = "安南"
+	DIRTYWORD[2003]["real_idx"] = 2003
+
+DIRTYWORD["index"][2004] = 2004
+DIRTYWORD[2004] = {}
+	DIRTYWORD[2004]["ID"] = 2004
+	DIRTYWORD[2004]["KEY"] = "安全局"
+	DIRTYWORD[2004]["real_idx"] = 2004
+
+DIRTYWORD["index"][2005] = 2005
+DIRTYWORD[2005] = {}
+	DIRTYWORD[2005]["ID"] = 2005
+	DIRTYWORD[2005]["KEY"] = "澳洲光明网"
+	DIRTYWORD[2005]["real_idx"] = 2005
+
+DIRTYWORD["index"][2006] = 2006
+DIRTYWORD[2006] = {}
+	DIRTYWORD[2006]["ID"] = 2006
+	DIRTYWORD[2006]["KEY"] = "八九"
+	DIRTYWORD[2006]["real_idx"] = 2006
+
+DIRTYWORD["index"][2007] = 2007
+DIRTYWORD[2007] = {}
+	DIRTYWORD[2007]["ID"] = 2007
+	DIRTYWORD[2007]["KEY"] = "八九风波"
+	DIRTYWORD[2007]["real_idx"] = 2007
+
+DIRTYWORD["index"][2008] = 2008
+DIRTYWORD[2008] = {}
+	DIRTYWORD[2008]["ID"] = 2008
+	DIRTYWORD[2008]["KEY"] = "办理文凭"
+	DIRTYWORD[2008]["real_idx"] = 2008
+
+DIRTYWORD["index"][2009] = 2009
+DIRTYWORD[2009] = {}
+	DIRTYWORD[2009]["ID"] = 2009
+	DIRTYWORD[2009]["KEY"] = "办理证件"
+	DIRTYWORD[2009]["real_idx"] = 2009
+
+DIRTYWORD["index"][2010] = 2010
+DIRTYWORD[2010] = {}
+	DIRTYWORD[2010]["ID"] = 2010
+	DIRTYWORD[2010]["KEY"] = "包皮"
+	DIRTYWORD[2010]["real_idx"] = 2010
+
+DIRTYWORD["index"][2011] = 2011
+DIRTYWORD[2011] = {}
+	DIRTYWORD[2011]["ID"] = 2011
+	DIRTYWORD[2011]["KEY"] = "保钓"
+	DIRTYWORD[2011]["real_idx"] = 2011
+
+DIRTYWORD["index"][2012] = 2012
+DIRTYWORD[2012] = {}
+	DIRTYWORD[2012]["ID"] = 2012
+	DIRTYWORD[2012]["KEY"] = "保监会"
+	DIRTYWORD[2012]["real_idx"] = 2012
+
+DIRTYWORD["index"][2013] = 2013
+DIRTYWORD[2013] = {}
+	DIRTYWORD[2013]["ID"] = 2013
+	DIRTYWORD[2013]["KEY"] = "保密局"
+	DIRTYWORD[2013]["real_idx"] = 2013
+
+DIRTYWORD["index"][2014] = 2014
+DIRTYWORD[2014] = {}
+	DIRTYWORD[2014]["ID"] = 2014
+	DIRTYWORD[2014]["KEY"] = "鸨"
+	DIRTYWORD[2014]["real_idx"] = 2014
+
+DIRTYWORD["index"][2015] = 2015
+DIRTYWORD[2015] = {}
+	DIRTYWORD[2015]["ID"] = 2015
+	DIRTYWORD[2015]["KEY"] = "鲍岳桥"
+	DIRTYWORD[2015]["real_idx"] = 2015
+
+DIRTYWORD["index"][2016] = 2016
+DIRTYWORD[2016] = {}
+	DIRTYWORD[2016]["ID"] = 2016
+	DIRTYWORD[2016]["KEY"] = "暴动"
+	DIRTYWORD[2016]["real_idx"] = 2016
+
+DIRTYWORD["index"][2017] = 2017
+DIRTYWORD[2017] = {}
+	DIRTYWORD[2017]["ID"] = 2017
+	DIRTYWORD[2017]["KEY"] = "暴乱"
+	DIRTYWORD[2017]["real_idx"] = 2017
+
+DIRTYWORD["index"][2018] = 2018
+DIRTYWORD[2018] = {}
+	DIRTYWORD[2018]["ID"] = 2018
+	DIRTYWORD[2018]["KEY"] = "暴徒"
+	DIRTYWORD[2018]["real_idx"] = 2018
+
+DIRTYWORD["index"][2019] = 2019
+DIRTYWORD[2019] = {}
+	DIRTYWORD[2019]["ID"] = 2019
+	DIRTYWORD[2019]["KEY"] = "北京之春"
+	DIRTYWORD[2019]["real_idx"] = 2019
+
+DIRTYWORD["index"][2020] = 2020
+DIRTYWORD[2020] = {}
+	DIRTYWORD[2020]["ID"] = 2020
+	DIRTYWORD[2020]["KEY"] = "贝肉"
+	DIRTYWORD[2020]["real_idx"] = 2020
+
+DIRTYWORD["index"][2021] = 2021
+DIRTYWORD[2021] = {}
+	DIRTYWORD[2021]["ID"] = 2021
+	DIRTYWORD[2021]["KEY"] = "本?拉登"
+	DIRTYWORD[2021]["real_idx"] = 2021
+
+DIRTYWORD["index"][2022] = 2022
+DIRTYWORD[2022] = {}
+	DIRTYWORD[2022]["ID"] = 2022
+	DIRTYWORD[2022]["KEY"] = "本?拉登"
+	DIRTYWORD[2022]["real_idx"] = 2022
+
+DIRTYWORD["index"][2023] = 2023
+DIRTYWORD[2023] = {}
+	DIRTYWORD[2023]["ID"] = 2023
+	DIRTYWORD[2023]["KEY"] = "苯比"
+	DIRTYWORD[2023]["real_idx"] = 2023
+
+DIRTYWORD["index"][2024] = 2024
+DIRTYWORD[2024] = {}
+	DIRTYWORD[2024]["ID"] = 2024
+	DIRTYWORD[2024]["KEY"] = "笨屄"
+	DIRTYWORD[2024]["real_idx"] = 2024
+
+DIRTYWORD["index"][2025] = 2025
+DIRTYWORD[2025] = {}
+	DIRTYWORD[2025]["ID"] = 2025
+	DIRTYWORD[2025]["KEY"] = "笨逼"
+	DIRTYWORD[2025]["real_idx"] = 2025
+
+DIRTYWORD["index"][2026] = 2026
+DIRTYWORD[2026] = {}
+	DIRTYWORD[2026]["ID"] = 2026
+	DIRTYWORD[2026]["KEY"] = "屄"
+	DIRTYWORD[2026]["real_idx"] = 2026
+
+DIRTYWORD["index"][2027] = 2027
+DIRTYWORD[2027] = {}
+	DIRTYWORD[2027]["ID"] = 2027
+	DIRTYWORD[2027]["KEY"] = "屄毛"
+	DIRTYWORD[2027]["real_idx"] = 2027
+
+DIRTYWORD["index"][2028] = 2028
+DIRTYWORD[2028] = {}
+	DIRTYWORD[2028]["ID"] = 2028
+	DIRTYWORD[2028]["KEY"] = "逼毛"
+	DIRTYWORD[2028]["real_idx"] = 2028
+
+DIRTYWORD["index"][2029] = 2029
+DIRTYWORD[2029] = {}
+	DIRTYWORD[2029]["ID"] = 2029
+	DIRTYWORD[2029]["KEY"] = "逼你老母"
+	DIRTYWORD[2029]["real_idx"] = 2029
+
+DIRTYWORD["index"][2030] = 2030
+DIRTYWORD[2030] = {}
+	DIRTYWORD[2030]["ID"] = 2030
+	DIRTYWORD[2030]["KEY"] = "逼样"
+	DIRTYWORD[2030]["real_idx"] = 2030
+
+DIRTYWORD["index"][2031] = 2031
+DIRTYWORD[2031] = {}
+	DIRTYWORD[2031]["ID"] = 2031
+	DIRTYWORD[2031]["KEY"] = "比毛"
+	DIRTYWORD[2031]["real_idx"] = 2031
+
+DIRTYWORD["index"][2032] = 2032
+DIRTYWORD[2032] = {}
+	DIRTYWORD[2032]["ID"] = 2032
+	DIRTYWORD[2032]["KEY"] = "婊"
+	DIRTYWORD[2032]["real_idx"] = 2032
+
+DIRTYWORD["index"][2033] = 2033
+DIRTYWORD[2033] = {}
+	DIRTYWORD[2033]["ID"] = 2033
+	DIRTYWORD[2033]["KEY"] = "婊子"
+	DIRTYWORD[2033]["real_idx"] = 2033
+
+DIRTYWORD["index"][2034] = 2034
+DIRTYWORD[2034] = {}
+	DIRTYWORD[2034]["ID"] = 2034
+	DIRTYWORD[2034]["KEY"] = "宾周"
+	DIRTYWORD[2034]["real_idx"] = 2034
+
+DIRTYWORD["index"][2035] = 2035
+DIRTYWORD[2035] = {}
+	DIRTYWORD[2035]["ID"] = 2035
+	DIRTYWORD[2035]["KEY"] = "冰毒"
+	DIRTYWORD[2035]["real_idx"] = 2035
+
+DIRTYWORD["index"][2036] = 2036
+DIRTYWORD[2036] = {}
+	DIRTYWORD[2036]["ID"] = 2036
+	DIRTYWORD[2036]["KEY"] = "波霸"
+	DIRTYWORD[2036]["real_idx"] = 2036
+
+DIRTYWORD["index"][2037] = 2037
+DIRTYWORD[2037] = {}
+	DIRTYWORD[2037]["ID"] = 2037
+	DIRTYWORD[2037]["KEY"] = "博讯"
+	DIRTYWORD[2037]["real_idx"] = 2037
+
+DIRTYWORD["index"][2038] = 2038
+DIRTYWORD[2038] = {}
+	DIRTYWORD[2038]["ID"] = 2038
+	DIRTYWORD[2038]["KEY"] = "薄一波"
+	DIRTYWORD[2038]["real_idx"] = 2038
+
+DIRTYWORD["index"][2039] = 2039
+DIRTYWORD[2039] = {}
+	DIRTYWORD[2039]["ID"] = 2039
+	DIRTYWORD[2039]["KEY"] = "布莱尔"
+	DIRTYWORD[2039]["real_idx"] = 2039
+
+DIRTYWORD["index"][2040] = 2040
+DIRTYWORD[2040] = {}
+	DIRTYWORD[2040]["ID"] = 2040
+	DIRTYWORD[2040]["KEY"] = "布雷尔"
+	DIRTYWORD[2040]["real_idx"] = 2040
+
+DIRTYWORD["index"][2041] = 2041
+DIRTYWORD[2041] = {}
+	DIRTYWORD[2041]["ID"] = 2041
+	DIRTYWORD[2041]["KEY"] = "布什"
+	DIRTYWORD[2041]["real_idx"] = 2041
+
+DIRTYWORD["index"][2042] = 2042
+DIRTYWORD[2042] = {}
+	DIRTYWORD[2042]["ID"] = 2042
+	DIRTYWORD[2042]["KEY"] = "布什"
+	DIRTYWORD[2042]["real_idx"] = 2042
+
+DIRTYWORD["index"][2043] = 2043
+DIRTYWORD[2043] = {}
+	DIRTYWORD[2043]["ID"] = 2043
+	DIRTYWORD[2043]["KEY"] = "财政部"
+	DIRTYWORD[2043]["real_idx"] = 2043
+
+DIRTYWORD["index"][2044] = 2044
+DIRTYWORD[2044] = {}
+	DIRTYWORD[2044]["ID"] = 2044
+	DIRTYWORD[2044]["KEY"] = "参事室"
+	DIRTYWORD[2044]["real_idx"] = 2044
+
+DIRTYWORD["index"][2045] = 2045
+DIRTYWORD[2045] = {}
+	DIRTYWORD[2045]["ID"] = 2045
+	DIRTYWORD[2045]["KEY"] = "藏独"
+	DIRTYWORD[2045]["real_idx"] = 2045
+
+DIRTYWORD["index"][2046] = 2046
+DIRTYWORD[2046] = {}
+	DIRTYWORD[2046]["ID"] = 2046
+	DIRTYWORD[2046]["KEY"] = "藏独"
+	DIRTYWORD[2046]["real_idx"] = 2046
+
+DIRTYWORD["index"][2047] = 2047
+DIRTYWORD[2047] = {}
+	DIRTYWORD[2047]["ID"] = 2047
+	DIRTYWORD[2047]["KEY"] = "藏独"
+	DIRTYWORD[2047]["real_idx"] = 2047
+
+DIRTYWORD["index"][2048] = 2048
+DIRTYWORD[2048] = {}
+	DIRTYWORD[2048]["ID"] = 2048
+	DIRTYWORD[2048]["KEY"] = "操"
+	DIRTYWORD[2048]["real_idx"] = 2048
+
+DIRTYWORD["index"][2049] = 2049
+DIRTYWORD[2049] = {}
+	DIRTYWORD[2049]["ID"] = 2049
+	DIRTYWORD[2049]["KEY"] = "操KM"
+	DIRTYWORD[2049]["real_idx"] = 2049
+
+DIRTYWORD["index"][2050] = 2050
+DIRTYWORD[2050] = {}
+	DIRTYWORD[2050]["ID"] = 2050
+	DIRTYWORD[2050]["KEY"] = "操Km"
+	DIRTYWORD[2050]["real_idx"] = 2050
+
+DIRTYWORD["index"][2051] = 2051
+DIRTYWORD[2051] = {}
+	DIRTYWORD[2051]["ID"] = 2051
+	DIRTYWORD[2051]["KEY"] = "操KM"
+	DIRTYWORD[2051]["real_idx"] = 2051
+
+DIRTYWORD["index"][2052] = 2052
+DIRTYWORD[2052] = {}
+	DIRTYWORD[2052]["ID"] = 2052
+	DIRTYWORD[2052]["KEY"] = "操Km"
+	DIRTYWORD[2052]["real_idx"] = 2052
+
+DIRTYWORD["index"][2053] = 2053
+DIRTYWORD[2053] = {}
+	DIRTYWORD[2053]["ID"] = 2053
+	DIRTYWORD[2053]["KEY"] = "操XX"
+	DIRTYWORD[2053]["real_idx"] = 2053
+
+DIRTYWORD["index"][2054] = 2054
+DIRTYWORD[2054] = {}
+	DIRTYWORD[2054]["ID"] = 2054
+	DIRTYWORD[2054]["KEY"] = "操逼"
+	DIRTYWORD[2054]["real_idx"] = 2054
+
+DIRTYWORD["index"][2055] = 2055
+DIRTYWORD[2055] = {}
+	DIRTYWORD[2055]["ID"] = 2055
+	DIRTYWORD[2055]["KEY"] = "操比"
+	DIRTYWORD[2055]["real_idx"] = 2055
+
+DIRTYWORD["index"][2056] = 2056
+DIRTYWORD[2056] = {}
+	DIRTYWORD[2056]["ID"] = 2056
+	DIRTYWORD[2056]["KEY"] = "操蛋"
+	DIRTYWORD[2056]["real_idx"] = 2056
+
+DIRTYWORD["index"][2057] = 2057
+DIRTYWORD[2057] = {}
+	DIRTYWORD[2057]["ID"] = 2057
+	DIRTYWORD[2057]["KEY"] = "操你"
+	DIRTYWORD[2057]["real_idx"] = 2057
+
+DIRTYWORD["index"][2058] = 2058
+DIRTYWORD[2058] = {}
+	DIRTYWORD[2058]["ID"] = 2058
+	DIRTYWORD[2058]["KEY"] = "交媾"
+	DIRTYWORD[2058]["real_idx"] = 2058
+
+DIRTYWORD["index"][2059] = 2059
+DIRTYWORD[2059] = {}
+	DIRTYWORD[2059]["ID"] = 2059
+	DIRTYWORD[2059]["KEY"] = "CAO"
+	DIRTYWORD[2059]["real_idx"] = 2059
+
+DIRTYWORD["index"][2060] = 2060
+DIRTYWORD[2060] = {}
+	DIRTYWORD[2060]["ID"] = 2060
+	DIRTYWORD[2060]["KEY"] = "K粉"
+	DIRTYWORD[2060]["real_idx"] = 2060
+
+DIRTYWORD["index"][2061] = 2061
+DIRTYWORD[2061] = {}
+	DIRTYWORD[2061]["ID"] = 2061
+	DIRTYWORD[2061]["KEY"] = "J8"
+	DIRTYWORD[2061]["real_idx"] = 2061
+
+DIRTYWORD["index"][2062] = 2062
+DIRTYWORD[2062] = {}
+	DIRTYWORD[2062]["ID"] = 2062
+	DIRTYWORD[2062]["KEY"] = "小姐兼职"
+	DIRTYWORD[2062]["real_idx"] = 2062
+
+DIRTYWORD["index"][2063] = 2063
+DIRTYWORD[2063] = {}
+	DIRTYWORD[2063]["ID"] = 2063
+	DIRTYWORD[2063]["KEY"] = "交媾"
+	DIRTYWORD[2063]["real_idx"] = 2063
+
+DIRTYWORD["index"][2064] = 2064
+DIRTYWORD[2064] = {}
+	DIRTYWORD[2064]["ID"] = 2064
+	DIRTYWORD[2064]["KEY"] = "西藏314事件"
+	DIRTYWORD[2064]["real_idx"] = 2064
+
+DIRTYWORD["index"][2065] = 2065
+DIRTYWORD[2065] = {}
+	DIRTYWORD[2065]["ID"] = 2065
+	DIRTYWORD[2065]["KEY"] = "新疆7.5事件"
+	DIRTYWORD[2065]["real_idx"] = 2065
+
+DIRTYWORD["index"][2066] = 2066
+DIRTYWORD[2066] = {}
+	DIRTYWORD[2066]["ID"] = 2066
+	DIRTYWORD[2066]["KEY"] = "乱伦"
+	DIRTYWORD[2066]["real_idx"] = 2066
+
+DIRTYWORD["index"][2067] = 2067
+DIRTYWORD[2067] = {}
+	DIRTYWORD[2067]["ID"] = 2067
+	DIRTYWORD[2067]["KEY"] = "毛片"
+	DIRTYWORD[2067]["real_idx"] = 2067
+
+DIRTYWORD["index"][2068] = 2068
+DIRTYWORD[2068] = {}
+	DIRTYWORD[2068]["ID"] = 2068
+	DIRTYWORD[2068]["KEY"] = "黄片"
+	DIRTYWORD[2068]["real_idx"] = 2068
+
+DIRTYWORD["index"][2069] = 2069
+DIRTYWORD[2069] = {}
+	DIRTYWORD[2069]["ID"] = 2069
+	DIRTYWORD[2069]["KEY"] = "交配"
+	DIRTYWORD[2069]["real_idx"] = 2069
+
+DIRTYWORD["index"][2070] = 2070
+DIRTYWORD[2070] = {}
+	DIRTYWORD[2070]["ID"] = 2070
+	DIRTYWORD[2070]["KEY"] = "群交"
+	DIRTYWORD[2070]["real_idx"] = 2070
+
+DIRTYWORD["index"][2071] = 2071
+DIRTYWORD[2071] = {}
+	DIRTYWORD[2071]["ID"] = 2071
+	DIRTYWORD[2071]["KEY"] = "小姐兼职"
+	DIRTYWORD[2071]["real_idx"] = 2071
+
+DIRTYWORD["index"][2072] = 2072
+DIRTYWORD[2072] = {}
+	DIRTYWORD[2072]["ID"] = 2072
+	DIRTYWORD[2072]["KEY"] = "茉莉花革命"
+	DIRTYWORD[2072]["real_idx"] = 2072
+
+DIRTYWORD["index"][2073] = 2073
+DIRTYWORD[2073] = {}
+	DIRTYWORD[2073]["ID"] = 2073
+	DIRTYWORD[2073]["KEY"] = "操你八辈祖宗"
+	DIRTYWORD[2073]["real_idx"] = 2073
+
+DIRTYWORD["index"][2074] = 2074
+DIRTYWORD[2074] = {}
+	DIRTYWORD[2074]["ID"] = 2074
+	DIRTYWORD[2074]["KEY"] = "操你妈"
+	DIRTYWORD[2074]["real_idx"] = 2074
+
+DIRTYWORD["index"][2075] = 2075
+DIRTYWORD[2075] = {}
+	DIRTYWORD[2075]["ID"] = 2075
+	DIRTYWORD[2075]["KEY"] = "操你妈屄"
+	DIRTYWORD[2075]["real_idx"] = 2075
+
+DIRTYWORD["index"][2076] = 2076
+DIRTYWORD[2076] = {}
+	DIRTYWORD[2076]["ID"] = 2076
+	DIRTYWORD[2076]["KEY"] = "操他"
+	DIRTYWORD[2076]["real_idx"] = 2076
+
+DIRTYWORD["index"][2077] = 2077
+DIRTYWORD[2077] = {}
+	DIRTYWORD[2077]["ID"] = 2077
+	DIRTYWORD[2077]["KEY"] = "曹刚川"
+	DIRTYWORD[2077]["real_idx"] = 2077
+
+DIRTYWORD["index"][2078] = 2078
+DIRTYWORD[2078] = {}
+	DIRTYWORD[2078]["ID"] = 2078
+	DIRTYWORD[2078]["KEY"] = "草的你妈"
+	DIRTYWORD[2078]["real_idx"] = 2078
+
+DIRTYWORD["index"][2079] = 2079
+DIRTYWORD[2079] = {}
+	DIRTYWORD[2079]["ID"] = 2079
+	DIRTYWORD[2079]["KEY"] = "草妈"
+	DIRTYWORD[2079]["real_idx"] = 2079
+
+DIRTYWORD["index"][2080] = 2080
+DIRTYWORD[2080] = {}
+	DIRTYWORD[2080]["ID"] = 2080
+	DIRTYWORD[2080]["KEY"] = "草你妈"
+	DIRTYWORD[2080]["real_idx"] = 2080
+
+DIRTYWORD["index"][2081] = 2081
+DIRTYWORD[2081] = {}
+	DIRTYWORD[2081]["ID"] = 2081
+	DIRTYWORD[2081]["KEY"] = "草拟妈"
+	DIRTYWORD[2081]["real_idx"] = 2081
+
+DIRTYWORD["index"][2082] = 2082
+DIRTYWORD[2082] = {}
+	DIRTYWORD[2082]["ID"] = 2082
+	DIRTYWORD[2082]["KEY"] = "肏"
+	DIRTYWORD[2082]["real_idx"] = 2082
+
+DIRTYWORD["index"][2083] = 2083
+DIRTYWORD[2083] = {}
+	DIRTYWORD[2083]["ID"] = 2083
+	DIRTYWORD[2083]["KEY"] = "测绘局"
+	DIRTYWORD[2083]["real_idx"] = 2083
+
+DIRTYWORD["index"][2084] = 2084
+DIRTYWORD[2084] = {}
+	DIRTYWORD[2084]["ID"] = 2084
+	DIRTYWORD[2084]["KEY"] = "插KM"
+	DIRTYWORD[2084]["real_idx"] = 2084
+
+DIRTYWORD["index"][2085] = 2085
+DIRTYWORD[2085] = {}
+	DIRTYWORD[2085]["ID"] = 2085
+	DIRTYWORD[2085]["KEY"] = "插Km"
+	DIRTYWORD[2085]["real_idx"] = 2085
+
+DIRTYWORD["index"][2086] = 2086
+DIRTYWORD[2086] = {}
+	DIRTYWORD[2086]["ID"] = 2086
+	DIRTYWORD[2086]["KEY"] = "插KM"
+	DIRTYWORD[2086]["real_idx"] = 2086
+
+DIRTYWORD["index"][2087] = 2087
+DIRTYWORD[2087] = {}
+	DIRTYWORD[2087]["ID"] = 2087
+	DIRTYWORD[2087]["KEY"] = "插Km"
+	DIRTYWORD[2087]["real_idx"] = 2087
+
+DIRTYWORD["index"][2088] = 2088
+DIRTYWORD[2088] = {}
+	DIRTYWORD[2088]["ID"] = 2088
+	DIRTYWORD[2088]["KEY"] = "插妳"
+	DIRTYWORD[2088]["real_idx"] = 2088
+
+DIRTYWORD["index"][2089] = 2089
+DIRTYWORD[2089] = {}
+	DIRTYWORD[2089]["ID"] = 2089
+	DIRTYWORD[2089]["KEY"] = "插你"
+	DIRTYWORD[2089]["real_idx"] = 2089
+
+DIRTYWORD["index"][2090] = 2090
+DIRTYWORD[2090] = {}
+	DIRTYWORD[2090]["ID"] = 2090
+	DIRTYWORD[2090]["KEY"] = "插你妈"
+	DIRTYWORD[2090]["real_idx"] = 2090
+
+DIRTYWORD["index"][2091] = 2091
+DIRTYWORD[2091] = {}
+	DIRTYWORD[2091]["ID"] = 2091
+	DIRTYWORD[2091]["KEY"] = "插深些"
+	DIRTYWORD[2091]["real_idx"] = 2091
+
+DIRTYWORD["index"][2092] = 2092
+DIRTYWORD[2092] = {}
+	DIRTYWORD[2092]["ID"] = 2092
+	DIRTYWORD[2092]["KEY"] = "产权局"
+	DIRTYWORD[2092]["real_idx"] = 2092
+
+DIRTYWORD["index"][2093] = 2093
+DIRTYWORD[2093] = {}
+	DIRTYWORD[2093]["ID"] = 2093
+	DIRTYWORD[2093]["KEY"] = "朝鲜"
+	DIRTYWORD[2093]["real_idx"] = 2093
+
+DIRTYWORD["index"][2094] = 2094
+DIRTYWORD[2094] = {}
+	DIRTYWORD[2094]["ID"] = 2094
+	DIRTYWORD[2094]["KEY"] = "车臣"
+	DIRTYWORD[2094]["real_idx"] = 2094
+
+DIRTYWORD["index"][2095] = 2095
+DIRTYWORD[2095] = {}
+	DIRTYWORD[2095]["ID"] = 2095
+	DIRTYWORD[2095]["KEY"] = "车仑"
+	DIRTYWORD[2095]["real_idx"] = 2095
+
+DIRTYWORD["index"][2096] = 2096
+DIRTYWORD[2096] = {}
+	DIRTYWORD[2096]["ID"] = 2096
+	DIRTYWORD[2096]["KEY"] = "陈功"
+	DIRTYWORD[2096]["real_idx"] = 2096
+
+DIRTYWORD["index"][2097] = 2097
+DIRTYWORD[2097] = {}
+	DIRTYWORD[2097]["ID"] = 2097
+	DIRTYWORD[2097]["KEY"] = "陈良宇"
+	DIRTYWORD[2097]["real_idx"] = 2097
+
+DIRTYWORD["index"][2098] = 2098
+DIRTYWORD[2098] = {}
+	DIRTYWORD[2098]["ID"] = 2098
+	DIRTYWORD[2098]["KEY"] = "陈水扁"
+	DIRTYWORD[2098]["real_idx"] = 2098
+
+DIRTYWORD["index"][2099] = 2099
+DIRTYWORD[2099] = {}
+	DIRTYWORD[2099]["ID"] = 2099
+	DIRTYWORD[2099]["KEY"] = "陈希同"
+	DIRTYWORD[2099]["real_idx"] = 2099
+
+DIRTYWORD["index"][2100] = 2100
+DIRTYWORD[2100] = {}
+	DIRTYWORD[2100]["ID"] = 2100
+	DIRTYWORD[2100]["KEY"] = "陈晓宁"
+	DIRTYWORD[2100]["real_idx"] = 2100
+
+DIRTYWORD["index"][2101] = 2101
+DIRTYWORD[2101] = {}
+	DIRTYWORD[2101]["ID"] = 2101
+	DIRTYWORD[2101]["KEY"] = "陈毅"
+	DIRTYWORD[2101]["real_idx"] = 2101
+
+DIRTYWORD["index"][2102] = 2102
+DIRTYWORD[2102] = {}
+	DIRTYWORD[2102]["ID"] = 2102
+	DIRTYWORD[2102]["KEY"] = "陈至立"
+	DIRTYWORD[2102]["real_idx"] = 2102
+
+DIRTYWORD["index"][2103] = 2103
+DIRTYWORD[2103] = {}
+	DIRTYWORD[2103]["ID"] = 2103
+	DIRTYWORD[2103]["KEY"] = "成人电影"
+	DIRTYWORD[2103]["real_idx"] = 2103
+
+DIRTYWORD["index"][2104] = 2104
+DIRTYWORD[2104] = {}
+	DIRTYWORD[2104]["ID"] = 2104
+	DIRTYWORD[2104]["KEY"] = "成人片"
+	DIRTYWORD[2104]["real_idx"] = 2104
+
+DIRTYWORD["index"][2105] = 2105
+DIRTYWORD[2105] = {}
+	DIRTYWORD[2105]["ID"] = 2105
+	DIRTYWORD[2105]["KEY"] = "吃大便"
+	DIRTYWORD[2105]["real_idx"] = 2105
+
+DIRTYWORD["index"][2106] = 2106
+DIRTYWORD[2106] = {}
+	DIRTYWORD[2106]["ID"] = 2106
+	DIRTYWORD[2106]["KEY"] = "吃屎"
+	DIRTYWORD[2106]["real_idx"] = 2106
+
+DIRTYWORD["index"][2107] = 2107
+DIRTYWORD[2107] = {}
+	DIRTYWORD[2107]["ID"] = 2107
+	DIRTYWORD[2107]["KEY"] = "迟浩田"
+	DIRTYWORD[2107]["real_idx"] = 2107
+
+DIRTYWORD["index"][2108] = 2108
+DIRTYWORD[2108] = {}
+	DIRTYWORD[2108]["ID"] = 2108
+	DIRTYWORD[2108]["KEY"] = "赤匪"
+	DIRTYWORD[2108]["real_idx"] = 2108
+
+DIRTYWORD["index"][2109] = 2109
+DIRTYWORD[2109] = {}
+	DIRTYWORD[2109]["ID"] = 2109
+	DIRTYWORD[2109]["KEY"] = "抽插"
+	DIRTYWORD[2109]["real_idx"] = 2109
+
+DIRTYWORD["index"][2110] = 2110
+DIRTYWORD[2110] = {}
+	DIRTYWORD[2110]["ID"] = 2110
+	DIRTYWORD[2110]["KEY"] = "抽你丫的"
+	DIRTYWORD[2110]["real_idx"] = 2110
+
+DIRTYWORD["index"][2111] = 2111
+DIRTYWORD[2111] = {}
+	DIRTYWORD[2111]["ID"] = 2111
+	DIRTYWORD[2111]["KEY"] = "臭化西"
+	DIRTYWORD[2111]["real_idx"] = 2111
+
+DIRTYWORD["index"][2112] = 2112
+DIRTYWORD[2112] = {}
+	DIRTYWORD[2112]["ID"] = 2112
+	DIRTYWORD[2112]["KEY"] = "出售假币"
+	DIRTYWORD[2112]["real_idx"] = 2112
+
+DIRTYWORD["index"][2113] = 2113
+DIRTYWORD[2113] = {}
+	DIRTYWORD[2113]["ID"] = 2113
+	DIRTYWORD[2113]["KEY"] = "出售枪支"
+	DIRTYWORD[2113]["real_idx"] = 2113
+
+DIRTYWORD["index"][2114] = 2114
+DIRTYWORD[2114] = {}
+	DIRTYWORD[2114]["ID"] = 2114
+	DIRTYWORD[2114]["KEY"] = "出售手枪"
+	DIRTYWORD[2114]["real_idx"] = 2114
+
+DIRTYWORD["index"][2115] = 2115
+DIRTYWORD[2115] = {}
+	DIRTYWORD[2115]["ID"] = 2115
+	DIRTYWORD[2115]["KEY"] = "吹喇叭"
+	DIRTYWORD[2115]["real_idx"] = 2115
+
+DIRTYWORD["index"][2116] = 2116
+DIRTYWORD[2116] = {}
+	DIRTYWORD[2116]["ID"] = 2116
+	DIRTYWORD[2116]["KEY"] = "吹箫"
+	DIRTYWORD[2116]["real_idx"] = 2116
+
+DIRTYWORD["index"][2117] = 2117
+DIRTYWORD[2117] = {}
+	DIRTYWORD[2117]["ID"] = 2117
+	DIRTYWORD[2117]["KEY"] = "春药"
+	DIRTYWORD[2117]["real_idx"] = 2117
+
+DIRTYWORD["index"][2118] = 2118
+DIRTYWORD[2118] = {}
+	DIRTYWORD[2118]["ID"] = 2118
+	DIRTYWORD[2118]["KEY"] = "蠢猪"
+	DIRTYWORD[2118]["real_idx"] = 2118
+
+DIRTYWORD["index"][2119] = 2119
+DIRTYWORD[2119] = {}
+	DIRTYWORD[2119]["ID"] = 2119
+	DIRTYWORD[2119]["KEY"] = "戳你"
+	DIRTYWORD[2119]["real_idx"] = 2119
+
+DIRTYWORD["index"][2120] = 2120
+DIRTYWORD[2120] = {}
+	DIRTYWORD[2120]["ID"] = 2120
+	DIRTYWORD[2120]["KEY"] = "粗制吗啡"
+	DIRTYWORD[2120]["real_idx"] = 2120
+
+DIRTYWORD["index"][2121] = 2121
+DIRTYWORD[2121] = {}
+	DIRTYWORD[2121]["ID"] = 2121
+	DIRTYWORD[2121]["KEY"] = "催情药"
+	DIRTYWORD[2121]["real_idx"] = 2121
+
+DIRTYWORD["index"][2122] = 2122
+DIRTYWORD[2122] = {}
+	DIRTYWORD[2122]["ID"] = 2122
+	DIRTYWORD[2122]["KEY"] = "达赖"
+	DIRTYWORD[2122]["real_idx"] = 2122
+
+DIRTYWORD["index"][2123] = 2123
+DIRTYWORD[2123] = {}
+	DIRTYWORD[2123]["ID"] = 2123
+	DIRTYWORD[2123]["KEY"] = "达赖喇嘛"
+	DIRTYWORD[2123]["real_idx"] = 2123
+
+DIRTYWORD["index"][2124] = 2124
+DIRTYWORD[2124] = {}
+	DIRTYWORD[2124]["ID"] = 2124
+	DIRTYWORD[2124]["KEY"] = "打炮"
+	DIRTYWORD[2124]["real_idx"] = 2124
+
+DIRTYWORD["index"][2125] = 2125
+DIRTYWORD[2125] = {}
+	DIRTYWORD[2125]["ID"] = 2125
+	DIRTYWORD[2125]["KEY"] = "大B"
+	DIRTYWORD[2125]["real_idx"] = 2125
+
+DIRTYWORD["index"][2126] = 2126
+DIRTYWORD[2126] = {}
+	DIRTYWORD[2126]["ID"] = 2126
+	DIRTYWORD[2126]["KEY"] = "大逼"
+	DIRTYWORD[2126]["real_idx"] = 2126
+
+DIRTYWORD["index"][2127] = 2127
+DIRTYWORD[2127] = {}
+	DIRTYWORD[2127]["ID"] = 2127
+	DIRTYWORD[2127]["KEY"] = "大便"
+	DIRTYWORD[2127]["real_idx"] = 2127
+
+DIRTYWORD["index"][2128] = 2128
+DIRTYWORD[2128] = {}
+	DIRTYWORD[2128]["ID"] = 2128
+	DIRTYWORD[2128]["KEY"] = "大波波"
+	DIRTYWORD[2128]["real_idx"] = 2128
+
+DIRTYWORD["index"][2129] = 2129
+DIRTYWORD[2129] = {}
+	DIRTYWORD[2129]["ID"] = 2129
+	DIRTYWORD[2129]["KEY"] = "大麻"
+	DIRTYWORD[2129]["real_idx"] = 2129
+
+DIRTYWORD["index"][2130] = 2130
+DIRTYWORD[2130] = {}
+	DIRTYWORD[2130]["ID"] = 2130
+	DIRTYWORD[2130]["KEY"] = "大麻树脂"
+	DIRTYWORD[2130]["real_idx"] = 2130
+
+DIRTYWORD["index"][2131] = 2131
+DIRTYWORD[2131] = {}
+	DIRTYWORD[2131]["ID"] = 2131
+	DIRTYWORD[2131]["KEY"] = "大麻油"
+	DIRTYWORD[2131]["real_idx"] = 2131
+
+DIRTYWORD["index"][2132] = 2132
+DIRTYWORD[2132] = {}
+	DIRTYWORD[2132]["ID"] = 2132
+	DIRTYWORD[2132]["KEY"] = "大师"
+	DIRTYWORD[2132]["real_idx"] = 2132
+
+DIRTYWORD["index"][2133] = 2133
+DIRTYWORD[2133] = {}
+	DIRTYWORD[2133]["ID"] = 2133
+	DIRTYWORD[2133]["KEY"] = "戴维教"
+	DIRTYWORD[2133]["real_idx"] = 2133
+
+DIRTYWORD["index"][2134] = 2134
+DIRTYWORD[2134] = {}
+	DIRTYWORD[2134]["ID"] = 2134
+	DIRTYWORD[2134]["KEY"] = "大学骚乱"
+	DIRTYWORD[2134]["real_idx"] = 2134
+
+DIRTYWORD["index"][2135] = 2135
+DIRTYWORD[2135] = {}
+	DIRTYWORD[2135]["ID"] = 2135
+	DIRTYWORD[2135]["KEY"] = "大血B"
+	DIRTYWORD[2135]["real_idx"] = 2135
+
+DIRTYWORD["index"][2136] = 2136
+DIRTYWORD[2136] = {}
+	DIRTYWORD[2136]["ID"] = 2136
+	DIRTYWORD[2136]["KEY"] = "大血比"
+	DIRTYWORD[2136]["real_idx"] = 2136
+
+DIRTYWORD["index"][2137] = 2137
+DIRTYWORD[2137] = {}
+	DIRTYWORD[2137]["ID"] = 2137
+	DIRTYWORD[2137]["KEY"] = "呆卵"
+	DIRTYWORD[2137]["real_idx"] = 2137
+
+DIRTYWORD["index"][2138] = 2138
+DIRTYWORD[2138] = {}
+	DIRTYWORD[2138]["ID"] = 2138
+	DIRTYWORD[2138]["KEY"] = "戴海静"
+	DIRTYWORD[2138]["real_idx"] = 2138
+
+DIRTYWORD["index"][2139] = 2139
+DIRTYWORD[2139] = {}
+	DIRTYWORD[2139]["ID"] = 2139
+	DIRTYWORD[2139]["KEY"] = "戴红"
+	DIRTYWORD[2139]["real_idx"] = 2139
+
+DIRTYWORD["index"][2140] = 2140
+DIRTYWORD[2140] = {}
+	DIRTYWORD[2140]["ID"] = 2140
+	DIRTYWORD[2140]["KEY"] = "戴晶"
+	DIRTYWORD[2140]["real_idx"] = 2140
+
+DIRTYWORD["index"][2141] = 2141
+DIRTYWORD[2141] = {}
+	DIRTYWORD[2141]["ID"] = 2141
+	DIRTYWORD[2141]["KEY"] = "戴维教"
+	DIRTYWORD[2141]["real_idx"] = 2141
+
+DIRTYWORD["index"][2142] = 2142
+DIRTYWORD[2142] = {}
+	DIRTYWORD[2142]["ID"] = 2142
+	DIRTYWORD[2142]["KEY"] = "党主席"
+	DIRTYWORD[2142]["real_idx"] = 2142
+
+DIRTYWORD["index"][2143] = 2143
+DIRTYWORD[2143] = {}
+	DIRTYWORD[2143]["ID"] = 2143
+	DIRTYWORD[2143]["KEY"] = "荡妇"
+	DIRTYWORD[2143]["real_idx"] = 2143
+
+DIRTYWORD["index"][2144] = 2144
+DIRTYWORD[2144] = {}
+	DIRTYWORD[2144]["ID"] = 2144
+	DIRTYWORD[2144]["KEY"] = "档案局"
+	DIRTYWORD[2144]["real_idx"] = 2144
+
+DIRTYWORD["index"][2145] = 2145
+DIRTYWORD[2145] = {}
+	DIRTYWORD[2145]["ID"] = 2145
+	DIRTYWORD[2145]["KEY"] = "盗窃犯"
+	DIRTYWORD[2145]["real_idx"] = 2145
+
+DIRTYWORD["index"][2146] = 2146
+DIRTYWORD[2146] = {}
+	DIRTYWORD[2146]["ID"] = 2146
+	DIRTYWORD[2146]["KEY"] = "盗窃犯"
+	DIRTYWORD[2146]["real_idx"] = 2146
+
+DIRTYWORD["index"][2147] = 2147
+DIRTYWORD[2147] = {}
+	DIRTYWORD[2147]["ID"] = 2147
+	DIRTYWORD[2147]["KEY"] = "道教"
+	DIRTYWORD[2147]["real_idx"] = 2147
+
+DIRTYWORD["index"][2148] = 2148
+DIRTYWORD[2148] = {}
+	DIRTYWORD[2148]["ID"] = 2148
+	DIRTYWORD[2148]["KEY"] = "邓小平"
+	DIRTYWORD[2148]["real_idx"] = 2148
+
+DIRTYWORD["index"][2149] = 2149
+DIRTYWORD[2149] = {}
+	DIRTYWORD[2149]["ID"] = 2149
+	DIRTYWORD[2149]["KEY"] = "帝国主义"
+	DIRTYWORD[2149]["real_idx"] = 2149
+
+DIRTYWORD["index"][2150] = 2150
+DIRTYWORD[2150] = {}
+	DIRTYWORD[2150]["ID"] = 2150
+	DIRTYWORD[2150]["KEY"] = "电监会"
+	DIRTYWORD[2150]["real_idx"] = 2150
+
+DIRTYWORD["index"][2151] = 2151
+DIRTYWORD[2151] = {}
+	DIRTYWORD[2151]["ID"] = 2151
+	DIRTYWORD[2151]["KEY"] = "叼你"
+	DIRTYWORD[2151]["real_idx"] = 2151
+
+DIRTYWORD["index"][2152] = 2152
+DIRTYWORD[2152] = {}
+	DIRTYWORD[2152]["ID"] = 2152
+	DIRTYWORD[2152]["KEY"] = "叼你妈"
+	DIRTYWORD[2152]["real_idx"] = 2152
+
+DIRTYWORD["index"][2153] = 2153
+DIRTYWORD[2153] = {}
+	DIRTYWORD[2153]["ID"] = 2153
+	DIRTYWORD[2153]["KEY"] = "屌"
+	DIRTYWORD[2153]["real_idx"] = 2153
+
+DIRTYWORD["index"][2154] = 2154
+DIRTYWORD[2154] = {}
+	DIRTYWORD[2154]["ID"] = 2154
+	DIRTYWORD[2154]["KEY"] = "屌7"
+	DIRTYWORD[2154]["real_idx"] = 2154
+
+DIRTYWORD["index"][2155] = 2155
+DIRTYWORD[2155] = {}
+	DIRTYWORD[2155]["ID"] = 2155
+	DIRTYWORD[2155]["KEY"] = "屌鸠"
+	DIRTYWORD[2155]["real_idx"] = 2155
+
+DIRTYWORD["index"][2156] = 2156
+DIRTYWORD[2156] = {}
+	DIRTYWORD[2156]["ID"] = 2156
+	DIRTYWORD[2156]["KEY"] = "屌毛"
+	DIRTYWORD[2156]["real_idx"] = 2156
+
+DIRTYWORD["index"][2157] = 2157
+DIRTYWORD[2157] = {}
+	DIRTYWORD[2157]["ID"] = 2157
+	DIRTYWORD[2157]["KEY"] = "屌妳"
+	DIRTYWORD[2157]["real_idx"] = 2157
+
+DIRTYWORD["index"][2158] = 2158
+DIRTYWORD[2158] = {}
+	DIRTYWORD[2158]["ID"] = 2158
+	DIRTYWORD[2158]["KEY"] = "屌七"
+	DIRTYWORD[2158]["real_idx"] = 2158
+
+DIRTYWORD["index"][2159] = 2159
+DIRTYWORD[2159] = {}
+	DIRTYWORD[2159]["ID"] = 2159
+	DIRTYWORD[2159]["KEY"] = "屌西"
+	DIRTYWORD[2159]["real_idx"] = 2159
+
+DIRTYWORD["index"][2160] = 2160
+DIRTYWORD[2160] = {}
+	DIRTYWORD[2160]["ID"] = 2160
+	DIRTYWORD[2160]["KEY"] = "钓鱼台"
+	DIRTYWORD[2160]["real_idx"] = 2160
+
+DIRTYWORD["index"][2161] = 2161
+DIRTYWORD[2161] = {}
+	DIRTYWORD[2161]["ID"] = 2161
+	DIRTYWORD[2161]["KEY"] = "丁关根"
+	DIRTYWORD[2161]["real_idx"] = 2161
+
+DIRTYWORD["index"][2162] = 2162
+DIRTYWORD[2162] = {}
+	DIRTYWORD[2162]["ID"] = 2162
+	DIRTYWORD[2162]["KEY"] = "丁子霖"
+	DIRTYWORD[2162]["real_idx"] = 2162
+
+DIRTYWORD["index"][2163] = 2163
+DIRTYWORD[2163] = {}
+	DIRTYWORD[2163]["ID"] = 2163
+	DIRTYWORD[2163]["KEY"] = "东北独立"
+	DIRTYWORD[2163]["real_idx"] = 2163
+
+DIRTYWORD["index"][2164] = 2164
+DIRTYWORD[2164] = {}
+	DIRTYWORD[2164]["ID"] = 2164
+	DIRTYWORD[2164]["KEY"] = "东升"
+	DIRTYWORD[2164]["real_idx"] = 2164
+
+DIRTYWORD["index"][2165] = 2165
+DIRTYWORD[2165] = {}
+	DIRTYWORD[2165]["ID"] = 2165
+	DIRTYWORD[2165]["KEY"] = "东条英机"
+	DIRTYWORD[2165]["real_idx"] = 2165
+
+DIRTYWORD["index"][2166] = 2166
+DIRTYWORD[2166] = {}
+	DIRTYWORD[2166]["ID"] = 2166
+	DIRTYWORD[2166]["KEY"] = "东突"
+	DIRTYWORD[2166]["real_idx"] = 2166
+
+DIRTYWORD["index"][2167] = 2167
+DIRTYWORD[2167] = {}
+	DIRTYWORD[2167]["ID"] = 2167
+	DIRTYWORD[2167]["KEY"] = "东突暴动和独立"
+	DIRTYWORD[2167]["real_idx"] = 2167
+
+DIRTYWORD["index"][2168] = 2168
+DIRTYWORD[2168] = {}
+	DIRTYWORD[2168]["ID"] = 2168
+	DIRTYWORD[2168]["KEY"] = "东突组织"
+	DIRTYWORD[2168]["real_idx"] = 2168
+
+DIRTYWORD["index"][2169] = 2169
+DIRTYWORD[2169] = {}
+	DIRTYWORD[2169]["ID"] = 2169
+	DIRTYWORD[2169]["KEY"] = "东亚病夫"
+	DIRTYWORD[2169]["real_idx"] = 2169
+
+DIRTYWORD["index"][2170] = 2170
+DIRTYWORD[2170] = {}
+	DIRTYWORD[2170]["ID"] = 2170
+	DIRTYWORD[2170]["KEY"] = "董建华"
+	DIRTYWORD[2170]["real_idx"] = 2170
+
+DIRTYWORD["index"][2171] = 2171
+DIRTYWORD[2171] = {}
+	DIRTYWORD[2171]["ID"] = 2171
+	DIRTYWORD[2171]["KEY"] = "董贱华"
+	DIRTYWORD[2171]["real_idx"] = 2171
+
+DIRTYWORD["index"][2172] = 2172
+DIRTYWORD[2172] = {}
+	DIRTYWORD[2172]["ID"] = 2172
+	DIRTYWORD[2172]["KEY"] = "董文华"
+	DIRTYWORD[2172]["real_idx"] = 2172
+
+DIRTYWORD["index"][2173] = 2173
+DIRTYWORD[2173] = {}
+	DIRTYWORD[2173]["ID"] = 2173
+	DIRTYWORD[2173]["KEY"] = "懂文华"
+	DIRTYWORD[2173]["real_idx"] = 2173
+
+DIRTYWORD["index"][2174] = 2174
+DIRTYWORD[2174] = {}
+	DIRTYWORD[2174]["ID"] = 2174
+	DIRTYWORD[2174]["KEY"] = "独立"
+	DIRTYWORD[2174]["real_idx"] = 2174
+
+DIRTYWORD["index"][2175] = 2175
+DIRTYWORD[2175] = {}
+	DIRTYWORD[2175]["ID"] = 2175
+	DIRTYWORD[2175]["KEY"] = "独立台湾会"
+	DIRTYWORD[2175]["real_idx"] = 2175
+
+DIRTYWORD["index"][2176] = 2176
+DIRTYWORD[2176] = {}
+	DIRTYWORD[2176]["ID"] = 2176
+	DIRTYWORD[2176]["KEY"] = "恩格斯"
+	DIRTYWORD[2176]["real_idx"] = 2176
+
+DIRTYWORD["index"][2177] = 2177
+DIRTYWORD[2177] = {}
+	DIRTYWORD[2177]["ID"] = 2177
+	DIRTYWORD[2177]["KEY"] = "二B"
+	DIRTYWORD[2177]["real_idx"] = 2177
+
+DIRTYWORD["index"][2178] = 2178
+DIRTYWORD[2178] = {}
+	DIRTYWORD[2178]["ID"] = 2178
+	DIRTYWORD[2178]["KEY"] = "二屄"
+	DIRTYWORD[2178]["real_idx"] = 2178
+
+DIRTYWORD["index"][2179] = 2179
+DIRTYWORD[2179] = {}
+	DIRTYWORD[2179]["ID"] = 2179
+	DIRTYWORD[2179]["KEY"] = "二逼"
+	DIRTYWORD[2179]["real_idx"] = 2179
+
+DIRTYWORD["index"][2180] = 2180
+DIRTYWORD[2180] = {}
+	DIRTYWORD[2180]["ID"] = 2180
+	DIRTYWORD[2180]["KEY"] = "二乙基酰胺发抡"
+	DIRTYWORD[2180]["real_idx"] = 2180
+
+DIRTYWORD["index"][2181] = 2181
+DIRTYWORD[2181] = {}
+	DIRTYWORD[2181]["ID"] = 2181
+	DIRTYWORD[2181]["KEY"] = "发抡功"
+	DIRTYWORD[2181]["real_idx"] = 2181
+
+DIRTYWORD["index"][2182] = 2182
+DIRTYWORD[2182] = {}
+	DIRTYWORD[2182]["ID"] = 2182
+	DIRTYWORD[2182]["KEY"] = "发伦"
+	DIRTYWORD[2182]["real_idx"] = 2182
+
+DIRTYWORD["index"][2183] = 2183
+DIRTYWORD[2183] = {}
+	DIRTYWORD[2183]["ID"] = 2183
+	DIRTYWORD[2183]["KEY"] = "发伦功"
+	DIRTYWORD[2183]["real_idx"] = 2183
+
+DIRTYWORD["index"][2184] = 2184
+DIRTYWORD[2184] = {}
+	DIRTYWORD[2184]["ID"] = 2184
+	DIRTYWORD[2184]["KEY"] = "发轮"
+	DIRTYWORD[2184]["real_idx"] = 2184
+
+DIRTYWORD["index"][2185] = 2185
+DIRTYWORD[2185] = {}
+	DIRTYWORD[2185]["ID"] = 2185
+	DIRTYWORD[2185]["KEY"] = "发论"
+	DIRTYWORD[2185]["real_idx"] = 2185
+
+DIRTYWORD["index"][2186] = 2186
+DIRTYWORD[2186] = {}
+	DIRTYWORD[2186]["ID"] = 2186
+	DIRTYWORD[2186]["KEY"] = "发论公"
+	DIRTYWORD[2186]["real_idx"] = 2186
+
+DIRTYWORD["index"][2187] = 2187
+DIRTYWORD[2187] = {}
+	DIRTYWORD[2187]["ID"] = 2187
+	DIRTYWORD[2187]["KEY"] = "发论功"
+	DIRTYWORD[2187]["real_idx"] = 2187
+
+DIRTYWORD["index"][2188] = 2188
+DIRTYWORD[2188] = {}
+	DIRTYWORD[2188]["ID"] = 2188
+	DIRTYWORD[2188]["KEY"] = "发骚"
+	DIRTYWORD[2188]["real_idx"] = 2188
+
+DIRTYWORD["index"][2189] = 2189
+DIRTYWORD[2189] = {}
+	DIRTYWORD[2189]["ID"] = 2189
+	DIRTYWORD[2189]["KEY"] = "法(轮)功"
+	DIRTYWORD[2189]["real_idx"] = 2189
+
+DIRTYWORD["index"][2190] = 2190
+DIRTYWORD[2190] = {}
+	DIRTYWORD[2190]["ID"] = 2190
+	DIRTYWORD[2190]["KEY"] = "法*轮*功"
+	DIRTYWORD[2190]["real_idx"] = 2190
+
+DIRTYWORD["index"][2191] = 2191
+DIRTYWORD[2191] = {}
+	DIRTYWORD[2191]["ID"] = 2191
+	DIRTYWORD[2191]["KEY"] = "法功"
+	DIRTYWORD[2191]["real_idx"] = 2191
+
+DIRTYWORD["index"][2192] = 2192
+DIRTYWORD[2192] = {}
+	DIRTYWORD[2192]["ID"] = 2192
+	DIRTYWORD[2192]["KEY"] = "法愣"
+	DIRTYWORD[2192]["real_idx"] = 2192
+
+DIRTYWORD["index"][2193] = 2193
+DIRTYWORD[2193] = {}
+	DIRTYWORD[2193]["ID"] = 2193
+	DIRTYWORD[2193]["KEY"] = "法仑"
+	DIRTYWORD[2193]["real_idx"] = 2193
+
+DIRTYWORD["index"][2194] = 2194
+DIRTYWORD[2194] = {}
+	DIRTYWORD[2194]["ID"] = 2194
+	DIRTYWORD[2194]["KEY"] = "法轮"
+	DIRTYWORD[2194]["real_idx"] = 2194
+
+DIRTYWORD["index"][2195] = 2195
+DIRTYWORD[2195] = {}
+	DIRTYWORD[2195]["ID"] = 2195
+	DIRTYWORD[2195]["KEY"] = "法轮大法"
+	DIRTYWORD[2195]["real_idx"] = 2195
+
+DIRTYWORD["index"][2196] = 2196
+DIRTYWORD[2196] = {}
+	DIRTYWORD[2196]["ID"] = 2196
+	DIRTYWORD[2196]["KEY"] = "法轮功"
+	DIRTYWORD[2196]["real_idx"] = 2196
+
+DIRTYWORD["index"][2197] = 2197
+DIRTYWORD[2197] = {}
+	DIRTYWORD[2197]["ID"] = 2197
+	DIRTYWORD[2197]["KEY"] = "法西斯"
+	DIRTYWORD[2197]["real_idx"] = 2197
+
+DIRTYWORD["index"][2198] = 2198
+DIRTYWORD[2198] = {}
+	DIRTYWORD[2198]["ID"] = 2198
+	DIRTYWORD[2198]["KEY"] = "法制办"
+	DIRTYWORD[2198]["real_idx"] = 2198
+
+DIRTYWORD["index"][2199] = 2199
+DIRTYWORD[2199] = {}
+	DIRTYWORD[2199]["ID"] = 2199
+	DIRTYWORD[2199]["KEY"] = "反动"
+	DIRTYWORD[2199]["real_idx"] = 2199
+
+DIRTYWORD["index"][2200] = 2200
+DIRTYWORD[2200] = {}
+	DIRTYWORD[2200]["ID"] = 2200
+	DIRTYWORD[2200]["KEY"] = "反革命"
+	DIRTYWORD[2200]["real_idx"] = 2200
+
+DIRTYWORD["index"][2201] = 2201
+DIRTYWORD[2201] = {}
+	DIRTYWORD[2201]["ID"] = 2201
+	DIRTYWORD[2201]["KEY"] = "发票"
+	DIRTYWORD[2201]["real_idx"] = 2201
+
+DIRTYWORD["index"][2202] = 2202
+DIRTYWORD[2202] = {}
+	DIRTYWORD[2202]["ID"] = 2202
+	DIRTYWORD[2202]["KEY"] = "冰粉"
+	DIRTYWORD[2202]["real_idx"] = 2202
+
+DIRTYWORD["index"][2203] = 2203
+DIRTYWORD[2203] = {}
+	DIRTYWORD[2203]["ID"] = 2203
+	DIRTYWORD[2203]["KEY"] = "性奴"
+	DIRTYWORD[2203]["real_idx"] = 2203
+
+DIRTYWORD["index"][2204] = 2204
+DIRTYWORD[2204] = {}
+	DIRTYWORD[2204]["ID"] = 2204
+	DIRTYWORD[2204]["KEY"] = "反共"
+	DIRTYWORD[2204]["real_idx"] = 2204
+
+DIRTYWORD["index"][2205] = 2205
+DIRTYWORD[2205] = {}
+	DIRTYWORD[2205]["ID"] = 2205
+	DIRTYWORD[2205]["KEY"] = "反华"
+	DIRTYWORD[2205]["real_idx"] = 2205
+
+DIRTYWORD["index"][2206] = 2206
+DIRTYWORD[2206] = {}
+	DIRTYWORD[2206]["ID"] = 2206
+	DIRTYWORD[2206]["KEY"] = "反恐委员会"
+	DIRTYWORD[2206]["real_idx"] = 2206
+
+DIRTYWORD["index"][2207] = 2207
+DIRTYWORD[2207] = {}
+	DIRTYWORD[2207]["ID"] = 2207
+	DIRTYWORD[2207]["KEY"] = "反日"
+	DIRTYWORD[2207]["real_idx"] = 2207
+
+DIRTYWORD["index"][2208] = 2208
+DIRTYWORD[2208] = {}
+	DIRTYWORD[2208]["ID"] = 2208
+	DIRTYWORD[2208]["KEY"] = "反政府"
+	DIRTYWORD[2208]["real_idx"] = 2208
+
+DIRTYWORD["index"][2209] = 2209
+DIRTYWORD[2209] = {}
+	DIRTYWORD[2209]["ID"] = 2209
+	DIRTYWORD[2209]["KEY"] = "分裂祖国"
+	DIRTYWORD[2209]["real_idx"] = 2209
+
+DIRTYWORD["index"][2210] = 2210
+DIRTYWORD[2210] = {}
+	DIRTYWORD[2210]["ID"] = 2210
+	DIRTYWORD[2210]["KEY"] = "佛教"
+	DIRTYWORD[2210]["real_idx"] = 2210
+
+DIRTYWORD["index"][2211] = 2211
+DIRTYWORD[2211] = {}
+	DIRTYWORD[2211]["ID"] = 2211
+	DIRTYWORD[2211]["KEY"] = "佛展千手法"
+	DIRTYWORD[2211]["real_idx"] = 2211
+
+DIRTYWORD["index"][2212] = 2212
+DIRTYWORD[2212] = {}
+	DIRTYWORD[2212]["ID"] = 2212
+	DIRTYWORD[2212]["KEY"] = "佛祖"
+	DIRTYWORD[2212]["real_idx"] = 2212
+
+DIRTYWORD["index"][2213] = 2213
+DIRTYWORD[2213] = {}
+	DIRTYWORD[2213]["ID"] = 2213
+	DIRTYWORD[2213]["KEY"] = "斧头镰刀"
+	DIRTYWORD[2213]["real_idx"] = 2213
+
+DIRTYWORD["index"][2214] = 2214
+DIRTYWORD[2214] = {}
+	DIRTYWORD[2214]["ID"] = 2214
+	DIRTYWORD[2214]["KEY"] = "阝月"
+	DIRTYWORD[2214]["real_idx"] = 2214
+
+DIRTYWORD["index"][2215] = 2215
+DIRTYWORD[2215] = {}
+	DIRTYWORD[2215]["ID"] = 2215
+	DIRTYWORD[2215]["KEY"] = "傅鹏"
+	DIRTYWORD[2215]["real_idx"] = 2215
+
+DIRTYWORD["index"][2216] = 2216
+DIRTYWORD[2216] = {}
+	DIRTYWORD[2216]["ID"] = 2216
+	DIRTYWORD[2216]["KEY"] = "傅作义"
+	DIRTYWORD[2216]["real_idx"] = 2216
+
+DIRTYWORD["index"][2217] = 2217
+DIRTYWORD[2217] = {}
+	DIRTYWORD[2217]["ID"] = 2217
+	DIRTYWORD[2217]["KEY"] = "干KM"
+	DIRTYWORD[2217]["real_idx"] = 2217
+
+DIRTYWORD["index"][2218] = 2218
+DIRTYWORD[2218] = {}
+	DIRTYWORD[2218]["ID"] = 2218
+	DIRTYWORD[2218]["KEY"] = "干Km"
+	DIRTYWORD[2218]["real_idx"] = 2218
+
+DIRTYWORD["index"][2219] = 2219
+DIRTYWORD[2219] = {}
+	DIRTYWORD[2219]["ID"] = 2219
+	DIRTYWORD[2219]["KEY"] = "干KM"
+	DIRTYWORD[2219]["real_idx"] = 2219
+
+DIRTYWORD["index"][2220] = 2220
+DIRTYWORD[2220] = {}
+	DIRTYWORD[2220]["ID"] = 2220
+	DIRTYWORD[2220]["KEY"] = "干Km"
+	DIRTYWORD[2220]["real_idx"] = 2220
+
+DIRTYWORD["index"][2221] = 2221
+DIRTYWORD[2221] = {}
+	DIRTYWORD[2221]["ID"] = 2221
+	DIRTYWORD[2221]["KEY"] = "干拎娘"
+	DIRTYWORD[2221]["real_idx"] = 2221
+
+DIRTYWORD["index"][2222] = 2222
+DIRTYWORD[2222] = {}
+	DIRTYWORD[2222]["ID"] = 2222
+	DIRTYWORD[2222]["KEY"] = "干妳"
+	DIRTYWORD[2222]["real_idx"] = 2222
+
+DIRTYWORD["index"][2223] = 2223
+DIRTYWORD[2223] = {}
+	DIRTYWORD[2223]["ID"] = 2223
+	DIRTYWORD[2223]["KEY"] = "干妳老母"
+	DIRTYWORD[2223]["real_idx"] = 2223
+
+DIRTYWORD["index"][2224] = 2224
+DIRTYWORD[2224] = {}
+	DIRTYWORD[2224]["ID"] = 2224
+	DIRTYWORD[2224]["KEY"] = "干妳妈"
+	DIRTYWORD[2224]["real_idx"] = 2224
+
+DIRTYWORD["index"][2225] = 2225
+DIRTYWORD[2225] = {}
+	DIRTYWORD[2225]["ID"] = 2225
+	DIRTYWORD[2225]["KEY"] = "干妳娘"
+	DIRTYWORD[2225]["real_idx"] = 2225
+
+DIRTYWORD["index"][2226] = 2226
+DIRTYWORD[2226] = {}
+	DIRTYWORD[2226]["ID"] = 2226
+	DIRTYWORD[2226]["KEY"] = "干你"
+	DIRTYWORD[2226]["real_idx"] = 2226
+
+DIRTYWORD["index"][2227] = 2227
+DIRTYWORD[2227] = {}
+	DIRTYWORD[2227]["ID"] = 2227
+	DIRTYWORD[2227]["KEY"] = "干你妈"
+	DIRTYWORD[2227]["real_idx"] = 2227
+
+DIRTYWORD["index"][2228] = 2228
+DIRTYWORD[2228] = {}
+	DIRTYWORD[2228]["ID"] = 2228
+	DIRTYWORD[2228]["KEY"] = "干你妈b"
+	DIRTYWORD[2228]["real_idx"] = 2228
+
+DIRTYWORD["index"][2229] = 2229
+DIRTYWORD[2229] = {}
+	DIRTYWORD[2229]["ID"] = 2229
+	DIRTYWORD[2229]["KEY"] = "干你妈逼"
+	DIRTYWORD[2229]["real_idx"] = 2229
+
+DIRTYWORD["index"][2230] = 2230
+DIRTYWORD[2230] = {}
+	DIRTYWORD[2230]["ID"] = 2230
+	DIRTYWORD[2230]["KEY"] = "干你娘"
+	DIRTYWORD[2230]["real_idx"] = 2230
+
+DIRTYWORD["index"][2231] = 2231
+DIRTYWORD[2231] = {}
+	DIRTYWORD[2231]["ID"] = 2231
+	DIRTYWORD[2231]["KEY"] = "干七八"
+	DIRTYWORD[2231]["real_idx"] = 2231
+
+DIRTYWORD["index"][2232] = 2232
+DIRTYWORD[2232] = {}
+	DIRTYWORD[2232]["ID"] = 2232
+	DIRTYWORD[2232]["KEY"] = "干死你"
+	DIRTYWORD[2232]["real_idx"] = 2232
+
+DIRTYWORD["index"][2233] = 2233
+DIRTYWORD[2233] = {}
+	DIRTYWORD[2233]["ID"] = 2233
+	DIRTYWORD[2233]["KEY"] = "肛"
+	DIRTYWORD[2233]["real_idx"] = 2233
+
+DIRTYWORD["index"][2234] = 2234
+DIRTYWORD[2234] = {}
+	DIRTYWORD[2234]["ID"] = 2234
+	DIRTYWORD[2234]["KEY"] = "肛交"
+	DIRTYWORD[2234]["real_idx"] = 2234
+
+DIRTYWORD["index"][2235] = 2235
+DIRTYWORD[2235] = {}
+	DIRTYWORD[2235]["ID"] = 2235
+	DIRTYWORD[2235]["KEY"] = "肛门"
+	DIRTYWORD[2235]["real_idx"] = 2235
+
+DIRTYWORD["index"][2236] = 2236
+DIRTYWORD[2236] = {}
+	DIRTYWORD[2236]["ID"] = 2236
+	DIRTYWORD[2236]["KEY"] = "港澳办"
+	DIRTYWORD[2236]["real_idx"] = 2236
+
+DIRTYWORD["index"][2237] = 2237
+DIRTYWORD[2237] = {}
+	DIRTYWORD[2237]["ID"] = 2237
+	DIRTYWORD[2237]["KEY"] = "高俊"
+	DIRTYWORD[2237]["real_idx"] = 2237
+
+DIRTYWORD["index"][2238] = 2238
+DIRTYWORD[2238] = {}
+	DIRTYWORD[2238]["ID"] = 2238
+	DIRTYWORD[2238]["KEY"] = "高丽棒子"
+	DIRTYWORD[2238]["real_idx"] = 2238
+
+DIRTYWORD["index"][2239] = 2239
+DIRTYWORD[2239] = {}
+	DIRTYWORD[2239]["ID"] = 2239
+	DIRTYWORD[2239]["KEY"] = "高校暴乱"
+	DIRTYWORD[2239]["real_idx"] = 2239
+
+DIRTYWORD["index"][2240] = 2240
+DIRTYWORD[2240] = {}
+	DIRTYWORD[2240]["ID"] = 2240
+	DIRTYWORD[2240]["KEY"] = "高校群体事件"
+	DIRTYWORD[2240]["real_idx"] = 2240
+
+DIRTYWORD["index"][2241] = 2241
+DIRTYWORD[2241] = {}
+	DIRTYWORD[2241]["ID"] = 2241
+	DIRTYWORD[2241]["KEY"] = "高校骚乱"
+	DIRTYWORD[2241]["real_idx"] = 2241
+
+DIRTYWORD["index"][2242] = 2242
+DIRTYWORD[2242] = {}
+	DIRTYWORD[2242]["ID"] = 2242
+	DIRTYWORD[2242]["KEY"] = "睾"
+	DIRTYWORD[2242]["real_idx"] = 2242
+
+DIRTYWORD["index"][2243] = 2243
+DIRTYWORD[2243] = {}
+	DIRTYWORD[2243]["ID"] = 2243
+	DIRTYWORD[2243]["KEY"] = "睾丸"
+	DIRTYWORD[2243]["real_idx"] = 2243
+
+DIRTYWORD["index"][2244] = 2244
+DIRTYWORD[2244] = {}
+	DIRTYWORD[2244]["ID"] = 2244
+	DIRTYWORD[2244]["KEY"] = "膏药旗"
+	DIRTYWORD[2244]["real_idx"] = 2244
+
+DIRTYWORD["index"][2245] = 2245
+DIRTYWORD[2245] = {}
+	DIRTYWORD[2245]["ID"] = 2245
+	DIRTYWORD[2245]["KEY"] = "弓虽女干"
+	DIRTYWORD[2245]["real_idx"] = 2245
+
+DIRTYWORD["index"][2246] = 2246
+DIRTYWORD[2246] = {}
+	DIRTYWORD[2246]["ID"] = 2246
+	DIRTYWORD[2246]["KEY"] = "公安"
+	DIRTYWORD[2246]["real_idx"] = 2246
+
+DIRTYWORD["index"][2247] = 2247
+DIRTYWORD[2247] = {}
+	DIRTYWORD[2247]["ID"] = 2247
+	DIRTYWORD[2247]["KEY"] = "公安部"
+	DIRTYWORD[2247]["real_idx"] = 2247
+
+DIRTYWORD["index"][2248] = 2248
+DIRTYWORD[2248] = {}
+	DIRTYWORD[2248]["ID"] = 2248
+	DIRTYWORD[2248]["KEY"] = "公安局"
+	DIRTYWORD[2248]["real_idx"] = 2248
+
+DIRTYWORD["index"][2249] = 2249
+DIRTYWORD[2249] = {}
+	DIRTYWORD[2249]["ID"] = 2249
+	DIRTYWORD[2249]["KEY"] = "共产党"
+	DIRTYWORD[2249]["real_idx"] = 2249
+
+DIRTYWORD["index"][2250] = 2250
+DIRTYWORD[2250] = {}
+	DIRTYWORD[2250]["ID"] = 2250
+	DIRTYWORD[2250]["KEY"] = "共产主义"
+	DIRTYWORD[2250]["real_idx"] = 2250
+
+DIRTYWORD["index"][2251] = 2251
+DIRTYWORD[2251] = {}
+	DIRTYWORD[2251]["ID"] = 2251
+	DIRTYWORD[2251]["KEY"] = "共匪"
+	DIRTYWORD[2251]["real_idx"] = 2251
+
+DIRTYWORD["index"][2252] = 2252
+DIRTYWORD[2252] = {}
+	DIRTYWORD[2252]["ID"] = 2252
+	DIRTYWORD[2252]["KEY"] = "共狗"
+	DIRTYWORD[2252]["real_idx"] = 2252
+
+DIRTYWORD["index"][2253] = 2253
+DIRTYWORD[2253] = {}
+	DIRTYWORD[2253]["ID"] = 2253
+	DIRTYWORD[2253]["KEY"] = "狗b"
+	DIRTYWORD[2253]["real_idx"] = 2253
+
+DIRTYWORD["index"][2254] = 2254
+DIRTYWORD[2254] = {}
+	DIRTYWORD[2254]["ID"] = 2254
+	DIRTYWORD[2254]["KEY"] = "狗操"
+	DIRTYWORD[2254]["real_idx"] = 2254
+
+DIRTYWORD["index"][2255] = 2255
+DIRTYWORD[2255] = {}
+	DIRTYWORD[2255]["ID"] = 2255
+	DIRTYWORD[2255]["KEY"] = "狗卵"
+	DIRTYWORD[2255]["real_idx"] = 2255
+
+DIRTYWORD["index"][2256] = 2256
+DIRTYWORD[2256] = {}
+	DIRTYWORD[2256]["ID"] = 2256
+	DIRTYWORD[2256]["KEY"] = "狗娘"
+	DIRTYWORD[2256]["real_idx"] = 2256
+
+DIRTYWORD["index"][2257] = 2257
+DIRTYWORD[2257] = {}
+	DIRTYWORD[2257]["ID"] = 2257
+	DIRTYWORD[2257]["KEY"] = "狗屁"
+	DIRTYWORD[2257]["real_idx"] = 2257
+
+DIRTYWORD["index"][2258] = 2258
+DIRTYWORD[2258] = {}
+	DIRTYWORD[2258]["ID"] = 2258
+	DIRTYWORD[2258]["KEY"] = "狗日"
+	DIRTYWORD[2258]["real_idx"] = 2258
+
+DIRTYWORD["index"][2259] = 2259
+DIRTYWORD[2259] = {}
+	DIRTYWORD[2259]["ID"] = 2259
+	DIRTYWORD[2259]["KEY"] = "狗日的"
+	DIRTYWORD[2259]["real_idx"] = 2259
+
+DIRTYWORD["index"][2260] = 2260
+DIRTYWORD[2260] = {}
+	DIRTYWORD[2260]["ID"] = 2260
+	DIRTYWORD[2260]["KEY"] = "狗屎"
+	DIRTYWORD[2260]["real_idx"] = 2260
+
+DIRTYWORD["index"][2261] = 2261
+DIRTYWORD[2261] = {}
+	DIRTYWORD[2261]["ID"] = 2261
+	DIRTYWORD[2261]["KEY"] = "观世音"
+	DIRTYWORD[2261]["real_idx"] = 2261
+
+DIRTYWORD["index"][2262] = 2262
+DIRTYWORD[2262] = {}
+	DIRTYWORD[2262]["ID"] = 2262
+	DIRTYWORD[2262]["KEY"] = "官逼民反"
+	DIRTYWORD[2262]["real_idx"] = 2262
+
+DIRTYWORD["index"][2263] = 2263
+DIRTYWORD[2263] = {}
+	DIRTYWORD[2263]["ID"] = 2263
+	DIRTYWORD[2263]["KEY"] = "官商勾结"
+	DIRTYWORD[2263]["real_idx"] = 2263
+
+DIRTYWORD["index"][2264] = 2264
+DIRTYWORD[2264] = {}
+	DIRTYWORD[2264]["ID"] = 2264
+	DIRTYWORD[2264]["KEY"] = "龟儿子"
+	DIRTYWORD[2264]["real_idx"] = 2264
+
+DIRTYWORD["index"][2265] = 2265
+DIRTYWORD[2265] = {}
+	DIRTYWORD[2265]["ID"] = 2265
+	DIRTYWORD[2265]["KEY"] = "龟公"
+	DIRTYWORD[2265]["real_idx"] = 2265
+
+DIRTYWORD["index"][2266] = 2266
+DIRTYWORD[2266] = {}
+	DIRTYWORD[2266]["ID"] = 2266
+	DIRTYWORD[2266]["KEY"] = "龟孙子"
+	DIRTYWORD[2266]["real_idx"] = 2266
+
+DIRTYWORD["index"][2267] = 2267
+DIRTYWORD[2267] = {}
+	DIRTYWORD[2267]["ID"] = 2267
+	DIRTYWORD[2267]["KEY"] = "龟头"
+	DIRTYWORD[2267]["real_idx"] = 2267
+
+DIRTYWORD["index"][2268] = 2268
+DIRTYWORD[2268] = {}
+	DIRTYWORD[2268]["ID"] = 2268
+	DIRTYWORD[2268]["KEY"] = "鬼村"
+	DIRTYWORD[2268]["real_idx"] = 2268
+
+DIRTYWORD["index"][2269] = 2269
+DIRTYWORD[2269] = {}
+	DIRTYWORD[2269]["ID"] = 2269
+	DIRTYWORD[2269]["KEY"] = "滚"
+	DIRTYWORD[2269]["real_idx"] = 2269
+
+DIRTYWORD["index"][2270] = 2270
+DIRTYWORD[2270] = {}
+	DIRTYWORD[2270]["ID"] = 2270
+	DIRTYWORD[2270]["KEY"] = "郭伯雄"
+	DIRTYWORD[2270]["real_idx"] = 2270
+
+DIRTYWORD["index"][2271] = 2271
+DIRTYWORD[2271] = {}
+	DIRTYWORD[2271]["ID"] = 2271
+	DIRTYWORD[2271]["KEY"] = "国安局"
+	DIRTYWORD[2271]["real_idx"] = 2271
+
+DIRTYWORD["index"][2272] = 2272
+DIRTYWORD[2272] = {}
+	DIRTYWORD[2272]["ID"] = 2272
+	DIRTYWORD[2272]["KEY"] = "国防部"
+	DIRTYWORD[2272]["real_idx"] = 2272
+
+DIRTYWORD["index"][2273] = 2273
+DIRTYWORD[2273] = {}
+	DIRTYWORD[2273]["ID"] = 2273
+	DIRTYWORD[2273]["KEY"] = "国防科工委"
+	DIRTYWORD[2273]["real_idx"] = 2273
+
+DIRTYWORD["index"][2274] = 2274
+DIRTYWORD[2274] = {}
+	DIRTYWORD[2274]["ID"] = 2274
+	DIRTYWORD[2274]["KEY"] = "国管局"
+	DIRTYWORD[2274]["real_idx"] = 2274
+
+DIRTYWORD["index"][2275] = 2275
+DIRTYWORD[2275] = {}
+	DIRTYWORD[2275]["ID"] = 2275
+	DIRTYWORD[2275]["KEY"] = "国际法院"
+	DIRTYWORD[2275]["real_idx"] = 2275
+
+DIRTYWORD["index"][2276] = 2276
+DIRTYWORD[2276] = {}
+	DIRTYWORD[2276]["ID"] = 2276
+	DIRTYWORD[2276]["KEY"] = "国家民委"
+	DIRTYWORD[2276]["real_idx"] = 2276
+
+DIRTYWORD["index"][2277] = 2277
+DIRTYWORD[2277] = {}
+	DIRTYWORD[2277]["ID"] = 2277
+	DIRTYWORD[2277]["KEY"] = "国家主席"
+	DIRTYWORD[2277]["real_idx"] = 2277
+
+DIRTYWORD["index"][2278] = 2278
+DIRTYWORD[2278] = {}
+	DIRTYWORD[2278]["ID"] = 2278
+	DIRTYWORD[2278]["KEY"] = "国家主要部委"
+	DIRTYWORD[2278]["real_idx"] = 2278
+
+DIRTYWORD["index"][2279] = 2279
+DIRTYWORD[2279] = {}
+	DIRTYWORD[2279]["ID"] = 2279
+	DIRTYWORD[2279]["KEY"] = "国民党"
+	DIRTYWORD[2279]["real_idx"] = 2279
+
+DIRTYWORD["index"][2280] = 2280
+DIRTYWORD[2280] = {}
+	DIRTYWORD[2280]["ID"] = 2280
+	DIRTYWORD[2280]["KEY"] = "国民党万岁"
+	DIRTYWORD[2280]["real_idx"] = 2280
+
+DIRTYWORD["index"][2281] = 2281
+DIRTYWORD[2281] = {}
+	DIRTYWORD[2281]["ID"] = 2281
+	DIRTYWORD[2281]["KEY"] = "海洛因"
+	DIRTYWORD[2281]["real_idx"] = 2281
+
+DIRTYWORD["index"][2282] = 2282
+DIRTYWORD[2282] = {}
+	DIRTYWORD[2282]["ID"] = 2282
+	DIRTYWORD[2282]["KEY"] = "海洋局"
+	DIRTYWORD[2282]["real_idx"] = 2282
+
+DIRTYWORD["index"][2283] = 2283
+DIRTYWORD[2283] = {}
+	DIRTYWORD[2283]["ID"] = 2283
+	DIRTYWORD[2283]["KEY"] = "何候华"
+	DIRTYWORD[2283]["real_idx"] = 2283
+
+DIRTYWORD["index"][2284] = 2284
+DIRTYWORD[2284] = {}
+	DIRTYWORD[2284]["ID"] = 2284
+	DIRTYWORD[2284]["KEY"] = "贺国强"
+	DIRTYWORD[2284]["real_idx"] = 2284
+
+DIRTYWORD["index"][2285] = 2285
+DIRTYWORD[2285] = {}
+	DIRTYWORD[2285]["ID"] = 2285
+	DIRTYWORD[2285]["KEY"] = "贺龙"
+	DIRTYWORD[2285]["real_idx"] = 2285
+
+DIRTYWORD["index"][2286] = 2286
+DIRTYWORD[2286] = {}
+	DIRTYWORD[2286]["ID"] = 2286
+	DIRTYWORD[2286]["KEY"] = "黑社会"
+	DIRTYWORD[2286]["real_idx"] = 2286
+
+DIRTYWORD["index"][2287] = 2287
+DIRTYWORD[2287] = {}
+	DIRTYWORD[2287]["ID"] = 2287
+	DIRTYWORD[2287]["KEY"] = "黑手党"
+	DIRTYWORD[2287]["real_idx"] = 2287
+
+DIRTYWORD["index"][2288] = 2288
+DIRTYWORD[2288] = {}
+	DIRTYWORD[2288]["ID"] = 2288
+	DIRTYWORD[2288]["KEY"] = "黑手党"
+	DIRTYWORD[2288]["real_idx"] = 2288
+
+DIRTYWORD["index"][2289] = 2289
+DIRTYWORD[2289] = {}
+	DIRTYWORD[2289]["ID"] = 2289
+	DIRTYWORD[2289]["KEY"] = "黑手党"
+	DIRTYWORD[2289]["real_idx"] = 2289
+
+DIRTYWORD["index"][2290] = 2290
+DIRTYWORD[2290] = {}
+	DIRTYWORD[2290]["ID"] = 2290
+	DIRTYWORD[2290]["KEY"] = "红卫兵"
+	DIRTYWORD[2290]["real_idx"] = 2290
+
+DIRTYWORD["index"][2291] = 2291
+DIRTYWORD[2291] = {}
+	DIRTYWORD[2291]["ID"] = 2291
+	DIRTYWORD[2291]["KEY"] = "洪兴"
+	DIRTYWORD[2291]["real_idx"] = 2291
+
+DIRTYWORD["index"][2292] = 2292
+DIRTYWORD[2292] = {}
+	DIRTYWORD[2292]["ID"] = 2292
+	DIRTYWORD[2292]["KEY"] = "洪志"
+	DIRTYWORD[2292]["real_idx"] = 2292
+
+DIRTYWORD["index"][2293] = 2293
+DIRTYWORD[2293] = {}
+	DIRTYWORD[2293]["ID"] = 2293
+	DIRTYWORD[2293]["KEY"] = "后庭"
+	DIRTYWORD[2293]["real_idx"] = 2293
+
+DIRTYWORD["index"][2294] = 2294
+DIRTYWORD[2294] = {}
+	DIRTYWORD[2294]["ID"] = 2294
+	DIRTYWORD[2294]["KEY"] = "胡XX"
+	DIRTYWORD[2294]["real_idx"] = 2294
+
+DIRTYWORD["index"][2295] = 2295
+DIRTYWORD[2295] = {}
+	DIRTYWORD[2295]["ID"] = 2295
+	DIRTYWORD[2295]["KEY"] = "胡紧涛"
+	DIRTYWORD[2295]["real_idx"] = 2295
+
+DIRTYWORD["index"][2296] = 2296
+DIRTYWORD[2296] = {}
+	DIRTYWORD[2296]["ID"] = 2296
+	DIRTYWORD[2296]["KEY"] = "胡紧掏"
+	DIRTYWORD[2296]["real_idx"] = 2296
+
+DIRTYWORD["index"][2297] = 2297
+DIRTYWORD[2297] = {}
+	DIRTYWORD[2297]["ID"] = 2297
+	DIRTYWORD[2297]["KEY"] = "胡紧套"
+	DIRTYWORD[2297]["real_idx"] = 2297
+
+DIRTYWORD["index"][2298] = 2298
+DIRTYWORD[2298] = {}
+	DIRTYWORD[2298]["ID"] = 2298
+	DIRTYWORD[2298]["KEY"] = "胡锦涛"
+	DIRTYWORD[2298]["real_idx"] = 2298
+
+DIRTYWORD["index"][2299] = 2299
+DIRTYWORD[2299] = {}
+	DIRTYWORD[2299]["ID"] = 2299
+	DIRTYWORD[2299]["KEY"] = "胡锦淘"
+	DIRTYWORD[2299]["real_idx"] = 2299
+
+DIRTYWORD["index"][2300] = 2300
+DIRTYWORD[2300] = {}
+	DIRTYWORD[2300]["ID"] = 2300
+	DIRTYWORD[2300]["KEY"] = "胡乔木"
+	DIRTYWORD[2300]["real_idx"] = 2300
+
+DIRTYWORD["index"][2301] = 2301
+DIRTYWORD[2301] = {}
+	DIRTYWORD[2301]["ID"] = 2301
+	DIRTYWORD[2301]["KEY"] = "胡耀邦"
+	DIRTYWORD[2301]["real_idx"] = 2301
+
+DIRTYWORD["index"][2302] = 2302
+DIRTYWORD[2302] = {}
+	DIRTYWORD[2302]["ID"] = 2302
+	DIRTYWORD[2302]["KEY"] = "胡主席"
+	DIRTYWORD[2302]["real_idx"] = 2302
+
+DIRTYWORD["index"][2303] = 2303
+DIRTYWORD[2303] = {}
+	DIRTYWORD[2303]["ID"] = 2303
+	DIRTYWORD[2303]["KEY"] = "花柳"
+	DIRTYWORD[2303]["real_idx"] = 2303
+
+DIRTYWORD["index"][2304] = 2304
+DIRTYWORD[2304] = {}
+	DIRTYWORD[2304]["ID"] = 2304
+	DIRTYWORD[2304]["KEY"] = "华国锋"
+	DIRTYWORD[2304]["real_idx"] = 2304
+
+DIRTYWORD["index"][2305] = 2305
+DIRTYWORD[2305] = {}
+	DIRTYWORD[2305]["ID"] = 2305
+	DIRTYWORD[2305]["KEY"] = "华建敏"
+	DIRTYWORD[2305]["real_idx"] = 2305
+
+DIRTYWORD["index"][2306] = 2306
+DIRTYWORD[2306] = {}
+	DIRTYWORD[2306]["ID"] = 2306
+	DIRTYWORD[2306]["KEY"] = "换妻"
+	DIRTYWORD[2306]["real_idx"] = 2306
+
+DIRTYWORD["index"][2307] = 2307
+DIRTYWORD[2307] = {}
+	DIRTYWORD[2307]["ID"] = 2307
+	DIRTYWORD[2307]["KEY"] = "黄　菊"
+	DIRTYWORD[2307]["real_idx"] = 2307
+
+DIRTYWORD["index"][2308] = 2308
+DIRTYWORD[2308] = {}
+	DIRTYWORD[2308]["ID"] = 2308
+	DIRTYWORD[2308]["KEY"] = "黄菊"
+	DIRTYWORD[2308]["real_idx"] = 2308
+
+DIRTYWORD["index"][2309] = 2309
+DIRTYWORD[2309] = {}
+	DIRTYWORD[2309]["ID"] = 2309
+	DIRTYWORD[2309]["KEY"] = "黄色电影"
+	DIRTYWORD[2309]["real_idx"] = 2309
+
+DIRTYWORD["index"][2310] = 2310
+DIRTYWORD[2310] = {}
+	DIRTYWORD[2310]["ID"] = 2310
+	DIRTYWORD[2310]["KEY"] = "黄色小电影"
+	DIRTYWORD[2310]["real_idx"] = 2310
+
+DIRTYWORD["index"][2311] = 2311
+DIRTYWORD[2311] = {}
+	DIRTYWORD[2311]["ID"] = 2311
+	DIRTYWORD[2311]["KEY"] = "回教"
+	DIRTYWORD[2311]["real_idx"] = 2311
+
+DIRTYWORD["index"][2312] = 2312
+DIRTYWORD[2312] = {}
+	DIRTYWORD[2312]["ID"] = 2312
+	DIRTYWORD[2312]["KEY"] = "回良玉"
+	DIRTYWORD[2312]["real_idx"] = 2312
+
+DIRTYWORD["index"][2313] = 2313
+DIRTYWORD[2313] = {}
+	DIRTYWORD[2313]["ID"] = 2313
+	DIRTYWORD[2313]["KEY"] = "回民暴动"
+	DIRTYWORD[2313]["real_idx"] = 2313
+
+DIRTYWORD["index"][2314] = 2314
+DIRTYWORD[2314] = {}
+	DIRTYWORD[2314]["ID"] = 2314
+	DIRTYWORD[2314]["KEY"] = "回族人吃猪肉"
+	DIRTYWORD[2314]["real_idx"] = 2314
+
+DIRTYWORD["index"][2315] = 2315
+DIRTYWORD[2315] = {}
+	DIRTYWORD[2315]["ID"] = 2315
+	DIRTYWORD[2315]["KEY"] = "昏药"
+	DIRTYWORD[2315]["real_idx"] = 2315
+
+DIRTYWORD["index"][2316] = 2316
+DIRTYWORD[2316] = {}
+	DIRTYWORD[2316]["ID"] = 2316
+	DIRTYWORD[2316]["KEY"] = "火棒"
+	DIRTYWORD[2316]["real_idx"] = 2316
+
+DIRTYWORD["index"][2317] = 2317
+DIRTYWORD[2317] = {}
+	DIRTYWORD[2317]["ID"] = 2317
+	DIRTYWORD[2317]["KEY"] = "机八"
+	DIRTYWORD[2317]["real_idx"] = 2317
+
+DIRTYWORD["index"][2318] = 2318
+DIRTYWORD[2318] = {}
+	DIRTYWORD[2318]["ID"] = 2318
+	DIRTYWORD[2318]["KEY"] = "机巴"
+	DIRTYWORD[2318]["real_idx"] = 2318
+
+DIRTYWORD["index"][2319] = 2319
+DIRTYWORD[2319] = {}
+	DIRTYWORD[2319]["ID"] = 2319
+	DIRTYWORD[2319]["KEY"] = "鸡八"
+	DIRTYWORD[2319]["real_idx"] = 2319
+
+DIRTYWORD["index"][2320] = 2320
+DIRTYWORD[2320] = {}
+	DIRTYWORD[2320]["ID"] = 2320
+	DIRTYWORD[2320]["KEY"] = "鸡巴"
+	DIRTYWORD[2320]["real_idx"] = 2320
+
+DIRTYWORD["index"][2321] = 2321
+DIRTYWORD[2321] = {}
+	DIRTYWORD[2321]["ID"] = 2321
+	DIRTYWORD[2321]["KEY"] = "鸡叭"
+	DIRTYWORD[2321]["real_idx"] = 2321
+
+DIRTYWORD["index"][2322] = 2322
+DIRTYWORD[2322] = {}
+	DIRTYWORD[2322]["ID"] = 2322
+	DIRTYWORD[2322]["KEY"] = "鸡芭"
+	DIRTYWORD[2322]["real_idx"] = 2322
+
+DIRTYWORD["index"][2323] = 2323
+DIRTYWORD[2323] = {}
+	DIRTYWORD[2323]["ID"] = 2323
+	DIRTYWORD[2323]["KEY"] = "鸡掰"
+	DIRTYWORD[2323]["real_idx"] = 2323
+
+DIRTYWORD["index"][2324] = 2324
+DIRTYWORD[2324] = {}
+	DIRTYWORD[2324]["ID"] = 2324
+	DIRTYWORD[2324]["KEY"] = "鸡奸"
+	DIRTYWORD[2324]["real_idx"] = 2324
+
+DIRTYWORD["index"][2325] = 2325
+DIRTYWORD[2325] = {}
+	DIRTYWORD[2325]["ID"] = 2325
+	DIRTYWORD[2325]["KEY"] = "基地组织"
+	DIRTYWORD[2325]["real_idx"] = 2325
+
+DIRTYWORD["index"][2326] = 2326
+DIRTYWORD[2326] = {}
+	DIRTYWORD[2326]["ID"] = 2326
+	DIRTYWORD[2326]["KEY"] = "基督"
+	DIRTYWORD[2326]["real_idx"] = 2326
+
+DIRTYWORD["index"][2327] = 2327
+DIRTYWORD[2327] = {}
+	DIRTYWORD[2327]["ID"] = 2327
+	DIRTYWORD[2327]["KEY"] = "基督教"
+	DIRTYWORD[2327]["real_idx"] = 2327
+
+DIRTYWORD["index"][2328] = 2328
+DIRTYWORD[2328] = {}
+	DIRTYWORD[2328]["ID"] = 2328
+	DIRTYWORD[2328]["KEY"] = "激情电影"
+	DIRTYWORD[2328]["real_idx"] = 2328
+
+DIRTYWORD["index"][2329] = 2329
+DIRTYWORD[2329] = {}
+	DIRTYWORD[2329]["ID"] = 2329
+	DIRTYWORD[2329]["KEY"] = "激情小电影"
+	DIRTYWORD[2329]["real_idx"] = 2329
+
+DIRTYWORD["index"][2330] = 2330
+DIRTYWORD[2330] = {}
+	DIRTYWORD[2330]["ID"] = 2330
+	DIRTYWORD[2330]["KEY"] = "鸡"
+	DIRTYWORD[2330]["real_idx"] = 2330
+
+DIRTYWORD["index"][2331] = 2331
+DIRTYWORD[2331] = {}
+	DIRTYWORD[2331]["ID"] = 2331
+	DIRTYWORD[2331]["KEY"] = "计牌软件"
+	DIRTYWORD[2331]["real_idx"] = 2331
+
+DIRTYWORD["index"][2332] = 2332
+DIRTYWORD[2332] = {}
+	DIRTYWORD[2332]["ID"] = 2332
+	DIRTYWORD[2332]["KEY"] = "计生委"
+	DIRTYWORD[2332]["real_idx"] = 2332
+
+DIRTYWORD["index"][2333] = 2333
+DIRTYWORD[2333] = {}
+	DIRTYWORD[2333]["ID"] = 2333
+	DIRTYWORD[2333]["KEY"] = "妓"
+	DIRTYWORD[2333]["real_idx"] = 2333
+
+DIRTYWORD["index"][2334] = 2334
+DIRTYWORD[2334] = {}
+	DIRTYWORD[2334]["ID"] = 2334
+	DIRTYWORD[2334]["KEY"] = "妓女"
+	DIRTYWORD[2334]["real_idx"] = 2334
+
+DIRTYWORD["index"][2335] = 2335
+DIRTYWORD[2335] = {}
+	DIRTYWORD[2335]["ID"] = 2335
+	DIRTYWORD[2335]["KEY"] = "妓院"
+	DIRTYWORD[2335]["real_idx"] = 2335
+
+DIRTYWORD["index"][2336] = 2336
+DIRTYWORD[2336] = {}
+	DIRTYWORD[2336]["ID"] = 2336
+	DIRTYWORD[2336]["KEY"] = "贾庆林"
+	DIRTYWORD[2336]["real_idx"] = 2336
+
+DIRTYWORD["index"][2337] = 2337
+DIRTYWORD[2337] = {}
+	DIRTYWORD[2337]["ID"] = 2337
+	DIRTYWORD[2337]["KEY"] = "奸"
+	DIRTYWORD[2337]["real_idx"] = 2337
+
+DIRTYWORD["index"][2338] = 2338
+DIRTYWORD[2338] = {}
+	DIRTYWORD[2338]["ID"] = 2338
+	DIRTYWORD[2338]["KEY"] = "奸夫淫妇"
+	DIRTYWORD[2338]["real_idx"] = 2338
+
+DIRTYWORD["index"][2339] = 2339
+DIRTYWORD[2339] = {}
+	DIRTYWORD[2339]["ID"] = 2339
+	DIRTYWORD[2339]["KEY"] = "奸你"
+	DIRTYWORD[2339]["real_idx"] = 2339
+
+DIRTYWORD["index"][2340] = 2340
+DIRTYWORD[2340] = {}
+	DIRTYWORD[2340]["ID"] = 2340
+	DIRTYWORD[2340]["KEY"] = "奸淫"
+	DIRTYWORD[2340]["real_idx"] = 2340
+
+DIRTYWORD["index"][2341] = 2341
+DIRTYWORD[2341] = {}
+	DIRTYWORD[2341]["ID"] = 2341
+	DIRTYWORD[2341]["KEY"] = "贱"
+	DIRTYWORD[2341]["real_idx"] = 2341
+
+DIRTYWORD["index"][2342] = 2342
+DIRTYWORD[2342] = {}
+	DIRTYWORD[2342]["ID"] = 2342
+	DIRTYWORD[2342]["KEY"] = "贱逼"
+	DIRTYWORD[2342]["real_idx"] = 2342
+
+DIRTYWORD["index"][2343] = 2343
+DIRTYWORD[2343] = {}
+	DIRTYWORD[2343]["ID"] = 2343
+	DIRTYWORD[2343]["KEY"] = "贱货"
+	DIRTYWORD[2343]["real_idx"] = 2343
+
+DIRTYWORD["index"][2344] = 2344
+DIRTYWORD[2344] = {}
+	DIRTYWORD[2344]["ID"] = 2344
+	DIRTYWORD[2344]["KEY"] = "贱人"
+	DIRTYWORD[2344]["real_idx"] = 2344
+
+DIRTYWORD["index"][2345] = 2345
+DIRTYWORD[2345] = {}
+	DIRTYWORD[2345]["ID"] = 2345
+	DIRTYWORD[2345]["KEY"] = "江Core"
+	DIRTYWORD[2345]["real_idx"] = 2345
+
+DIRTYWORD["index"][2346] = 2346
+DIRTYWORD[2346] = {}
+	DIRTYWORD[2346]["ID"] = 2346
+	DIRTYWORD[2346]["KEY"] = "江八"
+	DIRTYWORD[2346]["real_idx"] = 2346
+
+DIRTYWORD["index"][2347] = 2347
+DIRTYWORD[2347] = {}
+	DIRTYWORD[2347]["ID"] = 2347
+	DIRTYWORD[2347]["KEY"] = "江八点"
+	DIRTYWORD[2347]["real_idx"] = 2347
+
+DIRTYWORD["index"][2348] = 2348
+DIRTYWORD[2348] = {}
+	DIRTYWORD[2348]["ID"] = 2348
+	DIRTYWORD[2348]["KEY"] = "江独裁"
+	DIRTYWORD[2348]["real_idx"] = 2348
+
+DIRTYWORD["index"][2349] = 2349
+DIRTYWORD[2349] = {}
+	DIRTYWORD[2349]["ID"] = 2349
+	DIRTYWORD[2349]["KEY"] = "江核心"
+	DIRTYWORD[2349]["real_idx"] = 2349
+
+DIRTYWORD["index"][2350] = 2350
+DIRTYWORD[2350] = {}
+	DIRTYWORD[2350]["ID"] = 2350
+	DIRTYWORD[2350]["KEY"] = "江青"
+	DIRTYWORD[2350]["real_idx"] = 2350
+
+DIRTYWORD["index"][2351] = 2351
+DIRTYWORD[2351] = {}
+	DIRTYWORD[2351]["ID"] = 2351
+	DIRTYWORD[2351]["KEY"] = "江戏子"
+	DIRTYWORD[2351]["real_idx"] = 2351
+
+DIRTYWORD["index"][2352] = 2352
+DIRTYWORD[2352] = {}
+	DIRTYWORD[2352]["ID"] = 2352
+	DIRTYWORD[2352]["KEY"] = "江择民"
+	DIRTYWORD[2352]["real_idx"] = 2352
+
+DIRTYWORD["index"][2353] = 2353
+DIRTYWORD[2353] = {}
+	DIRTYWORD[2353]["ID"] = 2353
+	DIRTYWORD[2353]["KEY"] = "江泽民"
+	DIRTYWORD[2353]["real_idx"] = 2353
+
+DIRTYWORD["index"][2354] = 2354
+DIRTYWORD[2354] = {}
+	DIRTYWORD[2354]["ID"] = 2354
+	DIRTYWORD[2354]["KEY"] = "江贼民"
+	DIRTYWORD[2354]["real_idx"] = 2354
+
+DIRTYWORD["index"][2355] = 2355
+DIRTYWORD[2355] = {}
+	DIRTYWORD[2355]["ID"] = 2355
+	DIRTYWORD[2355]["KEY"] = "江折民"
+	DIRTYWORD[2355]["real_idx"] = 2355
+
+DIRTYWORD["index"][2356] = 2356
+DIRTYWORD[2356] = {}
+	DIRTYWORD[2356]["ID"] = 2356
+	DIRTYWORD[2356]["KEY"] = "江猪"
+	DIRTYWORD[2356]["real_idx"] = 2356
+
+DIRTYWORD["index"][2357] = 2357
+DIRTYWORD[2357] = {}
+	DIRTYWORD[2357]["ID"] = 2357
+	DIRTYWORD[2357]["KEY"] = "江猪媳"
+	DIRTYWORD[2357]["real_idx"] = 2357
+
+DIRTYWORD["index"][2358] = 2358
+DIRTYWORD[2358] = {}
+	DIRTYWORD[2358]["ID"] = 2358
+	DIRTYWORD[2358]["KEY"] = "江主席"
+	DIRTYWORD[2358]["real_idx"] = 2358
+
+DIRTYWORD["index"][2359] = 2359
+DIRTYWORD[2359] = {}
+	DIRTYWORD[2359]["ID"] = 2359
+	DIRTYWORD[2359]["KEY"] = "僵贼民"
+	DIRTYWORD[2359]["real_idx"] = 2359
+
+DIRTYWORD["index"][2360] = 2360
+DIRTYWORD[2360] = {}
+	DIRTYWORD[2360]["ID"] = 2360
+	DIRTYWORD[2360]["KEY"] = "疆独"
+	DIRTYWORD[2360]["real_idx"] = 2360
+
+DIRTYWORD["index"][2361] = 2361
+DIRTYWORD[2361] = {}
+	DIRTYWORD[2361]["ID"] = 2361
+	DIRTYWORD[2361]["KEY"] = "蒋介石"
+	DIRTYWORD[2361]["real_idx"] = 2361
+
+DIRTYWORD["index"][2362] = 2362
+DIRTYWORD[2362] = {}
+	DIRTYWORD[2362]["ID"] = 2362
+	DIRTYWORD[2362]["KEY"] = "蒋经国"
+	DIRTYWORD[2362]["real_idx"] = 2362
+
+DIRTYWORD["index"][2363] = 2363
+DIRTYWORD[2363] = {}
+	DIRTYWORD[2363]["ID"] = 2363
+	DIRTYWORD[2363]["KEY"] = "蒋中正"
+	DIRTYWORD[2363]["real_idx"] = 2363
+
+DIRTYWORD["index"][2364] = 2364
+DIRTYWORD[2364] = {}
+	DIRTYWORD[2364]["ID"] = 2364
+	DIRTYWORD[2364]["KEY"] = "酱猪媳"
+	DIRTYWORD[2364]["real_idx"] = 2364
+
+DIRTYWORD["index"][2365] = 2365
+DIRTYWORD[2365] = {}
+	DIRTYWORD[2365]["ID"] = 2365
+	DIRTYWORD[2365]["KEY"] = "交通部"
+	DIRTYWORD[2365]["real_idx"] = 2365
+
+DIRTYWORD["index"][2366] = 2366
+DIRTYWORD[2366] = {}
+	DIRTYWORD[2366]["ID"] = 2366
+	DIRTYWORD[2366]["KEY"] = "姣西"
+	DIRTYWORD[2366]["real_idx"] = 2366
+
+DIRTYWORD["index"][2367] = 2367
+DIRTYWORD[2367] = {}
+	DIRTYWORD[2367]["ID"] = 2367
+	DIRTYWORD[2367]["KEY"] = "叫床"
+	DIRTYWORD[2367]["real_idx"] = 2367
+
+DIRTYWORD["index"][2368] = 2368
+DIRTYWORD[2368] = {}
+	DIRTYWORD[2368]["ID"] = 2368
+	DIRTYWORD[2368]["KEY"] = "叫鸡"
+	DIRTYWORD[2368]["real_idx"] = 2368
+
+DIRTYWORD["index"][2369] = 2369
+DIRTYWORD[2369] = {}
+	DIRTYWORD[2369]["ID"] = 2369
+	DIRTYWORD[2369]["KEY"] = "叫小姐"
+	DIRTYWORD[2369]["real_idx"] = 2369
+
+DIRTYWORD["index"][2370] = 2370
+DIRTYWORD[2370] = {}
+	DIRTYWORD[2370]["ID"] = 2370
+	DIRTYWORD[2370]["KEY"] = "教育部"
+	DIRTYWORD[2370]["real_idx"] = 2370
+
+DIRTYWORD["index"][2371] = 2371
+DIRTYWORD[2371] = {}
+	DIRTYWORD[2371]["ID"] = 2371
+	DIRTYWORD[2371]["KEY"] = "她妈的金日成"
+	DIRTYWORD[2371]["real_idx"] = 2371
+
+DIRTYWORD["index"][2372] = 2372
+DIRTYWORD[2372] = {}
+	DIRTYWORD[2372]["ID"] = 2372
+	DIRTYWORD[2372]["KEY"] = "金正日"
+	DIRTYWORD[2372]["real_idx"] = 2372
+
+DIRTYWORD["index"][2373] = 2373
+DIRTYWORD[2373] = {}
+	DIRTYWORD[2373]["ID"] = 2373
+	DIRTYWORD[2373]["KEY"] = "禁书"
+	DIRTYWORD[2373]["real_idx"] = 2373
+
+DIRTYWORD["index"][2374] = 2374
+DIRTYWORD[2374] = {}
+	DIRTYWORD[2374]["ID"] = 2374
+	DIRTYWORD[2374]["KEY"] = "经济社会理事会"
+	DIRTYWORD[2374]["real_idx"] = 2374
+
+DIRTYWORD["index"][2375] = 2375
+DIRTYWORD[2375] = {}
+	DIRTYWORD[2375]["ID"] = 2375
+	DIRTYWORD[2375]["KEY"] = "经社理事会"
+	DIRTYWORD[2375]["real_idx"] = 2375
+
+DIRTYWORD["index"][2376] = 2376
+DIRTYWORD[2376] = {}
+	DIRTYWORD[2376]["ID"] = 2376
+	DIRTYWORD[2376]["KEY"] = "精液"
+	DIRTYWORD[2376]["real_idx"] = 2376
+
+DIRTYWORD["index"][2377] = 2377
+DIRTYWORD[2377] = {}
+	DIRTYWORD[2377]["ID"] = 2377
+	DIRTYWORD[2377]["KEY"] = "精子"
+	DIRTYWORD[2377]["real_idx"] = 2377
+
+DIRTYWORD["index"][2378] = 2378
+DIRTYWORD[2378] = {}
+	DIRTYWORD[2378]["ID"] = 2378
+	DIRTYWORD[2378]["KEY"] = "警匪一家"
+	DIRTYWORD[2378]["real_idx"] = 2378
+
+DIRTYWORD["index"][2379] = 2379
+DIRTYWORD[2379] = {}
+	DIRTYWORD[2379]["ID"] = 2379
+	DIRTYWORD[2379]["KEY"] = "敬国神社"
+	DIRTYWORD[2379]["real_idx"] = 2379
+
+DIRTYWORD["index"][2380] = 2380
+DIRTYWORD[2380] = {}
+	DIRTYWORD[2380]["ID"] = 2380
+	DIRTYWORD[2380]["KEY"] = "靖国神社"
+	DIRTYWORD[2380]["real_idx"] = 2380
+
+DIRTYWORD["index"][2381] = 2381
+DIRTYWORD[2381] = {}
+	DIRTYWORD[2381]["ID"] = 2381
+	DIRTYWORD[2381]["KEY"] = "静坐"
+	DIRTYWORD[2381]["real_idx"] = 2381
+
+DIRTYWORD["index"][2382] = 2382
+DIRTYWORD[2382] = {}
+	DIRTYWORD[2382]["ID"] = 2382
+	DIRTYWORD[2382]["KEY"] = "纠察员"
+	DIRTYWORD[2382]["real_idx"] = 2382
+
+DIRTYWORD["index"][2383] = 2383
+DIRTYWORD[2383] = {}
+	DIRTYWORD[2383]["ID"] = 2383
+	DIRTYWORD[2383]["KEY"] = "鸠"
+	DIRTYWORD[2383]["real_idx"] = 2383
+
+DIRTYWORD["index"][2384] = 2384
+DIRTYWORD[2384] = {}
+	DIRTYWORD[2384]["ID"] = 2384
+	DIRTYWORD[2384]["KEY"] = "鸠屎"
+	DIRTYWORD[2384]["real_idx"] = 2384
+
+DIRTYWORD["index"][2385] = 2385
+DIRTYWORD[2385] = {}
+	DIRTYWORD[2385]["ID"] = 2385
+	DIRTYWORD[2385]["KEY"] = "军长发威"
+	DIRTYWORD[2385]["real_idx"] = 2385
+
+DIRTYWORD["index"][2386] = 2386
+DIRTYWORD[2386] = {}
+	DIRTYWORD[2386]["ID"] = 2386
+	DIRTYWORD[2386]["KEY"] = "军国主义"
+	DIRTYWORD[2386]["real_idx"] = 2386
+
+DIRTYWORD["index"][2387] = 2387
+DIRTYWORD[2387] = {}
+	DIRTYWORD[2387]["ID"] = 2387
+	DIRTYWORD[2387]["KEY"] = "军妓"
+	DIRTYWORD[2387]["real_idx"] = 2387
+
+DIRTYWORD["index"][2388] = 2388
+DIRTYWORD[2388] = {}
+	DIRTYWORD[2388]["ID"] = 2388
+	DIRTYWORD[2388]["KEY"] = "尻"
+	DIRTYWORD[2388]["real_idx"] = 2388
+
+DIRTYWORD["index"][2389] = 2389
+DIRTYWORD[2389] = {}
+	DIRTYWORD[2389]["ID"] = 2389
+	DIRTYWORD[2389]["KEY"] = "靠"
+	DIRTYWORD[2389]["real_idx"] = 2389
+
+DIRTYWORD["index"][2390] = 2390
+DIRTYWORD[2390] = {}
+	DIRTYWORD[2390]["ID"] = 2390
+	DIRTYWORD[2390]["KEY"] = "靠你妈"
+	DIRTYWORD[2390]["real_idx"] = 2390
+
+DIRTYWORD["index"][2391] = 2391
+DIRTYWORD[2391] = {}
+	DIRTYWORD[2391]["ID"] = 2391
+	DIRTYWORD[2391]["KEY"] = "靠腰"
+	DIRTYWORD[2391]["real_idx"] = 2391
+
+DIRTYWORD["index"][2392] = 2392
+DIRTYWORD[2392] = {}
+	DIRTYWORD[2392]["ID"] = 2392
+	DIRTYWORD[2392]["KEY"] = "可待因"
+	DIRTYWORD[2392]["real_idx"] = 2392
+
+DIRTYWORD["index"][2393] = 2393
+DIRTYWORD[2393] = {}
+	DIRTYWORD[2393]["ID"] = 2393
+	DIRTYWORD[2393]["KEY"] = "可卡叶"
+	DIRTYWORD[2393]["real_idx"] = 2393
+
+DIRTYWORD["index"][2394] = 2394
+DIRTYWORD[2394] = {}
+	DIRTYWORD[2394]["ID"] = 2394
+	DIRTYWORD[2394]["KEY"] = "可卡因"
+	DIRTYWORD[2394]["real_idx"] = 2394
+
+DIRTYWORD["index"][2395] = 2395
+DIRTYWORD[2395] = {}
+	DIRTYWORD[2395]["ID"] = 2395
+	DIRTYWORD[2395]["KEY"] = "克林顿"
+	DIRTYWORD[2395]["real_idx"] = 2395
+
+DIRTYWORD["index"][2396] = 2396
+DIRTYWORD[2396] = {}
+	DIRTYWORD[2396]["ID"] = 2396
+	DIRTYWORD[2396]["KEY"] = "恐怖份子"
+	DIRTYWORD[2396]["real_idx"] = 2396
+
+DIRTYWORD["index"][2397] = 2397
+DIRTYWORD[2397] = {}
+	DIRTYWORD[2397]["ID"] = 2397
+	DIRTYWORD[2397]["KEY"] = "恐怖主义"
+	DIRTYWORD[2397]["real_idx"] = 2397
+
+DIRTYWORD["index"][2398] = 2398
+DIRTYWORD[2398] = {}
+	DIRTYWORD[2398]["ID"] = 2398
+	DIRTYWORD[2398]["KEY"] = "口交"
+	DIRTYWORD[2398]["real_idx"] = 2398
+
+DIRTYWORD["index"][2399] = 2399
+DIRTYWORD[2399] = {}
+	DIRTYWORD[2399]["ID"] = 2399
+	DIRTYWORD[2399]["KEY"] = "寇晓伟"
+	DIRTYWORD[2399]["real_idx"] = 2399
+
+DIRTYWORD["index"][2400] = 2400
+DIRTYWORD[2400] = {}
+	DIRTYWORD[2400]["ID"] = 2400
+	DIRTYWORD[2400]["KEY"] = "狂操"
+	DIRTYWORD[2400]["real_idx"] = 2400
+
+DIRTYWORD["index"][2401] = 2401
+DIRTYWORD[2401] = {}
+	DIRTYWORD[2401]["ID"] = 2401
+	DIRTYWORD[2401]["KEY"] = "狂操你全家"
+	DIRTYWORD[2401]["real_idx"] = 2401
+
+DIRTYWORD["index"][2402] = 2402
+DIRTYWORD[2402] = {}
+	DIRTYWORD[2402]["ID"] = 2402
+	DIRTYWORD[2402]["KEY"] = "拉登"
+	DIRTYWORD[2402]["real_idx"] = 2402
+
+DIRTYWORD["index"][2403] = 2403
+DIRTYWORD[2403] = {}
+	DIRTYWORD[2403]["ID"] = 2403
+	DIRTYWORD[2403]["KEY"] = "拉姆斯菲尔德"
+	DIRTYWORD[2403]["real_idx"] = 2403
+
+DIRTYWORD["index"][2404] = 2404
+DIRTYWORD[2404] = {}
+	DIRTYWORD[2404]["ID"] = 2404
+	DIRTYWORD[2404]["KEY"] = "懒教"
+	DIRTYWORD[2404]["real_idx"] = 2404
+
+DIRTYWORD["index"][2405] = 2405
+DIRTYWORD[2405] = {}
+	DIRTYWORD[2405]["ID"] = 2405
+	DIRTYWORD[2405]["KEY"] = "烂B"
+	DIRTYWORD[2405]["real_idx"] = 2405
+
+DIRTYWORD["index"][2406] = 2406
+DIRTYWORD[2406] = {}
+	DIRTYWORD[2406]["ID"] = 2406
+	DIRTYWORD[2406]["KEY"] = "烂屄"
+	DIRTYWORD[2406]["real_idx"] = 2406
+
+DIRTYWORD["index"][2407] = 2407
+DIRTYWORD[2407] = {}
+	DIRTYWORD[2407]["ID"] = 2407
+	DIRTYWORD[2407]["KEY"] = "烂逼"
+	DIRTYWORD[2407]["real_idx"] = 2407
+
+DIRTYWORD["index"][2408] = 2408
+DIRTYWORD[2408] = {}
+	DIRTYWORD[2408]["ID"] = 2408
+	DIRTYWORD[2408]["KEY"] = "烂比"
+	DIRTYWORD[2408]["real_idx"] = 2408
+
+DIRTYWORD["index"][2409] = 2409
+DIRTYWORD[2409] = {}
+	DIRTYWORD[2409]["ID"] = 2409
+	DIRTYWORD[2409]["KEY"] = "烂屌"
+	DIRTYWORD[2409]["real_idx"] = 2409
+
+DIRTYWORD["index"][2410] = 2410
+DIRTYWORD[2410] = {}
+	DIRTYWORD[2410]["ID"] = 2410
+	DIRTYWORD[2410]["KEY"] = "烂货"
+	DIRTYWORD[2410]["real_idx"] = 2410
+
+DIRTYWORD["index"][2411] = 2411
+DIRTYWORD[2411] = {}
+	DIRTYWORD[2411]["ID"] = 2411
+	DIRTYWORD[2411]["KEY"] = "劳+教+所"
+	DIRTYWORD[2411]["real_idx"] = 2411
+
+DIRTYWORD["index"][2412] = 2412
+DIRTYWORD[2412] = {}
+	DIRTYWORD[2412]["ID"] = 2412
+	DIRTYWORD[2412]["KEY"] = "劳动保障部"
+	DIRTYWORD[2412]["real_idx"] = 2412
+
+DIRTYWORD["index"][2413] = 2413
+DIRTYWORD[2413] = {}
+	DIRTYWORD[2413]["ID"] = 2413
+	DIRTYWORD[2413]["KEY"] = "老逼"
+	DIRTYWORD[2413]["real_idx"] = 2413
+
+DIRTYWORD["index"][2414] = 2414
+DIRTYWORD[2414] = {}
+	DIRTYWORD[2414]["ID"] = 2414
+	DIRTYWORD[2414]["KEY"] = "老毛子"
+	DIRTYWORD[2414]["real_idx"] = 2414
+
+DIRTYWORD["index"][2415] = 2415
+DIRTYWORD[2415] = {}
+	DIRTYWORD[2415]["ID"] = 2415
+	DIRTYWORD[2415]["KEY"] = "老母"
+	DIRTYWORD[2415]["real_idx"] = 2415
+
+DIRTYWORD["index"][2416] = 2416
+DIRTYWORD[2416] = {}
+	DIRTYWORD[2416]["ID"] = 2416
+	DIRTYWORD[2416]["KEY"] = "黎阳评"
+	DIRTYWORD[2416]["real_idx"] = 2416
+
+DIRTYWORD["index"][2417] = 2417
+DIRTYWORD[2417] = {}
+	DIRTYWORD[2417]["ID"] = 2417
+	DIRTYWORD[2417]["KEY"] = "李长春"
+	DIRTYWORD[2417]["real_idx"] = 2417
+
+DIRTYWORD["index"][2418] = 2418
+DIRTYWORD[2418] = {}
+	DIRTYWORD[2418]["ID"] = 2418
+	DIRTYWORD[2418]["KEY"] = "李登辉"
+	DIRTYWORD[2418]["real_idx"] = 2418
+
+DIRTYWORD["index"][2419] = 2419
+DIRTYWORD[2419] = {}
+	DIRTYWORD[2419]["ID"] = 2419
+	DIRTYWORD[2419]["KEY"] = "李弘旨"
+	DIRTYWORD[2419]["real_idx"] = 2419
+
+DIRTYWORD["index"][2420] = 2420
+DIRTYWORD[2420] = {}
+	DIRTYWORD[2420]["ID"] = 2420
+	DIRTYWORD[2420]["KEY"] = "李红志"
+	DIRTYWORD[2420]["real_idx"] = 2420
+
+DIRTYWORD["index"][2421] = 2421
+DIRTYWORD[2421] = {}
+	DIRTYWORD[2421]["ID"] = 2421
+	DIRTYWORD[2421]["KEY"] = "李宏旨"
+	DIRTYWORD[2421]["real_idx"] = 2421
+
+DIRTYWORD["index"][2422] = 2422
+DIRTYWORD[2422] = {}
+	DIRTYWORD[2422]["ID"] = 2422
+	DIRTYWORD[2422]["KEY"] = "李宏志"
+	DIRTYWORD[2422]["real_idx"] = 2422
+
+DIRTYWORD["index"][2423] = 2423
+DIRTYWORD[2423] = {}
+	DIRTYWORD[2423]["ID"] = 2423
+	DIRTYWORD[2423]["KEY"] = "李洪志"
+	DIRTYWORD[2423]["real_idx"] = 2423
+
+DIRTYWORD["index"][2424] = 2424
+DIRTYWORD[2424] = {}
+	DIRTYWORD[2424]["ID"] = 2424
+	DIRTYWORD[2424]["KEY"] = "李岚清"
+	DIRTYWORD[2424]["real_idx"] = 2424
+
+DIRTYWORD["index"][2425] = 2425
+DIRTYWORD[2425] = {}
+	DIRTYWORD[2425]["ID"] = 2425
+	DIRTYWORD[2425]["KEY"] = "李鹏"
+	DIRTYWORD[2425]["real_idx"] = 2425
+
+DIRTYWORD["index"][2426] = 2426
+DIRTYWORD[2426] = {}
+	DIRTYWORD[2426]["ID"] = 2426
+	DIRTYWORD[2426]["KEY"] = "李鹏*"
+	DIRTYWORD[2426]["real_idx"] = 2426
+
+DIRTYWORD["index"][2427] = 2427
+DIRTYWORD[2427] = {}
+	DIRTYWORD[2427]["ID"] = 2427
+	DIRTYWORD[2427]["KEY"] = "李瑞环"
+	DIRTYWORD[2427]["real_idx"] = 2427
+
+DIRTYWORD["index"][2428] = 2428
+DIRTYWORD[2428] = {}
+	DIRTYWORD[2428]["ID"] = 2428
+	DIRTYWORD[2428]["KEY"] = "李山"
+	DIRTYWORD[2428]["real_idx"] = 2428
+
+DIRTYWORD["index"][2429] = 2429
+DIRTYWORD[2429] = {}
+	DIRTYWORD[2429]["ID"] = 2429
+	DIRTYWORD[2429]["KEY"] = "李铁映"
+	DIRTYWORD[2429]["real_idx"] = 2429
+
+DIRTYWORD["index"][2430] = 2430
+DIRTYWORD[2430] = {}
+	DIRTYWORD[2430]["ID"] = 2430
+	DIRTYWORD[2430]["KEY"] = "李先念"
+	DIRTYWORD[2430]["real_idx"] = 2430
+
+DIRTYWORD["index"][2431] = 2431
+DIRTYWORD[2431] = {}
+	DIRTYWORD[2431]["ID"] = 2431
+	DIRTYWORD[2431]["KEY"] = "连战"
+	DIRTYWORD[2431]["real_idx"] = 2431
+
+DIRTYWORD["index"][2432] = 2432
+DIRTYWORD[2432] = {}
+	DIRTYWORD[2432]["ID"] = 2432
+	DIRTYWORD[2432]["KEY"] = "联大"
+	DIRTYWORD[2432]["real_idx"] = 2432
+
+DIRTYWORD["index"][2433] = 2433
+DIRTYWORD[2433] = {}
+	DIRTYWORD[2433]["ID"] = 2433
+	DIRTYWORD[2433]["KEY"] = "联合国"
+	DIRTYWORD[2433]["real_idx"] = 2433
+
+DIRTYWORD["index"][2434] = 2434
+DIRTYWORD[2434] = {}
+	DIRTYWORD[2434]["ID"] = 2434
+	DIRTYWORD[2434]["KEY"] = "联合国大会"
+	DIRTYWORD[2434]["real_idx"] = 2434
+
+DIRTYWORD["index"][2435] = 2435
+DIRTYWORD[2435] = {}
+	DIRTYWORD[2435]["ID"] = 2435
+	DIRTYWORD[2435]["KEY"] = "联易"
+	DIRTYWORD[2435]["real_idx"] = 2435
+
+DIRTYWORD["index"][2436] = 2436
+DIRTYWORD[2436] = {}
+	DIRTYWORD[2436]["ID"] = 2436
+	DIRTYWORD[2436]["KEY"] = "联易互动"
+	DIRTYWORD[2436]["real_idx"] = 2436
+
+DIRTYWORD["index"][2437] = 2437
+DIRTYWORD[2437] = {}
+	DIRTYWORD[2437]["ID"] = 2437
+	DIRTYWORD[2437]["KEY"] = "粮食局"
+	DIRTYWORD[2437]["real_idx"] = 2437
+
+DIRTYWORD["index"][2438] = 2438
+DIRTYWORD[2438] = {}
+	DIRTYWORD[2438]["ID"] = 2438
+	DIRTYWORD[2438]["KEY"] = "两腿之间"
+	DIRTYWORD[2438]["real_idx"] = 2438
+
+DIRTYWORD["index"][2439] = 2439
+DIRTYWORD[2439] = {}
+	DIRTYWORD[2439]["ID"] = 2439
+	DIRTYWORD[2439]["KEY"] = "列宁"
+	DIRTYWORD[2439]["real_idx"] = 2439
+
+DIRTYWORD["index"][2440] = 2440
+DIRTYWORD[2440] = {}
+	DIRTYWORD[2440]["ID"] = 2440
+	DIRTYWORD[2440]["KEY"] = "林彪"
+	DIRTYWORD[2440]["real_idx"] = 2440
+
+DIRTYWORD["index"][2441] = 2441
+DIRTYWORD[2441] = {}
+	DIRTYWORD[2441]["ID"] = 2441
+	DIRTYWORD[2441]["KEY"] = "林业局"
+	DIRTYWORD[2441]["real_idx"] = 2441
+
+DIRTYWORD["index"][2442] = 2442
+DIRTYWORD[2442] = {}
+	DIRTYWORD[2442]["ID"] = 2442
+	DIRTYWORD[2442]["KEY"] = "刘　淇"
+	DIRTYWORD[2442]["real_idx"] = 2442
+
+DIRTYWORD["index"][2443] = 2443
+DIRTYWORD[2443] = {}
+	DIRTYWORD[2443]["ID"] = 2443
+	DIRTYWORD[2443]["KEY"] = "刘军"
+	DIRTYWORD[2443]["real_idx"] = 2443
+
+DIRTYWORD["index"][2444] = 2444
+DIRTYWORD[2444] = {}
+	DIRTYWORD[2444]["ID"] = 2444
+	DIRTYWORD[2444]["KEY"] = "刘淇"
+	DIRTYWORD[2444]["real_idx"] = 2444
+
+DIRTYWORD["index"][2445] = 2445
+DIRTYWORD[2445] = {}
+	DIRTYWORD[2445]["ID"] = 2445
+	DIRTYWORD[2445]["KEY"] = "刘少奇"
+	DIRTYWORD[2445]["real_idx"] = 2445
+
+DIRTYWORD["index"][2446] = 2446
+DIRTYWORD[2446] = {}
+	DIRTYWORD[2446]["ID"] = 2446
+	DIRTYWORD[2446]["KEY"] = "刘云山"
+	DIRTYWORD[2446]["real_idx"] = 2446
+
+DIRTYWORD["index"][2447] = 2447
+DIRTYWORD[2447] = {}
+	DIRTYWORD[2447]["ID"] = 2447
+	DIRTYWORD[2447]["KEY"] = "流氓"
+	DIRTYWORD[2447]["real_idx"] = 2447
+
+DIRTYWORD["index"][2448] = 2448
+DIRTYWORD[2448] = {}
+	DIRTYWORD[2448]["ID"] = 2448
+	DIRTYWORD[2448]["KEY"] = "六.四"
+	DIRTYWORD[2448]["real_idx"] = 2448
+
+DIRTYWORD["index"][2449] = 2449
+DIRTYWORD[2449] = {}
+	DIRTYWORD[2449]["ID"] = 2449
+	DIRTYWORD[2449]["KEY"] = "六。四"
+	DIRTYWORD[2449]["real_idx"] = 2449
+
+DIRTYWORD["index"][2450] = 2450
+DIRTYWORD[2450] = {}
+	DIRTYWORD[2450]["ID"] = 2450
+	DIRTYWORD[2450]["KEY"] = "六?四"
+	DIRTYWORD[2450]["real_idx"] = 2450
+
+DIRTYWORD["index"][2451] = 2451
+DIRTYWORD[2451] = {}
+	DIRTYWORD[2451]["ID"] = 2451
+	DIRTYWORD[2451]["KEY"] = "六合彩"
+	DIRTYWORD[2451]["real_idx"] = 2451
+
+DIRTYWORD["index"][2452] = 2452
+DIRTYWORD[2452] = {}
+	DIRTYWORD[2452]["ID"] = 2452
+	DIRTYWORD[2452]["KEY"] = "六四"
+	DIRTYWORD[2452]["real_idx"] = 2452
+
+DIRTYWORD["index"][2453] = 2453
+DIRTYWORD[2453] = {}
+	DIRTYWORD[2453]["ID"] = 2453
+	DIRTYWORD[2453]["KEY"] = "六-四"
+	DIRTYWORD[2453]["real_idx"] = 2453
+
+DIRTYWORD["index"][2454] = 2454
+DIRTYWORD[2454] = {}
+	DIRTYWORD[2454]["ID"] = 2454
+	DIRTYWORD[2454]["KEY"] = "六四事件"
+	DIRTYWORD[2454]["real_idx"] = 2454
+
+DIRTYWORD["index"][2455] = 2455
+DIRTYWORD[2455] = {}
+	DIRTYWORD[2455]["ID"] = 2455
+	DIRTYWORD[2455]["KEY"] = "六四真相"
+	DIRTYWORD[2455]["real_idx"] = 2455
+
+DIRTYWORD["index"][2456] = 2456
+DIRTYWORD[2456] = {}
+	DIRTYWORD[2456]["ID"] = 2456
+	DIRTYWORD[2456]["KEY"] = "龙新民"
+	DIRTYWORD[2456]["real_idx"] = 2456
+
+DIRTYWORD["index"][2457] = 2457
+DIRTYWORD[2457] = {}
+	DIRTYWORD[2457]["ID"] = 2457
+	DIRTYWORD[2457]["KEY"] = "吕秀莲"
+	DIRTYWORD[2457]["real_idx"] = 2457
+
+DIRTYWORD["index"][2458] = 2458
+DIRTYWORD[2458] = {}
+	DIRTYWORD[2458]["ID"] = 2458
+	DIRTYWORD[2458]["KEY"] = "旅游局"
+	DIRTYWORD[2458]["real_idx"] = 2458
+
+DIRTYWORD["index"][2459] = 2459
+DIRTYWORD[2459] = {}
+	DIRTYWORD[2459]["ID"] = 2459
+	DIRTYWORD[2459]["KEY"] = "卵"
+	DIRTYWORD[2459]["real_idx"] = 2459
+
+DIRTYWORD["index"][2460] = 2460
+DIRTYWORD[2460] = {}
+	DIRTYWORD[2460]["ID"] = 2460
+	DIRTYWORD[2460]["KEY"] = "轮功"
+	DIRTYWORD[2460]["real_idx"] = 2460
+
+DIRTYWORD["index"][2461] = 2461
+DIRTYWORD[2461] = {}
+	DIRTYWORD[2461]["ID"] = 2461
+	DIRTYWORD[2461]["KEY"] = "轮奸"
+	DIRTYWORD[2461]["real_idx"] = 2461
+
+DIRTYWORD["index"][2462] = 2462
+DIRTYWORD[2462] = {}
+	DIRTYWORD[2462]["ID"] = 2462
+	DIRTYWORD[2462]["KEY"] = "罗　干"
+	DIRTYWORD[2462]["real_idx"] = 2462
+
+DIRTYWORD["index"][2463] = 2463
+DIRTYWORD[2463] = {}
+	DIRTYWORD[2463]["ID"] = 2463
+	DIRTYWORD[2463]["KEY"] = "罗干"
+	DIRTYWORD[2463]["real_idx"] = 2463
+
+DIRTYWORD["index"][2464] = 2464
+DIRTYWORD[2464] = {}
+	DIRTYWORD[2464]["ID"] = 2464
+	DIRTYWORD[2464]["KEY"] = "骡干"
+	DIRTYWORD[2464]["real_idx"] = 2464
+
+DIRTYWORD["index"][2465] = 2465
+DIRTYWORD[2465] = {}
+	DIRTYWORD[2465]["ID"] = 2465
+	DIRTYWORD[2465]["KEY"] = "妈逼"
+	DIRTYWORD[2465]["real_idx"] = 2465
+
+DIRTYWORD["index"][2466] = 2466
+DIRTYWORD[2466] = {}
+	DIRTYWORD[2466]["ID"] = 2466
+	DIRTYWORD[2466]["KEY"] = "妈比"
+	DIRTYWORD[2466]["real_idx"] = 2466
+
+DIRTYWORD["index"][2467] = 2467
+DIRTYWORD[2467] = {}
+	DIRTYWORD[2467]["ID"] = 2467
+	DIRTYWORD[2467]["KEY"] = "妈卖妈屁"
+	DIRTYWORD[2467]["real_idx"] = 2467
+
+DIRTYWORD["index"][2468] = 2468
+DIRTYWORD[2468] = {}
+	DIRTYWORD[2468]["ID"] = 2468
+	DIRTYWORD[2468]["KEY"] = "妈批"
+	DIRTYWORD[2468]["real_idx"] = 2468
+
+DIRTYWORD["index"][2469] = 2469
+DIRTYWORD[2469] = {}
+	DIRTYWORD[2469]["ID"] = 2469
+	DIRTYWORD[2469]["KEY"] = "妈祖"
+	DIRTYWORD[2469]["real_idx"] = 2469
+
+DIRTYWORD["index"][2470] = 2470
+DIRTYWORD[2470] = {}
+	DIRTYWORD[2470]["ID"] = 2470
+	DIRTYWORD[2470]["KEY"] = "妈B"
+	DIRTYWORD[2470]["real_idx"] = 2470
+
+DIRTYWORD["index"][2471] = 2471
+DIRTYWORD[2471] = {}
+	DIRTYWORD[2471]["ID"] = 2471
+	DIRTYWORD[2471]["KEY"] = "妈的"
+	DIRTYWORD[2471]["real_idx"] = 2471
+
+DIRTYWORD["index"][2472] = 2472
+DIRTYWORD[2472] = {}
+	DIRTYWORD[2472]["ID"] = 2472
+	DIRTYWORD[2472]["KEY"] = "麻醉钢枪"
+	DIRTYWORD[2472]["real_idx"] = 2472
+
+DIRTYWORD["index"][2473] = 2473
+DIRTYWORD[2473] = {}
+	DIRTYWORD[2473]["ID"] = 2473
+	DIRTYWORD[2473]["KEY"] = "麻醉枪"
+	DIRTYWORD[2473]["real_idx"] = 2473
+
+DIRTYWORD["index"][2474] = 2474
+DIRTYWORD[2474] = {}
+	DIRTYWORD[2474]["ID"] = 2474
+	DIRTYWORD[2474]["KEY"] = "麻醉药"
+	DIRTYWORD[2474]["real_idx"] = 2474
+
+DIRTYWORD["index"][2475] = 2475
+DIRTYWORD[2475] = {}
+	DIRTYWORD[2475]["ID"] = 2475
+	DIRTYWORD[2475]["KEY"] = "麻醉乙醚"
+	DIRTYWORD[2475]["real_idx"] = 2475
+
+DIRTYWORD["index"][2476] = 2476
+DIRTYWORD[2476] = {}
+	DIRTYWORD[2476]["ID"] = 2476
+	DIRTYWORD[2476]["KEY"] = "马克思"
+	DIRTYWORD[2476]["real_idx"] = 2476
+
+DIRTYWORD["index"][2477] = 2477
+DIRTYWORD[2477] = {}
+	DIRTYWORD[2477]["ID"] = 2477
+	DIRTYWORD[2477]["KEY"] = "马卖马屁"
+	DIRTYWORD[2477]["real_idx"] = 2477
+
+DIRTYWORD["index"][2478] = 2478
+DIRTYWORD[2478] = {}
+	DIRTYWORD[2478]["ID"] = 2478
+	DIRTYWORD[2478]["KEY"] = "马英九"
+	DIRTYWORD[2478]["real_idx"] = 2478
+
+DIRTYWORD["index"][2479] = 2479
+DIRTYWORD[2479] = {}
+	DIRTYWORD[2479]["ID"] = 2479
+	DIRTYWORD[2479]["KEY"] = "吗啡"
+	DIRTYWORD[2479]["real_idx"] = 2479
+
+DIRTYWORD["index"][2480] = 2480
+DIRTYWORD[2480] = {}
+	DIRTYWORD[2480]["ID"] = 2480
+	DIRTYWORD[2480]["KEY"] = "吗啡碱"
+	DIRTYWORD[2480]["real_idx"] = 2480
+
+DIRTYWORD["index"][2481] = 2481
+DIRTYWORD[2481] = {}
+	DIRTYWORD[2481]["ID"] = 2481
+	DIRTYWORD[2481]["KEY"] = "吗啡片"
+	DIRTYWORD[2481]["real_idx"] = 2481
+
+DIRTYWORD["index"][2482] = 2482
+DIRTYWORD[2482] = {}
+	DIRTYWORD[2482]["ID"] = 2482
+	DIRTYWORD[2482]["KEY"] = "买财富"
+	DIRTYWORD[2482]["real_idx"] = 2482
+
+DIRTYWORD["index"][2483] = 2483
+DIRTYWORD[2483] = {}
+	DIRTYWORD[2483]["ID"] = 2483
+	DIRTYWORD[2483]["KEY"] = "买卖枪支"
+	DIRTYWORD[2483]["real_idx"] = 2483
+
+DIRTYWORD["index"][2484] = 2484
+DIRTYWORD[2484] = {}
+	DIRTYWORD[2484]["ID"] = 2484
+	DIRTYWORD[2484]["KEY"] = "麦角酸"
+	DIRTYWORD[2484]["real_idx"] = 2484
+
+DIRTYWORD["index"][2485] = 2485
+DIRTYWORD[2485] = {}
+	DIRTYWORD[2485]["ID"] = 2485
+	DIRTYWORD[2485]["KEY"] = "卖.国"
+	DIRTYWORD[2485]["real_idx"] = 2485
+
+DIRTYWORD["index"][2486] = 2486
+DIRTYWORD[2486] = {}
+	DIRTYWORD[2486]["ID"] = 2486
+	DIRTYWORD[2486]["KEY"] = "卖B"
+	DIRTYWORD[2486]["real_idx"] = 2486
+
+DIRTYWORD["index"][2487] = 2487
+DIRTYWORD[2487] = {}
+	DIRTYWORD[2487]["ID"] = 2487
+	DIRTYWORD[2487]["KEY"] = "卖ID"
+	DIRTYWORD[2487]["real_idx"] = 2487
+
+DIRTYWORD["index"][2488] = 2488
+DIRTYWORD[2488] = {}
+	DIRTYWORD[2488]["ID"] = 2488
+	DIRTYWORD[2488]["KEY"] = "卖QQ"
+	DIRTYWORD[2488]["real_idx"] = 2488
+
+DIRTYWORD["index"][2489] = 2489
+DIRTYWORD[2489] = {}
+	DIRTYWORD[2489]["ID"] = 2489
+	DIRTYWORD[2489]["KEY"] = "卖逼"
+	DIRTYWORD[2489]["real_idx"] = 2489
+
+DIRTYWORD["index"][2490] = 2490
+DIRTYWORD[2490] = {}
+	DIRTYWORD[2490]["ID"] = 2490
+	DIRTYWORD[2490]["KEY"] = "卖比"
+	DIRTYWORD[2490]["real_idx"] = 2490
+
+DIRTYWORD["index"][2491] = 2491
+DIRTYWORD[2491] = {}
+	DIRTYWORD[2491]["ID"] = 2491
+	DIRTYWORD[2491]["KEY"] = "卖财富"
+	DIRTYWORD[2491]["real_idx"] = 2491
+
+DIRTYWORD["index"][2492] = 2492
+DIRTYWORD[2492] = {}
+	DIRTYWORD[2492]["ID"] = 2492
+	DIRTYWORD[2492]["KEY"] = "卖党求荣"
+	DIRTYWORD[2492]["real_idx"] = 2492
+
+DIRTYWORD["index"][2493] = 2493
+DIRTYWORD[2493] = {}
+	DIRTYWORD[2493]["ID"] = 2493
+	DIRTYWORD[2493]["KEY"] = "卖国"
+	DIRTYWORD[2493]["real_idx"] = 2493
+
+DIRTYWORD["index"][2494] = 2494
+DIRTYWORD[2494] = {}
+	DIRTYWORD[2494]["ID"] = 2494
+	DIRTYWORD[2494]["KEY"] = "卖国求荣"
+	DIRTYWORD[2494]["real_idx"] = 2494
+
+DIRTYWORD["index"][2495] = 2495
+DIRTYWORD[2495] = {}
+	DIRTYWORD[2495]["ID"] = 2495
+	DIRTYWORD[2495]["KEY"] = "卖号"
+	DIRTYWORD[2495]["real_idx"] = 2495
+
+DIRTYWORD["index"][2496] = 2496
+DIRTYWORD[2496] = {}
+	DIRTYWORD[2496]["ID"] = 2496
+	DIRTYWORD[2496]["KEY"] = "卖卡"
+	DIRTYWORD[2496]["real_idx"] = 2496
+
+DIRTYWORD["index"][2497] = 2497
+DIRTYWORD[2497] = {}
+	DIRTYWORD[2497]["ID"] = 2497
+	DIRTYWORD[2497]["KEY"] = "卖软件"
+	DIRTYWORD[2497]["real_idx"] = 2497
+
+DIRTYWORD["index"][2498] = 2498
+DIRTYWORD[2498] = {}
+	DIRTYWORD[2498]["ID"] = 2498
+	DIRTYWORD[2498]["KEY"] = "卖淫"
+	DIRTYWORD[2498]["real_idx"] = 2498
+
+DIRTYWORD["index"][2499] = 2499
+DIRTYWORD[2499] = {}
+	DIRTYWORD[2499]["ID"] = 2499
+	DIRTYWORD[2499]["KEY"] = "毛XX"
+	DIRTYWORD[2499]["real_idx"] = 2499
+
+DIRTYWORD["index"][2500] = 2500
+DIRTYWORD[2500] = {}
+	DIRTYWORD[2500]["ID"] = 2500
+	DIRTYWORD[2500]["KEY"] = "毛厕洞"
+	DIRTYWORD[2500]["real_idx"] = 2500
+
+DIRTYWORD["index"][2501] = 2501
+DIRTYWORD[2501] = {}
+	DIRTYWORD[2501]["ID"] = 2501
+	DIRTYWORD[2501]["KEY"] = "毛一鲜"
+	DIRTYWORD[2501]["real_idx"] = 2501
+
+DIRTYWORD["index"][2502] = 2502
+DIRTYWORD[2502] = {}
+	DIRTYWORD[2502]["ID"] = 2502
+	DIRTYWORD[2502]["KEY"] = "毛泽东"
+	DIRTYWORD[2502]["real_idx"] = 2502
+
+DIRTYWORD["index"][2503] = 2503
+DIRTYWORD[2503] = {}
+	DIRTYWORD[2503]["ID"] = 2503
+	DIRTYWORD[2503]["KEY"] = "毛贼东"
+	DIRTYWORD[2503]["real_idx"] = 2503
+
+DIRTYWORD["index"][2504] = 2504
+DIRTYWORD[2504] = {}
+	DIRTYWORD[2504]["ID"] = 2504
+	DIRTYWORD[2504]["KEY"] = "毛主席"
+	DIRTYWORD[2504]["real_idx"] = 2504
+
+DIRTYWORD["index"][2505] = 2505
+DIRTYWORD[2505] = {}
+	DIRTYWORD[2505]["ID"] = 2505
+	DIRTYWORD[2505]["KEY"] = "梅花网"
+	DIRTYWORD[2505]["real_idx"] = 2505
+
+DIRTYWORD["index"][2506] = 2506
+DIRTYWORD[2506] = {}
+	DIRTYWORD[2506]["ID"] = 2506
+	DIRTYWORD[2506]["KEY"] = "美国"
+	DIRTYWORD[2506]["real_idx"] = 2506
+
+DIRTYWORD["index"][2507] = 2507
+DIRTYWORD[2507] = {}
+	DIRTYWORD[2507]["ID"] = 2507
+	DIRTYWORD[2507]["KEY"] = "美国佬"
+	DIRTYWORD[2507]["real_idx"] = 2507
+
+DIRTYWORD["index"][2508] = 2508
+DIRTYWORD[2508] = {}
+	DIRTYWORD[2508]["ID"] = 2508
+	DIRTYWORD[2508]["KEY"] = "美国之音"
+	DIRTYWORD[2508]["real_idx"] = 2508
+
+DIRTYWORD["index"][2509] = 2509
+DIRTYWORD[2509] = {}
+	DIRTYWORD[2509]["ID"] = 2509
+	DIRTYWORD[2509]["KEY"] = "美利坚"
+	DIRTYWORD[2509]["real_idx"] = 2509
+
+DIRTYWORD["index"][2510] = 2510
+DIRTYWORD[2510] = {}
+	DIRTYWORD[2510]["ID"] = 2510
+	DIRTYWORD[2510]["KEY"] = "蒙尘药"
+	DIRTYWORD[2510]["real_idx"] = 2510
+
+DIRTYWORD["index"][2511] = 2511
+DIRTYWORD[2511] = {}
+	DIRTYWORD[2511]["ID"] = 2511
+	DIRTYWORD[2511]["KEY"] = "蒙独"
+	DIRTYWORD[2511]["real_idx"] = 2511
+
+DIRTYWORD["index"][2512] = 2512
+DIRTYWORD[2512] = {}
+	DIRTYWORD[2512]["ID"] = 2512
+	DIRTYWORD[2512]["KEY"] = "蒙古达子"
+	DIRTYWORD[2512]["real_idx"] = 2512
+
+DIRTYWORD["index"][2513] = 2513
+DIRTYWORD[2513] = {}
+	DIRTYWORD[2513]["ID"] = 2513
+	DIRTYWORD[2513]["KEY"] = "蒙古独立"
+	DIRTYWORD[2513]["real_idx"] = 2513
+
+DIRTYWORD["index"][2514] = 2514
+DIRTYWORD[2514] = {}
+	DIRTYWORD[2514]["ID"] = 2514
+	DIRTYWORD[2514]["KEY"] = "迷魂药"
+	DIRTYWORD[2514]["real_idx"] = 2514
+
+DIRTYWORD["index"][2515] = 2515
+DIRTYWORD[2515] = {}
+	DIRTYWORD[2515]["ID"] = 2515
+	DIRTYWORD[2515]["KEY"] = "迷奸药"
+	DIRTYWORD[2515]["real_idx"] = 2515
+
+DIRTYWORD["index"][2516] = 2516
+DIRTYWORD[2516] = {}
+	DIRTYWORD[2516]["ID"] = 2516
+	DIRTYWORD[2516]["KEY"] = "迷歼药"
+	DIRTYWORD[2516]["real_idx"] = 2516
+
+DIRTYWORD["index"][2517] = 2517
+DIRTYWORD[2517] = {}
+	DIRTYWORD[2517]["ID"] = 2517
+	DIRTYWORD[2517]["KEY"] = "迷药"
+	DIRTYWORD[2517]["real_idx"] = 2517
+
+DIRTYWORD["index"][2518] = 2518
+DIRTYWORD[2518] = {}
+	DIRTYWORD[2518]["ID"] = 2518
+	DIRTYWORD[2518]["KEY"] = "密洞"
+	DIRTYWORD[2518]["real_idx"] = 2518
+
+DIRTYWORD["index"][2519] = 2519
+DIRTYWORD[2519] = {}
+	DIRTYWORD[2519]["ID"] = 2519
+	DIRTYWORD[2519]["KEY"] = "密宗"
+	DIRTYWORD[2519]["real_idx"] = 2519
+
+DIRTYWORD["index"][2520] = 2520
+DIRTYWORD[2520] = {}
+	DIRTYWORD[2520]["ID"] = 2520
+	DIRTYWORD[2520]["KEY"] = "民航局"
+	DIRTYWORD[2520]["real_idx"] = 2520
+
+DIRTYWORD["index"][2521] = 2521
+DIRTYWORD[2521] = {}
+	DIRTYWORD[2521]["ID"] = 2521
+	DIRTYWORD[2521]["KEY"] = "民进党"
+	DIRTYWORD[2521]["real_idx"] = 2521
+
+DIRTYWORD["index"][2522] = 2522
+DIRTYWORD[2522] = {}
+	DIRTYWORD[2522]["ID"] = 2522
+	DIRTYWORD[2522]["KEY"] = "民运"
+	DIRTYWORD[2522]["real_idx"] = 2522
+
+DIRTYWORD["index"][2523] = 2523
+DIRTYWORD[2523] = {}
+	DIRTYWORD[2523]["ID"] = 2523
+	DIRTYWORD[2523]["KEY"] = "民政部"
+	DIRTYWORD[2523]["real_idx"] = 2523
+
+DIRTYWORD["index"][2524] = 2524
+DIRTYWORD[2524] = {}
+	DIRTYWORD[2524]["ID"] = 2524
+	DIRTYWORD[2524]["KEY"] = "明慧网"
+	DIRTYWORD[2524]["real_idx"] = 2524
+
+DIRTYWORD["index"][2525] = 2525
+DIRTYWORD[2525] = {}
+	DIRTYWORD[2525]["ID"] = 2525
+	DIRTYWORD[2525]["KEY"] = "摩门教"
+	DIRTYWORD[2525]["real_idx"] = 2525
+
+DIRTYWORD["index"][2526] = 2526
+DIRTYWORD[2526] = {}
+	DIRTYWORD[2526]["ID"] = 2526
+	DIRTYWORD[2526]["KEY"] = "莫索里尼"
+	DIRTYWORD[2526]["real_idx"] = 2526
+
+DIRTYWORD["index"][2527] = 2527
+DIRTYWORD[2527] = {}
+	DIRTYWORD[2527]["ID"] = 2527
+	DIRTYWORD[2527]["KEY"] = "穆罕默德"
+	DIRTYWORD[2527]["real_idx"] = 2527
+
+DIRTYWORD["index"][2528] = 2528
+DIRTYWORD[2528] = {}
+	DIRTYWORD[2528]["ID"] = 2528
+	DIRTYWORD[2528]["KEY"] = "穆斯林"
+	DIRTYWORD[2528]["real_idx"] = 2528
+
+DIRTYWORD["index"][2529] = 2529
+DIRTYWORD[2529] = {}
+	DIRTYWORD[2529]["ID"] = 2529
+	DIRTYWORD[2529]["KEY"] = "乳头"
+	DIRTYWORD[2529]["real_idx"] = 2529
+
+DIRTYWORD["index"][2530] = 2530
+DIRTYWORD[2530] = {}
+	DIRTYWORD[2530]["ID"] = 2530
+	DIRTYWORD[2530]["KEY"] = "奶子"
+	DIRTYWORD[2530]["real_idx"] = 2530
+
+DIRTYWORD["index"][2531] = 2531
+DIRTYWORD[2531] = {}
+	DIRTYWORD[2531]["ID"] = 2531
+	DIRTYWORD[2531]["KEY"] = "妳老母的"
+	DIRTYWORD[2531]["real_idx"] = 2531
+
+DIRTYWORD["index"][2532] = 2532
+DIRTYWORD[2532] = {}
+	DIRTYWORD[2532]["ID"] = 2532
+	DIRTYWORD[2532]["KEY"] = "妳妈的"
+	DIRTYWORD[2532]["real_idx"] = 2532
+
+DIRTYWORD["index"][2533] = 2533
+DIRTYWORD[2533] = {}
+	DIRTYWORD[2533]["ID"] = 2533
+	DIRTYWORD[2533]["KEY"] = "妳马的"
+	DIRTYWORD[2533]["real_idx"] = 2533
+
+DIRTYWORD["index"][2534] = 2534
+DIRTYWORD[2534] = {}
+	DIRTYWORD[2534]["ID"] = 2534
+	DIRTYWORD[2534]["KEY"] = "妳娘的"
+	DIRTYWORD[2534]["real_idx"] = 2534
+
+DIRTYWORD["index"][2535] = 2535
+DIRTYWORD[2535] = {}
+	DIRTYWORD[2535]["ID"] = 2535
+	DIRTYWORD[2535]["KEY"] = "南联盟"
+	DIRTYWORD[2535]["real_idx"] = 2535
+
+DIRTYWORD["index"][2536] = 2536
+DIRTYWORD[2536] = {}
+	DIRTYWORD[2536]["ID"] = 2536
+	DIRTYWORD[2536]["KEY"] = "南蛮子"
+	DIRTYWORD[2536]["real_idx"] = 2536
+
+DIRTYWORD["index"][2537] = 2537
+DIRTYWORD[2537] = {}
+	DIRTYWORD[2537]["ID"] = 2537
+	DIRTYWORD[2537]["KEY"] = "南蛮子"
+	DIRTYWORD[2537]["real_idx"] = 2537
+
+DIRTYWORD["index"][2538] = 2538
+DIRTYWORD[2538] = {}
+	DIRTYWORD[2538]["ID"] = 2538
+	DIRTYWORD[2538]["KEY"] = "嫩B"
+	DIRTYWORD[2538]["real_idx"] = 2538
+
+DIRTYWORD["index"][2539] = 2539
+DIRTYWORD[2539] = {}
+	DIRTYWORD[2539]["ID"] = 2539
+	DIRTYWORD[2539]["KEY"] = "嫩b"
+	DIRTYWORD[2539]["real_idx"] = 2539
+
+DIRTYWORD["index"][2540] = 2540
+DIRTYWORD[2540] = {}
+	DIRTYWORD[2540]["ID"] = 2540
+	DIRTYWORD[2540]["KEY"] = "伱妈"
+	DIRTYWORD[2540]["real_idx"] = 2540
+
+DIRTYWORD["index"][2541] = 2541
+DIRTYWORD[2541] = {}
+	DIRTYWORD[2541]["ID"] = 2541
+	DIRTYWORD[2541]["KEY"] = "你爸"
+	DIRTYWORD[2541]["real_idx"] = 2541
+
+DIRTYWORD["index"][2542] = 2542
+DIRTYWORD[2542] = {}
+	DIRTYWORD[2542]["ID"] = 2542
+	DIRTYWORD[2542]["KEY"] = "你大爷"
+	DIRTYWORD[2542]["real_idx"] = 2542
+
+DIRTYWORD["index"][2543] = 2543
+DIRTYWORD[2543] = {}
+	DIRTYWORD[2543]["ID"] = 2543
+	DIRTYWORD[2543]["KEY"] = "你二大爷"
+	DIRTYWORD[2543]["real_idx"] = 2543
+
+DIRTYWORD["index"][2544] = 2544
+DIRTYWORD[2544] = {}
+	DIRTYWORD[2544]["ID"] = 2544
+	DIRTYWORD[2544]["KEY"] = "你老母"
+	DIRTYWORD[2544]["real_idx"] = 2544
+
+DIRTYWORD["index"][2545] = 2545
+DIRTYWORD[2545] = {}
+	DIRTYWORD[2545]["ID"] = 2545
+	DIRTYWORD[2545]["KEY"] = "你老味"
+	DIRTYWORD[2545]["real_idx"] = 2545
+
+DIRTYWORD["index"][2546] = 2546
+DIRTYWORD[2546] = {}
+	DIRTYWORD[2546]["ID"] = 2546
+	DIRTYWORD[2546]["KEY"] = "你姥"
+	DIRTYWORD[2546]["real_idx"] = 2546
+
+DIRTYWORD["index"][2547] = 2547
+DIRTYWORD[2547] = {}
+	DIRTYWORD[2547]["ID"] = 2547
+	DIRTYWORD[2547]["KEY"] = "你姥姥的"
+	DIRTYWORD[2547]["real_idx"] = 2547
+
+DIRTYWORD["index"][2548] = 2548
+DIRTYWORD[2548] = {}
+	DIRTYWORD[2548]["ID"] = 2548
+	DIRTYWORD[2548]["KEY"] = "你妈"
+	DIRTYWORD[2548]["real_idx"] = 2548
+
+DIRTYWORD["index"][2549] = 2549
+DIRTYWORD[2549] = {}
+	DIRTYWORD[2549]["ID"] = 2549
+	DIRTYWORD[2549]["KEY"] = "你妈逼"
+	DIRTYWORD[2549]["real_idx"] = 2549
+
+DIRTYWORD["index"][2550] = 2550
+DIRTYWORD[2550] = {}
+	DIRTYWORD[2550]["ID"] = 2550
+	DIRTYWORD[2550]["KEY"] = "你妈的"
+	DIRTYWORD[2550]["real_idx"] = 2550
+
+DIRTYWORD["index"][2551] = 2551
+DIRTYWORD[2551] = {}
+	DIRTYWORD[2551]["ID"] = 2551
+	DIRTYWORD[2551]["KEY"] = "你娘"
+	DIRTYWORD[2551]["real_idx"] = 2551
+
+DIRTYWORD["index"][2552] = 2552
+DIRTYWORD[2552] = {}
+	DIRTYWORD[2552]["ID"] = 2552
+	DIRTYWORD[2552]["KEY"] = "你爷爷的"
+	DIRTYWORD[2552]["real_idx"] = 2552
+
+DIRTYWORD["index"][2553] = 2553
+DIRTYWORD[2553] = {}
+	DIRTYWORD[2553]["ID"] = 2553
+	DIRTYWORD[2553]["KEY"] = "鸟KM"
+	DIRTYWORD[2553]["real_idx"] = 2553
+
+DIRTYWORD["index"][2554] = 2554
+DIRTYWORD[2554] = {}
+	DIRTYWORD[2554]["ID"] = 2554
+	DIRTYWORD[2554]["KEY"] = "鸟Km"
+	DIRTYWORD[2554]["real_idx"] = 2554
+
+DIRTYWORD["index"][2555] = 2555
+DIRTYWORD[2555] = {}
+	DIRTYWORD[2555]["ID"] = 2555
+	DIRTYWORD[2555]["KEY"] = "鸟KM"
+	DIRTYWORD[2555]["real_idx"] = 2555
+
+DIRTYWORD["index"][2556] = 2556
+DIRTYWORD[2556] = {}
+	DIRTYWORD[2556]["ID"] = 2556
+	DIRTYWORD[2556]["KEY"] = "鸟Km"
+	DIRTYWORD[2556]["real_idx"] = 2556
+
+DIRTYWORD["index"][2557] = 2557
+DIRTYWORD[2557] = {}
+	DIRTYWORD[2557]["ID"] = 2557
+	DIRTYWORD[2557]["KEY"] = "鸟你"
+	DIRTYWORD[2557]["real_idx"] = 2557
+
+DIRTYWORD["index"][2558] = 2558
+DIRTYWORD[2558] = {}
+	DIRTYWORD[2558]["ID"] = 2558
+	DIRTYWORD[2558]["KEY"] = "牛逼"
+	DIRTYWORD[2558]["real_idx"] = 2558
+
+DIRTYWORD["index"][2559] = 2559
+DIRTYWORD[2559] = {}
+	DIRTYWORD[2559]["ID"] = 2559
+	DIRTYWORD[2559]["KEY"] = "牛比"
+	DIRTYWORD[2559]["real_idx"] = 2559
+
+DIRTYWORD["index"][2560] = 2560
+DIRTYWORD[2560] = {}
+	DIRTYWORD[2560]["ID"] = 2560
+	DIRTYWORD[2560]["KEY"] = "农业部"
+	DIRTYWORD[2560]["real_idx"] = 2560
+
+DIRTYWORD["index"][2561] = 2561
+DIRTYWORD[2561] = {}
+	DIRTYWORD[2561]["ID"] = 2561
+	DIRTYWORD[2561]["KEY"] = "虐待"
+	DIRTYWORD[2561]["real_idx"] = 2561
+
+DIRTYWORD["index"][2562] = 2562
+DIRTYWORD[2562] = {}
+	DIRTYWORD[2562]["ID"] = 2562
+	DIRTYWORD[2562]["KEY"] = "拍肩神药"
+	DIRTYWORD[2562]["real_idx"] = 2562
+
+DIRTYWORD["index"][2563] = 2563
+DIRTYWORD[2563] = {}
+	DIRTYWORD[2563]["ID"] = 2563
+	DIRTYWORD[2563]["KEY"] = "喷你"
+	DIRTYWORD[2563]["real_idx"] = 2563
+
+DIRTYWORD["index"][2564] = 2564
+DIRTYWORD[2564] = {}
+	DIRTYWORD[2564]["ID"] = 2564
+	DIRTYWORD[2564]["KEY"] = "彭真"
+	DIRTYWORD[2564]["real_idx"] = 2564
+
+DIRTYWORD["index"][2565] = 2565
+DIRTYWORD[2565] = {}
+	DIRTYWORD[2565]["ID"] = 2565
+	DIRTYWORD[2565]["KEY"] = "皮条"
+	DIRTYWORD[2565]["real_idx"] = 2565
+
+DIRTYWORD["index"][2566] = 2566
+DIRTYWORD[2566] = {}
+	DIRTYWORD[2566]["ID"] = 2566
+	DIRTYWORD[2566]["KEY"] = "屁眼"
+	DIRTYWORD[2566]["real_idx"] = 2566
+
+DIRTYWORD["index"][2567] = 2567
+DIRTYWORD[2567] = {}
+	DIRTYWORD[2567]["ID"] = 2567
+	DIRTYWORD[2567]["KEY"] = "嫖客"
+	DIRTYWORD[2567]["real_idx"] = 2567
+
+DIRTYWORD["index"][2568] = 2568
+DIRTYWORD[2568] = {}
+	DIRTYWORD[2568]["ID"] = 2568
+	DIRTYWORD[2568]["KEY"] = "苹果日报"
+	DIRTYWORD[2568]["real_idx"] = 2568
+
+DIRTYWORD["index"][2569] = 2569
+DIRTYWORD[2569] = {}
+	DIRTYWORD[2569]["ID"] = 2569
+	DIRTYWORD[2569]["KEY"] = "破坏"
+	DIRTYWORD[2569]["real_idx"] = 2569
+
+DIRTYWORD["index"][2570] = 2570
+DIRTYWORD[2570] = {}
+	DIRTYWORD[2570]["ID"] = 2570
+	DIRTYWORD[2570]["KEY"] = "破鞋"
+	DIRTYWORD[2570]["real_idx"] = 2570
+
+DIRTYWORD["index"][2571] = 2571
+DIRTYWORD[2571] = {}
+	DIRTYWORD[2571]["ID"] = 2571
+	DIRTYWORD[2571]["KEY"] = "仆街"
+	DIRTYWORD[2571]["real_idx"] = 2571
+
+DIRTYWORD["index"][2572] = 2572
+DIRTYWORD[2572] = {}
+	DIRTYWORD[2572]["ID"] = 2572
+	DIRTYWORD[2572]["KEY"] = "普京"
+	DIRTYWORD[2572]["real_idx"] = 2572
+
+DIRTYWORD["index"][2573] = 2573
+DIRTYWORD[2573] = {}
+	DIRTYWORD[2573]["ID"] = 2573
+	DIRTYWORD[2573]["KEY"] = "气象局"
+	DIRTYWORD[2573]["real_idx"] = 2573
+
+DIRTYWORD["index"][2574] = 2574
+DIRTYWORD[2574] = {}
+	DIRTYWORD[2574]["ID"] = 2574
+	DIRTYWORD[2574]["KEY"] = "钱其琛"
+	DIRTYWORD[2574]["real_idx"] = 2574
+
+DIRTYWORD["index"][2575] = 2575
+DIRTYWORD[2575] = {}
+	DIRTYWORD[2575]["ID"] = 2575
+	DIRTYWORD[2575]["KEY"] = "枪决女犯"
+	DIRTYWORD[2575]["real_idx"] = 2575
+
+DIRTYWORD["index"][2576] = 2576
+DIRTYWORD[2576] = {}
+	DIRTYWORD[2576]["ID"] = 2576
+	DIRTYWORD[2576]["KEY"] = "枪决现场"
+	DIRTYWORD[2576]["real_idx"] = 2576
+
+DIRTYWORD["index"][2577] = 2577
+DIRTYWORD[2577] = {}
+	DIRTYWORD[2577]["ID"] = 2577
+	DIRTYWORD[2577]["KEY"] = "枪支弹药"
+	DIRTYWORD[2577]["real_idx"] = 2577
+
+DIRTYWORD["index"][2578] = 2578
+DIRTYWORD[2578] = {}
+	DIRTYWORD[2578]["ID"] = 2578
+	DIRTYWORD[2578]["KEY"] = "强奸"
+	DIRTYWORD[2578]["real_idx"] = 2578
+
+DIRTYWORD["index"][2579] = 2579
+DIRTYWORD[2579] = {}
+	DIRTYWORD[2579]["ID"] = 2579
+	DIRTYWORD[2579]["KEY"] = "强奸犯"
+	DIRTYWORD[2579]["real_idx"] = 2579
+
+DIRTYWORD["index"][2580] = 2580
+DIRTYWORD[2580] = {}
+	DIRTYWORD[2580]["ID"] = 2580
+	DIRTYWORD[2580]["KEY"] = "强卫"
+	DIRTYWORD[2580]["real_idx"] = 2580
+
+DIRTYWORD["index"][2581] = 2581
+DIRTYWORD[2581] = {}
+	DIRTYWORD[2581]["ID"] = 2581
+	DIRTYWORD[2581]["KEY"] = "强效失意药"
+	DIRTYWORD[2581]["real_idx"] = 2581
+
+DIRTYWORD["index"][2582] = 2582
+DIRTYWORD[2582] = {}
+	DIRTYWORD[2582]["ID"] = 2582
+	DIRTYWORD[2582]["KEY"] = "强硬发言"
+	DIRTYWORD[2582]["real_idx"] = 2582
+
+DIRTYWORD["index"][2583] = 2583
+DIRTYWORD[2583] = {}
+	DIRTYWORD[2583]["ID"] = 2583
+	DIRTYWORD[2583]["KEY"] = "抢劫"
+	DIRTYWORD[2583]["real_idx"] = 2583
+
+DIRTYWORD["index"][2584] = 2584
+DIRTYWORD[2584] = {}
+	DIRTYWORD[2584]["ID"] = 2584
+	DIRTYWORD[2584]["KEY"] = "乔石"
+	DIRTYWORD[2584]["real_idx"] = 2584
+
+DIRTYWORD["index"][2585] = 2585
+DIRTYWORD[2585] = {}
+	DIRTYWORD[2585]["ID"] = 2585
+	DIRTYWORD[2585]["KEY"] = "侨办"
+	DIRTYWORD[2585]["real_idx"] = 2585
+
+DIRTYWORD["index"][2586] = 2586
+DIRTYWORD[2586] = {}
+	DIRTYWORD[2586]["ID"] = 2586
+	DIRTYWORD[2586]["KEY"] = "切七"
+	DIRTYWORD[2586]["real_idx"] = 2586
+
+DIRTYWORD["index"][2587] = 2587
+DIRTYWORD[2587] = {}
+	DIRTYWORD[2587]["ID"] = 2587
+	DIRTYWORD[2587]["KEY"] = "窃听器"
+	DIRTYWORD[2587]["real_idx"] = 2587
+
+DIRTYWORD["index"][2588] = 2588
+DIRTYWORD[2588] = {}
+	DIRTYWORD[2588]["ID"] = 2588
+	DIRTYWORD[2588]["KEY"] = "窃听器材"
+	DIRTYWORD[2588]["real_idx"] = 2588
+
+DIRTYWORD["index"][2589] = 2589
+DIRTYWORD[2589] = {}
+	DIRTYWORD[2589]["ID"] = 2589
+	DIRTYWORD[2589]["KEY"] = "亲民党"
+	DIRTYWORD[2589]["real_idx"] = 2589
+
+DIRTYWORD["index"][2590] = 2590
+DIRTYWORD[2590] = {}
+	DIRTYWORD[2590]["ID"] = 2590
+	DIRTYWORD[2590]["KEY"] = "青天白日"
+	DIRTYWORD[2590]["real_idx"] = 2590
+
+DIRTYWORD["index"][2591] = 2591
+DIRTYWORD[2591] = {}
+	DIRTYWORD[2591]["ID"] = 2591
+	DIRTYWORD[2591]["KEY"] = "情色"
+	DIRTYWORD[2591]["real_idx"] = 2591
+
+DIRTYWORD["index"][2592] = 2592
+DIRTYWORD[2592] = {}
+	DIRTYWORD[2592]["ID"] = 2592
+	DIRTYWORD[2592]["KEY"] = "去你妈的"
+	DIRTYWORD[2592]["real_idx"] = 2592
+
+DIRTYWORD["index"][2593] = 2593
+DIRTYWORD[2593] = {}
+	DIRTYWORD[2593]["ID"] = 2593
+	DIRTYWORD[2593]["KEY"] = "去死"
+	DIRTYWORD[2593]["real_idx"] = 2593
+
+DIRTYWORD["index"][2594] = 2594
+DIRTYWORD[2594] = {}
+	DIRTYWORD[2594]["ID"] = 2594
+	DIRTYWORD[2594]["KEY"] = "全国人大"
+	DIRTYWORD[2594]["real_idx"] = 2594
+
+DIRTYWORD["index"][2595] = 2595
+DIRTYWORD[2595] = {}
+	DIRTYWORD[2595]["ID"] = 2595
+	DIRTYWORD[2595]["KEY"] = "瘸腿帮"
+	DIRTYWORD[2595]["real_idx"] = 2595
+
+DIRTYWORD["index"][2596] = 2596
+DIRTYWORD[2596] = {}
+	DIRTYWORD[2596]["ID"] = 2596
+	DIRTYWORD[2596]["KEY"] = "人大"
+	DIRTYWORD[2596]["real_idx"] = 2596
+
+DIRTYWORD["index"][2597] = 2597
+DIRTYWORD[2597] = {}
+	DIRTYWORD[2597]["ID"] = 2597
+	DIRTYWORD[2597]["KEY"] = "人大代表"
+	DIRTYWORD[2597]["real_idx"] = 2597
+
+DIRTYWORD["index"][2598] = 2598
+DIRTYWORD[2598] = {}
+	DIRTYWORD[2598]["ID"] = 2598
+	DIRTYWORD[2598]["KEY"] = "人代会"
+	DIRTYWORD[2598]["real_idx"] = 2598
+
+DIRTYWORD["index"][2599] = 2599
+DIRTYWORD[2599] = {}
+	DIRTYWORD[2599]["ID"] = 2599
+	DIRTYWORD[2599]["KEY"] = "人弹"
+	DIRTYWORD[2599]["real_idx"] = 2599
+
+DIRTYWORD["index"][2600] = 2600
+DIRTYWORD[2600] = {}
+	DIRTYWORD[2600]["ID"] = 2600
+	DIRTYWORD[2600]["KEY"] = "人民"
+	DIRTYWORD[2600]["real_idx"] = 2600
+
+DIRTYWORD["index"][2601] = 2601
+DIRTYWORD[2601] = {}
+	DIRTYWORD[2601]["ID"] = 2601
+	DIRTYWORD[2601]["KEY"] = "人民大会堂"
+	DIRTYWORD[2601]["real_idx"] = 2601
+
+DIRTYWORD["index"][2602] = 2602
+DIRTYWORD[2602] = {}
+	DIRTYWORD[2602]["ID"] = 2602
+	DIRTYWORD[2602]["KEY"] = "人民广场"
+	DIRTYWORD[2602]["real_idx"] = 2602
+
+DIRTYWORD["index"][2603] = 2603
+DIRTYWORD[2603] = {}
+	DIRTYWORD[2603]["ID"] = 2603
+	DIRTYWORD[2603]["KEY"] = "人民日报"
+	DIRTYWORD[2603]["real_idx"] = 2603
+
+DIRTYWORD["index"][2604] = 2604
+DIRTYWORD[2604] = {}
+	DIRTYWORD[2604]["ID"] = 2604
+	DIRTYWORD[2604]["KEY"] = "人民银行"
+	DIRTYWORD[2604]["real_idx"] = 2604
+
+DIRTYWORD["index"][2605] = 2605
+DIRTYWORD[2605] = {}
+	DIRTYWORD[2605]["ID"] = 2605
+	DIRTYWORD[2605]["KEY"] = "人体炸弹"
+	DIRTYWORD[2605]["real_idx"] = 2605
+
+DIRTYWORD["index"][2606] = 2606
+DIRTYWORD[2606] = {}
+	DIRTYWORD[2606]["ID"] = 2606
+	DIRTYWORD[2606]["KEY"] = "日KM"
+	DIRTYWORD[2606]["real_idx"] = 2606
+
+DIRTYWORD["index"][2607] = 2607
+DIRTYWORD[2607] = {}
+	DIRTYWORD[2607]["ID"] = 2607
+	DIRTYWORD[2607]["KEY"] = "日Km"
+	DIRTYWORD[2607]["real_idx"] = 2607
+
+DIRTYWORD["index"][2608] = 2608
+DIRTYWORD[2608] = {}
+	DIRTYWORD[2608]["ID"] = 2608
+	DIRTYWORD[2608]["KEY"] = "日KM"
+	DIRTYWORD[2608]["real_idx"] = 2608
+
+DIRTYWORD["index"][2609] = 2609
+DIRTYWORD[2609] = {}
+	DIRTYWORD[2609]["ID"] = 2609
+	DIRTYWORD[2609]["KEY"] = "日Km"
+	DIRTYWORD[2609]["real_idx"] = 2609
+
+DIRTYWORD["index"][2610] = 2610
+DIRTYWORD[2610] = {}
+	DIRTYWORD[2610]["ID"] = 2610
+	DIRTYWORD[2610]["KEY"] = "日X妈"
+	DIRTYWORD[2610]["real_idx"] = 2610
+
+DIRTYWORD["index"][2611] = 2611
+DIRTYWORD[2611] = {}
+	DIRTYWORD[2611]["ID"] = 2611
+	DIRTYWORD[2611]["KEY"] = "日本RINK"
+	DIRTYWORD[2611]["real_idx"] = 2611
+
+DIRTYWORD["index"][2612] = 2612
+DIRTYWORD[2612] = {}
+	DIRTYWORD[2612]["ID"] = 2612
+	DIRTYWORD[2612]["KEY"] = "日本鬼子"
+	DIRTYWORD[2612]["real_idx"] = 2612
+
+DIRTYWORD["index"][2613] = 2613
+DIRTYWORD[2613] = {}
+	DIRTYWORD[2613]["ID"] = 2613
+	DIRTYWORD[2613]["KEY"] = "日你"
+	DIRTYWORD[2613]["real_idx"] = 2613
+
+DIRTYWORD["index"][2614] = 2614
+DIRTYWORD[2614] = {}
+	DIRTYWORD[2614]["ID"] = 2614
+	DIRTYWORD[2614]["KEY"] = "日你妈"
+	DIRTYWORD[2614]["real_idx"] = 2614
+
+DIRTYWORD["index"][2615] = 2615
+DIRTYWORD[2615] = {}
+	DIRTYWORD[2615]["ID"] = 2615
+	DIRTYWORD[2615]["KEY"] = "日你娘"
+	DIRTYWORD[2615]["real_idx"] = 2615
+
+DIRTYWORD["index"][2616] = 2616
+DIRTYWORD[2616] = {}
+	DIRTYWORD[2616]["ID"] = 2616
+	DIRTYWORD[2616]["KEY"] = "日他娘"
+	DIRTYWORD[2616]["real_idx"] = 2616
+
+DIRTYWORD["index"][2617] = 2617
+DIRTYWORD[2617] = {}
+	DIRTYWORD[2617]["ID"] = 2617
+	DIRTYWORD[2617]["KEY"] = "肉棒"
+	DIRTYWORD[2617]["real_idx"] = 2617
+
+DIRTYWORD["index"][2618] = 2618
+DIRTYWORD[2618] = {}
+	DIRTYWORD[2618]["ID"] = 2618
+	DIRTYWORD[2618]["KEY"] = "肉壁"
+	DIRTYWORD[2618]["real_idx"] = 2618
+
+DIRTYWORD["index"][2619] = 2619
+DIRTYWORD[2619] = {}
+	DIRTYWORD[2619]["ID"] = 2619
+	DIRTYWORD[2619]["KEY"] = "肉洞"
+	DIRTYWORD[2619]["real_idx"] = 2619
+
+DIRTYWORD["index"][2620] = 2620
+DIRTYWORD[2620] = {}
+	DIRTYWORD[2620]["ID"] = 2620
+	DIRTYWORD[2620]["KEY"] = "肉缝"
+	DIRTYWORD[2620]["real_idx"] = 2620
+
+DIRTYWORD["index"][2621] = 2621
+DIRTYWORD[2621] = {}
+	DIRTYWORD[2621]["ID"] = 2621
+	DIRTYWORD[2621]["KEY"] = "肉棍"
+	DIRTYWORD[2621]["real_idx"] = 2621
+
+DIRTYWORD["index"][2622] = 2622
+DIRTYWORD[2622] = {}
+	DIRTYWORD[2622]["ID"] = 2622
+	DIRTYWORD[2622]["KEY"] = "肉棍子"
+	DIRTYWORD[2622]["real_idx"] = 2622
+
+DIRTYWORD["index"][2623] = 2623
+DIRTYWORD[2623] = {}
+	DIRTYWORD[2623]["ID"] = 2623
+	DIRTYWORD[2623]["KEY"] = "肉穴"
+	DIRTYWORD[2623]["real_idx"] = 2623
+
+DIRTYWORD["index"][2624] = 2624
+DIRTYWORD[2624] = {}
+	DIRTYWORD[2624]["ID"] = 2624
+	DIRTYWORD[2624]["KEY"] = "乳"
+	DIRTYWORD[2624]["real_idx"] = 2624
+
+DIRTYWORD["index"][2625] = 2625
+DIRTYWORD[2625] = {}
+	DIRTYWORD[2625]["ID"] = 2625
+	DIRTYWORD[2625]["KEY"] = "乳波臀浪"
+	DIRTYWORD[2625]["real_idx"] = 2625
+
+DIRTYWORD["index"][2626] = 2626
+DIRTYWORD[2626] = {}
+	DIRTYWORD[2626]["ID"] = 2626
+	DIRTYWORD[2626]["KEY"] = "乳房"
+	DIRTYWORD[2626]["real_idx"] = 2626
+
+DIRTYWORD["index"][2627] = 2627
+DIRTYWORD[2627] = {}
+	DIRTYWORD[2627]["ID"] = 2627
+	DIRTYWORD[2627]["KEY"] = "乳交"
+	DIRTYWORD[2627]["real_idx"] = 2627
+
+DIRTYWORD["index"][2628] = 2628
+DIRTYWORD[2628] = {}
+	DIRTYWORD[2628]["ID"] = 2628
+	DIRTYWORD[2628]["KEY"] = "乳头"
+	DIRTYWORD[2628]["real_idx"] = 2628
+
+DIRTYWORD["index"][2629] = 2629
+DIRTYWORD[2629] = {}
+	DIRTYWORD[2629]["ID"] = 2629
+	DIRTYWORD[2629]["KEY"] = "撒尿"
+	DIRTYWORD[2629]["real_idx"] = 2629
+
+DIRTYWORD["index"][2630] = 2630
+DIRTYWORD[2630] = {}
+	DIRTYWORD[2630]["ID"] = 2630
+	DIRTYWORD[2630]["KEY"] = "萨达姆"
+	DIRTYWORD[2630]["real_idx"] = 2630
+
+DIRTYWORD["index"][2631] = 2631
+DIRTYWORD[2631] = {}
+	DIRTYWORD[2631]["ID"] = 2631
+	DIRTYWORD[2631]["KEY"] = "塞白"
+	DIRTYWORD[2631]["real_idx"] = 2631
+
+DIRTYWORD["index"][2632] = 2632
+DIRTYWORD[2632] = {}
+	DIRTYWORD[2632]["ID"] = 2632
+	DIRTYWORD[2632]["KEY"] = "塞你爸"
+	DIRTYWORD[2632]["real_idx"] = 2632
+
+DIRTYWORD["index"][2633] = 2633
+DIRTYWORD[2633] = {}
+	DIRTYWORD[2633]["ID"] = 2633
+	DIRTYWORD[2633]["KEY"] = "塞你公"
+	DIRTYWORD[2633]["real_idx"] = 2633
+
+DIRTYWORD["index"][2634] = 2634
+DIRTYWORD[2634] = {}
+	DIRTYWORD[2634]["ID"] = 2634
+	DIRTYWORD[2634]["KEY"] = "塞你老母"
+	DIRTYWORD[2634]["real_idx"] = 2634
+
+DIRTYWORD["index"][2635] = 2635
+DIRTYWORD[2635] = {}
+	DIRTYWORD[2635]["ID"] = 2635
+	DIRTYWORD[2635]["KEY"] = "塞你老师"
+	DIRTYWORD[2635]["real_idx"] = 2635
+
+DIRTYWORD["index"][2636] = 2636
+DIRTYWORD[2636] = {}
+	DIRTYWORD[2636]["ID"] = 2636
+	DIRTYWORD[2636]["KEY"] = "塞你母"
+	DIRTYWORD[2636]["real_idx"] = 2636
+
+DIRTYWORD["index"][2637] = 2637
+DIRTYWORD[2637] = {}
+	DIRTYWORD[2637]["ID"] = 2637
+	DIRTYWORD[2637]["KEY"] = "塞你娘"
+	DIRTYWORD[2637]["real_idx"] = 2637
+
+DIRTYWORD["index"][2638] = 2638
+DIRTYWORD[2638] = {}
+	DIRTYWORD[2638]["ID"] = 2638
+	DIRTYWORD[2638]["KEY"] = "三个呆婊"
+	DIRTYWORD[2638]["real_idx"] = 2638
+
+DIRTYWORD["index"][2639] = 2639
+DIRTYWORD[2639] = {}
+	DIRTYWORD[2639]["ID"] = 2639
+	DIRTYWORD[2639]["KEY"] = "三个代婊"
+	DIRTYWORD[2639]["real_idx"] = 2639
+
+DIRTYWORD["index"][2640] = 2640
+DIRTYWORD[2640] = {}
+	DIRTYWORD[2640]["ID"] = 2640
+	DIRTYWORD[2640]["KEY"] = "三级片"
+	DIRTYWORD[2640]["real_idx"] = 2640
+
+DIRTYWORD["index"][2641] = 2641
+DIRTYWORD[2641] = {}
+	DIRTYWORD[2641]["ID"] = 2641
+	DIRTYWORD[2641]["KEY"] = "三民主义"
+	DIRTYWORD[2641]["real_idx"] = 2641
+
+DIRTYWORD["index"][2642] = 2642
+DIRTYWORD[2642] = {}
+	DIRTYWORD[2642]["ID"] = 2642
+	DIRTYWORD[2642]["KEY"] = "三陪"
+	DIRTYWORD[2642]["real_idx"] = 2642
+
+DIRTYWORD["index"][2643] = 2643
+DIRTYWORD[2643] = {}
+	DIRTYWORD[2643]["ID"] = 2643
+	DIRTYWORD[2643]["KEY"] = "三陪女"
+	DIRTYWORD[2643]["real_idx"] = 2643
+
+DIRTYWORD["index"][2644] = 2644
+DIRTYWORD[2644] = {}
+	DIRTYWORD[2644]["ID"] = 2644
+	DIRTYWORD[2644]["KEY"] = "三去车仑"
+	DIRTYWORD[2644]["real_idx"] = 2644
+
+DIRTYWORD["index"][2645] = 2645
+DIRTYWORD[2645] = {}
+	DIRTYWORD[2645]["ID"] = 2645
+	DIRTYWORD[2645]["KEY"] = "三唑仑"
+	DIRTYWORD[2645]["real_idx"] = 2645
+
+DIRTYWORD["index"][2646] = 2646
+DIRTYWORD[2646] = {}
+	DIRTYWORD[2646]["ID"] = 2646
+	DIRTYWORD[2646]["KEY"] = "骚"
+	DIRTYWORD[2646]["real_idx"] = 2646
+
+DIRTYWORD["index"][2647] = 2647
+DIRTYWORD[2647] = {}
+	DIRTYWORD[2647]["ID"] = 2647
+	DIRTYWORD[2647]["KEY"] = "骚B"
+	DIRTYWORD[2647]["real_idx"] = 2647
+
+DIRTYWORD["index"][2648] = 2648
+DIRTYWORD[2648] = {}
+	DIRTYWORD[2648]["ID"] = 2648
+	DIRTYWORD[2648]["KEY"] = "骚逼"
+	DIRTYWORD[2648]["real_idx"] = 2648
+
+DIRTYWORD["index"][2649] = 2649
+DIRTYWORD[2649] = {}
+	DIRTYWORD[2649]["ID"] = 2649
+	DIRTYWORD[2649]["KEY"] = "骚货"
+	DIRTYWORD[2649]["real_idx"] = 2649
+
+DIRTYWORD["index"][2650] = 2650
+DIRTYWORD[2650] = {}
+	DIRTYWORD[2650]["ID"] = 2650
+	DIRTYWORD[2650]["KEY"] = "骚"
+	DIRTYWORD[2650]["real_idx"] = 2650
+
+DIRTYWORD["index"][2651] = 2651
+DIRTYWORD[2651] = {}
+	DIRTYWORD[2651]["ID"] = 2651
+	DIRTYWORD[2651]["KEY"] = "色情"
+	DIRTYWORD[2651]["real_idx"] = 2651
+
+DIRTYWORD["index"][2652] = 2652
+DIRTYWORD[2652] = {}
+	DIRTYWORD[2652]["ID"] = 2652
+	DIRTYWORD[2652]["KEY"] = "色情电影"
+	DIRTYWORD[2652]["real_idx"] = 2652
+
+DIRTYWORD["index"][2653] = 2653
+DIRTYWORD[2653] = {}
+	DIRTYWORD[2653]["ID"] = 2653
+	DIRTYWORD[2653]["KEY"] = "色情服务"
+	DIRTYWORD[2653]["real_idx"] = 2653
+
+DIRTYWORD["index"][2654] = 2654
+DIRTYWORD[2654] = {}
+	DIRTYWORD[2654]["ID"] = 2654
+	DIRTYWORD[2654]["KEY"] = "色情小电影"
+	DIRTYWORD[2654]["real_idx"] = 2654
+
+DIRTYWORD["index"][2655] = 2655
+DIRTYWORD[2655] = {}
+	DIRTYWORD[2655]["ID"] = 2655
+	DIRTYWORD[2655]["KEY"] = "杀人犯"
+	DIRTYWORD[2655]["real_idx"] = 2655
+
+DIRTYWORD["index"][2656] = 2656
+DIRTYWORD[2656] = {}
+	DIRTYWORD[2656]["ID"] = 2656
+	DIRTYWORD[2656]["KEY"] = "傻B"
+	DIRTYWORD[2656]["real_idx"] = 2656
+
+DIRTYWORD["index"][2657] = 2657
+DIRTYWORD[2657] = {}
+	DIRTYWORD[2657]["ID"] = 2657
+	DIRTYWORD[2657]["KEY"] = "傻屄"
+	DIRTYWORD[2657]["real_idx"] = 2657
+
+DIRTYWORD["index"][2658] = 2658
+DIRTYWORD[2658] = {}
+	DIRTYWORD[2658]["ID"] = 2658
+	DIRTYWORD[2658]["KEY"] = "傻逼"
+	DIRTYWORD[2658]["real_idx"] = 2658
+
+DIRTYWORD["index"][2659] = 2659
+DIRTYWORD[2659] = {}
+	DIRTYWORD[2659]["ID"] = 2659
+	DIRTYWORD[2659]["KEY"] = "傻比"
+	DIRTYWORD[2659]["real_idx"] = 2659
+
+DIRTYWORD["index"][2660] = 2660
+DIRTYWORD[2660] = {}
+	DIRTYWORD[2660]["ID"] = 2660
+	DIRTYWORD[2660]["KEY"] = "傻吊"
+	DIRTYWORD[2660]["real_idx"] = 2660
+
+DIRTYWORD["index"][2661] = 2661
+DIRTYWORD[2661] = {}
+	DIRTYWORD[2661]["ID"] = 2661
+	DIRTYWORD[2661]["KEY"] = "傻卵"
+	DIRTYWORD[2661]["real_idx"] = 2661
+
+DIRTYWORD["index"][2662] = 2662
+DIRTYWORD[2662] = {}
+	DIRTYWORD[2662]["ID"] = 2662
+	DIRTYWORD[2662]["KEY"] = "傻子"
+	DIRTYWORD[2662]["real_idx"] = 2662
+
+DIRTYWORD["index"][2663] = 2663
+DIRTYWORD[2663] = {}
+	DIRTYWORD[2663]["ID"] = 2663
+	DIRTYWORD[2663]["KEY"] = "煞逼"
+	DIRTYWORD[2663]["real_idx"] = 2663
+
+DIRTYWORD["index"][2664] = 2664
+DIRTYWORD[2664] = {}
+	DIRTYWORD[2664]["ID"] = 2664
+	DIRTYWORD[2664]["KEY"] = "商务部"
+	DIRTYWORD[2664]["real_idx"] = 2664
+
+DIRTYWORD["index"][2665] = 2665
+DIRTYWORD[2665] = {}
+	DIRTYWORD[2665]["ID"] = 2665
+	DIRTYWORD[2665]["KEY"] = "上妳"
+	DIRTYWORD[2665]["real_idx"] = 2665
+
+DIRTYWORD["index"][2666] = 2666
+DIRTYWORD[2666] = {}
+	DIRTYWORD[2666]["ID"] = 2666
+	DIRTYWORD[2666]["KEY"] = "上你"
+	DIRTYWORD[2666]["real_idx"] = 2666
+
+DIRTYWORD["index"][2667] = 2667
+DIRTYWORD[2667] = {}
+	DIRTYWORD[2667]["ID"] = 2667
+	DIRTYWORD[2667]["KEY"] = "社科院"
+	DIRTYWORD[2667]["real_idx"] = 2667
+
+DIRTYWORD["index"][2668] = 2668
+DIRTYWORD[2668] = {}
+	DIRTYWORD[2668]["ID"] = 2668
+	DIRTYWORD[2668]["KEY"] = "射精"
+	DIRTYWORD[2668]["real_idx"] = 2668
+
+DIRTYWORD["index"][2669] = 2669
+DIRTYWORD[2669] = {}
+	DIRTYWORD[2669]["ID"] = 2669
+	DIRTYWORD[2669]["KEY"] = "身份生成器"
+	DIRTYWORD[2669]["real_idx"] = 2669
+
+DIRTYWORD["index"][2670] = 2670
+DIRTYWORD[2670] = {}
+	DIRTYWORD[2670]["ID"] = 2670
+	DIRTYWORD[2670]["KEY"] = "神经病"
+	DIRTYWORD[2670]["real_idx"] = 2670
+
+DIRTYWORD["index"][2671] = 2671
+DIRTYWORD[2671] = {}
+	DIRTYWORD[2671]["ID"] = 2671
+	DIRTYWORD[2671]["KEY"] = "神通加持法"
+	DIRTYWORD[2671]["real_idx"] = 2671
+
+DIRTYWORD["index"][2672] = 2672
+DIRTYWORD[2672] = {}
+	DIRTYWORD[2672]["ID"] = 2672
+	DIRTYWORD[2672]["KEY"] = "生鸦片"
+	DIRTYWORD[2672]["real_idx"] = 2672
+
+DIRTYWORD["index"][2673] = 2673
+DIRTYWORD[2673] = {}
+	DIRTYWORD[2673]["ID"] = 2673
+	DIRTYWORD[2673]["KEY"] = "圣女峰"
+	DIRTYWORD[2673]["real_idx"] = 2673
+
+DIRTYWORD["index"][2674] = 2674
+DIRTYWORD[2674] = {}
+	DIRTYWORD[2674]["ID"] = 2674
+	DIRTYWORD[2674]["KEY"] = "十八摸"
+	DIRTYWORD[2674]["real_idx"] = 2674
+
+DIRTYWORD["index"][2675] = 2675
+DIRTYWORD[2675] = {}
+	DIRTYWORD[2675]["ID"] = 2675
+	DIRTYWORD[2675]["KEY"] = "十年动乱石进"
+	DIRTYWORD[2675]["real_idx"] = 2675
+
+DIRTYWORD["index"][2676] = 2676
+DIRTYWORD[2676] = {}
+	DIRTYWORD[2676]["ID"] = 2676
+	DIRTYWORD[2676]["KEY"] = "食捻屎"
+	DIRTYWORD[2676]["real_idx"] = 2676
+
+DIRTYWORD["index"][2677] = 2677
+DIRTYWORD[2677] = {}
+	DIRTYWORD[2677]["ID"] = 2677
+	DIRTYWORD[2677]["KEY"] = "食屎"
+	DIRTYWORD[2677]["real_idx"] = 2677
+
+DIRTYWORD["index"][2678] = 2678
+DIRTYWORD[2678] = {}
+	DIRTYWORD[2678]["ID"] = 2678
+	DIRTYWORD[2678]["KEY"] = "驶你爸"
+	DIRTYWORD[2678]["real_idx"] = 2678
+
+DIRTYWORD["index"][2679] = 2679
+DIRTYWORD[2679] = {}
+	DIRTYWORD[2679]["ID"] = 2679
+	DIRTYWORD[2679]["KEY"] = "驶你公"
+	DIRTYWORD[2679]["real_idx"] = 2679
+
+DIRTYWORD["index"][2680] = 2680
+DIRTYWORD[2680] = {}
+	DIRTYWORD[2680]["ID"] = 2680
+	DIRTYWORD[2680]["KEY"] = "驶你老母"
+	DIRTYWORD[2680]["real_idx"] = 2680
+
+DIRTYWORD["index"][2681] = 2681
+DIRTYWORD[2681] = {}
+	DIRTYWORD[2681]["ID"] = 2681
+	DIRTYWORD[2681]["KEY"] = "驶你老师"
+	DIRTYWORD[2681]["real_idx"] = 2681
+
+DIRTYWORD["index"][2682] = 2682
+DIRTYWORD[2682] = {}
+	DIRTYWORD[2682]["ID"] = 2682
+	DIRTYWORD[2682]["KEY"] = "驶你母"
+	DIRTYWORD[2682]["real_idx"] = 2682
+
+DIRTYWORD["index"][2683] = 2683
+DIRTYWORD[2683] = {}
+	DIRTYWORD[2683]["ID"] = 2683
+	DIRTYWORD[2683]["KEY"] = "驶你娘"
+	DIRTYWORD[2683]["real_idx"] = 2683
+
+DIRTYWORD["index"][2684] = 2684
+DIRTYWORD[2684] = {}
+	DIRTYWORD[2684]["ID"] = 2684
+	DIRTYWORD[2684]["KEY"] = "是鸡"
+	DIRTYWORD[2684]["real_idx"] = 2684
+
+DIRTYWORD["index"][2685] = 2685
+DIRTYWORD[2685] = {}
+	DIRTYWORD[2685]["ID"] = 2685
+	DIRTYWORD[2685]["KEY"] = "手淫"
+	DIRTYWORD[2685]["real_idx"] = 2685
+
+DIRTYWORD["index"][2686] = 2686
+DIRTYWORD[2686] = {}
+	DIRTYWORD[2686]["ID"] = 2686
+	DIRTYWORD[2686]["KEY"] = "受虐狂"
+	DIRTYWORD[2686]["real_idx"] = 2686
+
+DIRTYWORD["index"][2687] = 2687
+DIRTYWORD[2687] = {}
+	DIRTYWORD[2687]["ID"] = 2687
+	DIRTYWORD[2687]["KEY"] = "售ID"
+	DIRTYWORD[2687]["real_idx"] = 2687
+
+DIRTYWORD["index"][2688] = 2688
+DIRTYWORD[2688] = {}
+	DIRTYWORD[2688]["ID"] = 2688
+	DIRTYWORD[2688]["KEY"] = "售号"
+	DIRTYWORD[2688]["real_idx"] = 2688
+
+DIRTYWORD["index"][2689] = 2689
+DIRTYWORD[2689] = {}
+	DIRTYWORD[2689]["ID"] = 2689
+	DIRTYWORD[2689]["KEY"] = "售软件"
+	DIRTYWORD[2689]["real_idx"] = 2689
+
+DIRTYWORD["index"][2690] = 2690
+DIRTYWORD[2690] = {}
+	DIRTYWORD[2690]["ID"] = 2690
+	DIRTYWORD[2690]["KEY"] = "双峰微颤"
+	DIRTYWORD[2690]["real_idx"] = 2690
+
+DIRTYWORD["index"][2691] = 2691
+DIRTYWORD[2691] = {}
+	DIRTYWORD[2691]["ID"] = 2691
+	DIRTYWORD[2691]["KEY"] = "氵去"
+	DIRTYWORD[2691]["real_idx"] = 2691
+
+DIRTYWORD["index"][2692] = 2692
+DIRTYWORD[2692] = {}
+	DIRTYWORD[2692]["ID"] = 2692
+	DIRTYWORD[2692]["KEY"] = "水利部"
+	DIRTYWORD[2692]["real_idx"] = 2692
+
+DIRTYWORD["index"][2693] = 2693
+DIRTYWORD[2693] = {}
+	DIRTYWORD[2693]["ID"] = 2693
+	DIRTYWORD[2693]["KEY"] = "水去车仑"
+	DIRTYWORD[2693]["real_idx"] = 2693
+
+DIRTYWORD["index"][2694] = 2694
+DIRTYWORD[2694] = {}
+	DIRTYWORD[2694]["ID"] = 2694
+	DIRTYWORD[2694]["KEY"] = "税务总局"
+	DIRTYWORD[2694]["real_idx"] = 2694
+
+DIRTYWORD["index"][2695] = 2695
+DIRTYWORD[2695] = {}
+	DIRTYWORD[2695]["ID"] = 2695
+	DIRTYWORD[2695]["KEY"] = "司法部"
+	DIRTYWORD[2695]["real_idx"] = 2695
+
+DIRTYWORD["index"][2696] = 2696
+DIRTYWORD[2696] = {}
+	DIRTYWORD[2696]["ID"] = 2696
+	DIRTYWORD[2696]["KEY"] = "私服"
+	DIRTYWORD[2696]["real_idx"] = 2696
+
+DIRTYWORD["index"][2697] = 2697
+DIRTYWORD[2697] = {}
+	DIRTYWORD[2697]["ID"] = 2697
+	DIRTYWORD[2697]["KEY"] = "私/服"
+	DIRTYWORD[2697]["real_idx"] = 2697
+
+DIRTYWORD["index"][2698] = 2698
+DIRTYWORD[2698] = {}
+	DIRTYWORD[2698]["ID"] = 2698
+	DIRTYWORD[2698]["KEY"] = "私\\服"
+	DIRTYWORD[2698]["real_idx"] = 2698
+
+DIRTYWORD["index"][2699] = 2699
+DIRTYWORD[2699] = {}
+	DIRTYWORD[2699]["ID"] = 2699
+	DIRTYWORD[2699]["KEY"] = "私服"
+	DIRTYWORD[2699]["real_idx"] = 2699
+
+DIRTYWORD["index"][2700] = 2700
+DIRTYWORD[2700] = {}
+	DIRTYWORD[2700]["ID"] = 2700
+	DIRTYWORD[2700]["KEY"] = "私-服"
+	DIRTYWORD[2700]["real_idx"] = 2700
+
+DIRTYWORD["index"][2701] = 2701
+DIRTYWORD[2701] = {}
+	DIRTYWORD[2701]["ID"] = 2701
+	DIRTYWORD[2701]["KEY"] = "私—服"
+	DIRTYWORD[2701]["real_idx"] = 2701
+
+DIRTYWORD["index"][2702] = 2702
+DIRTYWORD[2702] = {}
+	DIRTYWORD[2702]["ID"] = 2702
+	DIRTYWORD[2702]["KEY"] = "斯大林"
+	DIRTYWORD[2702]["real_idx"] = 2702
+
+DIRTYWORD["index"][2703] = 2703
+DIRTYWORD[2703] = {}
+	DIRTYWORD[2703]["ID"] = 2703
+	DIRTYWORD[2703]["KEY"] = "死Kd"
+	DIRTYWORD[2703]["real_idx"] = 2703
+
+DIRTYWORD["index"][2704] = 2704
+DIRTYWORD[2704] = {}
+	DIRTYWORD[2704]["ID"] = 2704
+	DIRTYWORD[2704]["KEY"] = "死KD"
+	DIRTYWORD[2704]["real_idx"] = 2704
+
+DIRTYWORD["index"][2705] = 2705
+DIRTYWORD[2705] = {}
+	DIRTYWORD[2705]["ID"] = 2705
+	DIRTYWORD[2705]["KEY"] = "死Km"
+	DIRTYWORD[2705]["real_idx"] = 2705
+
+DIRTYWORD["index"][2706] = 2706
+DIRTYWORD[2706] = {}
+	DIRTYWORD[2706]["ID"] = 2706
+	DIRTYWORD[2706]["KEY"] = "死KM"
+	DIRTYWORD[2706]["real_idx"] = 2706
+
+DIRTYWORD["index"][2707] = 2707
+DIRTYWORD[2707] = {}
+	DIRTYWORD[2707]["ID"] = 2707
+	DIRTYWORD[2707]["KEY"] = "死全家"
+	DIRTYWORD[2707]["real_idx"] = 2707
+
+DIRTYWORD["index"][2708] = 2708
+DIRTYWORD[2708] = {}
+	DIRTYWORD[2708]["ID"] = 2708
+	DIRTYWORD[2708]["KEY"] = "四川独立"
+	DIRTYWORD[2708]["real_idx"] = 2708
+
+DIRTYWORD["index"][2709] = 2709
+DIRTYWORD[2709] = {}
+	DIRTYWORD[2709]["ID"] = 2709
+	DIRTYWORD[2709]["KEY"] = "四人帮"
+	DIRTYWORD[2709]["real_idx"] = 2709
+
+DIRTYWORD["index"][2710] = 2710
+DIRTYWORD[2710] = {}
+	DIRTYWORD[2710]["ID"] = 2710
+	DIRTYWORD[2710]["KEY"] = "宋楚瑜"
+	DIRTYWORD[2710]["real_idx"] = 2710
+
+DIRTYWORD["index"][2711] = 2711
+DIRTYWORD[2711] = {}
+	DIRTYWORD[2711]["ID"] = 2711
+	DIRTYWORD[2711]["KEY"] = "宋祖英"
+	DIRTYWORD[2711]["real_idx"] = 2711
+
+DIRTYWORD["index"][2712] = 2712
+DIRTYWORD[2712] = {}
+	DIRTYWORD[2712]["ID"] = 2712
+	DIRTYWORD[2712]["KEY"] = "孙文"
+	DIRTYWORD[2712]["real_idx"] = 2712
+
+DIRTYWORD["index"][2713] = 2713
+DIRTYWORD[2713] = {}
+	DIRTYWORD[2713]["ID"] = 2713
+	DIRTYWORD[2713]["KEY"] = "孙逸仙"
+	DIRTYWORD[2713]["real_idx"] = 2713
+
+DIRTYWORD["index"][2714] = 2714
+DIRTYWORD[2714] = {}
+	DIRTYWORD[2714]["ID"] = 2714
+	DIRTYWORD[2714]["KEY"] = "孙中山"
+	DIRTYWORD[2714]["real_idx"] = 2714
+
+DIRTYWORD["index"][2715] = 2715
+DIRTYWORD[2715] = {}
+	DIRTYWORD[2715]["ID"] = 2715
+	DIRTYWORD[2715]["KEY"] = "他爹"
+	DIRTYWORD[2715]["real_idx"] = 2715
+
+DIRTYWORD["index"][2716] = 2716
+DIRTYWORD[2716] = {}
+	DIRTYWORD[2716]["ID"] = 2716
+	DIRTYWORD[2716]["KEY"] = "他妈"
+	DIRTYWORD[2716]["real_idx"] = 2716
+
+DIRTYWORD["index"][2717] = 2717
+DIRTYWORD[2717] = {}
+	DIRTYWORD[2717]["ID"] = 2717
+	DIRTYWORD[2717]["KEY"] = "他妈的"
+	DIRTYWORD[2717]["real_idx"] = 2717
+
+DIRTYWORD["index"][2718] = 2718
+DIRTYWORD[2718] = {}
+	DIRTYWORD[2718]["ID"] = 2718
+	DIRTYWORD[2718]["KEY"] = "他马的"
+	DIRTYWORD[2718]["real_idx"] = 2718
+
+DIRTYWORD["index"][2719] = 2719
+DIRTYWORD[2719] = {}
+	DIRTYWORD[2719]["ID"] = 2719
+	DIRTYWORD[2719]["KEY"] = "他母亲"
+	DIRTYWORD[2719]["real_idx"] = 2719
+
+DIRTYWORD["index"][2720] = 2720
+DIRTYWORD[2720] = {}
+	DIRTYWORD[2720]["ID"] = 2720
+	DIRTYWORD[2720]["KEY"] = "他祖宗"
+	DIRTYWORD[2720]["real_idx"] = 2720
+
+DIRTYWORD["index"][2721] = 2721
+DIRTYWORD[2721] = {}
+	DIRTYWORD[2721]["ID"] = 2721
+	DIRTYWORD[2721]["KEY"] = "台办"
+	DIRTYWORD[2721]["real_idx"] = 2721
+
+DIRTYWORD["index"][2722] = 2722
+DIRTYWORD[2722] = {}
+	DIRTYWORD[2722]["ID"] = 2722
+	DIRTYWORD[2722]["KEY"] = "台独"
+	DIRTYWORD[2722]["real_idx"] = 2722
+
+DIRTYWORD["index"][2723] = 2723
+DIRTYWORD[2723] = {}
+	DIRTYWORD[2723]["ID"] = 2723
+	DIRTYWORD[2723]["KEY"] = "台联"
+	DIRTYWORD[2723]["real_idx"] = 2723
+
+DIRTYWORD["index"][2724] = 2724
+DIRTYWORD[2724] = {}
+	DIRTYWORD[2724]["ID"] = 2724
+	DIRTYWORD[2724]["KEY"] = "台湾党"
+	DIRTYWORD[2724]["real_idx"] = 2724
+
+DIRTYWORD["index"][2725] = 2725
+DIRTYWORD[2725] = {}
+	DIRTYWORD[2725]["ID"] = 2725
+	DIRTYWORD[2725]["KEY"] = "台湾帝国"
+	DIRTYWORD[2725]["real_idx"] = 2725
+
+DIRTYWORD["index"][2726] = 2726
+DIRTYWORD[2726] = {}
+	DIRTYWORD[2726]["ID"] = 2726
+	DIRTYWORD[2726]["KEY"] = "台湾独立"
+	DIRTYWORD[2726]["real_idx"] = 2726
+
+DIRTYWORD["index"][2727] = 2727
+DIRTYWORD[2727] = {}
+	DIRTYWORD[2727]["ID"] = 2727
+	DIRTYWORD[2727]["KEY"] = "台湾共产党"
+	DIRTYWORD[2727]["real_idx"] = 2727
+
+DIRTYWORD["index"][2728] = 2728
+DIRTYWORD[2728] = {}
+	DIRTYWORD[2728]["ID"] = 2728
+	DIRTYWORD[2728]["KEY"] = "台湾共和国"
+	DIRTYWORD[2728]["real_idx"] = 2728
+
+DIRTYWORD["index"][2729] = 2729
+DIRTYWORD[2729] = {}
+	DIRTYWORD[2729]["ID"] = 2729
+	DIRTYWORD[2729]["KEY"] = "台湾狗"
+	DIRTYWORD[2729]["real_idx"] = 2729
+
+DIRTYWORD["index"][2730] = 2730
+DIRTYWORD[2730] = {}
+	DIRTYWORD[2730]["ID"] = 2730
+	DIRTYWORD[2730]["KEY"] = "台湾国"
+	DIRTYWORD[2730]["real_idx"] = 2730
+
+DIRTYWORD["index"][2731] = 2731
+DIRTYWORD[2731] = {}
+	DIRTYWORD[2731]["ID"] = 2731
+	DIRTYWORD[2731]["KEY"] = "台湾民国"
+	DIRTYWORD[2731]["real_idx"] = 2731
+
+DIRTYWORD["index"][2732] = 2732
+DIRTYWORD[2732] = {}
+	DIRTYWORD[2732]["ID"] = 2732
+	DIRTYWORD[2732]["KEY"] = "太监"
+	DIRTYWORD[2732]["real_idx"] = 2732
+
+DIRTYWORD["index"][2733] = 2733
+DIRTYWORD[2733] = {}
+	DIRTYWORD[2733]["ID"] = 2733
+	DIRTYWORD[2733]["KEY"] = "太子党"
+	DIRTYWORD[2733]["real_idx"] = 2733
+
+DIRTYWORD["index"][2734] = 2734
+DIRTYWORD[2734] = {}
+	DIRTYWORD[2734]["ID"] = 2734
+	DIRTYWORD[2734]["KEY"] = "唐家璇"
+	DIRTYWORD[2734]["real_idx"] = 2734
+
+DIRTYWORD["index"][2735] = 2735
+DIRTYWORD[2735] = {}
+	DIRTYWORD[2735]["ID"] = 2735
+	DIRTYWORD[2735]["KEY"] = "天皇陛下"
+	DIRTYWORD[2735]["real_idx"] = 2735
+
+DIRTYWORD["index"][2736] = 2736
+DIRTYWORD[2736] = {}
+	DIRTYWORD[2736]["ID"] = 2736
+	DIRTYWORD[2736]["KEY"] = "田纪云"
+	DIRTYWORD[2736]["real_idx"] = 2736
+
+DIRTYWORD["index"][2737] = 2737
+DIRTYWORD[2737] = {}
+	DIRTYWORD[2737]["ID"] = 2737
+	DIRTYWORD[2737]["KEY"] = "舔西"
+	DIRTYWORD[2737]["real_idx"] = 2737
+
+DIRTYWORD["index"][2738] = 2738
+DIRTYWORD[2738] = {}
+	DIRTYWORD[2738]["ID"] = 2738
+	DIRTYWORD[2738]["KEY"] = "投毒杀人"
+	DIRTYWORD[2738]["real_idx"] = 2738
+
+DIRTYWORD["index"][2739] = 2739
+DIRTYWORD[2739] = {}
+	DIRTYWORD[2739]["ID"] = 2739
+	DIRTYWORD[2739]["KEY"] = "透视软件"
+	DIRTYWORD[2739]["real_idx"] = 2739
+
+DIRTYWORD["index"][2740] = 2740
+DIRTYWORD[2740] = {}
+	DIRTYWORD[2740]["ID"] = 2740
+	DIRTYWORD[2740]["KEY"] = "推油"
+	DIRTYWORD[2740]["real_idx"] = 2740
+
+DIRTYWORD["index"][2741] = 2741
+DIRTYWORD[2741] = {}
+	DIRTYWORD[2741]["ID"] = 2741
+	DIRTYWORD[2741]["KEY"] = "外　挂"
+	DIRTYWORD[2741]["real_idx"] = 2741
+
+DIRTYWORD["index"][2742] = 2742
+DIRTYWORD[2742] = {}
+	DIRTYWORD[2742]["ID"] = 2742
+	DIRTYWORD[2742]["KEY"] = "外挂"
+	DIRTYWORD[2742]["real_idx"] = 2742
+
+DIRTYWORD["index"][2743] = 2743
+DIRTYWORD[2743] = {}
+	DIRTYWORD[2743]["ID"] = 2743
+	DIRTYWORD[2743]["KEY"] = "外/挂"
+	DIRTYWORD[2743]["real_idx"] = 2743
+
+DIRTYWORD["index"][2744] = 2744
+DIRTYWORD[2744] = {}
+	DIRTYWORD[2744]["ID"] = 2744
+	DIRTYWORD[2744]["KEY"] = "外\\挂"
+	DIRTYWORD[2744]["real_idx"] = 2744
+
+DIRTYWORD["index"][2745] = 2745
+DIRTYWORD[2745] = {}
+	DIRTYWORD[2745]["ID"] = 2745
+	DIRTYWORD[2745]["KEY"] = "外_挂"
+	DIRTYWORD[2745]["real_idx"] = 2745
+
+DIRTYWORD["index"][2746] = 2746
+DIRTYWORD[2746] = {}
+	DIRTYWORD[2746]["ID"] = 2746
+	DIRTYWORD[2746]["KEY"] = "外挂"
+	DIRTYWORD[2746]["real_idx"] = 2746
+
+DIRTYWORD["index"][2747] = 2747
+DIRTYWORD[2747] = {}
+	DIRTYWORD[2747]["ID"] = 2747
+	DIRTYWORD[2747]["KEY"] = "外-挂"
+	DIRTYWORD[2747]["real_idx"] = 2747
+
+DIRTYWORD["index"][2748] = 2748
+DIRTYWORD[2748] = {}
+	DIRTYWORD[2748]["ID"] = 2748
+	DIRTYWORD[2748]["KEY"] = "外—挂"
+	DIRTYWORD[2748]["real_idx"] = 2748
+
+DIRTYWORD["index"][2749] = 2749
+DIRTYWORD[2749] = {}
+	DIRTYWORD[2749]["ID"] = 2749
+	DIRTYWORD[2749]["KEY"] = "外汇局"
+	DIRTYWORD[2749]["real_idx"] = 2749
+
+DIRTYWORD["index"][2750] = 2750
+DIRTYWORD[2750] = {}
+	DIRTYWORD[2750]["ID"] = 2750
+	DIRTYWORD[2750]["KEY"] = "外交部"
+	DIRTYWORD[2750]["real_idx"] = 2750
+
+DIRTYWORD["index"][2751] = 2751
+DIRTYWORD[2751] = {}
+	DIRTYWORD[2751]["ID"] = 2751
+	DIRTYWORD[2751]["KEY"] = "外专局"
+	DIRTYWORD[2751]["real_idx"] = 2751
+
+DIRTYWORD["index"][2752] = 2752
+DIRTYWORD[2752] = {}
+	DIRTYWORD[2752]["ID"] = 2752
+	DIRTYWORD[2752]["KEY"] = "晚年周恩来"
+	DIRTYWORD[2752]["real_idx"] = 2752
+
+DIRTYWORD["index"][2753] = 2753
+DIRTYWORD[2753] = {}
+	DIRTYWORD[2753]["ID"] = 2753
+	DIRTYWORD[2753]["KEY"] = "万税"
+	DIRTYWORD[2753]["real_idx"] = 2753
+
+DIRTYWORD["index"][2754] = 2754
+DIRTYWORD[2754] = {}
+	DIRTYWORD[2754]["ID"] = 2754
+	DIRTYWORD[2754]["KEY"] = "王八蛋"
+	DIRTYWORD[2754]["real_idx"] = 2754
+
+DIRTYWORD["index"][2755] = 2755
+DIRTYWORD[2755] = {}
+	DIRTYWORD[2755]["ID"] = 2755
+	DIRTYWORD[2755]["KEY"] = "王宝森"
+	DIRTYWORD[2755]["real_idx"] = 2755
+
+DIRTYWORD["index"][2756] = 2756
+DIRTYWORD[2756] = {}
+	DIRTYWORD[2756]["ID"] = 2756
+	DIRTYWORD[2756]["KEY"] = "王刚"
+	DIRTYWORD[2756]["real_idx"] = 2756
+
+DIRTYWORD["index"][2757] = 2757
+DIRTYWORD[2757] = {}
+	DIRTYWORD[2757]["ID"] = 2757
+	DIRTYWORD[2757]["KEY"] = "王昊"
+	DIRTYWORD[2757]["real_idx"] = 2757
+
+DIRTYWORD["index"][2758] = 2758
+DIRTYWORD[2758] = {}
+	DIRTYWORD[2758]["ID"] = 2758
+	DIRTYWORD[2758]["KEY"] = "王乐泉"
+	DIRTYWORD[2758]["real_idx"] = 2758
+
+DIRTYWORD["index"][2759] = 2759
+DIRTYWORD[2759] = {}
+	DIRTYWORD[2759]["ID"] = 2759
+	DIRTYWORD[2759]["KEY"] = "王岐山"
+	DIRTYWORD[2759]["real_idx"] = 2759
+
+DIRTYWORD["index"][2760] = 2760
+DIRTYWORD[2760] = {}
+	DIRTYWORD[2760]["ID"] = 2760
+	DIRTYWORD[2760]["KEY"] = "王太华"
+	DIRTYWORD[2760]["real_idx"] = 2760
+
+DIRTYWORD["index"][2761] = 2761
+DIRTYWORD[2761] = {}
+	DIRTYWORD[2761]["ID"] = 2761
+	DIRTYWORD[2761]["KEY"] = "王兆国"
+	DIRTYWORD[2761]["real_idx"] = 2761
+
+DIRTYWORD["index"][2762] = 2762
+DIRTYWORD[2762] = {}
+	DIRTYWORD[2762]["ID"] = 2762
+	DIRTYWORD[2762]["KEY"] = "王震"
+	DIRTYWORD[2762]["real_idx"] = 2762
+
+DIRTYWORD["index"][2763] = 2763
+DIRTYWORD[2763] = {}
+	DIRTYWORD[2763]["ID"] = 2763
+	DIRTYWORD[2763]["KEY"] = "网管"
+	DIRTYWORD[2763]["real_idx"] = 2763
+
+DIRTYWORD["index"][2764] = 2764
+DIRTYWORD[2764] = {}
+	DIRTYWORD[2764]["ID"] = 2764
+	DIRTYWORD[2764]["KEY"] = "威而钢"
+	DIRTYWORD[2764]["real_idx"] = 2764
+
+DIRTYWORD["index"][2765] = 2765
+DIRTYWORD[2765] = {}
+	DIRTYWORD[2765]["ID"] = 2765
+	DIRTYWORD[2765]["KEY"] = "威而柔"
+	DIRTYWORD[2765]["real_idx"] = 2765
+
+DIRTYWORD["index"][2766] = 2766
+DIRTYWORD[2766] = {}
+	DIRTYWORD[2766]["ID"] = 2766
+	DIRTYWORD[2766]["KEY"] = "卫生部"
+	DIRTYWORD[2766]["real_idx"] = 2766
+
+DIRTYWORD["index"][2767] = 2767
+DIRTYWORD[2767] = {}
+	DIRTYWORD[2767]["ID"] = 2767
+	DIRTYWORD[2767]["KEY"] = "尉健行"
+	DIRTYWORD[2767]["real_idx"] = 2767
+
+DIRTYWORD["index"][2768] = 2768
+DIRTYWORD[2768] = {}
+	DIRTYWORD[2768]["ID"] = 2768
+	DIRTYWORD[2768]["KEY"] = "温加宝"
+	DIRTYWORD[2768]["real_idx"] = 2768
+
+DIRTYWORD["index"][2769] = 2769
+DIRTYWORD[2769] = {}
+	DIRTYWORD[2769]["ID"] = 2769
+	DIRTYWORD[2769]["KEY"] = "温家宝"
+	DIRTYWORD[2769]["real_idx"] = 2769
+
+DIRTYWORD["index"][2770] = 2770
+DIRTYWORD[2770] = {}
+	DIRTYWORD[2770]["ID"] = 2770
+	DIRTYWORD[2770]["KEY"] = "温家保"
+	DIRTYWORD[2770]["real_idx"] = 2770
+
+DIRTYWORD["index"][2771] = 2771
+DIRTYWORD[2771] = {}
+	DIRTYWORD[2771]["ID"] = 2771
+	DIRTYWORD[2771]["KEY"] = "温馨"
+	DIRTYWORD[2771]["real_idx"] = 2771
+
+DIRTYWORD["index"][2772] = 2772
+DIRTYWORD[2772] = {}
+	DIRTYWORD[2772]["ID"] = 2772
+	DIRTYWORD[2772]["KEY"] = "温总理"
+	DIRTYWORD[2772]["real_idx"] = 2772
+
+DIRTYWORD["index"][2773] = 2773
+DIRTYWORD[2773] = {}
+	DIRTYWORD[2773]["ID"] = 2773
+	DIRTYWORD[2773]["KEY"] = "文化部"
+	DIRTYWORD[2773]["real_idx"] = 2773
+
+DIRTYWORD["index"][2774] = 2774
+DIRTYWORD[2774] = {}
+	DIRTYWORD[2774]["ID"] = 2774
+	DIRTYWORD[2774]["KEY"] = "文物局"
+	DIRTYWORD[2774]["real_idx"] = 2774
+
+DIRTYWORD["index"][2775] = 2775
+DIRTYWORD[2775] = {}
+	DIRTYWORD[2775]["ID"] = 2775
+	DIRTYWORD[2775]["KEY"] = "倭国"
+	DIRTYWORD[2775]["real_idx"] = 2775
+
+DIRTYWORD["index"][2776] = 2776
+DIRTYWORD[2776] = {}
+	DIRTYWORD[2776]["ID"] = 2776
+	DIRTYWORD[2776]["KEY"] = "倭寇"
+	DIRTYWORD[2776]["real_idx"] = 2776
+
+DIRTYWORD["index"][2777] = 2777
+DIRTYWORD[2777] = {}
+	DIRTYWORD[2777]["ID"] = 2777
+	DIRTYWORD[2777]["KEY"] = "我操"
+	DIRTYWORD[2777]["real_idx"] = 2777
+
+DIRTYWORD["index"][2778] = 2778
+DIRTYWORD[2778] = {}
+	DIRTYWORD[2778]["ID"] = 2778
+	DIRTYWORD[2778]["KEY"] = "我操你"
+	DIRTYWORD[2778]["real_idx"] = 2778
+
+DIRTYWORD["index"][2779] = 2779
+DIRTYWORD[2779] = {}
+	DIRTYWORD[2779]["ID"] = 2779
+	DIRTYWORD[2779]["KEY"] = "我干"
+	DIRTYWORD[2779]["real_idx"] = 2779
+
+DIRTYWORD["index"][2780] = 2780
+DIRTYWORD[2780] = {}
+	DIRTYWORD[2780]["ID"] = 2780
+	DIRTYWORD[2780]["KEY"] = "我妳老爸"
+	DIRTYWORD[2780]["real_idx"] = 2780
+
+DIRTYWORD["index"][2781] = 2781
+DIRTYWORD[2781] = {}
+	DIRTYWORD[2781]["ID"] = 2781
+	DIRTYWORD[2781]["KEY"] = "我日"
+	DIRTYWORD[2781]["real_idx"] = 2781
+
+DIRTYWORD["index"][2782] = 2782
+DIRTYWORD[2782] = {}
+	DIRTYWORD[2782]["ID"] = 2782
+	DIRTYWORD[2782]["KEY"] = "我日你"
+	DIRTYWORD[2782]["real_idx"] = 2782
+
+DIRTYWORD["index"][2783] = 2783
+DIRTYWORD[2783] = {}
+	DIRTYWORD[2783]["ID"] = 2783
+	DIRTYWORD[2783]["KEY"] = "无界浏览器"
+	DIRTYWORD[2783]["real_idx"] = 2783
+
+DIRTYWORD["index"][2784] = 2784
+DIRTYWORD[2784] = {}
+	DIRTYWORD[2784]["ID"] = 2784
+	DIRTYWORD[2784]["KEY"] = "吴　仪"
+	DIRTYWORD[2784]["real_idx"] = 2784
+
+DIRTYWORD["index"][2785] = 2785
+DIRTYWORD[2785] = {}
+	DIRTYWORD[2785]["ID"] = 2785
+	DIRTYWORD[2785]["KEY"] = "吴邦国"
+	DIRTYWORD[2785]["real_idx"] = 2785
+
+DIRTYWORD["index"][2786] = 2786
+DIRTYWORD[2786] = {}
+	DIRTYWORD[2786]["ID"] = 2786
+	DIRTYWORD[2786]["KEY"] = "吴官正"
+	DIRTYWORD[2786]["real_idx"] = 2786
+
+DIRTYWORD["index"][2787] = 2787
+DIRTYWORD[2787] = {}
+	DIRTYWORD[2787]["ID"] = 2787
+	DIRTYWORD[2787]["KEY"] = "吴仪"
+	DIRTYWORD[2787]["real_idx"] = 2787
+
+DIRTYWORD["index"][2788] = 2788
+DIRTYWORD[2788] = {}
+	DIRTYWORD[2788]["ID"] = 2788
+	DIRTYWORD[2788]["KEY"] = "五星红旗"
+	DIRTYWORD[2788]["real_idx"] = 2788
+
+DIRTYWORD["index"][2789] = 2789
+DIRTYWORD[2789] = {}
+	DIRTYWORD[2789]["ID"] = 2789
+	DIRTYWORD[2789]["KEY"] = "西藏独立"
+	DIRTYWORD[2789]["real_idx"] = 2789
+
+DIRTYWORD["index"][2790] = 2790
+DIRTYWORD[2790] = {}
+	DIRTYWORD[2790]["ID"] = 2790
+	DIRTYWORD[2790]["KEY"] = "西藏天葬"
+	DIRTYWORD[2790]["real_idx"] = 2790
+
+DIRTYWORD["index"][2791] = 2791
+DIRTYWORD[2791] = {}
+	DIRTYWORD[2791]["ID"] = 2791
+	DIRTYWORD[2791]["KEY"] = "希拉克"
+	DIRTYWORD[2791]["real_idx"] = 2791
+
+DIRTYWORD["index"][2792] = 2792
+DIRTYWORD[2792] = {}
+	DIRTYWORD[2792]["ID"] = 2792
+	DIRTYWORD[2792]["KEY"] = "希特勒"
+	DIRTYWORD[2792]["real_idx"] = 2792
+
+DIRTYWORD["index"][2793] = 2793
+DIRTYWORD[2793] = {}
+	DIRTYWORD[2793]["ID"] = 2793
+	DIRTYWORD[2793]["KEY"] = "希望之声"
+	DIRTYWORD[2793]["real_idx"] = 2793
+
+DIRTYWORD["index"][2794] = 2794
+DIRTYWORD[2794] = {}
+	DIRTYWORD[2794]["ID"] = 2794
+	DIRTYWORD[2794]["KEY"] = "洗脑班"
+	DIRTYWORD[2794]["real_idx"] = 2794
+
+DIRTYWORD["index"][2795] = 2795
+DIRTYWORD[2795] = {}
+	DIRTYWORD[2795]["ID"] = 2795
+	DIRTYWORD[2795]["KEY"] = "系统"
+	DIRTYWORD[2795]["real_idx"] = 2795
+
+DIRTYWORD["index"][2796] = 2796
+DIRTYWORD[2796] = {}
+	DIRTYWORD[2796]["ID"] = 2796
+	DIRTYWORD[2796]["KEY"] = "系统公告"
+	DIRTYWORD[2796]["real_idx"] = 2796
+
+DIRTYWORD["index"][2797] = 2797
+DIRTYWORD[2797] = {}
+	DIRTYWORD[2797]["ID"] = 2797
+	DIRTYWORD[2797]["KEY"] = "系统讯息"
+	DIRTYWORD[2797]["real_idx"] = 2797
+
+DIRTYWORD["index"][2798] = 2798
+DIRTYWORD[2798] = {}
+	DIRTYWORD[2798]["ID"] = 2798
+	DIRTYWORD[2798]["KEY"] = "鲜族"
+	DIRTYWORD[2798]["real_idx"] = 2798
+
+DIRTYWORD["index"][2799] = 2799
+DIRTYWORD[2799] = {}
+	DIRTYWORD[2799]["ID"] = 2799
+	DIRTYWORD[2799]["KEY"] = "乡巴佬"
+	DIRTYWORD[2799]["real_idx"] = 2799
+
+DIRTYWORD["index"][2800] = 2800
+DIRTYWORD[2800] = {}
+	DIRTYWORD[2800]["ID"] = 2800
+	DIRTYWORD[2800]["KEY"] = "想上你"
+	DIRTYWORD[2800]["real_idx"] = 2800
+
+DIRTYWORD["index"][2801] = 2801
+DIRTYWORD[2801] = {}
+	DIRTYWORD[2801]["ID"] = 2801
+	DIRTYWORD[2801]["KEY"] = "小鸡鸡"
+	DIRTYWORD[2801]["real_idx"] = 2801
+
+DIRTYWORD["index"][2802] = 2802
+DIRTYWORD[2802] = {}
+	DIRTYWORD[2802]["ID"] = 2802
+	DIRTYWORD[2802]["KEY"] = "小泉"
+	DIRTYWORD[2802]["real_idx"] = 2802
+
+DIRTYWORD["index"][2803] = 2803
+DIRTYWORD[2803] = {}
+	DIRTYWORD[2803]["ID"] = 2803
+	DIRTYWORD[2803]["KEY"] = "小泉纯一郎"
+	DIRTYWORD[2803]["real_idx"] = 2803
+
+DIRTYWORD["index"][2804] = 2804
+DIRTYWORD[2804] = {}
+	DIRTYWORD[2804]["ID"] = 2804
+	DIRTYWORD[2804]["KEY"] = "小日本"
+	DIRTYWORD[2804]["real_idx"] = 2804
+
+DIRTYWORD["index"][2805] = 2805
+DIRTYWORD[2805] = {}
+	DIRTYWORD[2805]["ID"] = 2805
+	DIRTYWORD[2805]["KEY"] = "小肉粒"
+	DIRTYWORD[2805]["real_idx"] = 2805
+
+DIRTYWORD["index"][2806] = 2806
+DIRTYWORD[2806] = {}
+	DIRTYWORD[2806]["ID"] = 2806
+	DIRTYWORD[2806]["KEY"] = "小乳头"
+	DIRTYWORD[2806]["real_idx"] = 2806
+
+DIRTYWORD["index"][2807] = 2807
+DIRTYWORD[2807] = {}
+	DIRTYWORD[2807]["ID"] = 2807
+	DIRTYWORD[2807]["KEY"] = "小穴"
+	DIRTYWORD[2807]["real_idx"] = 2807
+
+DIRTYWORD["index"][2808] = 2808
+DIRTYWORD[2808] = {}
+	DIRTYWORD[2808]["ID"] = 2808
+	DIRTYWORD[2808]["KEY"] = "邪教"
+	DIRTYWORD[2808]["real_idx"] = 2808
+
+DIRTYWORD["index"][2809] = 2809
+DIRTYWORD[2809] = {}
+	DIRTYWORD[2809]["ID"] = 2809
+	DIRTYWORD[2809]["KEY"] = "新疆独立"
+	DIRTYWORD[2809]["real_idx"] = 2809
+
+DIRTYWORD["index"][2810] = 2810
+DIRTYWORD[2810] = {}
+	DIRTYWORD[2810]["ID"] = 2810
+	DIRTYWORD[2810]["KEY"] = "兴奋剂"
+	DIRTYWORD[2810]["real_idx"] = 2810
+
+DIRTYWORD["index"][2811] = 2811
+DIRTYWORD[2811] = {}
+	DIRTYWORD[2811]["ID"] = 2811
+	DIRTYWORD[2811]["KEY"] = "性爱"
+	DIRTYWORD[2811]["real_idx"] = 2811
+
+DIRTYWORD["index"][2812] = 2812
+DIRTYWORD[2812] = {}
+	DIRTYWORD[2812]["ID"] = 2812
+	DIRTYWORD[2812]["KEY"] = "性交"
+	DIRTYWORD[2812]["real_idx"] = 2812
+
+DIRTYWORD["index"][2813] = 2813
+DIRTYWORD[2813] = {}
+	DIRTYWORD[2813]["ID"] = 2813
+	DIRTYWORD[2813]["KEY"] = "性虐待"
+	DIRTYWORD[2813]["real_idx"] = 2813
+
+DIRTYWORD["index"][2814] = 2814
+DIRTYWORD[2814] = {}
+	DIRTYWORD[2814]["ID"] = 2814
+	DIRTYWORD[2814]["KEY"] = "性无能"
+	DIRTYWORD[2814]["real_idx"] = 2814
+
+DIRTYWORD["index"][2815] = 2815
+DIRTYWORD[2815] = {}
+	DIRTYWORD[2815]["ID"] = 2815
+	DIRTYWORD[2815]["KEY"] = "性欲"
+	DIRTYWORD[2815]["real_idx"] = 2815
+
+DIRTYWORD["index"][2816] = 2816
+DIRTYWORD[2816] = {}
+	DIRTYWORD[2816]["ID"] = 2816
+	DIRTYWORD[2816]["KEY"] = "徐光春"
+	DIRTYWORD[2816]["real_idx"] = 2816
+
+DIRTYWORD["index"][2817] = 2817
+DIRTYWORD[2817] = {}
+	DIRTYWORD[2817]["ID"] = 2817
+	DIRTYWORD[2817]["KEY"] = "学潮"
+	DIRTYWORD[2817]["real_idx"] = 2817
+
+DIRTYWORD["index"][2818] = 2818
+DIRTYWORD[2818] = {}
+	DIRTYWORD[2818]["ID"] = 2818
+	DIRTYWORD[2818]["KEY"] = "血逼"
+	DIRTYWORD[2818]["real_idx"] = 2818
+
+DIRTYWORD["index"][2819] = 2819
+DIRTYWORD[2819] = {}
+	DIRTYWORD[2819]["ID"] = 2819
+	DIRTYWORD[2819]["KEY"] = "血腥图片"
+	DIRTYWORD[2819]["real_idx"] = 2819
+
+DIRTYWORD["index"][2820] = 2820
+DIRTYWORD[2820] = {}
+	DIRTYWORD[2820]["ID"] = 2820
+	DIRTYWORD[2820]["KEY"] = "鸦片"
+	DIRTYWORD[2820]["real_idx"] = 2820
+
+DIRTYWORD["index"][2821] = 2821
+DIRTYWORD[2821] = {}
+	DIRTYWORD[2821]["ID"] = 2821
+	DIRTYWORD[2821]["KEY"] = "鸦片液"
+	DIRTYWORD[2821]["real_idx"] = 2821
+
+DIRTYWORD["index"][2822] = 2822
+DIRTYWORD[2822] = {}
+	DIRTYWORD[2822]["ID"] = 2822
+	DIRTYWORD[2822]["KEY"] = "鸦片渣"
+	DIRTYWORD[2822]["real_idx"] = 2822
+
+DIRTYWORD["index"][2823] = 2823
+DIRTYWORD[2823] = {}
+	DIRTYWORD[2823]["ID"] = 2823
+	DIRTYWORD[2823]["KEY"] = "烟草局"
+	DIRTYWORD[2823]["real_idx"] = 2823
+
+DIRTYWORD["index"][2824] = 2824
+DIRTYWORD[2824] = {}
+	DIRTYWORD[2824]["ID"] = 2824
+	DIRTYWORD[2824]["KEY"] = "严方军"
+	DIRTYWORD[2824]["real_idx"] = 2824
+
+DIRTYWORD["index"][2825] = 2825
+DIRTYWORD[2825] = {}
+	DIRTYWORD[2825]["ID"] = 2825
+	DIRTYWORD[2825]["KEY"] = "阳精"
+	DIRTYWORD[2825]["real_idx"] = 2825
+
+DIRTYWORD["index"][2826] = 2826
+DIRTYWORD[2826] = {}
+	DIRTYWORD[2826]["ID"] = 2826
+	DIRTYWORD[2826]["KEY"] = "阳具"
+	DIRTYWORD[2826]["real_idx"] = 2826
+
+DIRTYWORD["index"][2827] = 2827
+DIRTYWORD[2827] = {}
+	DIRTYWORD[2827]["ID"] = 2827
+	DIRTYWORD[2827]["KEY"] = "摇头丸"
+	DIRTYWORD[2827]["real_idx"] = 2827
+
+DIRTYWORD["index"][2828] = 2828
+DIRTYWORD[2828] = {}
+	DIRTYWORD[2828]["ID"] = 2828
+	DIRTYWORD[2828]["KEY"] = "摇头玩"
+	DIRTYWORD[2828]["real_idx"] = 2828
+
+DIRTYWORD["index"][2829] = 2829
+DIRTYWORD[2829] = {}
+	DIRTYWORD[2829]["ID"] = 2829
+	DIRTYWORD[2829]["KEY"] = "耶和华"
+	DIRTYWORD[2829]["real_idx"] = 2829
+
+DIRTYWORD["index"][2830] = 2830
+DIRTYWORD[2830] = {}
+	DIRTYWORD[2830]["ID"] = 2830
+	DIRTYWORD[2830]["KEY"] = "耶苏"
+	DIRTYWORD[2830]["real_idx"] = 2830
+
+DIRTYWORD["index"][2831] = 2831
+DIRTYWORD[2831] = {}
+	DIRTYWORD[2831]["ID"] = 2831
+	DIRTYWORD[2831]["KEY"] = "耶稣"
+	DIRTYWORD[2831]["real_idx"] = 2831
+
+DIRTYWORD["index"][2832] = 2832
+DIRTYWORD[2832] = {}
+	DIRTYWORD[2832]["ID"] = 2832
+	DIRTYWORD[2832]["KEY"] = "叶剑英"
+	DIRTYWORD[2832]["real_idx"] = 2832
+
+DIRTYWORD["index"][2833] = 2833
+DIRTYWORD[2833] = {}
+	DIRTYWORD[2833]["ID"] = 2833
+	DIRTYWORD[2833]["KEY"] = "夜情"
+	DIRTYWORD[2833]["real_idx"] = 2833
+
+DIRTYWORD["index"][2834] = 2834
+DIRTYWORD[2834] = {}
+	DIRTYWORD[2834]["ID"] = 2834
+	DIRTYWORD[2834]["KEY"] = "一党专制"
+	DIRTYWORD[2834]["real_idx"] = 2834
+
+DIRTYWORD["index"][2835] = 2835
+DIRTYWORD[2835] = {}
+	DIRTYWORD[2835]["ID"] = 2835
+	DIRTYWORD[2835]["KEY"] = "一贯道"
+	DIRTYWORD[2835]["real_idx"] = 2835
+
+DIRTYWORD["index"][2836] = 2836
+DIRTYWORD[2836] = {}
+	DIRTYWORD[2836]["ID"] = 2836
+	DIRTYWORD[2836]["KEY"] = "一国两制"
+	DIRTYWORD[2836]["real_idx"] = 2836
+
+DIRTYWORD["index"][2837] = 2837
+DIRTYWORD[2837] = {}
+	DIRTYWORD[2837]["ID"] = 2837
+	DIRTYWORD[2837]["KEY"] = "一夜情"
+	DIRTYWORD[2837]["real_idx"] = 2837
+
+DIRTYWORD["index"][2838] = 2838
+DIRTYWORD[2838] = {}
+	DIRTYWORD[2838]["ID"] = 2838
+	DIRTYWORD[2838]["KEY"] = "一中一台"
+	DIRTYWORD[2838]["real_idx"] = 2838
+
+DIRTYWORD["index"][2839] = 2839
+DIRTYWORD[2839] = {}
+	DIRTYWORD[2839]["ID"] = 2839
+	DIRTYWORD[2839]["KEY"] = "伊拉克"
+	DIRTYWORD[2839]["real_idx"] = 2839
+
+DIRTYWORD["index"][2840] = 2840
+DIRTYWORD[2840] = {}
+	DIRTYWORD[2840]["ID"] = 2840
+	DIRTYWORD[2840]["KEY"] = "伊朗"
+	DIRTYWORD[2840]["real_idx"] = 2840
+
+DIRTYWORD["index"][2841] = 2841
+DIRTYWORD[2841] = {}
+	DIRTYWORD[2841]["ID"] = 2841
+	DIRTYWORD[2841]["KEY"] = "伊斯兰"
+	DIRTYWORD[2841]["real_idx"] = 2841
+
+DIRTYWORD["index"][2842] = 2842
+DIRTYWORD[2842] = {}
+	DIRTYWORD[2842]["ID"] = 2842
+	DIRTYWORD[2842]["KEY"] = "以茎至洞"
+	DIRTYWORD[2842]["real_idx"] = 2842
+
+DIRTYWORD["index"][2843] = 2843
+DIRTYWORD[2843] = {}
+	DIRTYWORD[2843]["ID"] = 2843
+	DIRTYWORD[2843]["KEY"] = "抑制剂"
+	DIRTYWORD[2843]["real_idx"] = 2843
+
+DIRTYWORD["index"][2844] = 2844
+DIRTYWORD[2844] = {}
+	DIRTYWORD[2844]["ID"] = 2844
+	DIRTYWORD[2844]["KEY"] = "阴部"
+	DIRTYWORD[2844]["real_idx"] = 2844
+
+DIRTYWORD["index"][2845] = 2845
+DIRTYWORD[2845] = {}
+	DIRTYWORD[2845]["ID"] = 2845
+	DIRTYWORD[2845]["KEY"] = "阴唇"
+	DIRTYWORD[2845]["real_idx"] = 2845
+
+DIRTYWORD["index"][2846] = 2846
+DIRTYWORD[2846] = {}
+	DIRTYWORD[2846]["ID"] = 2846
+	DIRTYWORD[2846]["KEY"] = "阴道"
+	DIRTYWORD[2846]["real_idx"] = 2846
+
+DIRTYWORD["index"][2847] = 2847
+DIRTYWORD[2847] = {}
+	DIRTYWORD[2847]["ID"] = 2847
+	DIRTYWORD[2847]["KEY"] = "阴蒂"
+	DIRTYWORD[2847]["real_idx"] = 2847
+
+DIRTYWORD["index"][2848] = 2848
+DIRTYWORD[2848] = {}
+	DIRTYWORD[2848]["ID"] = 2848
+	DIRTYWORD[2848]["KEY"] = "阴核"
+	DIRTYWORD[2848]["real_idx"] = 2848
+
+DIRTYWORD["index"][2849] = 2849
+DIRTYWORD[2849] = {}
+	DIRTYWORD[2849]["ID"] = 2849
+	DIRTYWORD[2849]["KEY"] = "阴户"
+	DIRTYWORD[2849]["real_idx"] = 2849
+
+DIRTYWORD["index"][2850] = 2850
+DIRTYWORD[2850] = {}
+	DIRTYWORD[2850]["ID"] = 2850
+	DIRTYWORD[2850]["KEY"] = "阴茎"
+	DIRTYWORD[2850]["real_idx"] = 2850
+
+DIRTYWORD["index"][2851] = 2851
+DIRTYWORD[2851] = {}
+	DIRTYWORD[2851]["ID"] = 2851
+	DIRTYWORD[2851]["KEY"] = "阴毛"
+	DIRTYWORD[2851]["real_idx"] = 2851
+
+DIRTYWORD["index"][2852] = 2852
+DIRTYWORD[2852] = {}
+	DIRTYWORD[2852]["ID"] = 2852
+	DIRTYWORD[2852]["KEY"] = "阴水"
+	DIRTYWORD[2852]["real_idx"] = 2852
+
+DIRTYWORD["index"][2853] = 2853
+DIRTYWORD[2853] = {}
+	DIRTYWORD[2853]["ID"] = 2853
+	DIRTYWORD[2853]["KEY"] = "阴小撕大"
+	DIRTYWORD[2853]["real_idx"] = 2853
+
+DIRTYWORD["index"][2854] = 2854
+DIRTYWORD[2854] = {}
+	DIRTYWORD[2854]["ID"] = 2854
+	DIRTYWORD[2854]["KEY"] = "淫"
+	DIRTYWORD[2854]["real_idx"] = 2854
+
+DIRTYWORD["index"][2855] = 2855
+DIRTYWORD[2855] = {}
+	DIRTYWORD[2855]["ID"] = 2855
+	DIRTYWORD[2855]["KEY"] = "淫荡"
+	DIRTYWORD[2855]["real_idx"] = 2855
+
+DIRTYWORD["index"][2856] = 2856
+DIRTYWORD[2856] = {}
+	DIRTYWORD[2856]["ID"] = 2856
+	DIRTYWORD[2856]["KEY"] = "淫秽"
+	DIRTYWORD[2856]["real_idx"] = 2856
+
+DIRTYWORD["index"][2857] = 2857
+DIRTYWORD[2857] = {}
+	DIRTYWORD[2857]["ID"] = 2857
+	DIRTYWORD[2857]["KEY"] = "淫货"
+	DIRTYWORD[2857]["real_idx"] = 2857
+
+DIRTYWORD["index"][2858] = 2858
+DIRTYWORD[2858] = {}
+	DIRTYWORD[2858]["ID"] = 2858
+	DIRTYWORD[2858]["KEY"] = "淫贱"
+	DIRTYWORD[2858]["real_idx"] = 2858
+
+DIRTYWORD["index"][2859] = 2859
+DIRTYWORD[2859] = {}
+	DIRTYWORD[2859]["ID"] = 2859
+	DIRTYWORD[2859]["KEY"] = "淫叫"
+	DIRTYWORD[2859]["real_idx"] = 2859
+
+DIRTYWORD["index"][2860] = 2860
+DIRTYWORD[2860] = {}
+	DIRTYWORD[2860]["ID"] = 2860
+	DIRTYWORD[2860]["KEY"] = "淫毛"
+	DIRTYWORD[2860]["real_idx"] = 2860
+
+DIRTYWORD["index"][2861] = 2861
+DIRTYWORD[2861] = {}
+	DIRTYWORD[2861]["ID"] = 2861
+	DIRTYWORD[2861]["KEY"] = "淫靡"
+	DIRTYWORD[2861]["real_idx"] = 2861
+
+DIRTYWORD["index"][2862] = 2862
+DIRTYWORD[2862] = {}
+	DIRTYWORD[2862]["ID"] = 2862
+	DIRTYWORD[2862]["KEY"] = "淫水"
+	DIRTYWORD[2862]["real_idx"] = 2862
+
+DIRTYWORD["index"][2863] = 2863
+DIRTYWORD[2863] = {}
+	DIRTYWORD[2863]["ID"] = 2863
+	DIRTYWORD[2863]["KEY"] = "淫娃"
+	DIRTYWORD[2863]["real_idx"] = 2863
+
+DIRTYWORD["index"][2864] = 2864
+DIRTYWORD[2864] = {}
+	DIRTYWORD[2864]["ID"] = 2864
+	DIRTYWORD[2864]["KEY"] = "淫语连连"
+	DIRTYWORD[2864]["real_idx"] = 2864
+
+DIRTYWORD["index"][2865] = 2865
+DIRTYWORD[2865] = {}
+	DIRTYWORD[2865]["ID"] = 2865
+	DIRTYWORD[2865]["KEY"] = "淫欲"
+	DIRTYWORD[2865]["real_idx"] = 2865
+
+DIRTYWORD["index"][2866] = 2866
+DIRTYWORD[2866] = {}
+	DIRTYWORD[2866]["ID"] = 2866
+	DIRTYWORD[2866]["KEY"] = "英雄纪念碑"
+	DIRTYWORD[2866]["real_idx"] = 2866
+
+DIRTYWORD["index"][2867] = 2867
+DIRTYWORD[2867] = {}
+	DIRTYWORD[2867]["ID"] = 2867
+	DIRTYWORD[2867]["KEY"] = "硬挺"
+	DIRTYWORD[2867]["real_idx"] = 2867
+
+DIRTYWORD["index"][2868] = 2868
+DIRTYWORD[2868] = {}
+	DIRTYWORD[2868]["ID"] = 2868
+	DIRTYWORD[2868]["KEY"] = "邮政局"
+	DIRTYWORD[2868]["real_idx"] = 2868
+
+DIRTYWORD["index"][2869] = 2869
+DIRTYWORD[2869] = {}
+	DIRTYWORD[2869]["ID"] = 2869
+	DIRTYWORD[2869]["KEY"] = "游戏发奖员"
+	DIRTYWORD[2869]["real_idx"] = 2869
+
+DIRTYWORD["index"][2870] = 2870
+DIRTYWORD[2870] = {}
+	DIRTYWORD[2870]["ID"] = 2870
+	DIRTYWORD[2870]["KEY"] = "游戏宫理员"
+	DIRTYWORD[2870]["real_idx"] = 2870
+
+DIRTYWORD["index"][2871] = 2871
+DIRTYWORD[2871] = {}
+	DIRTYWORD[2871]["ID"] = 2871
+	DIRTYWORD[2871]["KEY"] = "游戏管理员"
+	DIRTYWORD[2871]["real_idx"] = 2871
+
+DIRTYWORD["index"][2872] = 2872
+DIRTYWORD[2872] = {}
+	DIRTYWORD[2872]["ID"] = 2872
+	DIRTYWORD[2872]["KEY"] = "游行"
+	DIRTYWORD[2872]["real_idx"] = 2872
+
+DIRTYWORD["index"][2873] = 2873
+DIRTYWORD[2873] = {}
+	DIRTYWORD[2873]["ID"] = 2873
+	DIRTYWORD[2873]["KEY"] = "俞正声"
+	DIRTYWORD[2873]["real_idx"] = 2873
+
+DIRTYWORD["index"][2874] = 2874
+DIRTYWORD[2874] = {}
+	DIRTYWORD[2874]["ID"] = 2874
+	DIRTYWORD[2874]["KEY"] = "舆论钳制"
+	DIRTYWORD[2874]["real_idx"] = 2874
+
+DIRTYWORD["index"][2875] = 2875
+DIRTYWORD[2875] = {}
+	DIRTYWORD[2875]["ID"] = 2875
+	DIRTYWORD[2875]["KEY"] = "玉杵"
+	DIRTYWORD[2875]["real_idx"] = 2875
+
+DIRTYWORD["index"][2876] = 2876
+DIRTYWORD[2876] = {}
+	DIRTYWORD[2876]["ID"] = 2876
+	DIRTYWORD[2876]["KEY"] = "欲火焚身"
+	DIRTYWORD[2876]["real_idx"] = 2876
+
+DIRTYWORD["index"][2877] = 2877
+DIRTYWORD[2877] = {}
+	DIRTYWORD[2877]["ID"] = 2877
+	DIRTYWORD[2877]["KEY"] = "原子能机构"
+	DIRTYWORD[2877]["real_idx"] = 2877
+
+DIRTYWORD["index"][2878] = 2878
+DIRTYWORD[2878] = {}
+	DIRTYWORD[2878]["ID"] = 2878
+	DIRTYWORD[2878]["KEY"] = "援交"
+	DIRTYWORD[2878]["real_idx"] = 2878
+
+DIRTYWORD["index"][2879] = 2879
+DIRTYWORD[2879] = {}
+	DIRTYWORD[2879]["ID"] = 2879
+	DIRTYWORD[2879]["KEY"] = "远程偷拍"
+	DIRTYWORD[2879]["real_idx"] = 2879
+
+DIRTYWORD["index"][2880] = 2880
+DIRTYWORD[2880] = {}
+	DIRTYWORD[2880]["ID"] = 2880
+	DIRTYWORD[2880]["KEY"] = "曰KM"
+	DIRTYWORD[2880]["real_idx"] = 2880
+
+DIRTYWORD["index"][2881] = 2881
+DIRTYWORD[2881] = {}
+	DIRTYWORD[2881]["ID"] = 2881
+	DIRTYWORD[2881]["KEY"] = "曰Km"
+	DIRTYWORD[2881]["real_idx"] = 2881
+
+DIRTYWORD["index"][2882] = 2882
+DIRTYWORD[2882] = {}
+	DIRTYWORD[2882]["ID"] = 2882
+	DIRTYWORD[2882]["KEY"] = "曰KM"
+	DIRTYWORD[2882]["real_idx"] = 2882
+
+DIRTYWORD["index"][2883] = 2883
+DIRTYWORD[2883] = {}
+	DIRTYWORD[2883]["ID"] = 2883
+	DIRTYWORD[2883]["KEY"] = "曰Km"
+	DIRTYWORD[2883]["real_idx"] = 2883
+
+DIRTYWORD["index"][2884] = 2884
+DIRTYWORD[2884] = {}
+	DIRTYWORD[2884]["ID"] = 2884
+	DIRTYWORD[2884]["KEY"] = "曰你"
+	DIRTYWORD[2884]["real_idx"] = 2884
+
+DIRTYWORD["index"][2885] = 2885
+DIRTYWORD[2885] = {}
+	DIRTYWORD[2885]["ID"] = 2885
+	DIRTYWORD[2885]["KEY"] = "月经"
+	DIRTYWORD[2885]["real_idx"] = 2885
+
+DIRTYWORD["index"][2886] = 2886
+DIRTYWORD[2886] = {}
+	DIRTYWORD[2886]["ID"] = 2886
+	DIRTYWORD[2886]["KEY"] = "月经不调"
+	DIRTYWORD[2886]["real_idx"] = 2886
+
+DIRTYWORD["index"][2887] = 2887
+DIRTYWORD[2887] = {}
+	DIRTYWORD[2887]["ID"] = 2887
+	DIRTYWORD[2887]["KEY"] = "月经"
+	DIRTYWORD[2887]["real_idx"] = 2887
+
+DIRTYWORD["index"][2888] = 2888
+DIRTYWORD[2888] = {}
+	DIRTYWORD[2888]["ID"] = 2888
+	DIRTYWORD[2888]["KEY"] = "扎卡维是英雄"
+	DIRTYWORD[2888]["real_idx"] = 2888
+
+DIRTYWORD["index"][2889] = 2889
+DIRTYWORD[2889] = {}
+	DIRTYWORD[2889]["ID"] = 2889
+	DIRTYWORD[2889]["KEY"] = "杂种"
+	DIRTYWORD[2889]["real_idx"] = 2889
+
+DIRTYWORD["index"][2890] = 2890
+DIRTYWORD[2890] = {}
+	DIRTYWORD[2890]["ID"] = 2890
+	DIRTYWORD[2890]["KEY"] = "造反"
+	DIRTYWORD[2890]["real_idx"] = 2890
+
+DIRTYWORD["index"][2891] = 2891
+DIRTYWORD[2891] = {}
+	DIRTYWORD[2891]["ID"] = 2891
+	DIRTYWORD[2891]["KEY"] = "曾培炎"
+	DIRTYWORD[2891]["real_idx"] = 2891
+
+DIRTYWORD["index"][2892] = 2892
+DIRTYWORD[2892] = {}
+	DIRTYWORD[2892]["ID"] = 2892
+	DIRTYWORD[2892]["KEY"] = "曾庆红"
+	DIRTYWORD[2892]["real_idx"] = 2892
+
+DIRTYWORD["index"][2893] = 2893
+DIRTYWORD[2893] = {}
+	DIRTYWORD[2893]["ID"] = 2893
+	DIRTYWORD[2893]["KEY"] = "扎卡维"
+	DIRTYWORD[2893]["real_idx"] = 2893
+
+DIRTYWORD["index"][2894] = 2894
+DIRTYWORD[2894] = {}
+	DIRTYWORD[2894]["ID"] = 2894
+	DIRTYWORD[2894]["KEY"] = "张朝阳"
+	DIRTYWORD[2894]["real_idx"] = 2894
+
+DIRTYWORD["index"][2895] = 2895
+DIRTYWORD[2895] = {}
+	DIRTYWORD[2895]["ID"] = 2895
+	DIRTYWORD[2895]["KEY"] = "张潮阳"
+	DIRTYWORD[2895]["real_idx"] = 2895
+
+DIRTYWORD["index"][2896] = 2896
+DIRTYWORD[2896] = {}
+	DIRTYWORD[2896]["ID"] = 2896
+	DIRTYWORD[2896]["KEY"] = "张德江"
+	DIRTYWORD[2896]["real_idx"] = 2896
+
+DIRTYWORD["index"][2897] = 2897
+DIRTYWORD[2897] = {}
+	DIRTYWORD[2897]["ID"] = 2897
+	DIRTYWORD[2897]["KEY"] = "张磊"
+	DIRTYWORD[2897]["real_idx"] = 2897
+
+DIRTYWORD["index"][2898] = 2898
+DIRTYWORD[2898] = {}
+	DIRTYWORD[2898]["ID"] = 2898
+	DIRTYWORD[2898]["KEY"] = "张立昌"
+	DIRTYWORD[2898]["real_idx"] = 2898
+
+DIRTYWORD["index"][2899] = 2899
+DIRTYWORD[2899] = {}
+	DIRTYWORD[2899]["ID"] = 2899
+	DIRTYWORD[2899]["KEY"] = "张小平"
+	DIRTYWORD[2899]["real_idx"] = 2899
+
+DIRTYWORD["index"][2900] = 2900
+DIRTYWORD[2900] = {}
+	DIRTYWORD[2900]["ID"] = 2900
+	DIRTYWORD[2900]["KEY"] = "赵紫阳"
+	DIRTYWORD[2900]["real_idx"] = 2900
+
+DIRTYWORD["index"][2901] = 2901
+DIRTYWORD[2901] = {}
+	DIRTYWORD[2901]["ID"] = 2901
+	DIRTYWORD[2901]["KEY"] = "侦探设备"
+	DIRTYWORD[2901]["real_idx"] = 2901
+
+DIRTYWORD["index"][2902] = 2902
+DIRTYWORD[2902] = {}
+	DIRTYWORD[2902]["ID"] = 2902
+	DIRTYWORD[2902]["KEY"] = "真理教"
+	DIRTYWORD[2902]["real_idx"] = 2902
+
+DIRTYWORD["index"][2903] = 2903
+DIRTYWORD[2903] = {}
+	DIRTYWORD[2903]["ID"] = 2903
+	DIRTYWORD[2903]["KEY"] = "中国恐怖组织"
+	DIRTYWORD[2903]["real_idx"] = 2903
+
+DIRTYWORD["index"][2904] = 2904
+DIRTYWORD[2904] = {}
+	DIRTYWORD[2904]["ID"] = 2904
+	DIRTYWORD[2904]["KEY"] = "中华民国"
+	DIRTYWORD[2904]["real_idx"] = 2904
+
+DIRTYWORD["index"][2905] = 2905
+DIRTYWORD[2905] = {}
+	DIRTYWORD[2905]["ID"] = 2905
+	DIRTYWORD[2905]["KEY"] = "中南海"
+	DIRTYWORD[2905]["real_idx"] = 2905
+
+DIRTYWORD["index"][2906] = 2906
+DIRTYWORD[2906] = {}
+	DIRTYWORD[2906]["ID"] = 2906
+	DIRTYWORD[2906]["KEY"] = "中宣部"
+	DIRTYWORD[2906]["real_idx"] = 2906
+
+DIRTYWORD["index"][2907] = 2907
+DIRTYWORD[2907] = {}
+	DIRTYWORD[2907]["ID"] = 2907
+	DIRTYWORD[2907]["KEY"] = "周恩来"
+	DIRTYWORD[2907]["real_idx"] = 2907
+
+DIRTYWORD["index"][2908] = 2908
+DIRTYWORD[2908] = {}
+	DIRTYWORD[2908]["ID"] = 2908
+	DIRTYWORD[2908]["KEY"] = "周永康"
+	DIRTYWORD[2908]["real_idx"] = 2908
+
+DIRTYWORD["index"][2909] = 2909
+DIRTYWORD[2909] = {}
+	DIRTYWORD[2909]["ID"] = 2909
+	DIRTYWORD[2909]["KEY"] = "周总理"
+	DIRTYWORD[2909]["real_idx"] = 2909
+
+DIRTYWORD["index"][2910] = 2910
+DIRTYWORD[2910] = {}
+	DIRTYWORD[2910]["ID"] = 2910
+	DIRTYWORD[2910]["KEY"] = "朱德"
+	DIRTYWORD[2910]["real_idx"] = 2910
+
+DIRTYWORD["index"][2911] = 2911
+DIRTYWORD[2911] = {}
+	DIRTYWORD[2911]["ID"] = 2911
+	DIRTYWORD[2911]["KEY"] = "朱容鸡"
+	DIRTYWORD[2911]["real_idx"] = 2911
+
+DIRTYWORD["index"][2912] = 2912
+DIRTYWORD[2912] = {}
+	DIRTYWORD[2912]["ID"] = 2912
+	DIRTYWORD[2912]["KEY"] = "朱容基"
+	DIRTYWORD[2912]["real_idx"] = 2912
+
+DIRTYWORD["index"][2913] = 2913
+DIRTYWORD[2913] = {}
+	DIRTYWORD[2913]["ID"] = 2913
+	DIRTYWORD[2913]["KEY"] = "朱熔基"
+	DIRTYWORD[2913]["real_idx"] = 2913
+
+DIRTYWORD["index"][2914] = 2914
+DIRTYWORD[2914] = {}
+	DIRTYWORD[2914]["ID"] = 2914
+	DIRTYWORD[2914]["KEY"] = "朱镕基"
+	DIRTYWORD[2914]["real_idx"] = 2914
+
+DIRTYWORD["index"][2915] = 2915
+DIRTYWORD[2915] = {}
+	DIRTYWORD[2915]["ID"] = 2915
+	DIRTYWORD[2915]["KEY"] = "朱总理"
+	DIRTYWORD[2915]["real_idx"] = 2915
+
+DIRTYWORD["index"][2916] = 2916
+DIRTYWORD[2916] = {}
+	DIRTYWORD[2916]["ID"] = 2916
+	DIRTYWORD[2916]["KEY"] = "猪操"
+	DIRTYWORD[2916]["real_idx"] = 2916
+
+DIRTYWORD["index"][2917] = 2917
+DIRTYWORD[2917] = {}
+	DIRTYWORD[2917]["ID"] = 2917
+	DIRTYWORD[2917]["KEY"] = "猪容基"
+	DIRTYWORD[2917]["real_idx"] = 2917
+
+DIRTYWORD["index"][2918] = 2918
+DIRTYWORD[2918] = {}
+	DIRTYWORD[2918]["ID"] = 2918
+	DIRTYWORD[2918]["KEY"] = "主席"
+	DIRTYWORD[2918]["real_idx"] = 2918
+
+DIRTYWORD["index"][2919] = 2919
+DIRTYWORD[2919] = {}
+	DIRTYWORD[2919]["ID"] = 2919
+	DIRTYWORD[2919]["KEY"] = "转法轮"
+	DIRTYWORD[2919]["real_idx"] = 2919
+
+DIRTYWORD["index"][2920] = 2920
+DIRTYWORD[2920] = {}
+	DIRTYWORD[2920]["ID"] = 2920
+	DIRTYWORD[2920]["KEY"] = "转法轮"
+	DIRTYWORD[2920]["real_idx"] = 2920
+
+DIRTYWORD["index"][2921] = 2921
+DIRTYWORD[2921] = {}
+	DIRTYWORD[2921]["ID"] = 2921
+	DIRTYWORD[2921]["KEY"] = "装屄"
+	DIRTYWORD[2921]["real_idx"] = 2921
+
+DIRTYWORD["index"][2922] = 2922
+DIRTYWORD[2922] = {}
+	DIRTYWORD[2922]["ID"] = 2922
+	DIRTYWORD[2922]["KEY"] = "装逼"
+	DIRTYWORD[2922]["real_idx"] = 2922
+
+DIRTYWORD["index"][2923] = 2923
+DIRTYWORD[2923] = {}
+	DIRTYWORD[2923]["ID"] = 2923
+	DIRTYWORD[2923]["KEY"] = "追查国际"
+	DIRTYWORD[2923]["real_idx"] = 2923
+
+DIRTYWORD["index"][2924] = 2924
+DIRTYWORD[2924] = {}
+	DIRTYWORD[2924]["ID"] = 2924
+	DIRTYWORD[2924]["KEY"] = "子女任职名单"
+	DIRTYWORD[2924]["real_idx"] = 2924
+
+DIRTYWORD["index"][2925] = 2925
+DIRTYWORD[2925] = {}
+	DIRTYWORD[2925]["ID"] = 2925
+	DIRTYWORD[2925]["KEY"] = "自焚"
+	DIRTYWORD[2925]["real_idx"] = 2925
+
+DIRTYWORD["index"][2926] = 2926
+DIRTYWORD[2926] = {}
+	DIRTYWORD[2926]["ID"] = 2926
+	DIRTYWORD[2926]["KEY"] = "自杀手册"
+	DIRTYWORD[2926]["real_idx"] = 2926
+
+DIRTYWORD["index"][2927] = 2927
+DIRTYWORD[2927] = {}
+	DIRTYWORD[2927]["ID"] = 2927
+	DIRTYWORD[2927]["KEY"] = "自杀指南"
+	DIRTYWORD[2927]["real_idx"] = 2927
+
+DIRTYWORD["index"][2928] = 2928
+DIRTYWORD[2928] = {}
+	DIRTYWORD[2928]["ID"] = 2928
+	DIRTYWORD[2928]["KEY"] = "自制手枪"
+	DIRTYWORD[2928]["real_idx"] = 2928
+
+DIRTYWORD["index"][2929] = 2929
+DIRTYWORD[2929] = {}
+	DIRTYWORD[2929]["ID"] = 2929
+	DIRTYWORD[2929]["KEY"] = "自治机关"
+	DIRTYWORD[2929]["real_idx"] = 2929
+
+DIRTYWORD["index"][2930] = 2930
+DIRTYWORD[2930] = {}
+	DIRTYWORD[2930]["ID"] = 2930
+	DIRTYWORD[2930]["KEY"] = "宗教"
+	DIRTYWORD[2930]["real_idx"] = 2930
+
+DIRTYWORD["index"][2931] = 2931
+DIRTYWORD[2931] = {}
+	DIRTYWORD[2931]["ID"] = 2931
+	DIRTYWORD[2931]["KEY"] = "总局"
+	DIRTYWORD[2931]["real_idx"] = 2931
+
+DIRTYWORD["index"][2932] = 2932
+DIRTYWORD[2932] = {}
+	DIRTYWORD[2932]["ID"] = 2932
+	DIRTYWORD[2932]["KEY"] = "总理"
+	DIRTYWORD[2932]["real_idx"] = 2932
+
+DIRTYWORD["index"][2933] = 2933
+DIRTYWORD[2933] = {}
+	DIRTYWORD[2933]["ID"] = 2933
+	DIRTYWORD[2933]["KEY"] = "作爱"
+	DIRTYWORD[2933]["real_idx"] = 2933
+
+DIRTYWORD["index"][2934] = 2934
+DIRTYWORD[2934] = {}
+	DIRTYWORD[2934]["ID"] = 2934
+	DIRTYWORD[2934]["KEY"] = "坐台的"
+	DIRTYWORD[2934]["real_idx"] = 2934
+
+DIRTYWORD["index"][2935] = 2935
+DIRTYWORD[2935] = {}
+	DIRTYWORD[2935]["ID"] = 2935
+	DIRTYWORD[2935]["KEY"] = "做爱"
+	DIRTYWORD[2935]["real_idx"] = 2935
+
+DIRTYWORD["index"][2936] = 2936
+DIRTYWORD[2936] = {}
+	DIRTYWORD[2936]["ID"] = 2936
+	DIRTYWORD[2936]["KEY"] = "共产党"
+	DIRTYWORD[2936]["real_idx"] = 2936
+
+DIRTYWORD["index"][2937] = 2937
+DIRTYWORD[2937] = {}
+	DIRTYWORD[2937]["ID"] = 2937
+	DIRTYWORD[2937]["KEY"] = "江泽民"
+	DIRTYWORD[2937]["real_idx"] = 2937
+
+DIRTYWORD["index"][2938] = 2938
+DIRTYWORD[2938] = {}
+	DIRTYWORD[2938]["ID"] = 2938
+	DIRTYWORD[2938]["KEY"] = "胡锦涛"
+	DIRTYWORD[2938]["real_idx"] = 2938
+
+DIRTYWORD["index"][2939] = 2939
+DIRTYWORD[2939] = {}
+	DIRTYWORD[2939]["ID"] = 2939
+	DIRTYWORD[2939]["KEY"] = "温家宝"
+	DIRTYWORD[2939]["real_idx"] = 2939
+
+DIRTYWORD["index"][2940] = 2940
+DIRTYWORD[2940] = {}
+	DIRTYWORD[2940]["ID"] = 2940
+	DIRTYWORD[2940]["KEY"] = "严方军"
+	DIRTYWORD[2940]["real_idx"] = 2940
+
+DIRTYWORD["index"][2941] = 2941
+DIRTYWORD[2941] = {}
+	DIRTYWORD[2941]["ID"] = 2941
+	DIRTYWORD[2941]["KEY"] = "屄毛"
+	DIRTYWORD[2941]["real_idx"] = 2941
+
+DIRTYWORD["index"][2942] = 2942
+DIRTYWORD[2942] = {}
+	DIRTYWORD[2942]["ID"] = 2942
+	DIRTYWORD[2942]["KEY"] = "操逼毛"
+	DIRTYWORD[2942]["real_idx"] = 2942
+
+DIRTYWORD["index"][2943] = 2943
+DIRTYWORD[2943] = {}
+	DIRTYWORD[2943]["ID"] = 2943
+	DIRTYWORD[2943]["KEY"] = "东突"
+	DIRTYWORD[2943]["real_idx"] = 2943
+
+DIRTYWORD["index"][2944] = 2944
+DIRTYWORD[2944] = {}
+	DIRTYWORD[2944]["ID"] = 2944
+	DIRTYWORD[2944]["KEY"] = "骚货"
+	DIRTYWORD[2944]["real_idx"] = 2944
+
+DIRTYWORD["index"][2945] = 2945
+DIRTYWORD[2945] = {}
+	DIRTYWORD[2945]["ID"] = 2945
+	DIRTYWORD[2945]["KEY"] = "法轮功"
+	DIRTYWORD[2945]["real_idx"] = 2945
+
+DIRTYWORD["index"][2946] = 2946
+DIRTYWORD[2946] = {}
+	DIRTYWORD[2946]["ID"] = 2946
+	DIRTYWORD[2946]["KEY"] = "江泽民"
+	DIRTYWORD[2946]["real_idx"] = 2946
+
+DIRTYWORD["index"][2947] = 2947
+DIRTYWORD[2947] = {}
+	DIRTYWORD[2947]["ID"] = 2947
+	DIRTYWORD[2947]["KEY"] = "胡锦涛"
+	DIRTYWORD[2947]["real_idx"] = 2947
+
+DIRTYWORD["index"][2948] = 2948
+DIRTYWORD[2948] = {}
+	DIRTYWORD[2948]["ID"] = 2948
+	DIRTYWORD[2948]["KEY"] = "温家宝"
+	DIRTYWORD[2948]["real_idx"] = 2948
+
+DIRTYWORD["index"][2949] = 2949
+DIRTYWORD[2949] = {}
+	DIRTYWORD[2949]["ID"] = 2949
+	DIRTYWORD[2949]["KEY"] = "urban-rivals"
+	DIRTYWORD[2949]["real_idx"] = 2949
+
+DIRTYWORD["index"][2950] = 2950
+DIRTYWORD[2950] = {}
+	DIRTYWORD[2950]["ID"] = 2950
+	DIRTYWORD[2950]["KEY"] = "rivals"
+	DIRTYWORD[2950]["real_idx"] = 2950
+
+DIRTYWORD["index"][2951] = 2951
+DIRTYWORD[2951] = {}
+	DIRTYWORD[2951]["ID"] = 2951
+	DIRTYWORD[2951]["KEY"] = "u r"
+	DIRTYWORD[2951]["real_idx"] = 2951
+
+DIRTYWORD["index"][2952] = 2952
+DIRTYWORD[2952] = {}
+	DIRTYWORD[2952]["ID"] = 2952
+	DIRTYWORD[2952]["KEY"] = "ur"
+	DIRTYWORD[2952]["real_idx"] = 2952
+
+DIRTYWORD["index"][2953] = 2953
+DIRTYWORD[2953] = {}
+	DIRTYWORD[2953]["ID"] = 2953
+	DIRTYWORD[2953]["KEY"] = "我日"
+	DIRTYWORD[2953]["real_idx"] = 2953
+
+DIRTYWORD["index"][2954] = 2954
+DIRTYWORD[2954] = {}
+	DIRTYWORD[2954]["ID"] = 2954
+	DIRTYWORD[2954]["KEY"] = "UR"
+	DIRTYWORD[2954]["real_idx"] = 2954
+
+DIRTYWORD["index"][2955] = 2955
+DIRTYWORD[2955] = {}
+	DIRTYWORD[2955]["ID"] = 2955
+	DIRTYWORD[2955]["KEY"] = "ur"
+	DIRTYWORD[2955]["real_idx"] = 2955
+
+DIRTYWORD["index"][2956] = 2956
+DIRTYWORD[2956] = {}
+	DIRTYWORD[2956]["ID"] = 2956
+	DIRTYWORD[2956]["KEY"] = "性交"
+	DIRTYWORD[2956]["real_idx"] = 2956
+
+DIRTYWORD["index"][2957] = 2957
+DIRTYWORD[2957] = {}
+	DIRTYWORD[2957]["ID"] = 2957
+	DIRTYWORD[2957]["KEY"] = "口交"
+	DIRTYWORD[2957]["real_idx"] = 2957
+
+DIRTYWORD["index"][2958] = 2958
+DIRTYWORD[2958] = {}
+	DIRTYWORD[2958]["ID"] = 2958
+	DIRTYWORD[2958]["KEY"] = "U R"
+	DIRTYWORD[2958]["real_idx"] = 2958
+
+DIRTYWORD["index"][2959] = 2959
+DIRTYWORD[2959] = {}
+	DIRTYWORD[2959]["ID"] = 2959
+	DIRTYWORD[2959]["KEY"] = "taobao"
+	DIRTYWORD[2959]["real_idx"] = 2959
+
+DIRTYWORD["index"][2960] = 2960
+DIRTYWORD[2960] = {}
+	DIRTYWORD[2960]["ID"] = 2960
+	DIRTYWORD[2960]["KEY"] = "webKame.com.cn"
+	DIRTYWORD[2960]["real_idx"] = 2960
+
+DIRTYWORD["index"][2961] = 2961
+DIRTYWORD[2961] = {}
+	DIRTYWORD[2961]["ID"] = 2961
+	DIRTYWORD[2961]["KEY"] = "婊子"
+	DIRTYWORD[2961]["real_idx"] = 2961
+
+DIRTYWORD["index"][2962] = 2962
+DIRTYWORD[2962] = {}
+	DIRTYWORD[2962]["ID"] = 2962
+	DIRTYWORD[2962]["KEY"] = "妓女"
+	DIRTYWORD[2962]["real_idx"] = 2962
+
+DIRTYWORD["index"][2963] = 2963
+DIRTYWORD[2963] = {}
+	DIRTYWORD[2963]["ID"] = 2963
+	DIRTYWORD[2963]["KEY"] = "他妈"
+	DIRTYWORD[2963]["real_idx"] = 2963
+
+DIRTYWORD["index"][2964] = 2964
+DIRTYWORD[2964] = {}
+	DIRTYWORD[2964]["ID"] = 2964
+	DIRTYWORD[2964]["KEY"] = "她妈"
+	DIRTYWORD[2964]["real_idx"] = 2964
+
+DIRTYWORD["index"][2965] = 2965
+DIRTYWORD[2965] = {}
+	DIRTYWORD[2965]["ID"] = 2965
+	DIRTYWORD[2965]["KEY"] = "牛逼"
+	DIRTYWORD[2965]["real_idx"] = 2965
+
+DIRTYWORD["index"][2966] = 2966
+DIRTYWORD[2966] = {}
+	DIRTYWORD[2966]["ID"] = 2966
+	DIRTYWORD[2966]["KEY"] = "牛比"
+	DIRTYWORD[2966]["real_idx"] = 2966
+
+DIRTYWORD["index"][2967] = 2967
+DIRTYWORD[2967] = {}
+	DIRTYWORD[2967]["ID"] = 2967
+	DIRTYWORD[2967]["KEY"] = "牛B"
+	DIRTYWORD[2967]["real_idx"] = 2967
+
+DIRTYWORD["index"][2968] = 2968
+DIRTYWORD[2968] = {}
+	DIRTYWORD[2968]["ID"] = 2968
+	DIRTYWORD[2968]["KEY"] = "煞笔"
+	DIRTYWORD[2968]["real_idx"] = 2968
+
+DIRTYWORD["index"][2969] = 2969
+DIRTYWORD[2969] = {}
+	DIRTYWORD[2969]["ID"] = 2969
+	DIRTYWORD[2969]["KEY"] = "傻逼"
+	DIRTYWORD[2969]["real_idx"] = 2969
+
+DIRTYWORD["index"][2970] = 2970
+DIRTYWORD[2970] = {}
+	DIRTYWORD[2970]["ID"] = 2970
+	DIRTYWORD[2970]["KEY"] = "傻B"
+	DIRTYWORD[2970]["real_idx"] = 2970
+
+DIRTYWORD["index"][2971] = 2971
+DIRTYWORD[2971] = {}
+	DIRTYWORD[2971]["ID"] = 2971
+	DIRTYWORD[2971]["KEY"] = "你妈"
+	DIRTYWORD[2971]["real_idx"] = 2971
+
+DIRTYWORD["index"][2972] = 2972
+DIRTYWORD[2972] = {}
+	DIRTYWORD[2972]["ID"] = 2972
+	DIRTYWORD[2972]["KEY"] = "操你妈"
+	DIRTYWORD[2972]["real_idx"] = 2972
+
+DIRTYWORD["index"][2973] = 2973
+DIRTYWORD[2973] = {}
+	DIRTYWORD[2973]["ID"] = 2973
+	DIRTYWORD[2973]["KEY"] = "装逼"
+	DIRTYWORD[2973]["real_idx"] = 2973
+
+DIRTYWORD["index"][2974] = 2974
+DIRTYWORD[2974] = {}
+	DIRTYWORD[2974]["ID"] = 2974
+	DIRTYWORD[2974]["KEY"] = "装B"
+	DIRTYWORD[2974]["real_idx"] = 2974
+
+DIRTYWORD["index"][2975] = 2975
+DIRTYWORD[2975] = {}
+	DIRTYWORD[2975]["ID"] = 2975
+	DIRTYWORD[2975]["KEY"] = "日你妈"
+	DIRTYWORD[2975]["real_idx"] = 2975
+
+DIRTYWORD["index"][2976] = 2976
+DIRTYWORD[2976] = {}
+	DIRTYWORD[2976]["ID"] = 2976
+	DIRTYWORD[2976]["KEY"] = "不玩了"
+	DIRTYWORD[2976]["real_idx"] = 2976
+
+DIRTYWORD["index"][2977] = 2977
+DIRTYWORD[2977] = {}
+	DIRTYWORD[2977]["ID"] = 2977
+	DIRTYWORD[2977]["KEY"] = "删号"
+	DIRTYWORD[2977]["real_idx"] = 2977
+
+DIRTYWORD["index"][2978] = 2978
+DIRTYWORD[2978] = {}
+	DIRTYWORD[2978]["ID"] = 2978
+	DIRTYWORD[2978]["KEY"] = "卖号"
+	DIRTYWORD[2978]["real_idx"] = 2978
+
+DIRTYWORD["index"][2979] = 2979
+DIRTYWORD[2979] = {}
+	DIRTYWORD[2979]["ID"] = 2979
+	DIRTYWORD[2979]["KEY"] = "垃圾游戏"
+	DIRTYWORD[2979]["real_idx"] = 2979
+
+DIRTYWORD["index"][2980] = 2980
+DIRTYWORD[2980] = {}
+	DIRTYWORD[2980]["ID"] = 2980
+	DIRTYWORD[2980]["KEY"] = "烂游戏"
+	DIRTYWORD[2980]["real_idx"] = 2980
+
+DIRTYWORD["index"][2981] = 2981
+DIRTYWORD[2981] = {}
+	DIRTYWORD[2981]["ID"] = 2981
+	DIRTYWORD[2981]["KEY"] = "删 号"
+	DIRTYWORD[2981]["real_idx"] = 2981
+
+DIRTYWORD["index"][2982] = 2982
+DIRTYWORD[2982] = {}
+	DIRTYWORD[2982]["ID"] = 2982
+	DIRTYWORD[2982]["KEY"] = "妈的"
+	DIRTYWORD[2982]["real_idx"] = 2982
+
+DIRTYWORD["index"][2983] = 2983
+DIRTYWORD[2983] = {}
+	DIRTYWORD[2983]["ID"] = 2983
+	DIRTYWORD[2983]["KEY"] = "妈逼"
+	DIRTYWORD[2983]["real_idx"] = 2983
+
+DIRTYWORD["index"][2984] = 2984
+DIRTYWORD[2984] = {}
+	DIRTYWORD[2984]["ID"] = 2984
+	DIRTYWORD[2984]["KEY"] = "草你妈"
+	DIRTYWORD[2984]["real_idx"] = 2984
+
+DIRTYWORD["index"][2985] = 2985
+DIRTYWORD[2985] = {}
+	DIRTYWORD[2985]["ID"] = 2985
+	DIRTYWORD[2985]["KEY"] = "T.M.D"
+	DIRTYWORD[2985]["real_idx"] = 2985
+
+DIRTYWORD["index"][2986] = 2986
+DIRTYWORD[2986] = {}
+	DIRTYWORD[2986]["ID"] = 2986
+	DIRTYWORD[2986]["KEY"] = "JB"
+	DIRTYWORD[2986]["real_idx"] = 2986
+
+DIRTYWORD["index"][2987] = 2987
+DIRTYWORD[2987] = {}
+	DIRTYWORD[2987]["ID"] = 2987
+	DIRTYWORD[2987]["KEY"] = "jb"
+	DIRTYWORD[2987]["real_idx"] = 2987
+
+DIRTYWORD["index"][2988] = 2988
+DIRTYWORD[2988] = {}
+	DIRTYWORD[2988]["ID"] = 2988
+	DIRTYWORD[2988]["KEY"] = "淘宝"
+	DIRTYWORD[2988]["real_idx"] = 2988
+
+DIRTYWORD["index"][2989] = 2989
+DIRTYWORD[2989] = {}
+	DIRTYWORD[2989]["ID"] = 2989
+	DIRTYWORD[2989]["KEY"] = "出售账号"
+	DIRTYWORD[2989]["real_idx"] = 2989
+
+DIRTYWORD["index"][2990] = 2990
+DIRTYWORD[2990] = {}
+	DIRTYWORD[2990]["ID"] = 2990
+	DIRTYWORD[2990]["KEY"] = "出售此号"
+	DIRTYWORD[2990]["real_idx"] = 2990
+
+DIRTYWORD["index"][2991] = 2991
+DIRTYWORD[2991] = {}
+	DIRTYWORD[2991]["ID"] = 2991
+	DIRTYWORD[2991]["KEY"] = "卖号"
+	DIRTYWORD[2991]["real_idx"] = 2991
+
+DIRTYWORD["index"][2992] = 2992
+DIRTYWORD[2992] = {}
+	DIRTYWORD[2992]["ID"] = 2992
+	DIRTYWORD[2992]["KEY"] = "U/R"
+	DIRTYWORD[2992]["real_idx"] = 2992
+
+DIRTYWORD["index"][2993] = 2993
+DIRTYWORD[2993] = {}
+	DIRTYWORD[2993]["ID"] = 2993
+	DIRTYWORD[2993]["KEY"] = "U-R"
+	DIRTYWORD[2993]["real_idx"] = 2993
+
+DIRTYWORD["index"][2994] = 2994
+DIRTYWORD[2994] = {}
+	DIRTYWORD[2994]["ID"] = 2994
+	DIRTYWORD[2994]["KEY"] = "c a o"
+	DIRTYWORD[2994]["real_idx"] = 2994
+
+DIRTYWORD["index"][2995] = 2995
+DIRTYWORD[2995] = {}
+	DIRTYWORD[2995]["ID"] = 2995
+	DIRTYWORD[2995]["KEY"] = "j8"
+	DIRTYWORD[2995]["real_idx"] = 2995
+
+DIRTYWORD["index"][2996] = 2996
+DIRTYWORD[2996] = {}
+	DIRTYWORD[2996]["ID"] = 2996
+	DIRTYWORD[2996]["KEY"] = "吗的"
+	DIRTYWORD[2996]["real_idx"] = 2996
+
+DIRTYWORD["index"][2997] = 2997
+DIRTYWORD[2997] = {}
+	DIRTYWORD[2997]["ID"] = 2997
+	DIRTYWORD[2997]["KEY"] = "8仙"
+	DIRTYWORD[2997]["real_idx"] = 2997
+
+DIRTYWORD["index"][2998] = 2998
+DIRTYWORD[2998] = {}
+	DIRTYWORD[2998]["ID"] = 2998
+	DIRTYWORD[2998]["KEY"] = "狗日"
+	DIRTYWORD[2998]["real_idx"] = 2998
+
+DIRTYWORD["index"][2999] = 2999
+DIRTYWORD[2999] = {}
+	DIRTYWORD[2999]["ID"] = 2999
+	DIRTYWORD[2999]["KEY"] = "出售神符"
+	DIRTYWORD[2999]["real_idx"] = 2999
+
+DIRTYWORD["index"][3000] = 3000
+DIRTYWORD[3000] = {}
+	DIRTYWORD[3000]["ID"] = 3000
+	DIRTYWORD[3000]["KEY"] = "色情"
+	DIRTYWORD[3000]["real_idx"] = 3000
+
+DIRTYWORD["index"][3001] = 3001
+DIRTYWORD[3001] = {}
+	DIRTYWORD[3001]["ID"] = 3001
+	DIRTYWORD[3001]["KEY"] = "黄色"
+	DIRTYWORD[3001]["real_idx"] = 3001
+
+DIRTYWORD["index"][3002] = 3002
+DIRTYWORD[3002] = {}
+	DIRTYWORD[3002]["ID"] = 3002
+	DIRTYWORD[3002]["KEY"] = "h站"
+	DIRTYWORD[3002]["real_idx"] = 3002
+
+DIRTYWORD["index"][3003] = 3003
+DIRTYWORD[3003] = {}
+	DIRTYWORD[3003]["ID"] = 3003
+	DIRTYWORD[3003]["KEY"] = "龙虎"
+	DIRTYWORD[3003]["real_idx"] = 3003
+
+DIRTYWORD["index"][3004] = 3004
+DIRTYWORD[3004] = {}
+	DIRTYWORD[3004]["ID"] = 3004
+	DIRTYWORD[3004]["KEY"] = "虎门"
+	DIRTYWORD[3004]["real_idx"] = 3004
+
+DIRTYWORD["index"][3005] = 3005
+DIRTYWORD[3005] = {}
+	DIRTYWORD[3005]["ID"] = 3005
+	DIRTYWORD[3005]["KEY"] = "龙 虎 门"
+	DIRTYWORD[3005]["real_idx"] = 3005
+
+DIRTYWORD["index"][3006] = 3006
+DIRTYWORD[3006] = {}
+	DIRTYWORD[3006]["ID"] = 3006
+	DIRTYWORD[3006]["KEY"] = "WEB牌戰"
+	DIRTYWORD[3006]["real_idx"] = 3006
+
+DIRTYWORD["index"][3007] = 3007
+DIRTYWORD[3007] = {}
+	DIRTYWORD[3007]["ID"] = 3007
+	DIRTYWORD[3007]["KEY"] = "WEB战牌"
+	DIRTYWORD[3007]["real_idx"] = 3007
+
+DIRTYWORD["index"][3008] = 3008
+DIRTYWORD[3008] = {}
+	DIRTYWORD[3008]["ID"] = 3008
+	DIRTYWORD[3008]["KEY"] = "战牌"
+	DIRTYWORD[3008]["real_idx"] = 3008
+
+DIRTYWORD["index"][3009] = 3009
+DIRTYWORD[3009] = {}
+	DIRTYWORD[3009]["ID"] = 3009
+	DIRTYWORD[3009]["KEY"] = "8 仙"
+	DIRTYWORD[3009]["real_idx"] = 3009
+
+DIRTYWORD["index"][3010] = 3010
+DIRTYWORD[3010] = {}
+	DIRTYWORD[3010]["ID"] = 3010
+	DIRTYWORD[3010]["KEY"] = "ＵＲ"
+	DIRTYWORD[3010]["real_idx"] = 3010
+
+DIRTYWORD["index"][3011] = 3011
+DIRTYWORD[3011] = {}
+	DIRTYWORD[3011]["ID"] = 3011
+	DIRTYWORD[3011]["KEY"] = "ur"
+	DIRTYWORD[3011]["real_idx"] = 3011
+
+DIRTYWORD["index"][3012] = 3012
+DIRTYWORD[3012] = {}
+	DIRTYWORD[3012]["ID"] = 3012
+	DIRTYWORD[3012]["KEY"] = "UR"
+	DIRTYWORD[3012]["real_idx"] = 3012
+
+DIRTYWORD["index"][3013] = 3013
+DIRTYWORD[3013] = {}
+	DIRTYWORD[3013]["ID"] = 3013
+	DIRTYWORD[3013]["KEY"] = "街头对抗"
+	DIRTYWORD[3013]["real_idx"] = 3013
+
+DIRTYWORD["index"][3014] = 3014
+DIRTYWORD[3014] = {}
+	DIRTYWORD[3014]["ID"] = 3014
+	DIRTYWORD[3014]["KEY"] = "藏独"
+	DIRTYWORD[3014]["real_idx"] = 3014
+
+DIRTYWORD["index"][3015] = 3015
+DIRTYWORD[3015] = {}
+	DIRTYWORD[3015]["ID"] = 3015
+	DIRTYWORD[3015]["KEY"] = "台独"
+	DIRTYWORD[3015]["real_idx"] = 3015
+
+DIRTYWORD["index"][3016] = 3016
+DIRTYWORD[3016] = {}
+	DIRTYWORD[3016]["ID"] = 3016
+	DIRTYWORD[3016]["KEY"] = "法轮大法"
+	DIRTYWORD[3016]["real_idx"] = 3016
+
+DIRTYWORD["index"][3017] = 3017
+DIRTYWORD[3017] = {}
+	DIRTYWORD[3017]["ID"] = 3017
+	DIRTYWORD[3017]["KEY"] = "混 沌决"
+	DIRTYWORD[3017]["real_idx"] = 3017
+
+DIRTYWORD["index"][3018] = 3018
+DIRTYWORD[3018] = {}
+	DIRTYWORD[3018]["ID"] = 3018
+	DIRTYWORD[3018]["KEY"] = "ur"
+	DIRTYWORD[3018]["real_idx"] = 3018
+
+DIRTYWORD["index"][3019] = 3019
+DIRTYWORD[3019] = {}
+	DIRTYWORD[3019]["ID"] = 3019
+	DIRTYWORD[3019]["KEY"] = "UR"
+	DIRTYWORD[3019]["real_idx"] = 3019
+
+DIRTYWORD["index"][3020] = 3020
+DIRTYWORD[3020] = {}
+	DIRTYWORD[3020]["ID"] = 3020
+	DIRTYWORD[3020]["KEY"] = "urban"
+	DIRTYWORD[3020]["real_idx"] = 3020
+
+DIRTYWORD["index"][3021] = 3021
+DIRTYWORD[3021] = {}
+	DIRTYWORD[3021]["ID"] = 3021
+	DIRTYWORD[3021]["KEY"] = "鸡巴"
+	DIRTYWORD[3021]["real_idx"] = 3021
+
+DIRTYWORD["index"][3022] = 3022
+DIRTYWORD[3022] = {}
+	DIRTYWORD[3022]["ID"] = 3022
+	DIRTYWORD[3022]["KEY"] = "坐台的"
+	DIRTYWORD[3022]["real_idx"] = 3022
+
+DIRTYWORD["index"][3023] = 3023
+DIRTYWORD[3023] = {}
+	DIRTYWORD[3023]["ID"] = 3023
+	DIRTYWORD[3023]["KEY"] = "作爱"
+	DIRTYWORD[3023]["real_idx"] = 3023
+
+DIRTYWORD["index"][3024] = 3024
+DIRTYWORD[3024] = {}
+	DIRTYWORD[3024]["ID"] = 3024
+	DIRTYWORD[3024]["KEY"] = "总理"
+	DIRTYWORD[3024]["real_idx"] = 3024
+
+DIRTYWORD["index"][3025] = 3025
+DIRTYWORD[3025] = {}
+	DIRTYWORD[3025]["ID"] = 3025
+	DIRTYWORD[3025]["KEY"] = "宗教"
+	DIRTYWORD[3025]["real_idx"] = 3025
+
+DIRTYWORD["index"][3026] = 3026
+DIRTYWORD[3026] = {}
+	DIRTYWORD[3026]["ID"] = 3026
+	DIRTYWORD[3026]["KEY"] = "自治机关"
+	DIRTYWORD[3026]["real_idx"] = 3026
+
+DIRTYWORD["index"][3027] = 3027
+DIRTYWORD[3027] = {}
+	DIRTYWORD[3027]["ID"] = 3027
+	DIRTYWORD[3027]["KEY"] = "自制手枪"
+	DIRTYWORD[3027]["real_idx"] = 3027
+
+DIRTYWORD["index"][3028] = 3028
+DIRTYWORD[3028] = {}
+	DIRTYWORD[3028]["ID"] = 3028
+	DIRTYWORD[3028]["KEY"] = "胸罩"
+	DIRTYWORD[3028]["real_idx"] = 3028
+
+DIRTYWORD["index"][3029] = 3029
+DIRTYWORD[3029] = {}
+	DIRTYWORD[3029]["ID"] = 3029
+	DIRTYWORD[3029]["KEY"] = "三角裤"
+	DIRTYWORD[3029]["real_idx"] = 3029
+
+DIRTYWORD["index"][3030] = 3030
+DIRTYWORD[3030] = {}
+	DIRTYWORD[3030]["ID"] = 3030
+	DIRTYWORD[3030]["KEY"] = "乳沟"
+	DIRTYWORD[3030]["real_idx"] = 3030
+
+DIRTYWORD["index"][3031] = 3031
+DIRTYWORD[3031] = {}
+	DIRTYWORD[3031]["ID"] = 3031
+	DIRTYWORD[3031]["KEY"] = "杀死"
+	DIRTYWORD[3031]["real_idx"] = 3031
+
+DIRTYWORD["index"][3032] = 3032
+DIRTYWORD[3032] = {}
+	DIRTYWORD[3032]["ID"] = 3032
+	DIRTYWORD[3032]["KEY"] = "砍死"
+	DIRTYWORD[3032]["real_idx"] = 3032
+
+DIRTYWORD["index"][3033] = 3033
+DIRTYWORD[3033] = {}
+	DIRTYWORD[3033]["ID"] = 3033
+	DIRTYWORD[3033]["KEY"] = "斩杀"
+	DIRTYWORD[3033]["real_idx"] = 3033
+
+DIRTYWORD["index"][3034] = 3034
+DIRTYWORD[3034] = {}
+	DIRTYWORD[3034]["ID"] = 3034
+	DIRTYWORD[3034]["KEY"] = "猎杀"
+	DIRTYWORD[3034]["real_idx"] = 3034
+
+DIRTYWORD["index"][3035] = 3035
+DIRTYWORD[3035] = {}
+	DIRTYWORD[3035]["ID"] = 3035
+	DIRTYWORD[3035]["KEY"] = "击杀"
+	DIRTYWORD[3035]["real_idx"] = 3035
+
+DIRTYWORD["index"][3036] = 3036
+DIRTYWORD[3036] = {}
+	DIRTYWORD[3036]["ID"] = 3036
+	DIRTYWORD[3036]["KEY"] = "奴隶"
+	DIRTYWORD[3036]["real_idx"] = 3036
+
+DIRTYWORD["index"][3037] = 3037
+DIRTYWORD[3037] = {}
+	DIRTYWORD[3037]["ID"] = 3037
+	DIRTYWORD[3037]["KEY"] = "劫杀"
+	DIRTYWORD[3037]["real_idx"] = 3037
+
+DIRTYWORD["index"][3038] = 3038
+DIRTYWORD[3038] = {}
+	DIRTYWORD[3038]["ID"] = 3038
+	DIRTYWORD[3038]["KEY"] = "血腥"
+	DIRTYWORD[3038]["real_idx"] = 3038
+
+DIRTYWORD["index"][3039] = 3039
+DIRTYWORD[3039] = {}
+	DIRTYWORD[3039]["ID"] = 3039
+	DIRTYWORD[3039]["KEY"] = "亡灵"
+	DIRTYWORD[3039]["real_idx"] = 3039
+
+DIRTYWORD["index"][3040] = 3040
+DIRTYWORD[3040] = {}
+	DIRTYWORD[3040]["ID"] = 3040
+	DIRTYWORD[3040]["KEY"] = "亡魂"
+	DIRTYWORD[3040]["real_idx"] = 3040
+
+DIRTYWORD["index"][3041] = 3041
+DIRTYWORD[3041] = {}
+	DIRTYWORD[3041]["ID"] = 3041
+	DIRTYWORD[3041]["KEY"] = "魂魄"
+	DIRTYWORD[3041]["real_idx"] = 3041
+
+DIRTYWORD["index"][3042] = 3042
+DIRTYWORD[3042] = {}
+	DIRTYWORD[3042]["ID"] = 3042
+	DIRTYWORD[3042]["KEY"] = "尸体"
+	DIRTYWORD[3042]["real_idx"] = 3042
+
+DIRTYWORD["index"][3043] = 3043
+DIRTYWORD[3043] = {}
+	DIRTYWORD[3043]["ID"] = 3043
+	DIRTYWORD[3043]["KEY"] = "尸魂"
+	DIRTYWORD[3043]["real_idx"] = 3043
+
+DIRTYWORD["index"][3044] = 3044
+DIRTYWORD[3044] = {}
+	DIRTYWORD[3044]["ID"] = 3044
+	DIRTYWORD[3044]["KEY"] = "二战"
+	DIRTYWORD[3044]["real_idx"] = 3044
+
+DIRTYWORD["index"][3045] = 3045
+DIRTYWORD[3045] = {}
+	DIRTYWORD[3045]["ID"] = 3045
+	DIRTYWORD[3045]["KEY"] = "海岸线"
+	DIRTYWORD[3045]["real_idx"] = 3045
+
+DIRTYWORD["index"][3046] = 3046
+DIRTYWORD[3046] = {}
+	DIRTYWORD[3046]["ID"] = 3046
+	DIRTYWORD[3046]["KEY"] = "isis"
+	DIRTYWORD[3046]["real_idx"] = 3046
+
+DIRTYWORD["index"][3047] = 3047
+DIRTYWORD[3047] = {}
+	DIRTYWORD[3047]["ID"] = 3047
+	DIRTYWORD[3047]["KEY"] = "isIs"
+	DIRTYWORD[3047]["real_idx"] = 3047
+
+DIRTYWORD["index"][3048] = 3048
+DIRTYWORD[3048] = {}
+	DIRTYWORD[3048]["ID"] = 3048
+	DIRTYWORD[3048]["KEY"] = "Isis"
+	DIRTYWORD[3048]["real_idx"] = 3048
+
+DIRTYWORD["index"][3049] = 3049
+DIRTYWORD[3049] = {}
+	DIRTYWORD[3049]["ID"] = 3049
+	DIRTYWORD[3049]["KEY"] = "IsIs"
+	DIRTYWORD[3049]["real_idx"] = 3049
+
+DIRTYWORD["index"][3050] = 3050
+DIRTYWORD[3050] = {}
+	DIRTYWORD[3050]["ID"] = 3050
+	DIRTYWORD[3050]["KEY"] = "iSis"
+	DIRTYWORD[3050]["real_idx"] = 3050
+
+DIRTYWORD["index"][3051] = 3051
+DIRTYWORD[3051] = {}
+	DIRTYWORD[3051]["ID"] = 3051
+	DIRTYWORD[3051]["KEY"] = "iSIs"
+	DIRTYWORD[3051]["real_idx"] = 3051
+
+DIRTYWORD["index"][3052] = 3052
+DIRTYWORD[3052] = {}
+	DIRTYWORD[3052]["ID"] = 3052
+	DIRTYWORD[3052]["KEY"] = "ISis"
+	DIRTYWORD[3052]["real_idx"] = 3052
+
+DIRTYWORD["index"][3053] = 3053
+DIRTYWORD[3053] = {}
+	DIRTYWORD[3053]["ID"] = 3053
+	DIRTYWORD[3053]["KEY"] = "ISIs"
+	DIRTYWORD[3053]["real_idx"] = 3053
+
+DIRTYWORD["index"][3054] = 3054
+DIRTYWORD[3054] = {}
+	DIRTYWORD[3054]["ID"] = 3054
+	DIRTYWORD[3054]["KEY"] = "iSiS"
+	DIRTYWORD[3054]["real_idx"] = 3054
+
+DIRTYWORD["index"][3055] = 3055
+DIRTYWORD[3055] = {}
+	DIRTYWORD[3055]["ID"] = 3055
+	DIRTYWORD[3055]["KEY"] = "iSIS"
+	DIRTYWORD[3055]["real_idx"] = 3055
+
+DIRTYWORD["index"][3056] = 3056
+DIRTYWORD[3056] = {}
+	DIRTYWORD[3056]["ID"] = 3056
+	DIRTYWORD[3056]["KEY"] = "ISiS"
+	DIRTYWORD[3056]["real_idx"] = 3056
+
+DIRTYWORD["index"][3057] = 3057
+DIRTYWORD[3057] = {}
+	DIRTYWORD[3057]["ID"] = 3057
+	DIRTYWORD[3057]["KEY"] = "ISIS"
+	DIRTYWORD[3057]["real_idx"] = 3057
+
+DIRTYWORD["index"][3058] = 3058
+DIRTYWORD[3058] = {}
+	DIRTYWORD[3058]["ID"] = 3058
+	DIRTYWORD[3058]["KEY"] = "isiS"
+	DIRTYWORD[3058]["real_idx"] = 3058
+
+DIRTYWORD["index"][3059] = 3059
+DIRTYWORD[3059] = {}
+	DIRTYWORD[3059]["ID"] = 3059
+	DIRTYWORD[3059]["KEY"] = "isIS"
+	DIRTYWORD[3059]["real_idx"] = 3059
+
+DIRTYWORD["index"][3060] = 3060
+DIRTYWORD[3060] = {}
+	DIRTYWORD[3060]["ID"] = 3060
+	DIRTYWORD[3060]["KEY"] = "IsiS"
+	DIRTYWORD[3060]["real_idx"] = 3060
+
+DIRTYWORD["index"][3061] = 3061
+DIRTYWORD[3061] = {}
+	DIRTYWORD[3061]["ID"] = 3061
+	DIRTYWORD[3061]["KEY"] = "IsIS"
+	DIRTYWORD[3061]["real_idx"] = 3061
+
+DIRTYWORD["index"][3062] = 3062
+DIRTYWORD[3062] = {}
+	DIRTYWORD[3062]["ID"] = 3062
+	DIRTYWORD[3062]["KEY"] = "isil"
+	DIRTYWORD[3062]["real_idx"] = 3062
+
+DIRTYWORD["index"][3063] = 3063
+DIRTYWORD[3063] = {}
+	DIRTYWORD[3063]["ID"] = 3063
+	DIRTYWORD[3063]["KEY"] = "Isil"
+	DIRTYWORD[3063]["real_idx"] = 3063
+
+DIRTYWORD["index"][3064] = 3064
+DIRTYWORD[3064] = {}
+	DIRTYWORD[3064]["ID"] = 3064
+	DIRTYWORD[3064]["KEY"] = "IsIl"
+	DIRTYWORD[3064]["real_idx"] = 3064
+
+DIRTYWORD["index"][3065] = 3065
+DIRTYWORD[3065] = {}
+	DIRTYWORD[3065]["ID"] = 3065
+	DIRTYWORD[3065]["KEY"] = "isIl"
+	DIRTYWORD[3065]["real_idx"] = 3065
+
+DIRTYWORD["index"][3066] = 3066
+DIRTYWORD[3066] = {}
+	DIRTYWORD[3066]["ID"] = 3066
+	DIRTYWORD[3066]["KEY"] = "iSil"
+	DIRTYWORD[3066]["real_idx"] = 3066
+
+DIRTYWORD["index"][3067] = 3067
+DIRTYWORD[3067] = {}
+	DIRTYWORD[3067]["ID"] = 3067
+	DIRTYWORD[3067]["KEY"] = "ISil"
+	DIRTYWORD[3067]["real_idx"] = 3067
+
+DIRTYWORD["index"][3068] = 3068
+DIRTYWORD[3068] = {}
+	DIRTYWORD[3068]["ID"] = 3068
+	DIRTYWORD[3068]["KEY"] = "ISIl"
+	DIRTYWORD[3068]["real_idx"] = 3068
+
+DIRTYWORD["index"][3069] = 3069
+DIRTYWORD[3069] = {}
+	DIRTYWORD[3069]["ID"] = 3069
+	DIRTYWORD[3069]["KEY"] = "iSIl"
+	DIRTYWORD[3069]["real_idx"] = 3069
+
+DIRTYWORD["index"][3070] = 3070
+DIRTYWORD[3070] = {}
+	DIRTYWORD[3070]["ID"] = 3070
+	DIRTYWORD[3070]["KEY"] = "isiL"
+	DIRTYWORD[3070]["real_idx"] = 3070
+
+DIRTYWORD["index"][3071] = 3071
+DIRTYWORD[3071] = {}
+	DIRTYWORD[3071]["ID"] = 3071
+	DIRTYWORD[3071]["KEY"] = "IsiL"
+	DIRTYWORD[3071]["real_idx"] = 3071
+
+DIRTYWORD["index"][3072] = 3072
+DIRTYWORD[3072] = {}
+	DIRTYWORD[3072]["ID"] = 3072
+	DIRTYWORD[3072]["KEY"] = "IsIL"
+	DIRTYWORD[3072]["real_idx"] = 3072
+
+DIRTYWORD["index"][3073] = 3073
+DIRTYWORD[3073] = {}
+	DIRTYWORD[3073]["ID"] = 3073
+	DIRTYWORD[3073]["KEY"] = "isIL"
+	DIRTYWORD[3073]["real_idx"] = 3073
+
+DIRTYWORD["index"][3074] = 3074
+DIRTYWORD[3074] = {}
+	DIRTYWORD[3074]["ID"] = 3074
+	DIRTYWORD[3074]["KEY"] = "iSiL"
+	DIRTYWORD[3074]["real_idx"] = 3074
+
+DIRTYWORD["index"][3075] = 3075
+DIRTYWORD[3075] = {}
+	DIRTYWORD[3075]["ID"] = 3075
+	DIRTYWORD[3075]["KEY"] = "ISiL"
+	DIRTYWORD[3075]["real_idx"] = 3075
+
+DIRTYWORD["index"][3076] = 3076
+DIRTYWORD[3076] = {}
+	DIRTYWORD[3076]["ID"] = 3076
+	DIRTYWORD[3076]["KEY"] = "ISIL"
+	DIRTYWORD[3076]["real_idx"] = 3076
+
+DIRTYWORD["index"][3077] = 3077
+DIRTYWORD[3077] = {}
+	DIRTYWORD[3077]["ID"] = 3077
+	DIRTYWORD[3077]["KEY"] = "iSIL"
+	DIRTYWORD[3077]["real_idx"] = 3077
+
+DIRTYWORD["index"][3078] = 3078
+DIRTYWORD[3078] = {}
+	DIRTYWORD[3078]["ID"] = 3078
+	DIRTYWORD[3078]["KEY"] = "特朗普"
+	DIRTYWORD[3078]["real_idx"] = 3078
+
+DIRTYWORD["index"][3079] = 3079
+DIRTYWORD[3079] = {}
+	DIRTYWORD[3079]["ID"] = 3079
+	DIRTYWORD[3079]["KEY"] = "占中"
+	DIRTYWORD[3079]["real_idx"] = 3079
+
+DIRTYWORD["index"][3080] = 3080
+DIRTYWORD[3080] = {}
+	DIRTYWORD[3080]["ID"] = 3080
+	DIRTYWORD[3080]["KEY"] = "占 中"
+	DIRTYWORD[3080]["real_idx"] = 3080
+
+DIRTYWORD["index"][3081] = 3081
+DIRTYWORD[3081] = {}
+	DIRTYWORD[3081]["ID"] = 3081
+	DIRTYWORD[3081]["KEY"] = "爆菊"
+	DIRTYWORD[3081]["real_idx"] = 3081
+
+DIRTYWORD["index"][3082] = 3082
+DIRTYWORD[3082] = {}
+	DIRTYWORD[3082]["ID"] = 3082
+	DIRTYWORD[3082]["KEY"] = "爆 菊"
+	DIRTYWORD[3082]["real_idx"] = 3082
+
+DIRTYWORD["index"][3083] = 3083
+DIRTYWORD[3083] = {}
+	DIRTYWORD[3083]["ID"] = 3083
+	DIRTYWORD[3083]["KEY"] = "绝食"
+	DIRTYWORD[3083]["real_idx"] = 3083
+
+DIRTYWORD["index"][3084] = 3084
+DIRTYWORD[3084] = {}
+	DIRTYWORD[3084]["ID"] = 3084
+	DIRTYWORD[3084]["KEY"] = "绝 食"
+	DIRTYWORD[3084]["real_idx"] = 3084
+
+DIRTYWORD["index"][3085] = 3085
+DIRTYWORD[3085] = {}
+	DIRTYWORD[3085]["ID"] = 3085
+	DIRTYWORD[3085]["KEY"] = "三班仆人派"
+	DIRTYWORD[3085]["real_idx"] = 3085
+
+DIRTYWORD["index"][3086] = 3086
+DIRTYWORD[3086] = {}
+	DIRTYWORD[3086]["ID"] = 3086
+	DIRTYWORD[3086]["KEY"] = "天父的儿女"
+	DIRTYWORD[3086]["real_idx"] = 3086
+
+DIRTYWORD["index"][3087] = 3087
+DIRTYWORD[3087] = {}
+	DIRTYWORD[3087]["ID"] = 3087
+	DIRTYWORD[3087]["KEY"] = "世界以利亚福音宣教会"
+	DIRTYWORD[3087]["real_idx"] = 3087
+
+DIRTYWORD["index"][3088] = 3088
+DIRTYWORD[3088] = {}
+	DIRTYWORD[3088]["ID"] = 3088
+	DIRTYWORD[3088]["KEY"] = "蔡英文"
+	DIRTYWORD[3088]["real_idx"] = 3088
+
+DIRTYWORD["index"][3089] = 3089
+DIRTYWORD[3089] = {}
+	DIRTYWORD[3089]["ID"] = 3089
+	DIRTYWORD[3089]["KEY"] = "港独"
+	DIRTYWORD[3089]["real_idx"] = 3089
+
+DIRTYWORD["index"][3090] = 3090
+DIRTYWORD[3090] = {}
+	DIRTYWORD[3090]["ID"] = 3090
+	DIRTYWORD[3090]["KEY"] = "penis"
+	DIRTYWORD[3090]["real_idx"] = 3090
+
+DIRTYWORD["index"][3091] = 3091
+DIRTYWORD[3091] = {}
+	DIRTYWORD[3091]["ID"] = 3091
+	DIRTYWORD[3091]["KEY"] = "sex"
+	DIRTYWORD[3091]["real_idx"] = 3091
+
+DIRTYWORD["index"][3092] = 3092
+DIRTYWORD[3092] = {}
+	DIRTYWORD[3092]["ID"] = 3092
+	DIRTYWORD[3092]["KEY"] = "Sex"
+	DIRTYWORD[3092]["real_idx"] = 3092
+
+DIRTYWORD["index"][3093] = 3093
+DIRTYWORD[3093] = {}
+	DIRTYWORD[3093]["ID"] = 3093
+	DIRTYWORD[3093]["KEY"] = "SEX"
+	DIRTYWORD[3093]["real_idx"] = 3093
+
+DIRTYWORD["index"][3094] = 3094
+DIRTYWORD[3094] = {}
+	DIRTYWORD[3094]["ID"] = 3094
+	DIRTYWORD[3094]["KEY"] = "SM"
+	DIRTYWORD[3094]["real_idx"] = 3094
+
+DIRTYWORD["index"][3095] = 3095
+DIRTYWORD[3095] = {}
+	DIRTYWORD[3095]["ID"] = 3095
+	DIRTYWORD[3095]["KEY"] = "sM"
+	DIRTYWORD[3095]["real_idx"] = 3095
+
+DIRTYWORD["index"][3096] = 3096
+DIRTYWORD[3096] = {}
+	DIRTYWORD[3096]["ID"] = 3096
+	DIRTYWORD[3096]["KEY"] = "Sm"
+	DIRTYWORD[3096]["real_idx"] = 3096
+
+DIRTYWORD["index"][3097] = 3097
+DIRTYWORD[3097] = {}
+	DIRTYWORD[3097]["ID"] = 3097
+	DIRTYWORD[3097]["KEY"] = "sm"
+	DIRTYWORD[3097]["real_idx"] = 3097
+
+DIRTYWORD["index"][3098] = 3098
+DIRTYWORD[3098] = {}
+	DIRTYWORD[3098]["ID"] = 3098
+	DIRTYWORD[3098]["KEY"] = "Bitch"
+	DIRTYWORD[3098]["real_idx"] = 3098
+
+DIRTYWORD["index"][3099] = 3099
+DIRTYWORD[3099] = {}
+	DIRTYWORD[3099]["ID"] = 3099
+	DIRTYWORD[3099]["KEY"] = "bt"
+	DIRTYWORD[3099]["real_idx"] = 3099
+
+DIRTYWORD["index"][3100] = 3100
+DIRTYWORD[3100] = {}
+	DIRTYWORD[3100]["ID"] = 3100
+	DIRTYWORD[3100]["KEY"] = "Bt"
+	DIRTYWORD[3100]["real_idx"] = 3100
+
+DIRTYWORD["index"][3101] = 3101
+DIRTYWORD[3101] = {}
+	DIRTYWORD[3101]["ID"] = 3101
+	DIRTYWORD[3101]["KEY"] = "BT"
+	DIRTYWORD[3101]["real_idx"] = 3101
+
+DIRTYWORD["index"][3102] = 3102
+DIRTYWORD[3102] = {}
+	DIRTYWORD[3102]["ID"] = 3102
+	DIRTYWORD[3102]["KEY"] = "cao"
+	DIRTYWORD[3102]["real_idx"] = 3102
+
+DIRTYWORD["index"][3103] = 3103
+DIRTYWORD[3103] = {}
+	DIRTYWORD[3103]["ID"] = 3103
+	DIRTYWORD[3103]["KEY"] = "Cao"
+	DIRTYWORD[3103]["real_idx"] = 3103
+
+DIRTYWORD["index"][3104] = 3104
+DIRTYWORD[3104] = {}
+	DIRTYWORD[3104]["ID"] = 3104
+	DIRTYWORD[3104]["KEY"] = "CAO"
+	DIRTYWORD[3104]["real_idx"] = 3104
+
+DIRTYWORD["index"][3105] = 3105
+DIRTYWORD[3105] = {}
+	DIRTYWORD[3105]["ID"] = 3105
+	DIRTYWORD[3105]["KEY"] = "CAo"
+	DIRTYWORD[3105]["real_idx"] = 3105
+
+DIRTYWORD["index"][3106] = 3106
+DIRTYWORD[3106] = {}
+	DIRTYWORD[3106]["ID"] = 3106
+	DIRTYWORD[3106]["KEY"] = "KUCK"
+	DIRTYWORD[3106]["real_idx"] = 3106
+
+DIRTYWORD["index"][3107] = 3107
+DIRTYWORD[3107] = {}
+	DIRTYWORD[3107]["ID"] = 3107
+	DIRTYWORD[3107]["KEY"] = "Kuck"
+	DIRTYWORD[3107]["real_idx"] = 3107
+
+DIRTYWORD["index"][3108] = 3108
+DIRTYWORD[3108] = {}
+	DIRTYWORD[3108]["ID"] = 3108
+	DIRTYWORD[3108]["KEY"] = "Fuck"
+	DIRTYWORD[3108]["real_idx"] = 3108
+
+DIRTYWORD["index"][3109] = 3109
+DIRTYWORD[3109] = {}
+	DIRTYWORD[3109]["ID"] = 3109
+	DIRTYWORD[3109]["KEY"] = "FUCK"
+	DIRTYWORD[3109]["real_idx"] = 3109
+
+DIRTYWORD["index"][3110] = 3110
+DIRTYWORD[3110] = {}
+	DIRTYWORD[3110]["ID"] = 3110
+	DIRTYWORD[3110]["KEY"] = "fuck"
+	DIRTYWORD[3110]["real_idx"] = 3110
+
+DIRTYWORD["index"][3111] = 3111
+DIRTYWORD[3111] = {}
+	DIRTYWORD[3111]["ID"] = 3111
+	DIRTYWORD[3111]["KEY"] = "kao"
+	DIRTYWORD[3111]["real_idx"] = 3111
+
+DIRTYWORD["index"][3112] = 3112
+DIRTYWORD[3112] = {}
+	DIRTYWORD[3112]["ID"] = 3112
+	DIRTYWORD[3112]["KEY"] = "Kao"
+	DIRTYWORD[3112]["real_idx"] = 3112
+
+DIRTYWORD["index"][3113] = 3113
+DIRTYWORD[3113] = {}
+	DIRTYWORD[3113]["ID"] = 3113
+	DIRTYWORD[3113]["KEY"] = "KAO"
+	DIRTYWORD[3113]["real_idx"] = 3113
+
+DIRTYWORD["index"][3114] = 3114
+DIRTYWORD[3114] = {}
+	DIRTYWORD[3114]["ID"] = 3114
+	DIRTYWORD[3114]["KEY"] = "kAo"
+	DIRTYWORD[3114]["real_idx"] = 3114
+
+DIRTYWORD["index"][3115] = 3115
+DIRTYWORD[3115] = {}
+	DIRTYWORD[3115]["ID"] = 3115
+	DIRTYWORD[3115]["KEY"] = "NMD"
+	DIRTYWORD[3115]["real_idx"] = 3115
+
+DIRTYWORD["index"][3116] = 3116
+DIRTYWORD[3116] = {}
+	DIRTYWORD[3116]["ID"] = 3116
+	DIRTYWORD[3116]["KEY"] = "NND"
+	DIRTYWORD[3116]["real_idx"] = 3116
+
+DIRTYWORD["index"][3117] = 3117
+DIRTYWORD[3117] = {}
+	DIRTYWORD[3117]["ID"] = 3117
+	DIRTYWORD[3117]["KEY"] = "nmd"
+	DIRTYWORD[3117]["real_idx"] = 3117
+
+DIRTYWORD["index"][3118] = 3118
+DIRTYWORD[3118] = {}
+	DIRTYWORD[3118]["ID"] = 3118
+	DIRTYWORD[3118]["KEY"] = "nnd"
+	DIRTYWORD[3118]["real_idx"] = 3118
+
+DIRTYWORD["index"][3119] = 3119
+DIRTYWORD[3119] = {}
+	DIRTYWORD[3119]["ID"] = 3119
+	DIRTYWORD[3119]["KEY"] = "Nmd"
+	DIRTYWORD[3119]["real_idx"] = 3119
+
+DIRTYWORD["index"][3120] = 3120
+DIRTYWORD[3120] = {}
+	DIRTYWORD[3120]["ID"] = 3120
+	DIRTYWORD[3120]["KEY"] = "Nnd"
+	DIRTYWORD[3120]["real_idx"] = 3120
+
+DIRTYWORD["index"][3121] = 3121
+DIRTYWORD[3121] = {}
+	DIRTYWORD[3121]["ID"] = 3121
+	DIRTYWORD[3121]["KEY"] = "sb"
+	DIRTYWORD[3121]["real_idx"] = 3121
+
+DIRTYWORD["index"][3122] = 3122
+DIRTYWORD[3122] = {}
+	DIRTYWORD[3122]["ID"] = 3122
+	DIRTYWORD[3122]["KEY"] = "Sb"
+	DIRTYWORD[3122]["real_idx"] = 3122
+
+DIRTYWORD["index"][3123] = 3123
+DIRTYWORD[3123] = {}
+	DIRTYWORD[3123]["ID"] = 3123
+	DIRTYWORD[3123]["KEY"] = "SB"
+	DIRTYWORD[3123]["real_idx"] = 3123
+
+DIRTYWORD["index"][3124] = 3124
+DIRTYWORD[3124] = {}
+	DIRTYWORD[3124]["ID"] = 3124
+	DIRTYWORD[3124]["KEY"] = "sB"
+	DIRTYWORD[3124]["real_idx"] = 3124
+
+DIRTYWORD["index"][3125] = 3125
+DIRTYWORD[3125] = {}
+	DIRTYWORD[3125]["ID"] = 3125
+	DIRTYWORD[3125]["KEY"] = "shit"
+	DIRTYWORD[3125]["real_idx"] = 3125
+
+DIRTYWORD["index"][3126] = 3126
+DIRTYWORD[3126] = {}
+	DIRTYWORD[3126]["ID"] = 3126
+	DIRTYWORD[3126]["KEY"] = "SHIT"
+	DIRTYWORD[3126]["real_idx"] = 3126
+
+DIRTYWORD["index"][3127] = 3127
+DIRTYWORD[3127] = {}
+	DIRTYWORD[3127]["ID"] = 3127
+	DIRTYWORD[3127]["KEY"] = "Shit"
+	DIRTYWORD[3127]["real_idx"] = 3127
+
+DIRTYWORD["index"][3128] = 3128
+DIRTYWORD[3128] = {}
+	DIRTYWORD[3128]["ID"] = 3128
+	DIRTYWORD[3128]["KEY"] = "SUCK"
+	DIRTYWORD[3128]["real_idx"] = 3128
+
+DIRTYWORD["index"][3129] = 3129
+DIRTYWORD[3129] = {}
+	DIRTYWORD[3129]["ID"] = 3129
+	DIRTYWORD[3129]["KEY"] = "Suck"
+	DIRTYWORD[3129]["real_idx"] = 3129
+
+DIRTYWORD["index"][3130] = 3130
+DIRTYWORD[3130] = {}
+	DIRTYWORD[3130]["ID"] = 3130
+	DIRTYWORD[3130]["KEY"] = "tmd"
+	DIRTYWORD[3130]["real_idx"] = 3130
+
+DIRTYWORD["index"][3131] = 3131
+DIRTYWORD[3131] = {}
+	DIRTYWORD[3131]["ID"] = 3131
+	DIRTYWORD[3131]["KEY"] = "TMD"
+	DIRTYWORD[3131]["real_idx"] = 3131
+
+DIRTYWORD["index"][3132] = 3132
+DIRTYWORD[3132] = {}
+	DIRTYWORD[3132]["ID"] = 3132
+	DIRTYWORD[3132]["KEY"] = "Tmd"
+	DIRTYWORD[3132]["real_idx"] = 3132
+
+DIRTYWORD["index"][3133] = 3133
+DIRTYWORD[3133] = {}
+	DIRTYWORD[3133]["ID"] = 3133
+	DIRTYWORD[3133]["KEY"] = "tnnd"
+	DIRTYWORD[3133]["real_idx"] = 3133
+
+DIRTYWORD["index"][3134] = 3134
+DIRTYWORD[3134] = {}
+	DIRTYWORD[3134]["ID"] = 3134
+	DIRTYWORD[3134]["KEY"] = "TNND"
+	DIRTYWORD[3134]["real_idx"] = 3134
+
+DIRTYWORD["index"][3135] = 3135
+DIRTYWORD[3135] = {}
+	DIRTYWORD[3135]["ID"] = 3135
+	DIRTYWORD[3135]["KEY"] = "Tnnd"
+	DIRTYWORD[3135]["real_idx"] = 3135
+
+DIRTYWORD["index"][3136] = 3136
+DIRTYWORD[3136] = {}
+	DIRTYWORD[3136]["ID"] = 3136
+	DIRTYWORD[3136]["KEY"] = "K他命"
+	DIRTYWORD[3136]["real_idx"] = 3136
+
+DIRTYWORD["index"][3137] = 3137
+DIRTYWORD[3137] = {}
+	DIRTYWORD[3137]["ID"] = 3137
+	DIRTYWORD[3137]["KEY"] = "k他命"
+	DIRTYWORD[3137]["real_idx"] = 3137
+
+DIRTYWORD["index"][3138] = 3138
+DIRTYWORD[3138] = {}
+	DIRTYWORD[3138]["ID"] = 3138
+	DIRTYWORD[3138]["KEY"] = "傻B"
+	DIRTYWORD[3138]["real_idx"] = 3138
+
+DIRTYWORD["index"][3139] = 3139
+DIRTYWORD[3139] = {}
+	DIRTYWORD[3139]["ID"] = 3139
+	DIRTYWORD[3139]["KEY"] = "骚B"
+	DIRTYWORD[3139]["real_idx"] = 3139
+
+DIRTYWORD["index"][3140] = 3140
+DIRTYWORD[3140] = {}
+	DIRTYWORD[3140]["ID"] = 3140
+	DIRTYWORD[3140]["KEY"] = "嫩B"
+	DIRTYWORD[3140]["real_idx"] = 3140
+
+DIRTYWORD["index"][3141] = 3141
+DIRTYWORD[3141] = {}
+	DIRTYWORD[3141]["ID"] = 3141
+	DIRTYWORD[3141]["KEY"] = "傻b"
+	DIRTYWORD[3141]["real_idx"] = 3141
+
+DIRTYWORD["index"][3142] = 3142
+DIRTYWORD[3142] = {}
+	DIRTYWORD[3142]["ID"] = 3142
+	DIRTYWORD[3142]["KEY"] = "骚b"
+	DIRTYWORD[3142]["real_idx"] = 3142
+
+DIRTYWORD["index"][3143] = 3143
+DIRTYWORD[3143] = {}
+	DIRTYWORD[3143]["ID"] = 3143
+	DIRTYWORD[3143]["KEY"] = "嫩b"
+	DIRTYWORD[3143]["real_idx"] = 3143
+
+DIRTYWORD["index"][3144] = 3144
+DIRTYWORD[3144] = {}
+	DIRTYWORD[3144]["ID"] = 3144
+	DIRTYWORD[3144]["KEY"] = "weelaa"
+	DIRTYWORD[3144]["real_idx"] = 3144
+
+DIRTYWORD["index"][3145] = 3145
+DIRTYWORD[3145] = {}
+	DIRTYWORD[3145]["ID"] = 3145
+	DIRTYWORD[3145]["KEY"] = "ML"
+	DIRTYWORD[3145]["real_idx"] = 3145
+
+DIRTYWORD["index"][3146] = 3146
+DIRTYWORD[3146] = {}
+	DIRTYWORD[3146]["ID"] = 3146
+	DIRTYWORD[3146]["KEY"] = "ml"
+	DIRTYWORD[3146]["real_idx"] = 3146
+
+DIRTYWORD["index"][3147] = 3147
+DIRTYWORD[3147] = {}
+	DIRTYWORD[3147]["ID"] = 3147
+	DIRTYWORD[3147]["KEY"] = "mL"
+	DIRTYWORD[3147]["real_idx"] = 3147
+
+DIRTYWORD["index"][3148] = 3148
+DIRTYWORD[3148] = {}
+	DIRTYWORD[3148]["ID"] = 3148
+	DIRTYWORD[3148]["KEY"] = "3P"
+	DIRTYWORD[3148]["real_idx"] = 3148
+
+DIRTYWORD["index"][3149] = 3149
+DIRTYWORD[3149] = {}
+	DIRTYWORD[3149]["ID"] = 3149
+	DIRTYWORD[3149]["KEY"] = "3p"
+	DIRTYWORD[3149]["real_idx"] = 3149
+
+DIRTYWORD["index"][3150] = 3150
+DIRTYWORD[3150] = {}
+	DIRTYWORD[3150]["ID"] = 3150
+	DIRTYWORD[3150]["KEY"] = "群P"
+	DIRTYWORD[3150]["real_idx"] = 3150
+
+DIRTYWORD["index"][3151] = 3151
+DIRTYWORD[3151] = {}
+	DIRTYWORD[3151]["ID"] = 3151
+	DIRTYWORD[3151]["KEY"] = "群p"
+	DIRTYWORD[3151]["real_idx"] = 3151
+
+DIRTYWORD["index"][3152] = 3152
+DIRTYWORD[3152] = {}
+	DIRTYWORD[3152]["ID"] = 3152
+	DIRTYWORD[3152]["KEY"] = "共 产 党"
+	DIRTYWORD[3152]["real_idx"] = 3152
+
+DIRTYWORD["index"][3153] = 3153
+DIRTYWORD[3153] = {}
+	DIRTYWORD[3153]["ID"] = 3153
+	DIRTYWORD[3153]["KEY"] = "共 产党"
+	DIRTYWORD[3153]["real_idx"] = 3153
+
+DIRTYWORD["index"][3154] = 3154
+DIRTYWORD[3154] = {}
+	DIRTYWORD[3154]["ID"] = 3154
+	DIRTYWORD[3154]["KEY"] = "共产 党"
+	DIRTYWORD[3154]["real_idx"] = 3154
+
+DIRTYWORD["index"][3155] = 3155
+DIRTYWORD[3155] = {}
+	DIRTYWORD[3155]["ID"] = 3155
+	DIRTYWORD[3155]["KEY"] = "中 国"
+	DIRTYWORD[3155]["real_idx"] = 3155
+
+DIRTYWORD["index"][3156] = 3156
+DIRTYWORD[3156] = {}
+	DIRTYWORD[3156]["ID"] = 3156
+	DIRTYWORD[3156]["KEY"] = "中国"
+	DIRTYWORD[3156]["real_idx"] = 3156
+
+DIRTYWORD["index"][3157] = 3157
+DIRTYWORD[3157] = {}
+	DIRTYWORD[3157]["ID"] = 3157
+	DIRTYWORD[3157]["KEY"] = "中华人民共和国"
+	DIRTYWORD[3157]["real_idx"] = 3157
+
+DIRTYWORD["index"][3158] = 3158
+DIRTYWORD[3158] = {}
+	DIRTYWORD[3158]["ID"] = 3158
+	DIRTYWORD[3158]["KEY"] = "法"
+	DIRTYWORD[3158]["real_idx"] = 3158
+
+DIRTYWORD["index"][3159] = 3159
+DIRTYWORD[3159] = {}
+	DIRTYWORD[3159]["ID"] = 3159
+	DIRTYWORD[3159]["KEY"] = "urban"
+	DIRTYWORD[3159]["real_idx"] = 3159
+
+DIRTYWORD["index"][3160] = 3160
+DIRTYWORD[3160] = {}
+	DIRTYWORD[3160]["ID"] = 3160
+	DIRTYWORD[3160]["KEY"] = "我操"
+	DIRTYWORD[3160]["real_idx"] = 3160
+
+DIRTYWORD["index"][3161] = 3161
+DIRTYWORD[3161] = {}
+	DIRTYWORD[3161]["ID"] = 3161
+	DIRTYWORD[3161]["KEY"] = "我cao"
+	DIRTYWORD[3161]["real_idx"] = 3161
+
+DIRTYWORD["index"][3162] = 3162
+DIRTYWORD[3162] = {}
+	DIRTYWORD[3162]["ID"] = 3162
+	DIRTYWORD[3162]["KEY"] = "我CAO"
+	DIRTYWORD[3162]["real_idx"] = 3162
+
+DIRTYWORD["index"][3163] = 3163
+DIRTYWORD[3163] = {}
+	DIRTYWORD[3163]["ID"] = 3163
+	DIRTYWORD[3163]["KEY"] = "我Cao"
+	DIRTYWORD[3163]["real_idx"] = 3163
+
+DIRTYWORD["index"][3164] = 3164
+DIRTYWORD[3164] = {}
+	DIRTYWORD[3164]["ID"] = 3164
+	DIRTYWORD[3164]["KEY"] = "他妈的"
+	DIRTYWORD[3164]["real_idx"] = 3164
+
+DIRTYWORD["index"][3165] = 3165
+DIRTYWORD[3165] = {}
+	DIRTYWORD[3165]["ID"] = 3165
+	DIRTYWORD[3165]["KEY"] = "ta妈的"
+	DIRTYWORD[3165]["real_idx"] = 3165
+
+DIRTYWORD["index"][3166] = 3166
+DIRTYWORD[3166] = {}
+	DIRTYWORD[3166]["ID"] = 3166
+	DIRTYWORD[3166]["KEY"] = "鸡巴"
+	DIRTYWORD[3166]["real_idx"] = 3166
+
+DIRTYWORD["index"][3167] = 3167
+DIRTYWORD[3167] = {}
+	DIRTYWORD[3167]["ID"] = 3167
+	DIRTYWORD[3167]["KEY"] = "煞笔"
+	DIRTYWORD[3167]["real_idx"] = 3167
+
+DIRTYWORD["index"][3168] = 3168
+DIRTYWORD[3168] = {}
+	DIRTYWORD[3168]["ID"] = 3168
+	DIRTYWORD[3168]["KEY"] = "傻笔"
+	DIRTYWORD[3168]["real_idx"] = 3168
+
+DIRTYWORD["index"][3169] = 3169
+DIRTYWORD[3169] = {}
+	DIRTYWORD[3169]["ID"] = 3169
+	DIRTYWORD[3169]["KEY"] = "骚笔"
+	DIRTYWORD[3169]["real_idx"] = 3169
+
+DIRTYWORD["index"][3170] = 3170
+DIRTYWORD[3170] = {}
+	DIRTYWORD[3170]["ID"] = 3170
+	DIRTYWORD[3170]["KEY"] = "嫩笔"
+	DIRTYWORD[3170]["real_idx"] = 3170
+
+DIRTYWORD["index"][3171] = 3171
+DIRTYWORD[3171] = {}
+	DIRTYWORD[3171]["ID"] = 3171
+	DIRTYWORD[3171]["KEY"] = "傻逼"
+	DIRTYWORD[3171]["real_idx"] = 3171
+
+DIRTYWORD["index"][3172] = 3172
+DIRTYWORD[3172] = {}
+	DIRTYWORD[3172]["ID"] = 3172
+	DIRTYWORD[3172]["KEY"] = "骚逼"
+	DIRTYWORD[3172]["real_idx"] = 3172
+
+DIRTYWORD["index"][3173] = 3173
+DIRTYWORD[3173] = {}
+	DIRTYWORD[3173]["ID"] = 3173
+	DIRTYWORD[3173]["KEY"] = "嫩逼"
+	DIRTYWORD[3173]["real_idx"] = 3173
+
+DIRTYWORD["index"][3174] = 3174
+DIRTYWORD[3174] = {}
+	DIRTYWORD[3174]["ID"] = 3174
+	DIRTYWORD[3174]["KEY"] = "你妈b"
+	DIRTYWORD[3174]["real_idx"] = 3174
+
+DIRTYWORD["index"][3175] = 3175
+DIRTYWORD[3175] = {}
+	DIRTYWORD[3175]["ID"] = 3175
+	DIRTYWORD[3175]["KEY"] = "你妈B"
+	DIRTYWORD[3175]["real_idx"] = 3175
+
+DIRTYWORD["index"][3176] = 3176
+DIRTYWORD[3176] = {}
+	DIRTYWORD[3176]["ID"] = 3176
+	DIRTYWORD[3176]["KEY"] = "共和国"
+	DIRTYWORD[3176]["real_idx"] = 3176
+
+DIRTYWORD["index"][3177] = 3177
+DIRTYWORD[3177] = {}
+	DIRTYWORD[3177]["ID"] = 3177
+	DIRTYWORD[3177]["KEY"] = "客服"
+	DIRTYWORD[3177]["real_idx"] = 3177
+
+DIRTYWORD["index"][3178] = 3178
+DIRTYWORD[3178] = {}
+	DIRTYWORD[3178]["ID"] = 3178
+	DIRTYWORD[3178]["KEY"] = "客 服"
+	DIRTYWORD[3178]["real_idx"] = 3178
+
+DIRTYWORD["index"][3179] = 3179
+DIRTYWORD[3179] = {}
+	DIRTYWORD[3179]["ID"] = 3179
+	DIRTYWORD[3179]["KEY"] = "系 统"
+	DIRTYWORD[3179]["real_idx"] = 3179
+
+DIRTYWORD["index"][3180] = 3180
+DIRTYWORD[3180] = {}
+	DIRTYWORD[3180]["ID"] = 3180
+	DIRTYWORD[3180]["KEY"] = "GM"
+	DIRTYWORD[3180]["real_idx"] = 3180
+
+DIRTYWORD["index"][3181] = 3181
+DIRTYWORD[3181] = {}
+	DIRTYWORD[3181]["ID"] = 3181
+	DIRTYWORD[3181]["KEY"] = "gm"
+	DIRTYWORD[3181]["real_idx"] = 3181
+
+DIRTYWORD["index"][3182] = 3182
+DIRTYWORD[3182] = {}
+	DIRTYWORD[3182]["ID"] = 3182
+	DIRTYWORD[3182]["KEY"] = "Gm"
+	DIRTYWORD[3182]["real_idx"] = 3182
+
+DIRTYWORD["index"][3183] = 3183
+DIRTYWORD[3183] = {}
+	DIRTYWORD[3183]["ID"] = 3183
+	DIRTYWORD[3183]["KEY"] = "gM"
+	DIRTYWORD[3183]["real_idx"] = 3183
+
+
+DIRTYWORD["len"] = 3183
+
+return DIRTYWORD

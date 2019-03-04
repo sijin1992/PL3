@@ -1,0 +1,42 @@
+
+
+import "AirShip.proto";
+import "PvpInfo.proto";
+import "UserSync.proto";
+message PvpReq
+{
+	required int32 type = 1;			//0,战斗请求,1,战斗开始
+	required string target_name = 2;	//对手用户名
+	required int32 target_sid = 3;		//对手服编号
+};
+
+message PvpResp
+{
+	required int32 result = 1;		//0,战斗取消,1,战斗开始,2,战斗结束
+	optional UserSync user_sync = 2;
+	repeated AirShip attack_list = 3;	//攻方阵型
+	repeated AirShip hurter_list = 4;	//守方阵型
+
+	repeated EventInfo event_list = 5;
+
+	repeated int32 attacker_hp_list = 6;
+	repeated int32 hurter_hp_list = 7;
+};
+
+message VideoData{
+	required int32 guid = 1;
+	required int64 stamp = 2;
+	required int64 expiry_stamp = 3; 
+
+	required PvpResp resp = 4;
+}
+
+message PvpVideoReq{
+	required string video_key = 1;
+};
+
+message PvpVideoResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	optional VideoData data = 3;
+};

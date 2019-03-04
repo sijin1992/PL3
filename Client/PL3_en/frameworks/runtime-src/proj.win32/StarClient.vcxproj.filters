@@ -1,0 +1,494 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{fc5cb953-2953-4968-83b3-39e3ff951754}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="win32">
+      <UniqueIdentifier>{037a9a02-b906-4cc5-ad98-304acd4e25ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{2d1d0979-58cd-4ab6-b91c-13650158f1fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\utilities">
+      <UniqueIdentifier>{fbb7f5e6-2a3f-4a40-8fda-21d2957e44cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\purchase">
+      <UniqueIdentifier>{8e3192e1-730b-4e59-8dc8-e508cdb0a389}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\network">
+      <UniqueIdentifier>{1ed7ad25-2bd9-4b3f-95bd-705fde6e7bac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\network\proto">
+      <UniqueIdentifier>{f2d44ffb-9877-40dd-bae9-012db6795605}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\pbc">
+      <UniqueIdentifier>{295aa6ac-12ef-4634-b953-4f3c6f7f979c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\pbc\src">
+      <UniqueIdentifier>{cb7c892f-b9fb-4645-aea1-89763d3497f6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="SimulatorWin.h" />
+    <ClInclude Include="stdafx.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ide-support\CodeIDESupport.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ide-support\lua_debugger.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ide-support\RuntimeLuaImpl.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\LuaHandler.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\ClientConnect.h">
+      <Filter>Classes\network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\NetBuffer.h">
+      <Filter>Classes\network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\NetPacket.h">
+      <Filter>Classes\network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\NetSocket.h">
+      <Filter>Classes\network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\TCPSession.h">
+      <Filter>Classes\network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\AirShip.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\cmd_define.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\cmd_rank.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\CmdEquip.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\CmdGroup.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\CmdLogin.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\CmdPve.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\CmdPvp.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\CmdSync.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\CmdUser.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\CmdWeapon.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\config.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\datablock.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\Equip.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\FlagShip.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\group.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\heartBeatResp.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\Item.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\Mail.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\PveInfo.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\PvpInfo.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\rank.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\UserInfo.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\UserSync.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\Weapon.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\worldboss.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\utilities\CCShake.h">
+      <Filter>Classes\utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\utilities\EffectSprite.h">
+      <Filter>Classes\utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\utilities\MatrixView.h">
+      <Filter>Classes\utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\utilities\Singleton.h">
+      <Filter>Classes\utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\purchase\PaymentInterface.h">
+      <Filter>Classes\purchase</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\purchase\PaymentMgr.h">
+      <Filter>Classes\purchase</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppManager.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\pbc\pbc.h">
+      <Filter>Classes\pbc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\pbc\pub-lua.h">
+      <Filter>Classes\pbc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\pbc\src\alloc.h">
+      <Filter>Classes\pbc\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\pbc\src\array.h">
+      <Filter>Classes\pbc\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\pbc\src\bootstrap.h">
+      <Filter>Classes\pbc\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\pbc\src\context.h">
+      <Filter>Classes\pbc\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\pbc\src\descriptor.pbc.h">
+      <Filter>Classes\pbc\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\pbc\src\map.h">
+      <Filter>Classes\pbc\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\pbc\src\pattern.h">
+      <Filter>Classes\pbc\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\pbc\src\proto.h">
+      <Filter>Classes\pbc\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\pbc\src\stringpool.h">
+      <Filter>Classes\pbc\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\pbc\src\varint.h">
+      <Filter>Classes\pbc\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\Building.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\CmdBuilding.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\Arena.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\CmdArena.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\CmdTrial.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\Trial.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\CmdHome.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\Home.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\Activity.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\utilities\UnzipHelper.h">
+      <Filter>Classes\utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\utilities\CCContentSizeTo.h">
+      <Filter>Classes\utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\Stage.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\CmdSlave.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\Slave.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\utilities\UVSprite.h">
+      <Filter>Classes\utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\OtherInfo.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\network\proto\Planet.pb.h">
+      <Filter>Classes\network\proto</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="SimulatorWin.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ide-support\lua_debugger.c">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ide-support\RuntimeLuaImpl.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\LuaHandler.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\ClientConnect.cpp">
+      <Filter>Classes\network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\NetBuffer.cpp">
+      <Filter>Classes\network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\NetPacket.cpp">
+      <Filter>Classes\network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\NetSocket.cpp">
+      <Filter>Classes\network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\TCPSession.cpp">
+      <Filter>Classes\network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\AirShip.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\cmd_define.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\cmd_rank.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\CmdEquip.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\CmdGroup.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\CmdLogin.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\CmdPve.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\CmdPvp.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\CmdSync.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\CmdUser.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\CmdWeapon.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\config.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\datablock.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\Equip.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\FlagShip.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\group.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\heartBeatResp.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\Item.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\Mail.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\PveInfo.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\PvpInfo.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\rank.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\UserInfo.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\UserSync.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\Weapon.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\worldboss.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\utilities\CCShake.cpp">
+      <Filter>Classes\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\utilities\EffectSprite.cpp">
+      <Filter>Classes\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\utilities\MatrixView.cpp">
+      <Filter>Classes\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\purchase\PaymentInterface.cpp">
+      <Filter>Classes\purchase</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\purchase\PaymentMgr.cpp">
+      <Filter>Classes\purchase</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppManager.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\pbc\pbc-lua.c">
+      <Filter>Classes\pbc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\pbc\src\alloc.c">
+      <Filter>Classes\pbc\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\pbc\src\array.c">
+      <Filter>Classes\pbc\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\pbc\src\bootstrap.c">
+      <Filter>Classes\pbc\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\pbc\src\context.c">
+      <Filter>Classes\pbc\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\pbc\src\decode.c">
+      <Filter>Classes\pbc\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\pbc\src\map.c">
+      <Filter>Classes\pbc\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\pbc\src\pattern.c">
+      <Filter>Classes\pbc\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\pbc\src\proto.c">
+      <Filter>Classes\pbc\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\pbc\src\register.c">
+      <Filter>Classes\pbc\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\pbc\src\rmessage.c">
+      <Filter>Classes\pbc\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\pbc\src\stringpool.c">
+      <Filter>Classes\pbc\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\pbc\src\varint.c">
+      <Filter>Classes\pbc\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\pbc\src\wmessage.c">
+      <Filter>Classes\pbc\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\Building.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\CmdBuilding.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\Arena.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\CmdArena.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\CmdTrial.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\Trial.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\CmdHome.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\Home.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\Activity.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\utilities\UnzipHelper.cpp">
+      <Filter>Classes\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\utilities\CCContentSizeTo.cpp">
+      <Filter>Classes\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\Stage.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\CmdSlave.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\Slave.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\utilities\UVSprite.cpp">
+      <Filter>Classes\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\OtherInfo.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\network\proto\Planet.pb.cc">
+      <Filter>Classes\network\proto</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\game.ico" />
+  </ItemGroup>
+</Project>

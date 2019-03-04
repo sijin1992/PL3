@@ -1,0 +1,28 @@
+别名: utugames
+密码:123456
+创建日期: 2017-4-14
+条目类型: PrivateKeyEntry
+证书链长度: 1
+证书[1]:
+所有者: CN=liuxutao
+发布者: CN=liuxutao
+序列号: 5c221822
+有效期开始日期: Fri Apr 14 13:14:25 CST 2017, 截止日期: Tue Apr 08 13:14:25 CST
+2042
+证书指纹:
+         MD5: 67:6E:FB:BA:7A:CC:7E:CD:09:C0:9A:E5:10:B4:F9:59
+         SHA1: 17:CE:5C:AD:0C:9F:6D:F4:09:7A:13:BD:D9:C2:71:AE:42:11:7D:7B
+         SHA256: 72:F5:36:1F:7B:64:A1:D9:8E:7F:AE:A3:7F:D5:03:7C:87:44:34:1D:F6:
+8C:0F:5D:1B:B2:F9:5F:14:25:BD:1D
+         签名算法名称: SHA256withRSA
+         版本: 3
+
+扩展:
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: D7 3A F1 73 57 35 A7 B7   D7 34 A5 39 05 D2 DE F9  .:.sW5...4.9....
+0010: B6 AA 49 AA                                        ..I.
+]
+]

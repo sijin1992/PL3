@@ -1,0 +1,84 @@
+
+
+import "AirShip.proto";
+import "Item.proto";
+import "UserSync.proto";
+import "Home.proto";
+import "UserInfo.proto";
+
+message PveReq
+{
+	required int32 checkpoint_id = 1;
+	required int32 type   = 2;		//0,战斗请求,1,战斗结果, 2:布阵信息
+	required int32 result = 3;		//0,战斗失败,1,战斗胜利
+	required int32 star   = 4;		//战斗胜利评价【1~3星】
+};
+
+message PveResp
+{
+	required int32 result = 1;		
+	optional UserSync user_sync = 2;
+	required int32 type   = 3;		             //0,战斗开始,1,战斗结束 2:布阵信息
+	repeated AirShip attack_list = 4;		//我方阵型,Weapon_list只包含weapon_id
+	repeated AirShip hurter_list = 5;		//对方阵型,Weapon_list只包含weapon_id
+	optional int32  char_exp_bonus    = 6;	//主角经验奖励
+	optional int32  ship_exp_bonus	  = 7;	//飞船经验奖励
+	optional int32  level_gold_bonus  = 8;	//副本金币奖励
+	optional int32  level_point_bonus = 9;	//副本信用点奖励
+	required int32 	checkpoint_id 	  = 10;
+	repeated Pair get_item_list = 11;	//获得道具
+};
+
+
+message PVEGetRewardReq
+{
+	required int32 copy_id	             = 1;
+	required int32 score_id              = 2; //score档位 (1 2 3)
+};
+
+message PVEGetRewardResp
+{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+};
+
+
+
+
+////////////////科技////////////////////////////////////
+
+message UpgradeTechReq
+{
+	required int32 tech_id	= 1;	//科技id--升级目标
+};
+
+message UpgradeTechResp
+{
+	required int32 result 		= 1;		// 0:成功 1:失败
+	optional UserSync user_sync = 2;
+	optional int32 tech_id  	= 3;		//升级的科技
+	optional int32 upgrade_begin_time = 4;  //升级开始时间
+};
+
+message GetTechnologyReq
+{
+	required int32 tech_id = 1;
+};
+
+message GetTechnologyResp
+{
+	required int32 result 			  		= 1;	// 0:成功 1:失败
+	optional UserSync user_sync = 2; 	                                      // 同步科技信息
+	optional bool hasUpgrade = 3;
+};
+
+message SpeedUpTechnologyReq
+{
+	required int32 tech_id = 1;
+};
+
+message SpeedUpTechnologyResp
+{
+	required int32 result 		= 1;		// 0:成功 1:失败
+	optional UserSync user_sync = 2;
+};

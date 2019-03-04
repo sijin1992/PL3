@@ -1,0 +1,279 @@
+1.tolua （删除skip getuserobject）  增加genbindings_myclass.py myclass.ini
+
+
+
+
+*.UIScrollView add func  "void setScrollBarTexture(const std::string& fileName);"
+
+void ScrollView::setScrollBarTexture(const std::string& fileName){
+    
+    CCASSERT(_scrollBarEnabled, "Scroll bar should be enabled!");
+    if(_verticalScrollBar != nullptr)
+    {
+        _verticalScrollBar->setBodyTexture(fileName);
+    }
+    if(_horizontalScrollBar != nullptr)
+    {
+        _horizontalScrollBar->setBodyTexture(fileName);
+    }
+}
+
+""
+ScrollViewBar add func  "void setBodyTexture(const std::string & fileName);"
+
+void ScrollViewBar::setBodyTexture(const std::string & fileName){
+    if (_body) {
+        _body->setTexture(fileName);
+    }
+    setColor(Color3B(255, 255, 255));
+    if (_upperHalfCircle) {
+        _upperHalfCircle->setVisible(false);
+    }
+    if (_lowerHalfCircle) {
+        _lowerHalfCircle->setVisible(false);
+    }
+}
+
+
+2.lua_cocos2dx_studio_auto.cpp 修改函数
+#include "CCLuaEngine.h"
+#include "CCLuaValue.h"
+
+static int lua_cocos2dx_studio_ActionTimeline_setLastFrameCallFunc(lua_State* L)
+{
+    if (nullptr == L)
+        return 0;
+    
+    int argc = 0;
+    cocostudio::timeline::ActionTimeline* self = nullptr;
+    
+#if COCOS2D_DEBUG >= 1
+    tolua_Error tolua_err;
+    if (!tolua_isusertype(L,1,"ccs.ActionTimeline",0,&tolua_err)) goto tolua_lerror;
+#endif
+    
+    self = static_cast<cocostudio::timeline::ActionTimeline*>(tolua_tousertype(L,1,0));
+    
+#if COCOS2D_DEBUG >= 1
+    if (nullptr == self) {
+        tolua_error(L,"invalid 'self' in function 'lua_cocos2dx_studio_ActionTimeline_setLastFrameCallFunc'\n", NULL);
+        return 0;
+    }
+#endif
+    argc = lua_gettop(L) - 1;
+    
+    if (1 == argc)
+    {
+#if COCOS2D_DEBUG >= 1
+        if (!toluafix_isfunction(L,2,"LUA_FUNCTION",0,&tolua_err) )
+        {
+            goto tolua_lerror;
+        }
+#endif
+        
+        cocos2d::LUA_FUNCTION handler = (  toluafix_ref_function(L,2,0));
+        self->setLastFrameCallFunc([=](void){
+            cocos2d::LuaEngine::getInstance()->getLuaStack()->executeFunctionByHandler(handler, 0);
+        });
+        
+        return 0;
+    }
+    
+    
+    luaL_error(L, "'setLastFrameCallFunc' function of ActionTimeline has wrong number of arguments: %d, was expecting %d\n", argc, 1);
+    
+#if COCOS2D_DEBUG >= 1
+tolua_lerror:
+    tolua_error(L,"#ferror in function 'setLastFrameCallFunc'.",&tolua_err);
+#endif
+    return 0;
+}
+
+
+
+3."error: syntax error during pre-compilation."
+if (r)
+    {
+        switch (r)
+        {
+            case LUA_ERRSYNTAX:
+                CCLOG("[LUA ERROR] load \"%s\", error: syntax error during pre-compilation.", chunkName);
+                break;
+                
+            case LUA_ERRMEM:
+                CCLOG("[LUA ERROR] load \"%s\", error: memory allocation error.", chunkName);
+                break;
+                
+            case LUA_ERRFILE:
+                CCLOG("[LUA ERROR] load \"%s\", error: cannot open/read file.", chunkName);
+                break;
+                
+            default:
+                CCLOG("[LUA ERROR] load \"%s\", error: unknown.", chunkName);
+        }
+        const char* error = lua_tostring(L, -1);
+        CCLOG("[LUA ERROR] error result: %s",error);
+        lua_pop(L, 1);
+    }
+
+
+
+
+4.modify lua_cocos2dx_extension_manual.cpp
+
+//lua_cocos2dx_extension_manual.cpp中加入extendCCNode(tolua_S); 
+int register_all_cocos2dx_extension_manual(lua_State* tolua_S) 
+{ 
+    extendControl(tolua_S); 
+    extendAssetsManager(tolua_S); 
+    extendScrollView(tolua_S); 
+    extendTableView(tolua_S); 
+    extendManifest(tolua_S); 
+    extendEventListenerAssetsManagerEx(tolua_S); 
+    extendParticleSystem3D(tolua_S); 
+    extendParticlePool(tolua_S); 
+ 
+    extendCCNode(tolua_S); 
+ 
+    return 0; 
+} 
+ 
+//定义extendCCNode方法 
+ 
+
+int lua_cocos2dx_extension_Node_getCustomProperty(lua_State* tolua_S) 
+{ 
+    int argc = 0; 
+    cocos2d::Node* cobj = nullptr; 
+    bool ok = true; 
+ 
+#if COCOS2D_DEBUG >= 1 
+    tolua_Error tolua_err; 
+#endif 
+ 
+ 
+#if COCOS2D_DEBUG >= 1 
+    if (!tolua_isusertype(tolua_S, 1, "cc.Node", 0, &tolua_err)) goto tolua_lerror; 
+#endif 
+ 
+    cobj = (cocos2d::Node*)tolua_tousertype(tolua_S, 1, 0); 
+ 
+#if COCOS2D_DEBUG >= 1 
+    if (!cobj) 
+    { 
+        tolua_error(tolua_S, "invalid 'cobj' in function 'lua_cocos2dx_extension_Node_getCustomProperty'", nullptr); 
+        return 0; 
+    } 
+#endif 
+ 
+    argc = lua_gettop(tolua_S) - 1; 
+    if (argc == 0) 
+    { 
+        if (!ok) 
+        { 
+            tolua_error(tolua_S, "invalid arguments in function 'lua_cocos2dx_extension_Node_getCustomProperty'", nullptr); 
+            return 0; 
+        } 
+        std::string ret = ((cocostudio::ComExtensionData*)(cobj->getComponent("ComExtensionData")))->getCustomProperty();
+        tolua_pushcppstring(tolua_S, ret); 
+        return 1; 
+    } 
+    luaL_error(tolua_S, "%s has wrong number of arguments: %d, was expecting %d \n", "cc.Node:getCustomProperty", argc, 0); 
+    return 0; 
+ 
+#if COCOS2D_DEBUG >= 1 
+tolua_lerror: 
+    tolua_error(tolua_S, "#ferror in function 'lua_cocos2dx_extension_Node_getCustomProperty'.", &tolua_err); 
+#endif 
+ 
+    return 0; 
+} 
+static void extendCCNode(lua_State* tolua_S) 
+{ 
+    lua_pushstring(tolua_S, "cc.Node"); 
+    lua_rawget(tolua_S, LUA_REGISTRYINDEX); 
+    if (lua_istable(tolua_S, -1)) 
+    { 
+        tolua_function(tolua_S, "getCustomProperty", lua_cocos2dx_extension_Node_getCustomProperty); 
+    } 
+    lua_pop(tolua_S, 1); 
+} 
+ 
+ 
+//最后，不要忘记include 
+ #include "editor-support/cocostudio/CCComExtensionData.h"
+ 
+ 
+ 
+以上都是在lua_cocos2dx_extension_manual.cpp文件修改就可以了，编译完c后，lua只要是node的类型，调用"cc.Node:getCustomProperty"方法就能获取用户数据 
+
+5.modify CCFrame.cpp
+
+#include "editor-support/cocostudio/CCComExtensionData.h"
+#include "base/CCDirector.h"
+
+Vec2 adjustPos(const std::string & cmd,const Vec2 & pos){
+
+    auto director = Director::getInstance();
+    Size winSize = director->getWinSize();
+    
+    auto glview = director->getOpenGLView();
+    Size design(1136,768);
+    
+    Size diffSize = (winSize - design)/2;
+    
+    Rect visibleRect = glview->getVisibleRect();
+    
+    Vec2 origin,curOrigin;
+    
+    if (cmd == "leftbottom") {
+        origin = Vec2(0, 0);
+        curOrigin = visibleRect.origin;
+    }else if (cmd == "rightbottom"){
+        origin = Vec2(design.width, 0);
+        curOrigin = Vec2(visibleRect.origin.x+visibleRect.size.width, visibleRect.origin.y);
+    }else if (cmd == "righttop"){
+        origin = design;
+        curOrigin = Vec2(visibleRect.origin.x+visibleRect.size.width, visibleRect.origin.y+visibleRect.size.height);
+    }else if (cmd == "lefttop"){
+        origin = Vec2(0, design.height);
+        curOrigin = Vec2(visibleRect.origin.x, visibleRect.origin.y+visibleRect.size.height);
+    }else if (cmd == "left"){
+        origin = Vec2(0, design.height/2);
+        curOrigin = Vec2(visibleRect.origin.x, visibleRect.origin.y+visibleRect.size.height/2);
+    }else if (cmd == "bottom"){
+        origin = Vec2(design.width/2, 0);
+        curOrigin = Vec2(visibleRect.origin.x+visibleRect.size.width/2, visibleRect.origin.y);
+    }else if (cmd == "right"){
+        origin = Vec2(design.width, design.height/2);
+        curOrigin = Vec2(visibleRect.origin.x+visibleRect.size.width, visibleRect.origin.y+visibleRect.size.height/2);
+    }else if (cmd == "top"){
+        origin = Vec2(design.width/2, design.height);
+        curOrigin = Vec2(visibleRect.origin.x+visibleRect.size.width/2, visibleRect.origin.y+visibleRect.size.height);
+    }
+    
+    
+    return curOrigin + pos - origin - diffSize;
+}
+
+void PositionFrame::setNode(cocos2d::Node* node){
+    
+    Frame::setNode(node);
+    
+    ComExtensionData* data = dynamic_cast<ComExtensionData*>(_node->getComponent("ComExtensionData"));
+    if (data && data->getCustomProperty() != "") {
+
+        _position = adjustPos(data->getCustomProperty(), _position);
+    }
+}
+
+//richtext underline变色 
+//richtext.cpp 622行 加:
+label->setTextColor(Color4B(element->_color.r, element->_color.g, element->_color.b, 255));
+
+
+//修改assetmanager.cpp 添加加载进度
+function bool AssetsManager::uncompress()
+
+int percent = 10000 + (i * 100 / global_info.number_entry);
+_delegate->onProgress(percent);

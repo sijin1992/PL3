@@ -1,0 +1,54 @@
+
+import "AirShip.proto";
+import "Weapon.proto";
+import "Item.proto";
+import "Equip.proto";
+import "UserInfo.proto";
+import "Slave.proto";
+import "Mail.proto";
+import "Group.proto";
+import "Activity.proto";
+message UserSync
+{
+	repeated AirShip ship_list = 1;
+
+	repeated Weapon weapon_list = 2;
+
+	repeated Equip equip_list = 3;
+
+	repeated Item item_list = 4;
+
+	optional UserInfo user_info = 5;
+
+	repeated Mail mail_list = 6;
+
+	optional GroupMainData group_main = 7;
+
+	repeated TaskInfo task_list = 8;
+
+	repeated Gem gem_list = 9;
+
+	repeated Activity activity_list = 10;
+
+	optional SlaveData slave_data = 11;
+
+	repeated ForgeEquip forge_equip_list = 12;
+}
+
+message RedoRecharge{
+	required int32  money = 1;
+	required int32 item_id = 2;
+	required int32 fake = 3;
+	required string od = 4;
+}
+
+message RedoEntry{
+	required string user_name = 1;
+	repeated Mail mail_list = 2;
+	repeated RedoRecharge recharge_list = 3;
+}
+
+message SyncUser{
+	required string user_name = 1;
+	repeated int64 res = 2;			//1.金币 2.金属 3.晶体 4.气体
+}

@@ -1,0 +1,31 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="city_6" Type="Plist" ID="0aa206a6-d854-474c-a1a5-64ba0016a3b7" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="CityScene/sfx/city_6/pinmu1.png" />
+      <FilePathData Path="CityScene/sfx/city_6/pinmu2.png" />
+      <FilePathData Path="CityScene/sfx/city_6/pinmu3.png" />
+      <FilePathData Path="CityScene/sfx/city_6/pinmu4.png" />
+      <FilePathData Path="CityScene/sfx/city_6/xulie234540002.png" />
+      <FilePathData Path="CityScene/sfx/city_6/xulie234540004.png" />
+      <FilePathData Path="CityScene/sfx/city_6/xulie234540006.png" />
+      <FilePathData Path="CityScene/sfx/city_6/xulie234540008.png" />
+      <FilePathData Path="CityScene/sfx/city_6/xulie234540010.png" />
+      <FilePathData Path="CityScene/sfx/city_6/xulie234540012.png" />
+      <FilePathData Path="CityScene/sfx/city_6/xulie234540014.png" />
+      <FilePathData Path="CityScene/sfx/city_6/xulie234540016.png" />
+      <FilePathData Path="CityScene/sfx/city_6/xulie234540018.png" />
+      <FilePathData Path="CityScene/sfx/city_6/xulie234540020.png" />
+      <FilePathData Path="CityScene/sfx/city_6/xulie234540022.png" />
+      <FilePathData Path="CityScene/sfx/city_6/xulie234540024.png" />
+      <FilePathData Path="CityScene/sfx/city_6/xulie234540026.png" />
+      <FilePathData Path="CityScene/sfx/city_6/xulie234540028.png" />
+      <FilePathData Path="CityScene/sfx/city_6/xulie234540030.png" />
+      <FilePathData Path="CityScene/sfx/city_6/xulie234540032.png" />
+      <FilePathData Path="CityScene/sfx/city_6/xulie234540034.png" />
+      <FilePathData Path="CityScene/sfx/city_6/xulie234540036.png" />
+      <FilePathData Path="CityScene/sfx/city_6/xulie234540038.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

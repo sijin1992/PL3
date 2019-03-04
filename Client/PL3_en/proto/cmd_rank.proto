@@ -1,0 +1,22 @@
+
+
+import "rank.proto";
+
+//message RankResp
+//{
+//	enum Result{
+//		OK=0;
+//		FAIL=-1;
+//	}
+//	required Result result = 1;
+//	optional RankItemList ranklist = 2;
+//}
+
+message RankGetReq
+{
+	optional int32 ranktype = 1; //
+	optional int32 rankid = 2; //rankid
+	optional int32 rankstart = 3; //从多少名开始
+	optional int32 rankcount = 4; //需要多少排名
+	optional bytes taruser = 5; //指定用户排名
+}

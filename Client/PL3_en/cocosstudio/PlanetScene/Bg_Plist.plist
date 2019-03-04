@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>PlanetScene/ui/bg_qiu_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1928,1148},{97,97}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{97,97}</string>
+			</dict>
+			<key>PlanetScene/ui/bg_star_yun_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1347,929},{893,581}}</string>
+				<key>offset</key>
+				<string>{0,8}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{893,596}</string>
+			</dict>
+			<key>PlanetScene/ui/light_star.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1928,929},{219,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{219,112}</string>
+			</dict>
+			<key>PlanetScene/ui/bg_qiu_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1928,1245},{45,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{45,45}</string>
+			</dict>
+			<key>PlanetScene/ui/bg_stone_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1475},{432,269}}</string>
+				<key>offset</key>
+				<string>{5,2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{547,341}</string>
+			</dict>
+			<key>PlanetScene/ui/bg_stone_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{253,933},{259,228}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{259,228}</string>
+			</dict>
+			<key>PlanetScene/ui/bg_qiu_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,933},{542,253}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{542,253}</string>
+			</dict>
+			<key>PlanetScene/ui/bg_star_yun_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1347,0},{929,663}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{929,663}</string>
+			</dict>
+			<key>PlanetScene/ui/yun.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{1347,933}}</string>
+				<key>offset</key>
+				<string>{-9,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{1364,933}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Bg_Plist.png</string>
+			<key>realTextureFileName</key>
+			<string>Bg_Plist.png</string>
+			<key>size</key>
+			<string>{2040,1907}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>2040</integer>
+			<key>height</key>
+			<integer>1907</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,56 @@
+
+
+message RankItem
+{
+	optional bytes user = 1;
+	optional int32 key  = 2;
+	optional int32 ranktype = 3; 
+	optional int32 rankid = 4; //rankid
+	optional RankExtData extdata = 5; //自定义数据数组, type=5(荣誉排名)
+//extdata.numbervec[0]
+//extdata.numbervec[1]
+//extdata.numbervec[2]
+//extdata.numbervec[3]
+//extdata.numbervec[4]
+
+//extdata.stringvec[0]
+//extdata.stringvec[1]
+	optional int32 rankop = 6; //操作，=0表示设置，=1表示移除(服务器用)
+}
+
+//玩家信息
+message RankPlayerInfo
+{
+	optional string nickname = 1; 	//昵称
+	optional int32 rolelevel = 2; 	//玩家等级
+	optional int32 viplevel = 3; 	//玩家VIP等级
+
+	optional int32 power = 11;	//战斗力
+}
+
+message RankExtData
+{
+	repeated int32 numbervec = 1;	//数字数组
+	repeated bytes stringvec = 2;	//文本数组
+	repeated int64 seedvec = 3;	//种子数组
+
+	optional RankPlayerInfo playerinfo = 11; //玩家信息
+}
+
+message RankCallBack
+{
+	optional int32 ranktype = 1;
+	optional int32 rankid = 2;
+	optional int32 rank = 3; //排名
+}
+
+//排行列表
+message RankItemList
+{
+	repeated RankItem items = 1;
+	optional int32 rankstart = 2; //从哪里开始
+	optional int32 rankcount = 3; //需要多少个
+	optional int32 totalranksize = 4; //排行总数
+	optional bytes taruser = 5; //目标账号
+	optional int32 taruserrank = 6; //目标账号的排名 -n,表示在n名以后
+}

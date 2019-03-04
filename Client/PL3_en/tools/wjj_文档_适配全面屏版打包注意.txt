@@ -1,0 +1,12 @@
+适配全面屏版打包注意
+1 检查config.json中的height width是否被改过，应该恢复成1136 640
+2 检查common.lua中是否设置了外网ip
+3. 检查config.lua中CC_DESIGN_RESOLUTION中
+ratio > 1.9时，autoscale = "FIXED_HEIGHT"
+
+	width = 1136,
+	height = 768,
+
+4. 检查build.gradle
+versionCode和versionName要更新
+frameworks\runtime-src\proj.android-studio\app

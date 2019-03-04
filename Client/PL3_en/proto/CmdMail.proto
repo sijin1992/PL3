@@ -1,0 +1,56 @@
+
+import "Mail.proto";
+import "Item.proto";
+import "UserSync.proto";
+
+message GetMailListReq {
+	required int32 num = 1;  //0：全部读取
+};
+
+message GetMailListResp {
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+};
+
+message ReadMailReq {
+	required int32 guid = 1;
+};
+
+message ReadMailResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	required ReadMailReq req = 3;
+	repeated Pair get_item_list = 4;	//获得道具
+};
+
+message ReadMailListReq {
+	repeated int32 guid = 1;
+};
+
+message ReadMailListResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	required ReadMailListReq req = 3;
+	repeated Pair get_item_list = 4;	//获得道具
+};
+
+message SendMailReq {
+	required string user_name = 1;
+	required string subject = 2;
+	required string message = 3;
+};
+
+message SendMailResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+};
+
+
+message DelMailReq {
+	repeated int32 guid_list = 1;
+};
+
+message DelMailResp {
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+};

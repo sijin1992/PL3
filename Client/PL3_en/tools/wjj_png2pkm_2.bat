@@ -1,0 +1,10 @@
+etc1tool E:\weijingjun_Projects\StarClient\res\LevelScene\G1.png
+etc1tool E:\weijingjun_Projects\StarClient\res\LevelScene\G1mo.png
+etc1tool E:\weijingjun_Projects\StarClient\res\LevelScene\G2.png
+etc1tool E:\weijingjun_Projects\StarClient\res\LevelScene\G2mo.png
+etc1tool E:\weijingjun_Projects\StarClient\res\LevelScene\G3.png
+etc1tool E:\weijingjun_Projects\StarClient\res\LevelScene\G3mo.png
+etc1tool E:\weijingjun_Projects\StarClient\res\LevelScene\G4.png
+etc1tool E:\weijingjun_Projects\StarClient\res\LevelScene\G4mo.png
+etc1tool E:\weijingjun_Projects\StarClient\res\LevelScene\G5.png
+etc1tool E:\weijingjun_Projects\StarClient\res\LevelScene\G5mo.png
