@@ -1,0 +1,67 @@
+-----Export-----
+//家族贡献获得(用户ID，获得渠道，获得数量，剩余贡献)
+LOG_STAT( string.format( "%s|%s|%d|%d|%d", "GET_JZGX", $uid, $where, $num, $left ) )
+
+//体力消耗(用户ID，消耗渠道，消耗数量，之前等级，之后等级，剩余体力)
+LOG_STAT( string.format( "%s|%s|%d|%d|%d|%d|%d", "CAST_PHP", $uid, $where, $num, $levelbefore, $levelafter, $left ) )
+
+//道具消耗(用户ID，消耗渠道，道具ID，消耗数量，剩余数量)
+LOG_STAT( string.format( "%s|%s|%d|%d|%d|%d", "CAST_ITEM", $uid, $where, $itemid, $num, $left ) )
+
+//登录(用户ID，IP地址， MCC移动设备国家码，等级，账号)
+LOG_STAT( string.format( "%s|%s|%s|%s|%d|%s", "LOGIN", $uid, $ip, $mmc, $level, $acc ) )
+
+//道具获得(用户ID，获得渠道，道具ID，获得数量，剩余数量)
+LOG_STAT( string.format( "%s|%s|%d|%d|%d|%d", "GET_ITEM", $uid, $where, $itemid, $num, $left ) )
+
+//设备(用户ID，终端机型，设备分辨率，所用操作系统，所用运营商，联网方式)
+LOG_STAT( string.format( "%s|%s|%s|%s|%s|%s|%s", "DEVICE", $uid, $stype, $res, $os, $oper, $cntype ) )
+
+//在线统计(在线人数，区服ID)
+LOG_STAT( string.format( "%s|%s|%d|%d", "ONLINE", "STAT_ONLINE", $olnum, $areaid ) )
+
+//通关关卡(用户ID，通过关卡ID)
+LOG_STAT( string.format( "%s|%s|%d", "PASS_GQ", $uid, $gqid ) )
+
+//卡牌获得(用户ID，获得渠道，卡牌ID，获得数量)
+LOG_STAT( string.format( "%s|%s|%d|%d|%d|%d", "GET_CARD", $uid, $where, $carid, $num ) )
+
+//新手引导(用户ID，引导ID)
+LOG_STAT( string.format( "%s|%s|%d", "GUIDE", $uid, $gid ) )
+
+//升级(用户ID，之前等级，之后等级）
+LOG_STAT( string.format( "%s|%s|%d|%d", "LEVEL_UP", $uid, $levelbefore, $levelafter ) )
+
+//银两消耗(用户ID，消耗渠道，消耗数量，剩余数量)
+LOG_STAT( string.format( "%s|%s|%d|%d|%d", "CAST_GD", $uid, $where, $num, $left ) )
+
+//功能使用(用户ID，功能ID)
+LOG_STAT( string.format( "%s|%s|%d", "USE_GN", $uid, $gnid ) )
+
+//离线(用户ID，在线时间(秒)，账号)
+LOG_STAT( string.format( "%s|%s|%ld|%s", "LOGOUT", $uid, $oltime, $acc ) )
+
+//元宝消耗(用户ID，消耗渠道，消耗数量，真元宝数，财务确认金额，留存充值元宝，剩余总真元宝，剩余总元宝，账号，IP，MMC)
+LOG_STAT( string.format( "%s|%s|%d|%d|%d|%d|%d|%d|%d|%s|%s|%s", "CAST_YB", $uid, $where, $num, $real, $confirm, $depleft, $realleft, $totalleft, $acc, $ip, $mmc ) )
+
+//充值(用户ID，充值金额，支付方式，是否首充，vip等级，vip积分)
+LOG_STAT( string.format( "%s|%s|%d|%d|%d|%d|%d", "DEPOSIT", $uid, $amount, $paytype, $isfirst, $viplevel, $vipscore ) )
+
+//银两获得(用户ID，获得渠道，获得数量，剩余银两)
+LOG_STAT( string.format( "%s|%s|%d|%d|%d", "GET_GD", $uid, $where, $num, $left ) )
+
+//元宝获得(用户ID，获得渠道，获得数量，真元宝数，财务确认金额，留存充值元宝，剩余总真元宝，剩余总元宝，账号，IP，MMC)
+LOG_STAT( string.format( "%s|%s|%d|%d|%d|%d|%d|%d|%d|%s|%s|%s", "GET_YB", $uid, $where, $num, $real, $confirm, $depleft, $realleft, $totalleft, $acc, $ip, $mmc ) )
+
+//注册(用户ID，IP地址， MCC移动设备国家码，账号)
+LOG_STAT( string.format( "%s|%s|%s|%s|%s", "REGIST", $uid, $ip, $mmc, $acc ) )
+
+//侠客获取(用户ID，消耗渠道，消耗卡牌ID，消耗数量，剩余数量)
+LOG_STAT( string.format( "%s|%s|%d|%d|%d|%d", "GET_XK", $uid, $where, $cardid, $num, $left ) )
+
+//体力获得(用户ID，获得渠道，获得数量，剩余体力)
+LOG_STAT( string.format( "%s|%s|%d|%d|%d", "GET_PHP", $uid, $where, $num, $left ) )
+
+//活动领取(用户ID，活动ID)
+LOG_STAT( string.format( "%s|%s|%d", "ACT_REWARD", $uid, $actid ) )
+

@@ -1,0 +1,208 @@
+
+import "OtherInfo.proto";
+import "AirShip.proto";
+import "PvpInfo.proto";
+import "Item.proto";
+
+message PlanetRes {
+	required int32 id = 1;
+	required int32 cur_storage = 2;
+
+
+	optional string user_name = 3;
+	optional int64 begin_time = 4;
+	optional int32 collect_speed = 5;
+	optional int32 army_guid = 6;
+
+
+	required bool hasMonster = 7;
+};
+
+
+message PlanetCityResUser{
+	required string user_name = 1;
+	required int64 begin_time = 2;
+	required int32 collect_speed = 3;
+	required int32 army_guid = 4;
+};
+
+message PlanetCityRes {
+
+	required int32 id = 1;
+
+	repeated PlanetCityResUser user_list = 2;
+
+	required int32 cur_storage = 3;
+	required int64 restore_start_time = 4;
+	
+	optional string groupid = 5;
+};
+
+message PlanetRuins{
+	required int32 id = 1;
+	optional int64 begin_time = 2;
+	optional int64 need_time = 3;
+	optional string user_name = 4;
+	optional int32 army_guid = 5;
+};
+
+message PlanetBase{
+	required string user_name = 1;
+	repeated string guarde_list = 2;//(user_name)_(army_guid)
+	required int32 destroy_value = 3;
+	optional int64 last_hurt_time = 4;
+	optional int64 last_sub_destroy_value_time = 5;
+
+	optional OtherUserInfo info = 6; //和客户端交互的时候才会获得
+
+	optional int64 shield_start_time = 7;
+	optional int64 shield_time = 8;
+};
+
+message PlanetBossUser{
+	required string user_name = 1;
+	required int32 tech_id = 2;
+	required int64 start_time = 3;
+	required int32 attack_count= 4;
+	required string boss_global_key = 5;
+};
+
+message PlanetBoss{
+	required int32 id = 1;
+	required int64 create_time = 2;
+	repeated int32 monster_hp_list = 3;
+	optional PlanetBossUser user_info = 4; //和客户端交互的时候才会获得
+};
+
+message PlanetCity{
+
+	required int32 id = 1;
+
+	required bool hasMonster = 2;
+	repeated int32 monster_hp_list = 3;
+	required int32 status = 4;	//1:和平状态 2：争夺状态
+	required int64 status_begin_time = 5;
+	required int64 occupy_begin_time = 6;
+	required string groupid = 7;
+	repeated string guarde_list = 8;//(user_name)_(army_guid)
+	optional OtherGroupInfo temp_info = 9;	//和客户端交互的时候才会获得
+};
+
+message PlanetPoint{
+	required int32 x = 1;
+	required int32 y = 2;
+};
+
+message PlanetElement{
+
+	required int32 guid = 1;	//在某个node中的唯一ID
+	required string global_key = 2;		//(node_id)_(guid)组合 全局唯一
+
+	repeated PlanetPoint pos_list = 3;
+
+	required int32 type = 4;	//1:base 2:res 3:ruins 4:boss 5:city 6:city res
+
+	optional PlanetBase base_data = 5;
+	optional PlanetRes res_data = 6;
+	optional PlanetRuins ruins_data = 7;
+	optional PlanetBoss boss_data = 8;
+	optional PlanetCity city_data = 9;
+	optional PlanetCityRes city_res_data = 10;
+};
+
+
+message PlanetNode{
+	required int32 id = 1;
+	repeated PlanetElement element_list = 2;
+	repeated string army_line_key_list = 3;
+};
+
+message PlanetArmyLine{
+
+	required string user_key = 1;//(user_name)_(army_guid)
+	repeated int32 node_id_list = 2;
+	repeated PlanetPoint move_list = 3;
+	required int64 begin_time = 4;
+	required int64 need_time = 5;
+	required int64 sub_time = 6;
+
+	optional int32 status = 7;	//和客户端交互的时候才会获得
+	optional int32 status_machine = 8;	//和客户端交互的时候才会获得
+};
+
+message PlanetArmy{
+	required int32 guid = 1;
+	required string army_key = 2;
+	repeated int32 lineup = 3;
+	repeated int32 lineup_hp = 4;
+	repeated AirShip ship_list = 5;
+	required int32 status = 6;
+	required int32 status_machine = 7;	//1:采集 2:废墟 3:打捞 4:侦查 5：驻扎 6:攻击基地 7:陪同 8:攻击据点 9:人工智能基地 10:征召
+
+	required int64 begin_time = 8;
+
+	repeated Item item_list = 9;	//物品
+
+	required string element_global_key = 10;
+
+	optional PlanetArmyLine line = 11;
+
+	repeated string army_key_list = 12;	//(被跟随方)跟随的军队(user_name)_(army_guid)
+
+	optional string accompany_army_key = 13;	//(跟随方)想要加入的军队(user_name)_(army_guid)
+
+	required int32 tech_durable_param = 14;
+
+	optional int32 next_status_machine = 15;	//征召之后的行为保存
+
+	repeated string req_army_key_list = 16;	//(被跟随方)请求跟随的军队(user_name)_(army_guid)
+
+	optional int64 mass_time = 17;	//征招时间
+
+	required int32 speed = 18;
+
+	optional int64 accompany_begin_time = 19;	//(跟随方)想要加入的军队的开启时间
+};
+
+message PlanetMark{
+	required string name = 1;
+	required PlanetPoint pos = 2;
+};
+
+message PlanetUser{
+	required string user_name = 1;
+
+	required int32 nation = 2;	//所属国家
+
+	repeated PlanetArmy army_list = 3;
+
+	required string base_global_key = 4;
+
+	repeated PlanetMark mark_list = 5;
+
+	repeated string attack_me_list = 6;
+
+	repeated int32 colloct_level_times_list = 7;//采集星系资源次数
+	repeated int32 colloct_count = 8;//采集星系资源总量
+	repeated int32 ruins_level_times_list = 9;//成功摧毁行星带次数
+	repeated int32 fishing_level_times_list = 10;//成功打捞宇宙残骸
+	repeated int32 boss_level_times_list = 11;//攻击/最后一击人工智能基地
+	optional int32 attack_city_win_times = 12;//进攻据点成功
+	optional int32 attack_win_times = 13;//攻击胜利
+	optional int32 base_defense_win_times = 14;//空间站防守胜利
+	repeated int32 move_base_times_list = 15;//成功跃迁
+};
+
+message PlanetMailUser{
+	optional OtherUserInfo info = 1;
+	repeated PlanetPoint pos_list = 2;
+	repeated int32 ship_hp_list = 4;
+	repeated AirShip ship_list = 5;
+	repeated int32 pre_ship_energy_level_list = 6;	//report时传输
+};
+
+message PlanetArmyInfo{
+	required PlanetElement my_base = 1;
+	required PlanetArmy army = 2;
+	required PlanetElement target_element = 3;
+};

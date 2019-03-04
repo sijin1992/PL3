@@ -1,0 +1,13 @@
+message LogReportReq
+{
+	required int32 logid=1;
+	optional int32 logval1=2;
+	optional int32 logval2=3;
+	optional int32 logval3=4;
+	optional int32 logval4=5;
+	optional int32 logval5=6;
+	optional int32 logval6=7;
+	optional int32 logval7=8;
+	optional int32 logval8=9;
+	optional int32 logval9=10;
+}

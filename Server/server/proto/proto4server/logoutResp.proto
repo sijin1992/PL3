@@ -1,0 +1,7 @@
+message LogoutResp {
+	enum Result{
+		FAIL=-1;
+		OK=0;
+	}
+	required Result result = 1;
+}

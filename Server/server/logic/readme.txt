@@ -1,0 +1,16 @@
+服务器基本框架
+配置如下：
+[LOGIC_DRIVER]
+;;是否在共享内存中保存处理状态
+SAVE_LOGIC_IN_SHM=0
+LOGIC_SHM_KEY=
+LOGIC_SHM_SIZE=
+LOGIC_SHM_BLOCK_SIZE=
+;;是否使用到timmer
+USE_TIMER=1
+;;key=0使用普通内存
+TIMER_SHM_KEY=0
+TIMER_MAX_NUM=1000
+;;每个循环最多读多少消息
+;;READ_MSG_NUM_PERLOOP=
+SERVER_ID=1.0.0.1

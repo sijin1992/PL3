@@ -1,0 +1,22 @@
+///////////////副本相关//////////////////////////
+//关卡信息
+message LevelInfo
+{
+	required int32 level_id =	1;		//副本id
+	required int32 level_star = 2;		//副本星数【1~3星】
+}
+
+//副本场景信息
+message StageCopyData
+{
+	required int32 copy_id = 1;
+	repeated bool got_reward = 2;  //已领取的场景奖励
+}
+
+message StageData
+{
+	repeated LevelInfo level_info      = 1;
+	repeated StageCopyData copy_data = 2;
+}
+
+

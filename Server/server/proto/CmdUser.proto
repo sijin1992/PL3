@@ -1,0 +1,394 @@
+import "OtherInfo.proto";
+import "UserInfo.proto";
+import "UserSync.proto";
+import "Item.proto";
+
+message AddMoneyCallBack
+{
+	required string sid = 1; 
+	required string orderno = 2;
+	required int32 amount = 3;                  // 充值金额
+	required int32 cur_money = 4;               // 当前总的元宝数
+	required int32 cur_vip = 5;
+	required int32 total_money = 6;             // 当前总的充值金额
+	required int32 item_id = 7;                 // 充值商品id，见配置表
+	required int32 buqian = 8;                  // vip补签
+	//optional Yueka yueka = 9;                   // 如果充了月卡就有这个结构
+	optional int32 zsyk = 10;                   // 终身月卡
+	optional int32 new_item_id = 11;            // 新的可充值结构
+
+	//optional GeneralRsync ext_items = 21;		//额外获得的物品
+};
+
+message UpdateTimeStampResp {
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+};
+
+message UpdateResReq{
+	required int32 type = 1;
+};
+
+message UpdateResResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	optional int64 credit = 3;
+};
+
+message ChatLog {
+	  required int32 stamp = 1;
+	  required string chat = 2;
+	  required string nickname = 3;
+	  optional string group_name = 4;
+	  required string user_name = 5;
+};
+
+message ChatLogList {
+	repeated ChatLog log_list = 1;
+};
+
+message GetChatLogReq{
+	required string chat_id = 1;     //0:世界频道  公会（公会ID） 私聊（user_name拼接,user_name小的在前面）
+	repeated int32 minor = 2;
+};
+
+message GetChatLogResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	repeated ChatLog log_list = 3;
+};
+
+message ChatUserInfo
+{
+	optional string uid = 1;                // uid 不存在或者为""则为系统公告，
+	optional string nickname = 2;
+	optional int32 vip = 3;
+	optional int32 sex = 4;               //暂时不用
+	optional int32 level = 5;
+	optional string group_nickname = 6;
+};
+
+message ChatReq
+{
+	optional ChatUserInfo recver = 1;       // 收件人详情
+	optional string msg = 2;                // 信息
+	optional int32 channel = 3;             // 0 = 世界，2 = 公会，1 = 私聊
+	optional ChatUserInfo sender = 4;       // 发件人的昵称，省得取db
+	optional int32 type = 5;             // 0=普通，1=广播（收费）
+	repeated int32 minor = 6;     //[1]：1星球占领([2]:area_id)
+
+};
+
+message ChatResp
+{
+	enum ChatRet
+	{
+		OK = 0;
+		FAIL = -1;
+		DIRTY = -2;
+		BLACK = -3;
+		SELF = -4;
+		NOMONEY = -5;
+	};
+
+	required ChatRet result = 1;
+	optional UserSync user_sync = 2;
+};
+
+message ChatMsg_t   // 临时的字符串分割版本
+{
+	repeated string msg = 1;
+	optional int32 channel = 2;
+	optional ChatUserInfo sender = 3;       // 发件人详情
+	optional ChatUserInfo recver = 4;       // 收件人详情
+	repeated string recvs = 5;
+	optional int32 type = 6;         // 0=普通，1=广播, 2=特效广播
+	repeated int32 minor = 7;
+};
+
+message ChatMsg
+{
+	optional string msg = 1;
+	optional int32 channel = 2;
+	optional ChatUserInfo sender = 3;       // 发件人详情
+	optional ChatUserInfo recver = 4;       // 收件人详情
+	repeated string recvs = 5;
+	optional int32 type = 6;          // 0=普通，1=广播, 2=特效广播
+	repeated int32 minor = 7;     //[1]：1星球占领([2]:area_id)  
+				        //[1]:2星球占领被攻击([2]被攻击者user_name)
+				        //[1]:3示众奴隶
+				        //[1]:4星球占领更新广播 2-n: node_list
+};
+
+
+message CmdClientGMReq
+{
+	required string cmd = 1;
+};
+
+message CmdClientGMResp
+{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+};
+
+message CmdGetOtherUserInfoReq        //实时数据
+{
+	required string user_name = 1;    //用户名
+	required int32 sid = 2;      //服编号
+	repeated int32 lineup = 3;      //resp : power (如果有就是指定阵容的战力)  没有就是平时阵容的战力
+};
+
+message CmdGetOtherUserInfoResp
+{
+	required int32 result = 1;
+	optional int32 type = 2;
+	optional OtherUserInfo info = 3;
+};
+
+message CmdGetOtherUserInfoListReq      //KCH数据
+{
+	repeated string user_name_list = 1;    //用户名
+	required int32 sid = 2;      //服编号
+};
+
+message CmdGetOtherUserInfoListResp
+{
+	required int32 result = 1;
+	optional int32 type = 2;
+	repeated OtherUserInfo info_list = 3;
+};
+
+message NewFriendUpdate  //服务器主动 (有新申请好友邮件)
+{
+	required string sender = 1;
+};
+
+message BeFriendUpdate  //服务器主动 (好友列表更新)
+{
+	required int32 result = 1;
+};
+
+message GetFriendsInfoReq {
+	required int32 type = 1;               //0:搜索  1:好友  2：黑名单  3:私聊  4:推荐
+	optional int32 index = 2;            //>0  (1 2)
+	optional int32 num = 3;              //>0  (1 2 4)
+	optional string nickname = 4;    // (3)
+}
+
+
+message GetFriendsInfoResp {
+
+	required int32 result = 1;
+	required int32 type = 2;
+	repeated OtherUserInfo list = 3;
+}
+
+message ApplyFriendReq{
+	required string recver = 1; //接受者uid 
+};
+
+message ApplyFriendResp{
+	enum ApplyFriendRet
+	{
+		OK = 0;
+		FAIL = -1;
+		FRIEND = 1;
+		OTHER_BLACK = 2;
+		MY_BLACK = 3;
+		FIREND_FULL = 4;
+		SENDED = 5;
+	};
+	required ApplyFriendRet result = 1;
+	
+};
+
+message AcceptFriendReq{
+	required string sender = 1;      //申请者uid
+	required int32 mail_guid = 2;  //申请成功后删除邮件
+};
+
+message AcceptFriendResp{
+	enum AcceptFriendRet
+	{
+		OK = 0;
+		FAIL = -1;
+		FRIEND = 1;
+		NO_MAIL = 2;
+		SELF = 3;
+		OTHER_BLACK = 4;
+		MY_BLACK = 5;
+		MY_FRIEND_FULL = 6;
+		OTHER_FRIEND_FULL = 7;
+	};
+	required AcceptFriendRet result = 1;
+};
+
+message RemoveFriendReq{
+	required string user_name = 1; 
+};
+
+message RemoveFriendResp{
+	required int32 result = 1;
+};
+
+message BlackListReq{
+	required int32 type = 1;                //1：添加 2：删除
+	required string user_name = 2; 
+};
+
+message BlackListResp{
+	required int32 result = 1;
+};
+
+message TalkListReq{
+	required int32 type = 1;                //1：添加 2：删除
+	required string user_name = 2; 
+};
+
+message TalkListResp{
+	required int32 result = 1;
+};
+
+
+//REQ没有消息体
+message TaskListResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	repeated TaskInfo task_list = 3;
+};
+
+message TaskRewardReq{
+	required int32 task_id = 1;	//task_id 负数(index)获取每日活跃奖励
+};
+
+message TaskRewardResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	optional int32 task_id = 3;
+};
+
+//REQ没有消息体
+message GetStrengthResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+};
+
+message AddStrengthReq{
+	required int32 type = 1;	//1:道具 2:信用点
+	optional Pair item = 2;
+};
+message AddStrengthResp{
+	enum AddStrengthRet
+	{
+		OK = 0;
+		FAIL = -1;
+		REQ_DATA_ERROR = 1;
+		NO_ITEM = 2;
+		ITEM_KEY_ERROR = 3;
+		MAX_TIMES = 4;
+		NO_MONEY = 5;
+	};
+	required AddStrengthRet result = 1;
+	optional UserSync user_sync = 2;
+};
+
+message RankReq{
+	enum RankType
+	{
+		PLAYER_LEVEL = 1;
+		PLAYER_POWER = 2;
+		MAIN_CITY_LEVEL = 3;
+		GROUP_POWER  = 4;
+		ARENA = 5;
+		TRIAL = 6;
+	};
+	required RankType rank_type = 1;
+	required int32 start_rank = 2;
+	required bool need_my = 3;
+};
+
+message RankResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	repeated OtherUserInfo user_rank = 3;
+	repeated OtherGroupInfo group_rank = 4;
+
+	optional OtherUserInfo my_user_rank = 5;
+	optional OtherGroupInfo my_group_rank = 6;
+};
+
+
+message ShopTimeItemListResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	message TimeItem{
+		required int32 id = 1;
+		required int64 end_time = 2;
+	}
+	repeated TimeItem list = 3;
+};
+
+message ShopBuyReq{
+	required int32 id = 1;
+	required int32 num = 2;
+};
+
+message ShopBuyResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	optional ShopBuyReq req = 3;
+};
+
+message ShipLotteryReq{
+	required int32 id = 1;
+	required int32 type = 2; //0:刷新时间 1:单抽 2:十连抽 
+};
+
+message ShipLotteryResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	repeated Item item_list = 3;
+};
+
+message IsOnlineReq{
+	repeated string user_name_list = 1;
+};
+
+message IsOnlineResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	repeated string user_name_list = 3;
+	repeated bool is_online_list = 4;
+};
+
+message GuideStepReq{
+	required int32 type = 1; //1:guide step 2:talk
+	optional int32 step_index = 2;	//目前最多到 INDEX 20
+	optional int32 step_num = 3;
+	optional string talk_key = 4;
+};
+
+message GuideStepResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+};
+
+message AidAwardReq{
+	required int32 type = 1;	//1：开始倒计时 2:获取奖励
+};
+message AidAwardResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+};
+
+message OpenGiftReq{
+	required int32 item_id = 1;
+	required int32 num = 2;
+};
+
+message OpenGiftResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	repeated Item get_item_list = 3;
+};

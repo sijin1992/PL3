@@ -1,0 +1,15 @@
+
+message CheckpointInfo
+{
+	required int32 id = 1;
+	required int32 pass_num = 2;		//通关次数
+	required int32 pass_time = 3;		//通关时间
+	required int32 pass_star = 4;		//通关星级
+	required int32 pass_num_today = 5;	//今天通关次数
+};
+
+message PveInfo
+{
+	required int32 checkpoint_id = 1;		//当前关卡编号
+	repeated CheckpointInfo checkpoint_list = 2;	//关卡列表
+};

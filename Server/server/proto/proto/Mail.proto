@@ -1,0 +1,43 @@
+import "Item.proto";
+import "OtherInfo.proto";
+import "Planet.proto";
+
+message PlanetReport{
+	required int32 type = 1;	//1:采矿 2:采矿被攻击 3:攻击采矿 4:打捞 5摧毁废墟 6:基地侦查 7:基地被侦查 8:攻击据点 9:被攻击据点  10攻击基地 11被攻击基地 12攻击据点 13据点被攻击 14攻击人工智能基地 15:据点侦查 16:攻击基地失败有防护罩 17:攻击据点失败和平时期 18:攻击野怪 19攻击王座 20王座被攻击 21攻击电磁塔 22电磁塔被攻击 23攻击王座失败和平时期 24攻击电磁塔失败和平时期
+	required bool result = 2;	//4:打捞是否成功 15:是否有怪
+	repeated ItemList item_list_list = 3;	//获得物品LIST组
+	required int32 id = 4;
+	repeated PlanetPoint pos_list = 5;
+	optional bool isWin = 6;
+	repeated string video_key_list = 7; //(user_name)_(video_id)
+
+	repeated PlanetMailUser my_data_list = 8;
+	repeated PlanetMailUser enemy_data_list = 9;
+
+	optional int32 attack_count = 10;	//type:14
+	repeated int32 pre_enemy_hp_list = 11;	//type:14
+};
+
+message Mail
+{
+	required int32 type = 1;            // 邮件类别 0=公告邮件(未读) 1=公告邮件(已读) 2=玩家邮件(未读) 3玩家邮件(已读) 4=星球邮件(未读) 5星球邮件(已读) 8=申请星盟邮件 9=申请好友邮件 10=附件邮件
+	required string from = 2;           // 发件人
+	required string subject = 3;        // 邮件标题
+	required string message = 4;        // 邮件正文
+	repeated Item item_list = 5;        // 附件
+	required int64 stamp = 6;           // 邮件发送时间点
+	required uint32 guid = 7;           // 邮件的guid
+	required int64 expiry_stamp = 8;    // 截止时间点。如果非0且超过这个点，删除邮件。如果是附件邮件，这个值为0，读完就删
+	optional int32 tid = 9;             // 公告类邮件，每一封有一个唯一id。每个登录账户都会保证接收到全部的公告邮件，并删除
+	optional int32 buchang = 10;        // 补偿邮件标识
+	optional int32 reg_time = 11;
+	optional int32 vip_limit = 12;
+	optional int32 lev_limit = 13;
+	optional string from_user_name = 14;    //玩家邮件才有
+	optional PlanetReport planet_report = 15; //星球占领报告
+};
+
+message MailList
+{
+	repeated Mail mail_list = 1;        // 邮件列表
+};

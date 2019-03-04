@@ -1,0 +1,75 @@
+<html>
+<head>
+<script type="text/javascript">
+function strimspace(value)
+{
+	if(typeof(value)=="string")
+	{
+		value = value.replace(/^\s*/,'');
+		value = value.replace(/\s*$/,'');
+	}
+	return value;
+}
+
+function checkIsNum(value,name)
+{
+	if(!value)
+	{
+		alert("need "+name);
+		return false;
+	}
+
+	if(!value.match(/^-?\d+$/))
+	{
+		alert(name+" not num");
+		return false;
+	}
+
+	return true;
+}
+
+function dosubmit()
+{
+	txtcustom = document.getElementById("custom").value;
+	if(!txtcustom)
+	{
+		alert("need custom");
+		return;
+	}
+	txtgold = strimspace(document.getElementById("gold").value);
+	txtitemid = strimspace(document.getElementById("itemid").value);
+	txtitemnum = strimspace(document.getElementById("itemnum").value);
+	if(!checkIsNum(txtgold,"gold") || !checkIsNum(txtitemid, "itemid") || !checkIsNum(txtitemnum, "itemnum"))
+	{
+		return;
+	}
+/*http://10.10.1.25:8080/xxx?gmuser=zaya&gmkey=dfqa!^&customuser=mars&money=1&expr=1&itemid=2002&itemnum=2*/
+		desurl="http://10.10.1.153:14081/xxx?"+"gm_cmd=8194&"+"gm_user=test&gm_key=test&user="+txtcustom+"&gold="+txtgold+"&item_id="+txtitemid+"&item_num="+txtitemnum;
+	alert(desurl);
+	document.getElementById("resultframe").src = desurl;
+}
+</script>
+</head>
+<body>
+<table>
+<tr>
+<td>custom</td>
+<td><input type="text" id="custom" /></td>
+</tr>
+<tr>
+<td>add gold</td>
+<td><input type="text" id="gold" value="0" /></td>
+</tr>
+<tr>
+<td>itemid</td>
+<td><input type="text" id="itemid" value="0" /></td>
+</tr>
+<tr>
+<td>itemnum</td>
+<td><input type="text" id="itemnum" value="0" /></td>
+</tr>
+</table>
+<input type="button" value="ok" onclick="dosubmit()" /><br/>
+<iframe id="resultframe"></iframe>
+</body>
+</html>

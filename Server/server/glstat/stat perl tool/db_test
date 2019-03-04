@@ -1,0 +1,49 @@
+#!/usr/bin/perl -w
+
+use strict;
+use DBI;
+
+
+my $dbh = DBI->connect('DBI:mysql:db_gl_cdkey') or die "无法连接数据库" . DBI->errstr;
+
+$dbh->{RaiseError} = 1;
+
+for my $sql( split /;\n+/, "
+	CREATE TABLE user( user_name TEXT, phone TEXT );
+	INSERT INTO user VALUES('fired', '222-24442');
+	SELECT * FROM user
+"){
+		my $sth = $dbh->prepare($sql);
+		$sth->execute;
+		$sth->dump_results if $sth->{NUM_OF_FIELDS};
+	}
+
+print "请插入若干记录\n";
+my $sth = $dbh->prepare( 
+qq{
+		INSERT INTO t_cdkeys (cdkey, type, total, rewardid) VALUES (?, ?, ?, ?)
+}
+);
+	
+print "输入记录，回车结束：\n";
+
+while(my $inputdata =<>)
+{
+	chop $inputdata;
+	last unless($inputdata);
+	my ($cdkey, $type, $total, $rewardid) = split(/,/, $inputdata);
+	$sth->execute($cdkey, $type, $total, $rewardid);
+}
+
+$sth = $dbh->prepare( 
+qq{
+		SELECT * from t_cdkeys;
+}
+);
+
+$sth->execute;
+$sth->dump_results if $sth->{NUM_OF_FIELDS};
+	
+$sth->finish();
+
+

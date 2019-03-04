@@ -1,0 +1,30 @@
+
+
+message DataBlock{
+	enum RetCode{
+		OK=0;
+		NOT_MODIFIED=1;
+		LOCKED=3;
+		MISS=9;
+	}
+	required int32 id = 1;
+	optional bytes buff = 2;
+	optional fixed64 stamp = 3 [default=0];
+	optional fixed64 lock = 4 [default=0];
+	optional int32 unlock = 5 [default=0];
+	optional RetCode retcode = 6 [default=OK];
+}
+
+message DataBlockSet{
+	enum Result{
+		FAIL=-1;
+		OK=0;
+		LOCKED=1;
+		MISS=9;
+		NO_DATA=10;
+	}
+	repeated DataBlock blocks = 1;
+	optional Result result = 2 [default=OK];
+	optional int32 noresp = 3 [default=1];
+}
+

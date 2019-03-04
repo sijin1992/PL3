@@ -1,0 +1,10 @@
+
+
+message HeartBeatResp {
+	enum Result{
+		FAIL=-1;
+		OK=0;
+	}
+	required Result result = 1;
+	optional int64 nowtime = 2;
+}

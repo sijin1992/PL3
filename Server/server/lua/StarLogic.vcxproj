@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="all_config.lua" />
+    <None Include="configuration.lua" />
+    <None Include="config\Achievement.lua" />
+    <None Include="config\Acivity_Qian.lua" />
+    <None Include="config\Activity.lua" />
+    <None Include="config\Activity_Cai.lua" />
+    <None Include="config\Activity_Chong.lua" />
+    <None Include="config\Activity_DuiPool.lua" />
+    <None Include="config\Activity_DuiShop.lua" />
+    <None Include="config\Activity_ios.lua" />
+    <None Include="config\Activity_Jifen.lua" />
+    <None Include="config\Activity_Jifen_C.lua" />
+    <None Include="config\Activity_Level.lua" />
+    <None Include="config\Activity_Login.lua" />
+    <None Include="config\Activity_Qian.lua" />
+    <None Include="config\Activity_Recharge.lua" />
+    <None Include="config\Activity_Xiao.lua" />
+    <None Include="config\AirShip.json" />
+    <None Include="config\Book.lua" />
+    <None Include="config\Book_Expend.lua" />
+    <None Include="config\Box.lua" />
+    <None Include="config\Buff.json" />
+    <None Include="config\Cang_Goods.lua" />
+    <None Include="config\Cang_Quan.lua" />
+    <None Include="config\Cang_Rank.lua" />
+    <None Include="config\Cang_Shop.lua" />
+    <None Include="config\Character.lua" />
+    <None Include="config\Character_Expend.lua" />
+    <None Include="config\Convert.lua" />
+    <None Include="config\Con_Chong.lua" />
+    <None Include="config\Daily.lua" />
+    <None Include="config\Dispute.lua" />
+    <None Include="config\Disputebuff.lua" />
+    <None Include="config\Dispute_Lay.lua" />
+    <None Include="config\DNature.lua" />
+    <None Include="config\Drop.lua" />
+    <None Include="config\Drop.lua.bak" />
+    <None Include="config\Equipment_Name.lua" />
+    <None Include="config\Equipment_Set.lua" />
+    <None Include="config\Equipment_Star.lua" />
+    <None Include="config\Equipment_Upgrade.lua" />
+    <None Include="config\Extreme.lua" />
+    <None Include="config\Fort.json" />
+    <None Include="config\Fortress.lua" />
+    <None Include="config\GBoss.lua" />
+    <None Include="config\GBoss_Rank.lua" />
+    <None Include="config\Gold_Money.lua" />
+    <None Include="config\Gold_Stamnia.lua" />
+    <None Include="config\Gong.lua" />
+    <None Include="config\GongGroup.lua" />
+    <None Include="config\Gong_Pro.lua" />
+    <None Include="config\Grade_Title.lua" />
+    <None Include="config\Guide.lua" />
+    <None Include="config\Haoxia.lua" />
+    <None Include="config\HeroJie.lua" />
+    <None Include="config\Hero_And_Book.lua" />
+    <None Include="config\Hero_Exp.lua" />
+    <None Include="config\Hero_Expend.lua" />
+    <None Include="config\Hero_Stage.lua" />
+    <None Include="config\HotPoint.lua" />
+    <None Include="config\Item.lua" />
+    <None Include="config\JieBuff.lua" />
+    <None Include="config\Jing_Fortress.lua" />
+    <None Include="config\Jing_Stage.lua" />
+    <None Include="config\LevelEvent.lua" />
+    <None Include="config\LoginEvent.lua" />
+    <None Include="config\Lottery.lua" />
+    <None Include="config\Lottery_Extra.lua" />
+    <None Include="config\Lottery_Pool.lua" />
+    <None Include="config\Lovers.lua" />
+    <None Include="config\Mail.lua" />
+    <None Include="config\Men_Damage_Reward.lua" />
+    <None Include="config\Men_Exp.lua" />
+    <None Include="config\Men_Extreme.lua" />
+    <None Include="config\Men_Fortress.lua" />
+    <None Include="config\Men_Robot.lua" />
+    <None Include="config\Men_Shop.lua" />
+    <None Include="config\Men_Stage.lua" />
+    <None Include="config\Mi.lua" />
+    <None Include="config\MiGroup.lua" />
+    <None Include="config\MixGong.lua" />
+    <None Include="config\MixMi.lua" />
+    <None Include="config\Mi_Jie.lua" />
+    <None Include="config\Mi_Pro.lua" />
+    <None Include="config\Nature.lua" />
+    <None Include="config\NewEvent.lua" />
+    <None Include="config\NewTask.lua" />
+    <None Include="config\Notice.lua" />
+    <None Include="config\Npc.json" />
+    <None Include="config\Npc.lua" />
+    <None Include="config\Once_Chong.lua" />
+    <None Include="config\Open.lua" />
+    <None Include="config\Player_Exp.lua" />
+    <None Include="config\Prop.json" />
+    <None Include="config\PVE2_Shop.lua" />
+    <None Include="config\PVE_Damage_Reward.lua" />
+    <None Include="config\PVP_Rank.lua" />
+    <None Include="config\PVP_Reward.lua" />
+    <None Include="config\PVP_Shop.lua" />
+    <None Include="config\PVP_Title.lua" />
+    <None Include="config\Qiyu.lua" />
+    <None Include="config\Qiyu_Shop.lua" />
+    <None Include="config\Recharge.lua" />
+    <None Include="config\Relationship.lua" />
+    <None Include="config\Robot.lua" />
+    <None Include="config\Robot_Pool.lua" />
+    <None Include="config\Scene.json" />
+    <None Include="config\Skill.lua" />
+    <None Include="config\Skill_Expend.lua" />
+    <None Include="config\Stage.lua" />
+    <None Include="config\String.lua" />
+    <None Include="config\Talk.lua" />
+    <None Include="config\Task.lua" />
+    <None Include="config\Tower.lua" />
+    <None Include="config\UserGuide.lua" />
+    <None Include="config\VIP.lua" />
+    <None Include="config\VIP_GIFT.lua" />
+    <None Include="config\VIP_Shop.lua" />
+    <None Include="config\War.lua" />
+    <None Include="config\Weapon.json" />
+    <None Include="config\Xia_Shop.lua" />
+    <None Include="FightEvent.txt" />
+    <None Include="lang.lua" />
+    <None Include="lang_tw.lua" />
+    <None Include="logic\bit.lua" />
+    <None Include="logic\block.lua" />
+    <None Include="logic\cangjian_rank.lua" />
+    <None Include="logic\chat_log.lua" />
+    <None Include="logic\chongzhi_rank.lua" />
+    <None Include="logic\choujiang.lua" />
+    <None Include="logic\cjsz_rank.lua" />
+    <None Include="logic\cmd_base.lua" />
+    <None Include="logic\cmd_equip.lua" />
+    <None Include="logic\cmd_group.lua" />
+    <None Include="logic\cmd_huodong.lua" />
+    <None Include="logic\cmd_knight.lua" />
+    <None Include="logic\cmd_mail.lua" />
+    <None Include="logic\cmd_pve.lua" />
+    <None Include="logic\cmd_pvp.lua" />
+    <None Include="logic\cmd_skill.lua" />
+    <None Include="logic\cmd_test.lua" />
+    <None Include="logic\cmd_trial.lua" />
+    <None Include="logic\cmd_wboss.lua" />
+    <None Include="logic\core_calc_power.lua" />
+    <None Include="logic\core_drop.lua" />
+    <None Include="logic\core_money.lua" />
+    <None Include="logic\core_send_mail.lua" />
+    <None Include="logic\core_task.lua" />
+    <None Include="logic\core_user_funcs.lua" />
+    <None Include="logic\core_vip.lua" />
+    <None Include="logic\fight.lua" />
+    <None Include="logic\FightPve.lua" />
+    <None Include="logic\fight_event.lua" />
+    <None Include="logic\fight_knight.lua" />
+    <None Include="logic\fight_leader.lua" />
+    <None Include="logic\fight_monster.lua" />
+    <None Include="logic\fight_role.lua" />
+    <None Include="logic\fight_skill.lua" />
+    <None Include="logic\global.lua" />
+    <None Include="logic\global_huodong.lua" />
+    <None Include="logic\global_mail.lua" />
+    <None Include="logic\gm.lua" />
+    <None Include="logic\group_cache.lua" />
+    <None Include="logic\gulong_main_define.lua" />
+    <None Include="logic\json.lua" />
+    <None Include="logic\logic_equip.lua" />
+    <None Include="logic\logic_group.lua" />
+    <None Include="logic\logic_huodong.lua" />
+    <None Include="logic\logic_knight.lua" />
+    <None Include="logic\logic_skill.lua" />
+    <None Include="logic\logic_user.lua" />
+    <None Include="logic\log_module.lua" />
+    <None Include="logic\mpz.lua" />
+    <None Include="logic\nick_name.lua" />
+    <None Include="logic\nick_name_ctrl.lua" />
+    <None Include="logic\notify.lua" />
+    <None Include="logic\protobuf.bak" />
+    <None Include="logic\pve.lua" />
+    <None Include="logic\pve2_power.lua" />
+    <None Include="logic\pvp.lua" />
+    <None Include="logic\pvp_rcd.lua" />
+    <None Include="logic\qhaoxia_rank.lua" />
+    <None Include="logic\rank_list.lua" />
+    <None Include="logic\redo_list.lua" />
+    <None Include="logic\reg_cmd.lua" />
+    <None Include="logic\robmine.lua" />
+    <None Include="logic\special.new" />
+    <None Include="logic\special_api.bak" />
+    <None Include="logic\special_api.lua" />
+    <None Include="logic\special_logic.lua" />
+    <None Include="logic\star_main_define.lua" />
+    <None Include="logic\svr_info.lua" />
+    <None Include="logic\TestFightPve.lua" />
+    <None Include="logic\tianji_msg.lua" />
+    <None Include="logic\time_checking.lua" />
+    <None Include="logic\wboss_module.lua" />
+    <None Include="logic\wlzb.lua" />
+    <None Include="logic\worldboss.lua" />
+    <None Include="protobuf.lua" />
+    <None Include="robot.lua" />
+    <None Include="robot1.lua" />
+    <None Include="robot2.lua" />
+    <None Include="robot_tw.lua" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{9750DA31-EEE0-44F3-8E71-16F96DE88C48}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>StarLogic</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

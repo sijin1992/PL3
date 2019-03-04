@@ -1,0 +1,78 @@
+local GROUP_GIFT = {}
+GROUP_GIFT["index"] = {}
+GROUP_GIFT["index"][1] = 1001
+GROUP_GIFT[1001] = {}
+	GROUP_GIFT[1001]["ID"] = 1001
+	GROUP_GIFT[1001]["REWARD_ID"] = 10001
+	GROUP_GIFT[1001]["TITLE_ID"] = "updating"
+	GROUP_GIFT[1001]["MEMO"] = "no_update"
+	GROUP_GIFT[1001]["real_idx"] = 1
+
+GROUP_GIFT["index"][2] = 1002
+GROUP_GIFT[1002] = {}
+	GROUP_GIFT[1002]["ID"] = 1002
+	GROUP_GIFT[1002]["REWARD_ID"] = 10002
+	GROUP_GIFT[1002]["TITLE_ID"] = "updating"
+	GROUP_GIFT[1002]["MEMO"] = "no_update"
+	GROUP_GIFT[1002]["real_idx"] = 2
+
+GROUP_GIFT["index"][3] = 1003
+GROUP_GIFT[1003] = {}
+	GROUP_GIFT[1003]["ID"] = 1003
+	GROUP_GIFT[1003]["REWARD_ID"] = 10003
+	GROUP_GIFT[1003]["TITLE_ID"] = "updating"
+	GROUP_GIFT[1003]["MEMO"] = "no_update"
+	GROUP_GIFT[1003]["real_idx"] = 3
+
+GROUP_GIFT["index"][4] = 1004
+GROUP_GIFT[1004] = {}
+	GROUP_GIFT[1004]["ID"] = 1004
+	GROUP_GIFT[1004]["REWARD_ID"] = 10004
+	GROUP_GIFT[1004]["TITLE_ID"] = "updating"
+	GROUP_GIFT[1004]["MEMO"] = "no_update"
+	GROUP_GIFT[1004]["real_idx"] = 4
+
+GROUP_GIFT["index"][5] = 1005
+GROUP_GIFT[1005] = {}
+	GROUP_GIFT[1005]["ID"] = 1005
+	GROUP_GIFT[1005]["REWARD_ID"] = 10005
+	GROUP_GIFT[1005]["TITLE_ID"] = "updating"
+	GROUP_GIFT[1005]["MEMO"] = "no_update"
+	GROUP_GIFT[1005]["real_idx"] = 5
+
+GROUP_GIFT["index"][6] = 1006
+GROUP_GIFT[1006] = {}
+	GROUP_GIFT[1006]["ID"] = 1006
+	GROUP_GIFT[1006]["REWARD_ID"] = 10006
+	GROUP_GIFT[1006]["TITLE_ID"] = "updating"
+	GROUP_GIFT[1006]["MEMO"] = "no_update"
+	GROUP_GIFT[1006]["real_idx"] = 6
+
+GROUP_GIFT["index"][7] = 1007
+GROUP_GIFT[1007] = {}
+	GROUP_GIFT[1007]["ID"] = 1007
+	GROUP_GIFT[1007]["REWARD_ID"] = 10007
+	GROUP_GIFT[1007]["TITLE_ID"] = "updating"
+	GROUP_GIFT[1007]["MEMO"] = "no_update"
+	GROUP_GIFT[1007]["real_idx"] = 7
+
+GROUP_GIFT["index"][8] = 1008
+GROUP_GIFT[1008] = {}
+	GROUP_GIFT[1008]["ID"] = 1008
+	GROUP_GIFT[1008]["REWARD_ID"] = 10008
+	GROUP_GIFT[1008]["TITLE_ID"] = "updating"
+	GROUP_GIFT[1008]["MEMO"] = "no_update"
+	GROUP_GIFT[1008]["real_idx"] = 8
+
+GROUP_GIFT["index"][9] = 1009
+GROUP_GIFT[1009] = {}
+	GROUP_GIFT[1009]["ID"] = 1009
+	GROUP_GIFT[1009]["REWARD_ID"] = 10009
+	GROUP_GIFT[1009]["TITLE_ID"] = "updating"
+	GROUP_GIFT[1009]["MEMO"] = "no_update"
+	GROUP_GIFT[1009]["real_idx"] = 9
+
+
+GROUP_GIFT["len"] = 9
+
+return GROUP_GIFT

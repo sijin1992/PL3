@@ -1,0 +1,9 @@
+
+
+message FlagShip
+{
+	required string name = 1;
+	required int32 quality = 2;//角色品质
+	required int32 ability = 3;//特殊能力
+	required int32 level = 4;//品阶
+};

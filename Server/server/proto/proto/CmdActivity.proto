@@ -1,0 +1,191 @@
+import "UserSync.proto";
+import "Item.proto";
+
+message GetActivityListResp {
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	repeated int32 id_list = 3;
+}
+
+message ActivityChangeReq {
+	required int32 activity_id = 1;
+	required int32 change_item_id = 2;
+}
+
+message ActivityChangeResp {
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+}
+
+message ActivitySignInReq {
+	required int32 activity_id = 1;
+}
+
+message ActivitySignInResp {
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+}
+
+message ActivitySevenDaysReq {
+	required int32 activity_id = 1;
+	required int32 task_id = 2;
+}
+
+message ActivitySevenDaysResp {
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+}
+
+message ActivityFirstRechargeReq {
+	required int32 activity_id = 1;
+}
+
+message ActivityFirstRechargeResp {
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+}
+
+message ActivityRechargeReq {
+	required int32 activity_id = 1;
+	required int32 id = 2;
+}
+
+message ActivityRechargeResp {
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+}
+
+message ActivityConsumeReq {
+	required int32 activity_id = 1;
+	required int32 id = 2;
+}
+
+message ActivityConsumeResp {
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+}
+
+message ActivityCreditReturnReq {
+	required int32 activity_id = 1;
+	required int32 index = 2;
+}
+
+message ActivityCreditReturnResp {
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	optional int32 return_credit = 3; 
+}
+
+message ActivityOnlineReq {
+	required int32 activity_id = 1;
+	required int32 index = 2;
+}
+
+message ActivityOnlineResp {
+	required int32 result = 1;
+	optional UserSync user_sync = 2; 
+}
+
+message ActivityPowerReq {
+	required int32 activity_id = 1;
+	required int32 index = 2;
+}
+
+message ActivityPowerResp {
+	required int32 result = 1;
+	optional UserSync user_sync = 2; 
+}
+
+message ActivityGrowthFundReq {
+	required int32 activity_id = 1;
+	required int32 type = 2;	//1：购买基金 2：领取基金奖励
+	optional int32 index = 3;
+}
+
+message ActivityGrowthFundResp {
+	required int32 result = 1;
+	optional UserSync user_sync = 2; 
+}
+
+message ActivityInvestReq {
+	required int32 activity_id = 1;
+	required int32 type = 2;	//1:投资 2:撤销投资 3:领取奖励
+	optional int32 index = 3;
+}
+
+message ActivityInvestResp {
+	required int32 result = 1;
+	optional UserSync user_sync = 2; 
+	optional int32 earning = 3;
+}
+
+message ActivityChangeShipReq {
+	required int32 activity_id = 1;
+}
+
+message ActivityChangeShipResp {
+	required int32 result = 1;
+	optional UserSync user_sync = 2; 
+}
+
+message ActivityMonthSignReq {
+	required int32 activity_id = 1;
+	required int32 type = 2;	//1:签到  2:领取宝箱
+	required int32 index = 3;
+}
+
+message ActivityMonthSignResp {
+	required int32 result = 1;
+	optional UserSync user_sync = 2; 
+}
+
+message ActivityVIPPackReq {
+	required int32 level = 1; //领取/购买礼包等级
+	required int32 type = 2;  //1:领取礼包  2:购买礼包
+}
+
+message ActivityVIPPackResp {
+	required int32 result = 1; 
+	optional UserSync user_sync = 2;  
+}
+
+message ActivityEveryDayReq {
+	required int32 activity_id = 1;
+	required int32 id = 2; //礼包ID
+}
+
+message ActivityEveryDayResp {
+	required int32 result = 1; 
+	optional UserSync user_sync = 2; 
+}
+
+message ActivityTurntableReq {
+	required int32 activity_id = 1;
+	optional int32 id = 2; //暂时先不用,预留
+}
+
+message ActivityTurntableResp {
+	required int32 result = 1;
+	optional UserSync user_sync = 2; 
+	required int32 index = 3 ;
+	repeated Pair get_item_list = 4;	//获得道具
+}
+
+message ActivityAdvancedMoneyReq {
+	required int32 activity_id = 1;
+	required int32 id = 2; 
+}
+
+message ActivityAdvancedMoneyResp {
+	required int32 result = 1;
+	optional UserSync user_sync = 2; 
+}
+
+message ActivityExchangeItemReq {
+	required int32 id = 1; //礼包ID
+}
+
+message ActivityExchangeItemResp {
+	required int32 result = 1;
+	optional UserSync user_sync = 2; 
+}

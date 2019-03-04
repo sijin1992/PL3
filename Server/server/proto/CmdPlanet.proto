@@ -1,0 +1,187 @@
+import "Planet.proto";
+import "UserInfo.proto";
+import "UserSync.proto";
+
+
+//获取数据
+message PlanetGetReq{
+	required int32 type = 1;	//1:planet_user 2:node_data 3:element 4:army_line 5:mail_user 6:通过army_key获得army 7:通过army_key获得army info
+	repeated int32 node_id_list = 2;
+	repeated string element_global_key_list = 3;
+	repeated string army_line_key_list = 4;
+	repeated string army_key_list = 5;
+};
+
+message PlanetGetResp
+{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	required int32 type = 3;
+	optional PlanetUser planet_user = 4;
+	repeated PlanetNode node_list = 5;
+	repeated PlanetElement element_list = 6;
+	repeated PlanetArmyLine planet_army_line_list = 7;
+	repeated PlanetMailUser mail_user_list = 8;
+	repeated PlanetArmyInfo army_info_list = 9;
+	repeated PlanetArmy army_list = 10;
+};
+
+//采集
+message PlanetCollectReq{
+
+	required string res_global_key = 1;
+	repeated int32 lineup = 2;
+};
+
+message PlanetCollectResp{
+	enum PlanetCollectRet
+	{
+		OK = 0;
+		FAIL = -1;
+		ERROR_TYPE = 1;
+		REQ_ERROR = 2;
+		LINEUP_ERROR = 3;
+		NO_DURABLE = 4;
+		FIXING = 5;
+		OUTING = 6;
+		ARMY_NUM_MAX = 7;
+		MY_RES = 8;
+		RES_MAX_LOAD = 9;
+		ERROR_GROUP = 10;
+		NO_STORAGE = 11;
+		ALREADY_COLLECT = 12;
+	};
+	required PlanetCollectRet result = 1;
+	optional UserSync user_sync = 2;
+	optional PlanetUser planet_user = 3;
+};
+
+//回收队列
+message PlanetRideBackReq{
+	required int32 type = 1; 	//1:回收队列(MoveEnd) 2:命令返回(!MoveEnd)
+	required int32 army_guid = 2;
+};
+
+message PlanetRideBackResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	optional PlanetUser planet_user = 3;
+};
+
+
+//废墟
+message PlanetRuinsReq{
+	required string element_global_key = 1;
+	repeated int32 lineup = 2;
+};
+
+message PlanetRuinsResp{
+	enum PlanetRuinsRet
+	{
+		OK = 0;
+		FAIL = -1;
+		ERROR_TYPE = 1;
+		REQ_ERROR = 2;
+		LINEUP_ERROR = 3;
+		NO_DURABLE = 4;
+		FIXING = 5;
+		OUTING = 6;
+		ARMY_NUM_MAX = 7;
+		NO_TYPE = 8;
+		NO_STRENGTH = 9;
+	};
+	required PlanetRuinsRet result = 1;
+	optional UserSync user_sync = 2;
+	optional PlanetUser planet_user = 3;
+};
+
+//突袭
+message PlanetRaidReq{
+	repeated int32 type_list = 1;	//1：攻击基地 2：侦查 3:驻扎 4:征招([2]下一步行为) 5:陪同 6:攻击据点 7:攻击人工智能基地 8:被驻扎者退回驻扎队伍 9:被陪同者退回陪同队伍
+	required string element_global_key = 2;	//type:1,2,3,4,5,7
+	repeated int32 lineup = 3;	//type:1,2,4,3,5
+	optional string army_key = 4; 	//(user_name)_(army_guid) type:5,8,9
+	optional int32 mass_level = 5;	//type:4
+};
+
+message PlanetRaidResp{
+	enum PlanetRaidRet
+	{
+		OK = 0;
+		FAIL = -1;
+		ERROR_TYPE = 1;
+		REQ_ERROR = 2;
+		LINEUP_ERROR = 3;
+		NO_DURABLE = 4;
+		FIXING = 5;
+		OUTING = 6;
+		ARMY_NUM_MAX = 7;
+		NOT_OPEN = 8;
+		ERROR_GROUP = 9;
+		ERROR_STATUS = 10;
+		NO_STRENGTH = 11;
+		NO_GROUP = 12;
+		ALREADY_GUARDE = 13;
+		ALREADY_ACCOMPANY = 14;
+		ALREADY_REQ_ACCOMPANY = 15;
+		NO_GROUP_POWER = 16;
+		NO_BASE_POWER = 17;
+		SHIELD = 18;
+	};
+	required PlanetRaidRet result = 1;
+	optional UserSync user_sync = 2;
+	optional PlanetUser planet_user = 3;
+};
+
+message PlanetSpeedUpReq{
+	required string army_key = 1;
+	required int32 type = 2;	//加速类型
+};
+
+message PlanetSpeedUpResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	optional PlanetArmy army = 3;
+};
+
+message PlanetShieldReq{
+	required int32 item_id = 1;
+};
+
+message PlanetShieldResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+};
+
+message PlanetMoveBaseReq{
+	required int32 type = 1; 	//1:指定迁城 2：随机迁城
+	optional PlanetPoint pos = 2;	//全局位置
+};
+
+message PlanetMoveBaseResp{
+	enum PlanetMoveBaseRet
+	{
+		OK = 0;
+		FAIL = -1;
+		NO_ITEM = 1;
+		HAS_ELEMENT = 2;
+		ERROR_NATION = 3;
+		ERROR_CITY = 4;
+		ERROR_POS = 5;
+	};
+	required PlanetMoveBaseRet result = 1;
+	optional UserSync user_sync = 2;
+	optional PlanetUser planet_user = 3;
+};
+
+message PlanetMarkReq{
+	required int32 type = 1; 	//1:加书签 2：删书签
+	optional string name = 2;
+	optional PlanetPoint pos = 3;
+};
+
+message PlanetMarkResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	repeated PlanetMark mark_list = 3;
+};

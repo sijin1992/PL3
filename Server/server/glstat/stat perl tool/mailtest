@@ -1,0 +1,61 @@
+#!/usr/bin/perl
+
+
+my $self = "./mailtest";
+
+my $usecase = sprintf(
+"
+$self [-d enddate]/[+] days (-c)
+
+'-d enddate' specify the enddate e.g. -d 20141124 specify the enddate to 20141124,default is yestoday.				
+
+'days' specify the shift days backword from enddate default is 7.			
+
+'+' specify the enddate to today 					
+-c to clean the cache stat file
+$self -h or --help to show help info
+
+\n");	
+
+use Net::SMTP;
+
+sub send_mail
+{
+	my $to_address = shift;
+	my $mail_user = 'root';
+	my $mail_pwd = 'test';
+	my $mail_server = 'localhost';
+	
+	my $from = "From: $mail_user\n";
+	my $subject = "Subject: Star Statistics Info\n";
+	my $statfile = `cat printoutfile`;
+	my $message = <<CONTENT;
+	**********************
+		Star Stat Info
+	**********************
+CONTENT
+
+	my $smtp = Net::SMTP->new($mail_server);
+	print("smtp:$smtp\n");
+	$smtp or die "new smtp failed\n";
+	my $ok = $smtp->auth($mail_user, $mail_pwd);
+	print("ok:$ok \n");
+	#{
+		#die "Auth Error! &!";
+	#}
+	
+	$smtp->mail($mail_user);
+	$smtp->to($to_address);
+	
+	$smtp->data();					#begin the data;
+	$smtp->datasend($from);	#set user;
+	$smtp->datasend($subject); #set subject
+	#$smtp->datasend($message); #content
+	$smtp->datasend($statfile); #content
+	$smtp->dataend();
+	
+	$smtp->quit();
+}
+
+&send_mail("lifan@thedream.cc");
+

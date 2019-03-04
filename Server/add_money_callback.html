@@ -1,0 +1,74 @@
+<html>
+<head>
+<script type="text/javascript">
+function strimspace(value)
+{
+	if(typeof(value)=="string")
+	{
+		value = value.replace(/^\s*/,'');
+		value = value.replace(/\s*$/,'');
+	}
+	return value;
+}
+
+function checkIsNum(value,name)
+{
+	if(!value)
+	{
+		alert("need "+name);
+		return false;
+	}
+
+	if(!value.match(/^-?\d+$/))
+	{
+		alert(name+" not num");
+		return false;
+	}
+
+	return true;
+}
+
+function dosubmit()
+{
+	tuid = document.getElementById("uid").value;
+	if(!tuid)
+	{
+		alert("need uid");
+		return;
+	}
+	tmoney = strimspace(document.getElementById("amount").value);
+	torderno = strimspace(document.getElementById("orderno").value);
+	titem = strimspace(document.getElementById("item_id").value);
+	if(!checkIsNum(tmoney,"money") || !checkIsNum(torderno, "orderno") || !checkIsNum(titem, "item_id"))
+	{
+		return;
+	}
+    desurl="http://10.10.1.153:14081/xxx?uid="+tuid+"&sid=0&orderno="+torderno+"&amount="+tmoney+"&status=0&htnonce=0&httoken=123&extinfo="+titem;
+	alert(desurl);
+	document.getElementById("resultframe").src = desurl;
+}
+</script>
+</head>
+<body>
+<table>
+<tr>
+<td>uid</td>
+<td><input type="text" id="uid" /></td>
+</tr>
+<tr>
+<td>orderno</td>
+<td><input type="text" id="orderno" value="0"/></td>
+</tr>
+<tr>
+<td>amount</td>
+<td><input type="text" id="amount" value="0"/></td>
+</tr>
+<tr>
+<td>item_id</td>
+<td><input type="text" id="item_id" value="0"/></td>
+</tr>
+</table>
+<input type="button" value="ok" onclick="dosubmit()" /><br/>
+<iframe id="resultframe"></iframe>
+</body>
+</html>

@@ -1,0 +1,27 @@
+
+message Gem
+{
+	required int32 id = 1;
+	required int32 num = 2;
+}
+
+message Equip
+{
+	required int32 guid = 1;
+	required int32 equip_id = 2;
+	required int32 ship_id = 3;
+	required int32 type = 4;     //传感器,护甲,两侧机翼,引擎
+	required int32 quality = 5; //白绿蓝紫橙
+	required int32 status = 6;  //0：未装备 1：装备
+	required int32 level = 7; 
+
+	required int32 strength = 8; //强化等级
+    	repeated int32 attributes_base = 9;	//基本属性 
+}
+
+message ForgeEquip
+{
+	required int32 guid = 1;
+	required int32 equip_id = 2;
+	required int64 start_time = 3;
+}

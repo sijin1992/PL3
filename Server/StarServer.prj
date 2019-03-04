@@ -1,0 +1,14 @@
+[Project ID]
+Signature=UE Proj: v.1
+[Project Information]
+Use Relative Directory=1
+Relative to Project File=1
+Include Sub Directories=1
+Project Tagfile=
+Project Wordfile=
+Filter=
+Create Tagfile=0
+[Files]
+0=Y:\usr\local\services\star_server\bin\logic\main_logic\lua\
+1=Y:\usr\local\services\star_server\svr80001\
+2=.\server\lua\

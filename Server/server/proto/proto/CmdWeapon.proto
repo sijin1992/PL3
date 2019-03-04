@@ -1,0 +1,174 @@
+
+
+import "AirShip.proto";
+import "UserSync.proto";
+
+message GetShipListReq
+{
+	required int32 ship_id = 1;
+}
+
+message GetShipListResp
+{
+	required int32 result = 1;
+	optional AirShip ship_info = 2;
+	repeated AirShip ship_list = 3;
+}
+
+message ChangeLineupReq
+{
+	required int32 type = 1;	//1:默认阵容 2:预设阵容 3:改名
+	repeated int32 lineup = 2;
+	optional int32 index = 3;
+	optional string line_name = 4;
+}
+
+message ChangeLineupResp
+{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	repeated int32 lineup = 3;
+	required int32 type = 4;
+}
+
+message ChangeWeaponReq
+{
+	required int32 type = 1;
+	optional int32 ship_id = 2;
+	optional int32 gift = 3;
+	optional int32 skill = 4;
+	repeated int32 weapon_list = 5;
+}
+
+message ChangeWeaponResp
+{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	optional int32 ship_id = 3;
+	optional int32 gift = 4;
+	optional int32 skill = 5;
+	repeated int32 weapon_list = 6;
+}
+
+message ShipDevelopeReq
+{
+	required int32 type = 1;
+	required int32 ship_id = 2;
+}
+
+message ShipDevelopeResp
+{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	optional int32 ship_id = 3;
+	optional int32 ship_guid = 4;
+}
+
+message BlueprintDevelopeReq
+{
+	required int32 type = 1; //1:制造 2:收取 3:加速 4:取消
+	required int32 blueprint_id = 2;
+}
+
+message BlueprintDevelopeResp
+{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	optional int32 blueprint_id = 3;
+	optional int32 type = 4;
+	optional bool crit = 5;
+	optional int32 num = 6;
+}
+
+message ShipRemoveReq
+{
+	required int32 type = 1;
+	optional int32 ship_guid = 2;
+}
+
+message ShipRemoveResp
+{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+}
+
+
+message WeaponUpgradeReq
+{	
+	required int32 type = 1; //0:升级武器，1:更新武器列表
+	optional int32 guid = 2;
+	optional int32 weapon_id = 3;	
+}
+
+message WeaponUpgradeResp
+{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	optional int32 type = 3;
+	optional int32 guid = 4;
+	optional int32 weapon_id = 5;
+}
+
+//飞船突破
+message ShipBreakReq
+{
+	required int32 ship_guid = 1;
+}
+
+message ShipBreakResp
+{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	optional int32 ship_guid = 3;
+	optional int32 ship_break = 4;      //飞船突破到的新等级
+}
+
+//飞船吃经验道具
+message ShipAddExpReq
+{
+	required int32 ship_guid = 1;
+	repeated int32 item_id_list = 2;
+	repeated int32 item_num_list = 3;
+}
+
+message ShipAddExpResp
+{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+}
+
+//飞船修理请求
+message ShipFixReq
+{
+	required int32 type = 1; //1:查看修理状态 2：进入修理状态 3:取消修理状态 4:加速完成修理
+	repeated int32 guids = 2;
+}
+
+message ShipFixResp
+{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+}
+
+message ShipAddEnergyExpReq
+{
+	required int32 ship_guid = 1;
+	repeated int32 res_list = 2;
+}
+
+message ShipAddEnergyExpResp
+{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+}
+
+//能量解锁
+message ShipLockEnergyTimeReq
+{
+
+}
+message ShipLockEnergyTimeResp
+{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+}

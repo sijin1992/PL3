@@ -1,0 +1,6 @@
+dbtype = mysql
+dbname = db_gl_caiwu
+host = localhost
+user = root
+passwd = 
+port = 3006

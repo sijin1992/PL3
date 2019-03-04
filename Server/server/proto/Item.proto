@@ -1,0 +1,23 @@
+message Pair
+{
+	required int32 key = 1;
+	required int32 value = 2;
+}
+
+message Item
+{
+    required int32 id = 1;              //物品id
+    required int32 num = 2;             //物品堆叠数量
+    required int32 guid = 3;
+}
+
+message ItemList
+{
+    repeated Item item_list = 1;        //物品背包
+}
+
+message GeneralGoods
+{
+    optional Item item = 1;
+    optional int32 cost = 2;            //消耗的单位不在这里记录，反正各个逻辑自己知道
+}

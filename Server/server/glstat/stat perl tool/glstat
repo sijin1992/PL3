@@ -1,0 +1,186 @@
+#!/usr/bin/perl -w
+
+#$ENV{'LOG_DIR'} = "./ext_info";
+$ENV{'NAME_CONF_FILE'} = "nameconf";
+
+use strict;
+
+my $self = "./glstat";
+
+my $usecase = sprintf(
+"
+$self [-d enddate]/[+] days (-c)
+$self [-d enddate]/[+] days [-l/--levels] 
+$self [-d enddate]/[+] days [-s type -u user]
+
+'-d enddate' specify the enddate e.g. -d 20141124 specify the enddate to 20141124,default is yestoday.				
+
+'days' specify the shift days backword from enddate default is 7.			
+
+'+' specify the enddate to today 					
+-c to clean the cache stat file
+$self -h or --help to show help info
+
+\n");	
+
+my $argnum = @ARGV;
+my $enddate = `date -d yesterday +%Y%m%d`;
+my $days = 7;
+my $showlevels = 0;
+my $levelsector = 10;
+my $showsingle = 0;
+my $singletype;
+my $singleuser;
+my $needclean;
+
+if( grep(/-h|--help/, @ARGV) )
+{
+	die($usecase);	
+}
+ 
+if( grep(/\+/, @ARGV) )
+{
+	$enddate = `date +%Y%m%d`;
+} 
+
+my $argstr = join(" ", @ARGV);
+
+#pattern the -d enddate str
+if( $argstr =~ /-d\s*(\d+)/ )
+{
+	my $endstr = $&;
+	#printf("get endsting:$endstr\n");
+	$argstr =~ s/-d\s*(\d+)//;
+	$endstr = $1;
+	unless( $endstr =~ /(\d{8})/ )
+	{
+		die("datetime need format; YYmmdd e.g. 20140102\n");
+	}
+	$enddate = $1;
+}
+
+if( $argstr =~ /--levels_regist/ or $argstr =~ /-lr/ )
+{
+	#printf("showlevels: $&\n");
+	$showlevels = -1;	
+}
+
+if( not $showlevels and $argstr =~ /--levels_liushi/ or $argstr =~ /-ls/ )
+{
+	#printf("showlevels: $&\n");
+	$showlevels = 2;	
+}
+
+if( not $showlevels and $argstr =~ /--levels_liucun/ or $argstr =~ /-lc/ )
+{
+	#printf("showlevels: $&\n");
+	$showlevels = 3;	
+} 
+
+if( not $showlevels and $argstr =~ /--levels_allreg/ or $argstr =~ /-la/ )
+{
+	#printf("showlevels: $&\n");
+	$showlevels = 4;	
+} 
+
+if( not $showlevels and ($argstr =~ /--levels/ or $argstr =~ /-l/) )
+{
+	#printf("showlevels: $&\n");
+	$showlevels = 1;	
+} 
+
+if( $showlevels and ($argstr =~ /--level-sector=\s*(\d+)/) )
+{
+	#printf("showlevels: $&\n");
+	$levelsector = $1;	
+} 
+
+
+if( $argstr =~ /-s\s*/ )
+{
+	my $pre = $&;
+	unless($argstr =~ /-s\s*\S+/ )
+	{
+		print("need -s type. e.g. $self -s LOGIN\n");
+	}
+	my $total = $&;
+	$singletype = substr($total, length($pre));
+	#print("pre:$pre, total:$total singletype:$singletype\n");
+	$showsingle = 1;
+} 
+
+if( $argstr =~ /-u\s*/)
+{
+	my $pre = $&;
+	unless($argstr =~ /-u\s*\S+/ )
+	{
+		die("need -s type. e.g. $self -s LOGIN -u USER1");
+	}
+	my $total = $&;
+	$singleuser = substr($total, length($pre));
+	#print("pre:$pre, total:$total singleuser:$singleuser\n");
+}
+
+if( $argstr =~ /-c/)
+{
+	$needclean = 1;
+}
+
+#pattern days
+if( $argstr =~ /\s+(\d+)/ )
+{
+	$days = $1;
+} 
+ 
+chomp($enddate);
+printf("enddate:$enddate, days:$days\n");
+
+#unless( $argnum >= 1 )
+#{
+
+	#die("glstat need a paramater:[filename]\n");
+
+#}
+
+#logstat pointer map, key = date, value = pointer to logstat
+
+push(@INC, `pwd`);
+
+use MainInfo;
+use LevelsInfo;
+use SingleInfo;
+
+my $lasttime = time();
+
+if( $showlevels )
+{
+	my $levelsinfo = new LevelsInfo($enddate, $days, $levelsector);
+	#print("showlevels:$showlevels\n");
+	$levelsinfo->show($showlevels-1);
+}
+elsif( $showsingle )
+{
+	my $singleinfo = new SingleInfo($enddate, $days);
+	$singleinfo->show($singletype, $singleuser);
+}
+else
+{
+	if( $days > 7 ) 
+	{
+		print("days:$days > 7, set to 7\n");
+		$days = 7;
+	}
+	my $maininfo = new MainInfo($enddate, $days);
+	if( $needclean )
+	{
+		$maininfo->clean();
+	}
+	else
+	{
+		$maininfo->show();
+	}
+}
+
+my $nowtime = time();
+
+printf("use time sec:%d\n", $nowtime - $lasttime);

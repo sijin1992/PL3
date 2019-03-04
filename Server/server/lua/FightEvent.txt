@@ -1,0 +1,71 @@
+EventWin =
+{
+	id = 1, 
+	values = {isWin , time, ownerHit, enemyHit, ownerShip, ownerShipCount,enemyShip, enemyShipCount} --1:win 2:lose
+}
+
+EventAttack =
+{
+	id = 2,
+	values  ={ weapon_id}
+	attack_list =
+	{
+		{pos ={1,2,2} , values ={{key,value},{key,value}, buffs = {buff_id} },
+	},
+    	hurter_list=
+	{
+        	{pos = , values = , status}, -- status 1:normal  2:dead  4:miss  8:Crit
+	},
+    
+}
+
+
+ResetEventBuff =
+{
+	id = 3,
+	values  ={ weapon_id }
+	hurter_list =
+	{
+		{pos = , buffs = -buff_id}, --add:buff_id  remove:-buff_id
+	}
+}
+
+EventRoundStart =
+{
+	id = 4,
+	values  = {round}
+}
+
+
+EventCreateBuff =
+{
+	id = 5,
+	values  = { weapon_id,buff_index}
+	attack_list =
+	{
+		{pos ={1,2,2}},
+	},
+
+	hurter_list =
+	{
+		{pos = , buffs = buff_id}, --add:buff_id
+	}
+    
+}
+
+EventAttackList = {
+	id = 6
+	values  = {1} --[1]type 1:reset 2 remove 3 next 4 insert
+	attack_list =
+	{
+		{pos ={1,2,2} ,},{pos ={1,2,2} ,},{pos ={1,2,2} , }
+	},
+}
+
+EventEnergy = {
+	id = 7
+	attack_list =
+	{
+		{pos ={1,2,2} ,values= {1,10}},
+	},
+}

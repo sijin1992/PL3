@@ -1,0 +1,3 @@
+EnableCache = 1;
+cachedir=./cache;
+logdir=./ext_info;

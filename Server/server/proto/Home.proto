@@ -1,0 +1,17 @@
+
+message LandInfo
+{
+	required int32 land_index	 	  = 1;	//土地编号
+	optional int32 resource_type 	  = 2;	//资源类型  id号
+	optional int32 resource_level 	  = 3;  //资源等级
+	optional int32 resource_status 	  = 4;  //资源状态  1:建造  2:生产  3:拆除
+	optional int32 res_refresh_times  = 5;  //上次结算时间
+	optional int32 resource_num		  = 6;	//当前土地资源数量
+	optional bool helped = 7;
+}
+
+message HomeSystemInfo
+{
+	optional int32  max_land_num = 1;	//开启土地数目
+	repeated LandInfo land_info  = 2;
+}

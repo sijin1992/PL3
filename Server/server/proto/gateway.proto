@@ -1,0 +1,37 @@
+//server内部协议 authtask
+//import "prizeprotocol.proto";
+
+message AuthReq
+{
+	required string key=1;
+	optional string domain=2; //朋友=2，qzone=1
+}
+
+message AuthResp
+{
+	enum Result{
+		OK=0;
+		FAIL=-1;
+		NOAUTH=1;
+	}
+	required Result result = 1;
+	//optional QzoneVipInfo qzonevip = 2;
+}
+
+message QQLogReq
+{
+	enum LOGTYPE{
+		REGIST=1;
+		LOGIN=2;
+		LOGOUT=3;
+		PAYMENT=4;
+		ONLINE_STAT=5;
+	}
+	required LOGTYPE logtype = 1;
+	repeated string values = 2;
+	repeated string names = 3;
+	optional int32 userip= 4;
+	optional string userkey = 5;
+	optional int32 domain=6;//朋友=2，qzone=1
+}
+

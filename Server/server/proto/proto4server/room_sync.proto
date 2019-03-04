@@ -1,0 +1,30 @@
+message JoinRoomReq
+{
+    required bytes name = 1;
+    required int32 room_id = 2;
+};
+
+message JoinRoomResp
+{
+    optional int32 nothing = 1;
+};
+
+message PlayerInRoomInfo
+{
+    required bytes name = 1;
+    required int32 posi_x = 2; //32位数字，高16位为x，低16位为y
+    required int32 posi_y = 3;
+    required int32 avatar = 4;// 暂时不知道avatar会是怎样的结构，32位应该够了
+}; //单个玩家在城镇中的信息。
+
+message RoomSyncResp
+{
+    required int32 room_id = 1;
+    repeated PlayerInRoomInfo player_list = 2;
+};
+
+message PlayerMoveInRoomReq
+{
+    required int32 posi_x = 1;
+    required int32 posi_y = 2;
+};

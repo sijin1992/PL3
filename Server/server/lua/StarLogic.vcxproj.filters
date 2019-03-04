@@ -1,0 +1,602 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="config">
+      <UniqueIdentifier>{a85e450b-4796-48cb-bd30-89a2d1c3c4c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="logic">
+      <UniqueIdentifier>{9406d707-934b-414c-a5e2-0c509c223bb7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="all_config.lua" />
+    <None Include="configuration.lua" />
+    <None Include="lang.lua" />
+    <None Include="lang_tw.lua" />
+    <None Include="protobuf.lua" />
+    <None Include="robot.lua" />
+    <None Include="robot_tw.lua" />
+    <None Include="robot1.lua" />
+    <None Include="robot2.lua" />
+    <None Include="config\Achievement.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Acivity_Qian.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Activity.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Activity_Cai.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Activity_Chong.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Activity_DuiPool.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Activity_DuiShop.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Activity_ios.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Activity_Jifen.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Activity_Jifen_C.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Activity_Level.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Activity_Login.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Activity_Qian.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Activity_Recharge.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Activity_Xiao.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\AirShip.json">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Book.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Book_Expend.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Box.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Buff.json">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Cang_Goods.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Cang_Quan.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Cang_Rank.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Cang_Shop.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Character.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Character_Expend.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Con_Chong.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Convert.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Daily.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Dispute.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Dispute_Lay.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Disputebuff.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\DNature.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Drop.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Drop.lua.bak">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Equipment_Name.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Equipment_Set.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Equipment_Star.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Equipment_Upgrade.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Extreme.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Fort.json">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Fortress.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\GBoss.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\GBoss_Rank.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Gold_Money.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Gold_Stamnia.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Gong.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Gong_Pro.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\GongGroup.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Grade_Title.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Guide.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Haoxia.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Hero_And_Book.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Hero_Exp.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Hero_Expend.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Hero_Stage.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\HeroJie.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\HotPoint.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Item.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\JieBuff.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Jing_Fortress.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Jing_Stage.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\LevelEvent.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\LoginEvent.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Lottery.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Lottery_Extra.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Lottery_Pool.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Lovers.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Mail.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Men_Damage_Reward.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Men_Exp.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Men_Extreme.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Men_Fortress.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Men_Robot.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Men_Shop.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Men_Stage.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Mi.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Mi_Jie.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Mi_Pro.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\MiGroup.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\MixGong.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\MixMi.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Nature.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\NewEvent.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\NewTask.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Notice.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Npc.json">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Npc.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Once_Chong.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Open.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Player_Exp.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Prop.json">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\PVE_Damage_Reward.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\PVE2_Shop.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\PVP_Rank.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\PVP_Reward.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\PVP_Shop.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\PVP_Title.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Qiyu.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Qiyu_Shop.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Recharge.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Relationship.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Robot.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Robot_Pool.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Scene.json">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Skill.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Skill_Expend.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Stage.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\String.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Talk.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Task.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Tower.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\UserGuide.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\VIP.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\VIP_GIFT.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\VIP_Shop.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\War.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Weapon.json">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config\Xia_Shop.lua">
+      <Filter>config</Filter>
+    </None>
+    <None Include="logic\bit.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\block.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\cangjian_rank.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\chat_log.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\chongzhi_rank.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\choujiang.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\cjsz_rank.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\cmd_base.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\cmd_equip.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\cmd_group.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\cmd_huodong.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\cmd_knight.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\cmd_mail.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\cmd_pve.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\cmd_pvp.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\cmd_skill.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\cmd_test.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\cmd_trial.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\cmd_wboss.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\core_calc_power.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\core_drop.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\core_money.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\core_send_mail.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\core_task.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\core_user_funcs.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\core_vip.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\fight.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\fight_event.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\fight_knight.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\fight_leader.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\fight_monster.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\fight_role.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\fight_skill.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\FightPve.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\global.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\global_huodong.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\global_mail.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\gm.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\group_cache.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\gulong_main_define.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\json.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\log_module.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\logic_equip.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\logic_group.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\logic_huodong.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\logic_knight.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\logic_skill.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\logic_user.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\mpz.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\nick_name.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\nick_name_ctrl.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\notify.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\protobuf.bak">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\pve.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\pve2_power.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\pvp.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\pvp_rcd.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\qhaoxia_rank.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\rank_list.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\redo_list.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\reg_cmd.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\robmine.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\special.new">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\special_api.bak">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\special_api.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\special_logic.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\star_main_define.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\svr_info.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\TestFightPve.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\tianji_msg.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\time_checking.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\wboss_module.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\wlzb.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="logic\worldboss.lua">
+      <Filter>logic</Filter>
+    </None>
+    <None Include="FightEvent.txt" />
+  </ItemGroup>
+</Project>

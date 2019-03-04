@@ -1,0 +1,103 @@
+import "Item.proto";
+import "Stage.proto";
+import "Trial.proto";
+
+message ChangeData {
+	repeated Pair limit_list = 1;
+}
+
+message RechargeData {
+	required int32 recharge_money = 1;	//信用点
+	repeated int32 getted_id_list = 2;	//已领取奖励ID列表
+}
+
+message ConsumeData {
+	required int32 consume = 1;
+	repeated int32 getted_id_list = 2;	//已领取奖励ID列表
+}
+
+message SignInData {
+	required int32 cur_day = 1;
+	required bool getted_today = 2;
+}
+
+message SevenDaysData {
+	repeated int32 getted_reward_list = 1;	//已领取奖励的任务ID
+
+	repeated LevelInfo level_info = 2;
+	optional int32 building_levelup_count = 3;
+	optional int32 home_levelup_count = 4;
+	optional int32 ship_levelup_count = 5;
+	optional int32 equip_strength_count = 6;
+	optional int32 ship_break_count = 7;
+	optional int32 already_challenge_times = 8;	//arena挑战次数
+	optional int32 win_challenge_times = 9;	//arena胜利次数
+	optional int32 contribute_times = 10;	//公会捐献次数
+	optional int32 recharge_money = 11;	//充值信用点
+	optional int32 consume_money = 12;	//消费信用点
+	optional int32 sign_in_days = 13;	//登陆
+	optional int32 lottery_count = 14;	//抽奖
+	optional int32 money_lottery_count = 15;	//元宝抽奖
+
+	repeated TrialLevel trial_level_list = 16;	
+
+	optional int32 technology_levelup_count = 17;	//科技升级次数
+	optional int32 weapon_levelup_count = 18;	//武器技能升级次数
+}
+
+message CreditReturnData {
+	required int32 return_index = 1;	//已兑换到第几个索引
+}
+
+message OnlineData {
+	repeated int32 get_indexs = 1;	//已兑换的索引
+}
+
+message PowerData {
+	repeated int32 get_indexs = 1;	//已兑换的索引
+}
+
+message FirstRechargeData {
+	required bool getted_reward = 1;	//是否已领取奖励
+}
+
+message GrowthFundData {
+	required bool purchased = 1;	//是否已购买
+	repeated int32 get_indexs = 2;	//已兑换的索引
+}
+
+message InvestData{
+	required int32 index = 1;	//已兑换到第几个索引
+	required int64 start_time = 2;	//投资开始时间
+}
+
+message ChangeShipData{
+	required bool getted_reward = 1;	//是否已领取奖励
+}
+
+message MonthSignData{
+	
+	required int32 resign_times = 1; //已补签次数
+	repeated int32 get_nums = 2;	//已兑换的次数 索引既是第几天
+	repeated bool get_rewards = 3; //已领取的宝箱 索引既是序号
+}
+
+message Activity {
+	required int32 id = 1;
+	required int32 type = 2;
+	required int64 start_time = 3;
+	required int64 end_time = 4;
+	optional ChangeData change_data = 5;
+	optional RechargeData recharge_data = 6;
+	optional SignInData sign_in_data = 7;
+	optional SevenDaysData seven_days_data = 8;
+	optional FirstRechargeData first_recharge_data = 9;
+	optional CreditReturnData credit_retrun_data = 10;
+	optional ConsumeData consume_data = 11;
+	optional OnlineData online_data = 12;
+	optional PowerData power_data = 13;
+	optional GrowthFundData growth_fund_data = 14;
+	optional InvestData invest_data = 15;
+	optional ChangeShipData change_ship_data = 16;
+	optional MonthSignData month_sign_data = 17;
+}

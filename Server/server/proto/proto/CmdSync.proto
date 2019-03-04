@@ -1,0 +1,9 @@
+
+
+import "UserSync.proto";
+
+message UserSyncResp
+{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+}

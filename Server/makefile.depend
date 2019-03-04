@@ -1,0 +1,7 @@
+MYSQL_INCLUDE=../../../ext/mysql-5.1.36/include/
+MYSQL_LIB=-L../../../ext/mysql-5.1.36/libmysql_r/.libs -lmysqlclient_r -lpthread -ldl 
+STATIC_MYSQL_LIB=../../../ext/mysql-5.1.36/libmysql_r/.libs/libmysqlclient_r.a -lpthread -ldl -lz
+PROTOBUFF_LIB=-Wl,-rpath,/usr/local/services/star_server/lib/ /usr/local/protobuf/lib/libprotobuf.so -pthread -lz
+#STATIC_LIBMEMCACHED=/usr/local/lib/libmemcached.a
+LUA_INCLUDE=../../../ext/lua/lua-5.2.4/src
+LUA_LIB=-Wl,-rpath,/usr/local/services/star_server/lib/ -L../../../ext/lua/lua-5.2.4/src -llua -ldl -lm

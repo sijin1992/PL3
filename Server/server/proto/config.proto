@@ -1,0 +1,29 @@
+
+
+//配置的值
+message ConfValue
+{
+	optional int32 val_int = 1; //数值型值
+	optional int64 val_long = 2; //长度型值
+	optional string val_string = 3; //字串型值 
+}
+
+//配置的条目(单行)
+message ConfigRow
+{
+	repeated ConfValue values = 1; //值数组 
+}
+
+//配置表
+message ConfigTable
+{
+	repeated string fields = 1; //列名
+	repeated ConfigRow rows = 2; //条目
+}
+
+
+message nick_name_ctrl
+{
+	required string user_name = 1;
+	required int32 flag = 2;
+}

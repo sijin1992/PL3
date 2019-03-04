@@ -1,0 +1,113 @@
+#!/usr/bin/perl
+
+$ENV{'LOG_DIR'} = "./ext_info";
+$ENV{'NAME_CONF_FILE'} = "nameconf";
+
+my $self = "./glstatmail";
+
+my $usecase = sprintf(
+"
+$self [-d enddate]/[+] days (-c)
+
+'-d enddate' specify the enddate e.g. -d 20141124 specify the enddate to 20141124,default is yestoday.				
+
+'days' specify the shift days backword from enddate default is 7.			
+
+'+' specify the enddate to today 					
+-c to clean the cache stat file
+$self -h or --help to show help info
+
+\n");	
+
+my $argnum = @ARGV;
+my $enddate = `date -d yesterday +%Y%m%d`;
+my $days = 7;
+
+my $needclean;
+
+if( grep(/-h|--help/, @ARGV) )
+{
+	die($usecase);	
+}
+ 
+if( grep(/\+/, @ARGV) )
+{
+	$enddate = `date +%Y%m%d`;
+} 
+
+my $argstr = join(" ", @ARGV);
+
+#pattern the -d enddate str
+if( $argstr =~ /-d\s*(\d+)/ )
+{
+	my $endstr = $&;
+	#printf("get endsting:$endstr\n");
+	$argstr =~ s/-d\s*(\d+)//;
+	$endstr = $1;
+	unless( $endstr =~ /\d{8}/ )
+	{
+		die("datetime need format; YYmmdd e.g. 20140102\n");
+	}
+	$enddate = $endstr;
+}
+
+if( $argstr =~ /-c/)
+{
+	$needclean = 1;
+}
+
+#pattern days
+if( $argstr =~ /\d+/ )
+{
+	$days = $&;
+}
+ 
+chomp($enddate);
+printf("enddate:$enddate, days:$days\n");
+
+#unless( $argnum >= 1 )
+#{
+
+	#die("glstat need a paramater:[filename]\n");
+
+#}
+
+#logstat pointer map, key = date, value = pointer to logstat
+
+push(@INC, `pwd`);
+
+use ServerMailInfo;
+
+
+if( $days > 7 )
+{
+	printf("days:$day > 7, set to 7\n");
+	$days = 7;
+}
+
+if( open( OUT_FILE, ">printoutfile") )
+{
+	$ENV{'PRINT_OUT_FILE'} = \*OUT_FILE;
+}
+
+&domail($enddate, $days, "Android");
+&domail($enddate, $days, "IOS");
+
+if( OUT_FILE )
+{
+	close(OUT_FILE);
+}
+
+sub domail
+{
+	my ($enddate, $days, $filter, $needclean) = @_;
+	my $mailinfo = new ServerMailInfo($enddate, $days, $filter);
+	if( $needclean )
+	{
+		$mailinfo->clean();
+	}
+	else
+	{
+		$mailinfo->show();
+	}
+}

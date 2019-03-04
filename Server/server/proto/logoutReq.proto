@@ -1,0 +1,3 @@
+message LogoutReq {
+	required uint32 nothing = 1;
+}

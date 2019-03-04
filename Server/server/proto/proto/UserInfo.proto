@@ -1,0 +1,322 @@
+
+import "Weapon.proto";
+import "Equip.proto";
+import "Home.proto";
+import "Building.proto";
+import "Trial.proto";
+import "Stage.proto";
+import "Activity.proto";
+import "Item.proto";
+
+message TimeStamp{
+	required int64 last_0am_day = 1;
+	required int64 regist_time = 2;
+	required int64 strength_timer = 3;		//体力计时
+	optional int32 gmail = 4;	//最后收到的全服邮件guid
+	optional int64 today_online_time = 5;
+	optional int64 regist_aid_award_time = 6;
+	optional int64 card_end_time = 7;
+}
+
+message Lineup{
+	repeated int32 ship_guid_list = 1;
+	optional string line_name = 2;
+}
+
+message UserInfo
+{
+	message BlockInfo{
+		required int32 type = 1;
+		optional int64 stamp = 2;
+	}
+	optional string user_name = 1;
+	optional string nickname = 2;			//昵称
+	optional string account = 3;			//平台账号
+	optional int32 icon_id = 4;		            	//人物头像ID
+	repeated int32 lineup = 5;			//阵容
+	optional int32 init_ship_index = 6;		//初始飞船INDEX (PARAM)
+	optional int32 aid_award_index = 7;		//附加奖励已领index
+	optional int32 strength = 8;			//体力
+	optional int32 strength_buy_times = 9;	//每日体力购买次数
+	repeated int64 res = 10;			//1.金币 2.金属 3.晶体 4.气体
+	optional int32 money = 11;			//元宝(真假元宝总和)
+	optional int32 vip_level = 12;			//vip等级
+	optional int32 exp = 13;			//经验
+	optional int32 level = 14;			//等级
+
+	optional string ip = 15;				//最近登录ip
+	optional string mcc = 16;			//最近登录mcc
+	optional string client_version = 17;		//客户端版本号,有时候要做一些应急处理
+
+	repeated Equip equip_list = 18;
+	repeated Gem gem_list = 19;
+	repeated Weapon weapon_list = 20;
+	optional GroupData group_data = 21;               //公会信息
+	repeated BuildQueue build_queue_list = 22;      // 建造队列 [1]免费队列 [2]付费队列
+	repeated BuildingInfo building_list = 23;          //建筑信息
+	optional StageData stage_data		= 24;	//副本信息
+	optional HomeSystemInfo home_info	= 25;	//家园信息
+	optional TechnologyData tech_data	= 26;	//科技信息
+	optional TrialData trial_data                   = 27;    //试炼信息
+	optional ArenaData arena_data              = 28;    //竞技场信息
+	optional FriendsData friends_data             = 29;    //好友信息
+
+	repeated TaskInfo task_list = 30;                          //任务列表
+	
+
+	optional DailyData daily_data = 31;                      //每日数据
+
+	repeated BlueprintDevelopInfo blueprint_list = 32;	//图纸制造队列
+
+	optional AchievementData achievement_data = 33;           //终生成就数据
+
+	optional ShopData shop_data = 34;                    //商城数据
+
+	optional ShipLotteryData ship_lottery_data = 35;  //抽奖数据
+
+
+	repeated Activity activity_list = 37;
+
+	optional int32 state = 38;	//当前状态 1:新手 2:普通
+
+	repeated Lineup preset_lineup_list = 39;	//预设阵容
+
+	optional TradeData trade_data = 40;//贸易中心
+
+	repeated ForgeEquip forge_equip_list = 41;//锻造中的装备 
+
+	optional NewHandGiftBagData new_hand_gift_bag_data = 42;	///新手奇遇礼包
+
+	repeated GiftBag gift_bag_list 		= 43; //礼包
+
+
+	repeated int32 vip_award_list		= 44; //vip奖励礼包
+	repeated int32 vip_pack_list		= 45; //vip购买礼包
+
+	optional NextGiftBagData next_gift_bag_data = 46;
+
+	optional int64 ship_energy_end_time = 47; //能量时间
+	optional int32 ship_energy_time_lock = 48;//能量时间锁
+
+
+
+	optional int32 gm_level = 97;
+	optional BlockInfo blocked = 98;
+	optional TimeStamp timestamp = 99;
+	optional int32 data_version = 100;		//开发阶段,如果数据版本不对就直接重建
+}
+//////////////新手奇遇礼包//////////////////
+
+message NewHandGiftBag{
+	required int32 id = 1;
+	required int32 gift_id = 2;
+	required int64 start_time = 3;
+}
+
+message NewHandGiftBagData{
+	required int32 times = 1;	//总次数
+	repeated NewHandGiftBag new_hand_gift_bag_list = 2;
+}
+
+//////////////礼包//////////////////
+
+message GiftBag{
+	required int32 id = 1;
+	required int32 count = 2;
+	required int64 start_time = 3;
+}
+
+////////////进阶充值礼包
+message NextGiftBagData{
+	repeated NewHandGiftBag next_gift_bag = 1;
+}
+
+//////////////贸易中心//////////////////
+message TradeData{
+	required int64 last_product_time = 1;
+	required int32 cur_num = 2;//(暂时用不到)
+}
+
+//////////////图纸开发工厂//////////////////
+message BlueprintDevelopInfo{
+	required int32 blueprint_id = 1;
+	required int64 start_time = 2;
+}
+
+/////////////////抽奖相关////////////////////
+message ShipLotteryInfo{
+	required int32 id = 1;
+	required int32 free_times = 2;
+	required int64 add_free_start_time = 3;
+	required int64 cd_start_time = 4;
+	required int32 single_times = 5;
+}
+message ShipLotteryData{
+	repeated ShipLotteryInfo info_list = 1;
+}
+
+/////////////////商城相关////////////////////
+message ShopGoods{
+	required int32 id = 1;
+	required int32 buy_times = 2;
+}
+message ShopData{
+	repeated ShopGoods goods_list = 1;
+}
+
+/////////////////任务相关////////////////////
+message Point{
+	required int32 key = 1;
+	required int32 value = 2;
+}
+message DailyData{
+	optional int32 ship_levelup_count = 1;
+	optional int32 equip_strength_count = 2;
+	optional int32 ship_break_count = 3;
+	optional int32 checkpoint_fight = 4;
+	optional int32 checkpoint_win = 5;
+	optional int32 contribute_times = 6;	//公会捐献次数
+	optional int32 get_home_res_times = 7;
+	optional int32 trial_times = 8;
+	optional int32 group_boss_times = 9;
+	optional int32 raid_times = 10;
+	optional int32 explore_ruins_times = 11;
+	optional int32 fishing_ruins_tims = 12;
+	optional int32 get_planet_res_times = 13;
+	optional int32 attack_planet_res_times = 14;
+	optional int32 active = 15;	//每日活跃值
+	repeated bool get_active_level = 16;	//已领每日活跃奖励
+	optional int32 help_times = 17;		//星盟帮助次数
+	optional int32 lottery_count = 18;	//每日抽奖
+	repeated Point blueprint_count = 19; //图纸开发次数
+}
+
+message AchievementData{
+	optional int32 contribute_times = 1;	//公会捐献次数
+	optional int32 recharge_money = 2;	//累积充值信用点
+	optional int32 consume_money = 3;	//累计消费信用点
+	optional int32 sign_in_days = 4;	//累计登陆
+	optional int32 lottery_count = 5;	//累计抽奖
+	repeated int32 recharge_list = 6;	//所有已充值过的ID
+	optional int32 recharge_real_money = 7;	//累积充值真钱
+	optional string talk_key = 8;
+	repeated int32 guide_list = 9;
+	optional bool first_develop_blueprint = 10;	//是否是第一次开发图纸
+	optional bool first_finish_collect = 11;	//是否是第一次完成采集
+	optional bool first_develop_ship = 12;//第一次合成飞船
+	optional bool first_failed_battle = 13;//第一次副本竞技场失败
+	optional int32 task_finish_times = 14;//完成任务次数
+	optional int32 slave_times = 15;//奴役次数
+	optional bool first_lottery_money = 16;//第一次10连抽信用点
+	optional bool first_lottery_res = 17;//第一次10连抽金币
+	repeated Point blueprint_count = 18; //图纸开发次数
+}
+
+message TaskInfo{
+	required int32 task_id = 1;
+	optional bool finished = 2;	//是否已领取奖励
+}
+
+message BuildQueue
+{
+	required int64 duration_time = 1;    //持续时间   
+	required int64 open_time = 2;         //开启时间 (负数代表永远开启)
+
+	required int32 type = 3;                  //类型 1：建筑 2：家园
+	required int32 index = 4;                 //编号
+}
+
+
+/////////////////公会相关////////////////////
+
+message TechContributeData{
+	required int32 tech_id = 1;
+	repeated int32 item_index_list = 2;  // 1:普通捐献索引 2:暴击捐献索引
+}
+
+message GroupPVECheckpoint{
+	required int32 group_boss_id = 1;
+	repeated int32 hurter_hp_list = 2;
+	required int32 damage = 3;
+	required int32 challenge_times = 4;
+	required int32 buy_challenge_times = 5;
+	repeated bool get_reward_list = 6;
+}
+message GroupData
+{
+	required string groupid = 1;             // 即使有这个结构，如果没有这个值，则玩家没有帮派
+	required int32 job = 2;		// 1,盟主,2,理事,3,普通
+	required int32 status = 3;	            //0:不在公会 1：公会中
+	optional int32 icon_id = 4;	
+	optional int64 anti_time = 5;             // 禁止加入帮派的时间
+	optional int32 today_join_num = 6;   // 一天最多申请3个公会
+	optional int32 contribute = 7;          //捐献值
+
+	repeated TechContributeData tech_contribute_list = 8;
+	optional int64 contribute_end_cd = 9;   //捐献CD清零时间
+	optional bool contribute_locker = 10;    //true:上锁 false :未上锁
+
+	repeated GroupPVECheckpoint pve_checkpoint_list = 11;
+
+	optional int32 help_times = 12;		//每日帮助他人次数
+	optional int32 today_worship_level = 13;	//每日祭拜档次 0:没祭拜
+	repeated bool getted_worship_reward = 14;	//领取每日祭拜奖励
+}
+
+
+///////////////科技相关//////////////////////////
+
+message TechnologyData
+{
+	repeated TechnologyInfo tech_info       = 1;
+	optional int32	   		upgrade_busy	= 2;	//是否有正在升级科技 0:没有 1:有
+	optional int32	   		tech_id  		= 3;	//正在升级科技id[升级目标id]
+}
+
+//科技信息
+message TechnologyInfo
+{
+	required int32 tech_id 			  = 1;		//科技id
+	optional int64 begin_upgrade_time = 2;		//升级开始时间
+	optional bool helped = 3;
+}
+
+///////////////竞技场相关//////////////////////////
+
+message ArenaRank{
+	required int32 rank = 1;
+	required bool isChallenged = 2;
+}
+
+message ArenaData
+{
+	required int32 challenge_times		  = 1;	//本日剩余挑战次数
+	required int32 purchased_challenge_times = 2;  //挑战已购买次数
+	required int32 honour_point                    = 3;     //荣誉点
+	repeated ArenaRank challenge_list            = 4;     //刷出的玩家列表
+	required int64 last_failed_time                = 5;      //失败时间
+	required int32 target_rank                      = 6;
+	required int32 daily_reward           = 7;                //每日目标奖励  0:未满足条件且未领取 1:已满足条件且未领取  2：已领取
+	required int32 already_challenge_times = 8;	//本日挑战次数
+	required int32 win_challenge_times = 9;	//本日胜利次数
+	required int32 title_level = 10;	//竞技称号
+}
+
+////////////////////好友系统/////////////////////////
+message FriendFamiliarity
+{
+	required string user_name = 1 ;
+	required int32 familiarity = 2 ;
+}
+message FriendsData
+{
+	repeated string friends_list = 1;  	//好友列表
+	repeated string black_list = 2;     // 黑名单
+	repeated string talk_list = 3;      //私聊列表
+	repeated FriendFamiliarity friends_familiarity = 4;//亲密度
+	repeated string add_tili = 5;		//赠送体力列表
+	repeated string read_tili = 6;		//获取体力列表
+	optional int32 add_tili_count = 7;	//赠送体力次数
+	optional int32 read_tili_count = 8;	//获取体力次数
+
+}

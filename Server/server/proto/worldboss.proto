@@ -1,0 +1,114 @@
+
+
+import "Item.proto";
+
+//世界BOSS首要信息
+message WBossHeadInfo
+{
+	optional int32 boss_index = 11;		//BOSS索引
+
+	optional int32 boss_season = 1; 	//BOSS季，BOSS从出生到被刷新为一季，目前每天为一季
+	optional int32 boss_id = 2;		//BOSS ID
+	optional int32 boss_generations = 3;	//BOSS代
+
+}
+
+//世界BOSS 属性信息
+message WBossAttrInfo
+{
+	optional int64 cur_hp = 11;	//当前HP
+	optional int64 max_hp = 12;	//最大HP 
+}
+
+
+//世界BOSS信息
+message WorldBossInfo
+{
+	optional WBossHeadInfo head_info = 1; 	//BOSS首要信息	
+	optional WBossAttrInfo attr_info = 2; 	//属性信息
+
+	optional int32 is_alive = 10;		//是否活着!=0表示活着
+	optional int64 reward_calc_time = 11;	//奖励结算时间
+	optional int64 attack_start_time = 12;	//攻打开始时间
+	optional int64 attack_end_time = 13;	//攻打结束时间
+
+	optional int64 next_boss_time = 21;	//下个BOSS时间，到时间时，请主动重新获取玩家世界BOSS信息
+}
+
+//玩家伤害信息
+message UserDamageInfo
+{
+	optional WBossHeadInfo boss_head = 1; 	//BOSS首要信息
+	optional int64 reward_calc_time = 2; 	//奖励结算时间
+	
+	optional int32 cur_season_rank = 10;	//本季排行
+	optional int32 cur_season_damage = 11;	//本次BOSS季总伤害
+	optional int32 last_attack_damage = 12;	//上次进攻总伤害
+	
+	optional int32 max_season_damage = 21;	//历史最高BOSS季伤害
+	optional int32 max_attack_damage = 22;	//历史最高单次进攻BOSS伤害
+
+}
+
+//挑战信息
+message WBossAttackInfo
+{
+	optional string user_name = 1; 	//用户名，用户ID
+	optional string nick_name = 2; 	//昵称
+	optional int32 level = 3;	//等级
+	optional int32 viplv = 4;	//VIP等级
+	optional int32 power = 5;	//战斗力
+
+	optional int32 damage = 21;	//造成伤害
+	optional int32 total_damage = 22;	//总伤害
+	
+	optional int64 time = 100;	//挑战时间
+}
+
+//玩家世界BOSS信息
+message UserWBossInfo
+{
+	enum Const
+	{
+		BaseFreeAttackTimes = 3; //基础免费挑战次数
+		//BasePayTrialTimes = 0; //基础付费挑战次数
+	}
+
+	optional int32 cur_attack_times = 1; //当前挑战次数
+	optional int32 max_attack_times = 2; //最大挑战次数,（预留显示cur/max）
+	//optional int32 cur_pay_times = 3; //当前付费挑战次数,（保留）
+	//optional int32 max_pay_times = 4; //最大付费挑战次数,（保留）
+
+	optional UserDamageInfo dmg_info = 11;	//伤害信息
+
+	
+	optional int32 terminate_boss_times = 21;	//历史击杀BOSS次数
+	
+	optional int32 need_update = 50;	//是否需要更新(服务器用)
+}
+
+//世界BOSS终结信息
+message WBossTerminateInfo
+{
+	optional string user_name = 1; 	//终结者用户名，用户ID
+	optional string nick_name = 2; 	//终结者昵称
+	
+	optional int32 attack_damage = 11; //当次进攻伤害
+}
+
+
+//世界BOSS排名奖励
+message WBossRankRewardItem
+{
+	optional int32 idx = 1; //排列索引
+	optional int32 from = 2; //从第几名开始（包括）
+	optional int32 to = 3; //到第几名结束（包括）
+	
+	repeated Item item_list = 21; //奖励
+}
+
+//世界BOSS排名奖励列表
+message WBossRankRewardList
+{
+	repeated WBossRankRewardItem items = 1; //奖励数组
+}

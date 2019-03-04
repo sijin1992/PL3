@@ -1,0 +1,80 @@
+<html>
+<head>
+<script type="text/javascript">
+function strimspace(value)
+{
+	if(typeof(value)=="string")
+	{
+		value = value.replace(/^\s*/,'');
+		value = value.replace(/\s*$/,'');
+	}
+	return value;
+}
+
+function checkIsNum(value,name)
+{
+	if(!value)
+	{
+		alert("need "+name);
+		return false;
+	}
+
+	if(!value.match(/^\d+$/))
+	{
+		alert(name+" not num");
+		return false;
+	}
+
+	return true;
+}
+
+function dosubmit()
+{
+	txtuser = document.getElementById("user").value;
+	if(!txtuser)
+	{
+		alert("need user");
+		return;
+	}
+
+	txtbattle = strimspace(document.getElementById("battle_id").value);
+	txtnum = strimspace(document.getElementById("num").value);
+	txtdiff = strimspace(document.getElementById("diff").value);
+	if(!checkIsNum(txtbattle,"txtbattle") || !checkIsNum(txtnum,"txtnum") || !checkIsNum(txtdiff,"txtdiff"))
+	{
+		return;
+	}
+/*http://10.10.1.25:8080/xxx?gmuser=zaya&gmkey=dfqa!^&customuser=mars&money=1&expr=1&itemid=2002&itemnum=2*/
+		desurl="http://10.10.1.153:14081/bbb?"+"gm_cmd=8192&user="+txtuser+"&battle_id="+txtbattle+"&num="+txtnum+"&diff="+txtdiff;
+	alert(desurl);
+	document.getElementById("resultframe").src = desurl;
+}
+</script>
+</head>
+<body>
+<table>
+<tr>
+<td>user</td>
+<td><input type="text" id="user" /></td>
+</tr>
+
+<tr>
+<td>关卡</td>
+<td><input type="text" id="battle_id" value="0" /></td>
+</tr>
+
+<tr>
+<td>难度</td>
+<td><input type="text" id="diff" value="100" /></td>
+</tr>
+
+<tr>
+<td>次数</td>
+<td><input type="text" id="num" value="100" /></td>
+</tr>
+
+</table>
+<input type="button" value="ok" onclick="dosubmit()" /><br/>
+<iframe id="resultframe"></iframe>
+</body>
+</html>

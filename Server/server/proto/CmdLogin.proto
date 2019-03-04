@@ -1,0 +1,97 @@
+
+
+import "UserInfo.proto";
+import "Item.proto";
+import "AirShip.proto";
+import "UserSync.proto";
+message LoginReq
+{
+	required string user_name = 1;
+	required string key = 2;
+	optional string domain= 3;//qzone=1，朋友=2, 3366=11
+	required int32 server = 4; // 所在服务器
+	required int32 platform = 5;
+	optional string version = 6; //客户端版本号 如 20120710
+	optional int32 userip = 7;         //
+	optional string device_type = 8;    // 机型
+	optional string resolution = 9;     // 分辨率
+	optional string os_type = 10;       // 操作系统
+	optional string ISP = 11;           // 运营商
+	optional string net = 12;           // 联网方式
+	optional string MCC = 13;           // MCC
+	optional string ip = 14;
+	optional string sid = 15;           // 字符串格式的服务器id
+};
+
+message LoginExtData
+{
+    required int32 un_read_mail_num = 1;    // 未读邮件数量
+};
+
+message LoginResp
+{
+	enum LoginRet
+	{
+		OK = 0;
+		FAIL = -1;
+		NODATA = 1;
+		NOAUTH = 2;
+		FULL = 3;                   // 服务器已满
+		VER_ERR = 4;                // 版本不符
+		NICKNAME_EXIST = 5;         // 昵称重名
+		NICKNAME_ERR = 6;           // 昵称不合规
+		BLOCKED = 7;
+	};
+	required LoginRet result = 1;
+	optional string user_name = 2;
+	optional string key = 3;
+	required bool isInit = 4;           //  是否已经初始化
+	optional UserInfo user_info = 5;    //  玩家信息
+	optional int64 nowtime = 6;
+	optional ShipList ship_list = 7;
+	optional ItemList item_list = 8;    //  物品背包
+	optional LoginExtData ext_data = 9;
+	optional string version = 10;        // 除非NOAUTH，否则一定会有
+	optional int32 unrecharge = 11;     // 如果有值且为1，则禁止充值
+	optional int32 anti_cdkey = 12;     // 如果有值且为1，则禁止cdkey
+	optional int32 anti_weichat = 13;   // 是否关闭微信，1为关闭
+};
+
+message RegistReq
+{
+	required string roleName = 1;       // 角色名
+	required int32 lead = 2;            // 所选主角形象
+	required int32 server = 3;	// 所在服务器
+	optional string device_type = 4;    // 机型
+	optional string resolution = 5;     // 分辨率
+	optional string os_type = 6;       // 操作系统
+	optional string ISP = 7;           // 运营商
+	optional string net = 8;           // 联网方式
+	optional string MCC = 9;           // MCC
+	optional string account = 10;       // 平台账号
+	optional string ip = 11;       // 玩家ip
+	optional int32 platform = 12;       // 平台
+	optional string real_name = 13;      //
+	message ExtInfo
+	{
+		optional int32 real_money = 1;
+		optional int32 money = 2;
+	};
+	optional ExtInfo ext_info = 14;         // 开服时的充值返利
+	optional string version = 15;		//客户端版本号
+};
+
+message ReRegistReq
+{// 特殊情况下用来强制重建玩家数据
+	required string roleName = 1;       // 角色名
+	required int32 face = 2;            // 所选头像
+};
+
+message RegistInitShipReq {
+	required int32 init_index = 1;
+};
+
+message RegistInitShipResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+};

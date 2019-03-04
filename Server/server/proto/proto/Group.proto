@@ -1,0 +1,78 @@
+
+import "Item.proto";
+
+message HelpInfo{
+	required string user_name = 1;
+	required int32 type = 2;
+	repeated int32 id = 3;	//type1:[1]建筑index    type2:[1]科技ID   type3:家园建筑[1]land_index  [2]resource_type
+	repeated string help_user_name_list = 4;
+	required int32 max_help_times = 5;
+};
+
+message GroupTechnology
+{
+	required int32 tech_id = 1;
+	optional int32 exp = 2;                               //捐献值 有值=募集中
+	optional int64 begin_upgrade_time = 3;     //升级开始时间  有值 and >0 : 升级中
+	required int32 status = 4;                             //  1.捐献阶段 2.升级阶段 3.完成
+	optional int32 city_buff_count = 5;		//星球占领 据点BUFF计数
+};
+
+message GroupUser
+{
+	required int32 guid = 1;
+	required string user_name = 2;
+	required string nickname = 3;
+	required int32 job = 4;		// 1,盟主,2,理事,3,普通
+	required int32 status = 5;                       //0：无公会，1：有公会，2：有公会且不可退出
+
+
+	optional uint64 last_act = 6;			// 最后在线时间
+	repeated int32 last_gongxian = 7;		// 最近3天贡献
+	optional int64 unlock_time = 8;		// 解锁时间(锁定时间内不可退出帮会)
+};
+
+message GroupMainData
+{
+	required string groupid = 1;
+	required string nickname = 2;			// 公会名
+    	required int32 status = 3;                                 //1：正常 0:已解散
+	optional int32 icon_id = 4;
+	optional int32 contribute = 5;                           //捐献值
+	optional int32 exp = 6;
+	optional int32 level = 7;
+	optional uint32 dayid = 8;			// 和玩家数据一样，一个具体的日子
+	repeated GroupUser user_list = 9;
+	optional string broadcast = 10;			 // 公告
+	optional string blurb = 11;		             // 简介
+	optional int32 guid = 12;			// 累加编号，每个新近成员都会编好
+	optional int32 rank = 13;                                  //公会排名
+
+	optional int64 create_time = 14;			// 创建时间
+	optional int64 unlock_time = 15;			// 解锁时间（锁定时间内不可解散公会）
+	message JoinInfo
+	{
+		required string user_name = 1;
+		required string nickname = 2;
+		required int64 join_time = 3;
+	};
+	repeated JoinInfo join_list = 16;
+
+	message JoinCondition{
+		required bool needAllow = 1;
+		optional int32 level = 2;
+		optional int32 power = 3;
+	};
+	required JoinCondition join_condition = 17;
+
+	repeated GroupTechnology tech_list = 18;
+
+	repeated HelpInfo help_list = 19;
+
+	optional int32 worship_value = 20;	//每日祭拜进度
+	optional int32 today_worship_times = 21;	//每日祭拜总次数
+
+	repeated string occupy_city_list = 22;	//占领的据点列表
+	repeated string enlist_list = 23; //正在征召 和 攻击 army_key 列表
+	repeated string attack_our_list = 24; //攻击本星盟成员的 army_key列表
+};

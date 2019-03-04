@@ -1,0 +1,114 @@
+import "CmdGroup.proto";
+import "UserSync.proto";
+
+message RsyncLogicStatus
+{
+    required string ip = 1;
+    required int32 port = 2;
+    repeated int32 idx = 3;
+    required string version = 4;
+    required int32 max_client = 5;
+    required int32 cur_client = 6;
+    message CentreInfo
+    {
+        optional string centre_ip = 7;
+        optional int32 centre_port = 8;
+    };
+    repeated CentreInfo centre_list = 7;
+    optional int32 max_reg = 9;
+    optional int32 cur_reg = 10;
+};
+
+message Rsync2GlobalCB
+{
+    required int32 port = 2;
+    repeated int32 idx = 3;
+    required string globalcb_ip = 4;
+    required int32 globalcb_port = 5;
+
+    optional string globalcb_ip_2 = 6;
+    optional int32 globalcb_port_2 = 7;
+};
+
+message InnerCDKEYReq
+{
+    required string cdkey = 1;
+};
+
+message InnerCDKEYResp
+{
+    required int32 ret = 1;
+};
+
+message InnerQueryBeforeRegReq
+{
+    required string name = 1;
+    optional string account = 2;
+    optional int32 act_id = 3;
+};
+
+message InnerQueryBeforeReqResp
+{
+    required int32 result = 1;          // 0=无，1=有，-1=出错
+    optional int32 real_money = 2;
+    optional int32 money = 3;
+    optional int32 vip = 4;
+    optional int32 czfl = 5;
+};
+
+message Multicast
+{
+    repeated string recv_list = 1;
+    required int32 cmd = 2;
+    optional GroupUpdate group_update = 3;        //  实际的组播
+    optional string msg_buff = 4;
+    optional UserSync user_sync = 5;
+    
+};
+
+//玩家数据上报
+message UserInfoReportReq
+{
+    enum ActType
+    {
+    	REGIST = 0; //注册
+    }
+    optional ActType act_type = 1[default=REGIST];   //动作
+    optional string user_id = 2;    //玩家ID
+    optional string nick_name = 3;  //昵称
+    optional int32 sex = 4;         //性别
+    optional int64 time = 5;        //时间
+    
+}
+
+//服务器广播
+message ServerBroadcastReq
+{
+
+    optional int32 btype = 1;   //广播类型
+    optional string message = 2; //广播消息
+    optional string target = 3;  //对象，为空表示全局广播
+    optional int32 limit = 4;		//次数 
+    optional int64 begintime = 5;	//开始广播时间
+    optional int64 endtime = 6;		//结束广播时间
+
+    optional string gmuser = 11;	//gm账号
+    optional string gmkey = 12; //gmkey
+
+    optional int32 fd = 21;	//socket fd
+    optional int32 session = 22; //session编号
+
+}
+
+message ServerBroadcastResp
+{
+    enum Result
+    {
+        OK = 0;
+        FAIL = -1;
+    };
+    required Result result = 1;
+    optional int32 fd = 21;	//socket fd
+    optional int64 session = 22; //session编号
+}
+

@@ -1,0 +1,132 @@
+
+
+
+import "Equip.proto";
+import "Item.proto";
+import "UserSync.proto";
+
+message EquipLevelUpReq
+{
+	required int32 id = 1;
+	required int32 add_value = 2; 
+	optional int32 add_new_player = 3;
+}
+
+message EquipLevelUpResp
+{
+	required int32 result = 1;
+	optional Equip equip = 2;
+	optional int32 add_new_player = 3;
+}
+
+message EquipEnchaseReq
+{
+	required int32 id = 1;
+}
+
+message EquipEnchaseResp
+{
+	required int32 result = 1;
+}
+
+message ShipEquipReq
+{
+	required int32 ship_guid = 1;
+	repeated int32 equip_index_list = 2;
+	repeated int32 equip_guid_list = 3;
+}
+
+message ShipEquipResp
+{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+
+	required int32 ship_guid = 3;
+	repeated int32 equip_index_list = 4;
+	repeated int32 equip_guid_list = 5;
+}
+
+//强化装备
+message StrengthEquipReq
+{
+	required int32 equip_guid = 1;
+	optional int32 count = 2;
+}
+
+message StrengthEquipResp
+{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	optional int32 equip_guid = 3;
+}
+
+
+//装备分解
+message ResolveEquipReq
+{
+	repeated int32 equip_guid_list = 1;
+}
+
+message ResolveEquipResp
+{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	repeated Item get_item_list = 3;
+}
+
+//装备打造
+message CreateEquipReq
+{
+	required int32 type = 1;//1:打造(传equip_id) 2：完成打造(传forge_guid)
+	optional int32 equip_id = 2;
+	optional int32 forge_guid = 3;
+}
+
+message CreateEquipResp
+{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	optional int32 get_equip_guid = 3;
+}
+
+//图纸分解
+message ResolveBlueprintReq
+{
+	repeated Pair item_list = 1;
+}
+
+message ResolveBlueprintResp
+{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	repeated Pair get_item_list = 3;
+}
+
+//宝石装备
+message GemEquipReq
+{
+	required int32 type = 1;    //1：装备 2：卸下
+	required int32 ship_guid = 2;
+	required int32 index = 3;
+	required int32 gem_id = 4;
+}
+
+message GemEquipResp
+{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+}
+
+//宝石融合
+message MixGemReq{
+	repeated Gem gem_list = 1;
+	optional int32 count = 2;
+}
+
+message MixGemResp
+{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	optional bool mix_result = 3;
+	repeated Gem remain_list = 4;
+}

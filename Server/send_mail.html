@@ -1,0 +1,79 @@
+<html>
+<head>
+<script type="text/javascript">
+function strimspace(value)
+{
+	if(typeof(value)=="string")
+	{
+		value = value.replace(/^\s*/,'');
+		value = value.replace(/\s*$/,'');
+	}
+	return value;
+}
+
+function checkIsNum(value,name)
+{
+	if(!value)
+	{
+		alert("need "+name);
+		return false;
+	}
+
+	if(!value.match(/^\d+$/))
+	{
+		alert(name+" not num");
+		return false;
+	}
+
+	return true;
+}
+
+function dosubmit()
+{
+	txtcustom = document.getElementById("custom").value;
+	if(!txtcustom)
+	{
+		alert("need custom");
+		return;
+	}
+	txttype = strimspace(document.getElementById("type").value);
+	txtfrom = strimspace(document.getElementById("from").value);
+	txtmessage = strimspace(document.getElementById("message").value);
+	if(!checkIsNum(txttype,"邮件类型"))
+	{
+		return;
+	}
+/*http://10.10.1.25:8080/xxx?gmuser=zaya&gmkey=dfqa!^&customuser=mars&money=1&expr=1&itemid=2002&itemnum=2*/
+		desurl="http://10.10.1.153:14081/xxx?"+"gm_cmd=131&"+"gm_user=test&gm_key=test&user="+txtcustom+"&type="+txttype+"&from="+txtfrom+"&message="+txtmessage;
+	alert(desurl);
+	document.getElementById("resultframe").src = desurl;
+}
+</script>
+</head>
+<body>
+<table>
+<tr>
+<td>custom</td>
+<td><input type="text" id="custom" /></td>
+</tr>
+<tr>
+<td>邮件类型</td>
+<td><input type="text" id="type" value="0" /></td>
+</tr>
+<tr>
+<td>邮件标题</td>
+<td><input type="text" id="subject" value="0" /></td>
+</tr>
+<tr>
+<td>发件人</td>
+<td><input type="text" id="from" value="0" /></td>
+</tr>
+<tr>
+<td>邮件正文</td>
+<td><input type="text" id="message" value="0" /></td>
+</tr>
+</table>
+<input type="button" value="ok" onclick="dosubmit()" /><br/>
+<iframe id="resultframe"></iframe>
+</body>
+</html>

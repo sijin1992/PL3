@@ -1,0 +1,4 @@
+EnableCache = 0;
+cachedir=./servercache;
+serverdir=./servers;
+serveridfile=serverid;

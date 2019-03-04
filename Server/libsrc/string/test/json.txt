@@ -1,0 +1,1 @@
+{"ret":0,"userid":"mars","nickname":"\u738b\u4eba\u4eba","gender":1,"province":"\u4e0a\u6d77","city":"\u6d66\u4e1c\u65b0","figureurl":"http:\/\/pyapp.qlogo.cn\/campus\/1df479dbcc6a160a1bef91d345bea586ef173232dc60fa10374d363f7414f7ba527ce0a1b6d30a9f\/60","ext1":1,"ext2":6}

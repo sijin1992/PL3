@@ -1,0 +1,258 @@
+#!/usr/bin/perl 
+
+my $self = "./cdkeygen";
+my $usecase = 
+"	$self [keytype] [rewardid] [keycount] ([usecount=1]) ([pre-str] [keylen = 15]).
+	keytype = 1; means typed key, 
+	keytype = 2; means single key,
+	keycount means how many keys to be generated.
+	pre-id means key is pre letter, like ABC.... always,'A' means type, 'BC' is sub index.
+	keylen means key's total length with the pre letter.
+	-t means keytype = 1 pre-str is GTA  , 'A' is default letter 
+	-s means keytype = 2 pre-str is GSA  , 'A' is default letter 
+	";
+
+my $argnum = @ARGV;
+
+my $createsql = 0;
+if( grep(/-c|--create/, @ARGV) )
+{
+	$createsql = 1;
+}
+
+if( !$createsql and ($argnum < 3 or grep(/-h|--help/, @ARGV)) )
+{
+	die($usecase);	
+}
+
+my @keyroot = qw(2 3 4 5 6 7 8 9 A B C D E F G H J K M N P Q R S T U V W X Y Z);
+my $rootlen = scalar(@keyroot);
+
+print("roolen:$rootlen keyroot:@keyroot\n");
+
+my $keytype = @ARGV[0];
+my $rewardid = @ARGV[1];
+my $keycount = @ARGV[2];
+
+my $usetimes = 1;
+
+if( $argnum > 3 )
+{
+	$usetimes = @ARGV[3];
+}
+
+my $prestr = "G00";
+my $keylen = 15;
+
+if( $argnum > 4 )
+{
+	$prestr = @ARGV[4];
+}
+
+my $prelen = 3;
+
+if( length($prestr) > $prelen )
+{
+	$prestr = substr($prestr, 0, $prelen);	
+}
+
+if( $argnum > 5 )
+{
+	$keylen = @ARGV[5];
+}
+
+if( $createsql )
+{
+	$prestr = "init";
+}
+
+print("keytype:$keytype rewardid:$rewardid prestr:$prestr keycount:$keycount keylen:$keylen \n");
+
+my $starttime = time();
+
+my $keyfilename = "keys_" . $prestr;
+my $sqlfilename = "keys_" . $prestr . ".sql";
+my $cdkeygen_filename = "keys". ".gen";
+
+my $serverid_pair = "serverid_pair";
+
+
+if ( -e $keyfilename )
+{
+	#die("out file: $keyfilename has existed.\n");
+}
+
+if ( -e $sqlfilename )
+{
+	#die("out sql file: $sqlfilename has existed.\n");
+}
+
+
+unless ( open(FILE, ">$keyfilename") )
+{
+	die("open file: $keyfilename failed\n");
+}
+
+unless ( open(SQL_FILE, ">$sqlfilename") )
+{
+	die("open sql file: $sqlfilename failed\n");
+}
+
+unless ( open(GEN_FILE, ">>$cdkeygen_filename") )
+{
+	die("open gen file: $cdkeygen_filename failed\n");
+}
+
+unless( -e "$serverid_pair" )
+{
+	unless ( open(SER_FILE, ">$serverid_pair") )
+	{
+		die("open SER file: $serverid_pair failed\n");
+	}
+	print SER_FILE ("[SERVER_ID_PAIR]\n");
+	my $count = 0;
+	for( my $i = 0; $i < $rootlen ; $i++ )
+	{
+		#print("$count i:$i\n");
+		for( my $j = 0; $j < $rootlen; $j++ )
+		{
+			#print("$count j:$j\n");
+			$count++;
+			printf SER_FILE ("$count=%s\n", @keyroot[$i] . @keyroot[$j]);
+		}
+	}
+	printf ("$count server id pair genarated. \n");
+	close(SER_FILE);
+}
+
+
+my @allkeys;
+my $tempkey, $oldkey;
+my $genkeylen = $keylen - $prelen;
+my $idx;
+for( my $i = 0; $i < $keycount; $i++ )
+{
+	$tempkey = $prestr;
+	for( my $j = 0; $j < $genkeylen; $j++ )
+	{
+		$idx = int(rand($rootlen));
+		#print("idx:$idx\n");
+		$tempkey .= @keyroot[$idx];
+	}
+	#print("tempkey:$tempkey\n");
+	if( grep(/$tempkey/, @allkeys) )
+	{
+		print("Old:$tempkey\n");
+		next;
+	}
+	else
+	{
+		#print("New:$tempkey\n");
+		push(@allkeys, $tempkey);
+	}
+}
+
+printf("genkey time sec:%d\n", time() - $starttime);
+
+
+my $sql_db_name = "db_gl_cdkey";
+
+my $sql_create_db =
+"CREATE DATABASE IF NOT EXISTS $sql_db_name;
+USE $sql_db_name;
+";
+print SQL_FILE ($sql_create_db, "\n");
+
+my $sql_table_name = "t_cdkeys";
+
+# sql table struct (cdkey|type|state|rewardid|userid) 
+my $sql_create_table = 
+"CREATE TABLE IF NOT EXISTS $sql_table_name ( 
+	cdkey VARCHAR(33) NOT NULL PRIMARY KEY,
+	type INT NOT NULL,
+	used INT DEFAULT '0' COMMENT '0 is not used !=0 is used',
+	total INT DEFAULT '1' COMMENT 'can use times',	
+	rewardid INT NOT NULL,
+	userid VARCHAR(33) ,
+	INDEX (userid)
+);
+";
+
+
+my $sql_grant_priv = "GRANT SELECT ON *.* TO ali2 IDENTIFIED BY 'ali002';FLUSH PRIVILEGES;\nGRANT EXECUTE ON *.* TO ali2 IDENTIFIED BY 'ali002';FLUSH PRIVILEGES;";
+print SQL_FILE ($sql_grant_priv, "\n");
+
+my $sql_func_name = "func_use_cdkey";
+my $sql_create_func =
+"delimiter //
+DROP FUNCTION IF EXISTS $sql_func_name //
+CREATE FUNCTION $sql_func_name (_arg_cdkey VARCHAR(33), _arg_userid VARCHAR(33))
+	RETURNS INT
+	DETERMINISTIC
+	SQL SECURITY INVOKER
+	COMMENT 'ret > 0, ret= rewardid, -1= key invalid, -2= been(self =-3)used'
+	BEGIN
+		DECLARE _val_used, _val_total, _val_key_num,_val_reward_id INT;
+		DECLARE _val_userid VARCHAR(33);
+		SELECT used, total, userid, rewardid INTO _val_used, _val_total, _val_userid, _val_reward_id FROM $sql_table_name WHERE cdkey = _arg_cdkey;
+		SELECT FOUND_ROWS() INTO _val_key_num;
+		IF( _val_key_num >= 1 )
+		THEN
+			IF( _val_used < _val_total )
+			THEN
+				IF( _val_used > 0 and STRCMP(_val_userid, _arg_userid) = 0 )
+				THEN
+					RETURN -3;
+				END IF;
+				UPDATE $sql_table_name SET userid = _arg_userid, used = used + 1 WHERE cdkey = _arg_cdkey;
+				RETURN _val_reward_id;
+			ELSE
+				RETURN IF( STRCMP(_val_userid, _arg_userid) = 0, -3, -2);
+			END IF;
+		ELSE
+			RETURN -1;
+		END IF; 
+	END;
+	//
+ALTER FUNCTION $sql_func_name
+	MODIFIES SQL DATA
+//	
+delimiter ;
+";
+
+
+print SQL_FILE ($sql_create_table, "\n");
+print SQL_FILE ($sql_create_func, "\n");
+
+die if $createsql;
+
+my $sql_insert_rows;
+
+my $sql_insert = "INSERT IGNORE $sql_table_name (cdkey, type, total, rewardid) VALUES \n";
+print SQL_FILE ($sql_insert);
+my $allkeynum = scalar(@allkeys);
+my $curnum = 0;
+my $flag = ",";
+foreach my $key ( @allkeys )
+{
+	$curnum ++;
+	unless( $curnum < $allkeynum )
+	{
+		$flag = "";
+	}
+	print FILE ("$key\n");
+	print SQL_FILE ("('" . $key . "', $keytype" . ", $usetimes" . ", $rewardid" . ")$flag\n");
+	
+	
+}
+print SQL_FILE ("\n;\n");
+
+printf GEN_FILE ("$prestr $keytype $rewardid $allkeynum %s", `date +%Y-%m-%d_%H:%M:%S`);
+
+close(FILE);
+close(SQL_FILE);
+close(GEN_FILE);
+
+printf("genrate $allkeynum keys rewardid:$rewardid to file:$keyfilename sqlfile:$sqlfilename\n");
+
+printf("used time sec:%d\n", time() - $starttime);

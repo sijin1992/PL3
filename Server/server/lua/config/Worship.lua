@@ -1,0 +1,33 @@
+local WORSHIP = {}
+WORSHIP["index"] = {}
+WORSHIP["index"][1] = 1
+WORSHIP[1] = {}
+	WORSHIP[1]["ID"] = 1
+	WORSHIP[1]["SCHEDULE"] = 5
+	WORSHIP[1]["CONTRIBUTION"] = 250
+	WORSHIP[1]["TYPE"] = 3001
+	WORSHIP[1]["NUM"] = 250
+	WORSHIP[1]["real_idx"] = 1
+
+WORSHIP["index"][2] = 2
+WORSHIP[2] = {}
+	WORSHIP[2]["ID"] = 2
+	WORSHIP[2]["SCHEDULE"] = 10
+	WORSHIP[2]["CONTRIBUTION"] = 500
+	WORSHIP[2]["TYPE"] = 7001
+	WORSHIP[2]["NUM"] = 10
+	WORSHIP[2]["real_idx"] = 2
+
+WORSHIP["index"][3] = 3
+WORSHIP[3] = {}
+	WORSHIP[3]["ID"] = 3
+	WORSHIP[3]["SCHEDULE"] = 20
+	WORSHIP[3]["CONTRIBUTION"] = 1000
+	WORSHIP[3]["TYPE"] = 7001
+	WORSHIP[3]["NUM"] = 20
+	WORSHIP[3]["real_idx"] = 3
+
+
+WORSHIP["len"] = 3
+
+return WORSHIP

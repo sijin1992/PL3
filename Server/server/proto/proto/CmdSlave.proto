@@ -1,0 +1,209 @@
+
+import "Item.proto";
+import "AirShip.proto";
+import "Slave.proto";
+import "UserSync.proto";
+import "PvpInfo.proto";
+
+message SlaveSyncDataReq{
+	required int32 type = 1; 
+	repeated string user_name_list = 2;	//同步别人(默认type:0)
+}
+
+message SlaveSyncDataResp{
+	enum SlaveSyncDataRet
+	{
+		OK = 0;
+		FAIL = -1;
+	};
+	required SlaveSyncDataRet result = 1;
+	optional UserSync user_sync = 2;
+	repeated SlaveData slave_data_list = 3;
+	repeated SlaveBriefInfo info_list = 4;
+}
+
+message SlaveGetResReq{	//获取资源 奴隶主message
+	required int32 type = 1;	//1:查看 2:收取
+	required string slave_name = 2;
+}
+
+message SlaveGetResResp{
+	enum SlaveGetResRet
+	{
+		OK = 0;
+		FAIL = -1;
+		NOT_MY_SLAVE = 1;
+		CD_TIME = 2;
+	};	
+	required SlaveGetResRet result = 1;
+	optional UserSync user_sync = 2;
+	repeated int32 res = 3;	//1.金币 2.金属 3.晶体 4.气体
+	optional int32 exp = 4;
+}
+
+message SlaveFreeReq{	//解放 奴隶主
+	required int32 type = 1;	//1:(主人行为)释放奴隶
+	required string slave_name = 2;
+}
+
+message SlaveFreeResp{
+	enum SlaveFreeRet
+	{
+		OK = 0;
+		FAIL = -1;
+		NOT_MY_SLAVE = 1;
+		FREE_SLAVE_ERROR = 2;
+	};	
+	required SlaveFreeRet result = 1;
+	optional UserSync user_sync = 2;
+}
+
+message SlaveShowReq{	//示众 奴隶主message
+	required int32 type = 1;	//1:示众 2:围观
+	required string slave_name = 2;
+}
+
+message SlaveShowResp{
+	enum SlaveShowRet
+	{
+		OK = 0;
+		FAIL = -1;
+		NOT_MY_SLAVE = 1;
+		NO_MONEY = 2;
+		STATE_ERROR = 3;
+		TYPE_ERROR = 4;
+		NO_MASTER = 5;
+		WATCH_NUM_MAX = 6;
+		WATCHED = 7;
+	};	
+	required SlaveShowRet result = 1;
+	optional UserSync user_sync = 2;
+	repeated Pair get_item_list = 3;
+}
+
+message SlaveWorkReq{	//工作 奴隶主message
+	required string slave_name = 1;
+}
+
+message SlaveWorkResp{
+	enum SlaveWorkRet
+	{
+		OK = 0;
+		FAIL = -1;
+		NOT_MY_SLAVE = 1;
+		CD_TIME = 2;
+	};
+	required SlaveWorkRet result = 1;
+	optional UserSync user_sync = 2;
+	repeated Pair get_item_list = 3;
+	optional SlaveNoteInfo note_info = 4;
+}
+
+message SlaveFawnOnReq{	//讨好 奴隶message
+	required int32 type = 1;
+}
+
+message SlaveFawnOnResp{
+	enum SlaveFawnOnRet
+	{
+		OK = 0;
+		FAIL = -1;
+		NO_MASTER = 1;
+		CD_TIME = 2;
+	};
+	required SlaveFawnOnRet result = 1;
+	optional UserSync user_sync = 2;
+	repeated Pair get_item_list = 3;
+	optional SlaveNoteInfo note_info = 4;
+}
+
+message SlaveHelpReq{	//求助 奴隶message
+	required int32 type = 1;
+}
+
+message SlaveHelpResp{
+	enum SlaveHelpRet
+	{
+		OK = 0;
+		FAIL = -1;
+		NO_MASTER = 1;
+		CD_TIME = 2;
+		SEND_LIST_EMPTY = 3;
+	};
+	required SlaveHelpRet result = 1;
+	optional UserSync user_sync = 2;
+}
+
+
+
+message SlaveSearchReq{
+	required int32 type = 1;	//1:搜索  2:仇敌 3:求救
+}
+
+message SlaveSearchResp{
+	enum SlaveSearchRet
+	{
+		OK = 0;
+		FAIL = -1;
+		EMPTY = 1;
+		HAS_MASTER = 2;
+		ERROR_TYPE  = 3;
+	};
+	required SlaveSearchRet result = 1;
+	optional UserSync user_sync = 2;
+	repeated SlaveBriefInfo info_list = 3;
+}
+
+message SlaveAddTimesReq{
+	required int32 type = 1;	//1:抢夺  2:救助
+}
+
+message SlaveAddTimesResp{
+	enum SlaveAddTimesRet
+	{
+		OK = 0;
+		FAIL = -1;
+		NO_MONEY = 1;
+	};
+	required SlaveAddTimesRet result = 1;
+	optional UserSync user_sync = 2;	//强制同步元宝
+}
+
+message SlaveAttackReq{
+	required int32 type = 1;	//1：攻击 2：解救 
+	required string user_name = 2;
+	repeated int32 lineup = 3;
+}
+
+message SlaveAttackResp{
+	enum SlaveAttackRet
+	{
+		OK = 0;
+		FAIL = -1;
+		NO_EMEMY = 1;
+		ATTACK_SELF = 2;
+		ERROR_TYPE = 3;
+		HAS_MASTER = 4;
+		NO_TIMES = 5;
+		CD_TIME = 6;
+		NO_SHIPS = 7;
+		NO_DURABLE = 8;
+		FIXING = 9;
+		NOT_SLAVE_MASTER = 10;
+		MAX_SLAVE = 11;
+		NO_MASTER = 12;
+		HAS_SLAVE = 13;
+		SHOWING = 14;
+		CATCH_ERROR = 15;
+		OUTING = 16;
+	};
+	required SlaveAttackRet result = 1;
+	optional UserSync user_sync = 2;
+	repeated AirShip attack_list = 3;		//我方阵型
+	repeated AirShip hurter_list = 4;		//对方阵型
+	repeated EventInfo event_list = 5;
+	optional bool isWin = 6;
+	optional bool isCatch = 7;
+	repeated Pair get_item_list = 8;
+	optional SlaveAttackReq req = 9;
+}

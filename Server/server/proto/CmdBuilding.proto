@@ -1,0 +1,54 @@
+
+
+import "Building.proto";
+import "UserSync.proto";
+
+message BuildingUpgradeReq{
+	required int32 index = 1;
+}
+
+message BuildingUpgradeResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	optional BuildingInfo info = 3;
+}
+
+message BuildingUpdateReq{
+	required int32 index = 1;
+}
+
+message BuildingUpdateResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	required int32 index = 3;
+}
+
+message BuildingUpgradeSpeedUpReq{
+	required int32 index = 1;
+}
+
+message BuildingUpgradeSpeedUpResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+	optional BuildingInfo info = 3;
+	required int32 index = 4;
+}
+
+
+message BuildQueueAddReq{
+	required int32 num = 1;
+}
+
+message BuildQueueAddResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+}
+
+message BuildQueueRemoveReq{
+	required int32 index = 1;
+}
+
+message BuildQueueRemoveResp{
+	required int32 result = 1;
+	optional UserSync user_sync = 2;
+}

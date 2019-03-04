@@ -1,0 +1,150 @@
+import "Item.proto";
+
+message GMFightReq
+{
+	required bytes user = 1;
+	required int32 battle = 2;
+	required int32 num = 3;
+	required int32 difficult = 4;
+	optional int32 fd = 5;
+	optional int64 session = 6;
+};
+
+message GMFightResp
+{
+	enum Result
+	{
+		OK = 0;
+		FAIL = -1;
+	};
+	required Result result = 1;
+	required bytes user = 2;
+	required int32 battle = 3;
+	required int32 num = 4;
+	required int32 difficult = 5;
+	optional int32 win = 6;
+	optional int32 fd = 7;
+	optional int64 session = 8;
+};
+
+
+message GMAddItemReq
+{
+	required bytes user = 1;
+	required int32 gold = 2;
+	required int32 item_id = 3;
+	required int32 item_num = 4;
+	required string gm_user = 5;
+	required string gm_pswd = 6;
+	optional int32 fd = 7;
+	optional int64 session = 8;
+};
+
+message GMAddItemResp
+{
+	enum Result
+	{
+		OK = 0;
+		FAIL = -1;
+	};
+	required Result result = 1;
+	
+	optional int32 fd = 2;
+	optional int64 session = 3;
+};
+
+message DBSendMailReq
+{
+	optional bytes user = 1;            // 如果有，就是发给个人，否则发给所有人
+	required int32 type = 2;            // 邮件类别 0=公告邮件(未读) 1=公告邮件(已读) 10=附件邮件
+	required string from = 3;           // 发件人
+	required string message = 4;        // 邮件正文
+	repeated Item item_list = 5;        // 附件
+	required string subject = 6;
+	optional int32 time = 7;
+	optional int32 buchang = 8;         // 是否是全服补偿
+	optional int64 reg_time = 9;
+	optional int32 vip_limit = 10;
+	optional int32 lev_limit = 11;
+};
+
+message DBGMResp
+{
+	required int32 result = 1;
+};
+
+message GMSendMailReq
+{
+	required DBSendMailReq req = 1;
+	required int32 fd = 2;
+	required int64 session = 3;
+};
+
+message GMGeneralResp
+{
+	required int32 result = 1;   
+	required int32 fd = 2;
+	required int64 session = 3;
+};
+
+
+//玩家快照信息
+message UserSnapInfo
+{
+	optional string uid = 1;						// 玩家ID
+	optional string nick = 2;						// 昵称
+	optional string qd = 3;							// 渠道
+	optional int32 lv = 4;							// 等级
+	optional int64 exp = 5;							// 经验
+	optional int32 viplv = 6;						// vip等级
+	optional int64 vipscore = 7;				// vip经验
+	optional int32 totaldep = 8;				// 累计充值
+	optional int32 totalrmb = 9;				// 累计付费
+	optional int32 gold = 10;						// 银币
+	optional int32 money = 11;						// 元宝
+	optional int32 php = 12;							// 体力
+	optional int32 maxpower = 13;				// 最大战斗力
+	optional int32 state = 14;						// 角色状态
+	optional int32 stagelv = 15;				// 进阶等级
+	optional int32 maxrank = 16;						// 最高RANK
+	optional string menpai = 17;						// 所属门派
+	
+	optional string ip = 51;						// IP地址
+}
+
+
+//获取玩家快照信息
+message GMGetUserSnapReq
+{
+	optional string username = 1;  //玩家ID
+	optional string flags = 2;	//指定其他数据
+	
+	optional string gmuser = 11;	//gm账号
+	optional string gmkey = 12; //gmkey
+
+	optional int32 fd = 21;	//socket fd
+	optional int64 session = 22; //session编号
+}
+
+message GMGetUserSnapResp
+{
+	enum Result
+	{
+		OK = 0;
+		FAIL = -1;
+	};
+	required Result result = 1;
+	optional UserSnapInfo info = 2;
+	
+	optional int32 fd = 21;	//socket fd
+	optional int64 session = 22; //session编号
+}
+
+message GMBlockReq
+{
+	required string uid = 1;        //
+	optional int32 type = 2;        // 0=封号，1=解封
+	optional int32 blocktime = 3;   // 如果是封号，0=永久，>0=天数
+	required int32 fd = 4;
+	required int64 session = 5;
+}

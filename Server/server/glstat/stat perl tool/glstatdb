@@ -1,0 +1,161 @@
+#!/usr/bin/perl -w
+
+#$ENV{'LOG_DIR'} = "./ext_info";
+$ENV{'NAME_CONF_FILE'} = "nameconf";
+
+use strict;
+use DateWrap;
+
+my $self = "./glstatdb";
+
+my $usecase = sprintf(
+"
+$self [-d enddate]/[+] days (-c)
+$self [-d enddate]/[+] days [-l/--levels] 
+$self [-d enddate]/[+] days [-s type -u user]
+
+'-d enddate' specify the enddate e.g. -d 20141124 specify the enddate to 20141124,default is yestoday.				
+
+'days' specify the shift days backword from enddate default is 7.			
+	
+--last_hour or -lh means stat last hour logs
+ 
+--hour=[n] specify the hour n to stat
+
+-t [tablename] means the table name
+
+'+' specify the enddate to today 
+$self -h or --help to show help info
+
+\n");	
+
+my $argnum = @ARGV;
+my $enddate = `date -d yesterday +%Y%m%d`;
+chomp($enddate);
+
+my $days = 1;
+my $lasthour = 0;
+my $tablename = "all";
+my $referdate = 0;
+my $referhour;
+
+
+if( grep(/^-h|--help$/, @ARGV) )
+{
+	die($usecase);
+}
+ 
+if( grep(/\+/, @ARGV) )
+{
+	$enddate = `date +%Y%m%d`;
+	chomp($enddate);
+} 
+
+my $argstr = join(" ", @ARGV);
+
+#pattern the -d enddate str
+if( $argstr =~ /-d\s*(\d+)/ )
+{
+	my $endstr = $&;
+	#printf("get endsting:$endstr\n");
+	$argstr =~ s/-d\s*(\d+)//;
+	$endstr = $1;
+	unless( $endstr =~ /(\d{8})/ )
+	{
+		die("datetime need format; YYmmdd e.g. 20140102\n");
+	}
+	$enddate = $1;
+	$referdate = 1;
+}
+
+if( $argstr =~ /--last_hour/ or $argstr =~ /-lh/ )
+{
+	#printf("lasthour: $&\n");
+	$lasthour = 1;
+}
+
+if( not $lasthour and $argstr =~ /--hour=(\d+)/ )
+{
+	#printf("referhour: $&\n");
+	$referhour = $1;
+	#printf("referhour: $1\n");	
+}
+
+if( $argstr =~ /-gold/ )
+{
+	$tablename = "gold";
+	$lasthour = 1;
+}
+
+if( $argstr =~ /-t\s*(\S+)/ )
+{
+	$tablename = $1;
+}
+
+#pattern days
+if( $argstr =~ /\s+(\d+)/ || $argstr =~/^(\d+)$/ )
+{
+	$days = $1;
+} 
+ 
+
+
+#unless( $argnum >= 1 )
+#{
+
+	#die("glstat need a paramater:[filename]\n");
+
+#}
+
+#logstat pointer map, key = date, value = pointer to logstat
+
+push(@INC, `pwd`);
+
+use DBTransport;
+
+my $lasttime = time();
+
+if( $lasthour )
+{
+	my $nowdatetime;
+	if( $referdate )
+	{
+		$nowdatetime = `date +%H:%M:%S`;
+		chomp($nowdatetime);
+		$nowdatetime = $enddate ." ". $nowdatetime;
+	}
+	else
+	{
+		$nowdatetime = `date +"%Y%m%d %H:%M:%S"`;
+	}
+	
+	print "nowdatetime:$nowdatetime\n";
+	#if( defined($referhour) )
+	#{
+		($enddate, $referhour) = DateWrap::get_date_time($nowdatetime, 0, -1);
+	#}
+}
+
+printf("enddate:$enddate, days:$days referhour:%s tablename:$tablename\n", defined($referhour)?$referhour:"unrefer");
+
+if( $days == 1 )
+{
+	my $dbtrans = new DBTransport($enddate, $referhour);
+	$dbtrans->stat_all($tablename);
+}
+else
+{
+	my $dbtrans;
+	for(; $days > 0; $days--)
+	{
+		my $tardate = DateWrap::get_date($enddate, 1-$days);
+		print "stating $days days ago:$tardate ...\n";
+		$dbtrans = new DBTransport($tardate, $referhour);
+		$dbtrans->stat_all($tablename);
+	}
+}
+
+
+my $nowtime = time();
+
+printf("use time sec:%d\n", $nowtime - $lasttime);

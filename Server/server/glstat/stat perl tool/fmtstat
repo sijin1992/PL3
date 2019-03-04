@@ -1,0 +1,62 @@
+#!/usr/bin/perl 
+
+
+my $isdebug = 0;
+my $iscppsql = 0;
+my $iscreatesql = 0;
+my $isphp = 0;
+if( grep(/-d|--debug/, @ARGV) )
+{
+	$isdebug = 1;	
+}
+
+if( grep(/-cpp|--cppsql/, @ARGV) )
+{
+	$iscppsql = 1;
+}
+
+if( grep(/-sc|--sqlcreate/, @ARGV) )
+{
+	$iscreatesql = 1;
+}
+
+if( grep(/-php|--phptablecols/, @ARGV) )
+{
+	$isphp = 1;
+}
+
+
+use LogFormat;
+
+my $filename = "log_stat.h";
+my $fmt = new LogFormat($filename);
+
+
+unless ( $fmt->load() == 0 )
+{
+	die("log format load failed");
+}
+
+if( $isdebug )
+{
+	$fmt->debug();
+}
+elsif( $iscppsql )
+{
+	$fmt->write_cpp_sql_case();
+}
+elsif( $iscreatesql )
+{
+	$fmt->write_create_sql();
+}
+elsif( $isphp )
+{
+	$fmt->write_php_table_col();
+}
+else
+{
+	$fmt->export();
+}
+
+
+

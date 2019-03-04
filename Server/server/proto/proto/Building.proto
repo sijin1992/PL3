@@ -1,0 +1,9 @@
+
+
+message BuildingInfo {
+	
+	required int32 level = 1;
+	optional int32 upgrade_begin_time = 2;
+	optional bool helped = 3;
+	optional int32 upgrade_exp = 4;
+}

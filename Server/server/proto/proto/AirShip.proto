@@ -1,0 +1,77 @@
+
+message AirShip
+{
+	required int32 guid = 1;
+	required int32 id = 2;
+	required int32 status = 3;//状态 0:普通 1：上阵 2：修理 4:出征
+	required int32 type = 4;//类型
+	required int32 kind = 5;//种类
+	required int32 quality = 6;//品质
+	required int32 star = 7;//星级
+	required int32 level = 8;//等级
+	required int32 skill = 9;//技能
+
+	repeated int32 weapon_list = 10;//小技能GUID列表（战斗时下发ID列表）
+
+	repeated int32 attr = 11;
+	//{
+	// required int32 anger = 1;//怒气
+	// required int32 life = 2;//血量
+	// required int32 attack = 3;//物理攻击
+	// required int32 defence = 4;//防御
+	// required int32 speed = 5;//速度
+	// required int32 probability_hit = 6;//命中几率
+	// required int32 probability_dodge = 7;//闪避几率
+	// required int32 probability_crit = 8;//暴击几率
+	// required int32 probability_anticrit = 9;//抗暴几率
+	// required int32 attack_addition = 10;//物理攻击力加成（百分比）
+	// required int32 attack_duration_addition = 11;//持续伤害加成（百分比）
+	// required int32 hurt_subtration = 12;//伤害减免（百分比）
+	// required int32 hurt_duration_subtration = 13;//持续伤害减免（百分比）
+	// required int32 shield = 14;//护盾（固定值）
+	// required int32 use_anger_addition = 15;//使用怒气消耗加成（固定值）
+	// required int32 be_cure_addition = 16;//被治疗时加成（百分比）
+	// required int32 anger_restore = 17;//怒气恢复
+	// required int32 defence_addition = 18;//防御加成(百分比)
+	// required int32 hurt_addition = 19;//伤害加成
+	// required int32 energy_attack = 20;//能量攻击
+	// required int32 energy_attack_addition = 21;//能量攻击力加成（百分比）
+	// required int32 crit_effect = 22;//暴击效果（百分比）
+	// required int32 HURT_REBOUND = 23;//伤害反弹
+	// required int32 penetrate = 24;//无视防御（百分比）
+	// required int32 vampire = 25;//吸血（百分比）
+	// required int32 life_rate = 26;//生命提高(百分比)(战斗前计算)
+	// required int32 attack_rate = 27;//物理攻击提高(百分比)(战斗前计算)
+	// required int32 energy_attack_rate = 28;//能量攻击提高(百分比)(战斗前计算)
+	// required int32 defence_rate = 29;//防御提高(百分比)(战斗前计算)
+	// required int32 final_probability_hit = 30;//最终命中几率(百分比)
+	// required int32 final_probability_dodge = 31;//最终闪避几率(百分比)
+	// required int32 final_probability_crit = 32;//最终暴击几率(百分比)
+	// required int32 final_probability_anticrit = 33;//最终抗暴几率(百分比)
+	// required int32 HURT_REBOUND_SUBTRATION = 34;//伤害反弹减免
+	// required int32 attack_value = 35;//伤害值(战斗用)
+	// required int32 hurt_value = 36;//受伤值(战斗用)
+	//}
+
+	required int32 load = 12;//负重
+	required int32 durable = 13;//耐久度
+
+	optional int32 position = 14;//阵型中的位置
+
+	repeated int32 equip_list = 15;
+	optional int32 exp = 16;
+
+	repeated int32 body_position = 17;//肉体位置（只在战斗中用到）
+	optional int32 ship_break = 18;	  //飞船已突破次数(默认0)
+	optional int64 start_fix_time = 19; // 飞船开始修理时间
+
+	repeated int32 gem_list = 20;
+
+	optional int32 energy_exp = 21;
+	optional int32 energy_level = 22;
+}
+
+message ShipList
+{
+	repeated AirShip ship_list = 1;
+}

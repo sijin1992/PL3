@@ -1,0 +1,22 @@
+message HttpAddMondyReq
+{
+    required int32 fd = 1;
+    required int64 session = 2;	
+    required string orderno = 3; //订单号
+    required int32 money = 4;	//充值金额，消耗的金钱amount
+    optional string sid = 5;	//服务器ID
+    optional string extinfo = 6; //商品ID
+	
+    optional int32 selfdef = 7; //是否是自定义充值
+    optional int32 gamemoney = 8;  //获得总游戏币
+    optional int32 basemoney = 9;  //基础游戏币
+    optional int32 monthcard = 10;  //月卡或者终生卡
+
+    optional int32 fake = 11; //是否是虚假的
+}
+
+message HttpAddMondyResp
+{
+	required int32 result = 1;
+	required HttpAddMondyReq req = 2;
+}

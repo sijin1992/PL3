@@ -1,0 +1,2198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="libsrc">
+      <UniqueIdentifier>{f06c5772-5ed7-4a5c-be15-73c153d96f0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\binary">
+      <UniqueIdentifier>{793de02d-bdb8-4da5-9445-161b2f85dcbb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\codeset">
+      <UniqueIdentifier>{9f4affc4-bb53-4e3e-b618-d15d36bbf24c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\coding">
+      <UniqueIdentifier>{5eadefcf-1fb2-4caf-bcd6-a38188997b65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\dirtyword">
+      <UniqueIdentifier>{5a238769-be3a-4e88-8d53-5efeb6ec4e4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\ini">
+      <UniqueIdentifier>{aff39b5c-57ca-4fdd-867d-33a989986560}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\lock">
+      <UniqueIdentifier>{8daee023-9e6e-4297-b6fe-c04fc083015b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\mem_alloc">
+      <UniqueIdentifier>{8819cbb0-6bcc-4ce2-b38f-4ed1cbec51f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\memcached">
+      <UniqueIdentifier>{8fa14397-d0de-4913-aca2-9a022bb5a9ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\mysql_wrap">
+      <UniqueIdentifier>{3bc7c948-a832-482b-b160-c857f05dd9ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\net">
+      <UniqueIdentifier>{12e86e7b-f6a1-45c1-8728-9180f9e8e07d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\random">
+      <UniqueIdentifier>{1f895299-b785-4019-abd8-c32aa869912e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\process_manager">
+      <UniqueIdentifier>{6b4a5bff-36a8-407b-bc7b-1536b0cfdb8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\shm">
+      <UniqueIdentifier>{b69aa5dc-c2db-44a2-9db1-5881cf3bc5e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\string">
+      <UniqueIdentifier>{813a7565-4c94-4450-b3c3-bd44c1409acf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\struct">
+      <UniqueIdentifier>{45ee2abf-f41d-4b5e-b494-e008ad681537}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\time">
+      <UniqueIdentifier>{96c24204-32ac-4163-b17f-be68fa22fbc9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\weblib">
+      <UniqueIdentifier>{490efe13-766d-4d77-bd0b-5920049a8ccd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\log">
+      <UniqueIdentifier>{3632a756-fdb9-48b6-a10a-1a3c8130b47e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\codeset\test">
+      <UniqueIdentifier>{372f1f50-05c6-45d7-9e19-94e729f1e056}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\coding\base64">
+      <UniqueIdentifier>{f8f7fb13-6600-4d5f-9e15-aa7938d30e72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\coding\html">
+      <UniqueIdentifier>{1b311f90-8d00-4863-9afe-023fb326ca4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\coding\md5">
+      <UniqueIdentifier>{552dc55d-6645-4d58-8b28-fda2a4dc865c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\coding\sha1">
+      <UniqueIdentifier>{7419179d-b228-4a31-b02c-e56375f3e121}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\coding\url">
+      <UniqueIdentifier>{627e3808-3d6e-480f-89f2-291b1e782628}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\coding\base64\test">
+      <UniqueIdentifier>{7e84631f-8a26-4c82-9f26-7535faba8611}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\coding\html\test">
+      <UniqueIdentifier>{85aaa82d-9bda-48af-ac92-373fff6de81e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\coding\sha1\test">
+      <UniqueIdentifier>{c5d59071-bd10-447b-8811-be7cbef6a92c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\coding\url\test">
+      <UniqueIdentifier>{87b670ed-23cc-4cb8-b540-e1d254ee8cef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\mem_alloc\test">
+      <UniqueIdentifier>{5a176eda-ab2e-4dae-9e6e-2a8155a1ecd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\net\test">
+      <UniqueIdentifier>{491126c8-2ac8-47b5-9e10-50721846c6cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\process_manager\test">
+      <UniqueIdentifier>{0de39a9e-f0f7-4062-b4c9-4b2cf9cbf471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\random\test">
+      <UniqueIdentifier>{10a34421-fac6-43d1-87ac-5e268a58b5d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\shm\test">
+      <UniqueIdentifier>{e5b2c278-1857-447f-a7ba-48f887a6c4b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\string\test">
+      <UniqueIdentifier>{9bfb610a-1259-4b24-aeb2-a5e312b831c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\struct\test">
+      <UniqueIdentifier>{b59e7b82-5755-48cf-b320-8767fa92e1ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\struct\tree">
+      <UniqueIdentifier>{8857ebf3-1bf5-42d5-87d4-a3f40aea8927}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\time\test">
+      <UniqueIdentifier>{94148f0d-c2e5-4178-8654-cf406a2e8205}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\weblib\inc">
+      <UniqueIdentifier>{6271a3a6-9968-4be2-8ede-090a4894598c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\weblib\sample">
+      <UniqueIdentifier>{4d5b9725-54ab-434e-9069-6c77acd5bc6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\weblib\src">
+      <UniqueIdentifier>{69f1eea2-423e-47e6-9151-db6236d4fc0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\log\test">
+      <UniqueIdentifier>{216ee506-e25c-449e-8ddb-4ac59f3d7d02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server">
+      <UniqueIdentifier>{718f81ef-5dad-4859-84a7-1fa43b69b604}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\client_tool">
+      <UniqueIdentifier>{7e337992-8500-48ab-bffa-e0923c2493f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\common">
+      <UniqueIdentifier>{aa9dd54e-394e-4bd6-bd28-09b1378bc91f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\connect">
+      <UniqueIdentifier>{56ddd463-66ef-45a2-8054-dc8eda9a7748}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\connect\gateway">
+      <UniqueIdentifier>{748533db-b4e9-414b-a70f-594fd58c2732}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\connect\session_auth">
+      <UniqueIdentifier>{82d599ad-a9f6-4a10-bf8b-fd4261e36adb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\data_cache">
+      <UniqueIdentifier>{adec7cff-1f8c-4e8c-a7d6-b73253625a5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\dbsvr">
+      <UniqueIdentifier>{2e173d70-3b60-4273-988d-f8595493e24f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\dbsvr\lua">
+      <UniqueIdentifier>{d46a32de-2a88-4993-b7b2-49bf08d957e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\fixed_conf">
+      <UniqueIdentifier>{121e4dcb-bd02-4533-8e83-9b0f3873f206}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\global_httpcb">
+      <UniqueIdentifier>{65ec46d3-3fba-476d-9b2d-1c3b82ca6d52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\glstat">
+      <UniqueIdentifier>{8faa24ab-e8c6-438f-88fc-253279cfdb36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\glstat\output">
+      <UniqueIdentifier>{7f0594cc-b9de-409f-bbc1-fcf84586dd14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\glstat\stat perl tool">
+      <UniqueIdentifier>{c09ca7b5-9fe1-4f4d-8bbb-c23c3e40d32a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\logic">
+      <UniqueIdentifier>{a3a80286-b41e-4465-a04d-6c355e8d93da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\logic\test">
+      <UniqueIdentifier>{d4d4b38b-088e-40a6-a030-43b6c89a8afb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\logsvr">
+      <UniqueIdentifier>{3c26f178-ea23-403e-bb39-6bb3f79aba40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\lua_lib">
+      <UniqueIdentifier>{29f45e33-6a8e-4896-bd18-f35e5f7a278b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\main_logic">
+      <UniqueIdentifier>{dd82067a-4d87-4e18-b226-8b6b79fcf8a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\proto">
+      <UniqueIdentifier>{fa6ac7be-69e8-461c-99e4-1914e6789d81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\proto\proto">
+      <UniqueIdentifier>{a2db600a-c1c8-4694-9cc4-2ad9eaafd283}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\proto\proto4server">
+      <UniqueIdentifier>{dfb278c3-117d-4766-bbee-0ad85c95af6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\svr_centre">
+      <UniqueIdentifier>{2f2289ea-3635-4544-b7ea-8f65341eaa56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\tcplinker">
+      <UniqueIdentifier>{0282586d-2f26-46da-b638-19ef0bc7dea5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\template">
+      <UniqueIdentifier>{a657ab54-b935-4872-bbe7-02664442f4fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\test">
+      <UniqueIdentifier>{9026dc71-c7f6-4446-a9ff-77cf3d4a664e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\tools">
+      <UniqueIdentifier>{9d5216e0-f034-4107-8bc9-832837450949}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\xml2lua">
+      <UniqueIdentifier>{1058516e-6625-4b1c-b065-7ae4dd9f4e3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\lua">
+      <UniqueIdentifier>{457f96ea-f100-4d38-925c-a03714d37c1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\lua\logic">
+      <UniqueIdentifier>{df49b454-c8fd-441e-ace9-997d34e0c53c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsrc\binary\test">
+      <UniqueIdentifier>{ac61b3f1-3733-4e38-bc79-ac6ee36d5609}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\fixed_conf\flagsvr">
+      <UniqueIdentifier>{75e787f0-5e4b-4fbf-bf5b-2be93ca5c768}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="libsrc\make.sh">
+      <Filter>libsrc</Filter>
+    </None>
+    <None Include="libsrc\makefile">
+      <Filter>libsrc</Filter>
+    </None>
+    <None Include="libsrc\binary\makefile">
+      <Filter>libsrc\binary</Filter>
+    </None>
+    <None Include="libsrc\codeset\makefile">
+      <Filter>libsrc\codeset</Filter>
+    </None>
+    <None Include="libsrc\codeset\test\makefile">
+      <Filter>libsrc\codeset\test</Filter>
+    </None>
+    <None Include="libsrc\coding\base64\makefile">
+      <Filter>libsrc\coding\base64</Filter>
+    </None>
+    <None Include="libsrc\coding\base64\test\makefile">
+      <Filter>libsrc\coding\base64\test</Filter>
+    </None>
+    <None Include="libsrc\coding\html\makefile">
+      <Filter>libsrc\coding\html</Filter>
+    </None>
+    <None Include="libsrc\coding\html\test\makefile">
+      <Filter>libsrc\coding\html\test</Filter>
+    </None>
+    <None Include="libsrc\coding\md5\makefile">
+      <Filter>libsrc\coding\md5</Filter>
+    </None>
+    <None Include="libsrc\coding\url\makefile">
+      <Filter>libsrc\coding\url</Filter>
+    </None>
+    <None Include="libsrc\coding\url\test\makefile">
+      <Filter>libsrc\coding\url\test</Filter>
+    </None>
+    <None Include="libsrc\coding\sha1\makefile">
+      <Filter>libsrc\coding\sha1</Filter>
+    </None>
+    <None Include="libsrc\coding\sha1\test\makefile">
+      <Filter>libsrc\coding\sha1\test</Filter>
+    </None>
+    <None Include="libsrc\dirtyword\dirtyword.txt">
+      <Filter>libsrc\dirtyword</Filter>
+    </None>
+    <None Include="libsrc\dirtyword\makefile">
+      <Filter>libsrc\dirtyword</Filter>
+    </None>
+    <None Include="libsrc\ini\makefile">
+      <Filter>libsrc\ini</Filter>
+    </None>
+    <None Include="libsrc\lock\makefile">
+      <Filter>libsrc\lock</Filter>
+    </None>
+    <None Include="libsrc\mem_alloc\makefile">
+      <Filter>libsrc\mem_alloc</Filter>
+    </None>
+    <None Include="libsrc\mem_alloc\test\makefile">
+      <Filter>libsrc\mem_alloc\test</Filter>
+    </None>
+    <None Include="libsrc\mysql_wrap\makefile">
+      <Filter>libsrc\mysql_wrap</Filter>
+    </None>
+    <None Include="libsrc\net\backup.txt">
+      <Filter>libsrc\net</Filter>
+    </None>
+    <None Include="libsrc\net\makefile">
+      <Filter>libsrc\net</Filter>
+    </None>
+    <None Include="libsrc\net\test\makefile">
+      <Filter>libsrc\net\test</Filter>
+    </None>
+    <None Include="libsrc\log\makefile">
+      <Filter>libsrc\log</Filter>
+    </None>
+    <None Include="libsrc\log\test\makefile">
+      <Filter>libsrc\log\test</Filter>
+    </None>
+    <None Include="libsrc\weblib\readme.txt">
+      <Filter>libsrc\weblib</Filter>
+    </None>
+    <None Include="libsrc\weblib\src\Makefile">
+      <Filter>libsrc\weblib\src</Filter>
+    </None>
+    <None Include="libsrc\weblib\sample\makefile">
+      <Filter>libsrc\weblib\sample</Filter>
+    </None>
+    <None Include="libsrc\time\makefile">
+      <Filter>libsrc\time</Filter>
+    </None>
+    <None Include="libsrc\time\test\makefile">
+      <Filter>libsrc\time\test</Filter>
+    </None>
+    <None Include="libsrc\struct\readme.txt">
+      <Filter>libsrc\struct</Filter>
+    </None>
+    <None Include="libsrc\struct\makefile">
+      <Filter>libsrc\struct</Filter>
+    </None>
+    <None Include="libsrc\struct\test\main_dequeue">
+      <Filter>libsrc\struct\test</Filter>
+    </None>
+    <None Include="libsrc\struct\test\main_fifo">
+      <Filter>libsrc\struct\test</Filter>
+    </None>
+    <None Include="libsrc\struct\test\main_fsa">
+      <Filter>libsrc\struct\test</Filter>
+    </None>
+    <None Include="libsrc\struct\test\main_hashmap">
+      <Filter>libsrc\struct\test</Filter>
+    </None>
+    <None Include="libsrc\struct\test\main_msa">
+      <Filter>libsrc\struct\test</Filter>
+    </None>
+    <None Include="libsrc\struct\test\main_timer">
+      <Filter>libsrc\struct\test</Filter>
+    </None>
+    <None Include="libsrc\struct\test\makefile">
+      <Filter>libsrc\struct\test</Filter>
+    </None>
+    <None Include="libsrc\struct\tree\makefile">
+      <Filter>libsrc\struct\tree</Filter>
+    </None>
+    <None Include="libsrc\string\test\json.txt">
+      <Filter>libsrc\string\test</Filter>
+    </None>
+    <None Include="libsrc\string\test\makefile">
+      <Filter>libsrc\string\test</Filter>
+    </None>
+    <None Include="libsrc\shm\makefile">
+      <Filter>libsrc\shm</Filter>
+    </None>
+    <None Include="libsrc\shm\test\makefile">
+      <Filter>libsrc\shm\test</Filter>
+    </None>
+    <None Include="libsrc\process_manager\Makefile">
+      <Filter>libsrc\process_manager</Filter>
+    </None>
+    <None Include="libsrc\process_manager\test\makefile">
+      <Filter>libsrc\process_manager\test</Filter>
+    </None>
+    <None Include="libsrc\random\makefile">
+      <Filter>libsrc\random</Filter>
+    </None>
+    <None Include="libsrc\random\test\makefile">
+      <Filter>libsrc\random\test</Filter>
+    </None>
+    <None Include="makefile.depend" />
+    <None Include="add_money_callback.html" />
+    <None Include="gm.html" />
+    <None Include="send_mail.html" />
+    <None Include="战斗模拟.html" />
+    <None Include="server\makefile">
+      <Filter>server</Filter>
+    </None>
+    <None Include="server\checkAll.sh">
+      <Filter>server</Filter>
+    </None>
+    <None Include="server\doDB.sh">
+      <Filter>server</Filter>
+    </None>
+    <None Include="server\doFlag.sh">
+      <Filter>server</Filter>
+    </None>
+    <None Include="server\doLogic.sh">
+      <Filter>server</Filter>
+    </None>
+    <None Include="server\initissue.sh">
+      <Filter>server</Filter>
+    </None>
+    <None Include="server\install.sh">
+      <Filter>server</Filter>
+    </None>
+    <None Include="server\issue.sh">
+      <Filter>server</Filter>
+    </None>
+    <None Include="server\rsync.sh">
+      <Filter>server</Filter>
+    </None>
+    <None Include="server\start.sh">
+      <Filter>server</Filter>
+    </None>
+    <None Include="server\stop.sh">
+      <Filter>server</Filter>
+    </None>
+    <None Include="server\client_tool\main_robot.sh">
+      <Filter>server\client_tool</Filter>
+    </None>
+    <None Include="server\client_tool\CmdReaderAlias">
+      <Filter>server\client_tool</Filter>
+    </None>
+    <None Include="server\client_tool\makefile">
+      <Filter>server\client_tool</Filter>
+    </None>
+    <None Include="server\common\makefile">
+      <Filter>server\common</Filter>
+    </None>
+    <None Include="server\connect\readme.txt">
+      <Filter>server\connect</Filter>
+    </None>
+    <None Include="server\connect\makefile">
+      <Filter>server\connect</Filter>
+    </None>
+    <None Include="server\connect\connect.sh">
+      <Filter>server\connect</Filter>
+    </None>
+    <None Include="server\connect\httpcb.sh">
+      <Filter>server\connect</Filter>
+    </None>
+    <None Include="server\connect\policy.sh">
+      <Filter>server\connect</Filter>
+    </None>
+    <None Include="server\connect\gateway\gateway.sh">
+      <Filter>server\connect\gateway</Filter>
+    </None>
+    <None Include="server\connect\gateway\makefile">
+      <Filter>server\connect\gateway</Filter>
+    </None>
+    <None Include="server\connect\session_auth\session_auth.sh">
+      <Filter>server\connect\session_auth</Filter>
+    </None>
+    <None Include="server\connect\session_auth\makefile">
+      <Filter>server\connect\session_auth</Filter>
+    </None>
+    <None Include="server\data_cache\makefile">
+      <Filter>server\data_cache</Filter>
+    </None>
+    <None Include="server\dbsvr\dbsvr.sh">
+      <Filter>server\dbsvr</Filter>
+    </None>
+    <None Include="server\dbsvr\mysql_helper.sh">
+      <Filter>server\dbsvr</Filter>
+    </None>
+    <None Include="server\dbsvr\update.sh">
+      <Filter>server\dbsvr</Filter>
+    </None>
+    <None Include="server\dbsvr\readme.txt">
+      <Filter>server\dbsvr</Filter>
+    </None>
+    <None Include="server\dbsvr\makefile">
+      <Filter>server\dbsvr</Filter>
+    </None>
+    <None Include="server\dbsvr\lua\logic.lua">
+      <Filter>server\dbsvr\lua</Filter>
+    </None>
+    <None Include="server\fixed_conf\neice.user">
+      <Filter>server\fixed_conf</Filter>
+    </None>
+    <None Include="server\fixed_conf\readme.txt">
+      <Filter>server\fixed_conf</Filter>
+    </None>
+    <None Include="server\flagsvr\flagsvr.sh">
+      <Filter>server\fixed_conf\flagsvr</Filter>
+    </None>
+    <None Include="server\flagsvr\memcache_helper.sh">
+      <Filter>server\fixed_conf\flagsvr</Filter>
+    </None>
+    <None Include="server\flagsvr\readme.txt">
+      <Filter>server\fixed_conf\flagsvr</Filter>
+    </None>
+    <None Include="server\flagsvr\makefile">
+      <Filter>server\fixed_conf\flagsvr</Filter>
+    </None>
+    <None Include="server\global_httpcb\makefile">
+      <Filter>server\global_httpcb</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\create_caiwu_db.sql">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\DateWrap.pm">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\DBAccess.pm">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\DBTransport.pm">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\LevelsInfo.pm">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\LogFormat.pm">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\LogStat.pm">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\MainInfo.pm">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\Print.pm">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\PrintHtml.pm">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\ServerMailInfo.pm">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\ServerStat.pm">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\SingleInfo.pm">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\2014112719.log">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\readme.txt">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\cdkeyfirst">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\cdkeygen">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\db_test">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\dbconf">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\fmtout">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\fmtstat">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\glstat">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\glstatdb">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\glstatmail">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\mailtest">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\nameconf">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\printoutfile">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\serverconf">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\serverid_pair">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\stat perl tool\statconf">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </None>
+    <None Include="server\glstat\output\alter_kpi_table.sql">
+      <Filter>server\glstat\output</Filter>
+    </None>
+    <None Include="server\glstat\output\alter_log_table.sql">
+      <Filter>server\glstat\output</Filter>
+    </None>
+    <None Include="server\glstat\output\alter_server_table.sql">
+      <Filter>server\glstat\output</Filter>
+    </None>
+    <None Include="server\glstat\output\create_activity_db.sql">
+      <Filter>server\glstat\output</Filter>
+    </None>
+    <None Include="server\glstat\output\create_admin_db.sql">
+      <Filter>server\glstat\output</Filter>
+    </None>
+    <None Include="server\glstat\output\create_cdkey_db.sql">
+      <Filter>server\glstat\output</Filter>
+    </None>
+    <None Include="server\glstat\output\create_kpi_table.sql">
+      <Filter>server\glstat\output</Filter>
+    </None>
+    <None Include="server\glstat\output\create_log_db.sql">
+      <Filter>server\glstat\output</Filter>
+    </None>
+    <None Include="server\glstat\output\create_log_db_proc.sql">
+      <Filter>server\glstat\output</Filter>
+    </None>
+    <None Include="server\glstat\output\create_sdk_db.sql">
+      <Filter>server\glstat\output</Filter>
+    </None>
+    <None Include="server\glstat\output\extra_stat_proc.sql">
+      <Filter>server\glstat\output</Filter>
+    </None>
+    <None Include="server\glstat\output\KEYS_BATCH 0305.sql">
+      <Filter>server\glstat\output</Filter>
+    </None>
+    <None Include="server\glstat\output\statdb.sql">
+      <Filter>server\glstat\output</Filter>
+    </None>
+    <None Include="server\glstat\output\logtablecols.php">
+      <Filter>server\glstat\output</Filter>
+    </None>
+    <None Include="server\logic\readme.txt">
+      <Filter>server\logic</Filter>
+    </None>
+    <None Include="server\logic\makefile">
+      <Filter>server\logic</Filter>
+    </None>
+    <None Include="server\logic\test\makefile">
+      <Filter>server\logic\test</Filter>
+    </None>
+    <None Include="server\logsvr\logsvr.sh">
+      <Filter>server\logsvr</Filter>
+    </None>
+    <None Include="server\logsvr\readme.txt">
+      <Filter>server\logsvr</Filter>
+    </None>
+    <None Include="server\logsvr\makefile">
+      <Filter>server\logsvr</Filter>
+    </None>
+    <None Include="server\lua_lib\Makefile">
+      <Filter>server\lua_lib</Filter>
+    </None>
+    <None Include="server\main_logic\main_logic.sh">
+      <Filter>server\main_logic</Filter>
+    </None>
+    <None Include="server\main_logic\update.sh">
+      <Filter>server\main_logic</Filter>
+    </None>
+    <None Include="server\main_logic\makefile">
+      <Filter>server\main_logic</Filter>
+    </None>
+    <None Include="server\xml2lua\update.sh">
+      <Filter>server\xml2lua</Filter>
+    </None>
+    <None Include="server\xml2lua\makefile">
+      <Filter>server\xml2lua</Filter>
+    </None>
+    <None Include="server\xml2lua\xml2lua">
+      <Filter>server\xml2lua</Filter>
+    </None>
+    <None Include="server\tools\fight.txt">
+      <Filter>server\tools</Filter>
+    </None>
+    <None Include="server\tools\makefile">
+      <Filter>server\tools</Filter>
+    </None>
+    <None Include="server\test\test_db.sql">
+      <Filter>server\test</Filter>
+    </None>
+    <None Include="server\test\makefile">
+      <Filter>server\test</Filter>
+    </None>
+    <None Include="server\template\makefile">
+      <Filter>server\template</Filter>
+    </None>
+    <None Include="server\tcplinker\tcplinker.sh">
+      <Filter>server\tcplinker</Filter>
+    </None>
+    <None Include="server\tcplinker\readme.txt">
+      <Filter>server\tcplinker</Filter>
+    </None>
+    <None Include="server\tcplinker\makefile">
+      <Filter>server\tcplinker</Filter>
+    </None>
+    <None Include="server\svr_centre\svr_centre.sh">
+      <Filter>server\svr_centre</Filter>
+    </None>
+    <None Include="server\svr_centre\readme.txt">
+      <Filter>server\svr_centre</Filter>
+    </None>
+    <None Include="server\svr_centre\makefile">
+      <Filter>server\svr_centre</Filter>
+    </None>
+    <None Include="server\proto\proto4server\gateway.proto">
+      <Filter>server\proto\proto4server</Filter>
+    </None>
+    <None Include="server\proto\proto4server\gm_cmd.proto">
+      <Filter>server\proto\proto4server</Filter>
+    </None>
+    <None Include="server\proto\proto4server\httpcb.proto">
+      <Filter>server\proto\proto4server</Filter>
+    </None>
+    <None Include="server\proto\proto4server\inner_cmd.proto">
+      <Filter>server\proto\proto4server</Filter>
+    </None>
+    <None Include="server\proto\proto4server\logoutReq.proto">
+      <Filter>server\proto\proto4server</Filter>
+    </None>
+    <None Include="server\proto\proto4server\logoutResp.proto">
+      <Filter>server\proto\proto4server</Filter>
+    </None>
+    <None Include="server\proto\proto4server\logprotocol.proto">
+      <Filter>server\proto\proto4server</Filter>
+    </None>
+    <None Include="server\proto\proto4server\room_sync.proto">
+      <Filter>server\proto\proto4server</Filter>
+    </None>
+    <None Include="server\proto\update.sh">
+      <Filter>server\proto</Filter>
+    </None>
+    <None Include="server\proto\makefile">
+      <Filter>server\proto</Filter>
+    </None>
+    <None Include="server\lua\all_config.lua">
+      <Filter>server\lua</Filter>
+    </None>
+    <None Include="server\lua\lang.lua">
+      <Filter>server\lua</Filter>
+    </None>
+    <None Include="server\lua\lang_tw.lua">
+      <Filter>server\lua</Filter>
+    </None>
+    <None Include="server\lua\robot1.lua">
+      <Filter>server\lua</Filter>
+    </None>
+    <None Include="server\lua\robot2.lua">
+      <Filter>server\lua</Filter>
+    </None>
+    <None Include="server\lua\robot.lua">
+      <Filter>server\lua</Filter>
+    </None>
+    <None Include="server\lua\robot_tw.lua">
+      <Filter>server\lua</Filter>
+    </None>
+    <None Include="libsrc\binary\test\makefile">
+      <Filter>libsrc\binary\test</Filter>
+    </None>
+    <None Include="server\connect\update.sh">
+      <Filter>server\connect</Filter>
+    </None>
+    <None Include="server\connect\session_auth\update.sh">
+      <Filter>server\connect\session_auth</Filter>
+    </None>
+    <None Include="server\connect\gateway\update.sh">
+      <Filter>server\connect\gateway</Filter>
+    </None>
+    <None Include="server\tcplinker\update.sh">
+      <Filter>server\tcplinker</Filter>
+    </None>
+    <None Include="server\logsvr\update.sh">
+      <Filter>server\logsvr</Filter>
+    </None>
+    <None Include="server\svr_centre\update.sh">
+      <Filter>server\svr_centre</Filter>
+    </None>
+    <None Include="server\lua\logic\star_main_define.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua_lib\update.sh">
+      <Filter>server\lua_lib</Filter>
+    </None>
+    <None Include="server\global_httpcb\update.sh">
+      <Filter>server\global_httpcb</Filter>
+    </None>
+    <None Include="backup.sh" />
+    <None Include="server\lua\configuration.lua">
+      <Filter>server\lua</Filter>
+    </None>
+    <None Include="server\proto\proto\AirShip.proto">
+      <Filter>server\proto\proto</Filter>
+    </None>
+    <None Include="server\proto\proto\cmd_define.proto">
+      <Filter>server\proto\proto</Filter>
+    </None>
+    <None Include="server\proto\proto\cmd_rank.proto">
+      <Filter>server\proto\proto</Filter>
+    </None>
+    <None Include="server\proto\proto\CmdPve.proto">
+      <Filter>server\proto\proto</Filter>
+    </None>
+    <None Include="server\proto\proto\CmdPvp.proto">
+      <Filter>server\proto\proto</Filter>
+    </None>
+    <None Include="server\proto\proto\CmdUser.proto">
+      <Filter>server\proto\proto</Filter>
+    </None>
+    <None Include="server\proto\proto\config.proto">
+      <Filter>server\proto\proto</Filter>
+    </None>
+    <None Include="server\proto\proto\datablock.proto">
+      <Filter>server\proto\proto</Filter>
+    </None>
+    <None Include="server\proto\proto\FlagShip.proto">
+      <Filter>server\proto\proto</Filter>
+    </None>
+    <None Include="server\proto\proto\heartBeatResp.proto">
+      <Filter>server\proto\proto</Filter>
+    </None>
+    <None Include="server\proto\proto\item.proto">
+      <Filter>server\proto\proto</Filter>
+    </None>
+    <None Include="server\proto\proto\mail.proto">
+      <Filter>server\proto\proto</Filter>
+    </None>
+    <None Include="server\proto\proto\PveInfo.proto">
+      <Filter>server\proto\proto</Filter>
+    </None>
+    <None Include="server\proto\proto\PvpInfo.proto">
+      <Filter>server\proto\proto</Filter>
+    </None>
+    <None Include="server\proto\proto\rank.proto">
+      <Filter>server\proto\proto</Filter>
+    </None>
+    <None Include="server\proto\proto\worldboss.proto">
+      <Filter>server\proto\proto</Filter>
+    </None>
+    <None Include="server\proto\proto\cmd_group.proto">
+      <Filter>server\proto\proto</Filter>
+    </None>
+    <None Include="server\proto\proto\CmdEquip.proto">
+      <Filter>server\proto\proto</Filter>
+    </None>
+    <None Include="server\proto\proto\CmdLogin.proto">
+      <Filter>server\proto\proto</Filter>
+    </None>
+    <None Include="server\proto\proto\Equip.proto">
+      <Filter>server\proto\proto</Filter>
+    </None>
+    <None Include="server\proto\proto\Group.proto">
+      <Filter>server\proto\proto</Filter>
+    </None>
+    <None Include="server\proto\proto\UserInfo.proto">
+      <Filter>server\proto\proto</Filter>
+    </None>
+    <None Include="server\proto\proto\CmdGroup.proto">
+      <Filter>server\proto\proto</Filter>
+    </None>
+    <None Include="server\lua\logic\TestFightPvp.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\tianji_msg.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\time_checking.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\TimeChecker.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\Tools.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\TrialCache.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\UserGroup.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\UserInfo.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\UserInfoCache.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\VideoCache.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\wboss_module.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\wlzb.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\worldboss.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\ArenaCache.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\Bit.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\block.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\cangjian_rank.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\ChatLoger.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\chongzhi_rank.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\choujiang.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\cjsz_rank.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\cmd_base.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\cmd_equip.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\cmd_group.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\cmd_huodong.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\cmd_knight.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\cmd_mail.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\cmd_pve.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\cmd_pvp.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\cmd_skill.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\cmd_test.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\cmd_trial.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\cmd_wboss.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\CmdActivity.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\CmdArena.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\CmdBase.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\CmdBuilding.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\CmdEquip.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\CmdGroup.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\CmdHome.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\CmdMail.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\CmdPlanet.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\CmdSlave.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\CmdTechnology.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\CmdTrial.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\CmdWeapon.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\core_calc_power.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\core_drop.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\core_money.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\core_send_mail.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\core_task.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\core_user_funcs.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\core_vip.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\CoreItem.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\CoreMail.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\CoreShip.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\CoreUser.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\Equip.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\fight.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\fight_event.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\fight_knight.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\fight_leader.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\fight_monster.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\fight_role.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\fight_skill.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\FightPve.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\FightPveBak.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\FightPvp.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\global.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\global_huodong.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\global_mail.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\gm.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\GolbalActivity.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\group_cache.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\GroupCache.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\gulong_main_define.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\ItemList.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\json.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\log_module.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\logic_equip.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\logic_group.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\logic_huodong.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\logic_knight.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\logic_skill.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\logic_user.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\MailList.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\mpz.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\nick_name.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\nick_name_ctrl.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\notify.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\PathReach.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\PlanetCache.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\PlanetStatusMachine.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\pve.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\pve2_power.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\pvp.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\pvp_rcd.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\qhaoxia_rank.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\rank_list.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\redo_list.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\RedoList.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\reg_cmd.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\robmine.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\ShipList.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\SlaveCache.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\special_api.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\special_logic.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\star_main_define.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\svr_info.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\SyncUserCache.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+    <None Include="server\lua\logic\TestFightPve.lua">
+      <Filter>server\lua\logic</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="libsrc\binary\binary_util.h">
+      <Filter>libsrc\binary</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\codeset\codeset.h">
+      <Filter>libsrc\codeset</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\coding\base64\base64.h">
+      <Filter>libsrc\coding\base64</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\coding\html\html_coding.h">
+      <Filter>libsrc\coding\html</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\coding\md5\md5.h">
+      <Filter>libsrc\coding\md5</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\coding\url\url_coding.h">
+      <Filter>libsrc\coding\url</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\coding\url\url_easy.h">
+      <Filter>libsrc\coding\url</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\coding\sha1\hmac_sha1.h">
+      <Filter>libsrc\coding\sha1</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\dirtyword\dirtyword.h">
+      <Filter>libsrc\dirtyword</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\ini\ini_file.h">
+      <Filter>libsrc\ini</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\lock\lock.h">
+      <Filter>libsrc\lock</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\lock\lock_file.h">
+      <Filter>libsrc\lock</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\lock\lock_guard.h">
+      <Filter>libsrc\lock</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\lock\lock_sem.h">
+      <Filter>libsrc\lock</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\mem_alloc\mem_alloc.h">
+      <Filter>libsrc\mem_alloc</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\mem_alloc\mem_buff.h">
+      <Filter>libsrc\mem_alloc</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\mem_alloc\obj_pool.h">
+      <Filter>libsrc\mem_alloc</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\mem_alloc\trace_new.h">
+      <Filter>libsrc\mem_alloc</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\memcached\my_memcached.hpp">
+      <Filter>libsrc\memcached</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\mysql_wrap\mysql_wrap.h">
+      <Filter>libsrc\mysql_wrap</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\net\curlwrap.h">
+      <Filter>libsrc\net</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\net\epoll_wrap.h">
+      <Filter>libsrc\net</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\net\tcp_client.h">
+      <Filter>libsrc\net</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\net\tcpwrap.h">
+      <Filter>libsrc\net</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\log\log.h">
+      <Filter>libsrc\log</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\log\log_stat.h">
+      <Filter>libsrc\log</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\log\writer_proxy.h">
+      <Filter>libsrc\log</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\weblib\inc\weball.h">
+      <Filter>libsrc\weblib\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\weblib\inc\webapp.h">
+      <Filter>libsrc\weblib\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\weblib\inc\webdef.h">
+      <Filter>libsrc\weblib\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\weblib\inc\webpage.h">
+      <Filter>libsrc\weblib\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\weblib\inc\webparam.h">
+      <Filter>libsrc\weblib\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\time\calculagraph.h">
+      <Filter>libsrc\time</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\time\interval_ms.h">
+      <Filter>libsrc\time</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\time\time_util.h">
+      <Filter>libsrc\time</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\struct\common_def.h">
+      <Filter>libsrc\struct</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\struct\fifo_queue.h">
+      <Filter>libsrc\struct</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\struct\fixedsize_allocator.h">
+      <Filter>libsrc\struct</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\struct\hash_map.h">
+      <Filter>libsrc\struct</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\struct\hash_type.h">
+      <Filter>libsrc\struct</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\struct\mem_dequeue.h">
+      <Filter>libsrc\struct</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\struct\mutilsize_allocator.h">
+      <Filter>libsrc\struct</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\struct\timer.h">
+      <Filter>libsrc\struct</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\struct\uniq_id.h">
+      <Filter>libsrc\struct</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\struct\tree\binarytree.h">
+      <Filter>libsrc\struct\tree</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\struct\tree\visitor.h">
+      <Filter>libsrc\struct\tree</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\string\simplejson.h">
+      <Filter>libsrc\string</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\string\strutil.h">
+      <Filter>libsrc\string</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\shm\mmap_wrap.h">
+      <Filter>libsrc\shm</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\shm\shm_wrap.h">
+      <Filter>libsrc\shm</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\process_manager\process_box.h">
+      <Filter>libsrc\process_manager</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\process_manager\process_manager.h">
+      <Filter>libsrc\process_manager</Filter>
+    </ClInclude>
+    <ClInclude Include="libsrc\random\random.h">
+      <Filter>libsrc\random</Filter>
+    </ClInclude>
+    <ClInclude Include="server\client_tool\all_client.h">
+      <Filter>server\client_tool</Filter>
+    </ClInclude>
+    <ClInclude Include="server\client_tool\client_equip.h">
+      <Filter>server\client_tool</Filter>
+    </ClInclude>
+    <ClInclude Include="server\client_tool\client_gm.h">
+      <Filter>server\client_tool</Filter>
+    </ClInclude>
+    <ClInclude Include="server\client_tool\client_group.h">
+      <Filter>server\client_tool</Filter>
+    </ClInclude>
+    <ClInclude Include="server\client_tool\client_heartbeat.h">
+      <Filter>server\client_tool</Filter>
+    </ClInclude>
+    <ClInclude Include="server\client_tool\client_huodong.h">
+      <Filter>server\client_tool</Filter>
+    </ClInclude>
+    <ClInclude Include="server\client_tool\client_interface.h">
+      <Filter>server\client_tool</Filter>
+    </ClInclude>
+    <ClInclude Include="server\client_tool\client_knight.h">
+      <Filter>server\client_tool</Filter>
+    </ClInclude>
+    <ClInclude Include="server\client_tool\client_login.h">
+      <Filter>server\client_tool</Filter>
+    </ClInclude>
+    <ClInclude Include="server\client_tool\client_logout.h">
+      <Filter>server\client_tool</Filter>
+    </ClInclude>
+    <ClInclude Include="server\client_tool\client_mail.h">
+      <Filter>server\client_tool</Filter>
+    </ClInclude>
+    <ClInclude Include="server\client_tool\client_pve.h">
+      <Filter>server\client_tool</Filter>
+    </ClInclude>
+    <ClInclude Include="server\client_tool\client_pvp.h">
+      <Filter>server\client_tool</Filter>
+    </ClInclude>
+    <ClInclude Include="server\client_tool\client_regist.h">
+      <Filter>server\client_tool</Filter>
+    </ClInclude>
+    <ClInclude Include="server\client_tool\client_server.h">
+      <Filter>server\client_tool</Filter>
+    </ClInclude>
+    <ClInclude Include="server\client_tool\client_skill.h">
+      <Filter>server\client_tool</Filter>
+    </ClInclude>
+    <ClInclude Include="server\client_tool\client_sync.h">
+      <Filter>server\client_tool</Filter>
+    </ClInclude>
+    <ClInclude Include="server\client_tool\client_test.h">
+      <Filter>server\client_tool</Filter>
+    </ClInclude>
+    <ClInclude Include="server\client_tool\client_trial.h">
+      <Filter>server\client_tool</Filter>
+    </ClInclude>
+    <ClInclude Include="server\client_tool\client_user.h">
+      <Filter>server\client_tool</Filter>
+    </ClInclude>
+    <ClInclude Include="server\client_tool\client_wboss.h">
+      <Filter>server\client_tool</Filter>
+    </ClInclude>
+    <ClInclude Include="server\client_tool\cmd_reader.h">
+      <Filter>server\client_tool</Filter>
+    </ClInclude>
+    <ClInclude Include="server\common\bin_protocol.h">
+      <Filter>server\common</Filter>
+    </ClInclude>
+    <ClInclude Include="server\common\id_creator.h">
+      <Filter>server\common</Filter>
+    </ClInclude>
+    <ClInclude Include="server\common\indexedmap.h">
+      <Filter>server\common</Filter>
+    </ClInclude>
+    <ClInclude Include="server\common\mem_guard.h">
+      <Filter>server\common</Filter>
+    </ClInclude>
+    <ClInclude Include="server\common\msg_define.h">
+      <Filter>server\common</Filter>
+    </ClInclude>
+    <ClInclude Include="server\common\packet_interface.h">
+      <Filter>server\common</Filter>
+    </ClInclude>
+    <ClInclude Include="server\common\queue_pipe.h">
+      <Filter>server\common</Filter>
+    </ClInclude>
+    <ClInclude Include="server\common\server_tool.h">
+      <Filter>server\common</Filter>
+    </ClInclude>
+    <ClInclude Include="server\common\shm_hash_map.h">
+      <Filter>server\common</Filter>
+    </ClInclude>
+    <ClInclude Include="server\common\shm_timer.h">
+      <Filter>server\common</Filter>
+    </ClInclude>
+    <ClInclude Include="server\common\sleep_control.h">
+      <Filter>server\common</Filter>
+    </ClInclude>
+    <ClInclude Include="server\common\speed_control.h">
+      <Filter>server\common</Filter>
+    </ClInclude>
+    <ClInclude Include="server\common\user_distribute.h">
+      <Filter>server\common</Filter>
+    </ClInclude>
+    <ClInclude Include="server\common\zone_define.h">
+      <Filter>server\common</Filter>
+    </ClInclude>
+    <ClInclude Include="server\connect\broadcast_manager.h">
+      <Filter>server\connect</Filter>
+    </ClInclude>
+    <ClInclude Include="server\connect\connect_protocol.h">
+      <Filter>server\connect</Filter>
+    </ClInclude>
+    <ClInclude Include="server\connect\gateway\http_helper.h">
+      <Filter>server\connect\gateway</Filter>
+    </ClInclude>
+    <ClInclude Include="server\connect\gateway\log_adapter.h">
+      <Filter>server\connect\gateway</Filter>
+    </ClInclude>
+    <ClInclude Include="server\connect\gateway\logic_auth_task.h">
+      <Filter>server\connect\gateway</Filter>
+    </ClInclude>
+    <ClInclude Include="server\connect\gateway\logic_log_task.h">
+      <Filter>server\connect\gateway</Filter>
+    </ClInclude>
+    <ClInclude Include="server\connect\gateway\logic_notify_logic_info.h">
+      <Filter>server\connect\gateway</Filter>
+    </ClInclude>
+    <ClInclude Include="server\connect\gateway\logic_userinfo_report.h">
+      <Filter>server\connect\gateway</Filter>
+    </ClInclude>
+    <ClInclude Include="server\connect\gateway\select_server.h">
+      <Filter>server\connect\gateway</Filter>
+    </ClInclude>
+    <ClInclude Include="server\connect\session_auth\connect_map.h">
+      <Filter>server\connect\session_auth</Filter>
+    </ClInclude>
+    <ClInclude Include="server\connect\session_auth\parse_pb.h">
+      <Filter>server\connect\session_auth</Filter>
+    </ClInclude>
+    <ClInclude Include="server\data_cache\data_cache.h">
+      <Filter>server\data_cache</Filter>
+    </ClInclude>
+    <ClInclude Include="server\data_cache\data_cache_api.h">
+      <Filter>server\data_cache</Filter>
+    </ClInclude>
+    <ClInclude Include="server\dbsvr\logic_db.h">
+      <Filter>server\dbsvr</Filter>
+    </ClInclude>
+    <ClInclude Include="server\dbsvr\logic_dbgroupuser.h">
+      <Filter>server\dbsvr</Filter>
+    </ClInclude>
+    <ClInclude Include="server\dbsvr\login_lock.h">
+      <Filter>server\dbsvr</Filter>
+    </ClInclude>
+    <ClInclude Include="server\dbsvr\lua52wrap.h">
+      <Filter>server\dbsvr</Filter>
+    </ClInclude>
+    <ClInclude Include="server\flagsvr\flag_svr_def.h">
+      <Filter>server\fixed_conf\flagsvr</Filter>
+    </ClInclude>
+    <ClInclude Include="server\flagsvr\rank_pool.h">
+      <Filter>server\fixed_conf\flagsvr</Filter>
+    </ClInclude>
+    <ClInclude Include="server\flagsvr\rank_pool_wrapper.h">
+      <Filter>server\fixed_conf\flagsvr</Filter>
+    </ClInclude>
+    <ClInclude Include="server\flagsvr\rank_wboss.h">
+      <Filter>server\fixed_conf\flagsvr</Filter>
+    </ClInclude>
+    <ClInclude Include="server\flagsvr\rank_wrapper.h">
+      <Filter>server\fixed_conf\flagsvr</Filter>
+    </ClInclude>
+    <ClInclude Include="server\flagsvr\rank_wrapper_manager.h">
+      <Filter>server\fixed_conf\flagsvr</Filter>
+    </ClInclude>
+    <ClInclude Include="server\flagsvr\wboss_rank_manager.h">
+      <Filter>server\fixed_conf\flagsvr</Filter>
+    </ClInclude>
+    <ClInclude Include="server\global_httpcb\global_http_helper.h">
+      <Filter>server\global_httpcb</Filter>
+    </ClInclude>
+    <ClInclude Include="server\glstat\stat perl tool\log_stat.h">
+      <Filter>server\glstat\stat perl tool</Filter>
+    </ClInclude>
+    <ClInclude Include="server\glstat\output\tosql.hpp">
+      <Filter>server\glstat\output</Filter>
+    </ClInclude>
+    <ClInclude Include="server\logic\driver.h">
+      <Filter>server\logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\logic\handle.h">
+      <Filter>server\logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\logic\handle_manager.h">
+      <Filter>server\logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\logic\log_pipe_writer.h">
+      <Filter>server\logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\logic\msg.h">
+      <Filter>server\logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\logic\msg_queue.h">
+      <Filter>server\logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\logic\toolkit.h">
+      <Filter>server\logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\logsvr\log_svr_def.h">
+      <Filter>server\logsvr</Filter>
+    </ClInclude>
+    <ClInclude Include="server\logsvr\logic_logproxy.h">
+      <Filter>server\logsvr</Filter>
+    </ClInclude>
+    <ClInclude Include="server\logsvr\mysql_proxy.h">
+      <Filter>server\logsvr</Filter>
+    </ClInclude>
+    <ClInclude Include="server\logsvr\mysql_table_wrapper.h">
+      <Filter>server\logsvr</Filter>
+    </ClInclude>
+    <ClInclude Include="server\logsvr\SqlFormat.h">
+      <Filter>server\logsvr</Filter>
+    </ClInclude>
+    <ClInclude Include="server\logsvr\StringHelper.h">
+      <Filter>server\logsvr</Filter>
+    </ClInclude>
+    <ClInclude Include="server\logsvr\tosql.hpp">
+      <Filter>server\logsvr</Filter>
+    </ClInclude>
+    <ClInclude Include="server\lua_lib\mmap_module.h">
+      <Filter>server\lua_lib</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\data_control.h">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\heart_beat.h">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\logic_cdkey.h">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\logic_chat.h">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\logic_gm.h">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\logic_gm_usersnap.h">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\logic_httpcb.h">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\logic_info.h">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\logic_lua.h">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\logic_task_manager.h">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\logic_tool.h">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\logic_util.h">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\login.h">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\logout.h">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\lua52wrap.h">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\lua_cmd_handle.h">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\lua_config_wrap.h">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\lua_global_wrap.h">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\lua_manager.h">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\neiceuser.h">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\online_cache.h">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\regist.h">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\user_data_base.h">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\usergroup.h">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\wboss_for_lua.hpp">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\world_boss_manager.h">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\main_logic\world_boss_realtime.h">
+      <Filter>server\main_logic</Filter>
+    </ClInclude>
+    <ClInclude Include="server\xml2lua\tinyxml2.h">
+      <Filter>server\xml2lua</Filter>
+    </ClInclude>
+    <ClInclude Include="server\test\my_memcached.hpp">
+      <Filter>server\test</Filter>
+    </ClInclude>
+    <ClInclude Include="server\test\mysqltest.h">
+      <Filter>server\test</Filter>
+    </ClInclude>
+    <ClInclude Include="server\template\logic_template.h">
+      <Filter>server\template</Filter>
+    </ClInclude>
+    <ClInclude Include="server\template\logic_template_uniq.h">
+      <Filter>server\template</Filter>
+    </ClInclude>
+    <ClInclude Include="server\tcplinker\linker_config.h">
+      <Filter>server\tcplinker</Filter>
+    </ClInclude>
+    <ClInclude Include="server\tcplinker\linker_io.h">
+      <Filter>server\tcplinker</Filter>
+    </ClInclude>
+    <ClInclude Include="server\tcplinker\linker_net.h">
+      <Filter>server\tcplinker</Filter>
+    </ClInclude>
+    <ClInclude Include="server\tcplinker\linker_process.h">
+      <Filter>server\tcplinker</Filter>
+    </ClInclude>
+    <ClInclude Include="server\svr_centre\tc_wrap.h">
+      <Filter>server\svr_centre</Filter>
+    </ClInclude>
+    <ClInclude Include="server\proto\inner_cmd.pb.h">
+      <Filter>server\proto</Filter>
+    </ClInclude>
+    <ClInclude Include="server\client_tool\client_robmine.h">
+      <Filter>server\client_tool</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="libsrc\binary\binary_util.cpp">
+      <Filter>libsrc\binary</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\codeset\codeset.cpp">
+      <Filter>libsrc\codeset</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\codeset\test\main.cpp">
+      <Filter>libsrc\codeset\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\coding\base64\base64.cpp">
+      <Filter>libsrc\coding\base64</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\coding\base64\test\main.cpp">
+      <Filter>libsrc\coding\base64\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\coding\html\html_coding.cpp">
+      <Filter>libsrc\coding\html</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\coding\html\test\main.cpp">
+      <Filter>libsrc\coding\html\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\coding\md5\md5.c">
+      <Filter>libsrc\coding\md5</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\coding\url\url_coding.cpp">
+      <Filter>libsrc\coding\url</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\coding\url\test\main.cpp">
+      <Filter>libsrc\coding\url\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\coding\sha1\hmac_sha1.cpp">
+      <Filter>libsrc\coding\sha1</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\coding\sha1\test\main.cpp">
+      <Filter>libsrc\coding\sha1\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\dirtyword\dwtool.cpp">
+      <Filter>libsrc\dirtyword</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\ini\ini_file.cpp">
+      <Filter>libsrc\ini</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\lock\lock_file.cpp">
+      <Filter>libsrc\lock</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\lock\lock_sem.cpp">
+      <Filter>libsrc\lock</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\mem_alloc\mem_alloc.cpp">
+      <Filter>libsrc\mem_alloc</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\mem_alloc\mem_buff.cpp">
+      <Filter>libsrc\mem_alloc</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\mem_alloc\obj_pool.cpp">
+      <Filter>libsrc\mem_alloc</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\mem_alloc\trace_new.cpp">
+      <Filter>libsrc\mem_alloc</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\mem_alloc\test\main.cpp">
+      <Filter>libsrc\mem_alloc\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\mem_alloc\test\main_pool.cpp">
+      <Filter>libsrc\mem_alloc\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\mysql_wrap\mysql_wrap.cpp">
+      <Filter>libsrc\mysql_wrap</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\net\epoll_wrap.cpp">
+      <Filter>libsrc\net</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\net\tcpwrap.cpp">
+      <Filter>libsrc\net</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\net\test\curltest.cpp">
+      <Filter>libsrc\net\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\net\test\main.cpp">
+      <Filter>libsrc\net\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\log\log.cpp">
+      <Filter>libsrc\log</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\log\test\main.cpp">
+      <Filter>libsrc\log\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\weblib\src\webapp.cpp">
+      <Filter>libsrc\weblib\src</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\weblib\src\webpage.cpp">
+      <Filter>libsrc\weblib\src</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\weblib\src\webparam.cpp">
+      <Filter>libsrc\weblib\src</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\weblib\sample\test.cpp">
+      <Filter>libsrc\weblib\sample</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\time\time_util.cpp">
+      <Filter>libsrc\time</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\time\test\main.cpp">
+      <Filter>libsrc\time\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\struct\fixedsize_allocator.cpp">
+      <Filter>libsrc\struct</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\struct\mutilsize_allocator.cpp">
+      <Filter>libsrc\struct</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\struct\test\main_dequeue.cpp">
+      <Filter>libsrc\struct\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\struct\test\main_fifo.cpp">
+      <Filter>libsrc\struct\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\struct\test\main_fsa.cpp">
+      <Filter>libsrc\struct\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\struct\test\main_hashmap.cpp">
+      <Filter>libsrc\struct\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\struct\test\main_msa.cpp">
+      <Filter>libsrc\struct\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\struct\test\main_timer.cpp">
+      <Filter>libsrc\struct\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\struct\tree\main.cpp">
+      <Filter>libsrc\struct\tree</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\string\test\main.cpp">
+      <Filter>libsrc\string\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\string\test\main_json.cpp">
+      <Filter>libsrc\string\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\shm\mmap_wrap.cpp">
+      <Filter>libsrc\shm</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\shm\shm_wrap.cpp">
+      <Filter>libsrc\shm</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\shm\test\main.cpp">
+      <Filter>libsrc\shm\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\process_manager\process_manager.cpp">
+      <Filter>libsrc\process_manager</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\process_manager\test\main.cpp">
+      <Filter>libsrc\process_manager\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\random\random.cpp">
+      <Filter>libsrc\random</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\random\test\main.cpp">
+      <Filter>libsrc\random\test</Filter>
+    </ClCompile>
+    <ClCompile Include="server\client_tool\client_interface.cpp">
+      <Filter>server\client_tool</Filter>
+    </ClCompile>
+    <ClCompile Include="server\client_tool\cmd_reader.cpp">
+      <Filter>server\client_tool</Filter>
+    </ClCompile>
+    <ClCompile Include="server\client_tool\main_client.cpp">
+      <Filter>server\client_tool</Filter>
+    </ClCompile>
+    <ClCompile Include="server\client_tool\main_robot.cpp">
+      <Filter>server\client_tool</Filter>
+    </ClCompile>
+    <ClCompile Include="server\client_tool\new_client.cpp">
+      <Filter>server\client_tool</Filter>
+    </ClCompile>
+    <ClCompile Include="server\common\msg_define.cpp">
+      <Filter>server\common</Filter>
+    </ClCompile>
+    <ClCompile Include="server\common\packet_interface.cpp">
+      <Filter>server\common</Filter>
+    </ClCompile>
+    <ClCompile Include="server\common\queue_pipe.cpp">
+      <Filter>server\common</Filter>
+    </ClCompile>
+    <ClCompile Include="server\common\speed_control.cpp">
+      <Filter>server\common</Filter>
+    </ClCompile>
+    <ClCompile Include="server\common\user_distribute.cpp">
+      <Filter>server\common</Filter>
+    </ClCompile>
+    <ClCompile Include="server\connect\broadcast_manager.cpp">
+      <Filter>server\connect</Filter>
+    </ClCompile>
+    <ClCompile Include="server\connect\client.cpp">
+      <Filter>server\connect</Filter>
+    </ClCompile>
+    <ClCompile Include="server\connect\connect.cpp">
+      <Filter>server\connect</Filter>
+    </ClCompile>
+    <ClCompile Include="server\connect\httpcb.cpp">
+      <Filter>server\connect</Filter>
+    </ClCompile>
+    <ClCompile Include="server\connect\policy.cpp">
+      <Filter>server\connect</Filter>
+    </ClCompile>
+    <ClCompile Include="server\connect\session_echo.cpp">
+      <Filter>server\connect</Filter>
+    </ClCompile>
+    <ClCompile Include="server\connect\gateway\gateway.cpp">
+      <Filter>server\connect\gateway</Filter>
+    </ClCompile>
+    <ClCompile Include="server\connect\gateway\log_debuger.cpp">
+      <Filter>server\connect\gateway</Filter>
+    </ClCompile>
+    <ClCompile Include="server\connect\session_auth\session_auth.cpp">
+      <Filter>server\connect\session_auth</Filter>
+    </ClCompile>
+    <ClCompile Include="server\data_cache\data_cache.cpp">
+      <Filter>server\data_cache</Filter>
+    </ClCompile>
+    <ClCompile Include="server\data_cache\data_cache_api.cpp">
+      <Filter>server\data_cache</Filter>
+    </ClCompile>
+    <ClCompile Include="server\dbsvr\db_tool.cpp">
+      <Filter>server\dbsvr</Filter>
+    </ClCompile>
+    <ClCompile Include="server\dbsvr\dbsvr.cpp">
+      <Filter>server\dbsvr</Filter>
+    </ClCompile>
+    <ClCompile Include="server\dbsvr\logic_dbgroupuser.cpp">
+      <Filter>server\dbsvr</Filter>
+    </ClCompile>
+    <ClCompile Include="server\dbsvr\mysql_helper.cpp">
+      <Filter>server\dbsvr</Filter>
+    </ClCompile>
+    <ClCompile Include="server\dbsvr\mysql_helper_tool.cpp">
+      <Filter>server\dbsvr</Filter>
+    </ClCompile>
+    <ClCompile Include="server\flagsvr\flagbackup.cpp">
+      <Filter>server\fixed_conf\flagsvr</Filter>
+    </ClCompile>
+    <ClCompile Include="server\flagsvr\flagsvr.cpp">
+      <Filter>server\fixed_conf\flagsvr</Filter>
+    </ClCompile>
+    <ClCompile Include="server\flagsvr\memcache_helper.cpp">
+      <Filter>server\fixed_conf\flagsvr</Filter>
+    </ClCompile>
+    <ClCompile Include="server\flagsvr\rank_pool.cpp">
+      <Filter>server\fixed_conf\flagsvr</Filter>
+    </ClCompile>
+    <ClCompile Include="server\flagsvr\rank_pool_wrapper.cpp">
+      <Filter>server\fixed_conf\flagsvr</Filter>
+    </ClCompile>
+    <ClCompile Include="server\flagsvr\rank_wboss.cpp">
+      <Filter>server\fixed_conf\flagsvr</Filter>
+    </ClCompile>
+    <ClCompile Include="server\flagsvr\rank_wrapper.cpp">
+      <Filter>server\fixed_conf\flagsvr</Filter>
+    </ClCompile>
+    <ClCompile Include="server\flagsvr\rank_wrapper_manager.cpp">
+      <Filter>server\fixed_conf\flagsvr</Filter>
+    </ClCompile>
+    <ClCompile Include="server\flagsvr\wboss_rank_manager.cpp">
+      <Filter>server\fixed_conf\flagsvr</Filter>
+    </ClCompile>
+    <ClCompile Include="server\global_httpcb\global_httpcb.cpp">
+      <Filter>server\global_httpcb</Filter>
+    </ClCompile>
+    <ClCompile Include="server\logic\driver.cpp">
+      <Filter>server\logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\logic\handle.cpp">
+      <Filter>server\logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\logic\handle_manager.cpp">
+      <Filter>server\logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\logic\msg.cpp">
+      <Filter>server\logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\logic\msg_queue.cpp">
+      <Filter>server\logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\logic\test\clientlogic.cpp">
+      <Filter>server\logic\test</Filter>
+    </ClCompile>
+    <ClCompile Include="server\logic\test\testlogic.cpp">
+      <Filter>server\logic\test</Filter>
+    </ClCompile>
+    <ClCompile Include="server\logsvr\logic_logproxy.cpp">
+      <Filter>server\logsvr</Filter>
+    </ClCompile>
+    <ClCompile Include="server\logsvr\logsvr.cpp">
+      <Filter>server\logsvr</Filter>
+    </ClCompile>
+    <ClCompile Include="server\logsvr\mysql_proxy.cpp">
+      <Filter>server\logsvr</Filter>
+    </ClCompile>
+    <ClCompile Include="server\logsvr\mysql_table_wrapper.cpp">
+      <Filter>server\logsvr</Filter>
+    </ClCompile>
+    <ClCompile Include="server\logsvr\StringHelper.cpp">
+      <Filter>server\logsvr</Filter>
+    </ClCompile>
+    <ClCompile Include="server\lua_lib\rank_list_module.c">
+      <Filter>server\lua_lib</Filter>
+    </ClCompile>
+    <ClCompile Include="server\lua_lib\util.c">
+      <Filter>server\lua_lib</Filter>
+    </ClCompile>
+    <ClCompile Include="server\lua_lib\lua_lib.cpp">
+      <Filter>server\lua_lib</Filter>
+    </ClCompile>
+    <ClCompile Include="server\main_logic\data_control.cpp">
+      <Filter>server\main_logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\main_logic\heart_beat.cpp">
+      <Filter>server\main_logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\main_logic\logic_cdkey.cpp">
+      <Filter>server\main_logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\main_logic\logic_chat.cpp">
+      <Filter>server\main_logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\main_logic\logic_gm.cpp">
+      <Filter>server\main_logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\main_logic\logic_gm_usersnap.cpp">
+      <Filter>server\main_logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\main_logic\logic_httpcb.cpp">
+      <Filter>server\main_logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\main_logic\logic_lua.cpp">
+      <Filter>server\main_logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\main_logic\logic_task_manager.cpp">
+      <Filter>server\main_logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\main_logic\logic_tool.cpp">
+      <Filter>server\main_logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\main_logic\logic_util.cpp">
+      <Filter>server\main_logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\main_logic\login.cpp">
+      <Filter>server\main_logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\main_logic\logout.cpp">
+      <Filter>server\main_logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\main_logic\lua_cmd_handle.cpp">
+      <Filter>server\main_logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\main_logic\lua_config_wrap.cpp">
+      <Filter>server\main_logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\main_logic\lua_global_wrap.cpp">
+      <Filter>server\main_logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\main_logic\lua_manager.cpp">
+      <Filter>server\main_logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\main_logic\main_logic.cpp">
+      <Filter>server\main_logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\main_logic\online_cache.cpp">
+      <Filter>server\main_logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\main_logic\regist.cpp">
+      <Filter>server\main_logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\main_logic\user_data_base.cpp">
+      <Filter>server\main_logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\main_logic\usergroup.cpp">
+      <Filter>server\main_logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\main_logic\world_boss_manager.cpp">
+      <Filter>server\main_logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\main_logic\world_boss_realtime.cpp">
+      <Filter>server\main_logic</Filter>
+    </ClCompile>
+    <ClCompile Include="server\xml2lua\robot2lua.cpp">
+      <Filter>server\xml2lua</Filter>
+    </ClCompile>
+    <ClCompile Include="server\xml2lua\tinyxml2.cpp">
+      <Filter>server\xml2lua</Filter>
+    </ClCompile>
+    <ClCompile Include="server\xml2lua\xml2lua.cpp">
+      <Filter>server\xml2lua</Filter>
+    </ClCompile>
+    <ClCompile Include="server\tools\robot.c">
+      <Filter>server\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="server\tools\arttool.cpp">
+      <Filter>server\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="server\tools\cdkey.cpp">
+      <Filter>server\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="server\tools\cdkeytool.cpp">
+      <Filter>server\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="server\tools\check_config.cpp">
+      <Filter>server\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="server\tools\dbparser.cpp">
+      <Filter>server\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="server\tools\dbsvr_info.cpp">
+      <Filter>server\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="server\tools\gmtool.cpp">
+      <Filter>server\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="server\tools\hash_tool.cpp">
+      <Filter>server\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="server\tools\leitaitool.cpp">
+      <Filter>server\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="server\tools\main_fight.cpp">
+      <Filter>server\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="server\tools\main_logic_info.cpp">
+      <Filter>server\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="server\tools\mysql_tools.cpp">
+      <Filter>server\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="server\tools\neicetool.cpp">
+      <Filter>server\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="server\tools\output.cpp">
+      <Filter>server\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="server\tools\pipe_info.cpp">
+      <Filter>server\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="server\tools\session_info.cpp">
+      <Filter>server\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="server\tools\worldeventcreator.cpp">
+      <Filter>server\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="server\test\cryptpassword.cpp">
+      <Filter>server\test</Filter>
+    </ClCompile>
+    <ClCompile Include="server\test\msgechosvr.cpp">
+      <Filter>server\test</Filter>
+    </ClCompile>
+    <ClCompile Include="server\test\mysqltest_main.cpp">
+      <Filter>server\test</Filter>
+    </ClCompile>
+    <ClCompile Include="server\test\noblocksendClt.cpp">
+      <Filter>server\test</Filter>
+    </ClCompile>
+    <ClCompile Include="server\test\noblocksendSvr.cpp">
+      <Filter>server\test</Filter>
+    </ClCompile>
+    <ClCompile Include="server\test\randtest.cpp">
+      <Filter>server\test</Filter>
+    </ClCompile>
+    <ClCompile Include="server\test\sessionid.cpp">
+      <Filter>server\test</Filter>
+    </ClCompile>
+    <ClCompile Include="server\test\sizetest.cpp">
+      <Filter>server\test</Filter>
+    </ClCompile>
+    <ClCompile Include="server\test\test_memcache.cpp">
+      <Filter>server\test</Filter>
+    </ClCompile>
+    <ClCompile Include="server\test\testindex.cpp">
+      <Filter>server\test</Filter>
+    </ClCompile>
+    <ClCompile Include="server\template\logic_template.cpp">
+      <Filter>server\template</Filter>
+    </ClCompile>
+    <ClCompile Include="server\template\logic_template_uniq.cpp">
+      <Filter>server\template</Filter>
+    </ClCompile>
+    <ClCompile Include="server\template\server_template.cpp">
+      <Filter>server\template</Filter>
+    </ClCompile>
+    <ClCompile Include="server\tcplinker\tcplinker.cpp">
+      <Filter>server\tcplinker</Filter>
+    </ClCompile>
+    <ClCompile Include="server\svr_centre\svr_centre.cpp">
+      <Filter>server\svr_centre</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\binary\test\main.cpp">
+      <Filter>libsrc\binary\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libsrc\net\tcp_client.cpp">
+      <Filter>libsrc\net</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
