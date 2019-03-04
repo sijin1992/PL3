@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<ID>1</ID>
+		<SCHEDULE>5</SCHEDULE>
+		<CONTRIBUTION>250</CONTRIBUTION>
+		<TYPE>3001</TYPE>
+		<NUM>250</NUM>
+	</Row>
+ 	<Row>
+		<ID>2</ID>
+		<SCHEDULE>10</SCHEDULE>
+		<CONTRIBUTION>500</CONTRIBUTION>
+		<TYPE>7001</TYPE>
+		<NUM>10</NUM>
+	</Row>
+ 	<Row>
+		<ID>3</ID>
+		<SCHEDULE>20</SCHEDULE>
+		<CONTRIBUTION>1000</CONTRIBUTION>
+		<TYPE>7001</TYPE>
+		<NUM>20</NUM>
+	</Row>
+</Root>

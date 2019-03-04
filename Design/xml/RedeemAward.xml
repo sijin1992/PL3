@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<ID>1</ID>
+		<ITEM_ID>7001,3001,16001,13001,</ITEM_ID>
+		<ITEM_NUM>188,88888,2,10,</ITEM_NUM>
+	</Row>
+</Root>

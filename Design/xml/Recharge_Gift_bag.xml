@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<ID>1</ID>
+		<COST>6</COST>
+		<DAY>1</DAY>
+		<ITEM>11001,13005,4001,5001,</ITEM>
+		<NUM>20,60,6000,6000,</NUM>
+	</Row>
+ 	<Row>
+		<ID>2</ID>
+		<COST>18</COST>
+		<DAY>3</DAY>
+		<ITEM>11001,13003,16002,13005,11105,</ITEM>
+		<NUM>45,4,1,130,1,</NUM>
+	</Row>
+ 	<Row>
+		<ID>3</ID>
+		<COST>30</COST>
+		<DAY>5</DAY>
+		<ITEM>902602,902902,902702,902802,11111,</ITEM>
+		<NUM>1,1,1,1,1,</NUM>
+	</Row>
+</Root>

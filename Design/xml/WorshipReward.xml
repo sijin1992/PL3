@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<ID>1</ID>
+		<ACTIVE_POINT1>200</ACTIVE_POINT1>
+		<REWARD1>1001</REWARD1>
+		<ACTIVE_POINT2>400</ACTIVE_POINT2>
+		<REWARD2>1002</REWARD2>
+		<ACTIVE_POINT3>800</ACTIVE_POINT3>
+		<REWARD3>1003</REWARD3>
+		<MAX>800</MAX>
+	</Row>
+</Root>

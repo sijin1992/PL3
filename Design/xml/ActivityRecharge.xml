@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<ID>2021</ID>
+		<NAME>RECHARGE_3</NAME>
+		<MEMO>RECHARGE_MEMO_3</MEMO>
+		<GROUP>1,2,3,4,5,6,7,8,</GROUP>
+	</Row>
+ 	<Row>
+		<ID>2022</ID>
+		<NAME>RECHARGE_3</NAME>
+		<MEMO>RECHARGE_MEMO_3</MEMO>
+		<GROUP>1,2,3,4,5,6,7,8,9,10,</GROUP>
+	</Row>
+</Root>

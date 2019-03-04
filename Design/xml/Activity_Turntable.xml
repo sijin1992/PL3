@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<ID>1</ID>
+		<TPYE>1</TPYE>
+		<COST_NUM>100</COST_NUM>
+		<GET>1</GET>
+		<ITEM>113004,18020,7001,17003,7001,17011,17002,7001,17001,7001,</ITEM>
+		<WEIGHT>6,25,10,33,5,28,33,3,33,2,</WEIGHT>
+		<NUM>1,8,1000,15,2000,6,6,3000,1,5000,</NUM>
+		<SINGLE>500</SINGLE>
+	</Row>
+</Root>

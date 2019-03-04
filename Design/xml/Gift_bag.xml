@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<ID>1010204</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>22,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>1,</NUM>
+	</Row>
+ 	<Row>
+		<ID>1010305</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>24,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>1,</NUM>
+	</Row>
+ 	<Row>
+		<ID>2010306</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>13,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>2,</NUM>
+	</Row>
+ 	<Row>
+		<ID>2010404</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>14,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>2,</NUM>
+	</Row>
+ 	<Row>
+		<ID>2010407</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>14,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>2,</NUM>
+	</Row>
+ 	<Row>
+		<ID>3010105</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>14,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>2,</NUM>
+	</Row>
+ 	<Row>
+		<ID>3010206</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>15,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>2,</NUM>
+	</Row>
+ 	<Row>
+		<ID>3010404</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>15,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>2,</NUM>
+	</Row>
+ 	<Row>
+		<ID>3010408</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>15,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>2,</NUM>
+	</Row>
+ 	<Row>
+		<ID>3010504</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>15,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>2,</NUM>
+	</Row>
+ 	<Row>
+		<ID>3010509</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>16,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>2,</NUM>
+	</Row>
+ 	<Row>
+		<ID>4010105</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>16,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>2,</NUM>
+	</Row>
+ 	<Row>
+		<ID>4010206</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>16,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>2,</NUM>
+	</Row>
+ 	<Row>
+		<ID>4010306</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>11,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>4010407</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>11,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>4010505</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>11,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>4010509</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>11,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>4010604</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>11,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>4010609</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>12,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>4010705</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>12,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>4010709</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>12,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>5010105</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>12,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>5010206</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>12,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>5010306</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>12,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>5010407</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>12,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>5010504</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>12,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>5010509</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>12,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>5010603</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>13,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>5010609</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>13,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>5010704</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>13,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>5010708</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>13,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>5010709</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>13,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>5010804</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>13,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>5010805</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>13,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>5010806</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>13,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>5010807</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>13,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>5010808</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>13,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>5010809</ID>
+		<TYPE>1</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>13,</WEIGHT>
+		<ITEM>200000,</ITEM>
+		<NUM>3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>11011</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>10,10,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,1,</NUM>
+	</Row>
+ 	<Row>
+		<ID>11031</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>10,10,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,1,</NUM>
+	</Row>
+ 	<Row>
+		<ID>11051</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>10,10,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,1,</NUM>
+	</Row>
+ 	<Row>
+		<ID>11061</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>11,11,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,1,</NUM>
+	</Row>
+ 	<Row>
+		<ID>11071</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>11,11,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,1,</NUM>
+	</Row>
+ 	<Row>
+		<ID>11081</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>11,11,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,1,</NUM>
+	</Row>
+ 	<Row>
+		<ID>11091</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>11,11,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,1,</NUM>
+	</Row>
+ 	<Row>
+		<ID>11102</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>11,11,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,1,</NUM>
+	</Row>
+ 	<Row>
+		<ID>21112</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>12,12,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,1,</NUM>
+	</Row>
+ 	<Row>
+		<ID>21122</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>12,12,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,1,</NUM>
+	</Row>
+ 	<Row>
+		<ID>21132</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>12,12,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,1,</NUM>
+	</Row>
+ 	<Row>
+		<ID>21142</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>12,12,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,1,</NUM>
+	</Row>
+ 	<Row>
+		<ID>21152</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>13,13,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,1,</NUM>
+	</Row>
+ 	<Row>
+		<ID>21162</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>13,13,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,1,</NUM>
+	</Row>
+ 	<Row>
+		<ID>21172</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>13,7,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,2,</NUM>
+	</Row>
+ 	<Row>
+		<ID>21182</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>13,7,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,2,</NUM>
+	</Row>
+ 	<Row>
+		<ID>21192</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>13,7,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,2,</NUM>
+	</Row>
+ 	<Row>
+		<ID>21202</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>14,7,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,2,</NUM>
+	</Row>
+ 	<Row>
+		<ID>31212</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>14,7,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,2,</NUM>
+	</Row>
+ 	<Row>
+		<ID>31222</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>14,7,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,2,</NUM>
+	</Row>
+ 	<Row>
+		<ID>31232</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>14,7,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,2,</NUM>
+	</Row>
+ 	<Row>
+		<ID>31242</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>14,7,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,2,</NUM>
+	</Row>
+ 	<Row>
+		<ID>31252</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>15,7,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,2,</NUM>
+	</Row>
+ 	<Row>
+		<ID>31262</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>15,7,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,2,</NUM>
+	</Row>
+ 	<Row>
+		<ID>31272</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>15,8,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,2,</NUM>
+	</Row>
+ 	<Row>
+		<ID>31282</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>15,8,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,2,</NUM>
+	</Row>
+ 	<Row>
+		<ID>31292</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>16,8,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,2,</NUM>
+	</Row>
+ 	<Row>
+		<ID>31303</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>16,8,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,2,</NUM>
+	</Row>
+ 	<Row>
+		<ID>41313</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>16,8,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,2,</NUM>
+	</Row>
+ 	<Row>
+		<ID>41323</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>16,5,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>41333</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>17,6,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>41343</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>17,6,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>41353</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>17,6,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>41363</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>17,6,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>41373</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>17,6,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>41383</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>18,6,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>41393</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>18,6,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>41403</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>18,6,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>51413</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>18,6,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>51423</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>18,6,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>51433</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>19,6,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>51443</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>19,6,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>51453</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>19,6,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,3,</NUM>
+	</Row>
+ 	<Row>
+		<ID>51464</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>19,5,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,4,</NUM>
+	</Row>
+ 	<Row>
+		<ID>51474</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>20,5,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,4,</NUM>
+	</Row>
+ 	<Row>
+		<ID>51484</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>20,5,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,4,</NUM>
+	</Row>
+ 	<Row>
+		<ID>51494</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>20,5,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,4,</NUM>
+	</Row>
+ 	<Row>
+		<ID>51504</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>20,5,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,4,</NUM>
+	</Row>
+ 	<Row>
+		<ID>61514</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>20,5,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,4,</NUM>
+	</Row>
+ 	<Row>
+		<ID>61524</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>21,5,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,4,</NUM>
+	</Row>
+ 	<Row>
+		<ID>61534</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>21,5,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,4,</NUM>
+	</Row>
+ 	<Row>
+		<ID>61544</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>21,5,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,4,</NUM>
+	</Row>
+ 	<Row>
+		<ID>61554</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>21,5,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,4,</NUM>
+	</Row>
+ 	<Row>
+		<ID>61564</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>22,5,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,4,</NUM>
+	</Row>
+ 	<Row>
+		<ID>61574</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>22,5,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,4,</NUM>
+	</Row>
+ 	<Row>
+		<ID>61584</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>22,6,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,4,</NUM>
+	</Row>
+ 	<Row>
+		<ID>61594</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>22,6,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,4,</NUM>
+	</Row>
+ 	<Row>
+		<ID>61604</ID>
+		<TYPE>2</TYPE>
+		<DROP_TYPE >99</DROP_TYPE >
+		<WEIGHT>22,6,</WEIGHT>
+		<ITEM>12008,200000,</ITEM>
+		<NUM>1,4,</NUM>
+	</Row>
+</Root>

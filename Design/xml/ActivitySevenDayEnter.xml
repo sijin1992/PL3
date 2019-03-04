@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<ID>11001</ID>
+		<NAME>ACTI_9</NAME>
+		<MEMO>enter_text</MEMO>
+		<PICTURE>1</PICTURE>
+		<GROUP>1,2,3,4,5,6,7</GROUP>
+	</Row>
+</Root>

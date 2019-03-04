@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<ID>11001</ID>
+		<PLANETWORLD>2</PLANETWORLD>
+		<COORDINATE>62,81</COORDINATE>
+		<TIME>300</TIME>
+		<PEOPLE_NUM>1</PEOPLE_NUM>
+	</Row>
+ 	<Row>
+		<ID>12001</ID>
+		<PLANETWORLD>4</PLANETWORLD>
+		<COORDINATE>49,94</COORDINATE>
+		<TIME>300</TIME>
+		<PEOPLE_NUM>2</PEOPLE_NUM>
+	</Row>
+ 	<Row>
+		<ID>13001</ID>
+		<PLANETWORLD>9</PLANETWORLD>
+		<COORDINATE>91126</COORDINATE>
+		<TIME>300</TIME>
+		<PEOPLE_NUM>3</PEOPLE_NUM>
+	</Row>
+</Root>

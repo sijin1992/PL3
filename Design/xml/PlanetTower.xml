@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<ID>1</ID>
+		<NODE_ID>1</NODE_ID>
+		<NAME>electromagnetic tower</NAME>
+		<POS>4,-4,</POS>
+		<IMAGE>15002</IMAGE>
+		<ICON>15001</ICON>
+		<TROOPS_LIMIT>5</TROOPS_LIMIT>
+		<STRENGTH>5</STRENGTH>
+		<ATTACK>0,21311806,21311807,0,-21311808,-21311808,0,0,0,</ATTACK>
+	</Row>
+ 	<Row>
+		<ID>2</ID>
+		<NODE_ID>1</NODE_ID>
+		<NAME>electromagnetic tower</NAME>
+		<POS>-4,-4,</POS>
+		<IMAGE>15002</IMAGE>
+		<ICON>15001</ICON>
+		<TROOPS_LIMIT>5</TROOPS_LIMIT>
+		<STRENGTH>5</STRENGTH>
+		<ATTACK>0,21311806,21311807,0,-21311808,-21311808,0,0,0,</ATTACK>
+	</Row>
+ 	<Row>
+		<ID>3</ID>
+		<NODE_ID>1</NODE_ID>
+		<NAME>electromagnetic tower</NAME>
+		<POS>-4,4,</POS>
+		<IMAGE>15002</IMAGE>
+		<ICON>15001</ICON>
+		<TROOPS_LIMIT>5</TROOPS_LIMIT>
+		<STRENGTH>5</STRENGTH>
+		<ATTACK>0,21311806,21311807,0,-21311808,-21311808,0,0,0,</ATTACK>
+	</Row>
+ 	<Row>
+		<ID>4</ID>
+		<NODE_ID>1</NODE_ID>
+		<NAME>electromagnetic tower</NAME>
+		<POS>4,4,</POS>
+		<IMAGE>15002</IMAGE>
+		<ICON>15001</ICON>
+		<TROOPS_LIMIT>5</TROOPS_LIMIT>
+		<STRENGTH>5</STRENGTH>
+		<ATTACK>0,21311806,21311807,0,-21311808,-21311808,0,0,0,</ATTACK>
+	</Row>
+</Root>

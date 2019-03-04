@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<ID>1</ID>
+		<TYPE>5</TYPE>
+		<TAB>1</TAB>
+		<NAME>strong name 1</NAME>
+		<SWITCHOVER>2</SWITCHOVER>
+		<MEMO></MEMO>
+		<CONDITION></CONDITION>
+		<FUNCTION_OPEN>zzgf_open</FUNCTION_OPEN>
+		<BUILDING_NAME>BuildingName_14</BUILDING_NAME>
+		<TURN_TYPE>2</TURN_TYPE>
+		<TURN_ID>12</TURN_ID>
+		<ICON>icon_fcsx.png</ICON>
+		<ORDER>1</ORDER>
+		<STRING>go</STRING>
+		<STRING_2>go</STRING_2>
+	</Row>
+ 	<Row>
+		<ID>2</ID>
+		<TYPE>5</TYPE>
+		<TAB>1</TAB>
+		<NAME>strong name 2</NAME>
+		<SWITCHOVER>1</SWITCHOVER>
+		<MEMO>strong memo 2</MEMO>
+		<CONDITION></CONDITION>
+		<FUNCTION_OPEN></FUNCTION_OPEN>
+		<BUILDING_NAME></BUILDING_NAME>
+		<TURN_TYPE>16</TURN_TYPE>
+		<TURN_ID>0</TURN_ID>
+		<ICON>icon_zjszfc.png</ICON>
+		<ORDER>2</ORDER>
+		<STRING>go</STRING>
+		<STRING_2>go</STRING_2>
+	</Row>
+ 	<Row>
+		<ID>3</ID>
+		<TYPE>5</TYPE>
+		<TAB>1</TAB>
+		<NAME>strong name 3</NAME>
+		<SWITCHOVER>1</SWITCHOVER>
+		<MEMO>strong memo 3</MEMO>
+		<CONDITION></CONDITION>
+		<FUNCTION_OPEN></FUNCTION_OPEN>
+		<BUILDING_NAME></BUILDING_NAME>
+		<TURN_TYPE>16</TURN_TYPE>
+		<TURN_ID>0</TURN_ID>
+		<ICON>icon_hqfc.png</ICON>
+		<ORDER>5</ORDER>
+		<STRING>go</STRING>
+		<STRING_2>go</STRING_2>
+	</Row>
+ 	<Row>
+		<ID>4</ID>
+		<TYPE>5</TYPE>
+		<TAB>1</TAB>
+		<NAME>strong name 4</NAME>
+		<SWITCHOVER>1</SWITCHOVER>
+		<MEMO>strong memo 4</MEMO>
+		<CONDITION></CONDITION>
+		<FUNCTION_OPEN></FUNCTION_OPEN>
+		<BUILDING_NAME></BUILDING_NAME>
+		<TURN_TYPE>16</TURN_TYPE>
+		<TURN_ID>0</TURN_ID>
+		<ICON>icon_tsdj.png</ICON>
+		<ORDER>4</ORDER>
+		<STRING>go</STRING>
+		<STRING_2>go</STRING_2>
+	</Row>
+ 	<Row>
+		<ID>5</ID>
+		<TYPE>5</TYPE>
+		<TAB>1</TAB>
+		<NAME>strong name 5</NAME>
+		<SWITCHOVER>1</SWITCHOVER>
+		<MEMO>strong memo 5</MEMO>
+		<CONDITION></CONDITION>
+		<FUNCTION_OPEN>dzgc_open</FUNCTION_OPEN>
+		<BUILDING_NAME>BuildingName_16</BUILDING_NAME>
+		<TURN_TYPE>16</TURN_TYPE>
+		<TURN_ID>0</TURN_ID>
+		<ICON>icon_fctp.png</ICON>
+		<ORDER>3</ORDER>
+		<STRING>go</STRING>
+		<STRING_2>go</STRING_2>
+	</Row>
+ 	<Row>
+		<ID>6</ID>
+		<TYPE>5</TYPE>
+		<TAB>1</TAB>
+		<NAME>strong name 6</NAME>
+		<SWITCHOVER>1</SWITCHOVER>
+		<MEMO>strong memo 6</MEMO>
+		<CONDITION></CONDITION>
+		<FUNCTION_OPEN>wqyj_open</FUNCTION_OPEN>
+		<BUILDING_NAME>BuildingName_4</BUILDING_NAME>
+		<TURN_TYPE>16</TURN_TYPE>
+		<TURN_ID>0</TURN_ID>
+		<ICON>icon_zbcd.png</ICON>
+		<ORDER>6</ORDER>
+		<STRING>go</STRING>
+		<STRING_2>go</STRING_2>
+	</Row>
+ 	<Row>
+		<ID>7</ID>
+		<TYPE>5</TYPE>
+		<TAB>1</TAB>
+		<NAME>strong name 7</NAME>
+		<SWITCHOVER>1</SWITCHOVER>
+		<MEMO>strong memo 7</MEMO>
+		<CONDITION></CONDITION>
+		<FUNCTION_OPEN>wqyj_open</FUNCTION_OPEN>
+		<BUILDING_NAME>BuildingName_4</BUILDING_NAME>
+		<TURN_TYPE>2</TURN_TYPE>
+		<TURN_ID>9</TURN_ID>
+		<ICON>icon_zbqh.png</ICON>
+		<ORDER>7</ORDER>
+		<STRING>go</STRING>
+		<STRING_2>go</STRING_2>
+	</Row>
+ 	<Row>
+		<ID>8</ID>
+		<TYPE>5</TYPE>
+		<TAB>1</TAB>
+		<NAME>strong name 8</NAME>
+		<SWITCHOVER>1</SWITCHOVER>
+		<MEMO>strong memo 8</MEMO>
+		<CONDITION>gem_open</CONDITION>
+		<FUNCTION_OPEN></FUNCTION_OPEN>
+		<BUILDING_NAME></BUILDING_NAME>
+		<TURN_TYPE>16</TURN_TYPE>
+		<TURN_ID>0</TURN_ID>
+		<ICON>icon_cdjn.png</ICON>
+		<ORDER>8</ORDER>
+		<STRING>go</STRING>
+		<STRING_2>go</STRING_2>
+	</Row>
+ 	<Row>
+		<ID>9</ID>
+		<TYPE>5</TYPE>
+		<TAB>1</TAB>
+		<NAME>strong name 9</NAME>
+		<SWITCHOVER>1</SWITCHOVER>
+		<MEMO>strong memo 9</MEMO>
+		<CONDITION>nlc_open</CONDITION>
+		<FUNCTION_OPEN></FUNCTION_OPEN>
+		<BUILDING_NAME></BUILDING_NAME>
+		<TURN_TYPE>16</TURN_TYPE>
+		<TURN_ID>0</TURN_ID>
+		<ICON>icon_jnqh.png</ICON>
+		<ORDER>9</ORDER>
+		<STRING>go</STRING>
+		<STRING_2>go</STRING_2>
+	</Row>
+ 	<Row>
+		<ID>10</ID>
+		<TYPE>5</TYPE>
+		<TAB>2</TAB>
+		<NAME>strong name 10</NAME>
+		<SWITCHOVER>1</SWITCHOVER>
+		<MEMO>strong memo 10</MEMO>
+		<CONDITION>planet_open</CONDITION>
+		<FUNCTION_OPEN></FUNCTION_OPEN>
+		<BUILDING_NAME></BUILDING_NAME>
+		<TURN_TYPE>18</TURN_TYPE>
+		<TURN_ID>0</TURN_ID>
+		<ICON>icon_bsxq.png</ICON>
+		<ORDER>1</ORDER>
+		<STRING>go</STRING>
+		<STRING_2>go</STRING_2>
+	</Row>
+ 	<Row>
+		<ID>11</ID>
+		<TYPE>5</TYPE>
+		<TAB>2</TAB>
+		<NAME>strong name 11</NAME>
+		<SWITCHOVER>1</SWITCHOVER>
+		<MEMO>strong memo 11</MEMO>
+		<CONDITION>league_open</CONDITION>
+		<FUNCTION_OPEN></FUNCTION_OPEN>
+		<BUILDING_NAME></BUILDING_NAME>
+		<TURN_TYPE>21</TURN_TYPE>
+		<TURN_ID>0</TURN_ID>
+		<ICON>icon_tsdj.png</ICON>
+		<ORDER>2</ORDER>
+		<STRING>go</STRING>
+		<STRING_2>join covenant</STRING_2>
+	</Row>
+ 	<Row>
+		<ID>12</ID>
+		<TYPE>5</TYPE>
+		<TAB>2</TAB>
+		<NAME>BuildingName_6</NAME>
+		<SWITCHOVER>1</SWITCHOVER>
+		<MEMO>strong memo 12</MEMO>
+		<CONDITION></CONDITION>
+		<FUNCTION_OPEN></FUNCTION_OPEN>
+		<BUILDING_NAME></BUILDING_NAME>
+		<TURN_TYPE>3</TURN_TYPE>
+		<TURN_ID>0</TURN_ID>
+		<ICON>icon_tsdj.png</ICON>
+		<ORDER>3</ORDER>
+		<STRING>go</STRING>
+		<STRING_2>go</STRING_2>
+	</Row>
+ 	<Row>
+		<ID>13</ID>
+		<TYPE>5</TYPE>
+		<TAB>2</TAB>
+		<NAME>task</NAME>
+		<SWITCHOVER>1</SWITCHOVER>
+		<MEMO>strong memo 13</MEMO>
+		<CONDITION></CONDITION>
+		<FUNCTION_OPEN></FUNCTION_OPEN>
+		<BUILDING_NAME></BUILDING_NAME>
+		<TURN_TYPE>20</TURN_TYPE>
+		<TURN_ID>0</TURN_ID>
+		<ICON>icon_tsdj.png</ICON>
+		<ORDER>5</ORDER>
+		<STRING>go</STRING>
+		<STRING_2>go</STRING_2>
+	</Row>
+ 	<Row>
+		<ID>14</ID>
+		<TYPE>5</TYPE>
+		<TAB>2</TAB>
+		<NAME>shop</NAME>
+		<SWITCHOVER>1</SWITCHOVER>
+		<MEMO>strong memo 14</MEMO>
+		<CONDITION></CONDITION>
+		<FUNCTION_OPEN></FUNCTION_OPEN>
+		<BUILDING_NAME></BUILDING_NAME>
+		<TURN_TYPE>19</TURN_TYPE>
+		<TURN_ID>0</TURN_ID>
+		<ICON>icon_tsdj.png</ICON>
+		<ORDER>4</ORDER>
+		<STRING>go</STRING>
+		<STRING_2>go</STRING_2>
+	</Row>
+ 	<Row>
+		<ID>15</ID>
+		<TYPE>5</TYPE>
+		<TAB>2</TAB>
+		<NAME>BuildingName_9</NAME>
+		<SWITCHOVER>1</SWITCHOVER>
+		<MEMO>strong memo 15</MEMO>
+		<CONDITION></CONDITION>
+		<FUNCTION_OPEN></FUNCTION_OPEN>
+		<BUILDING_NAME></BUILDING_NAME>
+		<TURN_TYPE>1</TURN_TYPE>
+		<TURN_ID></TURN_ID>
+		<ICON>icon_txts.png</ICON>
+		<ORDER>6</ORDER>
+		<STRING>go</STRING>
+		<STRING_2>go</STRING_2>
+	</Row>
+ 	<Row>
+		<ID>16</ID>
+		<TYPE>5</TYPE>
+		<TAB></TAB>
+		<NAME>trial</NAME>
+		<SWITCHOVER>1</SWITCHOVER>
+		<MEMO>strong memo 16</MEMO>
+		<CONDITION>trial_open</CONDITION>
+		<FUNCTION_OPEN></FUNCTION_OPEN>
+		<BUILDING_NAME></BUILDING_NAME>
+		<TURN_TYPE>12</TURN_TYPE>
+		<TURN_ID>0</TURN_ID>
+		<ICON>icon_txts.png</ICON>
+		<ORDER>7</ORDER>
+		<STRING>go</STRING>
+		<STRING_2>go</STRING_2>
+	</Row>
+ 	<Row>
+		<ID>17</ID>
+		<TYPE>5</TYPE>
+		<TAB>3</TAB>
+		<NAME>strong name 17</NAME>
+		<SWITCHOVER>1</SWITCHOVER>
+		<MEMO>strong memo 17</MEMO>
+		<CONDITION></CONDITION>
+		<FUNCTION_OPEN></FUNCTION_OPEN>
+		<BUILDING_NAME></BUILDING_NAME>
+		<TURN_TYPE>2</TURN_TYPE>
+		<TURN_ID>10</TURN_ID>
+		<ICON>icon_txts.png</ICON>
+		<ORDER>1</ORDER>
+		<STRING>go</STRING>
+		<STRING_2>go</STRING_2>
+	</Row>
+ 	<Row>
+		<ID>18</ID>
+		<TYPE>5</TYPE>
+		<TAB>3</TAB>
+		<NAME>strong name 18</NAME>
+		<SWITCHOVER>1</SWITCHOVER>
+		<MEMO>strong memo 18</MEMO>
+		<CONDITION>league_open</CONDITION>
+		<FUNCTION_OPEN></FUNCTION_OPEN>
+		<BUILDING_NAME></BUILDING_NAME>
+		<TURN_TYPE>9</TURN_TYPE>
+		<TURN_ID>0</TURN_ID>
+		<ICON>icon_txts.png</ICON>
+		<ORDER>2</ORDER>
+		<STRING>go</STRING>
+		<STRING_2>join covenant</STRING_2>
+	</Row>
+ 	<Row>
+		<ID>19</ID>
+		<TYPE>5</TYPE>
+		<TAB>4</TAB>
+		<NAME>strong name 19</NAME>
+		<SWITCHOVER>1</SWITCHOVER>
+		<MEMO>strong memo 19</MEMO>
+		<CONDITION></CONDITION>
+		<FUNCTION_OPEN></FUNCTION_OPEN>
+		<BUILDING_NAME></BUILDING_NAME>
+		<TURN_TYPE>2</TURN_TYPE>
+		<TURN_ID>11</TURN_ID>
+		<ICON>icon_txts.png</ICON>
+		<ORDER>2</ORDER>
+		<STRING>go</STRING>
+		<STRING_2>go</STRING_2>
+	</Row>
+ 	<Row>
+		<ID>20</ID>
+		<TYPE>5</TYPE>
+		<TAB></TAB>
+		<NAME>strong name 20</NAME>
+		<SWITCHOVER>2</SWITCHOVER>
+		<MEMO></MEMO>
+		<CONDITION>arena_open</CONDITION>
+		<FUNCTION_OPEN></FUNCTION_OPEN>
+		<BUILDING_NAME></BUILDING_NAME>
+		<TURN_TYPE>6</TURN_TYPE>
+		<TURN_ID>0</TURN_ID>
+		<ICON>icon_txts.png</ICON>
+		<ORDER>1</ORDER>
+		<STRING>go</STRING>
+		<STRING_2>go</STRING_2>
+	</Row>
+ 	<Row>
+		<ID>21</ID>
+		<TYPE>5</TYPE>
+		<TAB>4</TAB>
+		<NAME>strong name 21</NAME>
+		<SWITCHOVER>1</SWITCHOVER>
+		<MEMO>strong memo 21</MEMO>
+		<CONDITION></CONDITION>
+		<FUNCTION_OPEN>dzgc_open</FUNCTION_OPEN>
+		<BUILDING_NAME>BuildingName_16</BUILDING_NAME>
+		<TURN_TYPE>2</TURN_TYPE>
+		<TURN_ID>13</TURN_ID>
+		<ICON>icon_txts.png</ICON>
+		<ORDER>4</ORDER>
+		<STRING>go</STRING>
+		<STRING_2>go</STRING_2>
+	</Row>
+ 	<Row>
+		<ID>22</ID>
+		<TYPE>5</TYPE>
+		<TAB>4</TAB>
+		<NAME>strong name 22</NAME>
+		<SWITCHOVER>1</SWITCHOVER>
+		<MEMO>strong memo 22</MEMO>
+		<CONDITION></CONDITION>
+		<FUNCTION_OPEN>dzgc_open</FUNCTION_OPEN>
+		<BUILDING_NAME>BuildingName_16</BUILDING_NAME>
+		<TURN_TYPE>2</TURN_TYPE>
+		<TURN_ID>13</TURN_ID>
+		<ICON>icon_txts.png</ICON>
+		<ORDER>3</ORDER>
+		<STRING>go</STRING>
+		<STRING_2>go</STRING_2>
+	</Row>
+ 	<Row>
+		<ID>23</ID>
+		<TYPE>5</TYPE>
+		<TAB>4</TAB>
+		<NAME>strong name 23</NAME>
+		<SWITCHOVER>1</SWITCHOVER>
+		<MEMO>strong memo 23</MEMO>
+		<CONDITION>league_open</CONDITION>
+		<FUNCTION_OPEN></FUNCTION_OPEN>
+		<BUILDING_NAME></BUILDING_NAME>
+		<TURN_TYPE>21</TURN_TYPE>
+		<TURN_ID>0</TURN_ID>
+		<ICON>icon_txts.png</ICON>
+		<ORDER>5</ORDER>
+		<STRING>go</STRING>
+		<STRING_2>join covenant</STRING_2>
+	</Row>
+</Root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<ID>15001</ID>
+		<NAME>ACTI_12</NAME>
+		<MEMO>monthsign_text,3,days</MEMO>
+		<PICTURE>1</PICTURE>
+		<CHANGE_LIST>111001,121001,131001,141001,132001,142001</CHANGE_LIST>
+		<GET>123002</GET>
+		<PARAM>S,Ship_N123002,</PARAM>
+		<COLOR>#21FF46,#21FF46</COLOR>
+	</Row>
+</Root>

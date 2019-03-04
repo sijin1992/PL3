@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<ID>70010001</ID>
+		<NAME_ID>70010001</NAME_ID>
+		<FRONT_ID>0</FRONT_ID>
+		<AFTER_ID>0</AFTER_ID>
+		<SCENE_LIST>50010001,50010002,50010003</SCENE_LIST>
+	</Row>
+</Root>

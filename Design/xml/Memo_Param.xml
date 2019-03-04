@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<ID>1</ID>
+		<KEY>#A#</KEY>
+		<PARAM>ATTR_PERCENT,ENERGY_ATTR_PERCENT,ATTR_VALUE</PARAM>
+		<DESCRIPTION>weapon表攻击属性参数项</DESCRIPTION>
+	</Row>
+ 	<Row>
+		<ID>2</ID>
+		<KEY>#B#</KEY>
+		<PARAM>BUFF_ATTR_PERCENT,BUFF_ATTR_VALUE</PARAM>
+		<DESCRIPTION>weapon表BUFF属性参数项</DESCRIPTION>
+	</Row>
+ 	<Row>
+		<ID>3</ID>
+		<KEY>#C#</KEY>
+		<PARAM>BUFF_CONDITION_PERCENT,</PARAM>
+		<DESCRIPTION>weapon表BUFF概率</DESCRIPTION>
+	</Row>
+ 	<Row>
+		<ID>4</ID>
+		<KEY>#D#</KEY>
+		<PARAM>0,BUFF_ROUND</PARAM>
+		<DESCRIPTION>weapon表BUFF持续时间</DESCRIPTION>
+	</Row>
+</Root>

@@ -1,0 +1,146 @@
+local STRENGTH = {}
+STRENGTH["index"] = {}
+STRENGTH["index"][1] = 1
+STRENGTH[1] = {}
+	STRENGTH[1]["ID"] = 1
+	STRENGTH[1]["COST"] = 60
+	STRENGTH[1]["VALUE"] = 100
+	STRENGTH[1]["real_idx"] = 1
+
+STRENGTH["index"][2] = 2
+STRENGTH[2] = {}
+	STRENGTH[2]["ID"] = 2
+	STRENGTH[2]["COST"] = 80
+	STRENGTH[2]["VALUE"] = 100
+	STRENGTH[2]["real_idx"] = 2
+
+STRENGTH["index"][3] = 3
+STRENGTH[3] = {}
+	STRENGTH[3]["ID"] = 3
+	STRENGTH[3]["COST"] = 120
+	STRENGTH[3]["VALUE"] = 100
+	STRENGTH[3]["real_idx"] = 3
+
+STRENGTH["index"][4] = 4
+STRENGTH[4] = {}
+	STRENGTH[4]["ID"] = 4
+	STRENGTH[4]["COST"] = 240
+	STRENGTH[4]["VALUE"] = 100
+	STRENGTH[4]["real_idx"] = 4
+
+STRENGTH["index"][5] = 5
+STRENGTH[5] = {}
+	STRENGTH[5]["ID"] = 5
+	STRENGTH[5]["COST"] = 240
+	STRENGTH[5]["VALUE"] = 100
+	STRENGTH[5]["real_idx"] = 5
+
+STRENGTH["index"][6] = 6
+STRENGTH[6] = {}
+	STRENGTH[6]["ID"] = 6
+	STRENGTH[6]["COST"] = 600
+	STRENGTH[6]["VALUE"] = 100
+	STRENGTH[6]["real_idx"] = 6
+
+STRENGTH["index"][7] = 7
+STRENGTH[7] = {}
+	STRENGTH[7]["ID"] = 7
+	STRENGTH[7]["COST"] = 600
+	STRENGTH[7]["VALUE"] = 100
+	STRENGTH[7]["real_idx"] = 7
+
+STRENGTH["index"][8] = 8
+STRENGTH[8] = {}
+	STRENGTH[8]["ID"] = 8
+	STRENGTH[8]["COST"] = 600
+	STRENGTH[8]["VALUE"] = 100
+	STRENGTH[8]["real_idx"] = 8
+
+STRENGTH["index"][9] = 9
+STRENGTH[9] = {}
+	STRENGTH[9]["ID"] = 9
+	STRENGTH[9]["COST"] = 600
+	STRENGTH[9]["VALUE"] = 100
+	STRENGTH[9]["real_idx"] = 9
+
+STRENGTH["index"][10] = 10
+STRENGTH[10] = {}
+	STRENGTH[10]["ID"] = 10
+	STRENGTH[10]["COST"] = 600
+	STRENGTH[10]["VALUE"] = 100
+	STRENGTH[10]["real_idx"] = 10
+
+STRENGTH["index"][11] = 11
+STRENGTH[11] = {}
+	STRENGTH[11]["ID"] = 11
+	STRENGTH[11]["COST"] = 1200
+	STRENGTH[11]["VALUE"] = 100
+	STRENGTH[11]["real_idx"] = 11
+
+STRENGTH["index"][12] = 12
+STRENGTH[12] = {}
+	STRENGTH[12]["ID"] = 12
+	STRENGTH[12]["COST"] = 1200
+	STRENGTH[12]["VALUE"] = 100
+	STRENGTH[12]["real_idx"] = 12
+
+STRENGTH["index"][13] = 13
+STRENGTH[13] = {}
+	STRENGTH[13]["ID"] = 13
+	STRENGTH[13]["COST"] = 1200
+	STRENGTH[13]["VALUE"] = 100
+	STRENGTH[13]["real_idx"] = 13
+
+STRENGTH["index"][14] = 14
+STRENGTH[14] = {}
+	STRENGTH[14]["ID"] = 14
+	STRENGTH[14]["COST"] = 1200
+	STRENGTH[14]["VALUE"] = 100
+	STRENGTH[14]["real_idx"] = 14
+
+STRENGTH["index"][15] = 15
+STRENGTH[15] = {}
+	STRENGTH[15]["ID"] = 15
+	STRENGTH[15]["COST"] = 1200
+	STRENGTH[15]["VALUE"] = 100
+	STRENGTH[15]["real_idx"] = 15
+
+STRENGTH["index"][16] = 16
+STRENGTH[16] = {}
+	STRENGTH[16]["ID"] = 16
+	STRENGTH[16]["COST"] = 1800
+	STRENGTH[16]["VALUE"] = 100
+	STRENGTH[16]["real_idx"] = 16
+
+STRENGTH["index"][17] = 17
+STRENGTH[17] = {}
+	STRENGTH[17]["ID"] = 17
+	STRENGTH[17]["COST"] = 1800
+	STRENGTH[17]["VALUE"] = 100
+	STRENGTH[17]["real_idx"] = 17
+
+STRENGTH["index"][18] = 18
+STRENGTH[18] = {}
+	STRENGTH[18]["ID"] = 18
+	STRENGTH[18]["COST"] = 1800
+	STRENGTH[18]["VALUE"] = 100
+	STRENGTH[18]["real_idx"] = 18
+
+STRENGTH["index"][19] = 19
+STRENGTH[19] = {}
+	STRENGTH[19]["ID"] = 19
+	STRENGTH[19]["COST"] = 1800
+	STRENGTH[19]["VALUE"] = 100
+	STRENGTH[19]["real_idx"] = 19
+
+STRENGTH["index"][20] = 20
+STRENGTH[20] = {}
+	STRENGTH[20]["ID"] = 20
+	STRENGTH[20]["COST"] = 1800
+	STRENGTH[20]["VALUE"] = 100
+	STRENGTH[20]["real_idx"] = 20
+
+
+STRENGTH["len"] = 20
+
+return STRENGTH

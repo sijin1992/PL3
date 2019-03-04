@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<ID>7001</ID>
+		<NAME>FIRST_RECHARGE</NAME>
+		<MEMO>FIRST_RECHARGE_MEMO</MEMO>
+		<COST>1</COST>
+		<SHIP>115999</SHIP>
+		<ITEM>3001,11001,13005</ITEM>
+		<NUM>100000,600,2000</NUM>
+	</Row>
+</Root>

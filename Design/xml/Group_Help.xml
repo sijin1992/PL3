@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<ID>1</ID>
+		<TIME>5</TIME>
+		<CD_SEC>1000</CD_SEC>
+		<CD_PER>0</CD_PER>
+	</Row>
+ 	<Row>
+		<ID>2</ID>
+		<TIME>5</TIME>
+		<CD_SEC>0</CD_SEC>
+		<CD_PER>20</CD_PER>
+	</Row>
+ 	<Row>
+		<ID>3</ID>
+		<TIME>5</TIME>
+		<CD_SEC>20</CD_SEC>
+		<CD_PER>0</CD_PER>
+	</Row>
+ 	<Row>
+		<ID>4</ID>
+		<TIME>5</TIME>
+		<CD_SEC>20</CD_SEC>
+		<CD_PER>0</CD_PER>
+	</Row>
+</Root>

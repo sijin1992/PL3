@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<ID>3021</ID>
+		<NAME>CONSUME_3</NAME>
+		<MEMO>CONSUME_MEMO_3</MEMO>
+		<ICON>3</ICON>
+		<WITHOUT>nil</WITHOUT>
+		<GROUP>1,2,3,4,5,6,7,8,9,</GROUP>
+	</Row>
+ 	<Row>
+		<ID>3022</ID>
+		<NAME>CONSUME_3</NAME>
+		<MEMO>CONSUME_MEMO_3</MEMO>
+		<ICON>3</ICON>
+		<WITHOUT>nil</WITHOUT>
+		<GROUP>1,2,3,4,5,6,7,8,9,10,11,</GROUP>
+	</Row>
+</Root>

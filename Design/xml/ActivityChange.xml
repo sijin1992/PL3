@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<ID>1021</ID>
+		<NAME>SWITCH_3</NAME>
+		<MEMO>SWITCH_MEMO_3</MEMO>
+		<ICON>1</ICON>
+		<GROUP>1,2,</GROUP>
+	</Row>
+ 	<Row>
+		<ID>1022</ID>
+		<NAME>SWITCH_4</NAME>
+		<MEMO>SWITCH_MEMO_4</MEMO>
+		<ICON>1</ICON>
+		<GROUP>3,4,5,6,</GROUP>
+	</Row>
+</Root>

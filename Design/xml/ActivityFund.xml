@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<ID>12001</ID>
+		<NAME>ACTI_7</NAME>
+		<MEMO>building_level_text</MEMO>
+		<PICTURE>1</PICTURE>
+		<PRICE>990</PRICE>
+		<GROUP>1,2,3,4,5,</GROUP>
+		<PARAM>990,3500,</PARAM>
+		<COLOR>#21FF46,#21FF46,</COLOR>
+	</Row>
+</Root>

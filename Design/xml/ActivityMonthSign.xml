@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<ID>14001</ID>
+		<NAME>ACTI_10</NAME>
+		<MEMO>monthsign_text,3,days</MEMO>
+		<PICTURE>1</PICTURE>
+		<GROUP>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31</GROUP>
+		<SIGN1>3</SIGN1>
+		<ITEM1>4001,5001,7001,</ITEM1>
+		<NUM1>20000,20000,50,</NUM1>
+		<SIGN2>7</SIGN2>
+		<ITEM2>3001,7001,13002,</ITEM2>
+		<NUM2>10000,100,2,</NUM2>
+		<SIGN3>12</SIGN3>
+		<ITEM3>3001,7001,13002,</ITEM3>
+		<NUM3>20000,150,3,</NUM3>
+		<SIGN4>18</SIGN4>
+		<ITEM4>3001,7001</ITEM4>
+		<NUM4>20000,200,</NUM4>
+		<SIGN5>25</SIGN5>
+		<ITEM5>3001,7001,</ITEM5>
+		<NUM5>30000,300,</NUM5>
+	</Row>
+</Root>

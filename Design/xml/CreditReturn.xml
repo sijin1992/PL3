@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<ID>1</ID>
+		<INPUT>50</INPUT>
+		<OUTPUT>70,100</OUTPUT>
+	</Row>
+ 	<Row>
+		<ID>2</ID>
+		<INPUT>100</INPUT>
+		<OUTPUT>110,200</OUTPUT>
+	</Row>
+ 	<Row>
+		<ID>3</ID>
+		<INPUT>500</INPUT>
+		<OUTPUT>560,800</OUTPUT>
+	</Row>
+ 	<Row>
+		<ID>4</ID>
+		<INPUT>1500</INPUT>
+		<OUTPUT>1700,2000</OUTPUT>
+	</Row>
+ 	<Row>
+		<ID>5</ID>
+		<INPUT>3000</INPUT>
+		<OUTPUT>3800,5000</OUTPUT>
+	</Row>
+</Root>
