@@ -2197,20 +2197,35 @@ function NewFormLayer:onEnterTransitionFinish()
 				TeamName:getChildByName("clean"):getChildByName("text"):setString(CONF.STRING.get("cancel").VALUE)
 
 				TeamName:getChildByName("ok"):addClickEventListener(function()
-						if TeamName:getChildByName("TextField_1"):getString() == "" then
-							return
-						end
-						
-						local strData = Tools.encode("ChangeLineupReq", {
-							type = 3,
-							index = self.selectPanNode,
-							line_name = TeamName:getChildByName("TextField_1"):getString()
-						})
-						GameHandler.handler_c.send(Tools.enum_id("CMD_DEFINE","CMD_CHANGE_LINEUP_REQ"),strData)
+                    local input = TeamName:getChildByName("TextField_1"):getString()
+					if input == "" then
+						return
+					end
+                    -- unable name
+					for i=1,CONF.DIRTYWORD.len do
+		                if string.find(input, CONF.DIRTYWORD[i].KEY) then
+		  	                tips:tips(CONF:getStringValue("dirty_message"))
+		  	                return
+		                end
+		            end
 
-						TeamName:removeFromParent()
+		            local str = shuaiSubString(input)
+		            for i=1,CONF.DIRTYWORD.len do
+		                if string.find(str, CONF.DIRTYWORD[i].KEY) then
+		  	                tips:tips(CONF:getStringValue("dirty_message"))
+		  	                return
+		                end
+		            end
 
-					end)
+					local strData = Tools.encode("ChangeLineupReq", {
+						type = 3,
+						index = self.selectPanNode,
+						line_name = input
+					})
+					GameHandler.handler_c.send(Tools.enum_id("CMD_DEFINE","CMD_CHANGE_LINEUP_REQ"),strData)
+
+					TeamName:removeFromParent()
+				end)
 
 				TeamName:getChildByName("clean"):addClickEventListener(function()
 						TeamName:removeFromParent()
