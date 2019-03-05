@@ -284,10 +284,10 @@
               <AbstractNodeData Name="btn_normal" ActionTag="1335893594" Tag="142" IconVisible="False" LeftMargin="66.4918" RightMargin="195.5082" TopMargin="351.4400" BottomMargin="58.5600" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="65" RightEage="60" TopEage="20" BottomEage="18" Scale9OriginX="65" Scale9OriginY="20" Scale9Width="5" Scale9Height="2" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="138.0000" Y="40.0000" />
                 <Children>
-                  <AbstractNodeData Name="icon" ActionTag="-96396531" Tag="149" IconVisible="False" LeftMargin="6.8658" RightMargin="59.1342" TopMargin="-17.8319" BottomMargin="-14.1681" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="icon" ActionTag="-96396531" Tag="149" IconVisible="False" LeftMargin="6.8658" RightMargin="59.1342" TopMargin="-17.8300" BottomMargin="-14.1700" ctype="SpriteObjectData">
                     <Size X="72.0000" Y="72.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="42.8658" Y="21.8319" />
+                    <Position X="42.8658" Y="21.8300" />
                     <Scale ScaleX="0.4000" ScaleY="0.4000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.3106" Y="0.5458" />
@@ -370,18 +370,18 @@
               <AbstractNodeData Name="btn_baoji" ActionTag="482691022" Tag="143" IconVisible="False" LeftMargin="227.1754" RightMargin="34.8246" TopMargin="350.8134" BottomMargin="59.1866" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="65" RightEage="60" TopEage="20" BottomEage="18" Scale9OriginX="65" Scale9OriginY="20" Scale9Width="5" Scale9Height="2" DisplayState="False" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="138.0000" Y="40.0000" />
                 <Children>
-                  <AbstractNodeData Name="icon" ActionTag="-1502962140" VisibleForFrame="False" Tag="151" IconVisible="False" LeftMargin="18.5025" RightMargin="66.4975" TopMargin="-10.2890" BottomMargin="-2.7110" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="icon" ActionTag="-1502962140" VisibleForFrame="False" Tag="151" IconVisible="False" LeftMargin="16.3700" RightMargin="68.6300" TopMargin="-8.3300" BottomMargin="-4.6700" ctype="SpriteObjectData">
                     <Size X="53.0000" Y="53.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="45.0025" Y="23.7890" />
-                    <Scale ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="42.8700" Y="21.8300" />
+                    <Scale ScaleX="0.4000" ScaleY="0.4000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.3261" Y="0.5947" />
+                    <PrePosition X="0.3107" Y="0.5458" />
                     <PreSize X="0.3841" Y="1.3250" />
                     <FileData Type="Normal" Path="Common/ui/ui_icon_money.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="num" ActionTag="236283455" VisibleForFrame="False" Tag="152" IconVisible="False" LeftMargin="63.5600" RightMargin="27.4400" TopMargin="7.6026" BottomMargin="2.3974" FontSize="20" LabelText="3000" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ShadowEnabled="True" ctype="TextObjectData">
+                  <AbstractNodeData Name="num" ActionTag="236283455" VisibleForFrame="False" Tag="152" IconVisible="False" LeftMargin="63.5600" RightMargin="27.4400" TopMargin="7.6026" BottomMargin="2.3974" FontSize="20" LabelText="3000" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                     <Size X="47.0000" Y="30.0000" />
                     <AnchorPoint ScaleY="0.5000" />
                     <Position X="63.5600" Y="17.3974" />
@@ -393,14 +393,14 @@
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="255" G="255" B="255" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="wenhao" ActionTag="1382225451" Tag="300" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="48.5003" RightMargin="48.4997" TopMargin="6.4996" BottomMargin="-5.4996" FontSize="26" LabelText="???" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                    <Size X="41.0000" Y="39.0000" />
+                  <AbstractNodeData Name="wenhao" ActionTag="1382225451" Tag="300" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="53.0000" RightMargin="53.0000" TopMargin="11.0000" BottomMargin="-1.0000" FontSize="20" LabelText="???" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                    <Size X="32.0000" Y="30.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="69.0003" Y="14.0004" />
+                    <Position X="69.0000" Y="14.0000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.3500" />
-                    <PreSize X="0.2971" Y="0.9750" />
+                    <PreSize X="0.2319" Y="0.7500" />
                     <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="255" G="255" B="255" />
