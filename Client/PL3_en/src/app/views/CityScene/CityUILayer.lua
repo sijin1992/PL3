@@ -913,22 +913,21 @@ function CityUILayer:onEnterTransitionFinish()
 			end
 		end
 		rn:getChildByName('backpack'):getChildByName('point'):setVisible(bagShow)
-		if self:isFuncOpen("arena") == true then
+		if IsFuncOpen("arena") == true then
 			--rn:getChildByName("arena"):getChildByName("point"):setVisible(player:hasArenaChallengeTimes())
 		end
-		if self:isFuncOpen("trial") == true then
+		if IsFuncOpen("trial") == true then
 			--rn:getChildByName("trial"):getChildByName("point"):setVisible(player:getTrialTicketNum() > 0)
 		end
-		if self:isFuncOpen("league") == true then
+		if IsFuncOpen("league") == true then
 
 			local flag = false
-			-- if player:hasGroupBossChallengeTimes(player:getGroupBossDays()[1].index) then
-			-- 	flag = true
-			-- end
-
-			-- if player:getGroupHasWar() then
-			-- 	flag = true
-			-- end
+			if player:hasGroupBossChallengeTimes(player:getGroupBossDays()[1].index) then
+			    flag = true
+			end
+			if player:getGroupHasWar() then
+			    flag = true
+			end
 
 			rn:getChildByName("league"):getChildByName("point"):setVisible(flag)
 
@@ -2289,16 +2288,6 @@ function CityUILayer:createTaskBar()
 	-- end
 end
 
-function CityUILayer:isFuncOpen(name)
-	local str = name .. "_open"
-	local heroLevel = CONF.PARAM.get(str).PARAM[1]
-	local centreLevel = CONF.PARAM.get(str).PARAM[2]
-
-	if player:getLevel() < heroLevel or player:getBuildingInfo(1).level < centreLevel then
-		return false, heroLevel, centreLevel
-	end
-	return true, heroLevel, centreLevel
-end
 
 function CityUILayer:ClickPlanet()
 	local rn = self:getResourceNode()
@@ -2601,7 +2590,7 @@ function CityUILayer:setState(  )
 	local rn = self:getResourceNode()
 	local function judge( name )
 		local node = rn:getChildByName(name)
-		local isOpen, heroLevel, centreLevel = self:isFuncOpen(name)
+		local isOpen, heroLevel, centreLevel = IsFuncOpen(name)
 
 		node:addTouchEventListener(function ( sender, eventType )
 			if cc.exports.g_activate_building then
@@ -2785,15 +2774,15 @@ function CityUILayer:switchBuildingBtn(flag, name, pos, scale)
 
 	local isOpen, heroLevel, centreLevel
 	if name == "building_10" then
-		isOpen, heroLevel, centreLevel = self:isFuncOpen("city_10")
+		isOpen, heroLevel, centreLevel = IsFuncOpen("city_10")
 	elseif name == "building_11" then 
-		isOpen, heroLevel, centreLevel = self:isFuncOpen("city_11")
+		isOpen, heroLevel, centreLevel = IsFuncOpen("city_11")
 	elseif name == "building_13" then 
-		isOpen, heroLevel, centreLevel = self:isFuncOpen("city_13")
+		isOpen, heroLevel, centreLevel = IsFuncOpen("city_13")
 	elseif name == "building_14" then
-		isOpen, heroLevel, centreLevel = self:isFuncOpen("city_14")
+		isOpen, heroLevel, centreLevel = IsFuncOpen("city_14")
 	elseif name == "building_16" then
-		isOpen, heroLevel, centreLevel = self:isFuncOpen("city_16")
+		isOpen, heroLevel, centreLevel = IsFuncOpen("city_16")
 	end 
 	if isOpen ~= nil and heroLevel ~= nil and centreLevel ~= nil then
 		if isOpen == false then
