@@ -120,10 +120,23 @@ function MailDetailAttackType_field:initMailDetail(mail_info,data)
 			myApp:pushView('PlanetScene/PlanetScene',{move_info = {pos = {x=info.pos_list[1].x,y=info.pos_list[1].y},node_id_list = {getNodeIDByGlobalPos(info.pos_list[1])}} })
 		end)
 	totalNode:getChildByName('Node'):getChildByName("ship_list"):setScrollBarEnabled(false)
-
+    -- move button
+    if Tools.isEmpty(mail_info.planet_report.video_key_list) then
+		totalNode:getChildByName('Button_1'):setVisible(false)
+	end
+	totalNode:getChildByName('Button_1'):addClickEventListener(function()
+		if Tools.isEmpty(mail_info.planet_report.video_key_list) == false then
+			g_MailGuid_VideoPosition = mail_info.guid..'_1'
+			local strData = Tools.encode("PvpVideoReq", {
+				video_key = mail_info.planet_report.video_key_list[1],
+			})
+			GameHandler.handler_c.send(Tools.enum_id("CMD_DEFINE","CMD_PVP_VIDEO_REQ"),strData)
+		end
+	end)
+    -------------
 	local node = require("app.ExResInterface"):getInstance():FastLoad('MailLayer/DetailAttackSmallNode/SpyNode.csb')
 	if Tools.isEmpty(mail_info.planet_report.video_key_list) then
-		node2:getChildByName('Button_1'):setVisible(false)
+		node:getChildByName('Button_1'):setVisible(false)
 	end
 	node:getChildByName('Button_1'):addClickEventListener(function()
 		-- Tips:tips(CONF:getStringValue("coming soon"))

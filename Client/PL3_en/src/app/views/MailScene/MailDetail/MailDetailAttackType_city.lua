@@ -128,7 +128,22 @@ function MailDetailAttackType_city:initMailDetail(mail_info,data)
 			end
 		end
 	end
-	assembleNode:getChildByName('Button_1'):setVisible(result)
+    -- move button
+    totalNode:getChildByName('Button_1'):setVisible(result)
+	if Tools.isEmpty(mail_info.planet_report.video_key_list) then
+		totalNode:getChildByName('Button_1'):setVisible(false)
+	end
+	totalNode:getChildByName('Button_1'):addClickEventListener(function()
+		if Tools.isEmpty(mail_info.planet_report.video_key_list) == false then
+			g_MailGuid_VideoPosition = mail_info.guid..'_1'
+			local strData = Tools.encode("PvpVideoReq", {
+				video_key = mail_info.planet_report.video_key_list[1],
+			})
+			GameHandler.handler_c.send(Tools.enum_id("CMD_DEFINE","CMD_PVP_VIDEO_REQ"),strData)
+		end
+	end)
+    -------------
+--	assembleNode:getChildByName('Button_1'):setVisible(result)
 	if Tools.isEmpty(mail_info.planet_report.video_key_list) then
 		assembleNode:getChildByName('Button_1'):setVisible(false)
 	end

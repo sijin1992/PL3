@@ -140,6 +140,20 @@ function MailDetailAttackType_others:initMailDetail(mail_info,data)
 		-- end
 		myApp:pushView('PlanetScene/PlanetScene',{move_info = {pos = {x=info.pos_list[1].x,y=info.pos_list[1].y},node_id_list = {getNodeIDByGlobalPos(info.pos_list[1])}} })
 		end)
+    -- move button
+    if Tools.isEmpty(mail_info.planet_report.video_key_list) then
+		totalNode:getChildByName('Button_1'):setVisible(false)
+	end
+    totalNode:getChildByName('Button_1'):addClickEventListener(function()
+	    if Tools.isEmpty(mail_info.planet_report.video_key_list) == false then
+		    g_MailGuid_VideoPosition = mail_info.guid..'_1'
+		    local strData = Tools.encode("PvpVideoReq", {
+			    video_key = mail_info.planet_report.video_key_list[1],
+		    })
+		    GameHandler.handler_c.send(Tools.enum_id("CMD_DEFINE","CMD_PVP_VIDEO_REQ"),strData)
+	    end
+	end)
+    --------------
 	local assembleNode = require("app.ExResInterface"):getInstance():FastLoad("MailLayer/DetailAttackSmallNode/StateNode.csb")
 	-- if mail_info.planet_report.type == 2 or mail_info.planet_report.type == 3 then
 	-- 	assembleNode:getChildByName('Button_1'):setVisible(false)
