@@ -444,13 +444,18 @@ function MassScene:onEnterTransitionFinish()
 			end)
 	else
 		rn:getChildByName("btn"):addClickEventListener(function ( ... )
-			self.ride_back_type = 2
-			local strData = Tools.encode("PlanetRideBackReq", {
-				army_guid = {self.data_.army_info.guid},
-				type = 2,
-			 })
-			GameHandler.handler_c.send(Tools.enum_id("CMD_DEFINE","CMD_PLANET_RIDE_BACK_REQ"),strData) 
-			gl:retainLoading()
+            local function click()
+                self.ride_back_type = 2
+			    local strData = Tools.encode("PlanetRideBackReq", {
+				    army_guid = {self.data_.army_info.guid},
+				    type = 2,
+			     })
+			    GameHandler.handler_c.send(Tools.enum_id("CMD_DEFINE","CMD_PLANET_RIDE_BACK_REQ"),strData) 
+			    gl:retainLoading()
+            end
+
+            local messageBox = require("util.MessageBox"):getInstance()
+			messageBox:reset(CONF:getStringValue("isjiesan_mass"), click)
 		end)
 	end
 
