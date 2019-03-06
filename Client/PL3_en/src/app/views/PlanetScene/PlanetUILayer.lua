@@ -279,13 +279,23 @@ function PlanetUILayer:onEnterTransitionFinish()
 				node:getChildByName("pos"):setString("("..v.pos.x..","..v.pos.y..")")
 				node:getChildByName("Button_share"):setPositionX(node:getChildByName("pos"):getPositionX() + node:getChildByName("pos"):getContentSize().width + 20)
 
-				node:getChildByName("Button_share"):addClickEventListener(function ( ... )
+				node:getChildByName("jump"):addClickEventListener(function ( ... )
 					marker_node:removeFromParent()
 
 					local event = cc.EventCustom:new("moveToUserRes")
 					event.pos = v.pos
 					event.node_id = getNodeIDByGlobalPos(v.pos)
 					cc.Director:getInstance():getEventDispatcher():dispatchEvent(event) 
+				end)
+
+                node:getChildByName("share"):addClickEventListener(function ( ... )
+					playEffectSound("sound/system/click.mp3")
+                    marker_node:removeFromParent()
+		            local msg = v.name .."  ".. "X:"..v.pos.x.." Y:"..v.pos.y
+		            local layer = self:getApp():createView("ChatLayer/ChatLayer", {name = "world",msg = msg})
+		            layer:setName("chatLayer")
+		            self:addChild(layer)
+		            rn:getChildByName("chat"):getChildByName("point"):setVisible(false)
 				end)
 
 				node:getChildByName("btn"):addClickEventListener(function ( ... )
