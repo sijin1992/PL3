@@ -232,7 +232,10 @@ function MailDetailAttackType_field:initMailDetail(mail_info,data)
 					teamNode:getChildByName('node1'..o):getChildByName('progress'):setPositionX(teamNode:getChildByName('node1'..o):getChildByName('Text_xue'):getPositionX()+10+teamNode:getChildByName('node1'..o):getChildByName('Text_xue'):getContentSize().width)
 					teamNode:getChildByName('node1'..o):getChildByName('jdt_bottom02_53'):setPositionX(teamNode:getChildByName('node1'..o):getChildByName('Text_xue'):getPositionX()+10+teamNode:getChildByName('node1'..o):getChildByName('Text_xue'):getContentSize().width)
 					teamNode:getChildByName('node1'..o):getChildByName('Text_nai'):setString(p1..'%')
-					teamNode:getChildByName('node1'..o):getChildByName('shipIcon'):getChildByName('icon'):loadTexture('RoleIcon/'..cfg_ship.ICON_ID..'.png')
+--					teamNode:getChildByName('node1'..o):getChildByName('shipIcon'):getChildByName('icon'):loadTexture('RoleIcon/'..cfg_ship.ICON_ID..'.png')
+                    teamNode:getChildByName('node1'..o):getChildByName('shipIcon'):getChildByName('icon'):setVisible(false)
+                    teamNode:getChildByName('node1'..o):getChildByName('shipIcon'):getChildByName('icon2'):setVisible(true)
+                    teamNode:getChildByName('node1'..o):getChildByName('shipIcon'):getChildByName('icon2'):setTexture("ShipImage/"..cfg_ship.ICON_ID..".png")
 					-- if cfg_ship.QUALITY == EDevelopStatus.kHas then
 						teamNode:getChildByName('node1'..o):getChildByName('shipIcon'):getChildByName('Image_1'):loadTexture("RankLayer/ui/ui_avatar_" .. cfg_ship.QUALITY .. ".png")
 					-- else
