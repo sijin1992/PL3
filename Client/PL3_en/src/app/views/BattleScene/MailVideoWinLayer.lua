@@ -49,7 +49,7 @@ function MailVideoWinLayer:OnBtnClick(event)
 				app:pushToRootView("PlanetScene/PlanetScene")
 			end
 			if from ~= '' then
-				app:pushView("MailScene/MailScene",{from = from,type = 'video',id = self.mail_info.guid})
+				app:pushView("MailScene/MailScene",{from = from,type = 'video'})
 			end
 			playMusic("sound/main.mp3", true)
 
