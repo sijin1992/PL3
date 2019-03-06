@@ -59394,4 +59394,10 @@
 		<VALUE>没有CD</VALUE>
 		<列1>nil</列1>
 	</Row>
+ 	<Row>
+		<ID>9900</ID>
+		<KEY>isjiesan_mass</KEY>
+		<VALUE>确定解散集结？</VALUE>
+		<列1>nil</列1>
+	</Row>
 </Root>
