@@ -3001,6 +3001,17 @@ function GetGemType(hole)
     return str
 end
 
+function IsFuncOpen(name)
+    local player = require("app.Player"):getInstance()
+    local str = name .. "_open"
+	local heroLevel = CONF.PARAM.get(str).PARAM[1]
+	local centreLevel = CONF.PARAM.get(str).PARAM[2]
+
+	if player:getLevel() < heroLevel or player:getBuildingInfo(1).level < centreLevel then
+		return false, heroLevel, centreLevel
+	end
+	return true, heroLevel, centreLevel
+end
 GlobalFunc_instance.playMusic = playMusic
 
 return GlobalFunc_instance

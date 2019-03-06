@@ -104,7 +104,7 @@ function StrongLayer:createStrongNode(id)
 		playEffectSound("sound/system/click.mp3")
         if tonumber(cfg_strong.TURN_TYPE) == 11 or tonumber(cfg_strong.TURN_TYPE) == 18 or tonumber(cfg_strong.TURN_TYPE) == 21 then
             local name = "planet"
-            local isOpen, heroLevel, centreLevel = self:isFuncOpen(name)
+            local isOpen, heroLevel, centreLevel = IsFuncOpen(name)
             if isOpen == false then
 				local tipStr = ""
 				if heroLevel ~= 0 then 
@@ -127,16 +127,6 @@ function StrongLayer:createStrongNode(id)
 	return node
 end
 
-function StrongLayer:isFuncOpen(name)
-	local str = name .. "_open"
-	local heroLevel = CONF.PARAM.get(str).PARAM[1]
-	local centreLevel = CONF.PARAM.get(str).PARAM[2]
-
-	if g_player:getLevel() < heroLevel or g_player:getBuildingInfo(1).level < centreLevel then
-		return false, heroLevel, centreLevel
-	end
-	return true, heroLevel, centreLevel
-end
 
 function StrongLayer:createNode(index)
 

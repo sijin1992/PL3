@@ -102,16 +102,6 @@ function PlanetUILayer:onExit()
 	printInfo("PlanetUILayer:onExit()")
 end
 
-function PlanetUILayer:isFuncOpen(name)
-	local str = name .. "_open"
-	local heroLevel = CONF.PARAM.get(str).PARAM[1]
-	local centreLevel = CONF.PARAM.get(str).PARAM[2]
-
-	if player:getLevel() < heroLevel or player:getBuildingInfo(1).level < centreLevel then
-		return false, heroLevel, centreLevel
-	end
-	return true, heroLevel, centreLevel
-end
 
 function PlanetUILayer:resetFindText( str )
 	local rn = self:getResourceNode()
@@ -340,7 +330,7 @@ function PlanetUILayer:onEnterTransitionFinish()
 	end
 	rn:getChildByName("open_node"):getChildByName("node_open"):getChildByName('league'):addClickEventListener(function(sender) 
 		if not canclick then return end 
-		local isOpen, heroLevel, centreLevel = self:isFuncOpen('league')
+		local isOpen, heroLevel, centreLevel = IsFuncOpen('league')
 		if isOpen == false then
 			local tipStr = ""
 			if heroLevel ~= 0 then 
@@ -578,6 +568,19 @@ function PlanetUILayer:onEnterTransitionFinish()
 
 	animManager:runAnimByCSB(rn:getChildByName("warning_sfx"), "PlanetScene/sfx/warning/warning.csb", "1")
 
+    local function UpdateLeague_Redpoint()
+        if IsFuncOpen("league") == true then
+		    local flag = false
+		    if player:hasGroupBossChallengeTimes(player:getGroupBossDays()[1].index) then
+			    flag = true
+		    end
+		    if player:getGroupHasWar() then
+			    flag = true
+		    end
+		    rn:getChildByName("league"):getChildByName("point"):setVisible(flag)
+	    end
+    end
+
 	local function update( ... )
 		changeWarningInfo()
 		local bagShow = false
@@ -588,6 +591,8 @@ function PlanetUILayer:onEnterTransitionFinish()
 			end
 		end
 		rn:getChildByName('bag'):getChildByName('point'):setVisible(bagShow)
+        -- 
+        UpdateLeague_Redpoint()
 
 		local mailShow = false
 		if player.mail_list_ then
@@ -605,7 +610,7 @@ function PlanetUILayer:onEnterTransitionFinish()
 		else
 			rn:getChildByName("open_node"):getChildByName("node_open"):getChildByName('league'):getChildByName('notice_point'):setVisible(false)
 		end
-		local isOpen, heroLevel, centreLevel = self:isFuncOpen('league')
+		local isOpen, heroLevel, centreLevel = IsFuncOpen('league')
 		if isOpen == false then
 			rn:getChildByName("open_node"):getChildByName("node_open"):getChildByName('league'):getChildByName('icon'):setTexture(string.format("CityScene/ui3/icon_%s_gray.png" ,'league'))
 			rn:getChildByName("open_node"):getChildByName("node_open"):getChildByName('league'):getChildByName("text"):setTextColor(cc.c4b(209,209,209,255))
