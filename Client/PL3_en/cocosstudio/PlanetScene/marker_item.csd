@@ -65,7 +65,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Button_share" ActionTag="2136439361" Tag="92" IconVisible="False" LeftMargin="142.9895" RightMargin="-174.9895" TopMargin="38.7399" BottomMargin="-64.7399" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="2" Scale9Height="4" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="Button_share" ActionTag="2136439361" Tag="92" IconVisible="False" LeftMargin="142.9895" RightMargin="-174.9895" TopMargin="38.7399" BottomMargin="-64.7399" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="2" Scale9Height="4" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="32.0000" Y="26.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="158.9895" Y="-51.7399" />
@@ -79,6 +79,26 @@
             <NormalFileData Type="Normal" Path="Common/newUI/fenxiang.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="jump" ActionTag="1450333479" Alpha="0" Tag="8654" IconVisible="False" LeftMargin="5.0527" RightMargin="-95.0527" TopMargin="5.7858" BottomMargin="-65.7858" TouchEnable="True" Scale9Width="46" Scale9Height="46" ctype="ImageViewObjectData">
+            <Size X="90.0000" Y="60.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="50.0527" Y="-35.7858" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FileData Type="Default" Path="Default/ImageFile.png" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="share" ActionTag="-1206262926" Alpha="0" Tag="8656" IconVisible="False" LeftMargin="114.4333" RightMargin="-204.4333" TopMargin="6.3958" BottomMargin="-66.3958" TouchEnable="True" Scale9Width="46" Scale9Height="46" ctype="ImageViewObjectData">
+            <Size X="90.0000" Y="60.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="159.4333" Y="-36.3958" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FileData Type="Default" Path="Default/ImageFile.png" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>
