@@ -76,8 +76,10 @@ function MassScene:resetList( info_list )
 			local ship_node = require("app.ExResInterface"):getInstance():FastLoad("PlanetScene/PlanetShip.csb")
 			ship_node:getChildByName("lvNum"):setString(v2.level)
 			ship_node:getChildByName("shipType"):setTexture("ShipType/"..v2.type..".png")
-
+            ship_node:getChildByName("icon"):setVisible(false)
+            ship_node:getChildByName("icon2"):setVisible(true)
 			ship_node:getChildByName("icon"):setTexture("RoleIcon/"..conf.ICON_ID..".png")
+            ship_node:getChildByName("icon2"):setTexture("ShipImage/"..conf.ICON_ID..".png")
 			ship_node:getChildByName("background"):loadTexture("RankLayer/ui/ui_avatar_"..conf.QUALITY..".png")
 
 			if v2.ship_break and v2.ship_break > 0 then

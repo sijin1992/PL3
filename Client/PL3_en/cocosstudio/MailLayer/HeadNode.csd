@@ -139,6 +139,17 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="RoleIcon/1.png" Plist="" />
           </AbstractNodeData>
+          <AbstractNodeData Name="icon2" ActionTag="1091211975" VisibleForFrame="False" Tag="186" IconVisible="False" LeftMargin="-223.3951" RightMargin="-88.6049" TopMargin="-45.4864" BottomMargin="-131.5136" ctype="SpriteObjectData">
+            <Size X="312.0000" Y="177.0000" />
+            <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
+            <Position X="88.6049" Y="-43.0136" />
+            <Scale ScaleX="0.2600" ScaleY="0.2600" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FileData Type="Normal" Path="ShipImage/124005.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
           <AbstractNodeData Name="shipType" ActionTag="2069578900" VisibleForFrame="False" Tag="882" IconVisible="False" LeftMargin="11.4661" RightMargin="-45.4661" TopMargin="4.1606" BottomMargin="-38.1606" ctype="SpriteObjectData">
             <Size X="34.0000" Y="34.0000" />
             <AnchorPoint ScaleY="1.0000" />
