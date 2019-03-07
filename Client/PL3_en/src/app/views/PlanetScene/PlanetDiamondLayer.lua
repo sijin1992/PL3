@@ -5566,7 +5566,7 @@ function PlanetDiamondLayer:onEnterTransitionFinish()
 				rn:getChildByName("selectNode"):removeFromParent()
 			end
 
-			self:createSelectNode(pos.x, pos.y)
+--			self:createSelectNode(pos.x, pos.y)
 		end
 		
 	end)
