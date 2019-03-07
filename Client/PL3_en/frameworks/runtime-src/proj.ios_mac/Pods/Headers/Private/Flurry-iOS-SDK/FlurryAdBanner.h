@@ -1,1 +1,1 @@
-link ../../../Flurry-iOS-SDK/FlurryAds/FlurryAdBanner/FlurryAdBanner.h
+../../../Flurry-iOS-SDK/FlurryAds/FlurryAdBanner/FlurryAdBanner.h

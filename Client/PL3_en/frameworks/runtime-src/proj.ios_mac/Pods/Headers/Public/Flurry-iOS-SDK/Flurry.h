@@ -1,1 +1,1 @@
-link ../../../Flurry-iOS-SDK/Flurry/Flurry.h
+../../../Flurry-iOS-SDK/Flurry/Flurry.h

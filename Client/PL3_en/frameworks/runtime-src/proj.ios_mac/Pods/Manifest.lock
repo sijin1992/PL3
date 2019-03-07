@@ -2,17 +2,22 @@ PODS:
   - Flurry-iOS-SDK/FlurryAds (8.1.0):
     - Flurry-iOS-SDK/FlurrySDK
   - Flurry-iOS-SDK/FlurrySDK (8.1.0)
-  - GA-SDK-IOS (2.2.11)
+  - GA-SDK-IOS (2.2.18)
 
 DEPENDENCIES:
   - Flurry-iOS-SDK/FlurryAds
   - Flurry-iOS-SDK/FlurrySDK
   - GA-SDK-IOS (~> 2.2)
 
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Flurry-iOS-SDK
+    - GA-SDK-IOS
+
 SPEC CHECKSUMS:
   Flurry-iOS-SDK: 51065be4436f3e21fc8d3d7bb0b7d6869df6333d
-  GA-SDK-IOS: 5bf2b6db1a6d2443dd8d826bc352352e601f0b43
+  GA-SDK-IOS: 2fe41f7279f9647d4a76fd4acfe26c67b887375c
 
-PODFILE CHECKSUM: af39c0ede50522112513b41ee17951de0e87ed77
+PODFILE CHECKSUM: 6172d29c3c77380623a7c9ccd0c13672722dfbf4
 
-COCOAPODS: 1.2.1
+COCOAPODS: 1.6.1

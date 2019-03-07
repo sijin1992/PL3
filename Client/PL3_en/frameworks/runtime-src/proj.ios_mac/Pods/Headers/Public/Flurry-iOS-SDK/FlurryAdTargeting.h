@@ -1,1 +1,1 @@
-link ../../../Flurry-iOS-SDK/FlurryAds/Shared/FlurryAdTargeting.h
+../../../Flurry-iOS-SDK/FlurryAds/Shared/FlurryAdTargeting.h

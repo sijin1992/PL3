@@ -1,1 +1,1 @@
-link ../../../Flurry-iOS-SDK/FlurryAds/FlurryAdInterstitial/FlurryAdInterstitialDelegate.h
+../../../Flurry-iOS-SDK/FlurryAds/FlurryAdInterstitial/FlurryAdInterstitialDelegate.h

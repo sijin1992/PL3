@@ -16,7 +16,6 @@ target 'StarClient-mobile' do
   # Pods for StarClient-mobile
   pod 'Flurry-iOS-SDK/FlurrySDK'
   pod 'Flurry-iOS-SDK/FlurryAds'
-  
   pod 'GA-SDK-IOS','~>2.2'
 end
 

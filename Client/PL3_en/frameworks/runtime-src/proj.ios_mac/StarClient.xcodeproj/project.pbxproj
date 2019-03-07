@@ -47,7 +47,6 @@
 		2602622F1EF7D28D00AA5B7D /* ADJTimerOnce.m in Sources */ = {isa = PBXBuildFile; fileRef = 2602620C1EF7D28D00AA5B7D /* ADJTimerOnce.m */; settings = {COMPILER_FLAGS = "-fobjc-arc"; }; };
 		260262301EF7D28D00AA5B7D /* Adjust.m in Sources */ = {isa = PBXBuildFile; fileRef = 2602620E1EF7D28D00AA5B7D /* Adjust.m */; settings = {COMPILER_FLAGS = "-fobjc-arc"; }; };
 		260262311EF7D28D00AA5B7D /* ADJUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 260262101EF7D28D00AA5B7D /* ADJUtil.m */; settings = {COMPILER_FLAGS = "-fobjc-arc"; }; };
-		260262321EF7D28D00AA5B7D /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 260262111EF7D28D00AA5B7D /* Info.plist */; };
 		261364921E979D1C0005E57B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 261364911E979D1C0005E57B /* Images.xcassets */; };
 		261D92EC1D2CF9FF0043B5D6 /* Weapon.pb.cc in Sources */ = {isa = PBXBuildFile; fileRef = 261D92EA1D2CF9FF0043B5D6 /* Weapon.pb.cc */; };
 		261D92ED1D2CF9FF0043B5D6 /* Weapon.pb.cc in Sources */ = {isa = PBXBuildFile; fileRef = 261D92EA1D2CF9FF0043B5D6 /* Weapon.pb.cc */; };
@@ -1238,8 +1237,6 @@
 				5023813117EBBCE400990C9B /* Sources */,
 				5023813617EBBCE400990C9B /* Frameworks */,
 				5023814617EBBCE400990C9B /* Resources */,
-				BA0972F027F6E1BA90F7D527 /* [CP] Embed Pods Frameworks */,
-				794644D338C5BA3B9C3403D0 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -1263,8 +1260,6 @@
 				F293B3C515EB7BE500256477 /* Frameworks */,
 				F293B3C615EB7BE500256477 /* Resources */,
 				3EC988201966433500A45E0E /* ShellScript */,
-				54DA914349D33D703F79BD14 /* [CP] Embed Pods Frameworks */,
-				CA8DC02B5FACFFF2649BACBB /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -1287,7 +1282,8 @@
 				LastUpgradeCheck = 0500;
 				TargetAttributes = {
 					F293B3C715EB7BE500256477 = {
-						DevelopmentTeam = EYK6C92RM3;
+						DevelopmentTeam = 9RL8P7YCC2;
+						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.InAppPurchase = {
 								enabled = 0;
@@ -1417,7 +1413,6 @@
 				5091733917ECE17A00D62437 /* Icon-58.png in Resources */,
 				261364921E979D1C0005E57B /* Images.xcassets in Resources */,
 				5023811F17EBBCAC00990C9B /* Icon-152.png in Resources */,
-				260262321EF7D28D00AA5B7D /* Info.plist in Resources */,
 				5023812017EBBCAC00990C9B /* Icon-57.png in Resources */,
 				521A8E7019F0C3D200D177D7 /* Default-667h@2x.png in Resources */,
 				C03781B918BF655400FE4F13 /* res in Resources */,
@@ -1443,13 +1438,16 @@
 			files = (
 			);
 			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-StarClient-desktop-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
 		107B89A3507B51535897F8DA /* [CP] Check Pods Manifest.lock */ = {
@@ -1458,13 +1456,16 @@
 			files = (
 			);
 			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-StarClient-mobile-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
 		3EC988201966433500A45E0E /* ShellScript */ = {
@@ -1479,66 +1480,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "find ${SRCROOT}/../../../src/ -name \"*\" -exec touch -cm {} \\;\nfind ${SRCROOT}/../../../res/ -name \"*\" -exec touch -cm {} \\;";
-		};
-		54DA914349D33D703F79BD14 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-StarClient-mobile/Pods-StarClient-mobile-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		794644D338C5BA3B9C3403D0 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-StarClient-desktop/Pods-StarClient-desktop-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		BA0972F027F6E1BA90F7D527 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-StarClient-desktop/Pods-StarClient-desktop-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		CA8DC02B5FACFFF2649BACBB /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-StarClient-mobile/Pods-StarClient-mobile-resources.sh\"\n";
-			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
 
@@ -1884,9 +1825,10 @@
 				ALWAYS_SEARCH_USER_PATHS = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Xutao Liu (76HR6JM5N3)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				COMPRESS_PNG_FILES = NO;
-				DEVELOPMENT_TEAM = EYK6C92RM3;
+				DEVELOPMENT_TEAM = 9RL8P7YCC2;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1921,7 +1863,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.utu.star;
 				PROVISIONING_PROFILE = "b5915248-362b-4cab-be62-d28948c7d8c8";
-				PROVISIONING_PROFILE_SPECIFIER = star_dev;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "$(inherited) $(SRCROOT)/../../cocos2d-x/cocos/platform/ios $(_COCOS_HEADER_IOS_BEGIN) $(_COCOS_HEADER_IOS_END)";
@@ -1936,9 +1878,10 @@
 				ALWAYS_SEARCH_USER_PATHS = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Xutao Liu (EYK6C92RM3)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				COMPRESS_PNG_FILES = NO;
-				DEVELOPMENT_TEAM = EYK6C92RM3;
+				DEVELOPMENT_TEAM = 9RL8P7YCC2;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1972,7 +1915,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.utu.star;
 				PROVISIONING_PROFILE = "9ba33233-c13f-44e7-8d5d-d9c0cffb323e";
-				PROVISIONING_PROFILE_SPECIFIER = dist;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "$(inherited) $(SRCROOT)/../../cocos2d-x/cocos/platform/ios $(_COCOS_HEADER_IOS_BEGIN) $(_COCOS_HEADER_IOS_END)";

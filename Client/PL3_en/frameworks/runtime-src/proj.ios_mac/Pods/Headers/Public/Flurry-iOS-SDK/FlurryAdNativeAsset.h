@@ -1,1 +1,1 @@
-link ../../../Flurry-iOS-SDK/FlurryAds/FlurryAdNative/FlurryAdNativeAsset.h
+../../../Flurry-iOS-SDK/FlurryAds/FlurryAdNative/FlurryAdNativeAsset.h
