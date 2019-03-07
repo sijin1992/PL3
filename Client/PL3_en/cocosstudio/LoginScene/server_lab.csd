@@ -21,8 +21,8 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="state" ActionTag="-827086313" Tag="258" IconVisible="False" LeftMargin="197.8615" RightMargin="-245.8615" TopMargin="25.3100" BottomMargin="-52.3100" FontSize="18" LabelText="State" HorizontalAlignmentType="HT_Right" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="48.0000" Y="27.0000" />
+          <AbstractNodeData Name="state" ActionTag="-827086313" Tag="258" IconVisible="False" LeftMargin="169.8615" RightMargin="-245.8615" TopMargin="29.8100" BottomMargin="-47.8100" FontSize="12" LabelText="Maintenance" HorizontalAlignmentType="HT_Right" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="76.0000" Y="18.0000" />
             <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
             <Position X="245.8615" Y="-38.8100" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />

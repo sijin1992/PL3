@@ -198,25 +198,25 @@
             <PreSize X="0.7685" Y="0.0208" />
             <FileData Type="Normal" Path="Common/ui/ui_progress_light1.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="status" ActionTag="-1409873738" Tag="1355" IconVisible="False" LeftMargin="868.8495" RightMargin="159.1505" TopMargin="501.4200" BottomMargin="233.5800" FontSize="22" LabelText="Loading..." HorizontalAlignmentType="HT_Right" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="status" ActionTag="-1409873738" Tag="1355" IconVisible="False" LeftMargin="953.8496" RightMargin="74.1504" TopMargin="501.4200" BottomMargin="233.5800" FontSize="22" LabelText="Loading..." HorizontalAlignmentType="HT_Right" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="108.0000" Y="33.0000" />
             <AnchorPoint ScaleX="1.0000" ScaleY="0.4763" />
-            <Position X="976.8495" Y="249.2979" />
+            <Position X="1061.8496" Y="249.2979" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.8599" Y="0.3246" />
+            <PrePosition X="0.9347" Y="0.3246" />
             <PreSize X="0.0951" Y="0.0430" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="187" G="252" B="253" />
           </AbstractNodeData>
-          <AbstractNodeData Name="prgress_text" ActionTag="-1831116265" Tag="1356" IconVisible="False" LeftMargin="984.6104" RightMargin="102.3896" TopMargin="501.2301" BottomMargin="233.7699" FontSize="22" LabelText="20%" HorizontalAlignmentType="HT_Right" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="prgress_text" ActionTag="-1831116265" Tag="1356" IconVisible="False" LeftMargin="1069.6104" RightMargin="17.3896" TopMargin="501.2301" BottomMargin="233.7699" FontSize="22" LabelText="20%" HorizontalAlignmentType="HT_Right" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="49.0000" Y="33.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="984.6104" Y="250.2699" />
+            <Position X="1069.6104" Y="250.2699" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.8667" Y="0.3259" />
+            <PrePosition X="0.9416" Y="0.3259" />
             <PreSize X="0.0431" Y="0.0430" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
