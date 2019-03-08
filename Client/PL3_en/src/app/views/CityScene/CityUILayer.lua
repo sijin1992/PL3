@@ -3221,7 +3221,15 @@ function CityUILayer:UpdateTotalStatus(dt)
 					end
 				end
 
-			else
+			elseif info.type == 2 then
+                local landInfo = player:getLandType(info.index)
+		        local conf = CONF.RESOURCE.get(landInfo.resource_type)
+		        totalCD = conf.CD + Tools.getValueByTechnologyAddition(conf.CD, CONF.ETechTarget_1.kHomeBuilding, info.index, CONF.ETechTarget_3_Building.kCD, player:getTechnolgList(), 	player:getPlayerGroupTech())
+		        localTime = totalCD - (player:getServerTime() - landInfo.res_refresh_times)
+                if localTime <= 0 then
+                    num = num + 1
+                end
+            else
 				num = num + 1
 			end
 		else
