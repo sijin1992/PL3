@@ -79200,7 +79200,15 @@ STRING[9900] = {}
 	STRING[9900]["列1"] = nil
 	STRING[9900]["real_idx"] = 9900
 
+STRING["index"][9901] = 9901
+STRING[9901] = {}
+	STRING[9901]["ID"] = 9901
+	STRING[9901]["KEY"] = "available"
+	STRING[9901]["VALUE"] = "可领取"
+	STRING[9901]["列1"] = nil
+	STRING[9901]["real_idx"] = 9901
 
-STRING["len"] = 9900
+
+STRING["len"] = 9901
 
 return STRING

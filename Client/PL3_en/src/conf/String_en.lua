@@ -69274,7 +69274,14 @@ STRING_EN[9900] = {}
 	STRING_EN[9900]["VALUE"] = "Determining the dissolution assembly?"
 	STRING_EN[9900]["real_idx"] = 9900
 
+STRING_EN["index"][9901] = 9901
+STRING_EN[9901] = {}
+	STRING_EN[9901]["ID"] = 9901
+	STRING_EN[9901]["KEY"] = "available"
+	STRING_EN[9901]["VALUE"] = "Available"
+	STRING_EN[9901]["real_idx"] = 9901
 
-STRING_EN["len"] = 9900
+
+STRING_EN["len"] = 9901
 
 return STRING_EN
