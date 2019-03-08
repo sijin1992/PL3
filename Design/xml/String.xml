@@ -59400,4 +59400,10 @@
 		<VALUE>确定解散集结？</VALUE>
 		<列1>nil</列1>
 	</Row>
+ 	<Row>
+		<ID>9901</ID>
+		<KEY>available</KEY>
+		<VALUE>可领取</VALUE>
+		<列1>nil</列1>
+	</Row>
 </Root>
