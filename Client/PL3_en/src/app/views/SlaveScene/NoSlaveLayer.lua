@@ -63,7 +63,8 @@ function NoSlaveLayer:createSlaveNode( slave_data, slave_brief_info, res, exp, i
 
 		node:removeFromParent()
 	end)
-
+    node:getChildByName("type"):setString(CONF:getStringValue("slave"))
+    node:getChildByName("shouqu_text"):setString(CONF:getStringValue("available"))
 	node:getChildByName("head"):setTexture("HeroImage/"..slave_brief_info.icon_id..".png")
 	node:getChildByName("name"):setString(slave_brief_info.nickname)
 
