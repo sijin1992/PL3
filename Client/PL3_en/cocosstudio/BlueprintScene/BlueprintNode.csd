@@ -58,10 +58,10 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="Common/newUI/mask_k02.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="name" ActionTag="-1003696296" Tag="386" IconVisible="False" LeftMargin="139.4556" RightMargin="-160.4556" TopMargin="96.1364" BottomMargin="-125.1364" FontSize="19" LabelText="字" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="21.0000" Y="29.0000" />
+          <AbstractNodeData Name="name" ActionTag="-1003696296" Tag="386" IconVisible="False" LeftMargin="142.4554" RightMargin="-160.4554" TopMargin="97.6364" BottomMargin="-121.6364" FontSize="16" LabelText="字" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="18.0000" Y="24.0000" />
             <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
-            <Position X="160.4556" Y="-110.6364" />
+            <Position X="160.4554" Y="-109.6364" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
