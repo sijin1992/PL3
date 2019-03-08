@@ -37,8 +37,8 @@
             <FileData Type="Normal" Path="StarLeagueScene/ui/icon_star_02.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="league_name" ActionTag="-576357079" Tag="550" IconVisible="False" LeftMargin="153.3818" RightMargin="-276.3818" TopMargin="-594.2846" BottomMargin="549.2846" FontSize="30" LabelText="星盟名称" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="123.0000" Y="45.0000" />
+          <AbstractNodeData Name="league_name" ActionTag="-576357079" Tag="550" IconVisible="False" LeftMargin="159.3818" RightMargin="-242.3818" TopMargin="-594.2846" BottomMargin="549.2846" FontSize="30" LabelText="name" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="83.0000" Y="45.0000" />
             <AnchorPoint ScaleX="0.1500" ScaleY="0.5000" />
             <Position X="171.8318" Y="571.7846" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -88,8 +88,8 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="avalon" ActionTag="-218800761" Tag="556" IconVisible="False" LeftMargin="100.6315" RightMargin="-155.6315" TopMargin="-500.8506" BottomMargin="470.8506" FontSize="20" LabelText="盟主：" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="55.0000" Y="30.0000" />
+          <AbstractNodeData Name="avalon" ActionTag="-218800761" Tag="556" IconVisible="False" LeftMargin="100.6315" RightMargin="-160.6315" TopMargin="-500.8506" BottomMargin="470.8506" FontSize="20" LabelText="Boss：" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="60.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
             <Position X="100.6315" Y="485.8506" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -112,8 +112,8 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="219" G="231" B="235" />
           </AbstractNodeData>
-          <AbstractNodeData Name="power" ActionTag="287446963" Tag="559" IconVisible="False" LeftMargin="100.6315" RightMargin="-155.6315" TopMargin="-467.0560" BottomMargin="437.0560" FontSize="20" LabelText="战力：" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="55.0000" Y="30.0000" />
+          <AbstractNodeData Name="power" ActionTag="287446963" Tag="559" IconVisible="False" LeftMargin="100.6315" RightMargin="-176.6315" TopMargin="-467.0560" BottomMargin="437.0560" FontSize="20" LabelText="Power：" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="76.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
             <Position X="100.6315" Y="452.0560" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -188,8 +188,8 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="military" ActionTag="-174719741" Tag="565" IconVisible="False" LeftMargin="100.6315" RightMargin="-188.6315" TopMargin="-433.2472" BottomMargin="403.2472" FontSize="20" LabelText="总贡献度:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="88.0000" Y="30.0000" />
+          <AbstractNodeData Name="military" ActionTag="-174719741" Tag="565" IconVisible="False" LeftMargin="100.6315" RightMargin="-168.6315" TopMargin="-433.2472" BottomMargin="403.2472" FontSize="20" LabelText="nnnnn:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="68.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
             <Position X="100.6315" Y="418.2472" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -212,8 +212,8 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="219" G="231" B="235" />
           </AbstractNodeData>
-          <AbstractNodeData Name="member" ActionTag="-227773572" Tag="568" IconVisible="False" LeftMargin="100.6315" RightMargin="-148.6315" TopMargin="-364.1461" BottomMargin="334.1461" FontSize="20" LabelText="成员:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="48.0000" Y="30.0000" />
+          <AbstractNodeData Name="member" ActionTag="-227773572" Tag="568" IconVisible="False" LeftMargin="100.6315" RightMargin="-168.6315" TopMargin="-364.1461" BottomMargin="334.1461" FontSize="20" LabelText="nnnnn:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="68.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
             <Position X="100.6315" Y="349.1461" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -248,8 +248,8 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="140" G="155" B="159" />
           </AbstractNodeData>
-          <AbstractNodeData Name="chairman" ActionTag="1919524606" Tag="571" IconVisible="False" LeftMargin="100.6315" RightMargin="-148.6315" TopMargin="-398.0699" BottomMargin="368.0699" FontSize="20" LabelText="理事:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="48.0000" Y="30.0000" />
+          <AbstractNodeData Name="chairman" ActionTag="1919524606" Tag="571" IconVisible="False" LeftMargin="100.6315" RightMargin="-168.6315" TopMargin="-398.0699" BottomMargin="368.0699" FontSize="20" LabelText="nnnnn:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="68.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
             <Position X="100.6315" Y="383.0699" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -324,7 +324,7 @@
             <FileData Type="Normal" Path="Common/newUI/xm_kuang.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="broadcast" ActionTag="1651435447" Tag="579" IconVisible="False" LeftMargin="109.7390" RightMargin="-391.7390" TopMargin="-271.6589" BottomMargin="144.6589" IsCustomSize="True" FontSize="20" LabelText="欢迎加入" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="broadcast" ActionTag="1651435447" Tag="579" IconVisible="False" LeftMargin="109.7390" RightMargin="-391.7390" TopMargin="-271.6589" BottomMargin="144.6589" IsCustomSize="True" FontSize="20" LabelText="notice" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="282.0000" Y="127.0000" />
             <AnchorPoint ScaleY="1.0000" />
             <Position X="109.7390" Y="271.6589" />
@@ -662,8 +662,8 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="219" G="231" B="235" />
           </AbstractNodeData>
-          <AbstractNodeData Name="text_0" ActionTag="559342597" Tag="473" IconVisible="False" LeftMargin="237.9100" RightMargin="-287.9100" TopMargin="-308.4506" BottomMargin="272.4506" FontSize="24" LabelText="公告" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="50.0000" Y="36.0000" />
+          <AbstractNodeData Name="text_0" ActionTag="559342597" Tag="473" IconVisible="False" LeftMargin="237.9100" RightMargin="-310.9100" TopMargin="-308.4506" BottomMargin="272.4506" FontSize="24" LabelText="notice" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="73.0000" Y="36.0000" />
             <AnchorPoint ScaleY="0.5000" />
             <Position X="237.9100" Y="290.4506" />
             <Scale ScaleX="1.0000" ScaleY="0.9349" />
