@@ -290,6 +290,8 @@ function AttributeLayer:setData(  )
 	--rn:getChildByName("rank"):getChildByName("text_selected"):setString(CONF.STRING.get("rank").VALUE);
 	--rn:getChildByName("setting"):getChildByName("text"):setString(CONF.STRING.get("setting").VALUE);
 	--rn:getChildByName("setting"):getChildByName("text_selected"):setString(CONF.STRING.get("setting").VALUE);
+	rn:getChildByName("rank"):getChildByName("text"):setString(CONF.STRING.get("RankList").VALUE);
+	rn:getChildByName("rank"):getChildByName("text_selected"):setString(CONF.STRING.get("RankList").VALUE);
 	heroinfo:getChildByName("lv"):setString("LV." .. player:getLevel())
 	heroinfo:getChildByName("playerName"):setString(player:getNickName())
 	heroinfo:getChildByName("setName"):setPositionX(heroinfo:getChildByName("playerName"):getPositionX() + heroinfo:getChildByName("playerName"):getContentSize().width + 5)

@@ -25323,7 +25323,7 @@ STRING_EN["index"][3618] = 3618
 STRING_EN[3618] = {}
 	STRING_EN[3618]["ID"] = 3618
 	STRING_EN[3618]["KEY"] = "RankList"
-	STRING_EN[3618]["VALUE"] = "Leaderboard"
+	STRING_EN[3618]["VALUE"] = "Ranking Board"
 	STRING_EN[3618]["real_idx"] = 3618
 
 STRING_EN["index"][3619] = 3619
