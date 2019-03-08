@@ -286,8 +286,8 @@ function AttributeLayer:setData(  )
 	rn:getChildByName("achieve"):getChildByName("text"):setString(CONF.STRING.get("achievement").VALUE)
 	rn:getChildByName("state"):getChildByName("text_selected"):setString(CONF.STRING.get("state").VALUE)
 	rn:getChildByName("achieve"):getChildByName("text_selected"):setString(CONF.STRING.get("achievement").VALUE)
-	rn:getChildByName("rank"):getChildByName("text"):setString(CONF.STRING.get("rank").VALUE);
-	rn:getChildByName("rank"):getChildByName("text_selected"):setString(CONF.STRING.get("rank").VALUE);
+	rn:getChildByName("rank"):getChildByName("text"):setString(CONF.STRING.get("RankList").VALUE);
+	rn:getChildByName("rank"):getChildByName("text_selected"):setString(CONF.STRING.get("RankList").VALUE);
 	rn:getChildByName("setting"):getChildByName("text"):setString(CONF.STRING.get("setting").VALUE);
 	rn:getChildByName("setting"):getChildByName("text_selected"):setString(CONF.STRING.get("setting").VALUE);
 	heroinfo:getChildByName("lv"):setString("LV." .. player:getLevel())
