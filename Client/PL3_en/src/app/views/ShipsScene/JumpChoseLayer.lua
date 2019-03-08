@@ -144,6 +144,10 @@ function JumpChoseLayer:onEnterTransitionFinish()
 					if self.scene then
 						if self.scene == "ShipInfoLayer" then
 							self:getParent():removeFromParent()
+                        elseif self.scene == "TechnologyDevelopLayer" then
+                            local parentlayer = self:getParent()
+                            self:removeFromParent()
+                            parentlayer:removeFromParent()
 						else
 							self:removeFromParent()
 						end
@@ -161,8 +165,15 @@ function JumpChoseLayer:onEnterTransitionFinish()
 						local center = cc.exports.VisibleRect:center()
 						layer:setPosition(cc.p(-center.x,-center.y-54))
 					end
-					self:getParent():addChild(layer,100)
-					self:removeFromParent()
+                    if self.scene == "TechnologyDevelopLayer" then
+                        self:removeFromParent()
+                        app:pushToRootView("CityScene/CityScene", {pos = -1350})
+                        local scene = display.getRunningScene()
+                        scene:addChild(layer)
+                    else
+                        self:getParent():addChild(layer,100)
+                        self:removeFromParent()
+                    end
 				elseif v == jumpType.TRIAL then
 					if player:getLevel() < CONF.FUNCTION_OPEN.get(21).GRADE then
 						local str = string.gsub(CONF:getStringValue("level_open"),"#",CONF.FUNCTION_OPEN.get(21).GRADE)

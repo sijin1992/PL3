@@ -1837,6 +1837,8 @@ function NewFormLayer:onEnterTransitionFinish()
         --				tipsAction(node)
                         local messageBox = require("util.MessageBox"):getInstance()
         		        messageBox:reset(CONF:getStringValue("isfight"), fightfun)
+                    elseif self.data_ and self.data_.from == "slave" then
+                        tips:tips(CONF:getStringValue('yushe succeed'))
                     else
                         self:removeFromParent()
                     end
