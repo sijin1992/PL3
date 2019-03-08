@@ -226,8 +226,8 @@
             <FileData Type="Normal" Path="Common/newUI/zm_tc_kuang01.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="shouqu_text" ActionTag="236495980" Tag="814" IconVisible="False" LeftMargin="-357.5608" RightMargin="294.5608" TopMargin="46.6507" BottomMargin="-76.6507" FontSize="20" LabelText="可收取" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="63.0000" Y="30.0000" />
+          <AbstractNodeData Name="shouqu_text" ActionTag="236495980" Tag="814" IconVisible="False" LeftMargin="-357.5608" RightMargin="306.5608" TopMargin="49.6507" BottomMargin="-73.6507" FontSize="16" LabelText="可收取" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="51.0000" Y="24.0000" />
             <AnchorPoint ScaleY="0.5000" />
             <Position X="-357.5608" Y="-61.6507" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
