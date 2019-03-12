@@ -1,5 +1,5 @@
 local ScrollViewDelegate = class("ScrollViewDelegate")
-local player = require("app.Player"):getInstance()
+
 
 function ScrollViewDelegate:ctor( scrollView, diffSize, elementDefaultSize)
 	self.sv_ = scrollView
@@ -275,7 +275,7 @@ end
 
 function ScrollViewDelegate:addListener( node, func)
 
-	local isTouchMe = false
+	local isMoved = false
 
 	local function onTouchBegan(touch, event)
 
@@ -294,7 +294,8 @@ function ScrollViewDelegate:addListener( node, func)
 			local rect = cc.rect(0, 0, s.width, s.height)
 			
 			if cc.rectContainsPoint(rect, ln) then
-				isTouchMe = true
+				isMoved = true
+                self.isTouch = true
 				return true
 			end
 
@@ -307,14 +308,15 @@ function ScrollViewDelegate:addListener( node, func)
 
 		local delta = touch:getDelta()
 		if math.abs(delta.x) > g_click_delta or math.abs(delta.y) > g_click_delta then
-            if player:getGuideStep() > CONF.GUIDANCE.count() then
-			    isTouchMe = false
+            if player and player:getGuideStep() > CONF.GUIDANCE.count() then
+			    isMoved = false
             end
 		end
 	end
 
 	local function onTouchEnded(touch, event)
-		if isTouchMe == true then
+        self.isTouch = false
+		if isMoved == true then
 				
 			func(node)
 		end

@@ -194,6 +194,10 @@ function ShipsDevelopScene:changeMode()
 		end)
 
 	rn:getChildByName("detail"):addClickEventListener(function()
+        if self.svd_.isTouch then
+            return
+        end
+
 		if self.selectedShip.isHave == 0 then
 			if self.selectedShip.needBluePrintNum <= self.selectedShip.haveBluePrintNum then
 				local strData = Tools.encode("ShipDevelopeReq", {   
@@ -216,7 +220,7 @@ function ShipsDevelopScene:changeMode()
 			local layer = self:getApp():createView("ShipsScene/ShipInfoLayer",self.selectedShip)
 			self:addChild(layer)
 		end
-		end)
+	end)
 	
 	for i,v in ipairs(self.allShipList) do
 		if v.type == self.mode_ or self.mode_ == 5 then
