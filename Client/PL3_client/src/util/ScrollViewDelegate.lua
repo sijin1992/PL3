@@ -1,5 +1,5 @@
 local ScrollViewDelegate = class("ScrollViewDelegate")
-
+local player = require("app.Player"):getInstance()
 
 function ScrollViewDelegate:ctor( scrollView, diffSize, elementDefaultSize)
 	self.sv_ = scrollView
@@ -308,7 +308,7 @@ function ScrollViewDelegate:addListener( node, func)
 
 		local delta = touch:getDelta()
 		if math.abs(delta.x) > g_click_delta or math.abs(delta.y) > g_click_delta then
-            if player and player:getGuideStep() > CONF.GUIDANCE.count() then
+            if not player or player:getGuideStep() >= CONF.GUIDANCE.count() then
 			    isMoved = false
             end
 		end
