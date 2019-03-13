@@ -89,17 +89,17 @@
             <FileData Type="Normal" Path="CityScene/ui3/xz_tw3.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="dismantle" ActionTag="664813382" Tag="151" IconVisible="False" LeftMargin="-51.1503" RightMargin="-48.8497" TopMargin="-100.3059" BottomMargin="60.3059" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="44" Scale9Height="20" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-            <Size X="100.0000" Y="40.0000" />
+          <AbstractNodeData Name="dismantle" ActionTag="664813382" Tag="151" IconVisible="False" LeftMargin="-37.1503" RightMargin="-34.8497" TopMargin="-100.3059" BottomMargin="60.3059" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="44" Scale9Height="20" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+            <Size X="72.0000" Y="40.0000" />
             <Children>
-              <AbstractNodeData Name="text" ActionTag="-206762381" Tag="152" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="0.5100" RightMargin="-1.5100" TopMargin="9.2280" BottomMargin="0.7720" FontSize="20" LabelText="Dismantle" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="text" ActionTag="-206762381" Tag="152" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-13.7728" RightMargin="-15.2272" TopMargin="9.2280" BottomMargin="0.7720" FontSize="20" LabelText="Dismantle" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="101.0000" Y="30.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="51.0100" Y="15.7720" />
+                <Position X="36.7272" Y="15.7720" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5101" Y="0.3943" />
-                <PreSize X="1.0100" Y="0.7500" />
+                <PreSize X="1.4028" Y="0.7500" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
@@ -118,17 +118,17 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="info" ActionTag="589225246" Tag="155" IconVisible="False" LeftMargin="-137.4978" RightMargin="37.4978" TopMargin="47.1891" BottomMargin="-87.1891" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="44" Scale9Height="20" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-            <Size X="100.0000" Y="40.0000" />
+          <AbstractNodeData Name="info" ActionTag="589225246" Tag="155" IconVisible="False" LeftMargin="-123.4978" RightMargin="51.4978" TopMargin="47.1891" BottomMargin="-87.1891" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="44" Scale9Height="20" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+            <Size X="72.0000" Y="40.0000" />
             <Children>
-              <AbstractNodeData Name="text" ActionTag="1394953580" Tag="156" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="27.8100" RightMargin="32.1900" TopMargin="9.2280" BottomMargin="0.7720" FontSize="20" LabelText="Info" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="text" ActionTag="1394953580" Tag="156" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="14.4232" RightMargin="17.5768" TopMargin="9.2280" BottomMargin="0.7720" FontSize="20" LabelText="Info" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="40.0000" Y="30.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="47.8100" Y="15.7720" />
+                <Position X="34.4232" Y="15.7720" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.4781" Y="0.3943" />
-                <PreSize X="0.4000" Y="0.7500" />
+                <PreSize X="0.5556" Y="0.7500" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
@@ -147,17 +147,17 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="upgrade" ActionTag="2052108640" Tag="234" IconVisible="False" LeftMargin="31.0226" RightMargin="-131.0226" TopMargin="47.1900" BottomMargin="-87.1900" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="44" Scale9Height="20" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-            <Size X="100.0000" Y="40.0000" />
+          <AbstractNodeData Name="upgrade" ActionTag="2052108640" Tag="234" IconVisible="False" LeftMargin="45.0226" RightMargin="-117.0226" TopMargin="47.1900" BottomMargin="-87.1900" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="44" Scale9Height="20" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+            <Size X="72.0000" Y="40.0000" />
             <Children>
-              <AbstractNodeData Name="text" ActionTag="598258196" Tag="237" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="5.6600" RightMargin="7.3400" TopMargin="9.2280" BottomMargin="0.7720" FontSize="20" LabelText="Upgrade" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="text" ActionTag="598258196" Tag="237" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-8.1048" RightMargin="-6.8952" TopMargin="9.2280" BottomMargin="0.7720" FontSize="20" LabelText="Upgrade" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
                 <Size X="87.0000" Y="30.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="49.1600" Y="15.7720" />
+                <Position X="35.3952" Y="15.7720" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.4916" Y="0.3943" />
-                <PreSize X="0.8700" Y="0.7500" />
+                <PreSize X="1.2083" Y="0.7500" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />

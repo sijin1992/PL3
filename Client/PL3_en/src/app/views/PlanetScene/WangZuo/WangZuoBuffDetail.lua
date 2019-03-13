@@ -37,7 +37,7 @@ function WangZuoBuffDetail:onEnterTransitionFinish()
 		return
 	end
 	local conf = CONF.TITLE_BUFF.get(self.data_.id)
-	self.svd_ = require("util.ScrollViewDelegate"):create(rn:getChildByName('list'),cc.size(0,40), cc.size(370,23))
+	self.svd_ = require("util.ScrollViewDelegate"):create(rn:getChildByName('list'),cc.size(0,5), cc.size(370,23))
 	rn:getChildByName("list"):setScrollBarEnabled(false)
 	rn:getChildByName("back"):addClickEventListener(function()
 		self:getApp():removeTopView()
@@ -75,9 +75,6 @@ function WangZuoBuffDetail:onEnterTransitionFinish()
 			buff_info:getChildByName("buff"):setString(tech.TECHNOLOGY_ATTR_VALUE)
 		end
 		buff_info:getChildByName("buffName"):setString(CONF:getStringValue(tech.MEMO_ID))
-        buff_info:getChildByName("buffName"):getVirtualRenderer():setLineBreakWithoutSpace(true)
-        buff_info:getChildByName("buffName"):getVirtualRenderer():setMaxLineWidth(320)
-        buff_info:getChildByName("buffName"):setContentSize(buff_info:getChildByName("buffName"):getVirtualRenderer():getContentSize())
 		if conf.STR_DEBUFF == 1 then
 			buff_info:getChildByName("buff"):setTextColor(cc.c4b(243,57,57,255))
 			buff_info:getChildByName("buffName"):setTextColor(cc.c4b(243,57,57,255))

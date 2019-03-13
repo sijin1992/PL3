@@ -94,10 +94,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="text" ActionTag="-84122402" Tag="812" IconVisible="False" LeftMargin="-224.3414" RightMargin="-245.6586" TopMargin="-66.0234" BottomMargin="-14.1066" IsCustomSize="True" FontSize="22" LabelText="Consume      198 to speed up the upgrade， is it OK？" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="470.0000" Y="80.1300" />
-            <AnchorPoint ScaleY="1.0000" />
-            <Position X="-224.3414" Y="66.0234" />
+          <AbstractNodeData Name="text" ActionTag="-84122402" Tag="812" IconVisible="False" LeftMargin="-210.3416" RightMargin="-233.6584" TopMargin="-66.0234" BottomMargin="-14.1066" IsCustomSize="True" FontSize="22" LabelText="Consume       #1 to speed up the upgrade， is it OK?" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="444.0000" Y="80.1300" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="11.6584" Y="25.9584" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -132,10 +132,10 @@
             <PressedBackFileData Type="Normal" Path="Common/newUI/checkboxback.png" Plist="" />
             <NodeNormalFileData Type="Normal" Path="Common/newUI/checkboxok.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="point" ActionTag="-659424000" Tag="2970" IconVisible="False" LeftMargin="-120.9710" RightMargin="80.9710" TopMargin="-66.9377" BottomMargin="26.9377" LeftEage="11" RightEage="11" TopEage="13" BottomEage="13" Scale9OriginX="11" Scale9OriginY="13" Scale9Width="31" Scale9Height="27" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="point" ActionTag="-659424000" Tag="2970" IconVisible="False" LeftMargin="-108.9710" RightMargin="68.9710" TopMargin="-66.9378" BottomMargin="26.9378" LeftEage="11" RightEage="11" TopEage="13" BottomEage="13" Scale9OriginX="11" Scale9OriginY="13" Scale9Width="31" Scale9Height="27" ctype="ImageViewObjectData">
             <Size X="40.0000" Y="40.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-100.9710" Y="46.9377" />
+            <Position X="-88.9710" Y="46.9378" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

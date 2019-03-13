@@ -112,17 +112,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Image_2" ActionTag="-810039129" Alpha="91" Tag="1493" IconVisible="False" LeftMargin="486.1800" RightMargin="259.8200" TopMargin="294.6200" BottomMargin="293.3800" LeftEage="32" RightEage="32" TopEage="5" BottomEage="5" Scale9OriginX="32" Scale9OriginY="5" Scale9Width="35" Scale9Height="8" ctype="ImageViewObjectData">
-            <Size X="390.0000" Y="180.0000" />
-            <AnchorPoint ScaleY="1.0000" />
-            <Position X="486.1800" Y="473.3800" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.4280" Y="0.6164" />
-            <PreSize X="0.3433" Y="0.2344" />
-            <FileData Type="Normal" Path="Common/newUI/jdt_bottom02.png" Plist="" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="list" ActionTag="-1207867478" Tag="3285" IconVisible="False" LeftMargin="486.1755" RightMargin="259.8245" TopMargin="294.6227" BottomMargin="293.3773" TouchEnable="True" ClipAble="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Enable="True" LeftEage="32" RightEage="32" TopEage="5" BottomEage="5" Scale9OriginX="-32" Scale9OriginY="-5" Scale9Width="64" Scale9Height="10" IsBounceEnabled="True" ScrollDirectionType="Vertical" ctype="ScrollViewObjectData">
+          <AbstractNodeData Name="list" ActionTag="-1207867478" Tag="3285" IconVisible="False" LeftMargin="486.1755" RightMargin="259.8245" TopMargin="294.6227" BottomMargin="293.3773" TouchEnable="True" ClipAble="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" IsBounceEnabled="True" ScrollDirectionType="Vertical" ctype="ScrollViewObjectData">
             <Size X="390.0000" Y="180.0000" />
             <AnchorPoint ScaleY="1.0000" />
             <Position X="486.1755" Y="473.3773" />
@@ -134,7 +124,7 @@
             <FirstColor A="255" R="255" G="150" B="100" />
             <EndColor A="255" R="255" G="255" B="255" />
             <ColorVector ScaleY="1.0000" />
-            <InnerNodeSize Width="390" Height="180" />
+            <InnerNodeSize Width="840" Height="350" />
           </AbstractNodeData>
         </Children>
       </ObjectData>

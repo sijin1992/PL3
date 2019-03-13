@@ -135,8 +135,8 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="noBuilding" Visible="False" ActionTag="1504864385" Tag="2818" IconVisible="False" LeftMargin="50.9092" RightMargin="-181.9092" TopMargin="14.8189" BottomMargin="-38.8189" FontSize="16" LabelText="没工作，懒得一比" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="131.0000" Y="24.0000" />
+          <AbstractNodeData Name="noBuilding" Visible="False" ActionTag="1504864385" Tag="2818" IconVisible="False" LeftMargin="50.9092" RightMargin="-213.9092" TopMargin="11.8189" BottomMargin="-41.8189" FontSize="20" LabelText="没工作，懒得一比" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="163.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
             <Position X="50.9092" Y="-26.8189" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />

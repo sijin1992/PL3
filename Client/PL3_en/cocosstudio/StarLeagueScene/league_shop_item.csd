@@ -81,8 +81,8 @@
             <OutlineColor A="255" R="77" G="77" B="77" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="limit" ActionTag="-1862070296" Tag="228" IconVisible="False" LeftMargin="71.1179" RightMargin="-105.1179" TopMargin="12.6890" BottomMargin="-33.6890" FontSize="14" LabelText="limit" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="34.0000" Y="21.0000" />
+          <AbstractNodeData Name="limit" ActionTag="-1862070296" Tag="228" IconVisible="False" LeftMargin="74.1179" RightMargin="-105.1179" TopMargin="12.6890" BottomMargin="-33.6890" FontSize="14" LabelText="限购" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="31.0000" Y="21.0000" />
             <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
             <Position X="105.1179" Y="-23.1890" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -155,7 +155,7 @@
             <Size X="106.0000" Y="31.0000" />
             <AnchorPoint ScaleY="1.0000" />
             <Position X="6.1096" Y="-5.2000" />
-            <Scale ScaleX="0.9000" ScaleY="1.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />

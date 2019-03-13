@@ -789,6 +789,7 @@ function Config:load(preload)
 
 	for _,name in ipairs(conf_list) do
 
+		print("ttttt",name)
 		local CONF_NAME = string.upper(name)
 
 		if server_platform == 1 then

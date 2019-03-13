@@ -259,7 +259,7 @@ function PlanetScene:onEnterTransitionFinish()
 			--name1:setVisible(false)
 			name1:setVisible(true)
 			local labelName = name1:getChildByName('text')
-			labelName:setString(CONF:getStringValue("hao_other"))
+			labelName:setString(CONF:getStringValue("utu_other"))
 			self.uiLayer_:getResourceNode():getChildByName('Image_name2'):setVisible(false)
 		end
 	end

@@ -738,7 +738,7 @@
                 <PreSize X="0.3036" Y="0.1419" />
                 <FileData Type="Normal" Path="Common/newUI/cj_button.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="player4" ActionTag="-1214031380" Alpha="118" UserData="right" Tag="242" IconVisible="False" LeftMargin="100.7591" RightMargin="188.2409" TopMargin="432.2780" BottomMargin="226.7220" TouchEnable="True" LeftEage="34" RightEage="34" TopEage="29" BottomEage="29" Scale9OriginX="34" Scale9OriginY="29" Scale9Width="58" Scale9Height="51" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="player4" ActionTag="-1214031380" Alpha="127" UserData="right" Tag="242" IconVisible="False" LeftMargin="100.7592" RightMargin="188.2408" TopMargin="431.4113" BottomMargin="227.5887" TouchEnable="True" LeftEage="34" RightEage="34" TopEage="29" BottomEage="29" Scale9OriginX="34" Scale9OriginY="29" Scale9Width="58" Scale9Height="51" ctype="ImageViewObjectData">
                 <Size X="126.0000" Y="109.0000" />
                 <Children>
                   <AbstractNodeData Name="icon" CanEdit="False" ActionTag="1794269869" UserData="right" Tag="243" IconVisible="False" LeftMargin="30.5559" RightMargin="25.4441" TopMargin="26.7193" BottomMargin="12.2807" ctype="SpriteObjectData">
@@ -776,14 +776,14 @@
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="163.7591" Y="281.2220" />
+                <Position X="163.7592" Y="282.0887" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.3946" Y="0.3662" />
+                <PrePosition X="0.3946" Y="0.3673" />
                 <PreSize X="0.3036" Y="0.1419" />
                 <FileData Type="Normal" Path="Common/newUI/cj_button.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="player5" ActionTag="979762784" Alpha="84" UserData="right" Tag="246" IconVisible="False" LeftMargin="190.8389" RightMargin="98.1611" TopMargin="524.6833" BottomMargin="134.3166" TouchEnable="True" LeftEage="34" RightEage="34" TopEage="29" BottomEage="29" Scale9OriginX="34" Scale9OriginY="29" Scale9Width="58" Scale9Height="51" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="player5" ActionTag="979762784" Alpha="127" UserData="right" Tag="246" IconVisible="False" LeftMargin="190.8391" RightMargin="98.1609" TopMargin="520.3499" BottomMargin="138.6501" TouchEnable="True" LeftEage="34" RightEage="34" TopEage="29" BottomEage="29" Scale9OriginX="34" Scale9OriginY="29" Scale9Width="58" Scale9Height="51" ctype="ImageViewObjectData">
                 <Size X="126.0000" Y="109.0000" />
                 <Children>
                   <AbstractNodeData Name="icon" CanEdit="False" ActionTag="228208128" UserData="right" Tag="247" IconVisible="False" LeftMargin="27.9956" RightMargin="28.0044" TopMargin="26.2811" BottomMargin="12.7189" ctype="SpriteObjectData">
@@ -821,10 +821,10 @@
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="253.8389" Y="188.8166" />
+                <Position X="253.8391" Y="193.1501" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.6117" Y="0.2459" />
+                <PrePosition X="0.6117" Y="0.2515" />
                 <PreSize X="0.3036" Y="0.1419" />
                 <FileData Type="Normal" Path="Common/newUI/cj_button.png" Plist="" />
               </AbstractNodeData>
@@ -920,14 +920,14 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="text" ActionTag="-1569243710" Alpha="0" UserData="bottom" Tag="226" IconVisible="False" LeftMargin="422.9418" RightMargin="463.0582" TopMargin="635.6970" BottomMargin="94.3030" IsCustomSize="True" FontSize="26" LabelText="" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="250.0000" Y="38.0000" />
+          <AbstractNodeData Name="text" ActionTag="-1569243710" Alpha="0" UserData="bottom" Tag="226" IconVisible="False" LeftMargin="422.9418" RightMargin="463.0582" TopMargin="641.6970" BottomMargin="100.3030" IsCustomSize="True" FontSize="26" LabelText="" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="250.0000" Y="26.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="547.9418" Y="113.3030" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.4823" Y="0.1475" />
-            <PreSize X="0.2201" Y="0.0495" />
+            <PreSize X="0.2201" Y="0.0339" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />

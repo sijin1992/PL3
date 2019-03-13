@@ -29,10 +29,10 @@
             <OutlineColor A="255" R="255" G="244" B="121" />
             <ShadowColor A="255" R="26" G="26" B="26" />
           </AbstractNodeData>
-          <AbstractNodeData Name="av_ins" ActionTag="-1163228962" Tag="1751" IconVisible="False" LeftMargin="22.7705" RightMargin="-492.7705" TopMargin="-451.7006" BottomMargin="367.4506" IsCustomSize="True" FontSize="20" LabelText="累计充值活动名称&#xA;兑换" VerticalAlignmentType="VT_Center" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
-            <Size X="470.0000" Y="84.2500" />
+          <AbstractNodeData Name="av_ins" ActionTag="-1163228962" Tag="1751" IconVisible="False" LeftMargin="52.7700" RightMargin="-496.7700" TopMargin="-444.7005" BottomMargin="360.4505" IsCustomSize="True" FontSize="24" LabelText="累计充值活动名称&#xA;兑换" VerticalAlignmentType="VT_Center" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
+            <Size X="444.0000" Y="84.2500" />
             <AnchorPoint ScaleY="1.0000" />
-            <Position X="22.7705" Y="451.7006" />
+            <Position X="52.7700" Y="444.7005" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -92,10 +92,10 @@
           <AbstractNodeData Name="button" ActionTag="-1699565367" VisibleForFrame="False" Tag="29" IconVisible="False" LeftMargin="569.6200" RightMargin="-699.6200" TopMargin="-429.7187" BottomMargin="389.7187" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="100" Scale9Height="18" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="130.0000" Y="40.0000" />
             <Children>
-              <AbstractNodeData Name="text" ActionTag="-17615956" Tag="30" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="42.2540" RightMargin="40.7460" TopMargin="9.3840" BottomMargin="-2.3840" FontSize="22" LabelText="兑换" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="text" ActionTag="-17615956" Tag="30" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="42.2514" RightMargin="40.7486" TopMargin="9.3851" BottomMargin="-2.3851" FontSize="22" LabelText="兑换" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="47.0000" Y="33.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="65.7540" Y="14.1160" />
+                <Position X="65.7514" Y="14.1149" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5058" Y="0.3529" />

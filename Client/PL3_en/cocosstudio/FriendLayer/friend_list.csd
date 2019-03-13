@@ -20,8 +20,8 @@
             <ColorVector ScaleY="1.0000" />
             <InnerNodeSize Width="838" Height="404" />
           </AbstractNodeData>
-          <AbstractNodeData Name="text" ActionTag="1120003745" Tag="817" IconVisible="False" LeftMargin="333.5000" RightMargin="-468.5000" TopMargin="-272.0000" BottomMargin="242.0000" FontSize="20" LabelText="no friend now" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="135.0000" Y="30.0000" />
+          <AbstractNodeData Name="text" ActionTag="1120003745" Tag="817" IconVisible="False" LeftMargin="300.0000" RightMargin="-502.0000" TopMargin="-279.5000" BottomMargin="234.5000" FontSize="30" LabelText="no friend now" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="202.0000" Y="45.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="401.0000" Y="257.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -44,10 +44,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="friend_num" ActionTag="-1305569279" Tag="637" IconVisible="False" LeftMargin="100.0000" RightMargin="-114.0000" TopMargin="-50.0000" BottomMargin="20.0000" FontSize="20" LabelText="0" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="friend_num" ActionTag="-1305569279" Tag="637" IconVisible="False" LeftMargin="77.9578" RightMargin="-91.9578" TopMargin="-50.0000" BottomMargin="20.0000" FontSize="20" LabelText="0" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="14.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="100.0000" Y="35.0000" />
+            <Position X="77.9578" Y="35.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -56,10 +56,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="friend_max_num" ActionTag="1238582291" Tag="638" IconVisible="False" LeftMargin="110.0000" RightMargin="-143.0000" TopMargin="-50.0000" BottomMargin="20.0000" FontSize="20" LabelText="/10" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="friend_max_num" ActionTag="1238582291" Tag="638" IconVisible="False" LeftMargin="91.7075" RightMargin="-124.7075" TopMargin="-50.0000" BottomMargin="20.0000" FontSize="20" LabelText="/10" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="33.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="110.0000" Y="35.0000" />
+            <Position X="91.7075" Y="35.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

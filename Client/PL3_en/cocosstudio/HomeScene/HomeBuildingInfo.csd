@@ -156,10 +156,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="226" G="239" B="242" />
           </AbstractNodeData>
-          <AbstractNodeData Name="new_level" ActionTag="2033168489" Tag="1780" IconVisible="False" LeftMargin="-84.8176" RightMargin="71.8176" TopMargin="-119.8217" BottomMargin="92.8217" FontSize="18" LabelText="3" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="new_level" ActionTag="2033168489" Tag="1780" IconVisible="False" LeftMargin="-99.8181" RightMargin="86.8181" TopMargin="-119.8217" BottomMargin="92.8217" FontSize="18" LabelText="3" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="13.0000" Y="27.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="-84.8176" Y="106.3217" />
+            <Position X="-99.8181" Y="106.3217" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="33" G="255" B="70" />
             <PrePosition />
@@ -168,20 +168,20 @@
             <OutlineColor A="255" R="255" G="255" B="255" />
             <ShadowColor A="255" R="33" G="255" B="70" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Image_3" ActionTag="951034231" Tag="1778" IconVisible="False" LeftMargin="-122.9979" RightMargin="84.9979" TopMargin="-127.1133" BottomMargin="89.1133" LeftEage="3" RightEage="3" TopEage="5" BottomEage="5" Scale9OriginX="3" Scale9OriginY="5" Scale9Width="32" Scale9Height="28" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="Image_3" ActionTag="951034231" Tag="1778" IconVisible="False" LeftMargin="-137.9988" RightMargin="99.9988" TopMargin="-127.1133" BottomMargin="89.1133" LeftEage="3" RightEage="3" TopEage="5" BottomEage="5" Scale9OriginX="3" Scale9OriginY="5" Scale9Width="32" Scale9Height="28" ctype="ImageViewObjectData">
             <Size X="38.0000" Y="38.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-103.9979" Y="108.1133" />
+            <Position X="-118.9988" Y="108.1133" />
             <Scale ScaleX="0.5400" ScaleY="0.5400" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="Common/newUI/icon_jt02.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="old_level" ActionTag="317967889" Tag="1777" IconVisible="False" LeftMargin="-143.7357" RightMargin="120.7357" TopMargin="-119.8217" BottomMargin="92.8217" FontSize="18" LabelText="22" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="old_level" ActionTag="317967889" Tag="1777" IconVisible="False" LeftMargin="-158.7365" RightMargin="135.7365" TopMargin="-119.8217" BottomMargin="92.8217" FontSize="18" LabelText="22" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="23.0000" Y="27.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="-143.7357" Y="106.3217" />
+            <Position X="-158.7365" Y="106.3217" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

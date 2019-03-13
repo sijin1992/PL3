@@ -49,7 +49,7 @@
           <AbstractNodeData Name="queue_node" ActionTag="-564624130" Tag="709" IconVisible="True" LeftMargin="-183.7910" RightMargin="183.7910" TopMargin="71.6105" BottomMargin="-71.6105" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
-              <AbstractNodeData Name="open" ActionTag="-249784167" Tag="710" IconVisible="False" LeftMargin="-37.0233" RightMargin="-401.9767" TopMargin="-154.7449" BottomMargin="94.7449" IsCustomSize="True" FontSize="22" LabelText="" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="open" ActionTag="-249784167" Tag="710" IconVisible="False" LeftMargin="-37.0233" RightMargin="-401.9767" TopMargin="-154.7449" BottomMargin="94.7449" IsCustomSize="True" FontSize="25" LabelText="" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="439.0000" Y="60.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="182.4767" Y="124.7449" />

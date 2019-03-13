@@ -96,7 +96,7 @@ function AddStrenthTips:createRichText( ... )
 		self.buyCount:setVisible(false)
 		rn:getChildByName("Text_1_0_0_0"):setVisible(false)
 		rn:getChildByName("Text_1"):setVisible(true)
-		rn:getChildByName("Text_1"):setString("increase_purchases")
+		rn:getChildByName("Text_1"):setString("购买次数已达上限，提升vip等级增加购买次数")
 	end
 	
 

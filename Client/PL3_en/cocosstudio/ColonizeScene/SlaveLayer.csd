@@ -58,7 +58,7 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ColonizeScene/empty.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="chat_bottom" ActionTag="-954309798" Tag="325" IconVisible="False" LeftMargin="65.8809" RightMargin="614.1191" TopMargin="654.3555" BottomMargin="71.6445" LeftEage="150" RightEage="150" TopEage="11" BottomEage="11" Scale9OriginX="150" Scale9OriginY="11" Scale9Width="40" Scale9Height="14" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="chat_bottom" ActionTag="-954309798" Tag="325" IconVisible="False" LeftMargin="65.8809" RightMargin="614.1191" TopMargin="654.3555" BottomMargin="71.6445" LeftEage="150" RightEage="150" TopEage="11" BottomEage="11" Scale9OriginX="150" Scale9OriginY="11" Scale9Width="74" Scale9Height="20" ctype="ImageViewObjectData">
             <Size X="456.0000" Y="42.0000" />
             <AnchorPoint ScaleY="0.4876" />
             <Position X="65.8809" Y="92.1237" />
@@ -68,7 +68,7 @@
             <PreSize X="0.4014" Y="0.0547" />
             <FileData Type="Normal" Path="CityScene/ui3/image_chatdown.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="btn_chat" ActionTag="1121579253" Tag="324" IconVisible="False" LeftMargin="73.0564" RightMargin="1005.9436" TopMargin="660.3730" BottomMargin="74.6270" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="6" Scale9Height="9" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="btn_chat" ActionTag="1121579253" Tag="324" IconVisible="False" LeftMargin="73.0564" RightMargin="1005.9436" TopMargin="660.3730" BottomMargin="74.6270" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="27" Scale9Height="11" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="57.0000" Y="33.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="101.5564" Y="91.1270" />
@@ -266,14 +266,14 @@
             <PreSize X="0.0555" Y="0.0820" />
             <FileData Type="Default" Path="Default/ImageFile.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="duo_text" ActionTag="1656147724" Tag="904" IconVisible="False" LeftMargin="895.9777" RightMargin="172.0223" TopMargin="624.0399" BottomMargin="117.9601" FontSize="16" LabelText="夺仆之敌" OutlineEnabled="True" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="68.0000" Y="26.0000" />
+          <AbstractNodeData Name="duo_text" ActionTag="1656147724" Tag="904" IconVisible="False" LeftMargin="887.9777" RightMargin="164.0223" TopMargin="621.0399" BottomMargin="114.9601" FontSize="20" LabelText="夺仆之敌" OutlineEnabled="True" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="84.0000" Y="32.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="929.9777" Y="130.9601" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.8186" Y="0.1705" />
-            <PreSize X="0.0599" Y="0.0339" />
+            <PreSize X="0.0739" Y="0.0417" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="0" G="0" B="0" />
             <ShadowColor A="255" R="204" G="205" B="205" />
@@ -290,14 +290,14 @@
             <OutlineColor A="255" R="0" G="0" B="0" />
             <ShadowColor A="255" R="204" G="205" B="205" />
           </AbstractNodeData>
-          <AbstractNodeData Name="shuaxin_text" ActionTag="-188794160" Tag="906" IconVisible="False" LeftMargin="995.2053" RightMargin="104.7947" TopMargin="674.1005" BottomMargin="67.8995" FontSize="16" LabelText="刷新" OutlineEnabled="True" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="36.0000" Y="26.0000" />
+          <AbstractNodeData Name="shuaxin_text" ActionTag="-188794160" Tag="906" IconVisible="False" LeftMargin="991.2053" RightMargin="100.7947" TopMargin="671.1005" BottomMargin="64.8995" FontSize="20" LabelText="刷新" OutlineEnabled="True" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="44.0000" Y="32.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="1013.2053" Y="80.8995" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.8919" Y="0.1053" />
-            <PreSize X="0.0317" Y="0.0339" />
+            <PreSize X="0.0387" Y="0.0417" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="0" G="0" B="0" />
             <ShadowColor A="255" R="204" G="205" B="205" />

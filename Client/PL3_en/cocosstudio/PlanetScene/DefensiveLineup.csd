@@ -46,8 +46,8 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="Common/newUI/newbg3.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="title" ActionTag="-49191504" Tag="218" IconVisible="False" LeftMargin="438.8275" RightMargin="-699.8275" TopMargin="-498.1379" BottomMargin="465.1379" FontSize="22" LabelText="Current defensive lineup" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="261.0000" Y="33.0000" />
+          <AbstractNodeData Name="title" ActionTag="-49191504" Tag="218" IconVisible="False" LeftMargin="501.8275" RightMargin="-636.8275" TopMargin="-498.1379" BottomMargin="465.1379" FontSize="22" LabelText="当前防守阵容" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="135.0000" Y="33.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="569.3275" Y="481.6379" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -137,8 +137,8 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="text" ActionTag="-170007542" VisibleForFrame="False" Tag="590" IconVisible="False" LeftMargin="421.2299" RightMargin="-710.2299" TopMargin="-408.0452" BottomMargin="375.0452" FontSize="22" LabelText="Current undefensive lineup" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ShadowEnabled="True" ctype="TextObjectData">
-            <Size X="289.0000" Y="33.0000" />
+          <AbstractNodeData Name="text" ActionTag="-170007542" VisibleForFrame="False" Tag="590" IconVisible="False" LeftMargin="487.2299" RightMargin="-644.2299" TopMargin="-408.0452" BottomMargin="375.0452" FontSize="22" LabelText="当前无防守阵容" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ShadowEnabled="True" ctype="TextObjectData">
+            <Size X="157.0000" Y="33.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="565.7299" Y="391.5452" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />

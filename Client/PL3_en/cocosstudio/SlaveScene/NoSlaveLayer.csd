@@ -241,14 +241,14 @@
           <AbstractNodeData Name="jilu" ActionTag="372013032" Tag="1019" IconVisible="False" LeftMargin="892.0137" RightMargin="93.9863" TopMargin="631.5581" BottomMargin="96.4419" TouchEnable="True" FontSize="22" Scale9Enable="True" LeftEage="65" RightEage="55" TopEage="20" BottomEage="18" Scale9OriginX="65" Scale9OriginY="20" Scale9Width="10" Scale9Height="2" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="150.0000" Y="40.0000" />
             <Children>
-              <AbstractNodeData Name="text" ActionTag="1596790355" Tag="1020" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="62.5708" RightMargin="61.4292" TopMargin="13.1128" BottomMargin="2.8872" FontSize="16" LabelText="GO" TouchScaleChangeAble="True" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" OutlineSize="2" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="26.0000" Y="24.0000" />
+              <AbstractNodeData Name="text" ActionTag="1596790355" Tag="1020" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="58.5572" RightMargin="57.4428" TopMargin="8.5921" BottomMargin="-1.5921" FontSize="22" LabelText="GO" TouchScaleChangeAble="True" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" OutlineSize="2" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="34.0000" Y="33.0000" />
                 <AnchorPoint ScaleX="0.5017" ScaleY="0.4977" />
                 <Position X="75.6150" Y="14.8320" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5041" Y="0.3708" />
-                <PreSize X="0.1733" Y="0.6000" />
+                <PreSize X="0.2267" Y="0.8250" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="10" G="88" B="242" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
@@ -271,14 +271,14 @@
           <AbstractNodeData Name="jiejiu" ActionTag="1015802097" Tag="1021" IconVisible="False" LeftMargin="704.0554" RightMargin="281.9446" TopMargin="632.3301" BottomMargin="95.6699" TouchEnable="True" FontSize="22" Scale9Enable="True" LeftEage="60" RightEage="62" TopEage="20" BottomEage="16" Scale9OriginX="60" Scale9OriginY="20" Scale9Width="8" Scale9Height="4" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="150.0000" Y="40.0000" />
             <Children>
-              <AbstractNodeData Name="text" ActionTag="-713403907" Tag="1022" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="62.5708" RightMargin="61.4292" TopMargin="12.3408" BottomMargin="3.6592" FontSize="16" LabelText="GO" TouchScaleChangeAble="True" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" OutlineSize="2" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="26.0000" Y="24.0000" />
+              <AbstractNodeData Name="text" ActionTag="-713403907" Tag="1022" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="58.5572" RightMargin="57.4428" TopMargin="7.8201" BottomMargin="-0.8201" FontSize="22" LabelText="GO" TouchScaleChangeAble="True" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" OutlineSize="2" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="34.0000" Y="33.0000" />
                 <AnchorPoint ScaleX="0.5017" ScaleY="0.4977" />
                 <Position X="75.6150" Y="15.6040" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5041" Y="0.3901" />
-                <PreSize X="0.1733" Y="0.6000" />
+                <PreSize X="0.2267" Y="0.8250" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="10" G="88" B="242" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
@@ -383,7 +383,7 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="SlaveScene/SlaveCard.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="chat_bottom" ActionTag="-1328815875" Tag="1024" IconVisible="False" LeftMargin="65.8803" RightMargin="614.1197" TopMargin="631.3539" BottomMargin="94.6461" TouchEnable="True" LeftEage="150" RightEage="150" TopEage="11" BottomEage="11" Scale9OriginX="150" Scale9OriginY="11" Scale9Width="40" Scale9Height="14" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="chat_bottom" ActionTag="-1328815875" Tag="1024" IconVisible="False" LeftMargin="65.8803" RightMargin="614.1197" TopMargin="631.3539" BottomMargin="94.6461" TouchEnable="True" LeftEage="150" RightEage="150" TopEage="11" BottomEage="11" Scale9OriginX="150" Scale9OriginY="11" Scale9Width="74" Scale9Height="20" ctype="ImageViewObjectData">
             <Size X="456.0000" Y="42.0000" />
             <AnchorPoint ScaleY="0.5000" />
             <Position X="65.8803" Y="115.6461" />
@@ -393,7 +393,7 @@
             <PreSize X="0.4014" Y="0.0547" />
             <FileData Type="Normal" Path="CityScene/ui3/image_chatdown.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="btn_chat" ActionTag="2023695254" Tag="1023" IconVisible="False" LeftMargin="73.0571" RightMargin="1005.9429" TopMargin="637.3728" BottomMargin="97.6272" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="6" Scale9Height="9" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="btn_chat" ActionTag="2023695254" Tag="1023" IconVisible="False" LeftMargin="73.0571" RightMargin="1005.9429" TopMargin="637.3728" BottomMargin="97.6272" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="27" Scale9Height="11" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="57.0000" Y="33.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="101.5571" Y="114.1272" />

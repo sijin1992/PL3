@@ -188,7 +188,7 @@ end
 function UpgradeLayer:onEnterTransitionFinish()	
 	local rn = self:getResourceNode()
 	rn:getChildByName("costNode"):getChildByName("cost"):setString(CONF.STRING.get("Cost").VALUE)
-	rn:getChildByName("needNode"):getChildByName("need"):setString(CONF.STRING.get("demand").VALUE)
+	rn:getChildByName("needNode"):getChildByName("need"):setString(CONF.STRING.get("upgradeDemand").VALUE)
 	rn:getChildByName("powerNode"):getChildByName("power"):setString(CONF.STRING.get("power").VALUE)
 	--rn:getChildByName("detailNode"):getChildByName("detail"):setString(CONF.STRING.get("intro").VALUE)
 	rn:getChildByName("upgrade"):getChildByName("text"):setString(CONF.STRING.get("upgrade").VALUE)

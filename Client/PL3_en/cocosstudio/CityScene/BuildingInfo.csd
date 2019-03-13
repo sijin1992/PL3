@@ -90,14 +90,14 @@
                 <FileData Type="Normal" Path="CityScene/ui3/xz_xx.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text" ActionTag="371866621" Tag="885" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="20.0000" RightMargin="20.0000" TopMargin="11.8728" BottomMargin="6.1272" FontSize="16" LabelText="Info" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="34.0000" Y="24.0000" />
+              <AbstractNodeData Name="text" ActionTag="371866621" Tag="885" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="17.5000" RightMargin="17.5000" TopMargin="9.3728" BottomMargin="3.6272" FontSize="19" LabelText="Info" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="39.0000" Y="29.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="37.0000" Y="18.1272" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.4316" />
-                <PreSize X="0.4595" Y="0.5714" />
+                <PreSize X="0.5270" Y="0.6905" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
@@ -140,14 +140,14 @@
                 <FileData Type="Normal" Path="CityScene/ui3/xz_sj.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text" ActionTag="-1328641712" Tag="882" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="1.8784" RightMargin="3.1216" TopMargin="11.8728" BottomMargin="6.1272" FontSize="16" LabelText="Upgrade" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="69.0000" Y="24.0000" />
+              <AbstractNodeData Name="text" ActionTag="-1328641712" Tag="882" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-4.1216" RightMargin="-2.8784" TopMargin="9.3728" BottomMargin="3.6272" FontSize="19" LabelText="Upgrade" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="81.0000" Y="29.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="36.3784" Y="18.1272" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.4916" Y="0.4316" />
-                <PreSize X="0.9324" Y="0.5714" />
+                <PreSize X="1.0946" Y="0.6905" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
@@ -191,14 +191,14 @@
                 <FileData Type="Normal" Path="CityScene/ui3/xz_gn.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text" ActionTag="-1607206993" Tag="459" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="2.0000" RightMargin="2.0000" TopMargin="11.8728" BottomMargin="6.1272" FontSize="16" LabelText="Function" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="70.0000" Y="24.0000" />
+              <AbstractNodeData Name="text" ActionTag="-1607206993" Tag="459" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-5.0000" RightMargin="-5.0000" TopMargin="9.3728" BottomMargin="3.6272" FontSize="19" LabelText="Function" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="84.0000" Y="29.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="37.0000" Y="18.1272" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.4316" />
-                <PreSize X="0.9459" Y="0.5714" />
+                <PreSize X="1.1351" Y="0.6905" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />

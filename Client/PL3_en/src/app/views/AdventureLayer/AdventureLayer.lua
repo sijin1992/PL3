@@ -62,7 +62,7 @@ local function formatTimeNow(time)
 		second = string.format("0%s",second)
 	end
 
-	local rtTime = string.format("%s"..CONF:getStringValue("days").."%s:%s:%s", day ,hour, minute, second)
+	local rtTime = string.format("%s天 %s:%s:%s", day ,hour, minute, second)
 	return rtTime
 end
 
@@ -240,22 +240,9 @@ function AdventureLayer:resetNode(direction) -- "left","right"
 	local node = self:getResourceNode():getChildByName("FileNode_1")
 	node:getChildByName("gift_bg"):setTexture("AdventureLayer/ui/"..newHand.RESOURCE_BG..".png")
 	node:getChildByName("giftBagName"):setTexture("AdventureLayer/ui/"..newHand.NAME..".png")
-    node:getChildByName("Text_des"):setString(CONF:getStringValue("limitNum"))
---	local pre = math.floor(recharge_conf["RECHARGE_"..server_platform]/newHand["PRICE_"..server_platform]*10)
---	if pre == 0 then pre = 1 end
---	node:getChildByName("num"):setTexture("AdventureLayer/ui/num_"..pre..".png")
-    -- en
-    local pre = tonumber(string.format("%.2f",recharge_conf["RECHARGE_"..server_platform]/newHand["PRICE_"..server_platform]))
-    local off = (1 - pre)*100
-    if off < 10 then
-        node:getChildByName("num_0"):setVisible(false)
-        node:getChildByName("num"):setTexture("AdventureLayer/ui/num_"..off..".png")
-    else
-        local One = math.floor(off / 10)
-        local Ten = off % 10
-        node:getChildByName("num"):setTexture("AdventureLayer/ui/num_"..One..".png")
-        node:getChildByName("num_0"):setTexture("AdventureLayer/ui/num_"..Ten..".png")
-    end
+	local pre = math.floor(recharge_conf["RECHARGE_"..server_platform]/newHand["PRICE_"..server_platform]*10)
+	if pre == 0 then pre = 1 end
+	node:getChildByName("num"):setTexture("AdventureLayer/ui/num_"..pre..".png")
 
 
 	local time = newHand.TIME - (player:getServerTime() - info.start_time)

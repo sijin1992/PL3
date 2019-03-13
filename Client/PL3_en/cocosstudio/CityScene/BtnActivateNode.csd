@@ -48,14 +48,14 @@
           <AbstractNodeData Name="btn" ActionTag="67797556" Tag="395" IconVisible="False" LeftMargin="-44.5000" RightMargin="-44.5000" TopMargin="-44.5000" BottomMargin="-44.5000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="59" Scale9Height="67" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="89.0000" Y="89.0000" />
             <Children>
-              <AbstractNodeData Name="text" ActionTag="1352460700" Tag="396" IconVisible="False" LeftMargin="4.1839" RightMargin="3.8161" TopMargin="34.3550" BottomMargin="24.6450" FontSize="20" LabelText="Activate" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="81.0000" Y="30.0000" />
+              <AbstractNodeData Name="text" ActionTag="1352460700" Tag="396" IconVisible="False" LeftMargin="23.1839" RightMargin="22.8161" TopMargin="34.3550" BottomMargin="24.6450" FontSize="20" LabelText="激活" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="43.0000" Y="30.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="44.6839" Y="39.6450" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5021" Y="0.4454" />
-                <PreSize X="0.9101" Y="0.3371" />
+                <PreSize X="0.4831" Y="0.3371" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />

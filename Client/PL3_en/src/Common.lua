@@ -6,14 +6,13 @@ g_login_server_url = "http://www.haomiaogame.com/StarUser.php"
 --"http://192.168.0.67/StarUser.php"
 --"http://www.haomiaogame.com/StarUser.php"
 
-
 g_update_server_url = ""
 
 g_xy_url = "http://www.haomiaogame.com/xy_en.php"
 
 g_create_player_url = "http://www.haomiaogame.com/roles.php"
 --"http://192.168.0.67/roles.php"
---"http://www.haomiaogame.com/roles.php" --创建角色
+--"http://www.haomiaogame.com/roles.php"
 
 g_apple_store_url = ""--"itms-apps://itunes.apple.com/gb/app/star-civilization/id1121512843?mt=8"
 g_google_store_url = ""-- "https://play.google.com"
@@ -28,7 +27,7 @@ g_big_version = 1
 
 g_org_res_version = 1 --版本 目前 4是发行 5是审核
 
-server_platform = 1--0:cn 1:en
+server_platform = 0--0:cn 1:en
 
 -- ADD WJJ 20180716
 g_is_quick_sdk = false

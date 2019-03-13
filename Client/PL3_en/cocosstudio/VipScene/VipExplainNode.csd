@@ -28,8 +28,8 @@
           </AbstractNodeData>
           <AbstractNodeData Name="Text_title1" ActionTag="2002034428" Tag="988" IconVisible="False" LeftMargin="-298.4980" RightMargin="194.4980" TopMargin="-137.1741" BottomMargin="110.1741" FontSize="18" LabelText="VIP好处有啥" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="104.0000" Y="27.0000" />
-            <AnchorPoint ScaleY="0.5000" />
-            <Position X="-298.4980" Y="123.6741" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="-246.4980" Y="123.6741" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -40,8 +40,8 @@
           </AbstractNodeData>
           <AbstractNodeData Name="Text_title2" ActionTag="847705527" Tag="989" IconVisible="False" LeftMargin="33.8731" RightMargin="-137.8731" TopMargin="-136.3832" BottomMargin="109.3832" FontSize="18" LabelText="VIP有金坷垃" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="104.0000" Y="27.0000" />
-            <AnchorPoint ScaleY="0.5000" />
-            <Position X="33.8731" Y="122.8832" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="85.8731" Y="122.8832" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

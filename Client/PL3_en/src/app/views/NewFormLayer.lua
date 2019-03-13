@@ -797,7 +797,7 @@ function NewFormLayer:setAllkindNumString()
 		end
 	end
 	rn:getChildByName("ship_num"):setString(CONF:getStringValue("sumNum")..":"..num.."/"..totalNum)
---	rn:getChildByName("list_des"):setPositionX(rn:getChildByName("ship_num"):getPositionX()+rn:getChildByName("ship_num"):getContentSize().width)
+	rn:getChildByName("list_des"):setPositionX(rn:getChildByName("ship_num"):getPositionX()+rn:getChildByName("ship_num"):getContentSize().width)
 end
 
 function NewFormLayer:addIconListener(node)

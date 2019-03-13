@@ -461,14 +461,14 @@
           <AbstractNodeData Name="shouqu" ActionTag="-287642805" Tag="832" IconVisible="False" LeftMargin="-345.2275" RightMargin="209.2275" TopMargin="145.2415" BottomMargin="-185.2415" TouchEnable="True" FontSize="22" Scale9Enable="True" LeftEage="62" RightEage="52" TopEage="17" BottomEage="18" Scale9OriginX="62" Scale9OriginY="17" Scale9Width="16" Scale9Height="5" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="136.0000" Y="40.0000" />
             <Children>
-              <AbstractNodeData Name="text" ActionTag="1671984201" Tag="833" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="54.0083" RightMargin="52.9917" TopMargin="10.2179" BottomMargin="2.7821" FontSize="18" LabelText="GO" TouchScaleChangeAble="True" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" OutlineSize="2" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="29.0000" Y="27.0000" />
+              <AbstractNodeData Name="text" ActionTag="1671984201" Tag="833" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="51.4998" RightMargin="50.5002" TopMargin="7.2041" BottomMargin="-0.2041" FontSize="22" LabelText="GO" TouchScaleChangeAble="True" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" OutlineSize="2" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="34.0000" Y="33.0000" />
                 <AnchorPoint ScaleX="0.5017" ScaleY="0.4977" />
                 <Position X="68.5576" Y="16.2200" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5041" Y="0.4055" />
-                <PreSize X="0.2132" Y="0.6750" />
+                <PreSize X="0.2500" Y="0.8250" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="10" G="88" B="242" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
@@ -491,14 +491,14 @@
           <AbstractNodeData Name="shifang" ActionTag="304281836" Tag="836" IconVisible="False" LeftMargin="-171.9658" RightMargin="33.9658" TopMargin="145.2415" BottomMargin="-185.2415" TouchEnable="True" FontSize="22" Scale9Enable="True" LeftEage="61" RightEage="53" TopEage="17" BottomEage="18" Scale9OriginX="61" Scale9OriginY="17" Scale9Width="16" Scale9Height="5" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="138.0000" Y="40.0000" />
             <Children>
-              <AbstractNodeData Name="text" ActionTag="-1413922526" Tag="837" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="55.0165" RightMargin="53.9835" TopMargin="10.2179" BottomMargin="2.7821" FontSize="18" LabelText="GO" TouchScaleChangeAble="True" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" OutlineSize="2" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="29.0000" Y="27.0000" />
+              <AbstractNodeData Name="text" ActionTag="-1413922526" Tag="837" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="52.5080" RightMargin="51.4920" TopMargin="7.2041" BottomMargin="-0.2041" FontSize="22" LabelText="GO" TouchScaleChangeAble="True" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" OutlineSize="2" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="34.0000" Y="33.0000" />
                 <AnchorPoint ScaleX="0.5017" ScaleY="0.4977" />
                 <Position X="69.5658" Y="16.2200" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5041" Y="0.4055" />
-                <PreSize X="0.2101" Y="0.6750" />
+                <PreSize X="0.2464" Y="0.8250" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="10" G="88" B="242" />
                 <ShadowColor A="255" R="255" G="255" B="255" />

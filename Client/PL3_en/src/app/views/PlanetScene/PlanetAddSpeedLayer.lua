@@ -128,7 +128,7 @@ function PlanetAddSpeedLayer:onEnterTransitionFinish()
 	-- end
 
 	rn:getChildByName("Text_des"):setString(des_str)
-    rn:getChildByName("Text_name"):setString(CONF:getStringValue("expedite"))
+
 	rn:getChildByName("text_jindu"):setString(CONF:getStringValue("reside_time")..":"..formatTime(self.data_.army_info.line.need_time - (player:getServerTime() - self.data_.army_info.line.begin_time)))
 
 	if (self.data_.army_info.line.need_time - self.data_.army_info.line.sub_time) - (player:getServerTime() - self.data_.army_info.line.begin_time) <= 0 then

@@ -74,13 +74,13 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="dengji" ActionTag="-2060563830" Tag="237" IconVisible="False" LeftMargin="7.0000" RightMargin="429.0000" TopMargin="20.1597" BottomMargin="69.9481" FontSize="16" LabelText="等级:" ShadowOffsetX="1.0000" ShadowOffsetY="-1.0000" ctype="TextObjectData">
+              <AbstractNodeData Name="dengji" ActionTag="-2060563830" Tag="237" IconVisible="False" LeftMargin="20.1317" RightMargin="415.8683" TopMargin="20.1596" BottomMargin="69.9482" FontSize="16" LabelText="等级:" ShadowOffsetX="1.0000" ShadowOffsetY="-1.0000" ctype="TextObjectData">
                 <Size X="39.0000" Y="24.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="7.0000" Y="81.9481" />
+                <Position X="20.1317" Y="81.9482" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.0147" Y="0.7182" />
+                <PrePosition X="0.0424" Y="0.7182" />
                 <PreSize X="0.0821" Y="0.2103" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="0" G="0" B="0" />
@@ -133,13 +133,13 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="peiyang" ActionTag="302159511" Tag="493" IconVisible="False" LeftMargin="7.0000" RightMargin="429.0000" TopMargin="81.6813" BottomMargin="8.4265" FontSize="16" LabelText="培养:" ShadowOffsetX="1.0000" ShadowOffsetY="-1.0000" ctype="TextObjectData">
+              <AbstractNodeData Name="peiyang" ActionTag="302159511" Tag="493" IconVisible="False" LeftMargin="18.1315" RightMargin="417.8685" TopMargin="81.6813" BottomMargin="8.4265" FontSize="16" LabelText="培养:" ShadowOffsetX="1.0000" ShadowOffsetY="-1.0000" ctype="TextObjectData">
                 <Size X="39.0000" Y="24.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="7.0000" Y="20.4265" />
+                <Position X="18.1315" Y="20.4265" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.0147" Y="0.1790" />
+                <PrePosition X="0.0382" Y="0.1790" />
                 <PreSize X="0.0821" Y="0.2103" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="0" G="0" B="0" />
@@ -192,37 +192,37 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="ship_lv" ActionTag="1719923121" Tag="566" IconVisible="False" LeftMargin="79.4022" RightMargin="370.5978" TopMargin="17.9100" BottomMargin="66.1978" FontSize="20" LabelText="99" ShadowOffsetX="1.0000" ShadowOffsetY="-1.0000" ctype="TextObjectData">
+              <AbstractNodeData Name="ship_lv" ActionTag="1719923121" Tag="566" IconVisible="False" LeftMargin="69.4023" RightMargin="380.5977" TopMargin="17.9100" BottomMargin="66.1978" FontSize="20" LabelText="99" ShadowOffsetX="1.0000" ShadowOffsetY="-1.0000" ctype="TextObjectData">
                 <Size X="25.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="79.4022" Y="81.1978" />
+                <Position X="69.4023" Y="81.1978" />
                 <Scale ScaleX="0.9595" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.1672" Y="0.7116" />
+                <PrePosition X="0.1461" Y="0.7116" />
                 <PreSize X="0.0526" Y="0.2629" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="0" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="energyLv" ActionTag="1346807925" Tag="569" IconVisible="False" LeftMargin="86.2828" RightMargin="374.7172" TopMargin="78.8887" BottomMargin="5.2191" FontSize="20" LabelText="0" ShadowOffsetX="1.0000" ShadowOffsetY="-1.0000" ctype="TextObjectData">
+              <AbstractNodeData Name="energyLv" ActionTag="1346807925" Tag="569" IconVisible="False" LeftMargin="68.2831" RightMargin="392.7169" TopMargin="78.8887" BottomMargin="5.2191" FontSize="20" LabelText="0" ShadowOffsetX="1.0000" ShadowOffsetY="-1.0000" ctype="TextObjectData">
                 <Size X="14.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="86.2828" Y="20.2191" />
+                <Position X="68.2831" Y="20.2191" />
                 <Scale ScaleX="0.9595" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.1816" Y="0.1772" />
+                <PrePosition X="0.1438" Y="0.1772" />
                 <PreSize X="0.0295" Y="0.2629" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="0" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="open" ActionTag="136455368" Tag="848" IconVisible="False" LeftMargin="7.0000" RightMargin="219.0000" TopMargin="56.1604" BottomMargin="33.9474" FontSize="16" LabelText="飞船等级到达30级可开启培养等级:" ShadowOffsetX="1.0000" ShadowOffsetY="-1.0000" ctype="TextObjectData">
+              <AbstractNodeData Name="open" ActionTag="136455368" Tag="848" IconVisible="False" LeftMargin="18.1301" RightMargin="207.8699" TopMargin="56.1604" BottomMargin="33.9474" FontSize="16" LabelText="飞船等级到达30级可开启培养等级:" ShadowOffsetX="1.0000" ShadowOffsetY="-1.0000" ctype="TextObjectData">
                 <Size X="249.0000" Y="24.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="7.0000" Y="45.9474" />
+                <Position X="18.1301" Y="45.9474" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.0147" Y="0.4027" />
+                <PrePosition X="0.0382" Y="0.4027" />
                 <PreSize X="0.5242" Y="0.2103" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="0" G="0" B="0" />
@@ -634,10 +634,10 @@
             <OutlineColor A="255" R="0" G="0" B="0" />
             <ShadowColor A="255" R="226" G="239" B="242" />
           </AbstractNodeData>
-          <AbstractNodeData Name="text_des1" ActionTag="717299029" Tag="1230" IconVisible="False" LeftMargin="135.6114" RightMargin="-203.6114" TopMargin="337.6407" BottomMargin="-358.6407" FontSize="14" LabelText="需要等级：" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+          <AbstractNodeData Name="text_des1" ActionTag="717299029" Tag="1230" IconVisible="False" LeftMargin="116.6114" RightMargin="-184.6114" TopMargin="337.6407" BottomMargin="-358.6407" FontSize="14" LabelText="需要等级：" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
             <Size X="68.0000" Y="21.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="135.6114" Y="-348.1407" />
+            <Position X="116.6114" Y="-348.1407" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="230" G="230" B="250" />
             <PrePosition />
@@ -646,10 +646,10 @@
             <OutlineColor A="255" R="0" G="0" B="0" />
             <ShadowColor A="255" R="226" G="239" B="242" />
           </AbstractNodeData>
-          <AbstractNodeData Name="break_num" ActionTag="-558952058" Tag="1232" IconVisible="False" LeftMargin="202.8511" RightMargin="-221.8511" TopMargin="337.7256" BottomMargin="-358.7256" TouchEnable="True" FontSize="14" LabelText="60" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="break_num" ActionTag="-558952058" Tag="1232" IconVisible="False" LeftMargin="183.8511" RightMargin="-202.8511" TopMargin="337.7256" BottomMargin="-358.7256" TouchEnable="True" FontSize="14" LabelText="60" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="19.0000" Y="21.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="202.8511" Y="-348.2256" />
+            <Position X="183.8511" Y="-348.2256" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="33" G="255" B="70" />
             <PrePosition />
@@ -691,10 +691,10 @@
           <AbstractNodeData Name="break_btn" ActionTag="-240327551" Tag="1275" IconVisible="False" LeftMargin="374.3387" RightMargin="-485.3387" TopMargin="408.3741" BottomMargin="-456.3741" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="14" RightEage="9" TopEage="11" BottomEage="9" Scale9OriginX="14" Scale9OriginY="11" Scale9Width="88" Scale9Height="28" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="111.0000" Y="48.0000" />
             <Children>
-              <AbstractNodeData Name="text" ActionTag="-1017260887" Tag="1276" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="24.9672" RightMargin="26.0328" TopMargin="9.9193" BottomMargin="2.0807" FontSize="24" LabelText="突  破" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="text" ActionTag="-1017260887" Tag="1276" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="24.9685" RightMargin="26.0315" TopMargin="9.9193" BottomMargin="2.0807" FontSize="24" LabelText="突  破" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="60.0000" Y="36.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="54.9672" Y="20.0807" />
+                <Position X="54.9685" Y="20.0807" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="226" G="239" B="242" />
                 <PrePosition X="0.4952" Y="0.4183" />

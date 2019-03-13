@@ -127,7 +127,6 @@
             </Folder>
           </Folder>
           <Folder Name="ui">
-            <Image Name="bai.png" />
             <Image Name="bg1.png" />
             <Image Name="bg2.png" />
             <Image Name="bg3.png" />
@@ -2278,8 +2277,6 @@
             <Image Name="btn_common2_light.png" />
             <Image Name="btn_duilie1_light.png" />
             <Image Name="btn_duilie2_light.png" />
-            <Image Name="btn_gonggao_black.png" />
-            <Image Name="btn_gonggao_light.png" />
             <Image Name="btn_home_1.png" />
             <Image Name="btn_home_2.png" />
             <Image Name="btn_home_3.png" />
@@ -2290,8 +2287,6 @@
             <Image Name="btn_starsdown_light.png" />
             <Image Name="btn_task_light.png" />
             <Image Name="btn_totaldown.png" />
-            <Image Name="btn_user_black.png" />
-            <Image Name="btn_user_light.png" />
             <Image Name="butlq.png" />
             <Image Name="butqw.png" />
             <Image Name="chat_bg.png" />
@@ -4217,7 +4212,6 @@
         <Folder Name="LaunchScene">
           <Image Name="hm.jpg" />
           <Project Name="LaunchScene.csd" Type="Scene" />
-          <Image Name="utu.jpg" />
         </Folder>
         <Folder Name="LevelIcon">
           <Image Name="1001.png" />
@@ -4450,12 +4444,8 @@
             <Image Name="botton_start_gray.png" />
             <Image Name="botton_start_light.png" />
             <Image Name="botton_unimpedede.png" />
-            <Image Name="but_login1.png" />
-            <Image Name="but_login2.png" />
             <Image Name="button_server.png" />
             <Image Name="button_server_light.png" />
-            <Image Name="close1.png" />
-            <Image Name="close2.png" />
             <Image Name="icon_char.png" />
             <Image Name="icon_char2.png" />
             <Image Name="icon_next1.png" />
@@ -4464,14 +4454,10 @@
             <Image Name="icon_user.png" />
             <Image Name="kuang_common.png" />
             <Image Name="kuang_small.png" />
-            <Image Name="loginbg.png" />
             <Image Name="logo_crowd.png" />
             <Image Name="logo_full.png" />
             <Image Name="logo_maintain.png" />
             <Image Name="logo_unimpedede.png" />
-            <Image Name="notice.png" />
-            <Image Name="noticeline.png" />
-            <Image Name="select.png" />
             <Image Name="server_crowd.png" />
             <Image Name="server_full.png" />
             <Image Name="server_maintain.png" />
@@ -4884,7 +4870,6 @@
             <Project Name="MailDetailTeamInfo.csd" Type="Node" />
             <Project Name="PlantNode.csd" Type="Node" />
             <Project Name="ResNode.csd" Type="Node" />
-            <Project Name="RuinsGetNode.csd" Type="Node" />
             <Project Name="RuinsNode.csd" Type="Node" />
             <Project Name="SpyNode.csd" Type="Node" />
             <Project Name="StateNode.csd" Type="Node" />
@@ -13150,7 +13135,6 @@
           <Image Name="40800.png" />
           <Image Name="40900.png" />
         </Folder>
-        <Image Name="gn_case.png" />
         <Image Name="ui_backpage.jpg" />
       </RootFolder>
     </Group>

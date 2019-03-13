@@ -130,7 +130,7 @@ void PaymentMgr::PayStart( const char *pszItemTypeId, payCallback callback)
 
 	_payCallback = callback;
 	// some info for game server or client to verify
-	const char* pszVerifyInfo = "749407975@qq.com";
+	const char* pszVerifyInfo = "749407975@163.com";
 	PaymentInterface::PayStart(pszItemTypeId, pszVerifyInfo);
 	
 }

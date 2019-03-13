@@ -20,8 +20,8 @@
             <ColorVector ScaleY="1.0000" />
             <InnerNodeSize Width="819" Height="404" />
           </AbstractNodeData>
-          <AbstractNodeData Name="text" ActionTag="-767078214" Tag="556" IconVisible="False" LeftMargin="324.5000" RightMargin="-477.5000" TopMargin="-272.0000" BottomMargin="242.0000" FontSize="20" LabelText="no player apply" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="153.0000" Y="30.0000" />
+          <AbstractNodeData Name="text" ActionTag="-767078214" Tag="556" IconVisible="False" LeftMargin="289.0000" RightMargin="-513.0000" TopMargin="-279.5000" BottomMargin="234.5000" FontSize="30" LabelText="no player apply" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="224.0000" Y="45.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="401.0000" Y="257.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />

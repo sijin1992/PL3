@@ -650,10 +650,10 @@
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="text" ActionTag="-1962088869" Tag="472" IconVisible="False" LeftMargin="95.8243" RightMargin="-247.8243" TopMargin="-101.9597" BottomMargin="80.9597" FontSize="14" LabelText="(注：点击面板修改公告)" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="152.0000" Y="21.0000" />
+          <AbstractNodeData Name="text" ActionTag="-1962088869" Tag="472" IconVisible="False" LeftMargin="102.0598" RightMargin="-318.0598" TopMargin="-106.4597" BottomMargin="76.4597" FontSize="20" LabelText="(注：点击面板修改公告)" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="216.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="95.8243" Y="91.4597" />
+            <Position X="102.0598" Y="91.4597" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="78" G="80" B="82" />
             <PrePosition />

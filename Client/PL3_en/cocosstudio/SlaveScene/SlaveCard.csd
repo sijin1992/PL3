@@ -65,8 +65,8 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="Common/newUI/jdt_bottom02.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="shouhuo_type" ActionTag="-1302980104" Tag="1037" IconVisible="False" LeftMargin="29.5891" RightMargin="-164.5891" TopMargin="141.0473" BottomMargin="-170.0473" FontSize="19" LabelText="Harvest status" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="135.0000" Y="29.0000" />
+          <AbstractNodeData Name="shouhuo_type" ActionTag="-1302980104" Tag="1037" IconVisible="False" LeftMargin="57.5891" RightMargin="-136.5891" TopMargin="141.0473" BottomMargin="-170.0473" FontSize="19" LabelText="收获状态" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="79.0000" Y="29.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="97.0891" Y="-155.5473" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -77,8 +77,8 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="140" G="155" B="159" />
           </AbstractNodeData>
-          <AbstractNodeData Name="shouhuo_ins" ActionTag="-1968682663" Tag="1038" IconVisible="False" LeftMargin="38.0878" RightMargin="-158.0878" TopMargin="165.5476" BottomMargin="-195.5476" FontSize="20" LabelText="Harvestable" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="120.0000" Y="30.0000" />
+          <AbstractNodeData Name="shouhuo_ins" ActionTag="-1968682663" Tag="1038" IconVisible="False" LeftMargin="66.5878" RightMargin="-129.5878" TopMargin="165.5476" BottomMargin="-195.5476" FontSize="20" LabelText="可收获" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="63.0000" Y="30.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="98.0878" Y="-180.5476" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -99,8 +99,8 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="Common/newUI/jdt_bottom02.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="work_type" ActionTag="2114066813" Tag="1039" IconVisible="False" LeftMargin="45.0888" RightMargin="-149.0888" TopMargin="189.0486" BottomMargin="-218.0486" FontSize="19" LabelText="Work again" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="104.0000" Y="29.0000" />
+          <AbstractNodeData Name="work_type" ActionTag="2114066813" Tag="1039" IconVisible="False" LeftMargin="57.5888" RightMargin="-136.5888" TopMargin="189.0486" BottomMargin="-218.0486" FontSize="19" LabelText="再次工作" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="79.0000" Y="29.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="97.0888" Y="-203.5486" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />

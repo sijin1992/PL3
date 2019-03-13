@@ -11,6 +11,8 @@ ExConfig.IS_USE_FAKE_JSON_HTTP = false
 ExConfig.FAKE_JSON = '{"errno":1,"server":[{"id":80003,"nm":"80003","st":0,"ip":"192.168.1.67","pt":7003,"vn":"1.0.5","hr":0,"rc":1},{"id":80002,"nm":"80002","st":2,"ip":"0.0.0.0","pt":0,"vn":"1.0.0","hr":0,"rc":0},{"id":80001,"nm":"80001","st":1,"ip":"192.168.1.67","pt":7001,"vn":"1.0.5","hr":0,"rc":0}],"cdn":"http://192.168.1.222:9096/update_package/","rc":1,"key":1,"wc":1,"hb":0}'
 ExConfig.FAKE_JSON_WAI_WANG = ' {"errno":1,"server":[{"id":80002,"nm":"80002","st":0,"ip":"47.104.4.17","pt":7002,"vn":"1.0.5","hr":0,"rc":1},{"id":80001,"nm":"80001","st":1,"ip":"47.104.4.17","pt":7001,"vn":"1.0.5","hr":0,"rc":0}],"cdn":"http://47.104.217.78/update_package/","rc":1,"key":1,"wc":1,"hb":0}'
 
+-- Scene.FAKE_JSON = ' {"errno":0,"server":[{"id":80002,"nm":"80002","st":0,"ip":"47.104.4.17","pt":7002,"vn":"1.0.5","hr":0,"rc":1},{"id":80001,"nm":"80001","st":1,"ip":"47.104.4.17","pt":7001,"vn":"1.0.5","hr":0,"rc":0}],"cdn":"http://www.utugame.top/update_package/","rc":1,"key":1,"wc":1,"hb":0}'
+-- {"errno":0,"server":[{"id":80003,"nm":"80003","st":0,"ip":"192.168.1.67","pt":7003,"vn":"1.0.5","hr":0,"rc":1},{"id":80002,"nm":"80002","st":2,"ip":"0.0.0.0","pt":0,"vn":"1.0.0","hr":0,"rc":0},{"id":80001,"nm":"80001","st":1,"ip":"192.168.1.67","pt":7001,"vn":"1.0.5","hr":0,"rc":0}],"cdn":"http://192.168.1.222:9096/update_package/","rc":1,"key":1,"wc":1,"hb":0}
 
 function ExConfig:IsNeiwang()
 	local default_url = g_server_centre_url

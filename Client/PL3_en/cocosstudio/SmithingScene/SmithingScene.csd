@@ -270,40 +270,40 @@
           <AbstractNodeData Name="btn_all" ActionTag="-6414388" Tag="416" RotationSkewY="180.0000" IconVisible="False" LeftMargin="1067.6273" RightMargin="-367.6273" TopMargin="139.9517" BottomMargin="582.0483" LeftEage="174" RightEage="174" TopEage="15" BottomEage="15" Scale9OriginX="174" Scale9OriginY="15" Scale9Width="180" Scale9Height="16" ctype="ImageViewObjectData">
             <Size X="436.0000" Y="46.0000" />
             <Children>
-              <AbstractNodeData Name="cut1" ActionTag="-197574305" Tag="417" IconVisible="False" LeftMargin="214.2800" RightMargin="205.7200" TopMargin="1.3700" BottomMargin="4.6300" ctype="SpriteObjectData">
+              <AbstractNodeData Name="cut1" ActionTag="-197574305" Tag="417" IconVisible="False" LeftMargin="204.2766" RightMargin="215.7234" TopMargin="1.3700" BottomMargin="4.6300" ctype="SpriteObjectData">
                 <Size X="16.0000" Y="40.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="222.2800" Y="24.6300" />
+                <Position X="212.2766" Y="24.6300" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.5098" Y="0.5354" />
+                <PrePosition X="0.4869" Y="0.5354" />
                 <PreSize X="0.0367" Y="0.8696" />
                 <FileData Type="Normal" Path="ShipsScene/ui/btn_bg_cut.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="cut2" ActionTag="1140484181" Tag="418" IconVisible="False" LeftMargin="320.8100" RightMargin="99.1900" TopMargin="1.3717" BottomMargin="4.6283" ctype="SpriteObjectData">
+              <AbstractNodeData Name="cut2" ActionTag="1140484181" Tag="418" IconVisible="False" LeftMargin="310.8113" RightMargin="109.1887" TopMargin="1.3717" BottomMargin="4.6283" ctype="SpriteObjectData">
                 <Size X="16.0000" Y="40.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="328.8100" Y="24.6283" />
+                <Position X="318.8113" Y="24.6283" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.7542" Y="0.5354" />
+                <PrePosition X="0.7312" Y="0.5354" />
                 <PreSize X="0.0367" Y="0.8696" />
                 <FileData Type="Normal" Path="ShipsScene/ui/btn_bg_cut.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="cut3" ActionTag="-2120932323" Tag="743" IconVisible="False" LeftMargin="103.6200" RightMargin="316.3800" TopMargin="1.3702" BottomMargin="4.6298" ctype="SpriteObjectData">
+              <AbstractNodeData Name="cut3" ActionTag="-2120932323" Tag="743" IconVisible="False" LeftMargin="93.6176" RightMargin="326.3824" TopMargin="1.3702" BottomMargin="4.6298" ctype="SpriteObjectData">
                 <Size X="16.0000" Y="40.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="111.6200" Y="24.6298" />
+                <Position X="101.6176" Y="24.6298" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.2560" Y="0.5354" />
+                <PrePosition X="0.2331" Y="0.5354" />
                 <PreSize X="0.0367" Y="0.8696" />
                 <FileData Type="Normal" Path="ShipsScene/ui/btn_bg_cut.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="node_1" ActionTag="1602522812" Tag="420" RotationSkewY="180.0000" IconVisible="True" LeftMargin="443.8700" RightMargin="-7.8700" TopMargin="44.7786" BottomMargin="1.2214" ctype="SingleNodeObjectData">
+              <AbstractNodeData Name="node_1" ActionTag="1602522812" Tag="420" RotationSkewY="180.0000" IconVisible="True" LeftMargin="433.8742" RightMargin="2.1258" TopMargin="44.7786" BottomMargin="1.2214" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
                   <AbstractNodeData Name="btn" ActionTag="2046176939" Alpha="0" Tag="421" IconVisible="False" LeftMargin="-10.3300" RightMargin="-112.6700" TopMargin="-52.7000" BottomMargin="-10.3000" TouchEnable="True" LeftEage="40" RightEage="40" TopEage="20" BottomEage="20" Scale9OriginX="40" Scale9OriginY="20" Scale9Width="43" Scale9Height="23" ctype="ImageViewObjectData">
@@ -363,13 +363,13 @@
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint />
-                <Position X="443.8700" Y="1.2214" />
+                <Position X="433.8742" Y="1.2214" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="1.0181" Y="0.0266" />
+                <PrePosition X="0.9951" Y="0.0266" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="node_2" ActionTag="147633240" Tag="426" RotationSkewY="180.0000" IconVisible="True" LeftMargin="330.9200" RightMargin="105.0800" TopMargin="45.1131" BottomMargin="0.8869" ctype="SingleNodeObjectData">
+              <AbstractNodeData Name="node_2" ActionTag="147633240" Tag="426" RotationSkewY="180.0000" IconVisible="True" LeftMargin="320.9155" RightMargin="115.0845" TopMargin="45.1131" BottomMargin="0.8869" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
                   <AbstractNodeData Name="btn" ActionTag="1438203657" Alpha="0" Tag="427" IconVisible="False" LeftMargin="-3.6975" RightMargin="-119.3025" TopMargin="-51.7940" BottomMargin="-11.2060" TouchEnable="True" LeftEage="40" RightEage="40" TopEage="20" BottomEage="20" Scale9OriginX="40" Scale9OriginY="20" Scale9Width="43" Scale9Height="23" ctype="ImageViewObjectData">
@@ -429,13 +429,13 @@
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint />
-                <Position X="330.9200" Y="0.8869" />
+                <Position X="320.9155" Y="0.8869" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.7590" Y="0.0193" />
+                <PrePosition X="0.7360" Y="0.0193" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="node_3" ActionTag="-818037784" Tag="432" RotationSkewY="180.0000" IconVisible="True" LeftMargin="229.3700" RightMargin="206.6300" TopMargin="46.4859" BottomMargin="-0.4859" ctype="SingleNodeObjectData">
+              <AbstractNodeData Name="node_3" ActionTag="-818037784" Tag="432" RotationSkewY="180.0000" IconVisible="True" LeftMargin="219.3698" RightMargin="216.6302" TopMargin="46.4859" BottomMargin="-0.4859" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
                   <AbstractNodeData Name="btn" ActionTag="-1956936746" Alpha="0" Tag="433" IconVisible="False" LeftMargin="8.2306" RightMargin="-117.2306" TopMargin="-53.9059" BottomMargin="-9.0941" TouchEnable="True" LeftEage="40" RightEage="40" TopEage="20" BottomEage="20" Scale9OriginX="40" Scale9OriginY="20" Scale9Width="43" Scale9Height="23" ctype="ImageViewObjectData">
@@ -495,10 +495,10 @@
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint />
-                <Position X="229.3700" Y="-0.4859" />
+                <Position X="219.3698" Y="-0.4859" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.5261" Y="-0.0106" />
+                <PrePosition X="0.5031" Y="-0.0106" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
               <AbstractNodeData Name="node_4" ActionTag="130549394" Tag="744" RotationSkewY="180.0000" IconVisible="True" LeftMargin="114.4398" RightMargin="321.5602" TopMargin="47.6869" BottomMargin="-1.6869" ctype="SingleNodeObjectData">

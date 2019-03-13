@@ -29,40 +29,40 @@
           <AbstractNodeData Name="btn_all" ActionTag="286684863" Tag="1286" IconVisible="False" LeftMargin="69.2838" RightMargin="632.7162" TopMargin="154.0229" BottomMargin="567.9771" LeftEage="174" RightEage="174" TopEage="15" BottomEage="15" Scale9OriginX="174" Scale9OriginY="15" Scale9Width="180" Scale9Height="16" ctype="ImageViewObjectData">
             <Size X="434.0000" Y="46.0000" />
             <Children>
-              <AbstractNodeData Name="cut1" ActionTag="-702071205" Tag="968" IconVisible="False" LeftMargin="90.2700" RightMargin="327.7300" TopMargin="3.6660" BottomMargin="2.3340" ctype="SpriteObjectData">
+              <AbstractNodeData Name="cut1" ActionTag="-702071205" Tag="968" IconVisible="False" LeftMargin="100.2671" RightMargin="317.7329" TopMargin="3.6660" BottomMargin="2.3340" ctype="SpriteObjectData">
                 <Size X="16.0000" Y="40.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="98.2700" Y="22.3340" />
+                <Position X="108.2671" Y="22.3340" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.2264" Y="0.4855" />
+                <PrePosition X="0.2495" Y="0.4855" />
                 <PreSize X="0.0369" Y="0.8696" />
                 <FileData Type="Normal" Path="ShipsScene/ui/btn_bg_cut.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="cut2" ActionTag="-1915184626" Tag="969" IconVisible="False" LeftMargin="197.8000" RightMargin="220.2000" TopMargin="1.3717" BottomMargin="4.6283" ctype="SpriteObjectData">
+              <AbstractNodeData Name="cut2" ActionTag="-1915184626" Tag="969" IconVisible="False" LeftMargin="207.8026" RightMargin="210.1974" TopMargin="1.3717" BottomMargin="4.6283" ctype="SpriteObjectData">
                 <Size X="16.0000" Y="40.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="205.8000" Y="24.6283" />
+                <Position X="215.8026" Y="24.6283" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.4742" Y="0.5354" />
+                <PrePosition X="0.4972" Y="0.5354" />
                 <PreSize X="0.0369" Y="0.8696" />
                 <FileData Type="Normal" Path="ShipsScene/ui/btn_bg_cut.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="cut3" ActionTag="1913985931" Tag="970" IconVisible="False" LeftMargin="301.7700" RightMargin="116.2300" TopMargin="2.7520" BottomMargin="3.2480" ctype="SpriteObjectData">
+              <AbstractNodeData Name="cut3" ActionTag="1913985931" Tag="970" IconVisible="False" LeftMargin="311.7692" RightMargin="106.2308" TopMargin="2.7520" BottomMargin="3.2480" ctype="SpriteObjectData">
                 <Size X="16.0000" Y="40.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="309.7700" Y="23.2480" />
+                <Position X="319.7692" Y="23.2480" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.7138" Y="0.5054" />
+                <PrePosition X="0.7368" Y="0.5054" />
                 <PreSize X="0.0369" Y="0.8696" />
                 <FileData Type="Normal" Path="ShipsScene/ui/btn_bg_cut.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="node_1" ActionTag="-845564794" Tag="972" IconVisible="True" LeftMargin="-10.0000" RightMargin="444.0000" TopMargin="46.0000" ctype="SingleNodeObjectData">
+              <AbstractNodeData Name="node_1" ActionTag="-845564794" Tag="972" IconVisible="True" RightMargin="434.0000" TopMargin="46.0000" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
                   <AbstractNodeData Name="btn" ActionTag="-1296317907" Alpha="0" Tag="973" IconVisible="False" LeftMargin="-10.3300" RightMargin="-112.6700" TopMargin="-52.7000" BottomMargin="-10.3000" TouchEnable="True" LeftEage="40" RightEage="40" TopEage="20" BottomEage="20" Scale9OriginX="40" Scale9OriginY="20" Scale9Width="43" Scale9Height="23" ctype="ImageViewObjectData">
@@ -122,13 +122,13 @@
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint />
-                <Position X="-10.0000" />
+                <Position />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="-0.0230" />
+                <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="node_2" ActionTag="-1254552097" Tag="977" IconVisible="True" LeftMargin="94.3400" RightMargin="339.6600" TopMargin="46.1440" BottomMargin="-0.1440" ctype="SingleNodeObjectData">
+              <AbstractNodeData Name="node_2" ActionTag="-1254552097" Tag="977" IconVisible="True" LeftMargin="104.3354" RightMargin="329.6646" TopMargin="46.1440" BottomMargin="-0.1440" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
                   <AbstractNodeData Name="btn" ActionTag="1717300792" Alpha="0" Tag="978" IconVisible="False" LeftMargin="-3.6975" RightMargin="-119.3025" TopMargin="-51.7940" BottomMargin="-11.2060" TouchEnable="True" LeftEage="40" RightEage="40" TopEage="20" BottomEage="20" Scale9OriginX="40" Scale9OriginY="20" Scale9Width="43" Scale9Height="23" ctype="ImageViewObjectData">
@@ -188,13 +188,13 @@
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint />
-                <Position X="94.3400" Y="-0.1440" />
+                <Position X="104.3354" Y="-0.1440" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.2174" Y="-0.0031" />
+                <PrePosition X="0.2404" Y="-0.0031" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="node_3" ActionTag="1853633395" Tag="982" IconVisible="True" LeftMargin="194.4500" RightMargin="239.5500" TopMargin="46.2880" BottomMargin="-0.2880" ctype="SingleNodeObjectData">
+              <AbstractNodeData Name="node_3" ActionTag="1853633395" Tag="982" IconVisible="True" LeftMargin="204.4472" RightMargin="229.5528" TopMargin="46.2880" BottomMargin="-0.2880" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
                   <AbstractNodeData Name="btn" ActionTag="933182602" Alpha="0" Tag="983" IconVisible="False" LeftMargin="8.2306" RightMargin="-117.2306" TopMargin="-53.9059" BottomMargin="-9.0941" TouchEnable="True" LeftEage="40" RightEage="40" TopEage="20" BottomEage="20" Scale9OriginX="40" Scale9OriginY="20" Scale9Width="43" Scale9Height="23" ctype="ImageViewObjectData">
@@ -254,10 +254,10 @@
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint />
-                <Position X="194.4500" Y="-0.2880" />
+                <Position X="204.4472" Y="-0.2880" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.4480" Y="-0.0063" />
+                <PrePosition X="0.4711" Y="-0.0063" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
               <AbstractNodeData Name="node_4" ActionTag="-2042706626" Tag="987" IconVisible="True" LeftMargin="307.3760" RightMargin="126.6240" TopMargin="47.8402" BottomMargin="-1.8402" ctype="SingleNodeObjectData">
@@ -370,10 +370,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="title" ActionTag="-633088181" UserData="lefttop" Tag="1005" IconVisible="False" LeftMargin="64.5900" RightMargin="895.4100" TopMargin="15.5017" BottomMargin="699.4983" FontSize="35" LabelText="船开发工厂" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="title" ActionTag="-633088181" UserData="lefttop" Tag="1005" IconVisible="False" LeftMargin="64.5872" RightMargin="895.4128" TopMargin="15.5017" BottomMargin="699.4983" FontSize="35" LabelText="船开发工厂" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="176.0000" Y="53.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="64.5900" Y="725.9983" />
+            <Position X="64.5872" Y="725.9983" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="226" G="239" B="242" />
             <PrePosition X="0.0569" Y="0.9453" />
@@ -500,20 +500,6 @@
                 <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Normal" Path="ItemIcon/11112.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
-              </AbstractNodeData>
-              <AbstractNodeData Name="ship_des" ActionTag="-488302990" Tag="1604" IconVisible="False" LeftMargin="112.2268" RightMargin="-332.2268" TopMargin="64.5232" BottomMargin="-154.5232" TouchEnable="True" ClipAble="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" IsBounceEnabled="True" ScrollDirectionType="Vertical" ctype="ScrollViewObjectData">
-                <Size X="220.0000" Y="90.0000" />
-                <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
-                <Position X="222.2268" Y="-64.5232" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition />
-                <PreSize X="0.0000" Y="0.0000" />
-                <SingleColor A="255" R="255" G="150" B="100" />
-                <FirstColor A="255" R="255" G="150" B="100" />
-                <EndColor A="255" R="255" G="255" B="255" />
-                <ColorVector ScaleY="1.0000" />
-                <InnerNodeSize Width="220" Height="90" />
               </AbstractNodeData>
               <AbstractNodeData Name="piece_des" ActionTag="-737034437" UserData="rightbottom" Tag="1125" IconVisible="False" LeftMargin="111.1483" RightMargin="-334.1483" TopMargin="73.6986" BottomMargin="-160.6986" IsCustomSize="True" FontSize="19" LabelText="凑齐中心组学习寻寻寻寻寻寻寻寻寻寻寻寻寻寻寻寻寻寻寻寻寻寻寻寻寻寻奥所发所付" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="223.0000" Y="87.0000" />
@@ -828,10 +814,10 @@
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="255" G="255" B="255" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="text" ActionTag="-555124865" UserData="rightbottom" Tag="1145" IconVisible="False" LeftMargin="127.5231" RightMargin="-197.5231" TopMargin="6.6065" BottomMargin="-41.6065" FontSize="23" LabelText="研发中" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+                  <AbstractNodeData Name="text" ActionTag="-555124865" UserData="rightbottom" Tag="1145" IconVisible="False" LeftMargin="48.1133" RightMargin="-118.1133" TopMargin="69.9714" BottomMargin="-104.9714" FontSize="23" LabelText="研发中" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                     <Size X="70.0000" Y="35.0000" />
-                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="162.5231" Y="-24.1065" />
+                    <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
+                    <Position X="118.1133" Y="-87.4714" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="226" G="239" B="242" />
                     <PrePosition />
@@ -843,35 +829,35 @@
                   <AbstractNodeData Name="btn1" ActionTag="-1046082429" Tag="2806" IconVisible="False" LeftMargin="12.3765" RightMargin="-152.3765" TopMargin="167.9619" BottomMargin="-207.9619" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="66" RightEage="52" TopEage="19" BottomEage="18" Scale9OriginX="66" Scale9OriginY="19" Scale9Width="12" Scale9Height="3" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                     <Size X="140.0000" Y="40.0000" />
                     <Children>
-                      <AbstractNodeData Name="icon" ActionTag="-37600914" Tag="2808" IconVisible="False" LeftMargin="37.3451" RightMargin="72.6549" TopMargin="4.6263" BottomMargin="5.3737" LeftEage="17" RightEage="17" TopEage="17" BottomEage="17" Scale9OriginX="17" Scale9OriginY="17" Scale9Width="38" Scale9Height="38" ctype="ImageViewObjectData">
+                      <AbstractNodeData Name="icon" ActionTag="-37600914" Tag="2808" IconVisible="False" LeftMargin="49.3453" RightMargin="60.6547" TopMargin="4.6263" BottomMargin="5.3737" LeftEage="17" RightEage="17" TopEage="17" BottomEage="17" Scale9OriginX="17" Scale9OriginY="17" Scale9Width="38" Scale9Height="38" ctype="ImageViewObjectData">
                         <Size X="30.0000" Y="30.0000" />
                         <AnchorPoint ScaleY="0.5000" />
-                        <Position X="37.3451" Y="20.3737" />
+                        <Position X="49.3453" Y="20.3737" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.2668" Y="0.5093" />
+                        <PrePosition X="0.3525" Y="0.5093" />
                         <PreSize X="0.2143" Y="0.7500" />
                         <FileData Type="Normal" Path="ItemIcon/10005.png" Plist="" />
                       </AbstractNodeData>
-                      <AbstractNodeData Name="text2" ActionTag="1450964441" Tag="2809" IconVisible="False" LeftMargin="65.3097" RightMargin="35.6903" TopMargin="8.5492" BottomMargin="4.4508" FontSize="18" LabelText="加速" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                      <AbstractNodeData Name="text2" ActionTag="1450964441" Tag="2809" IconVisible="False" LeftMargin="77.3098" RightMargin="23.6902" TopMargin="8.5488" BottomMargin="4.4512" FontSize="18" LabelText="加速" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                         <Size X="39.0000" Y="27.0000" />
                         <AnchorPoint ScaleY="0.5110" />
-                        <Position X="65.3097" Y="18.2478" />
+                        <Position X="77.3098" Y="18.2478" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.4665" Y="0.4562" />
+                        <PrePosition X="0.5522" Y="0.4562" />
                         <PreSize X="0.2786" Y="0.6750" />
                         <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="255" G="255" B="255" />
                       </AbstractNodeData>
-                      <AbstractNodeData Name="text1" ActionTag="712010744" Tag="2807" IconVisible="False" LeftMargin="1.6205" RightMargin="99.3795" TopMargin="8.5233" BottomMargin="4.4767" FontSize="18" LabelText="加速" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                      <AbstractNodeData Name="text1" ActionTag="712010744" Tag="2807" IconVisible="False" LeftMargin="13.6205" RightMargin="87.3795" TopMargin="8.5233" BottomMargin="4.4767" FontSize="18" LabelText="加速" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                         <Size X="39.0000" Y="27.0000" />
                         <AnchorPoint ScaleY="0.5000" />
-                        <Position X="1.6205" Y="17.9767" />
+                        <Position X="13.6205" Y="17.9767" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.0116" Y="0.4494" />
+                        <PrePosition X="0.0973" Y="0.4494" />
                         <PreSize X="0.2786" Y="0.6750" />
                         <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                         <OutlineColor A="255" R="255" G="0" B="0" />
@@ -1223,33 +1209,33 @@
             <PrePosition X="0.5042" Y="0.9518" />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="sfx1" ActionTag="-1389572990" Tag="160" IconVisible="True" LeftMargin="110.9800" RightMargin="1025.0200" TopMargin="177.7169" BottomMargin="590.2831" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="sfx1" ActionTag="-1389572990" Tag="160" IconVisible="True" LeftMargin="120.9770" RightMargin="1015.0230" TopMargin="177.7169" BottomMargin="590.2831" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
-            <Position X="110.9800" Y="590.2831" />
+            <Position X="120.9770" Y="590.2831" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.0977" Y="0.7686" />
+            <PrePosition X="0.1065" Y="0.7686" />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="BlueprintScene/sfx/saoguang/saoguang.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="sfx2" ActionTag="985077514" Tag="163" IconVisible="True" LeftMargin="221.8100" RightMargin="914.1900" TopMargin="177.1587" BottomMargin="590.8413" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="sfx2" ActionTag="985077514" Tag="163" IconVisible="True" LeftMargin="231.8054" RightMargin="904.1946" TopMargin="177.1587" BottomMargin="590.8413" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
-            <Position X="221.8100" Y="590.8413" />
+            <Position X="231.8054" Y="590.8413" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.1953" Y="0.7693" />
+            <PrePosition X="0.2041" Y="0.7693" />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="BlueprintScene/sfx/saoguang/saoguang.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="sfx3" ActionTag="775304691" Tag="166" IconVisible="True" LeftMargin="326.8300" RightMargin="809.1700" TopMargin="178.1842" BottomMargin="589.8158" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="sfx3" ActionTag="775304691" Tag="166" IconVisible="True" LeftMargin="336.8277" RightMargin="799.1723" TopMargin="178.1842" BottomMargin="589.8158" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
-            <Position X="326.8300" Y="589.8158" />
+            <Position X="336.8277" Y="589.8158" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.2877" Y="0.7680" />
+            <PrePosition X="0.2965" Y="0.7680" />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="BlueprintScene/sfx/saoguang/saoguang.csd" Plist="" />
           </AbstractNodeData>

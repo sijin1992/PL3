@@ -36,8 +36,8 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ActivityScene/ui/first_text1.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="first_text2_5" ActionTag="-608886523" Tag="8" IconVisible="False" LeftMargin="552.0726" RightMargin="-763.0726" TopMargin="-460.0835" BottomMargin="433.0835" ctype="SpriteObjectData">
-            <Size X="211.0000" Y="27.0000" />
+          <AbstractNodeData Name="first_text2_5" ActionTag="-608886523" Tag="8" IconVisible="False" LeftMargin="500.5726" RightMargin="-814.5726" TopMargin="-454.0835" BottomMargin="439.0835" ctype="SpriteObjectData">
+            <Size X="314.0000" Y="15.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="657.5726" Y="446.5835" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -57,8 +57,8 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ActivityScene/ui/first_text3.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="first_text4_7" ActionTag="-2002572489" Tag="10" IconVisible="False" LeftMargin="270.9752" RightMargin="-448.9752" TopMargin="-497.2745" BottomMargin="471.2745" ctype="SpriteObjectData">
-            <Size X="178.0000" Y="26.0000" />
+          <AbstractNodeData Name="first_text4_7" ActionTag="-2002572489" Tag="10" IconVisible="False" LeftMargin="270.9752" RightMargin="-448.9752" TopMargin="-493.7745" BottomMargin="474.7745" ctype="SpriteObjectData">
+            <Size X="178.0000" Y="19.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="359.9752" Y="484.2745" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -68,12 +68,24 @@
             <FileData Type="Normal" Path="ActivityScene/ui/first_text4.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="money" ActionTag="-518499054" Tag="12" IconVisible="False" LeftMargin="615.2486" RightMargin="-656.2486" TopMargin="-455.2597" BottomMargin="422.2597" FontSize="22" LabelText="666" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="41.0000" Y="33.0000" />
+          <AbstractNodeData Name="money" ActionTag="-518499054" Tag="12" IconVisible="False" LeftMargin="637.4212" RightMargin="-701.4212" TopMargin="-473.3386" BottomMargin="419.3386" FontSize="36" LabelText="666" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="64.0000" Y="54.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="635.7486" Y="438.7597" />
+            <Position X="669.4212" Y="446.3386" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="70" B="70" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
+            <OutlineColor A="255" R="255" G="0" B="0" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Text_3" ActionTag="16771245" Tag="28" IconVisible="False" LeftMargin="530.2924" RightMargin="-589.2924" TopMargin="-241.5905" BottomMargin="211.5905" FontSize="20" LabelText="string" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="59.0000" Y="30.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="559.7924" Y="226.5905" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="156" G="217" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
@@ -113,18 +125,6 @@
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ActivityScene/ui/first_ship.png" Plist="" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="Text_3" ActionTag="16771245" Tag="28" IconVisible="False" LeftMargin="530.2924" RightMargin="-589.2924" TopMargin="-241.5905" BottomMargin="211.5905" FontSize="20" LabelText="string" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="59.0000" Y="30.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="559.7924" Y="226.5905" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="156" G="217" B="255" />
-            <PrePosition />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
-            <OutlineColor A="255" R="255" G="0" B="0" />
-            <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
           <AbstractNodeData Name="ship_sfx" ActionTag="589005386" Tag="49" IconVisible="True" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />

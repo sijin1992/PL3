@@ -58,40 +58,40 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="AdventureLayer/ui/bg3.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="pic_num1" ActionTag="1267818976" Tag="66" IconVisible="False" LeftMargin="221.9386" RightMargin="-236.9386" TopMargin="-513.2000" BottomMargin="491.2000" LeftEage="4" RightEage="4" TopEage="7" BottomEage="7" Scale9OriginX="4" Scale9OriginY="7" Scale9Width="7" Scale9Height="8" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="pic_num1" ActionTag="1267818976" Tag="66" IconVisible="False" LeftMargin="87.9400" RightMargin="-102.9400" TopMargin="-513.2000" BottomMargin="491.2000" LeftEage="4" RightEage="4" TopEage="7" BottomEage="7" Scale9OriginX="4" Scale9OriginY="7" Scale9Width="7" Scale9Height="8" ctype="ImageViewObjectData">
             <Size X="15.0000" Y="22.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="229.4386" Y="502.2000" />
+            <Position X="95.4400" Y="502.2000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="OperatingActivitieScene/ui/9.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="pic_num2" ActionTag="310219258" Tag="67" IconVisible="False" LeftMargin="236.2788" RightMargin="-251.2788" TopMargin="-513.2000" BottomMargin="491.2000" LeftEage="4" RightEage="4" TopEage="7" BottomEage="7" Scale9OriginX="4" Scale9OriginY="7" Scale9Width="7" Scale9Height="8" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="pic_num2" ActionTag="310219258" Tag="67" IconVisible="False" LeftMargin="102.2800" RightMargin="-117.2800" TopMargin="-513.2000" BottomMargin="491.2000" LeftEage="4" RightEage="4" TopEage="7" BottomEage="7" Scale9OriginX="4" Scale9OriginY="7" Scale9Width="7" Scale9Height="8" ctype="ImageViewObjectData">
             <Size X="15.0000" Y="22.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="243.7788" Y="502.2000" />
+            <Position X="109.7800" Y="502.2000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="OperatingActivitieScene/ui/9.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="pic_num3" ActionTag="1932938763" Tag="68" IconVisible="False" LeftMargin="249.0582" RightMargin="-264.0582" TopMargin="-513.2000" BottomMargin="491.2000" LeftEage="4" RightEage="4" TopEage="7" BottomEage="7" Scale9OriginX="4" Scale9OriginY="7" Scale9Width="7" Scale9Height="8" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="pic_num3" ActionTag="1932938763" Tag="68" IconVisible="False" LeftMargin="115.0600" RightMargin="-130.0600" TopMargin="-513.2000" BottomMargin="491.2000" LeftEage="4" RightEage="4" TopEage="7" BottomEage="7" Scale9OriginX="4" Scale9OriginY="7" Scale9Width="7" Scale9Height="8" ctype="ImageViewObjectData">
             <Size X="15.0000" Y="22.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="256.5582" Y="502.2000" />
+            <Position X="122.5600" Y="502.2000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="OperatingActivitieScene/ui/9.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="name_img" ActionTag="-1126348031" Tag="1755" IconVisible="False" LeftMargin="90.5657" RightMargin="-225.5657" TopMargin="-518.3601" BottomMargin="486.3601" ctype="SpriteObjectData">
+          <AbstractNodeData Name="name_img" ActionTag="-1126348031" Tag="1755" IconVisible="False" LeftMargin="131.5666" RightMargin="-266.5666" TopMargin="-518.3602" BottomMargin="486.3602" ctype="SpriteObjectData">
             <Size X="135.0000" Y="32.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="158.0657" Y="502.3601" />
+            <Position X="199.0666" Y="502.3602" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -102,7 +102,7 @@
           <AbstractNodeData Name="buy" ActionTag="-1572920538" Tag="1765" IconVisible="False" LeftMargin="86.4860" RightMargin="-266.4860" TopMargin="-77.9516" BottomMargin="31.9516" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="165" Scale9Height="24" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="180.0000" Y="46.0000" />
             <Children>
-              <AbstractNodeData Name="price" ActionTag="1589147701" Tag="1766" IconVisible="False" LeftMargin="67.2954" RightMargin="76.7046" TopMargin="14.8987" BottomMargin="1.1013" FontSize="20" LabelText="$99" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+              <AbstractNodeData Name="price" ActionTag="1589147701" Tag="1766" IconVisible="False" LeftMargin="67.2954" RightMargin="76.7046" TopMargin="14.8987" BottomMargin="1.1013" FontSize="20" LabelText="¥99" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                 <Size X="36.0000" Y="30.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="85.2954" Y="16.1013" />

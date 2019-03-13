@@ -18,7 +18,7 @@ StartLayer.RESOURCE_BINDING = {
 	["start"]={["varname"]="",["events"]={{["event"]="touch",["method"]="OnBtnClick"}}},
 }
 
-local password = "password"
+local password = "utugamepassword"
 
 -- ADDED BY WJJ 20180612
 StartLayer.IS_DEBUG_MEMORY = false
@@ -293,8 +293,8 @@ function StartLayer:changeServer( ... )
 
 	end
 
-	rn:getChildByName('title_node'):getChildByName('tiaoti_node'):getChildByName('biaoti_en'):setVisible(server_platform==1)
-	rn:getChildByName('title_node'):getChildByName('tiaoti_node'):getChildByName('biaoti_cn'):setVisible(server_platform==0)
+	rn:getChildByName('title_node'):getChildByName('tiaoti_node'):getChildByName('biaoti_en'):setVisible(server_platform==0)
+	rn:getChildByName('title_node'):getChildByName('tiaoti_node'):getChildByName('biaoti_cn'):setVisible(server_platform==1)
 
 	if quName ~= nil and quName ~= "" then
 		rn:getChildByName("qu_name"):setString(quName)
@@ -351,8 +351,8 @@ function StartLayer:onEnterTransitionFinish()
 
 	end
 
-	rn:getChildByName('title_node'):getChildByName('tiaoti_node'):getChildByName('biaoti_en'):setVisible(server_platform==1)
-	rn:getChildByName('title_node'):getChildByName('tiaoti_node'):getChildByName('biaoti_cn'):setVisible(server_platform==0)
+	rn:getChildByName('title_node'):getChildByName('tiaoti_node'):getChildByName('biaoti_en'):setVisible(server_platform==0)
+	rn:getChildByName('title_node'):getChildByName('tiaoti_node'):getChildByName('biaoti_cn'):setVisible(server_platform==1)
 
 	if quName ~= nil and quName ~= "" then
 		rn:getChildByName("qu_name"):setString(quName)
@@ -388,7 +388,7 @@ function StartLayer:onEnterTransitionFinish()
 	end)
 
 	local app = require("app.MyApp"):getInstance()
-    rn:getChildByName("gate_1"):getChildByName("Text"):setString(CONF:getStringValue("USER_NAME_ft"))
+
 	rn:getChildByName("gate_1"):addClickEventListener(function (sender)
 			-- self:getApp():removeTopView()
 			-- app:addView2Top("LoginScene/GateLayer")
@@ -405,7 +405,7 @@ function StartLayer:onEnterTransitionFinish()
 			app:addView2Top("LoginScene/ServerSelectLayer")
 
 	end)
-    rn:getChildByName("notive"):getChildByName("Text"):setString(CONF:getStringValue("notice"))
+
 	rn:getChildByName("notive"):addClickEventListener(function ( ... )
 		cc.Director:getInstance():getEventDispatcher():dispatchCustomEvent("loginNotice")
 	end)

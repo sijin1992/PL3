@@ -40,7 +40,7 @@ function TipsMessage:tips(str,labelColor,bgPath)
 	local ttfConfig = {}
     	ttfConfig.fontFilePath = s_default_font
     	ttfConfig.fontSize = 24
-	local label = cc.Label:createWithTTF(ttfConfig,str,cc.VERTICAL_TEXT_ALIGNMENT_CENTER,500)
+	local label = cc.Label:createWithTTF(ttfConfig,str,cc.VERTICAL_TEXT_ALIGNMENT_CENTER,400)
 	label:setLineBreakWithoutSpace(true)
     if labelColor then
         label:setTextColor(labelColor)

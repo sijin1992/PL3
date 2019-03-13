@@ -41,10 +41,10 @@
             <ColorVector ScaleY="1.0000" />
             <InnerNodeSize Width="720" Height="430" />
           </AbstractNodeData>
-          <AbstractNodeData Name="time" ActionTag="2018824211" Tag="1053" IconVisible="False" LeftMargin="259.6091" RightMargin="-342.6091" TopMargin="-36.1558" BottomMargin="9.1558" FontSize="18" LabelText="156:20:38" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="time" ActionTag="2018824211" Tag="1053" IconVisible="False" LeftMargin="144.6091" RightMargin="-227.6091" TopMargin="-36.1558" BottomMargin="9.1558" FontSize="18" LabelText="156:20:38" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="83.0000" Y="27.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="301.1091" Y="22.6558" />
+            <Position X="186.1091" Y="22.6558" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="0" B="0" />
             <PrePosition />
@@ -53,10 +53,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_1" ActionTag="348686657" Tag="1054" IconVisible="False" LeftMargin="81.3197" RightMargin="-203.3197" TopMargin="-36.1574" BottomMargin="9.1574" FontSize="18" LabelText="活动剩余时间：" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="Text_1" ActionTag="348686657" Tag="1054" IconVisible="False" LeftMargin="18.3197" RightMargin="-140.3197" TopMargin="-36.1574" BottomMargin="9.1574" FontSize="18" LabelText="活动剩余时间：" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="122.0000" Y="27.0000" />
             <AnchorPoint ScaleX="0.4253" ScaleY="0.6746" />
-            <Position X="133.2063" Y="27.3716" />
+            <Position X="70.2063" Y="27.3716" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

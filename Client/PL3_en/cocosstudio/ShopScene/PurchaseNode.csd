@@ -87,10 +87,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="sprMoney" ActionTag="-135021825" Tag="1394" IconVisible="False" LeftMargin="-53.0845" RightMargin="-18.9155" TopMargin="-16.2663" BottomMargin="-55.7337" ctype="SpriteObjectData">
+          <AbstractNodeData Name="sprMoney" ActionTag="-135021825" Tag="1394" IconVisible="False" LeftMargin="-96.0872" RightMargin="24.0872" TopMargin="-16.2663" BottomMargin="-55.7337" ctype="SpriteObjectData">
             <Size X="72.0000" Y="72.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-17.0845" Y="-19.7337" />
+            <Position X="-60.0872" Y="-19.7337" />
             <Scale ScaleX="0.6000" ScaleY="0.6000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -98,10 +98,10 @@
             <FileData Type="Normal" Path="ItemIcon/10005.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="sprGold" ActionTag="-1139845740" Tag="1395" IconVisible="False" LeftMargin="-53.2183" RightMargin="-18.7817" TopMargin="-16.6304" BottomMargin="-55.3696" ctype="SpriteObjectData">
+          <AbstractNodeData Name="sprGold" ActionTag="-1139845740" Tag="1395" IconVisible="False" LeftMargin="-96.2236" RightMargin="24.2236" TopMargin="-16.6304" BottomMargin="-55.3696" ctype="SpriteObjectData">
             <Size X="72.0000" Y="72.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-17.2183" Y="-19.3696" />
+            <Position X="-60.2236" Y="-19.3696" />
             <Scale ScaleX="0.3500" ScaleY="0.3500" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -214,10 +214,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="num" ActionTag="-1302044952" Tag="76" IconVisible="False" LeftMargin="-168.5921" RightMargin="90.5921" TopMargin="-48.9482" BottomMargin="21.9482" FontSize="18" LabelText="Quantity" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="78.0000" Y="27.0000" />
+          <AbstractNodeData Name="num" ActionTag="-1302044952" Tag="76" IconVisible="False" LeftMargin="-149.6640" RightMargin="95.6640" TopMargin="-53.7983" BottomMargin="17.7983" FontSize="24" LabelText="num" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="54.0000" Y="36.0000" />
             <AnchorPoint ScaleX="1.0000" ScaleY="0.4611" />
-            <Position X="-90.5921" Y="34.3979" />
+            <Position X="-95.6640" Y="34.3979" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="226" G="239" B="242" />
             <PrePosition />
@@ -226,10 +226,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="226" G="239" B="242" />
           </AbstractNodeData>
-          <AbstractNodeData Name="cost" ActionTag="1995580083" Tag="77" IconVisible="False" LeftMargin="-170.6587" RightMargin="52.6587" TopMargin="10.8900" BottomMargin="-37.8900" FontSize="18" LabelText="Consumption" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="118.0000" Y="27.0000" />
+          <AbstractNodeData Name="cost" ActionTag="1995580083" Tag="77" IconVisible="False" LeftMargin="-145.6639" RightMargin="95.6639" TopMargin="6.0633" BottomMargin="-42.0633" FontSize="24" LabelText="cost" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="50.0000" Y="36.0000" />
             <AnchorPoint ScaleX="1.0000" ScaleY="0.4637" />
-            <Position X="-52.6587" Y="-25.3701" />
+            <Position X="-95.6639" Y="-25.3701" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="226" G="239" B="242" />
             <PrePosition />
@@ -238,10 +238,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="226" G="239" B="242" />
           </AbstractNodeData>
-          <AbstractNodeData Name="costNum" ActionTag="-1517133892" Tag="78" IconVisible="False" LeftMargin="0.6136" RightMargin="-43.6136" TopMargin="12.3948" BottomMargin="-39.3948" FontSize="18" LabelText="9999" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="43.0000" Y="27.0000" />
+          <AbstractNodeData Name="costNum" ActionTag="-1517133892" Tag="78" IconVisible="False" LeftMargin="-42.3902" RightMargin="-11.6098" TopMargin="9.3948" BottomMargin="-42.3948" FontSize="22" LabelText="9999" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="54.0000" Y="33.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="0.6136" Y="-25.8948" />
+            <Position X="-42.3902" Y="-25.8948" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

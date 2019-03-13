@@ -60,8 +60,8 @@
             <OutlineColor A="255" R="77" G="77" B="77" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="limit" ActionTag="-1862070296" Tag="228" IconVisible="False" LeftMargin="86.8412" RightMargin="-120.8412" TopMargin="11.2764" BottomMargin="-32.2764" FontSize="14" LabelText="limit" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="34.0000" Y="21.0000" />
+          <AbstractNodeData Name="limit" ActionTag="-1862070296" Tag="228" IconVisible="False" LeftMargin="89.8412" RightMargin="-120.8412" TopMargin="11.2764" BottomMargin="-32.2764" FontSize="14" LabelText="限购" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="31.0000" Y="21.0000" />
             <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
             <Position X="120.8412" Y="-21.7764" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />

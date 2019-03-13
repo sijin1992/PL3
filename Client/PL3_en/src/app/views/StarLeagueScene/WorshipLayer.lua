@@ -78,7 +78,6 @@ function WorshipLayer:resetInfo()
 				if i == group_data.today_worship_level then
 					node:getChildByName("btn"):getChildByName("icon"):setVisible(false)
 					node:getChildByName("btn"):getChildByName("text"):setString(CONF:getStringValue("already_worship"))
-                    node:getChildByName("btn"):getChildByName("text"):setPosition(node:getChildByName("btn"):getChildByName("icon"):getPositionX(),node:getChildByName("btn"):getChildByName("icon"):getPositionY())
 				end
 			end
 		end

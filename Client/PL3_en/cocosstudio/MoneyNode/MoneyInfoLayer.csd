@@ -26,13 +26,13 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="Common/CommonBg.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="text_des" ActionTag="1364606005" Tag="660" IconVisible="False" LeftMargin="245.6624" RightMargin="231.2217" TopMargin="574.4137" BottomMargin="153.5863" IsCustomSize="True" FontSize="13" LabelText="资源达到上限后掠夺将不会获得资源&#xA;资源达到上限后掠夺将不会获得资源" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+          <AbstractNodeData Name="text_des" ActionTag="1364606005" Tag="660" IconVisible="False" LeftMargin="245.6624" RightMargin="231.2217" TopMargin="567.4137" BottomMargin="160.5863" IsCustomSize="True" FontSize="16" LabelText="资源达到上限后掠夺将不会获得资源&#xA;资源达到上限后掠夺将不会获得资源" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
             <Size X="659.1159" Y="40.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="245.6624" Y="173.5863" />
+            <Position X="245.6624" Y="180.5863" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="94" G="95" B="100" />
-            <PrePosition X="0.2163" Y="0.2260" />
+            <PrePosition X="0.2163" Y="0.2351" />
             <PreSize X="0.5802" Y="0.0521" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />

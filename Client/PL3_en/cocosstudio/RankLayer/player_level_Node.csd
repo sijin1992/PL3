@@ -83,10 +83,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="leagueName" ActionTag="970057035" Tag="87" IconVisible="False" LeftMargin="370.5049" RightMargin="-457.5049" TopMargin="43.9743" BottomMargin="-64.9743" FontSize="14" LabelText="leagueNmae" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="87.0000" Y="21.0000" />
+          <AbstractNodeData Name="leagueName" ActionTag="970057035" Tag="87" IconVisible="False" LeftMargin="384.5046" RightMargin="-508.5046" TopMargin="39.5868" BottomMargin="-69.5868" FontSize="20" LabelText="leagueNmae" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="124.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5125" />
-            <Position X="370.5049" Y="-54.2118" />
+            <Position X="384.5046" Y="-54.2118" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="189" G="198" B="208" />
             <PrePosition />
@@ -107,8 +107,8 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="leagueName_0" ActionTag="-185307521" Tag="181" IconVisible="False" LeftMargin="330.9204" RightMargin="-370.9204" TopMargin="44.0153" BottomMargin="-65.0153" FontSize="14" LabelText="星盟：" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="40.0000" Y="21.0000" />
+          <AbstractNodeData Name="leagueName_0" ActionTag="-185307521" Tag="181" IconVisible="False" LeftMargin="330.9204" RightMargin="-385.9204" TopMargin="39.4451" BottomMargin="-69.4451" FontSize="20" LabelText="星盟：" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="55.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.4922" />
             <Position X="330.9204" Y="-54.6791" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />

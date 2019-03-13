@@ -107,16 +107,16 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="creating" ActionTag="2124682905" Tag="1064" IconVisible="False" LeftMargin="511.0768" RightMargin="126.9232" TopMargin="19.5826" BottomMargin="76.4174" FontSize="20" LabelText="锻造中" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="creating" ActionTag="2124682905" Tag="1064" IconVisible="False" LeftMargin="538.0849" RightMargin="99.9151" TopMargin="19.5826" BottomMargin="76.4174" FontSize="20" LabelText="锻造中" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="62.0000" Y="30.0000" />
                 <Children>
-                  <AbstractNodeData Name="creating_0" ActionTag="1086808202" Tag="43" IconVisible="False" LeftMargin="86.2092" RightMargin="-86.2092" TopMargin="-0.4970" BottomMargin="0.4970" FontSize="20" LabelText="锻造中" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+                  <AbstractNodeData Name="creating_0" ActionTag="1086808202" Tag="43" IconVisible="False" LeftMargin="64.2094" RightMargin="-64.2094" TopMargin="-0.4977" BottomMargin="0.4977" FontSize="20" LabelText="锻造中" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                     <Size X="62.0000" Y="30.0000" />
                     <AnchorPoint ScaleY="0.5018" />
-                    <Position X="86.2092" Y="15.5510" />
+                    <Position X="64.2094" Y="15.5517" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="156" G="217" B="255" />
-                    <PrePosition X="1.3905" Y="0.5184" />
+                    <PrePosition X="1.0356" Y="0.5184" />
                     <PreSize X="1.0000" Y="1.0000" />
                     <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
@@ -124,10 +124,10 @@
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
-                <Position X="573.0768" Y="91.4174" />
+                <Position X="600.0849" Y="91.4174" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="156" G="217" B="255" />
-                <PrePosition X="0.8187" Y="0.7255" />
+                <PrePosition X="0.8573" Y="0.7255" />
                 <PreSize X="0.0886" Y="0.2381" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />

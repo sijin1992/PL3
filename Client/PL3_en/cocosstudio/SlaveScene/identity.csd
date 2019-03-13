@@ -75,10 +75,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="240" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Button_2" ActionTag="1752318413" Tag="357" IconVisible="False" LeftMargin="7.4162" RightMargin="-45.4162" TopMargin="62.8145" BottomMargin="-100.8145" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="8" Scale9Height="16" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="Button_2" ActionTag="1752318413" Tag="357" IconVisible="False" LeftMargin="-81.1256" RightMargin="43.1256" TopMargin="62.8143" BottomMargin="-100.8143" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="8" Scale9Height="16" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="38.0000" Y="38.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="26.4162" Y="-81.8145" />
+            <Position X="-62.1256" Y="-81.8143" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -100,10 +100,10 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="Common/newUI/tc_fg_line01.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="enslave_limit" ActionTag="2035556631" Tag="359" IconVisible="False" LeftMargin="-107.0728" RightMargin="74.0728" TopMargin="71.3585" BottomMargin="-101.3585" FontSize="20" LabelText="/10" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="enslave_limit" ActionTag="2035556631" Tag="359" IconVisible="False" LeftMargin="-117.0725" RightMargin="84.0725" TopMargin="71.3585" BottomMargin="-101.3585" FontSize="20" LabelText="/10" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="33.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="-107.0728" Y="-86.3585" />
+            <Position X="-117.0725" Y="-86.3585" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="191" G="191" B="191" />
             <PrePosition />

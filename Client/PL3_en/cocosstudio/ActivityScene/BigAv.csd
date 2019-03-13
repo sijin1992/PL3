@@ -6,7 +6,7 @@
       <ObjectData Name="Node" Tag="1532" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="background" ActionTag="1384673995" Alpha="0" Tag="1581" IconVisible="False" LeftMargin="8.2553" RightMargin="-203.2553" TopMargin="0.6535" BottomMargin="-67.6535" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="10" BottomEage="10" Scale9OriginX="55" Scale9OriginY="10" Scale9Width="138" Scale9Height="42" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="background" ActionTag="1384673995" Alpha="0" Tag="1581" IconVisible="False" LeftMargin="8.2553" RightMargin="-203.2553" TopMargin="0.6535" BottomMargin="-67.6535" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="10" BottomEage="10" Scale9OriginX="55" Scale9OriginY="10" Scale9Width="120" Scale9Height="38" ctype="ImageViewObjectData">
             <Size X="195.0000" Y="67.0000" />
             <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
             <Position X="203.2553" Y="-34.1535" />
@@ -16,8 +16,8 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="text" ActionTag="136948785" Tag="1585" IconVisible="False" LeftMargin="12.2822" RightMargin="-184.6988" TopMargin="4.5700" BottomMargin="-64.5700" IsCustomSize="True" FontSize="22" LabelText="充值返利&#xA;chong" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
-            <Size X="172.4165" Y="60.0000" />
+          <AbstractNodeData Name="text" ActionTag="136948785" Tag="1585" IconVisible="False" LeftMargin="12.2822" RightMargin="-184.6988" TopMargin="10.8179" BottomMargin="-58.3222" IsCustomSize="True" FontSize="24" LabelText="充值返利" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
+            <Size X="172.4165" Y="47.5043" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="98.4905" Y="-34.5700" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -60,8 +60,8 @@
             <FileData Type="Normal" Path="Common/ui/spherical_red.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="text_choise" ActionTag="481263068" Tag="491" IconVisible="False" LeftMargin="12.2817" RightMargin="-184.6982" TopMargin="3.5700" BottomMargin="-65.5700" IsCustomSize="True" FontSize="22" LabelText="充值返利&#xA;chong" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" OutlineSize="0" ShadowOffsetX="1.5000" ShadowOffsetY="-2.5000" ctype="TextObjectData">
-            <Size X="172.4165" Y="62.0000" />
+          <AbstractNodeData Name="text_choise" ActionTag="481263068" Tag="491" IconVisible="False" LeftMargin="12.2817" RightMargin="-184.6982" TopMargin="10.8179" BottomMargin="-58.3222" IsCustomSize="True" FontSize="24" LabelText="充值返利" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="1.5000" ShadowOffsetY="-2.5000" ctype="TextObjectData">
+            <Size X="172.4165" Y="47.5043" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="98.4900" Y="-34.5700" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />

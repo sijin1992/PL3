@@ -36,10 +36,10 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ActivityScene/ui/MonthNode_di.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="cur_active" ActionTag="1423941826" Tag="206" IconVisible="False" LeftMargin="40.0079" RightMargin="-123.0079" TopMargin="29.6047" BottomMargin="-53.6047" FontSize="16" LabelText="当前活跃度" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="83.0000" Y="24.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="81.5079" Y="-41.6047" />
+          <AbstractNodeData Name="cur_active" ActionTag="1423941826" Tag="206" IconVisible="False" LeftMargin="8.0078" RightMargin="-123.0078" TopMargin="36.6047" BottomMargin="-66.6047" FontSize="20" LabelText="当前活跃度：" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="115.0000" Y="30.0000" />
+            <AnchorPoint ScaleY="0.5000" />
+            <Position X="8.0078" Y="-51.6047" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="194" G="212" B="234" />
             <PrePosition />
@@ -48,10 +48,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="194" G="212" B="234" />
           </AbstractNodeData>
-          <AbstractNodeData Name="cur_active_num" ActionTag="-437743745" Tag="208" IconVisible="False" LeftMargin="58.8136" RightMargin="-81.8136" TopMargin="51.0284" BottomMargin="-78.0284" FontSize="18" LabelText="40" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="23.0000" Y="27.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="70.3136" Y="-64.5284" />
+          <AbstractNodeData Name="cur_active_num" ActionTag="-437743745" Tag="208" IconVisible="False" LeftMargin="130.8147" RightMargin="-158.8147" TopMargin="35.0284" BottomMargin="-68.0284" FontSize="22" LabelText="40" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="28.0000" Y="33.0000" />
+            <AnchorPoint ScaleY="0.5000" />
+            <Position X="130.8147" Y="-51.5284" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="33" G="255" B="70" />
             <PrePosition />

@@ -1250,7 +1250,7 @@ function ShipInfoLayer:refreshInfoNode(node)
 		--nn:getChildByName("add_num"):setPositionX(nn:getChildByName("num"):getPositionX()+nn:getChildByName("num"):getContentSize().width+5)
 	end
 
-    rn:getChildByName("Text_38"):setString(CONF:getStringValue("state"))
+
 	rn:getChildByName("break"):setString(CONF:getStringValue("break"))
 	self:getResourceNode():getChildByName("total"):setString(CONF:getStringValue("pandect"))
 	rn:getChildByName("infoBg"):getChildByName("name"):setString(CONF:getStringValue(cfg_ship.NAME_ID))
@@ -2937,7 +2937,6 @@ function ShipInfoLayer:refreshEnergyNode(node)
     end
 
     for i = 1,3 do
-        node:getChildByName("btn"..i):getChildByName("text"):setString(CONF:getStringValue("ship_develop"))
         node:getChildByName("btn"..i):addClickEventListener(function ()
             if energy_level == CONF.ENERGYLEVEL.count()-1 then
                 tips:tips(CONF:getStringValue("energy max"))

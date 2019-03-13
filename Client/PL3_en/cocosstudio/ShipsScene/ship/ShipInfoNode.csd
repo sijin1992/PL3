@@ -17,10 +17,10 @@
             <FileData Type="Normal" Path="ShipsScene/ui/info_bg.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="quality" ActionTag="-406272822" Tag="1242" IconVisible="False" LeftMargin="12.4606" RightMargin="-62.4606" TopMargin="-110.1383" BottomMargin="83.1383" ctype="SpriteObjectData">
+          <AbstractNodeData Name="quality" ActionTag="-406272822" Tag="1242" IconVisible="False" LeftMargin="37.4603" RightMargin="-87.4603" TopMargin="-110.1383" BottomMargin="83.1383" ctype="SpriteObjectData">
             <Size X="50.0000" Y="27.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="37.4606" Y="96.6383" />
+            <Position X="62.4603" Y="96.6383" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -28,10 +28,10 @@
             <FileData Type="Normal" Path="ShipQuality/quality_5.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="ship_name" ActionTag="-1723353640" Tag="1243" IconVisible="False" LeftMargin="70.1351" RightMargin="-148.1351" TopMargin="-109.5710" BottomMargin="80.5710" FontSize="19" LabelText="名字名字" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+          <AbstractNodeData Name="ship_name" ActionTag="-1723353640" Tag="1243" IconVisible="False" LeftMargin="88.1351" RightMargin="-166.1351" TopMargin="-109.5710" BottomMargin="80.5710" FontSize="19" LabelText="名字名字" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
             <Size X="78.0000" Y="29.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="70.1351" Y="95.0710" />
+            <Position X="88.1351" Y="95.0710" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="226" G="239" B="242" />
             <PrePosition />
@@ -40,10 +40,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="226" G="239" B="242" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Button_wen" ActionTag="-1490858234" Tag="1244" IconVisible="False" LeftMargin="234.0750" RightMargin="-257.0750" TopMargin="-109.4836" BottomMargin="86.4836" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="7" RightEage="7" TopEage="11" BottomEage="11" Scale9OriginX="7" Scale9OriginY="11" Scale9Width="9" Scale9Height="1" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="Button_wen" ActionTag="-1490858234" Tag="1244" IconVisible="False" LeftMargin="227.0750" RightMargin="-250.0750" TopMargin="-109.4836" BottomMargin="86.4836" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="7" RightEage="7" TopEage="11" BottomEage="11" Scale9OriginX="7" Scale9OriginY="11" Scale9Width="9" Scale9Height="1" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="23.0000" Y="23.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="245.5750" Y="97.9836" />
+            <Position X="238.5750" Y="97.9836" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

@@ -239,8 +239,7 @@ function ShipsDevelopScene:changeMode()
 				node:getChildByName("selected"):setVisible(true)
                 -- skill
                 local cfg_skill = CONF.WEAPON.get(ship.SKILL)
---				rn:getChildByName("Skilldes"):setString(CONF:getStringValue("BUFF_M50017")..CONF:getStringValue("weapon")..":"..setMemo( cfg_skill ,4))
-                self:setSkilldes(cfg_skill)
+				rn:getChildByName("Skilldes"):setString(CONF:getStringValue("BUFF_M50017")..CONF:getStringValue("weapon")..":"..setMemo( cfg_skill ,4))
 				if rn:getChildByName("roleNode"):getChildByName("node_ship") then
 					rn:getChildByName("roleNode"):getChildByName("node_ship"):removeFromParent();
 				end
@@ -344,8 +343,8 @@ function ShipsDevelopScene:refreshList(flag)
 				local ship = CONF.AIRSHIP.get(v.shipId)
 
                 local cfg_skill = CONF.WEAPON.get(ship.SKILL)
---				rn:getChildByName("Skilldes"):setString(CONF:getStringValue("BUFF_M50017")..CONF:getStringValue("weapon")..":"..setMemo( cfg_skill ,4))
-                self:setSkilldes(cfg_skill)
+				rn:getChildByName("Skilldes"):setString(CONF:getStringValue("BUFF_M50017")..CONF:getStringValue("weapon")..":"..setMemo( cfg_skill ,4))
+
 				if rn:getChildByName("roleNode"):getChildByName("node_ship") then
 					rn:getChildByName("roleNode"):getChildByName("node_ship"):removeFromParent();
 				end
@@ -432,7 +431,7 @@ function ShipsDevelopScene:onEnterTransitionFinish()
 	self:getShipList()
 	self.svd_ = require("util.ScrollViewDelegate"):create(rn:getChildByName("node_list"):getChildByName("list") ,cc.size(5,3), cc.size(140 ,105)) 
 	self.svd_:getScrollView():setScrollBarEnabled(false)
-	if guideManager:getGuideType() and guideManager:guideFinish() == false then
+	if guideManager:getGuideType() then
    		rn:getChildByName("node_list"):getChildByName("list"):setTouchEnabled(false)
     end
 	self:changeMode()
@@ -555,9 +554,9 @@ function ShipsDevelopScene:onEnterTransitionFinish()
 		end
 		local ship = CONF.AIRSHIP.get(self.selectedShip.shipId)
 
---        local cfg_skill = CONF.WEAPON.get(ship.SKILL)
---		rn:getChildByName("Skilldes"):setString(CONF:getStringValue("BUFF_M50017")..CONF:getStringValue("weapon")..":"..setMemo( cfg_skill ,4))
---        self:setSkilldes(cfg_skill)
+        local cfg_skill = CONF.WEAPON.get(ship.SKILL)
+		rn:getChildByName("Skilldes"):setString(CONF:getStringValue("BUFF_M50017")..CONF:getStringValue("weapon")..":"..setMemo( cfg_skill ,4))
+
 		if rn:getChildByName("roleNode"):getChildByName("node_ship") == nil then
 			local node_ship = require("app.ExResInterface"):getInstance():FastLoad("sfx/"..ship.RES_ID);
 			rn:getChildByName("roleNode"):addChild(node_ship);
@@ -726,33 +725,6 @@ function ShipsDevelopScene:creatShipNode(info)
 	node:getChildByName("bg"):setTexture("ShipsScene/ui/ui_avatar_"..cfg_ship.QUALITY..".png")
 	node:getChildByName("type"):setTexture("ShipQuality/quality_"..cfg_ship.QUALITY..".png")
 	return node
-end
-
-function ShipsDevelopScene:setSkilldes(cfg_skill)
-    local rn = self:getResourceNode()
-    local str = CONF:getStringValue("BUFF_M50017")..CONF:getStringValue("weapon")..":"..setMemo( cfg_skill ,4)
-    local skilllist = rn:getChildByName("SkillScrollview")
-    skilllist:removeAllChildren()
-    skilllist:setScrollBarEnabled(false)
-    local listSize = skilllist:getContentSize()
-    local label = cc.Label:createWithTTF(str, s_default_font, 16)
-    label:setLineBreakWithoutSpace(true)
-	label:setMaxLineWidth(listSize.width)
-    local inner_height
-    if label:getContentSize().height > listSize.height then
-		inner_height = label:getContentSize().height
-		label:setPosition(0, inner_height)
-        skilllist:setTouchEnabled(true)
-	else
-		inner_height = listSize.height
-		label:setPosition(0, inner_height - (inner_height-label:getContentSize().height)*0.5)
-		skilllist:setTouchEnabled(false)
-	end
-    label:setAnchorPoint(cc.p(0, 1))
-    label:setHorizontalAlignment(cc.TEXT_ALIGNMENT_LEFT)
-    skilllist:setInnerContainerSize(cc.size(listSize.width, inner_height))
-    label:setName("label")
-    skilllist:addChild(label)
 end
 
 

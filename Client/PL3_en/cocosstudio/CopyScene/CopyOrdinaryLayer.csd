@@ -292,7 +292,7 @@
           </IntFrame>
         </Timeline>
         <Timeline ActionTag="1393260190" Property="Position">
-          <PointFrame FrameIndex="20" X="494.8788" Y="52.6247">
+          <PointFrame FrameIndex="20" X="944.5424" Y="83.8078">
             <EasingData Type="0" />
           </PointFrame>
         </Timeline>
@@ -315,17 +315,17 @@
           <EventFrame FrameIndex="20" Tween="False" Value="1" />
         </Timeline>
         <Timeline ActionTag="169194487" Property="Position">
-          <PointFrame FrameIndex="20" X="624.7878" Y="52.6247">
+          <PointFrame FrameIndex="20" X="1074.4535" Y="83.8078">
             <EasingData Type="0" />
           </PointFrame>
         </Timeline>
         <Timeline ActionTag="1005037766" Property="Position">
-          <PointFrame FrameIndex="20" X="636.2087" Y="52.6262">
+          <PointFrame FrameIndex="20" X="1085.8741" Y="83.8078">
             <EasingData Type="0" />
           </PointFrame>
         </Timeline>
         <Timeline ActionTag="1466728168" Property="Position">
-          <PointFrame FrameIndex="20" X="683.1390" Y="55.7043">
+          <PointFrame FrameIndex="20" X="1132.8047" Y="86.8864">
             <EasingData Type="0" />
           </PointFrame>
         </Timeline>
@@ -833,7 +833,7 @@
           <PointFrame FrameIndex="37" X="932.3399" Y="127.8481">
             <EasingData Type="1" />
           </PointFrame>
-          <PointFrame FrameIndex="47" X="823.9909" Y="88.8481">
+          <PointFrame FrameIndex="47" X="932.3400" Y="115.8482">
             <EasingData Type="1" />
           </PointFrame>
         </Timeline>
@@ -865,7 +865,7 @@
           <PointFrame FrameIndex="37" X="916.8093" Y="129.9697">
             <EasingData Type="7" />
           </PointFrame>
-          <PointFrame FrameIndex="47" X="808.4667" Y="93.9696">
+          <PointFrame FrameIndex="47" X="916.8093" Y="120.9697">
             <EasingData Type="1" />
           </PointFrame>
         </Timeline>
@@ -929,7 +929,7 @@
           <PointFrame FrameIndex="37" X="276.8396" Y="578.1002">
             <EasingData Type="1" />
           </PointFrame>
-          <PointFrame FrameIndex="47" X="172.8400" Y="616.1008">
+          <PointFrame FrameIndex="47" X="276.8397" Y="582.1003">
             <EasingData Type="1" />
           </PointFrame>
         </Timeline>
@@ -961,7 +961,7 @@
           <PointFrame FrameIndex="37" X="263.2096" Y="579.6767">
             <EasingData Type="1" />
           </PointFrame>
-          <PointFrame FrameIndex="47" X="159.2103" Y="622.6771">
+          <PointFrame FrameIndex="47" X="263.2099" Y="588.6765">
             <EasingData Type="1" />
           </PointFrame>
         </Timeline>
@@ -1580,49 +1580,49 @@
             <FileData Type="Normal" Path="Common/newUI/bz_wl01.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="strength" ActionTag="1393260190" UserData="bottom" Tag="1096" IconVisible="False" LeftMargin="494.8788" RightMargin="507.1212" TopMargin="698.8753" BottomMargin="36.1247" FontSize="22" LabelText="use strength" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="strength" ActionTag="1393260190" UserData="bottom" Tag="1096" IconVisible="False" LeftMargin="944.5424" RightMargin="57.4575" TopMargin="667.6922" BottomMargin="67.3078" FontSize="22" LabelText="use strength" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="134.0000" Y="33.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="494.8788" Y="52.6247" />
+            <Position X="944.5424" Y="83.8078" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="132" G="171" B="210" />
-            <PrePosition X="0.4356" Y="0.0685" />
+            <PrePosition X="0.8315" Y="0.1091" />
             <PreSize X="0.1180" Y="0.0430" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="132" G="171" B="210" />
           </AbstractNodeData>
-          <AbstractNodeData Name="strength_num" ActionTag="169194487" Alpha="0" UserData="bottom" Tag="1097" IconVisible="False" LeftMargin="624.7878" RightMargin="496.2122" TopMargin="698.8753" BottomMargin="36.1247" FontSize="22" LabelText="0" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="strength_num" ActionTag="169194487" Alpha="0" UserData="bottom" Tag="1097" IconVisible="False" LeftMargin="1074.4535" RightMargin="46.5465" TopMargin="667.6922" BottomMargin="67.3078" FontSize="22" LabelText="0" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="15.0000" Y="33.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="624.7878" Y="52.6247" />
+            <Position X="1074.4535" Y="83.8078" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="33" G="255" B="70" />
-            <PrePosition X="0.5500" Y="0.0685" />
+            <PrePosition X="0.9458" Y="0.1091" />
             <PreSize X="0.0132" Y="0.0430" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="33" G="255" B="70" />
           </AbstractNodeData>
-          <AbstractNodeData Name="strength_num_my" ActionTag="1005037766" Alpha="0" UserData="bottom" Tag="1072" IconVisible="False" LeftMargin="636.2087" RightMargin="455.7913" TopMargin="700.3738" BottomMargin="37.6262" FontSize="20" LabelText="/200" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="strength_num_my" ActionTag="1005037766" Alpha="0" UserData="bottom" Tag="1072" IconVisible="False" LeftMargin="1085.8741" RightMargin="6.1259" TopMargin="669.1922" BottomMargin="68.8078" FontSize="20" LabelText="/200" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="44.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="636.2087" Y="52.6262" />
+            <Position X="1085.8741" Y="83.8078" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="209" G="209" B="209" />
-            <PrePosition X="0.5600" Y="0.0685" />
+            <PrePosition X="0.9559" Y="0.1091" />
             <PreSize X="0.0387" Y="0.0391" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="209" G="209" B="209" />
           </AbstractNodeData>
-          <AbstractNodeData Name="strength_icon" ActionTag="1466728168" Alpha="0" UserData="bottom" Tag="218" IconVisible="False" LeftMargin="683.1390" RightMargin="430.8610" TopMargin="694.7957" BottomMargin="38.2043" LeftEage="7" RightEage="7" TopEage="11" BottomEage="11" Scale9OriginX="7" Scale9OriginY="10" Scale9Width="8" Scale9Height="1" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="strength_icon" ActionTag="1466728168" Alpha="0" UserData="bottom" Tag="218" IconVisible="False" LeftMargin="1132.8047" RightMargin="-18.8047" TopMargin="663.6136" BottomMargin="69.3864" LeftEage="7" RightEage="7" TopEage="11" BottomEage="11" Scale9OriginX="7" Scale9OriginY="10" Scale9Width="8" Scale9Height="1" ctype="ImageViewObjectData">
             <Size X="22.0000" Y="35.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="683.1390" Y="55.7043" />
+            <Position X="1132.8047" Y="86.8864" />
             <Scale ScaleX="1.0000" ScaleY="0.6000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.6014" Y="0.0725" />
+            <PrePosition X="0.9972" Y="0.1131" />
             <PreSize X="0.0194" Y="0.0456" />
             <FileData Type="Normal" Path="Common/newUI/icon_power.png" Plist="" />
           </AbstractNodeData>

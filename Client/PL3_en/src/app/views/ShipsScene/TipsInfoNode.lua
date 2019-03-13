@@ -375,7 +375,7 @@ function TipsInfoNode:createEquipNode(id,takeoff,data)
     node_info:addChild(btn1)
     local btn_label1 = cc.Label:createWithTTF(CONF:getStringValue("STRENGTHEN_TEXT_11"), "fonts/cuyabra.ttf", 20)
     if takeoff then
-        btn_label1 = cc.Label:createWithTTF(CONF:getStringValue("take off").." "..CONF:getStringValue("equip"), "fonts/cuyabra.ttf", 20)
+        btn_label1 = cc.Label:createWithTTF(CONF:getStringValue("take off")..CONF:getStringValue("equip"), "fonts/cuyabra.ttf", 20)
     end
     btn_label1:setPosition(btn1:getContentSize().width/2,btn1:getContentSize().height/2)
     -- btn_label1:enableShadow(cc.c4b(255, 255, 255, 255),cc.size(0.2,0.2))
@@ -725,32 +725,16 @@ function TipsInfoNode:createSkillNode(id, takeoff,data)
     label7:setMaxLineWidth(math.abs(node_info:getChildByName("label6"):getPositionX()) - node_info:getChildByName("label6"):getContentSize().width - 6)
     label7:setHorizontalAlignment(cc.TEXT_ALIGNMENT_LEFT)
     -- label7:enableShadow(cc.c4b(255, 255, 255, 255),cc.size(0.2,0.2))
-
-    local effect_list = node_info:getChildByName("effect_list")
-    local listSize = effect_list:getContentSize()
-    effect_list:setPosition(label7:getPositionX(),label7:getPositionY())
-    local inner_height
-	if label7:getContentSize().height > listSize.height then
-		inner_height = label7:getContentSize().height
-		label7:setPosition(0, inner_height)
-	else
-		inner_height = listSize.height
-		label7:setPosition(0, inner_height - (inner_height-label7:getContentSize().height)*0.5)
-		effect_list:setTouchEnabled(false)
-	end
-    label7:setAnchorPoint(cc.p(0, 1))
-    label7:setHorizontalAlignment(cc.TEXT_ALIGNMENT_LEFT)
-	effect_list:setInnerContainerSize(cc.size(listSize.width, inner_height))
     label7:setName("label7")
-    effect_list:addChild(label7)
+    node_info:addChild(label7)
 
-    local height4 = math.max(node_info:getChildByName("label6"):getContentSize().height + textLine,node_info:getChildByName("effect_list"):getContentSize().height + textLine)
+    local height4 = math.max(node_info:getChildByName("label6"):getContentSize().height + textLine,node_info:getChildByName("label7"):getContentSize().height + textLine)
     height4 = 128
     bg_height = bg_height + height4
     if Tools.isEmpty(data) == false then
         local line = node:getChildByName("line"):setVisible(true)
         line:setAnchorPoint(cc.p(0,1))
-        line:setPosition(label6:getPositionX(),effect_list:getPositionY()-height4-textLine)
+        line:setPosition(label6:getPositionX(),label7:getPositionY()-height4-textLine)
         line:setContentSize(cc.size(math.abs(node_info:getChildByName("label6"):getPositionX())*2 - math.abs(node_info:getChildByName("name_bg"):getPositionX()),2))
         bg_height = bg_height + line:getContentSize().height + textLine
 
@@ -808,7 +792,7 @@ function TipsInfoNode:createSkillNode(id, takeoff,data)
         local label8 = cc.Label:createWithTTF(CONF:getStringValue("Attr_1")..":", "fonts/cuyabra.ttf", 16)
         label8:setName("label8")
         label8:setAnchorPoint(cc.p(0,1))
-        label8:setPosition(node_info:getChildByName("label6"):getPositionX(),node_info:getChildByName("effect_list"):getPositionY()-node_info:getChildByName("effect_list"):getContentSize().height-textLine)
+        label8:setPosition(node_info:getChildByName("label6"):getPositionX(),node_info:getChildByName("label7"):getPositionY()-node_info:getChildByName("label7"):getContentSize().height-textLine)
         label8:setTextColor(cc.c4b(237, 237, 193, 255))
         -- label8:enableShadow(cc.c4b(237, 237, 193, 255),cc.size(0.2,0.2))
         node_info:addChild(label8)

@@ -286,10 +286,10 @@ function AttributeLayer:setData(  )
 	rn:getChildByName("achieve"):getChildByName("text"):setString(CONF.STRING.get("achievement").VALUE)
 	rn:getChildByName("state"):getChildByName("text_selected"):setString(CONF.STRING.get("state").VALUE)
 	rn:getChildByName("achieve"):getChildByName("text_selected"):setString(CONF.STRING.get("achievement").VALUE)
-	rn:getChildByName("rank"):getChildByName("text"):setString(CONF.STRING.get("rank").VALUE);
-	rn:getChildByName("rank"):getChildByName("text_selected"):setString(CONF.STRING.get("rank").VALUE);
-	rn:getChildByName("setting"):getChildByName("text"):setString(CONF.STRING.get("setting").VALUE);
-	rn:getChildByName("setting"):getChildByName("text_selected"):setString(CONF.STRING.get("setting").VALUE);
+	--rn:getChildByName("rank"):getChildByName("text"):setString(CONF.STRING.get("rank").VALUE);
+	--rn:getChildByName("rank"):getChildByName("text_selected"):setString(CONF.STRING.get("rank").VALUE);
+	--rn:getChildByName("setting"):getChildByName("text"):setString(CONF.STRING.get("setting").VALUE);
+	--rn:getChildByName("setting"):getChildByName("text_selected"):setString(CONF.STRING.get("setting").VALUE);
 	heroinfo:getChildByName("lv"):setString("LV." .. player:getLevel())
 	heroinfo:getChildByName("playerName"):setString(player:getNickName())
 	heroinfo:getChildByName("setName"):setPositionX(heroinfo:getChildByName("playerName"):getPositionX() + heroinfo:getChildByName("playerName"):getContentSize().width + 5)
@@ -458,12 +458,12 @@ function AttributeLayer:setData(  )
 	other_info:getChildByName('jianzhu'):setString(CONF:getStringValue('buildingPower'))
 	other_info:getChildByName('shangzhen'):setString(CONF:getStringValue('all_ship_power'))
 	other_info:getChildByName('keji'):setString(CONF:getStringValue('techPower'))
-	other_info:getChildByName('jianzhu_power'):setString(CONF:getStringValue('power')..' '..self:getBuildPower())
+	other_info:getChildByName('jianzhu_power'):setString(CONF:getStringValue('combat')..' '..self:getBuildPower())
 	other_info:getChildByName('shangzhen_power'):setString(CONF:getStringValue('sumPower')..' '..player:getAllShipFightPower())
 	other_info:getChildByName('keji_power'):setString(CONF:getStringValue('sumPower')..' '..self:getTechPower())
 	other_info:getChildByName('paihang'):setString(CONF:getStringValue('rank'))
 	other_info:getChildByName('zhandou'):setString(CONF:getStringValue('BattleList'))
-	local labels = {"player_power" ,"PlayerLevel" ,"BuildingName_1" ,"leaguePower" ,"arena" ,"trial_rank"}
+	local labels = {"player_power" ,"PlayerLevel" ,"CentreLevel" ,"leaguePower" ,"arena_rank" ,"trial_rank"}
 	local nums = {"powerNum" ,"levelNum" ,"centreNum" ,"leagueNum" ,"arenaNum" ,"trialNum"}
 	local maxPaihangWidth = 0
 	for i=1,6 do

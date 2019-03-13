@@ -91,8 +91,8 @@
           </AbstractNodeData>
           <AbstractNodeData Name="Text_3" ActionTag="409913954" Tag="385" IconVisible="False" LeftMargin="45.7213" RightMargin="-128.7213" TopMargin="173.3484" BottomMargin="-203.3484" FontSize="20" LabelText="队伍信息" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
             <Size X="83.0000" Y="30.0000" />
-            <AnchorPoint ScaleY="0.5000" />
-            <Position X="45.7213" Y="-188.3484" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="87.2213" Y="-188.3484" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

@@ -348,9 +348,9 @@ function PlanetWorldLayer:onEnterTransitionFinish()
 				end
 				self:getChildByName("WorldNode2"):getChildByName("king"):setString(king_name)
 				self:getChildByName("WorldNode2"):getChildByName("time"):setString(formatTime(addTime))
-				self:getChildByName("WorldNode2"):getChildByName("state"):setString(CONF:getStringValue("state_protection")..":")
+				self:getChildByName("WorldNode2"):getChildByName("state"):setString("保护状态:")
 				if self.wangzuoData.status == 2 then
-					self:getChildByName("WorldNode2"):getChildByName("state"):setString(CONF:getStringValue("state_competing")..":")
+					self:getChildByName("WorldNode2"):getChildByName("state"):setString("争夺状态:")
 				end
 				self:getChildByName("WorldNode2"):getChildByName("state"):setPositionX(self:getChildByName("WorldNode2"):getChildByName("time"):getPositionX()-self:getChildByName("WorldNode2"):getChildByName("time"):getContentSize().width)
 			end

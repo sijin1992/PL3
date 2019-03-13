@@ -419,52 +419,27 @@ function BlueprintScene:refreshInfo(v)
 	local strNum = CONF.AIRSHIP.get(CONF.ITEM.get(v.id).SHIPID).BLUEPRINT_NUM[1]
 	local strName = CONF:getStringValue(CONF.AIRSHIP.get(CONF.ITEM.get(v.id).SHIPID).NAME_ID)
 	local str = string.gsub(string.gsub(CONF:getStringValue(CONF.ITEM.get(v.id).MEMO_ID),"%%d",strNum),"%%h",strName)
---	if right:getChildByName("richTxt") then
---		right:getChildByName("richTxt"):removeFromParent()
---	end
-    if right:getChildByName("ship_des"):getChildByName("label") then
-		right:getChildByName("ship_des"):getChildByName("label"):removeFromParent()
+	if right:getChildByName("richTxt") then
+		right:getChildByName("richTxt"):removeFromParent()
 	end
---	local richTxt = ccui.RichText:create();
---	local richEleTxt1 = ccui.RichElementText:create(1, {r=255,g=255,b=255}, 255,str, s_default_font, 19);
+	local richTxt = ccui.RichText:create();
+	local richEleTxt1 = ccui.RichElementText:create(1, {r=255,g=255,b=255}, 255,str, s_default_font, 19);
 	--local richEleName = ccui.RichElementText:create(1, {r=255,g=0,b=0}, 255, strName, s_default_font, 19);
 	--local richEleTxt2 = ccui.RichElementText:create(1, {r=255,g=255,b=255}, 255,str, s_default_font, 19);
 	--local richEleTxt3 = ccui.RichElementText:create(1, {r=255,g=0,b=0}, 255, strName, s_default_font, 19);
 	--right:getChildByName("piece_des"):setString(str)
 	right:getChildByName("piece_des"):setVisible(false);
---	local size = right:getChildByName("piece_des"):getContentSize();
---	richTxt:setContentSize(size.width, size.height);
---	richTxt:setAnchorPoint(0,1);
---	richTxt:setPosition(right:getChildByName("piece_des"):getPosition());
---	richTxt:pushBackElement(richEleTxt1);
---	--richTxt:pushBackElement(richEleName);
---	richTxt:ignoreContentAdaptWithSize(false);
---	richTxt:formatText();
---	right:addChild(richTxt);
---	richTxt:setName("richTxt")
---	richTxt:setTag(1001);
-
-    str = string.gsub(str, "<br/>", "\n")
-    local ship_des = right:getChildByName("ship_des")
-	ship_des:setScrollBarEnabled(false)
-	local listSize = ship_des:getContentSize()
-    local label = cc.Label:createWithTTF(str, s_default_font, 20 )--cc.size(listSize.width, 0))
-	label:setLineBreakWithoutSpace(true)
-	label:setMaxLineWidth(listSize.width)
-	local inner_height
-	if label:getContentSize().height > listSize.height then
-		inner_height = label:getContentSize().height
-		label:setPosition(0, inner_height)
-	else
-		inner_height = listSize.height
-		label:setPosition(0, inner_height - (inner_height-label:getContentSize().height)*0.5)
-		ship_des:setTouchEnabled(false)
-	end
-	label:setAnchorPoint(cc.p(0, 1))
-	label:setHorizontalAlignment(cc.TEXT_ALIGNMENT_LEFT)
-	ship_des:setInnerContainerSize(cc.size(listSize.width, inner_height))
-    label:setName("label")
-	ship_des:addChild(label)
+	local size = right:getChildByName("piece_des"):getContentSize();
+	richTxt:setContentSize(size.width, size.height);
+	richTxt:setAnchorPoint(0,1);
+	richTxt:setPosition(right:getChildByName("piece_des"):getPosition());
+	richTxt:pushBackElement(richEleTxt1);
+	--richTxt:pushBackElement(richEleName);
+	richTxt:ignoreContentAdaptWithSize(false);
+	richTxt:formatText();
+	right:addChild(richTxt);
+	richTxt:setName("richTxt")
+	richTxt:setTag(1001);
 
     local function showjumplayer(jumpTab)
         if Tools.isEmpty(jumpTab) == false and not self:getChildByName("JumpChoseLayer") then

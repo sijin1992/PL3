@@ -2479,7 +2479,6 @@ function ActivityScene:createConvertNode( flag )
     --ui
     local convertlist = require("util.ScrollViewDelegate"):create(convertNode:getChildByName("list"),cc.size(10,10), cc.size(680,100))
     convertNode:getChildByName("list"):setScrollBarEnabled(false)
-    convertNode:getChildByName("Text_1"):setString(CONF:getStringValue("activity_time"))
     for k,v in ipairs(conf_list) do
         local time_num = self:SearchIDForTime(v.ID)
         local node_conf = require("app.views.OperatingActivitieScene.PropConvertNode"):create():init({time = time_num ,conf = v ,isOperat = false})

@@ -49,10 +49,10 @@
             <FileData Type="Normal" Path="Common/newUI/dian05.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="name" ActionTag="-296393387" Tag="457" RotationSkewX="8.0001" IconVisible="False" LeftMargin="-32.2901" RightMargin="-5.7099" TopMargin="-14.3598" BottomMargin="-9.6402" FontSize="16" LabelText="aaaa" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="38.0000" Y="24.0000" />
+          <AbstractNodeData Name="name" ActionTag="-296393387" Tag="457" RotationSkewX="8.0001" IconVisible="False" LeftMargin="-28.2901" RightMargin="-17.7099" TopMargin="-16.8599" BottomMargin="-12.1401" FontSize="19" LabelText="aaaa" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="46.0000" Y="29.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="-32.2901" Y="2.3598" />
+            <Position X="-28.2901" Y="2.3599" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

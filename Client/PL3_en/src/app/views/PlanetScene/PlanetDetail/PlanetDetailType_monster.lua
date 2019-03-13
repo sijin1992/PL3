@@ -74,21 +74,17 @@ function PlanetDetailType_monster:showPlanetInfo(data)
         node_detail:getChildByName('resName'):setString(CONF:getStringValue(CONF.PLANETCREEPS.get(data.monster_data.id).NAME)) -- 野怪名字
 	node_detail:getChildByName('des_level'):setString(CONF:getStringValue('level_ji')..':') -- 等级
     node_detail:getChildByName('resLevel'):setString(CONF.PLANETCREEPS.get(data.monster_data.id).LEVEL)
-    node_detail:getChildByName('resLevel'):setPosition(node_detail:getChildByName('des_level'):getPositionX()+node_detail:getChildByName('des_level'):getContentSize().width+5,node_detail:getChildByName('resLevel'):getPositionY())
 	node_detail:getChildByName('des_num'):setString(CONF:getStringValue('use strength')..':') -- 消耗体力
     node_detail:getChildByName('text_num'):setString(CONF.PLANETCREEPS.get(data.monster_data.id).STRENGTH)
-    node_detail:getChildByName('text_num'):setPosition(node_detail:getChildByName('des_num'):getPositionX()+node_detail:getChildByName('des_num'):getContentSize().width+5,node_detail:getChildByName('text_num'):getPositionY())
     local movetime = self:getTime(data) -- 移动时间
     node_detail:getChildByName('des_name'):setVisible(movetime ~= nil)
 	node_detail:getChildByName('text_name'):setVisible(movetime ~= nil)
 	if movetime then
         node_detail:getChildByName('des_name'):setString(CONF:getStringValue('yidong_time')..':')
 		node_detail:getChildByName('text_name'):setString(formatTime(movetime))
-        node_detail:getChildByName('text_name'):setPosition(node_detail:getChildByName('des_name'):getPositionX()+node_detail:getChildByName('des_name'):getContentSize().width+5,node_detail:getChildByName('text_name'):getPositionY())
 	end
     node_detail:getChildByName('des_name1'):setString(CONF:getStringValue('recommend')..CONF:getStringValue('combat')..':') -- 推荐战力
     node_detail:getChildByName('text_name1'):setString(CONF.PLANETCREEPS.get(data.monster_data.id).RECOMMENDED)
-    node_detail:getChildByName('text_name1'):setPosition(node_detail:getChildByName('des_name1'):getPositionX()+node_detail:getChildByName('des_name1'):getContentSize().width+5,node_detail:getChildByName('text_name1'):getPositionY())
 
     node_detail:getChildByName('des_name2'):setVisible(false)
     node_detail:getChildByName('text_name2'):setVisible(false)

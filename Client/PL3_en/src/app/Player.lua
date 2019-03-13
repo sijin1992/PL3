@@ -615,7 +615,7 @@ function Player:ctor()
 			local proto = Tools.decode("HeartBeatResp",strData)
 			if proto.result == "OK" then
 				self.data_.nowtime = proto.nowtime
-				print("update time:",self.data_.nowtime)
+				printInfo("update time:",self.data_.nowtime)
 			end
 			return
 		end

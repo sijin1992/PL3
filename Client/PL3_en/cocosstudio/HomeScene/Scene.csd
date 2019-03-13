@@ -284,7 +284,7 @@
           </ScaleFrame>
         </Timeline>
         <Timeline ActionTag="-1774794101" Property="Alpha">
-          <IntFrame FrameIndex="0" Value="255">
+          <IntFrame FrameIndex="0" Value="0">
             <EasingData Type="0" />
           </IntFrame>
           <IntFrame FrameIndex="20" Value="255">
@@ -661,7 +661,7 @@
           <AbstractNodeData Name="Panel_2" ActionTag="467150995" UserData="righttop" Tag="380" IconVisible="False" LeftMargin="538.0533" RightMargin="-2.0532" TopMargin="0.1703" BottomMargin="717.8297" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
             <Size X="600.0000" Y="50.0000" />
             <Children>
-              <AbstractNodeData Name="res_5" ActionTag="1815465791" Alpha="0" Tag="434" IconVisible="False" LeftMargin="105.7789" RightMargin="394.2211" TopMargin="12.4085" BottomMargin="-12.4085" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+              <AbstractNodeData Name="res_5" ActionTag="1815465791" Tag="434" IconVisible="False" LeftMargin="105.7789" RightMargin="394.2211" TopMargin="12.4085" BottomMargin="-12.4085" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="100.0000" Y="50.0000" />
                 <Children>
                   <AbstractNodeData Name="money_touch" ActionTag="-1122498964" Alpha="0" Tag="654" IconVisible="False" LeftMargin="16.1963" RightMargin="-61.0137" TopMargin="-0.5364" BottomMargin="4.5364" TouchEnable="True" Scale9Width="46" Scale9Height="46" ctype="ImageViewObjectData">
@@ -735,7 +735,7 @@
                 <EndColor A="255" R="255" G="255" B="255" />
                 <ColorVector ScaleY="1.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="res_4" ActionTag="1518359232" Alpha="0" Tag="433" IconVisible="False" LeftMargin="416.3172" RightMargin="83.6828" TopMargin="37.8428" BottomMargin="-12.8428" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+              <AbstractNodeData Name="res_4" ActionTag="1518359232" Tag="433" IconVisible="False" LeftMargin="416.3172" RightMargin="83.6828" TopMargin="37.8428" BottomMargin="-12.8428" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="100.0000" Y="25.0000" />
                 <Children>
                   <AbstractNodeData Name="icon" ActionTag="-1924374346" Tag="3438" IconVisible="False" LeftMargin="-24.4383" RightMargin="48.4383" TopMargin="-24.9894" BottomMargin="-28.0106" ctype="SpriteObjectData">
@@ -773,7 +773,7 @@
                 <EndColor A="255" R="255" G="255" B="255" />
                 <ColorVector ScaleY="1.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="res_3" ActionTag="-231685633" Alpha="0" Tag="432" IconVisible="False" LeftMargin="416.3172" RightMargin="83.6828" TopMargin="12.9156" BottomMargin="12.0844" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+              <AbstractNodeData Name="res_3" ActionTag="-231685633" Tag="432" IconVisible="False" LeftMargin="416.3172" RightMargin="83.6828" TopMargin="14.8900" BottomMargin="10.1100" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="100.0000" Y="25.0000" />
                 <Children>
                   <AbstractNodeData Name="icon" ActionTag="418741230" Tag="3442" IconVisible="False" LeftMargin="-16.2571" RightMargin="56.2571" TopMargin="-28.7269" BottomMargin="-27.2731" ctype="SpriteObjectData">
@@ -801,17 +801,17 @@
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint />
-                <Position X="416.3172" Y="12.0844" />
+                <Position X="416.3172" Y="10.1100" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.6939" Y="0.2417" />
+                <PrePosition X="0.6939" Y="0.2022" />
                 <PreSize X="0.1667" Y="0.5000" />
                 <SingleColor A="255" R="150" G="200" B="255" />
                 <FirstColor A="255" R="150" G="200" B="255" />
                 <EndColor A="255" R="255" G="255" B="255" />
                 <ColorVector ScaleY="1.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="res_2" ActionTag="-862314368" Alpha="0" Tag="431" IconVisible="False" LeftMargin="302.0721" RightMargin="197.9279" TopMargin="36.7169" BottomMargin="-11.7169" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+              <AbstractNodeData Name="res_2" ActionTag="-862314368" Tag="431" IconVisible="False" LeftMargin="302.0721" RightMargin="197.9279" TopMargin="36.7169" BottomMargin="-11.7169" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="100.0000" Y="25.0000" />
                 <Children>
                   <AbstractNodeData Name="icon" ActionTag="-2005584225" Tag="3446" IconVisible="False" LeftMargin="-22.4104" RightMargin="50.4104" TopMargin="-21.2271" BottomMargin="-25.7729" ctype="SpriteObjectData">
@@ -849,7 +849,7 @@
                 <EndColor A="255" R="255" G="255" B="255" />
                 <ColorVector ScaleY="1.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="res_1" ActionTag="-890799290" Alpha="0" Tag="430" IconVisible="False" LeftMargin="302.0721" RightMargin="197.9279" TopMargin="11.8705" BottomMargin="13.1295" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+              <AbstractNodeData Name="res_1" ActionTag="-890799290" Tag="430" IconVisible="False" LeftMargin="302.0721" RightMargin="197.9279" TopMargin="11.8705" BottomMargin="13.1295" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="100.0000" Y="25.0000" />
                 <Children>
                   <AbstractNodeData Name="icon" ActionTag="-2077083274" Tag="3450" IconVisible="False" LeftMargin="-22.4102" RightMargin="50.4102" TopMargin="-24.4807" BottomMargin="-22.5193" ctype="SpriteObjectData">
@@ -887,13 +887,13 @@
                 <EndColor A="255" R="255" G="255" B="255" />
                 <ColorVector ScaleY="1.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="close" ActionTag="1985728697" Alpha="0" Tag="1501" IconVisible="False" LeftMargin="527.8583" RightMargin="-37.8583" TopMargin="-4.3445" BottomMargin="-21.6555" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="80" Scale9Height="54" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+              <AbstractNodeData Name="close" ActionTag="1985728697" Tag="1501" IconVisible="False" LeftMargin="487.3202" RightMargin="2.6798" TopMargin="-1.6398" BottomMargin="-24.3602" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="80" Scale9Height="54" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="110.0000" Y="76.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="582.8583" Y="16.3445" />
-                <Scale ScaleX="0.9000" ScaleY="0.9000" />
+                <Position X="542.3202" Y="13.6398" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.9714" Y="0.3269" />
+                <PrePosition X="0.9039" Y="0.2728" />
                 <PreSize X="0.1833" Y="1.5200" />
                 <TextColor A="255" R="65" G="65" B="70" />
                 <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
@@ -902,7 +902,7 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="line_2" ActionTag="-2086189533" Alpha="0" Tag="423" IconVisible="False" LeftMargin="415.5155" RightMargin="183.4845" TopMargin="13.0718" BottomMargin="-12.0718" TopEage="16" BottomEage="16" Scale9OriginY="16" Scale9Width="1" Scale9Height="17" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="line_2" ActionTag="-2086189533" Tag="423" IconVisible="False" LeftMargin="415.5155" RightMargin="183.4845" TopMargin="13.0718" BottomMargin="-12.0718" TopEage="16" BottomEage="16" Scale9OriginY="16" Scale9Width="1" Scale9Height="17" ctype="ImageViewObjectData">
                 <Size X="1.0000" Y="49.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="416.0155" Y="12.4282" />
@@ -912,7 +912,7 @@
                 <PreSize X="0.0017" Y="0.9800" />
                 <FileData Type="Normal" Path="Common/newUI/line_fg01.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="line_3" ActionTag="591141994" Alpha="0" Tag="428" IconVisible="False" LeftMargin="301.3102" RightMargin="297.6898" TopMargin="13.0718" BottomMargin="-12.0718" TopEage="16" BottomEage="16" Scale9OriginY="16" Scale9Width="1" Scale9Height="17" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="line_3" ActionTag="591141994" Tag="428" IconVisible="False" LeftMargin="301.3102" RightMargin="297.6898" TopMargin="13.0718" BottomMargin="-12.0718" TopEage="16" BottomEage="16" Scale9OriginY="16" Scale9Width="1" Scale9Height="17" ctype="ImageViewObjectData">
                 <Size X="1.0000" Y="49.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="301.8102" Y="12.4282" />
@@ -934,7 +934,7 @@
             <EndColor A="255" R="255" G="255" B="255" />
             <ColorVector ScaleY="1.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Panel_1" ActionTag="-1774794101" UserData="lefttop" Tag="379" IconVisible="False" LeftMargin="-29.1788" RightMargin="665.1788" TopMargin="2.8246" BottomMargin="565.1754" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+          <AbstractNodeData Name="Panel_1" ActionTag="-1774794101" UserData="lefttop" Tag="379" IconVisible="False" LeftMargin="0.8211" RightMargin="635.1789" TopMargin="2.8246" BottomMargin="565.1754" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
             <Size X="500.0000" Y="200.0000" />
             <Children>
               <AbstractNodeData Name="title_bg" ActionTag="758339702" UserData="lefttop" Tag="419" IconVisible="False" LeftMargin="-2.4739" RightMargin="-148.5261" TopMargin="-3.1076" BottomMargin="134.1076" Scale9Enable="True" LeftEage="20" RightEage="178" TopEage="22" BottomEage="22" Scale9OriginX="20" Scale9OriginY="22" Scale9Width="453" Scale9Height="25" ctype="ImageViewObjectData">
@@ -1000,7 +1000,7 @@
                 <PreSize X="0.1320" Y="0.0900" />
                 <FileData Type="Normal" Path="Common/newUI/mask_k02.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="alloy" ActionTag="-426976697" UserData="lefttop" Tag="588" IconVisible="False" LeftMargin="65.9149" RightMargin="341.0851" TopMargin="-0.1278" BottomMargin="159.1278" IsCustomSize="True" FontSize="14" LabelText="冶炼厂" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="alloy" ActionTag="-426976697" UserData="lefttop" Tag="588" IconVisible="False" LeftMargin="65.9149" RightMargin="341.0851" TopMargin="-0.1278" BottomMargin="159.1278" IsCustomSize="True" FontSize="19" LabelText="冶炼厂" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="93.0000" Y="41.0000" />
                 <AnchorPoint ScaleY="0.5000" />
                 <Position X="65.9149" Y="179.6278" />
@@ -1101,7 +1101,7 @@
                 <FileData Type="Normal" Path="Common/ui/ui_icon_002.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="crystal" ActionTag="-1437353343" UserData="lefttop" Tag="943" IconVisible="False" LeftMargin="230.0604" RightMargin="172.9396" TopMargin="-0.1279" BottomMargin="159.1279" IsCustomSize="True" FontSize="14" LabelText="晶体加工厂" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="crystal" ActionTag="-1437353343" UserData="lefttop" Tag="943" IconVisible="False" LeftMargin="230.0604" RightMargin="172.9396" TopMargin="-0.1279" BottomMargin="159.1279" IsCustomSize="True" FontSize="19" LabelText="晶体加工厂" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="97.0000" Y="41.0000" />
                 <AnchorPoint ScaleY="0.5000" />
                 <Position X="230.0604" Y="179.6279" />
@@ -1202,7 +1202,7 @@
                 <FileData Type="Normal" Path="Common/ui/ui_icon_003.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="energy" ActionTag="1472060635" UserData="lefttop" Tag="1023" IconVisible="False" LeftMargin="392.4179" RightMargin="18.5821" TopMargin="-0.1279" BottomMargin="159.1279" IsCustomSize="True" FontSize="14" LabelText="Energy&#xA;Energy" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="energy" ActionTag="1472060635" UserData="lefttop" Tag="1023" IconVisible="False" LeftMargin="392.4179" RightMargin="18.5821" TopMargin="-0.1279" BottomMargin="159.1279" IsCustomSize="True" FontSize="19" LabelText="Energy&#xA;Energy" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="89.0000" Y="41.0000" />
                 <AnchorPoint ScaleY="0.5000" />
                 <Position X="392.4179" Y="179.6279" />
@@ -1264,17 +1264,17 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint />
-            <Position X="-29.1788" Y="565.1754" />
+            <Position X="0.8211" Y="565.1754" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="-0.0257" Y="0.7359" />
+            <PrePosition X="0.0007" Y="0.7359" />
             <PreSize X="0.4401" Y="0.2604" />
             <SingleColor A="255" R="150" G="200" B="255" />
             <FirstColor A="255" R="150" G="200" B="255" />
             <EndColor A="255" R="255" G="255" B="255" />
             <ColorVector ScaleY="1.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Panel_3" ActionTag="394449068" Alpha="0" UserData="leftbottom" Tag="1415" IconVisible="False" LeftMargin="-16.7653" RightMargin="952.7653" TopMargin="568.4253" BottomMargin="-0.4253" TouchEnable="True" ClipAble="False" BackColorAlpha="1" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+          <AbstractNodeData Name="Panel_3" ActionTag="394449068" UserData="leftbottom" Tag="1415" IconVisible="False" LeftMargin="0.2347" RightMargin="935.7653" TopMargin="568.4253" BottomMargin="-0.4253" TouchEnable="True" ClipAble="False" BackColorAlpha="1" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
             <Size X="200.0000" Y="200.0000" />
             <Children>
               <AbstractNodeData Name="all_num_text1" ActionTag="985277591" Tag="186" IconVisible="False" LeftMargin="28.2578" RightMargin="146.7422" TopMargin="150.8795" BottomMargin="19.1205" FontSize="20" LabelText="12" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
@@ -1457,10 +1457,10 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint />
-            <Position X="-16.7653" Y="-0.4253" />
+            <Position X="0.2347" Y="-0.4253" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="-0.0148" Y="-0.0006" />
+            <PrePosition X="0.0002" Y="-0.0006" />
             <PreSize X="0.1761" Y="0.2604" />
             <SingleColor A="255" R="150" G="200" B="255" />
             <FirstColor A="255" R="150" G="200" B="255" />

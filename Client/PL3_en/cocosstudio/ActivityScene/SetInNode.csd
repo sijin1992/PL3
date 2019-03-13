@@ -52,10 +52,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="145" B="136" />
           </AbstractNodeData>
-          <AbstractNodeData Name="av_ins" ActionTag="-2072577516" Tag="103" IconVisible="False" LeftMargin="35.5121" RightMargin="-535.5121" TopMargin="-449.2003" BottomMargin="367.0303" IsCustomSize="True" FontSize="26" LabelText="累计充值活动名称&#xA;兑换" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="av_ins" ActionTag="-2072577516" Tag="103" IconVisible="False" LeftMargin="52.5114" RightMargin="-552.5114" TopMargin="-449.2002" BottomMargin="367.0302" IsCustomSize="True" FontSize="26" LabelText="累计充值活动名称&#xA;兑换" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
             <Size X="500.0000" Y="82.1700" />
             <AnchorPoint ScaleY="1.0000" />
-            <Position X="35.5121" Y="449.2003" />
+            <Position X="52.5114" Y="449.2002" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="254" G="255" B="253" />
             <PrePosition />

@@ -218,7 +218,7 @@ function DailyTaskNode:resetActive( )
 
 	local cur_active = player:getDailyActive()
 	self:getChildByName("cur_active_num"):setString(tostring(cur_active))
---	self:getChildByName("cur_active_num"):setPositionX(self:getChildByName("cur_active"):getPositionX() + self:getChildByName("cur_active"):getContentSize().width)
+	self:getChildByName("cur_active_num"):setPositionX(self:getChildByName("cur_active"):getPositionX() + self:getChildByName("cur_active"):getContentSize().width)
 
 	local level = player:getLevel()
 

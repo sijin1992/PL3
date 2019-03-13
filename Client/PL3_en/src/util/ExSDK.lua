@@ -4,7 +4,7 @@ local ExSDK = class("ExSDK")
 
 ------------------------------------------------
 function ExSDK:IsWindows()
-	return device.platform == "windows"
+	return (g_is_quick_sdk == false) or (device.platform == "windows")
 end
 
 function ExSDK:IsQuickSDK()

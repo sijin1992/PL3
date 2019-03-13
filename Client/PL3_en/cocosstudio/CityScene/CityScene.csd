@@ -91,7 +91,7 @@
             <PreSize X="0.2324" Y="0.1805" />
             <FileData Type="Default" Path="Default/ImageFile.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="building_1" ActionTag="-1633765553" VisibleForFrame="False" Alpha="0" Tag="102" IconVisible="False" LeftMargin="1896.6923" RightMargin="-1094.6584" TopMargin="298.1688" BottomMargin="279.2742" Scale9Width="46" Scale9Height="46" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="building_1" ActionTag="-1633765553" VisibleForFrame="False" Alpha="0" Tag="102" IconVisible="False" LeftMargin="1896.6923" RightMargin="-1094.6584" TopMargin="298.1687" BottomMargin="279.2742" Scale9Width="46" Scale9Height="46" ctype="ImageViewObjectData">
             <Size X="333.9661" Y="190.5571" />
             <AnchorPoint ScaleX="0.3500" ScaleY="0.5000" />
             <Position X="2013.5804" Y="374.5527" />

@@ -58,10 +58,10 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="Common/newUI/bz_wl01.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="zhandou_num5" ActionTag="-1780298468" Tag="133" IconVisible="False" LeftMargin="533.6370" RightMargin="-600.6370" TopMargin="-388.2039" BottomMargin="355.2039" FontSize="22" LabelText="99999" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+          <AbstractNodeData Name="zhandou_num5" ActionTag="-1780298468" Tag="133" IconVisible="False" LeftMargin="435.6364" RightMargin="-502.6364" TopMargin="-388.2039" BottomMargin="355.2039" FontSize="22" LabelText="99999" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
             <Size X="67.0000" Y="33.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="533.6370" Y="371.7039" />
+            <Position X="435.6364" Y="371.7039" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -70,10 +70,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="zhandou_num4" ActionTag="-220518807" Tag="134" IconVisible="False" LeftMargin="838.3938" RightMargin="-905.3938" TopMargin="-389.9600" BottomMargin="356.9600" FontSize="22" LabelText="99999" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+          <AbstractNodeData Name="zhandou_num4" ActionTag="-220518807" Tag="134" IconVisible="False" LeftMargin="761.3933" RightMargin="-828.3933" TopMargin="-389.9600" BottomMargin="356.9600" FontSize="22" LabelText="99999" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
             <Size X="67.0000" Y="33.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="838.3938" Y="373.4600" />
+            <Position X="761.3933" Y="373.4600" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -82,10 +82,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="zhandou_num3" ActionTag="2110272087" Tag="135" IconVisible="False" LeftMargin="838.3938" RightMargin="-905.3938" TopMargin="-349.4569" BottomMargin="316.4569" FontSize="22" LabelText="99999" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+          <AbstractNodeData Name="zhandou_num3" ActionTag="2110272087" Tag="135" IconVisible="False" LeftMargin="761.3933" RightMargin="-828.3933" TopMargin="-349.4569" BottomMargin="316.4569" FontSize="22" LabelText="99999" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
             <Size X="67.0000" Y="33.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="838.3938" Y="332.9569" />
+            <Position X="761.3933" Y="332.9569" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -94,10 +94,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="zhandou_num2" ActionTag="-1923636973" Tag="136" IconVisible="False" LeftMargin="533.6370" RightMargin="-600.6370" TopMargin="-349.1264" BottomMargin="316.1264" FontSize="22" LabelText="99999" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+          <AbstractNodeData Name="zhandou_num2" ActionTag="-1923636973" Tag="136" IconVisible="False" LeftMargin="435.6364" RightMargin="-502.6364" TopMargin="-349.1264" BottomMargin="316.1264" FontSize="22" LabelText="99999" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
             <Size X="67.0000" Y="33.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="533.6370" Y="332.6264" />
+            <Position X="435.6364" Y="332.6264" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -106,10 +106,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="zhandou_num1" ActionTag="-1342770748" Tag="137" IconVisible="False" LeftMargin="489.5157" RightMargin="-556.5157" TopMargin="-431.2731" BottomMargin="398.2731" FontSize="22" LabelText="99999" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+          <AbstractNodeData Name="zhandou_num1" ActionTag="-1342770748" Tag="137" IconVisible="False" LeftMargin="391.5152" RightMargin="-458.5152" TopMargin="-431.2731" BottomMargin="398.2731" FontSize="22" LabelText="99999" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
             <Size X="67.0000" Y="33.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="489.5157" Y="414.7731" />
+            <Position X="391.5152" Y="414.7731" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -118,10 +118,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="zhandou_text5" ActionTag="111880810" Tag="138" IconVisible="False" LeftMargin="262.9377" RightMargin="-388.9377" TopMargin="-390.3692" BottomMargin="357.3692" FontSize="22" LabelText="战斗总次数：" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+          <AbstractNodeData Name="zhandou_text5" ActionTag="111880810" Tag="138" IconVisible="False" LeftMargin="297.9374" RightMargin="-423.9374" TopMargin="-390.3693" BottomMargin="357.3693" FontSize="22" LabelText="战斗总次数：" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
             <Size X="126.0000" Y="33.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="262.9377" Y="373.8692" />
+            <Position X="297.9374" Y="373.8693" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="5" G="223" B="97" />
             <PrePosition />
@@ -154,10 +154,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="5" G="223" B="97" />
           </AbstractNodeData>
-          <AbstractNodeData Name="zhandou_text2" ActionTag="1699202726" Tag="141" IconVisible="False" LeftMargin="262.9377" RightMargin="-366.9377" TopMargin="-350.7581" BottomMargin="317.7581" FontSize="22" LabelText="进攻次数：" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+          <AbstractNodeData Name="zhandou_text2" ActionTag="1699202726" Tag="141" IconVisible="False" LeftMargin="297.9374" RightMargin="-401.9374" TopMargin="-350.7581" BottomMargin="317.7581" FontSize="22" LabelText="进攻次数：" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
             <Size X="104.0000" Y="33.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="262.9377" Y="334.2581" />
+            <Position X="297.9374" Y="334.2581" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="5" G="223" B="97" />
             <PrePosition />
@@ -166,10 +166,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="5" G="223" B="97" />
           </AbstractNodeData>
-          <AbstractNodeData Name="zhandou_text1" ActionTag="-1423877392" Tag="142" IconVisible="False" LeftMargin="262.9377" RightMargin="-344.9377" TopMargin="-429.6062" BottomMargin="396.6062" FontSize="22" LabelText="总胜率：" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+          <AbstractNodeData Name="zhandou_text1" ActionTag="-1423877392" Tag="142" IconVisible="False" LeftMargin="297.9374" RightMargin="-379.9374" TopMargin="-429.6063" BottomMargin="396.6063" FontSize="22" LabelText="总胜率：" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
             <Size X="82.0000" Y="33.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="262.9377" Y="413.1062" />
+            <Position X="297.9374" Y="413.1063" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="5" G="223" B="97" />
             <PrePosition />

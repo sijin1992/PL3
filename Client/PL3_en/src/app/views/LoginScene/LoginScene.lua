@@ -142,7 +142,8 @@ function LoginScene:createNotice( str, flag )
 	local listSize = text_list:getContentSize()
 	local label = cc.Label:createWithTTF(str, s_default_font, 20 )--cc.size(listSize.width, 0))
 	label:setLineBreakWithoutSpace(true)
-	label:setMaxLineWidth(listSize.width)
+	label:setMaxLineWidth(624)
+
 	local inner_height
 	if label:getContentSize().height > listSize.height then
 		inner_height = label:getContentSize().height
@@ -380,7 +381,6 @@ function LoginScene:onEnterTransitionFinish()
 	end)
 	local eventDispatcher = self:getEventDispatcher()
 	eventDispatcher:addEventListenerWithFixedPriority(self.noticeListener_, FixedPriority.kNormal)
-
 end
 
 function LoginScene:onExitTransitionStart()

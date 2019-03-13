@@ -62,10 +62,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="216" G="231" B="247" />
           </AbstractNodeData>
-          <AbstractNodeData Name="xingmeng_name" ActionTag="-786164414" Tag="472" IconVisible="False" LeftMargin="328.5249" RightMargin="-361.5249" TopMargin="70.0152" BottomMargin="-94.0152" FontSize="16" LabelText="null" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="33.0000" Y="24.0000" />
+          <AbstractNodeData Name="xingmeng_name" ActionTag="-786164414" Tag="472" IconVisible="False" LeftMargin="347.5252" RightMargin="-382.5252" TopMargin="68.5147" BottomMargin="-95.5147" FontSize="18" LabelText="null" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="35.0000" Y="27.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="328.5249" Y="-82.0152" />
+            <Position X="347.5252" Y="-82.0147" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -74,10 +74,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="xingmeng" ActionTag="293988551" Tag="473" IconVisible="False" LeftMargin="242.0257" RightMargin="-324.0257" TopMargin="69.5502" BottomMargin="-93.5502" FontSize="16" LabelText="xingmeng:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="82.0000" Y="24.0000" />
+          <AbstractNodeData Name="xingmeng" ActionTag="293988551" Tag="473" IconVisible="False" LeftMargin="248.0258" RightMargin="-346.0258" TopMargin="67.0502" BottomMargin="-96.0502" FontSize="19" LabelText="xingmeng:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="98.0000" Y="29.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="242.0257" Y="-81.5502" />
+            <Position X="248.0258" Y="-81.5502" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -86,8 +86,8 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="216" G="231" B="247" />
           </AbstractNodeData>
-          <AbstractNodeData Name="fight_num" ActionTag="-1641114579" Tag="474" IconVisible="False" LeftMargin="141.8959" RightMargin="-207.8959" TopMargin="71.2948" BottomMargin="-95.2948" FontSize="16" LabelText="1401000" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="66.0000" Y="24.0000" />
+          <AbstractNodeData Name="fight_num" ActionTag="-1641114579" Tag="474" IconVisible="False" LeftMargin="141.8959" RightMargin="-214.8959" TopMargin="69.7948" BottomMargin="-96.7948" FontSize="18" LabelText="1401000" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="73.0000" Y="27.0000" />
             <AnchorPoint ScaleY="0.5000" />
             <Position X="141.8959" Y="-83.2948" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -192,10 +192,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="216" G="231" B="247" />
           </AbstractNodeData>
-          <AbstractNodeData Name="line_time" ActionTag="1032722086" Tag="2854" IconVisible="False" LeftMargin="559.3481" RightMargin="-658.3481" TopMargin="70.3819" BottomMargin="-94.3819" FontSize="16" LabelText="Online 7 day" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="99.0000" Y="24.0000" />
+          <AbstractNodeData Name="line_time" ActionTag="1032722086" Tag="2854" IconVisible="False" LeftMargin="408.3470" RightMargin="-527.3470" TopMargin="65.8818" BottomMargin="-98.8818" FontSize="22" LabelText="111111111" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="119.0000" Y="33.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="559.3481" Y="-82.3819" />
+            <Position X="408.3470" Y="-82.3818" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

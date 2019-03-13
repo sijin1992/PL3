@@ -415,11 +415,6 @@ function BuildingUpgradeScene:createSpyNode( ... )
 	end
 
 	info_node:getChildByName("text"):setString(str)
-	info_node:getChildByName("text"):ignoreContentAdaptWithSize(false)
-	
-	info_node:getChildByName("text"):getVirtualRenderer():setLineBreakWithoutSpace(true)
-	info_node:getChildByName("text"):getVirtualRenderer():setMaxLineWidth(460) 
-	info_node:getChildByName("text"):setContentSize(info_node:getChildByName("text"):getVirtualRenderer():getContentSize())
 	-- info_node:getChildByName("text_2"):setString(str)
 
 
@@ -445,23 +440,17 @@ function BuildingUpgradeScene:createSpyNode( ... )
 	end
 
 	info_node:getChildByName("green_text"):setString(ssr)
-	info_node:getChildByName("green_text"):getVirtualRenderer():setLineBreakWithoutSpace(true)
-	info_node:getChildByName("green_text"):getVirtualRenderer():setMaxLineWidth(460) 
-	info_node:getChildByName("green_text"):setContentSize(info_node:getChildByName("green_text"):getVirtualRenderer():getContentSize())
-	info_node:getChildByName("green_text"):setPositionY(info_node:getChildByName("text"):getPositionY() - info_node:getChildByName("text"):getVirtualRenderer():getContentSize().height + 20)
+	info_node:getChildByName("green_text"):setPositionY(info_node:getChildByName("text"):getPositionY() - info_node:getChildByName("text"):getContentSize().height + 20)
 
-	info_node:getChildByName("text_2"):setPositionY(info_node:getChildByName("green_text"):getPositionY() - info_node:getChildByName("green_text"):getVirtualRenderer():getContentSize().height)
+	info_node:getChildByName("text_2"):setPositionY(info_node:getChildByName("green_text"):getPositionY() - info_node:getChildByName("green_text"):getContentSize().height)
 
 	if ssr_2 ~= "" then
 		info_node:getChildByName("green_text_2"):setVisible(true)
 		info_node:getChildByName("green_text_2"):setString(ssr_2)
-		info_node:getChildByName("green_text_2"):getVirtualRenderer():setLineBreakWithoutSpace(true)
-		info_node:getChildByName("green_text_2"):getVirtualRenderer():setMaxLineWidth(460) 
-		info_node:getChildByName("green_text_2"):setContentSize(info_node:getChildByName("green_text_2"):getVirtualRenderer():getContentSize())
-		info_node:getChildByName("green_text_2"):setPositionY(info_node:getChildByName("text_2"):getPositionY() - info_node:getChildByName("text_2"):getVirtualRenderer():getContentSize().height + 20)
+		info_node:getChildByName("green_text_2"):setPositionY(info_node:getChildByName("text_2"):getPositionY() - info_node:getChildByName("text_2"):getContentSize().height + 20)
 	end
 
-	info_node:getChildByName("bg"):setContentSize(cc.size(info_node:getChildByName("bg"):getContentSize().width, -(info_node:getChildByName("text"):getPositionY() - info_node:getChildByName("text"):getVirtualRenderer():getContentSize().height - info_node:getChildByName("green_text"):getVirtualRenderer():getContentSize().height - info_node:getChildByName("text_2"):getVirtualRenderer():getContentSize().height - info_node:getChildByName("green_text_2"):getVirtualRenderer():getContentSize().height)))
+	info_node:getChildByName("bg"):setContentSize(cc.size(info_node:getChildByName("bg"):getContentSize().width, -(info_node:getChildByName("text"):getPositionY() - info_node:getChildByName("text"):getContentSize().height - info_node:getChildByName("green_text"):getContentSize().height - info_node:getChildByName("text_2"):getContentSize().height - info_node:getChildByName("green_text_2"):getContentSize().height)))
 
 	return info_node
 end

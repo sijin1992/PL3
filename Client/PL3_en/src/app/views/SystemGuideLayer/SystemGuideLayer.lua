@@ -233,7 +233,7 @@ function SystemGuideLayer:onEnterTransitionFinish()
 		end)
 		self:addChild(btn_close,100)
 
-		local label = cc.Label:createWithTTF("SKIP", "fonts/cuyabra.ttf", 24)
+		local label = cc.Label:createWithTTF("跳过", "fonts/cuyabra.ttf", 24)
 		label:setPosition(cc.p(30, 13.42))
 		-- label:enableShadow(cc.c4b(255, 255, 255, 255),cc.size(0.5,0.5))
 		btn_close:addChild(label)

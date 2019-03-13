@@ -537,13 +537,13 @@
               <AbstractNodeData Name="type_3" ActionTag="1204361087" Tag="1614" IconVisible="False" LeftMargin="62.5597" RightMargin="890.4403" TopMargin="-4.2264" BottomMargin="16.2264" FlipY="True" ctype="SpriteObjectData">
                 <Size X="183.0000" Y="73.0000" />
                 <Children>
-                  <AbstractNodeData Name="text" ActionTag="-602270107" UserData="top" Tag="1615" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="68.6083" RightMargin="60.3917" TopMargin="22.4824" BottomMargin="11.5176" FontSize="26" LabelText="辅助" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                  <AbstractNodeData Name="text" ActionTag="-602270107" UserData="top" Tag="1615" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="61.6086" RightMargin="67.3914" TopMargin="22.4823" BottomMargin="11.5177" FontSize="26" LabelText="辅助" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                     <Size X="54.0000" Y="39.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="95.6083" Y="31.0176" />
+                    <Position X="88.6086" Y="31.0177" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="244" B="198" />
-                    <PrePosition X="0.5224" Y="0.4249" />
+                    <PrePosition X="0.4842" Y="0.4249" />
                     <PreSize X="0.2951" Y="0.5342" />
                     <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
@@ -672,25 +672,25 @@
                 <OutlineColor A="255" R="229" G="229" B="229" />
                 <ShadowColor A="255" R="226" G="239" B="242" />
               </AbstractNodeData>
-              <AbstractNodeData Name="all_num" ActionTag="1454671684" UserData="lefttop" Tag="1148" IconVisible="False" LeftMargin="455.4202" RightMargin="-117.4202" TopMargin="25.1524" BottomMargin="5.8476" FontSize="25" LabelText="/200" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="all_num" ActionTag="1454671684" UserData="lefttop" Tag="1148" IconVisible="False" LeftMargin="369.4152" RightMargin="-31.4152" TopMargin="25.1608" BottomMargin="5.8392" FontSize="25" LabelText="/200" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="55.0000" Y="38.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="455.4202" Y="24.8476" />
+                <Position X="369.4152" Y="24.8392" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="191" G="191" B="191" />
-                <PrePosition X="1.1588" Y="0.3601" />
+                <PrePosition X="0.9400" Y="0.3600" />
                 <PreSize X="0.1399" Y="0.5507" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="191" G="191" B="191" />
               </AbstractNodeData>
-              <AbstractNodeData Name="cur_num" ActionTag="-2107991419" UserData="lefttop" Tag="1147" IconVisible="False" LeftMargin="402.6905" RightMargin="-62.6905" TopMargin="23.6446" BottomMargin="0.3554" FontSize="30" LabelText="200" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="cur_num" ActionTag="-2107991419" UserData="lefttop" Tag="1147" IconVisible="False" LeftMargin="316.6851" RightMargin="23.3149" TopMargin="23.6592" BottomMargin="0.3408" FontSize="30" LabelText="200" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="53.0000" Y="45.0000" />
                 <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
-                <Position X="455.6905" Y="22.8554" />
+                <Position X="369.6851" Y="22.8408" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="0" G="255" B="0" />
-                <PrePosition X="1.1595" Y="0.3312" />
+                <PrePosition X="0.9407" Y="0.3310" />
                 <PreSize X="0.1349" Y="0.6522" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="0" G="255" B="0" />

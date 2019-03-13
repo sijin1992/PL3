@@ -6,10 +6,10 @@
       <ObjectData Name="Node" Tag="164" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="buildingName" ActionTag="-1856901543" Tag="168" IconVisible="False" LeftMargin="79.4322" RightMargin="-194.4322" TopMargin="30.0171" BottomMargin="-54.0171" FontSize="16" LabelText="和谐号飞船图纸" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
-            <Size X="115.0000" Y="24.0000" />
+          <AbstractNodeData Name="buildingName" ActionTag="-1856901543" Tag="168" IconVisible="False" LeftMargin="92.4319" RightMargin="-263.4319" TopMargin="24.0172" BottomMargin="-60.0172" FontSize="24" LabelText="和谐号飞船图纸" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+            <Size X="171.0000" Y="36.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="79.4322" Y="-42.0171" />
+            <Position X="92.4319" Y="-42.0172" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="226" G="239" B="242" />
             <PrePosition />

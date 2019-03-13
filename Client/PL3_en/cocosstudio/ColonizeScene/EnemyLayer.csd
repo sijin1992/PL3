@@ -104,7 +104,7 @@
             <FileData Type="Normal" Path="Common/newUI/bottom_top03.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="chat_bottom" ActionTag="1120917745" Tag="944" IconVisible="False" LeftMargin="65.8815" RightMargin="614.1185" TopMargin="654.5555" BottomMargin="71.4445" LeftEage="150" RightEage="150" TopEage="11" BottomEage="11" Scale9OriginX="150" Scale9OriginY="11" Scale9Width="40" Scale9Height="14" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="chat_bottom" ActionTag="1120917745" Tag="944" IconVisible="False" LeftMargin="65.8815" RightMargin="614.1185" TopMargin="654.5555" BottomMargin="71.4445" LeftEage="150" RightEage="150" TopEage="11" BottomEage="11" Scale9OriginX="150" Scale9OriginY="11" Scale9Width="74" Scale9Height="20" ctype="ImageViewObjectData">
             <Size X="456.0000" Y="42.0000" />
             <AnchorPoint ScaleY="0.5000" />
             <Position X="65.8815" Y="92.4445" />
@@ -114,7 +114,7 @@
             <PreSize X="0.4014" Y="0.0547" />
             <FileData Type="Normal" Path="CityScene/ui3/image_chatdown.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="btn_chat" ActionTag="956312967" Tag="943" IconVisible="False" LeftMargin="71.0564" RightMargin="1007.9436" TopMargin="660.3730" BottomMargin="74.6270" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="6" Scale9Height="9" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="btn_chat" ActionTag="956312967" Tag="943" IconVisible="False" LeftMargin="71.0564" RightMargin="1007.9436" TopMargin="660.3730" BottomMargin="74.6270" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="27" Scale9Height="11" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="57.0000" Y="33.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="99.5564" Y="91.1270" />
@@ -185,26 +185,26 @@
             <FileData Type="Normal" Path="Common/newUI/jjc_sx.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="shuaxin_text" ActionTag="2139089886" Tag="90" IconVisible="False" LeftMargin="995.7053" RightMargin="105.2947" TopMargin="675.1005" BottomMargin="68.8995" FontSize="16" LabelText="刷新" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="35.0000" Y="24.0000" />
+          <AbstractNodeData Name="shuaxin_text" ActionTag="2139089886" Tag="90" IconVisible="False" LeftMargin="991.7053" RightMargin="101.2947" TopMargin="672.1005" BottomMargin="65.8995" FontSize="20" LabelText="刷新" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="43.0000" Y="30.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="1013.2053" Y="80.8995" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="204" G="205" B="205" />
             <PrePosition X="0.8919" Y="0.1053" />
-            <PreSize X="0.0308" Y="0.0313" />
+            <PreSize X="0.0379" Y="0.0391" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="204" G="205" B="205" />
           </AbstractNodeData>
-          <AbstractNodeData Name="zhua_text" ActionTag="115493768" Tag="92" IconVisible="False" LeftMargin="912.4777" RightMargin="188.5223" TopMargin="625.0399" BottomMargin="118.9601" FontSize="16" LabelText="抓捕" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="35.0000" Y="24.0000" />
+          <AbstractNodeData Name="zhua_text" ActionTag="115493768" Tag="92" IconVisible="False" LeftMargin="908.9777" RightMargin="185.0223" TopMargin="622.0399" BottomMargin="115.9601" FontSize="20" LabelText="抓捕" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="42.0000" Y="30.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="929.9777" Y="130.9601" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="204" G="205" B="205" />
             <PrePosition X="0.8186" Y="0.1705" />
-            <PreSize X="0.0308" Y="0.0313" />
+            <PreSize X="0.0370" Y="0.0391" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="204" G="205" B="205" />

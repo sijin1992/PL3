@@ -484,7 +484,7 @@ function UpdateScene:onEnterTransitionFinish()
 	animManager:runAnimByCSB(rn, UpdateScene.RESOURCE_FILENAME,  "loop")
 	local sp_path = 'LoginScene/ui/biaoti_en.png'
 	if server_platform==0 then
-		sp_path = 'LoginScene/ui/biaoti_cn.png'
+--		sp_path = 'LoginScene/ui/biaoti_cn.png'
 	end
 	rn:getChildByName('Node_32'):getChildByName('Node_1'):getChildByName('biaoti'):setTexture(sp_path)
 

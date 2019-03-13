@@ -263,7 +263,7 @@
           <PointFrame FrameIndex="0" X="8.0009" Y="93.5000">
             <EasingData Type="0" />
           </PointFrame>
-          <PointFrame FrameIndex="20" X="32.0001" Y="102.5000">
+          <PointFrame FrameIndex="20" X="32.0001" Y="93.5000">
             <EasingData Type="0" />
           </PointFrame>
         </Timeline>
@@ -295,7 +295,7 @@
           <PointFrame FrameIndex="0" X="-12.9991" Y="137.1505">
             <EasingData Type="0" />
           </PointFrame>
-          <PointFrame FrameIndex="20" X="11.0342" Y="142.3938">
+          <PointFrame FrameIndex="20" X="11.0342" Y="137.3938">
             <EasingData Type="0" />
           </PointFrame>
         </Timeline>

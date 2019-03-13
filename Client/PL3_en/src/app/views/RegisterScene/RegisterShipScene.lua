@@ -187,11 +187,11 @@ function RegisterShipScene:createInfoNode()
     node:getChildByName("ship_type"):loadTexture("ShipType/"..conf.TYPE..".png")
     node:getChildByName("ship_lv_num"):removeFromParent()
 
-    node:getChildByName("ship_hp"):setString(CONF:getStringValue("Attr_2"))
+    node:getChildByName("ship_hp"):setString(CONF:getStringValue("Airship")..CONF:getStringValue("Attr_2"))
     node:getChildByName("ship_hp_num"):setString(conf.LIFE)
     node:getChildByName("ship_atk"):setString(CONF:getStringValue("Attr_3"))
     node:getChildByName("ship_atk_num"):setString(conf.ATTACK)
-    node:getChildByName("ship_def"):setString(CONF:getStringValue("Attr_4"))
+    node:getChildByName("ship_def"):setString(CONF:getStringValue("Airship")..CONF:getStringValue("Attr_4"))
     node:getChildByName("ship_def_num"):setString(conf.DEFENCE)
     node:getChildByName("ship_speed"):setString(CONF:getStringValue("Attr_5"))
     node:getChildByName("ship_speed_num"):setString(conf.SPEED)
@@ -201,14 +201,13 @@ function RegisterShipScene:createInfoNode()
     node:getChildByName("ship_dur_num"):setString(conf.DURABLE)
     node:getChildByName("ship_dur_max"):setString("/"..conf.DURABLE)
 
-    local diff = 150
-    local diff2 = 100
+    local diff = 100
     node:getChildByName("ship_hp_num"):setPositionX(node:getChildByName("ship_hp"):getPositionX() + diff)
     node:getChildByName("ship_atk_num"):setPositionX(node:getChildByName("ship_atk"):getPositionX() + diff)
     node:getChildByName("ship_def_num"):setPositionX(node:getChildByName("ship_def"):getPositionX() + diff)
     node:getChildByName("ship_speed_num"):setPositionX(node:getChildByName("ship_speed"):getPositionX() + diff)
     node:getChildByName("ship_e_atk_num"):setPositionX(node:getChildByName("ship_e_atk"):getPositionX() + diff)
-    node:getChildByName("ship_dur_num"):setPositionX(node:getChildByName("ship_dur"):getPositionX() + diff2)
+    node:getChildByName("ship_dur_num"):setPositionX(node:getChildByName("ship_dur"):getPositionX() + diff)
     node:getChildByName("ship_dur_max"):setPositionX(node:getChildByName("ship_dur_num"):getPositionX() + node:getChildByName("ship_dur_num"):getContentSize().width)
 
     node:getChildByName("ship_upgrade"):removeFromParent()

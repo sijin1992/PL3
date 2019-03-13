@@ -9104,10 +9104,10 @@
                 <FileData Type="Normal" Path="PlanetScene/sfx/walong.jpg" Plist="" />
                 <BlendFunc Src="770" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="star" ActionTag="487514600" Tag="503" IconVisible="True" LeftMargin="-65.0000" RightMargin="65.0000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+              <AbstractNodeData Name="star" ActionTag="487514600" Tag="503" IconVisible="True" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <AnchorPoint />
-                <Position X="-65.0000" />
+                <Position />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -9147,29 +9147,29 @@
                 <FileData Type="Normal" Path="PlanetScene/sfx/yun3.png" Plist="" />
                 <BlendFunc Src="775" Dst="1" />
               </AbstractNodeData>
-              <AbstractNodeData Name="ALL" ActionTag="805195862" Tag="524" IconVisible="True" LeftMargin="-180.0000" RightMargin="180.0000" ctype="SingleNodeObjectData">
+              <AbstractNodeData Name="ALL" ActionTag="805195862" Tag="524" IconVisible="True" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
-                  <AbstractNodeData Name="bg_qiu_1_112" ActionTag="1088686354" VisibleForFrame="False" Tag="525" IconVisible="False" LeftMargin="-120.1244" RightMargin="74.1244" TopMargin="232.5309" BottomMargin="-278.5309" ctype="SpriteObjectData">
-                    <Size X="46.0000" Y="46.0000" />
+                  <AbstractNodeData Name="bg_qiu_1_112" ActionTag="1088686354" Tag="525" IconVisible="False" LeftMargin="-193.6244" RightMargin="0.6244" TopMargin="159.5309" BottomMargin="-351.5309" ctype="SpriteObjectData">
+                    <Size X="193.0000" Y="192.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="-97.1244" Y="-255.5309" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+                    <FileData Type="Normal" Path="PlanetScene/ui/bg_qiu_1.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="bg_stone_1_114" ActionTag="1150012532" VisibleForFrame="False" Tag="526" IconVisible="False" LeftMargin="77.0000" RightMargin="-123.0000" TopMargin="-18.2501" BottomMargin="-27.7499" ctype="SpriteObjectData">
-                    <Size X="46.0000" Y="46.0000" />
+                  <AbstractNodeData Name="bg_stone_1_114" ActionTag="1150012532" Tag="526" IconVisible="False" LeftMargin="-322.1580" RightMargin="-430.8420" TopMargin="-285.7501" BottomMargin="-295.2499" ctype="SpriteObjectData">
+                    <Size X="753.0000" Y="581.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="100.0000" Y="-4.7499" />
+                    <Position X="54.3420" Y="-4.7499" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+                    <FileData Type="Normal" Path="PlanetScene/ui/bg_stone_1.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="gezi" CanEdit="False" ActionTag="2116320663" Tag="527" IconVisible="False" LeftMargin="-934.8219" RightMargin="-900.1781" TopMargin="-581.6650" BottomMargin="-461.3350" ctype="SpriteObjectData">
@@ -9238,26 +9238,26 @@
                     <FileData Type="Normal" Path="PlanetScene/ui/grid.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="light_star_111" ActionTag="578526644" VisibleForFrame="False" Tag="533" IconVisible="False" LeftMargin="377.0000" RightMargin="-423.0000" TopMargin="-264.1708" BottomMargin="218.1708" ctype="SpriteObjectData">
-                    <Size X="46.0000" Y="46.0000" />
+                  <AbstractNodeData Name="light_star_111" ActionTag="578526644" Tag="533" IconVisible="False" LeftMargin="133.8981" RightMargin="-538.8981" TopMargin="-344.6708" BottomMargin="137.6708" ctype="SpriteObjectData">
+                    <Size X="405.0000" Y="207.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="400.0000" Y="241.1708" />
+                    <Position X="336.3981" Y="241.1708" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+                    <FileData Type="Normal" Path="PlanetScene/ui/light_star.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="bg_stone_2_115" ActionTag="-1010641335" VisibleForFrame="False" Tag="534" IconVisible="False" LeftMargin="-369.2570" RightMargin="323.2570" TopMargin="72.2160" BottomMargin="-118.2160" ctype="SpriteObjectData">
-                    <Size X="46.0000" Y="46.0000" />
+                  <AbstractNodeData Name="bg_stone_2_115" ActionTag="-1010641335" Tag="534" IconVisible="False" LeftMargin="-518.7570" RightMargin="173.7570" TopMargin="-25.7840" BottomMargin="-216.2160" ctype="SpriteObjectData">
+                    <Size X="345.0000" Y="242.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="-346.2570" Y="-95.2160" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+                    <FileData Type="Normal" Path="PlanetScene/ui/bg_stone_2.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="MyCity" ActionTag="1868124246" Tag="535" IconVisible="False" LeftMargin="-80.1893" RightMargin="-26.8107" TopMargin="-57.6446" BottomMargin="-57.3554" ctype="SpriteObjectData">
@@ -9292,15 +9292,14 @@
                     <FileData Type="Normal" Path="PlanetScene/ui/resource_di.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Text_13" ActionTag="-942398529" Tag="538" IconVisible="False" LeftMargin="-99.8626" RightMargin="-64.1374" TopMargin="43.7250" BottomMargin="-73.7250" FontSize="20" LabelText="My space station" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="164.0000" Y="30.0000" />
+                  <AbstractNodeData Name="Text_13" ActionTag="-942398529" Tag="538" IconVisible="False" LeftMargin="-67.8626" RightMargin="-32.1374" TopMargin="48.7250" BottomMargin="-68.7250" FontSize="20" LabelText="我的空间站" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="100.0000" Y="20.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="-17.8626" Y="-58.7250" />
                     <Scale ScaleX="0.7500" ScaleY="0.7500" />
                     <CColor A="255" R="58" G="253" B="159" />
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
@@ -9325,15 +9324,14 @@
                     <FileData Type="Normal" Path="PlanetScene/ui/resource_di.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Text_13_0" ActionTag="2076142337" Tag="541" IconVisible="False" LeftMargin="612.2936" RightMargin="-684.2936" TopMargin="54.5168" BottomMargin="-84.5168" FontSize="20" LabelText="AI base" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="72.0000" Y="30.0000" />
+                  <AbstractNodeData Name="Text_13_0" ActionTag="2076142337" Tag="541" IconVisible="False" LeftMargin="588.2938" RightMargin="-708.2938" TopMargin="56.5167" BottomMargin="-76.5167" FontSize="20" LabelText="人工智能基地" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="120.0000" Y="20.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="648.2936" Y="-69.5168" />
+                    <Position X="648.2938" Y="-66.5167" />
                     <Scale ScaleX="0.7500" ScaleY="0.7500" />
                     <CColor A="255" R="244" G="84" B="84" />
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
@@ -9359,7 +9357,7 @@
                         <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.4738" Y="0.4717" />
                         <PreSize X="1.3793" Y="2.0253" />
-                        <FileData Type="Normal" Path="PlanetScene/sfx/ziyuankuang4/1_00024.png" Plist="" />
+                        <FileData Type="Normal" Path="PlanetScene/sfx/ziyuankuang4/1_00001.png" Plist="" />
                         <BlendFunc Src="1" Dst="771" />
                       </AbstractNodeData>
                       <AbstractNodeData Name="Sprite_121" ActionTag="1699218429" Tag="545" IconVisible="False" LeftMargin="-22.4728" RightMargin="-43.5272" TopMargin="-79.1336" BottomMargin="-82.8664" ctype="SpriteObjectData">
@@ -9370,7 +9368,7 @@
                         <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.5605" Y="0.4882" />
                         <PreSize X="1.3793" Y="2.0253" />
-                        <FileData Type="Normal" Path="PlanetScene/sfx/ziyuankuang4/2_00024.png" Plist="" />
+                        <FileData Type="Normal" Path="PlanetScene/sfx/ziyuankuang4/2_00001.png" Plist="" />
                         <BlendFunc Src="1" Dst="1" />
                       </AbstractNodeData>
                     </Children>
@@ -9394,7 +9392,7 @@
                         <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.2195" Y="0.5849" />
                         <PreSize X="2.5532" Y="3.3333" />
-                        <FileData Type="Normal" Path="PlanetScene/sfx/ziyuankuang3/2_00024.png" Plist="" />
+                        <FileData Type="Normal" Path="PlanetScene/sfx/ziyuankuang3/2_00000.png" Plist="" />
                         <BlendFunc Src="1" Dst="1" />
                       </AbstractNodeData>
                       <AbstractNodeData Name="Sprite_119" ActionTag="-781546612" Tag="548" IconVisible="False" LeftMargin="-103.0922" RightMargin="-42.9078" TopMargin="-121.9232" BottomMargin="-102.0768" ctype="SpriteObjectData">
@@ -9405,7 +9403,7 @@
                         <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.1799" Y="0.6034" />
                         <PreSize X="2.5532" Y="3.3333" />
-                        <FileData Type="Normal" Path="PlanetScene/sfx/ziyuankuang3/1_00024.png" Plist="" />
+                        <FileData Type="Normal" Path="PlanetScene/sfx/ziyuankuang3/1_00000.png" Plist="" />
                         <BlendFunc Src="1" Dst="771" />
                       </AbstractNodeData>
                     </Children>
@@ -9418,7 +9416,7 @@
                     <FileData Type="Normal" Path="PlanetIcon/103.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="ziyuankuang1" ActionTag="1422638815" Tag="549" IconVisible="False" LeftMargin="-200.7343" RightMargin="87.7343" TopMargin="152.1134" BottomMargin="-232.1134" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="ziyuankuang1" ActionTag="1422638815" Alpha="0" Tag="549" IconVisible="False" LeftMargin="-200.7343" RightMargin="87.7343" TopMargin="152.1134" BottomMargin="-232.1134" ctype="SpriteObjectData">
                     <Size X="113.0000" Y="80.0000" />
                     <Children>
                       <AbstractNodeData Name="Sprite_116" ActionTag="178256985" Tag="550" IconVisible="False" LeftMargin="-56.8405" RightMargin="-70.1595" TopMargin="-134.4026" BottomMargin="-105.5974" ctype="SpriteObjectData">
@@ -9429,7 +9427,7 @@
                         <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.5589" Y="0.6800" />
                         <PreSize X="2.1239" Y="4.0000" />
-                        <FileData Type="Normal" Path="PlanetScene/sfx/ziyuankuang1/1_00024.png" Plist="" />
+                        <FileData Type="Normal" Path="PlanetScene/sfx/ziyuankuang1/1_00000.png" Plist="" />
                         <BlendFunc Src="770" Dst="1" />
                       </AbstractNodeData>
                       <AbstractNodeData Name="Sprite_117" ActionTag="-1186339051" Tag="551" IconVisible="False" LeftMargin="-53.6548" RightMargin="-73.3452" TopMargin="-100.7608" BottomMargin="-139.2392" ctype="SpriteObjectData">
@@ -9440,7 +9438,7 @@
                         <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.5871" Y="0.2595" />
                         <PreSize X="2.1239" Y="4.0000" />
-                        <FileData Type="Normal" Path="PlanetScene/sfx/ziyuankuang1/2_00024.png" Plist="" />
+                        <FileData Type="Normal" Path="PlanetScene/sfx/ziyuankuang1/2_00000.png" Plist="" />
                         <BlendFunc Src="1" Dst="1" />
                       </AbstractNodeData>
                     </Children>
@@ -9455,13 +9453,13 @@
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint />
-                <Position X="-180.0000" />
+                <Position />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Sprite_1" ActionTag="504951981" Alpha="0" Tag="552" IconVisible="False" LeftMargin="-63.0000" RightMargin="-63.0000" TopMargin="-63.0000" BottomMargin="-63.0000" ctype="SpriteObjectData">
+              <AbstractNodeData Name="Sprite_1" CanEdit="False" ActionTag="504951981" Alpha="0" Tag="552" IconVisible="False" LeftMargin="-63.0000" RightMargin="-63.0000" TopMargin="-63.0000" BottomMargin="-63.0000" ctype="SpriteObjectData">
                 <Size X="126.0000" Y="126.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position />
@@ -9475,13 +9473,13 @@
               <AbstractNodeData Name="zhezhao" CanEdit="False" ActionTag="1452863010" Tag="553" IconVisible="False" LeftMargin="-185.9048" RightMargin="-14.0952" TopMargin="-92.7372" BottomMargin="-107.2628" TouchEnable="True" ClipAble="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="200.0000" Y="200.0000" />
                 <Children>
-                  <AbstractNodeData Name="jianto_183_0" ActionTag="-964521110" Tag="554" RotationSkewX="180.0000" RotationSkewY="180.0000" IconVisible="False" LeftMargin="-554.9959" RightMargin="-381.0041" TopMargin="85.1790" BottomMargin="108.8210" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="jianto_183_0" ActionTag="-964521110" Tag="554" RotationSkewX="180.0000" RotationSkewY="180.0000" IconVisible="False" LeftMargin="-179.9965" RightMargin="-756.0035" TopMargin="85.1814" BottomMargin="108.8186" ctype="SpriteObjectData">
                     <Size X="1136.0000" Y="6.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="13.0041" Y="111.8210" />
+                    <Position X="388.0035" Y="111.8186" />
                     <Scale ScaleX="0.3300" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.0650" Y="0.5591" />
+                    <PrePosition X="1.9400" Y="0.5591" />
                     <PreSize X="5.6800" Y="0.0300" />
                     <FileData Type="Normal" Path="GuideLayer/sfx/GuideAnimation/jianto.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
@@ -9501,10 +9499,10 @@
               <AbstractNodeData Name="Zhandou" ActionTag="-33889540" Tag="555" RotationSkewX="-180.0000" RotationSkewY="-180.0020" IconVisible="True" LeftMargin="-195.7200" RightMargin="195.7200" TopMargin="-1.9500" BottomMargin="1.9500" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
-                  <AbstractNodeData Name="Sprite_2_0_13" ActionTag="150583986" Alpha="0" Tag="556" RotationSkewX="-180.0000" RotationSkewY="-180.0000" IconVisible="False" LeftMargin="-271.7560" RightMargin="-34.2440" TopMargin="-88.2565" BottomMargin="-111.7435" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_2_0_13" ActionTag="150583986" Tag="556" RotationSkewX="-180.0000" RotationSkewY="-180.0000" IconVisible="False" LeftMargin="-153.0000" RightMargin="-153.0000" TopMargin="-100.0000" BottomMargin="-100.0000" ctype="SpriteObjectData">
                     <Size X="306.0000" Y="200.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="-118.7560" Y="-11.7435" />
+                    <Position />
                     <Scale ScaleX="0.0400" ScaleY="0.0400" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
@@ -9512,10 +9510,10 @@
                     <FileData Type="Normal" Path="PlanetScene/sfx/feichaunyidong/3/4.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_2_0_12" ActionTag="1081200332" Alpha="0" Tag="557" RotationSkewX="-187.0000" RotationSkewY="-187.0055" IconVisible="False" LeftMargin="-259.0101" RightMargin="-46.9899" TopMargin="-67.9364" BottomMargin="-132.0636" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_2_0_12" ActionTag="1081200332" Tag="557" RotationSkewX="-180.0000" RotationSkewY="-180.0000" IconVisible="False" LeftMargin="-153.0000" RightMargin="-153.0000" TopMargin="-100.0000" BottomMargin="-100.0000" ctype="SpriteObjectData">
                     <Size X="306.0000" Y="200.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="-106.0101" Y="-32.0636" />
+                    <Position />
                     <Scale ScaleX="0.0400" ScaleY="0.0400" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
@@ -9523,10 +9521,10 @@
                     <FileData Type="Normal" Path="PlanetScene/sfx/feichaunyidong/3/4.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_2_0_11" ActionTag="-479850512" Alpha="0" Tag="558" RotationSkewX="-210.0000" RotationSkewY="-210.0000" IconVisible="False" LeftMargin="-226.6043" RightMargin="-79.3957" TopMargin="-58.3837" BottomMargin="-141.6163" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_2_0_11" ActionTag="-479850512" Tag="558" RotationSkewX="-180.0000" RotationSkewY="-180.0000" IconVisible="False" LeftMargin="-153.0000" RightMargin="-153.0000" TopMargin="-100.0000" BottomMargin="-100.0000" ctype="SpriteObjectData">
                     <Size X="306.0000" Y="200.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="-73.6043" Y="-41.6163" />
+                    <Position />
                     <Scale ScaleX="0.0400" ScaleY="0.0400" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
@@ -9534,10 +9532,10 @@
                     <FileData Type="Normal" Path="PlanetScene/sfx/feichaunyidong/3/4.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_2_0_10" ActionTag="790919502" Alpha="0" Tag="559" RotationSkewX="-192.0000" RotationSkewY="-192.0055" IconVisible="False" LeftMargin="-240.4777" RightMargin="-65.5223" TopMargin="-76.1515" BottomMargin="-123.8485" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_2_0_10" ActionTag="790919502" Tag="559" RotationSkewX="-180.0000" RotationSkewY="-180.0000" IconVisible="False" LeftMargin="-153.0000" RightMargin="-153.0000" TopMargin="-100.0000" BottomMargin="-100.0000" ctype="SpriteObjectData">
                     <Size X="306.0000" Y="200.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="-87.4777" Y="-23.8485" />
+                    <Position />
                     <Scale ScaleX="0.0400" ScaleY="0.0400" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
@@ -9545,10 +9543,10 @@
                     <FileData Type="Normal" Path="PlanetScene/sfx/feichaunyidong/3/4.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_2_0_8" ActionTag="55550504" Alpha="0" Tag="560" RotationSkewX="-163.0000" RotationSkewY="-163.0000" IconVisible="False" LeftMargin="-229.8940" RightMargin="-76.1060" TopMargin="-133.3556" BottomMargin="-66.6444" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_2_0_8" ActionTag="55550504" Tag="560" RotationSkewX="-180.0000" RotationSkewY="-180.0000" IconVisible="False" LeftMargin="-153.0000" RightMargin="-153.0000" TopMargin="-100.0000" BottomMargin="-100.0000" ctype="SpriteObjectData">
                     <Size X="306.0000" Y="200.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="-76.8940" Y="33.3556" />
+                    <Position />
                     <Scale ScaleX="0.0400" ScaleY="0.0400" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
@@ -9556,10 +9554,10 @@
                     <FileData Type="Normal" Path="PlanetScene/sfx/feichaunyidong/3/4.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_2_0_7" ActionTag="-1404974863" Alpha="0" Tag="561" RotationSkewX="-162.0000" RotationSkewY="-162.0000" IconVisible="False" LeftMargin="-238.4072" RightMargin="-67.5928" TopMargin="-113.1967" BottomMargin="-86.8033" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_2_0_7" ActionTag="-1404974863" Tag="561" RotationSkewX="-180.0000" RotationSkewY="-180.0000" IconVisible="False" LeftMargin="-153.0000" RightMargin="-153.0000" TopMargin="-100.0000" BottomMargin="-100.0000" ctype="SpriteObjectData">
                     <Size X="306.0000" Y="200.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="-85.4072" Y="13.1967" />
+                    <Position />
                     <Scale ScaleX="0.0400" ScaleY="0.0400" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
@@ -9567,10 +9565,10 @@
                     <FileData Type="Normal" Path="PlanetScene/sfx/feichaunyidong/3/4.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_2_0_6" ActionTag="-271361798" Alpha="0" Tag="562" RotationSkewX="-162.0000" RotationSkewY="-162.0000" IconVisible="False" LeftMargin="-257.2088" RightMargin="-48.7912" TopMargin="-120.6774" BottomMargin="-79.3226" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_2_0_6" ActionTag="-271361798" Tag="562" RotationSkewX="-180.0000" RotationSkewY="-180.0000" IconVisible="False" LeftMargin="-153.0000" RightMargin="-153.0000" TopMargin="-100.0000" BottomMargin="-100.0000" ctype="SpriteObjectData">
                     <Size X="306.0000" Y="200.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="-104.2088" Y="20.6774" />
+                    <Position />
                     <Scale ScaleX="0.0400" ScaleY="0.0400" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
@@ -9578,10 +9576,10 @@
                     <FileData Type="Normal" Path="PlanetScene/sfx/feichaunyidong/3/4.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_2_0_5" ActionTag="2013174980" Alpha="0" Tag="563" RotationSkewX="-165.0000" RotationSkewY="-165.0000" IconVisible="False" LeftMargin="-272.0063" RightMargin="-33.9937" TopMargin="-108.7126" BottomMargin="-91.2874" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_2_0_5" ActionTag="2013174980" Tag="563" RotationSkewX="-180.0000" RotationSkewY="-180.0000" IconVisible="False" LeftMargin="-153.0000" RightMargin="-153.0000" TopMargin="-100.0000" BottomMargin="-100.0000" ctype="SpriteObjectData">
                     <Size X="306.0000" Y="200.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="-119.0063" Y="8.7126" />
+                    <Position />
                     <Scale ScaleX="0.0400" ScaleY="0.0400" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
@@ -9600,7 +9598,7 @@
                         <CColor A="255" R="255" G="149" B="0" />
                         <PrePosition />
                         <PreSize X="0.0000" Y="0.0000" />
-                        <FileData Type="Normal" Path="sfx/weapon/K_30600/attack/10071.png" Plist="" />
+                        <FileData Type="Normal" Path="sfx/weapon/K_30600/attack/10001.png" Plist="" />
                         <BlendFunc Src="1" Dst="1" />
                       </AbstractNodeData>
                       <AbstractNodeData Name="Sprite_59_0" ActionTag="-325956332" Tag="566" RotationSkewX="35.3137" RotationSkewY="35.3073" IconVisible="False" LeftMargin="-146.1652" RightMargin="-246.8348" TopMargin="-143.8679" BottomMargin="-57.1321" ctype="SpriteObjectData">
@@ -9611,7 +9609,7 @@
                         <CColor A="255" R="255" G="149" B="0" />
                         <PrePosition />
                         <PreSize X="0.0000" Y="0.0000" />
-                        <FileData Type="Normal" Path="sfx/weapon/K_30600/attack/10011.png" Plist="" />
+                        <FileData Type="Normal" Path="sfx/weapon/K_30600/attack/10013.png" Plist="" />
                         <BlendFunc Src="1" Dst="1" />
                       </AbstractNodeData>
                       <AbstractNodeData Name="Sprite_59_0_0" ActionTag="-824481994" Tag="567" RotationSkewX="-8.4986" RotationSkewY="-8.5007" IconVisible="False" LeftMargin="-182.9578" RightMargin="-210.0422" TopMargin="-117.0682" BottomMargin="-83.9318" ctype="SpriteObjectData">
@@ -9622,7 +9620,7 @@
                         <CColor A="255" R="255" G="149" B="0" />
                         <PrePosition />
                         <PreSize X="0.0000" Y="0.0000" />
-                        <FileData Type="Normal" Path="sfx/weapon/K_30600/attack/10021.png" Plist="" />
+                        <FileData Type="Normal" Path="sfx/weapon/K_30600/attack/10023.png" Plist="" />
                         <BlendFunc Src="1" Dst="1" />
                       </AbstractNodeData>
                       <AbstractNodeData Name="Sprite_59_0_0_0" ActionTag="-203253663" Tag="568" RotationSkewX="-14.4296" RotationSkewY="-14.4348" IconVisible="False" LeftMargin="-145.4290" RightMargin="-247.5710" TopMargin="-102.8074" BottomMargin="-98.1926" ctype="SpriteObjectData">
@@ -9633,7 +9631,7 @@
                         <CColor A="255" R="255" G="149" B="0" />
                         <PrePosition />
                         <PreSize X="0.0000" Y="0.0000" />
-                        <FileData Type="Normal" Path="sfx/weapon/K_30600/attack/10031.png" Plist="" />
+                        <FileData Type="Normal" Path="sfx/weapon/K_30600/attack/10033.png" Plist="" />
                         <BlendFunc Src="1" Dst="1" />
                       </AbstractNodeData>
                       <AbstractNodeData Name="Sprite_59_0_0_0_0" ActionTag="-1172957585" Tag="569" RotationSkewX="-48.6377" RotationSkewY="-48.6420" IconVisible="False" LeftMargin="-134.3688" RightMargin="-258.6312" TopMargin="-83.7761" BottomMargin="-117.2239" ctype="SpriteObjectData">
@@ -9644,7 +9642,7 @@
                         <CColor A="255" R="255" G="149" B="0" />
                         <PrePosition />
                         <PreSize X="0.0000" Y="0.0000" />
-                        <FileData Type="Normal" Path="sfx/weapon/K_30600/attack/10041.png" Plist="" />
+                        <FileData Type="Normal" Path="sfx/weapon/K_30600/attack/10043.png" Plist="" />
                         <BlendFunc Src="1" Dst="1" />
                       </AbstractNodeData>
                       <AbstractNodeData Name="Sprite_59_0_0_0_0_0" ActionTag="828942636" Tag="570" RotationSkewX="48.0407" RotationSkewY="48.0240" IconVisible="False" LeftMargin="-111.6076" RightMargin="-281.3924" TopMargin="-136.2905" BottomMargin="-64.7095" ctype="SpriteObjectData">
@@ -9655,7 +9653,7 @@
                         <CColor A="255" R="255" G="149" B="0" />
                         <PrePosition />
                         <PreSize X="0.0000" Y="0.0000" />
-                        <FileData Type="Normal" Path="sfx/weapon/K_30600/attack/10051.png" Plist="" />
+                        <FileData Type="Normal" Path="sfx/weapon/K_30600/attack/10053.png" Plist="" />
                         <BlendFunc Src="1" Dst="1" />
                       </AbstractNodeData>
                       <AbstractNodeData Name="Sprite_59_0_0_0_0_0_0" ActionTag="-2142496246" Tag="571" RotationSkewX="37.4101" RotationSkewY="37.3650" IconVisible="False" LeftMargin="-179.8967" RightMargin="-213.1033" TopMargin="-137.8409" BottomMargin="-63.1591" ctype="SpriteObjectData">
@@ -9666,7 +9664,7 @@
                         <CColor A="255" R="255" G="149" B="0" />
                         <PrePosition />
                         <PreSize X="0.0000" Y="0.0000" />
-                        <FileData Type="Normal" Path="sfx/weapon/K_30600/attack/10061.png" Plist="" />
+                        <FileData Type="Normal" Path="sfx/weapon/K_30600/attack/10063.png" Plist="" />
                         <BlendFunc Src="1" Dst="1" />
                       </AbstractNodeData>
                       <AbstractNodeData Name="Sprite_59_0_0_0_0_0_1" ActionTag="1049201652" Tag="572" RotationSkewX="-33.8819" RotationSkewY="-33.8659" IconVisible="False" LeftMargin="-166.7052" RightMargin="-226.2948" TopMargin="-93.2124" BottomMargin="-107.7876" ctype="SpriteObjectData">
@@ -9677,7 +9675,7 @@
                         <CColor A="255" R="255" G="149" B="0" />
                         <PrePosition />
                         <PreSize X="0.0000" Y="0.0000" />
-                        <FileData Type="Normal" Path="sfx/weapon/K_30600/attack/10071.png" Plist="" />
+                        <FileData Type="Normal" Path="sfx/weapon/K_30600/attack/10001.png" Plist="" />
                         <BlendFunc Src="1" Dst="1" />
                       </AbstractNodeData>
                     </Children>
@@ -9697,7 +9695,7 @@
                           <AbstractNodeData Name="Node_1" ActionTag="195071540" Tag="575" IconVisible="True" LeftMargin="-39.1989" RightMargin="39.1989" TopMargin="11.0917" BottomMargin="-11.0917" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-861996443" Tag="576" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-861996443" Alpha="0" Tag="576" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -9705,7 +9703,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -9719,7 +9717,7 @@
                           <AbstractNodeData Name="Node_1_0" ActionTag="1691657699" Tag="577" IconVisible="True" LeftMargin="-102.7312" RightMargin="102.7312" TopMargin="25.4673" BottomMargin="-25.4673" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-625053364" Tag="578" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-625053364" Alpha="0" Tag="578" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -9727,7 +9725,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -9741,7 +9739,7 @@
                           <AbstractNodeData Name="Node_1_1" ActionTag="-1010390964" Tag="579" IconVisible="True" LeftMargin="-42.3391" RightMargin="42.3391" TopMargin="-0.6748" BottomMargin="0.6748" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="1700090967" Tag="580" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="1700090967" Alpha="0" Tag="580" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -9749,7 +9747,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -9763,7 +9761,7 @@
                           <AbstractNodeData Name="Node_1_2" ActionTag="-256428966" Tag="581" IconVisible="True" LeftMargin="-51.1743" RightMargin="51.1743" TopMargin="30.1285" BottomMargin="-30.1285" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="1012438839" Tag="582" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="1012438839" Alpha="0" Tag="582" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -9771,7 +9769,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -9785,7 +9783,7 @@
                           <AbstractNodeData Name="Node_1_3" ActionTag="-1876630578" Tag="583" IconVisible="True" LeftMargin="-24.3257" RightMargin="24.3257" TopMargin="17.8995" BottomMargin="-17.8995" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="75534447" Tag="584" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="75534447" Alpha="0" Tag="584" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -9793,7 +9791,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -9807,7 +9805,7 @@
                           <AbstractNodeData Name="Node_1_4" ActionTag="477359801" Tag="585" IconVisible="True" LeftMargin="-50.0413" RightMargin="50.0413" TopMargin="5.5334" BottomMargin="-5.5334" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="1054562981" Tag="586" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="1054562981" Alpha="0" Tag="586" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -9815,7 +9813,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -9829,7 +9827,7 @@
                           <AbstractNodeData Name="Node_1_5" ActionTag="59365116" Tag="587" IconVisible="True" LeftMargin="0.7242" RightMargin="-0.7242" TopMargin="-5.4823" BottomMargin="5.4823" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-1152496882" Tag="588" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-1152496882" Alpha="0" Tag="588" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -9837,7 +9835,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -9851,7 +9849,7 @@
                           <AbstractNodeData Name="Node_1_6" ActionTag="-917382272" Tag="589" IconVisible="True" LeftMargin="11.5322" RightMargin="-11.5322" TopMargin="-16.2093" BottomMargin="16.2093" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="1209016809" Tag="590" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="1209016809" Alpha="0" Tag="590" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -9859,7 +9857,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -9873,7 +9871,7 @@
                           <AbstractNodeData Name="Node_1_7" ActionTag="1170964013" Tag="591" IconVisible="True" LeftMargin="-53.7342" RightMargin="53.7342" TopMargin="1.7003" BottomMargin="-1.7003" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="1210300917" Tag="592" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="1210300917" Alpha="0" Tag="592" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -9881,7 +9879,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -9895,7 +9893,7 @@
                           <AbstractNodeData Name="Node_1_7_0" ActionTag="-532059375" Tag="593" IconVisible="True" LeftMargin="-9.5211" RightMargin="9.5211" TopMargin="0.8752" BottomMargin="-0.8752" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-1051367718" Tag="594" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-1051367718" Alpha="0" Tag="594" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -9903,7 +9901,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -9917,7 +9915,7 @@
                           <AbstractNodeData Name="Node_1_7_1" ActionTag="-1517302099" Tag="595" IconVisible="True" LeftMargin="3.6705" RightMargin="-3.6705" TopMargin="-6.1842" BottomMargin="6.1842" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="56556148" Tag="596" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="56556148" Alpha="0" Tag="596" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -9925,7 +9923,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -9961,7 +9959,7 @@
                           <AbstractNodeData Name="Node_1" ActionTag="-657482101" Tag="599" IconVisible="True" LeftMargin="-39.1989" RightMargin="39.1989" TopMargin="11.0917" BottomMargin="-11.0917" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-1893516032" Tag="600" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-1893516032" Alpha="0" Tag="600" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -9969,7 +9967,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -9983,7 +9981,7 @@
                           <AbstractNodeData Name="Node_1_0" ActionTag="1311275909" Tag="601" IconVisible="True" LeftMargin="-102.7312" RightMargin="102.7312" TopMargin="25.4673" BottomMargin="-25.4673" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-633749926" Tag="602" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-633749926" Alpha="0" Tag="602" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -9991,7 +9989,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10005,7 +10003,7 @@
                           <AbstractNodeData Name="Node_1_1" ActionTag="97297373" Tag="603" IconVisible="True" LeftMargin="-42.3391" RightMargin="42.3391" TopMargin="-0.6748" BottomMargin="0.6748" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-2125088453" Tag="604" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-2125088453" Alpha="0" Tag="604" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10013,7 +10011,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10027,7 +10025,7 @@
                           <AbstractNodeData Name="Node_1_2" ActionTag="-1484338844" Tag="605" IconVisible="True" LeftMargin="-51.1743" RightMargin="51.1743" TopMargin="30.1285" BottomMargin="-30.1285" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-1246403005" Tag="606" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-1246403005" Alpha="0" Tag="606" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10035,7 +10033,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10049,7 +10047,7 @@
                           <AbstractNodeData Name="Node_1_3" ActionTag="-1105213329" Tag="607" IconVisible="True" LeftMargin="-24.3257" RightMargin="24.3257" TopMargin="17.8995" BottomMargin="-17.8995" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-1689363425" Tag="608" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-1689363425" Alpha="0" Tag="608" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10057,7 +10055,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10071,7 +10069,7 @@
                           <AbstractNodeData Name="Node_1_4" ActionTag="228348313" Tag="609" IconVisible="True" LeftMargin="-50.0413" RightMargin="50.0413" TopMargin="5.5334" BottomMargin="-5.5334" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="16728847" Tag="610" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="16728847" Alpha="0" Tag="610" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10079,7 +10077,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10093,7 +10091,7 @@
                           <AbstractNodeData Name="Node_1_5" ActionTag="2133711163" Tag="611" IconVisible="True" LeftMargin="0.7242" RightMargin="-0.7242" TopMargin="-5.4823" BottomMargin="5.4823" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-1063265827" Tag="612" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-1063265827" Alpha="0" Tag="612" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10101,7 +10099,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10115,7 +10113,7 @@
                           <AbstractNodeData Name="Node_1_6" ActionTag="-1834485300" Tag="613" IconVisible="True" LeftMargin="11.5322" RightMargin="-11.5322" TopMargin="-16.2093" BottomMargin="16.2093" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-328008049" Tag="614" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-328008049" Alpha="0" Tag="614" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10123,7 +10121,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10137,7 +10135,7 @@
                           <AbstractNodeData Name="Node_1_7" ActionTag="-742864239" Tag="615" IconVisible="True" LeftMargin="-53.7342" RightMargin="53.7342" TopMargin="1.7003" BottomMargin="-1.7003" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="17273585" Tag="616" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="17273585" Alpha="0" Tag="616" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10145,7 +10143,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10159,7 +10157,7 @@
                           <AbstractNodeData Name="Node_1_7_0" ActionTag="241026498" Tag="617" IconVisible="True" LeftMargin="-9.5211" RightMargin="9.5211" TopMargin="0.8752" BottomMargin="-0.8752" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-949761644" Tag="618" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-949761644" Alpha="0" Tag="618" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10167,7 +10165,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10181,7 +10179,7 @@
                           <AbstractNodeData Name="Node_1_7_1" ActionTag="-1541647593" Tag="619" IconVisible="True" LeftMargin="3.6705" RightMargin="-3.6705" TopMargin="-6.1842" BottomMargin="6.1842" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-515790387" Tag="620" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-515790387" Alpha="0" Tag="620" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10189,7 +10187,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10225,7 +10223,7 @@
                           <AbstractNodeData Name="Node_1" ActionTag="1636019430" Tag="623" IconVisible="True" LeftMargin="-39.1989" RightMargin="39.1989" TopMargin="11.0917" BottomMargin="-11.0917" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-2049500433" Tag="624" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-2049500433" Alpha="0" Tag="624" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10233,7 +10231,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10247,7 +10245,7 @@
                           <AbstractNodeData Name="Node_1_0" ActionTag="-1512062553" Tag="625" IconVisible="True" LeftMargin="-102.7312" RightMargin="102.7312" TopMargin="25.4673" BottomMargin="-25.4673" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-71775375" Tag="626" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-71775375" Alpha="0" Tag="626" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10255,7 +10253,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10269,7 +10267,7 @@
                           <AbstractNodeData Name="Node_1_1" ActionTag="232160643" Tag="627" IconVisible="True" LeftMargin="-42.3391" RightMargin="42.3391" TopMargin="-0.6748" BottomMargin="0.6748" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="2128101951" Tag="628" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="2128101951" Alpha="0" Tag="628" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10277,7 +10275,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10291,7 +10289,7 @@
                           <AbstractNodeData Name="Node_1_2" ActionTag="279668443" Tag="629" IconVisible="True" LeftMargin="-51.1743" RightMargin="51.1743" TopMargin="30.1285" BottomMargin="-30.1285" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="1820944775" Tag="630" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="1820944775" Alpha="0" Tag="630" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10299,7 +10297,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10313,7 +10311,7 @@
                           <AbstractNodeData Name="Node_1_3" ActionTag="-64492166" Tag="631" IconVisible="True" LeftMargin="-24.3257" RightMargin="24.3257" TopMargin="17.8995" BottomMargin="-17.8995" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-1843116920" Tag="632" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-1843116920" Alpha="0" Tag="632" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10321,7 +10319,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10335,7 +10333,7 @@
                           <AbstractNodeData Name="Node_1_4" ActionTag="709047417" Tag="633" IconVisible="True" LeftMargin="-50.0413" RightMargin="50.0413" TopMargin="5.5334" BottomMargin="-5.5334" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="987008278" Tag="634" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="987008278" Alpha="0" Tag="634" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10343,7 +10341,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10357,7 +10355,7 @@
                           <AbstractNodeData Name="Node_1_5" ActionTag="-970688043" Tag="635" IconVisible="True" LeftMargin="0.7242" RightMargin="-0.7242" TopMargin="-5.4823" BottomMargin="5.4823" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-1972915547" Tag="636" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-1972915547" Alpha="0" Tag="636" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10365,7 +10363,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10379,7 +10377,7 @@
                           <AbstractNodeData Name="Node_1_6" ActionTag="-1545485074" Tag="637" IconVisible="True" LeftMargin="11.5322" RightMargin="-11.5322" TopMargin="-16.2093" BottomMargin="16.2093" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-1810752738" Tag="638" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-1810752738" Alpha="0" Tag="638" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10387,7 +10385,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10401,7 +10399,7 @@
                           <AbstractNodeData Name="Node_1_7" ActionTag="1078277207" Tag="639" IconVisible="True" LeftMargin="-53.7342" RightMargin="53.7342" TopMargin="1.7003" BottomMargin="-1.7003" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="1707732545" Tag="640" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="1707732545" Alpha="0" Tag="640" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10409,7 +10407,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10423,7 +10421,7 @@
                           <AbstractNodeData Name="Node_1_7_0" ActionTag="-1317016717" Tag="641" IconVisible="True" LeftMargin="-9.5211" RightMargin="9.5211" TopMargin="0.8752" BottomMargin="-0.8752" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-687159857" Tag="642" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-687159857" Alpha="0" Tag="642" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10431,7 +10429,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10445,7 +10443,7 @@
                           <AbstractNodeData Name="Node_1_7_1" ActionTag="-170922252" Tag="643" IconVisible="True" LeftMargin="3.6705" RightMargin="-3.6705" TopMargin="-6.1842" BottomMargin="6.1842" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="915945927" Tag="644" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="915945927" Alpha="0" Tag="644" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10453,7 +10451,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10497,7 +10495,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10511,7 +10509,7 @@
                           <AbstractNodeData Name="Node_1_0" ActionTag="-1151158882" Tag="649" IconVisible="True" LeftMargin="-102.7312" RightMargin="102.7312" TopMargin="25.4673" BottomMargin="-25.4673" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="368890461" Tag="650" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="368890461" Alpha="0" Tag="650" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10519,7 +10517,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10533,7 +10531,7 @@
                           <AbstractNodeData Name="Node_1_1" ActionTag="-1209476725" Tag="651" IconVisible="True" LeftMargin="-42.3391" RightMargin="42.3391" TopMargin="-0.6748" BottomMargin="0.6748" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="944938878" Tag="652" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="944938878" Alpha="0" Tag="652" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10541,7 +10539,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10555,7 +10553,7 @@
                           <AbstractNodeData Name="Node_1_2" ActionTag="1201124" Tag="653" IconVisible="True" LeftMargin="-51.1743" RightMargin="51.1743" TopMargin="30.1285" BottomMargin="-30.1285" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="1251001219" Tag="654" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="1251001219" Alpha="0" Tag="654" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10563,7 +10561,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10577,7 +10575,7 @@
                           <AbstractNodeData Name="Node_1_3" ActionTag="910100739" Tag="655" IconVisible="True" LeftMargin="-24.3257" RightMargin="24.3257" TopMargin="17.8995" BottomMargin="-17.8995" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="72069130" Tag="656" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="72069130" Alpha="0" Tag="656" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10585,7 +10583,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10599,7 +10597,7 @@
                           <AbstractNodeData Name="Node_1_4" ActionTag="-1100539763" Tag="657" IconVisible="True" LeftMargin="-50.0413" RightMargin="50.0413" TopMargin="5.5334" BottomMargin="-5.5334" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="1886795272" Tag="658" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="1886795272" Alpha="0" Tag="658" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10607,7 +10605,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10621,7 +10619,7 @@
                           <AbstractNodeData Name="Node_1_5" ActionTag="1866398459" Tag="659" IconVisible="True" LeftMargin="0.7242" RightMargin="-0.7242" TopMargin="-5.4823" BottomMargin="5.4823" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-1269237895" Tag="660" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-1269237895" Alpha="0" Tag="660" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10629,7 +10627,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10643,7 +10641,7 @@
                           <AbstractNodeData Name="Node_1_6" ActionTag="-69269710" Tag="661" IconVisible="True" LeftMargin="11.5322" RightMargin="-11.5322" TopMargin="-16.2093" BottomMargin="16.2093" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-2057301981" Tag="662" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-2057301981" Alpha="0" Tag="662" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10651,7 +10649,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10665,7 +10663,7 @@
                           <AbstractNodeData Name="Node_1_7" ActionTag="1100265118" Tag="663" IconVisible="True" LeftMargin="-53.7342" RightMargin="53.7342" TopMargin="1.7003" BottomMargin="-1.7003" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-820593835" Tag="664" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-820593835" Alpha="0" Tag="664" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10673,7 +10671,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10687,7 +10685,7 @@
                           <AbstractNodeData Name="Node_1_7_0" ActionTag="1763292482" Tag="665" IconVisible="True" LeftMargin="-9.5211" RightMargin="9.5211" TopMargin="0.8752" BottomMargin="-0.8752" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-2087816557" Tag="666" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-2087816557" Alpha="0" Tag="666" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10695,7 +10693,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10709,7 +10707,7 @@
                           <AbstractNodeData Name="Node_1_7_1" ActionTag="707040850" Tag="667" IconVisible="True" LeftMargin="3.6705" RightMargin="-3.6705" TopMargin="-6.1842" BottomMargin="6.1842" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-1516290802" Tag="668" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-1516290802" Alpha="0" Tag="668" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10717,7 +10715,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10753,7 +10751,7 @@
                           <AbstractNodeData Name="Node_1" ActionTag="-1038274339" Tag="671" IconVisible="True" LeftMargin="-39.1989" RightMargin="39.1989" TopMargin="11.0917" BottomMargin="-11.0917" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="918681415" Tag="672" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="918681415" Alpha="0" Tag="672" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10761,7 +10759,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10775,7 +10773,7 @@
                           <AbstractNodeData Name="Node_1_0" ActionTag="-1619350935" Tag="673" IconVisible="True" LeftMargin="-102.7312" RightMargin="102.7312" TopMargin="25.4673" BottomMargin="-25.4673" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-1075020402" Tag="674" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-1075020402" Alpha="0" Tag="674" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10783,7 +10781,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10797,7 +10795,7 @@
                           <AbstractNodeData Name="Node_1_1" ActionTag="-1130759376" Tag="675" IconVisible="True" LeftMargin="-42.3391" RightMargin="42.3391" TopMargin="-0.6748" BottomMargin="0.6748" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-2108836075" Tag="676" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-2108836075" Alpha="0" Tag="676" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10805,7 +10803,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10819,7 +10817,7 @@
                           <AbstractNodeData Name="Node_1_2" ActionTag="-1358194804" Tag="677" IconVisible="True" LeftMargin="-51.1743" RightMargin="51.1743" TopMargin="30.1285" BottomMargin="-30.1285" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-2110238659" Tag="678" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-2110238659" Alpha="0" Tag="678" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10827,7 +10825,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10841,7 +10839,7 @@
                           <AbstractNodeData Name="Node_1_3" ActionTag="-253954526" Tag="679" IconVisible="True" LeftMargin="-24.3257" RightMargin="24.3257" TopMargin="17.8995" BottomMargin="-17.8995" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-720004065" Tag="680" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-720004065" Alpha="0" Tag="680" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10849,7 +10847,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10863,7 +10861,7 @@
                           <AbstractNodeData Name="Node_1_4" ActionTag="911990631" Tag="681" IconVisible="True" LeftMargin="-50.0413" RightMargin="50.0413" TopMargin="5.5334" BottomMargin="-5.5334" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="121837474" Tag="682" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="121837474" Alpha="0" Tag="682" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10871,7 +10869,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10885,7 +10883,7 @@
                           <AbstractNodeData Name="Node_1_5" ActionTag="1397183297" Tag="683" IconVisible="True" LeftMargin="0.7242" RightMargin="-0.7242" TopMargin="-5.4823" BottomMargin="5.4823" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-349676569" Tag="684" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-349676569" Alpha="0" Tag="684" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10893,7 +10891,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10907,7 +10905,7 @@
                           <AbstractNodeData Name="Node_1_6" ActionTag="-907641952" Tag="685" IconVisible="True" LeftMargin="11.5322" RightMargin="-11.5322" TopMargin="-16.2093" BottomMargin="16.2093" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="416789930" Tag="686" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="416789930" Alpha="0" Tag="686" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10915,7 +10913,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10929,7 +10927,7 @@
                           <AbstractNodeData Name="Node_1_7" ActionTag="854971640" Tag="687" IconVisible="True" LeftMargin="-53.7342" RightMargin="53.7342" TopMargin="1.7003" BottomMargin="-1.7003" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-378918116" Tag="688" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-378918116" Alpha="0" Tag="688" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10937,7 +10935,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10951,7 +10949,7 @@
                           <AbstractNodeData Name="Node_1_7_0" ActionTag="-497219817" Tag="689" IconVisible="True" LeftMargin="-9.5211" RightMargin="9.5211" TopMargin="0.8752" BottomMargin="-0.8752" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="1568064504" Tag="690" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="1568064504" Alpha="0" Tag="690" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10959,7 +10957,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -10973,7 +10971,7 @@
                           <AbstractNodeData Name="Node_1_7_1" ActionTag="-684168506" Tag="691" IconVisible="True" LeftMargin="3.6705" RightMargin="-3.6705" TopMargin="-6.1842" BottomMargin="6.1842" ctype="SingleNodeObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <Children>
-                              <AbstractNodeData Name="Sprite_2" ActionTag="-1871511243" Tag="692" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
+                              <AbstractNodeData Name="Sprite_2" ActionTag="-1871511243" Alpha="0" Tag="692" IconVisible="False" LeftMargin="198.3884" RightMargin="-566.3884" TopMargin="-239.2551" BottomMargin="-22.7449" ctype="SpriteObjectData">
                                 <Size X="368.0000" Y="262.0000" />
                                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                                 <Position X="382.3884" Y="108.2551" />
@@ -10981,7 +10979,7 @@
                                 <CColor A="255" R="255" G="255" B="255" />
                                 <PrePosition />
                                 <PreSize X="0.0000" Y="0.0000" />
-                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0017.png" Plist="" />
+                                <FileData Type="Normal" Path="sfx/weapon/xjn4/baodian0001.png" Plist="" />
                                 <BlendFunc Src="1" Dst="771" />
                               </AbstractNodeData>
                             </Children>
@@ -11016,10 +11014,10 @@
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="FeiChuan" ActionTag="1197237813" Tag="693" IconVisible="False" LeftMargin="-341.6400" RightMargin="33.6400" TopMargin="-96.5676" BottomMargin="-87.4324" ctype="SpriteObjectData">
+              <AbstractNodeData Name="FeiChuan" ActionTag="1197237813" Alpha="0" Tag="693" IconVisible="False" LeftMargin="290.3632" RightMargin="-598.3632" TopMargin="-96.5677" BottomMargin="-87.4323" ctype="SpriteObjectData">
                 <Size X="308.0000" Y="184.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="-187.6400" Y="4.5676" />
+                <Position X="444.3632" Y="4.5677" />
                 <Scale ScaleX="0.1200" ScaleY="0.1200" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -11052,7 +11050,7 @@
               <AbstractNodeData Name="Node_2" ActionTag="-1572601442" Tag="695" IconVisible="True" LeftMargin="401.8408" RightMargin="-401.8408" TopMargin="-95.9546" BottomMargin="95.9546" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
-                  <AbstractNodeData Name="beigongji_7" ActionTag="-301258568" Tag="696" IconVisible="False" LeftMargin="-112.3437" RightMargin="-120.6563" TopMargin="-114.6937" BottomMargin="-109.3063" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="beigongji_7" ActionTag="-301258568" Alpha="0" Tag="696" IconVisible="False" LeftMargin="-112.3437" RightMargin="-120.6563" TopMargin="-114.6937" BottomMargin="-109.3063" ctype="SpriteObjectData">
                     <Size X="233.0000" Y="224.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="4.1563" Y="2.6937" />
@@ -11060,7 +11058,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FileData Type="Normal" Path="GuideLayer/sfx/weixian/10006.png" Plist="" />
+                    <FileData Type="Normal" Path="GuideLayer/sfx/weixian/10001.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
                 </Children>
@@ -11082,14 +11080,14 @@
           <AbstractNodeData Name="btn" ActionTag="-1246529267" VisibleForFrame="False" UserData="rightbottom" Tag="909" IconVisible="False" LeftMargin="982.4738" RightMargin="25.5262" TopMargin="612.9326" BottomMargin="27.0674" TouchEnable="True" LeftEage="22" RightEage="22" TopEage="15" BottomEage="15" Scale9OriginX="22" Scale9OriginY="15" Scale9Width="372" Scale9Height="386" ctype="ImageViewObjectData">
             <Size X="128.0000" Y="128.0000" />
             <Children>
-              <AbstractNodeData Name="text_miao" ActionTag="-207528622" Tag="910" IconVisible="False" LeftMargin="39.2551" RightMargin="33.7449" TopMargin="120.6948" BottomMargin="-27.6948" FontSize="23" LabelText="Base" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ShadowEnabled="True" ctype="TextObjectData">
-                <Size X="55.0000" Y="35.0000" />
+              <AbstractNodeData Name="text_miao" ActionTag="-207528622" Tag="910" IconVisible="False" LeftMargin="42.2551" RightMargin="36.7449" TopMargin="120.6948" BottomMargin="-27.6948" FontSize="23" LabelText="基地" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ShadowEnabled="True" ctype="TextObjectData">
+                <Size X="49.0000" Y="35.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="66.7551" Y="-10.1948" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="248" G="248" B="249" />
                 <PrePosition X="0.5215" Y="-0.0796" />
-                <PreSize X="0.4297" Y="0.2734" />
+                <PreSize X="0.3828" Y="0.2734" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="93" G="153" B="178" />
                 <ShadowColor A="255" R="248" G="248" B="249" />

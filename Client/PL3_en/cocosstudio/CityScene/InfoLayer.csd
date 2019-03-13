@@ -36,14 +36,14 @@
             <PreSize X="0.2033" Y="0.1393" />
             <FileData Type="Normal" Path="Common/newUI/bz_wl01.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="info" ActionTag="1480823555" Tag="451" IconVisible="False" LeftMargin="312.4889" RightMargin="303.5111" TopMargin="280.3809" BottomMargin="397.6191" IsCustomSize="True" FontSize="16" LabelText="Ni uhyijkll;;kyuhgijkl; ;k;hj kl; hjkl; jh l; jhl jjh l; jhl kh jl khj l;ljhgytgy hujikollo iNi uhyijkll;;kyuhgijkl; ;k;hj kl; hjkl; jh l; jhl jjh l; jhl kh jl khj l;ljhgytgy dgfhd hg gh gfg g hujikollo ijjkjljljljlkjljljljljljkhkjhkjhkhkj" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="520.0000" Y="90.0000" />
+          <AbstractNodeData Name="info" ActionTag="1480823555" Tag="451" IconVisible="False" LeftMargin="312.4889" RightMargin="303.5111" TopMargin="295.3817" BottomMargin="388.6183" IsCustomSize="True" FontSize="18" LabelText="Ni uhyijkll;;kyuhgijkl; ;k;hj kl; hjkl; jh l; jhl jjh l; jhl kh jl khj l;ljhgytgy hujikollo iNi uhyijkll;;kyuhgijkl; ;k;hj kl; hjkl; jh l; jhl jjh l; jhl kh jl khj l;ljhgytgy dgfhd hg gh gfg g hujikollo i" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="520.0000" Y="84.0000" />
             <AnchorPoint ScaleY="1.0000" />
-            <Position X="312.4889" Y="487.6191" />
+            <Position X="312.4889" Y="472.6183" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="202" G="202" B="205" />
-            <PrePosition X="0.2751" Y="0.6349" />
-            <PreSize X="0.4577" Y="0.1172" />
+            <PrePosition X="0.2751" Y="0.6154" />
+            <PreSize X="0.4577" Y="0.1094" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="202" G="202" B="205" />

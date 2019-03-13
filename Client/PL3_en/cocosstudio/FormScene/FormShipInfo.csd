@@ -188,10 +188,10 @@
             <FileData Type="Normal" Path="ShipQuality/quality_5.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="ship_hp" ActionTag="2057193825" Tag="366" IconVisible="False" LeftMargin="6.8500" RightMargin="-42.8500" TopMargin="105.9999" BottomMargin="-135.9999" FontSize="20" LabelText="Hp:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="ship_hp" ActionTag="2057193825" Tag="366" IconVisible="False" LeftMargin="16.8500" RightMargin="-52.8500" TopMargin="105.9999" BottomMargin="-135.9999" FontSize="20" LabelText="Hp:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="36.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="6.8500" Y="-120.9999" />
+            <Position X="16.8500" Y="-120.9999" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="226" G="239" B="242" />
             <PrePosition />
@@ -200,10 +200,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="226" G="239" B="242" />
           </AbstractNodeData>
-          <AbstractNodeData Name="ship_hp_num" ActionTag="-864365260" Tag="367" IconVisible="False" LeftMargin="131.8454" RightMargin="-178.8454" TopMargin="105.9999" BottomMargin="-135.9999" FontSize="20" LabelText="2000" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="ship_hp_num" ActionTag="-864365260" Tag="367" IconVisible="False" LeftMargin="69.8454" RightMargin="-116.8454" TopMargin="105.9999" BottomMargin="-135.9999" FontSize="20" LabelText="2000" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="47.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="131.8454" Y="-120.9999" />
+            <Position X="69.8454" Y="-120.9999" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -212,10 +212,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="ship_def" ActionTag="-936807478" Tag="368" IconVisible="False" LeftMargin="203.2651" RightMargin="-243.2651" TopMargin="105.9999" BottomMargin="-135.9999" FontSize="20" LabelText="Def:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="ship_def" ActionTag="-936807478" Tag="368" IconVisible="False" LeftMargin="190.2698" RightMargin="-230.2698" TopMargin="105.9999" BottomMargin="-135.9999" FontSize="20" LabelText="Def:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="40.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="203.2651" Y="-120.9999" />
+            <Position X="190.2698" Y="-120.9999" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="226" G="239" B="242" />
             <PrePosition />
@@ -224,10 +224,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="226" G="239" B="242" />
           </AbstractNodeData>
-          <AbstractNodeData Name="ship_def_num" ActionTag="-409495533" Tag="369" IconVisible="False" LeftMargin="343.2594" RightMargin="-390.2594" TopMargin="105.9999" BottomMargin="-135.9999" FontSize="20" LabelText="2000" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="ship_def_num" ActionTag="-409495533" Tag="369" IconVisible="False" LeftMargin="243.2710" RightMargin="-290.2710" TopMargin="105.9999" BottomMargin="-135.9999" FontSize="20" LabelText="2000" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="47.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="343.2594" Y="-120.9999" />
+            <Position X="243.2710" Y="-120.9999" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -236,10 +236,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="ship_atk" ActionTag="1306537280" Tag="370" IconVisible="False" LeftMargin="6.8498" RightMargin="-46.8498" TopMargin="131.0000" BottomMargin="-161.0000" FontSize="20" LabelText="Atk:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="ship_atk" ActionTag="1306537280" Tag="370" IconVisible="False" LeftMargin="16.8498" RightMargin="-56.8498" TopMargin="131.0000" BottomMargin="-161.0000" FontSize="20" LabelText="Atk:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="40.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="6.8498" Y="-146.0000" />
+            <Position X="16.8498" Y="-146.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="226" G="239" B="242" />
             <PrePosition />
@@ -248,10 +248,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="226" G="239" B="242" />
           </AbstractNodeData>
-          <AbstractNodeData Name="ship_atk_num" ActionTag="110799557" Tag="371" IconVisible="False" LeftMargin="135.3567" RightMargin="-182.3567" TopMargin="131.0000" BottomMargin="-161.0000" FontSize="20" LabelText="2000" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="ship_atk_num" ActionTag="110799557" Tag="371" IconVisible="False" LeftMargin="73.3567" RightMargin="-120.3567" TopMargin="131.0000" BottomMargin="-161.0000" FontSize="20" LabelText="2000" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="47.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="135.3567" Y="-146.0000" />
+            <Position X="73.3567" Y="-146.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -260,10 +260,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="ship_speed" ActionTag="1383640840" Tag="372" IconVisible="False" LeftMargin="6.8498" RightMargin="-74.8498" TopMargin="158.0000" BottomMargin="-188.0000" FontSize="20" LabelText="Speed:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="ship_speed" ActionTag="1383640840" Tag="372" IconVisible="False" LeftMargin="16.8498" RightMargin="-84.8498" TopMargin="158.0000" BottomMargin="-188.0000" FontSize="20" LabelText="Speed:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="68.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="6.8498" Y="-173.0000" />
+            <Position X="16.8498" Y="-173.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="226" G="239" B="242" />
             <PrePosition />
@@ -272,10 +272,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="226" G="239" B="242" />
           </AbstractNodeData>
-          <AbstractNodeData Name="ship_speed_num" ActionTag="-1270069010" Tag="373" IconVisible="False" LeftMargin="136.9119" RightMargin="-183.9119" TopMargin="158.0000" BottomMargin="-188.0000" FontSize="20" LabelText="2000" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="ship_speed_num" ActionTag="-1270069010" Tag="373" IconVisible="False" LeftMargin="74.9119" RightMargin="-121.9119" TopMargin="158.0000" BottomMargin="-188.0000" FontSize="20" LabelText="2000" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="47.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="136.9119" Y="-173.0000" />
+            <Position X="74.9119" Y="-173.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -284,10 +284,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="ship_e_atk" ActionTag="1137624799" Tag="888" IconVisible="False" LeftMargin="203.2651" RightMargin="-243.2651" TopMargin="130.9999" BottomMargin="-160.9999" FontSize="20" LabelText="Atk:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="ship_e_atk" ActionTag="1137624799" Tag="888" IconVisible="False" LeftMargin="190.2698" RightMargin="-230.2698" TopMargin="131.0000" BottomMargin="-161.0000" FontSize="20" LabelText="Atk:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="40.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="203.2651" Y="-145.9999" />
+            <Position X="190.2698" Y="-146.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="226" G="239" B="242" />
             <PrePosition />
@@ -296,10 +296,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="226" G="239" B="242" />
           </AbstractNodeData>
-          <AbstractNodeData Name="ship_e_atk_num" ActionTag="-1218220144" Tag="889" IconVisible="False" LeftMargin="347.4377" RightMargin="-394.4377" TopMargin="131.0000" BottomMargin="-161.0000" FontSize="20" LabelText="2000" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="ship_e_atk_num" ActionTag="-1218220144" Tag="889" IconVisible="False" LeftMargin="247.4496" RightMargin="-294.4496" TopMargin="131.0000" BottomMargin="-161.0000" FontSize="20" LabelText="2000" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="47.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="347.4377" Y="-146.0000" />
+            <Position X="247.4496" Y="-146.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -308,10 +308,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="ship_dur" ActionTag="-1020266572" Tag="196" IconVisible="False" LeftMargin="203.2656" RightMargin="-243.2656" TopMargin="156.0002" BottomMargin="-186.0002" FontSize="20" LabelText="Atk:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="ship_dur" ActionTag="-1020266572" Tag="196" IconVisible="False" LeftMargin="190.2703" RightMargin="-230.2703" TopMargin="156.0001" BottomMargin="-186.0001" FontSize="20" LabelText="Atk:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="40.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="203.2656" Y="-171.0002" />
+            <Position X="190.2703" Y="-171.0001" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="226" G="239" B="242" />
             <PrePosition />
@@ -320,10 +320,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="226" G="239" B="242" />
           </AbstractNodeData>
-          <AbstractNodeData Name="ship_dur_num" ActionTag="-1152042954" Tag="197" IconVisible="False" LeftMargin="277.4451" RightMargin="-324.4451" TopMargin="156.0002" BottomMargin="-186.0002" FontSize="20" LabelText="2000" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="ship_dur_num" ActionTag="-1152042954" Tag="197" IconVisible="False" LeftMargin="247.4504" RightMargin="-294.4504" TopMargin="156.0001" BottomMargin="-186.0001" FontSize="20" LabelText="2000" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="47.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="277.4451" Y="-171.0002" />
+            <Position X="247.4504" Y="-171.0001" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -332,10 +332,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="ship_dur_max" ActionTag="1621234075" Tag="198" IconVisible="False" LeftMargin="322.2947" RightMargin="-369.2947" TopMargin="155.5591" BottomMargin="-185.5591" FontSize="20" LabelText="2000" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="ship_dur_max" ActionTag="1621234075" Tag="198" IconVisible="False" LeftMargin="292.3005" RightMargin="-339.3005" TopMargin="155.5590" BottomMargin="-185.5590" FontSize="20" LabelText="2000" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="47.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="322.2947" Y="-170.5591" />
+            <Position X="292.3005" Y="-170.5590" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

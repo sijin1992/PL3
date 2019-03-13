@@ -519,10 +519,10 @@
       <ObjectData Name="Node" Tag="578" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="state" ActionTag="-307600318" Tag="584" IconVisible="False" LeftMargin="59.0693" RightMargin="-163.0693" TopMargin="-10.5119" BottomMargin="-15.4881" FontSize="17" LabelText="Upgrading..." ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="state" ActionTag="-307600318" Tag="584" IconVisible="False" LeftMargin="97.0702" RightMargin="-201.0702" TopMargin="-10.5118" BottomMargin="-15.4882" FontSize="17" LabelText="Upgrading..." ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="104.0000" Y="26.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="59.0693" Y="-2.4881" />
+            <Position X="97.0702" Y="-2.4882" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -543,10 +543,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="lv_next" ActionTag="-1522517682" Tag="587" IconVisible="False" LeftMargin="40.0520" RightMargin="-52.0520" TopMargin="-8.6395" BottomMargin="-17.3605" FontSize="17" LabelText="2" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="lv_next" ActionTag="-1522517682" Tag="587" IconVisible="False" LeftMargin="51.0523" RightMargin="-63.0523" TopMargin="-8.6395" BottomMargin="-17.3605" FontSize="17" LabelText="2" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="12.0000" Y="26.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="40.0520" Y="-4.3605" />
+            <Position X="51.0523" Y="-4.3605" />
             <Scale ScaleX="0.8766" ScaleY="0.8766" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -555,10 +555,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="arrow" ActionTag="-309579874" Tag="598" IconVisible="False" LeftMargin="6.1681" RightMargin="-44.1681" TopMargin="-18.8549" BottomMargin="-19.1451" ctype="SpriteObjectData">
+          <AbstractNodeData Name="arrow" ActionTag="-309579874" Tag="598" IconVisible="False" LeftMargin="13.1678" RightMargin="-51.1678" TopMargin="-18.8549" BottomMargin="-19.1451" ctype="SpriteObjectData">
             <Size X="38.0000" Y="38.0000" />
             <AnchorPoint ScaleX="0.5306" ScaleY="0.4895" />
-            <Position X="26.3309" Y="-0.5441" />
+            <Position X="33.3306" Y="-0.5441" />
             <Scale ScaleX="0.4600" ScaleY="0.4600" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

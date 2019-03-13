@@ -405,19 +405,15 @@ function ForgeEquipInfoLayer:onEnterTransitionFinish()
 				if not self:getParent():getChildByName("makesureLayer") then
 					local node = require("app.ExResInterface"):getInstance():FastLoad("CityScene/AddStrengthLayer_Tips.csb")
 					node:setName("makesureLayer")
-                    node:getChildByName("Text_2"):setVisible(true)
-                    node:getChildByName("Text_1_0_0_0"):setVisible(false)
-					node:getChildByName("Text_2"):setString(CONF:getStringValue("pay_forge"))
+					node:getChildByName("Text_1_0_0_0"):setString(CONF:getStringValue("pay_forge"))
 					node:getChildByName("strenth_count"):setVisible(false)
 					node:setPosition(0,0)
 
 
 					self:getParent():addChild(node)
-                    node:getChildByName("cancel"):getChildByName("strenth_text_text_0"):setString(CONF:getStringValue("cancel"))
 					node:getChildByName("cancel"):addClickEventListener(function()
 						node:removeFromParent()
 						end)
-                    node:getChildByName("buy_SureBtn"):getChildByName("strenth_text_text_0_0"):setString(CONF:getStringValue("yes"))
 					node:getChildByName("buy_SureBtn"):addClickEventListener(function()
 						if player:getMoney() <= player:getSpeedUpNeedMoney(time) then
 							tips:tips(CONF:getStringValue("no enought credit"))

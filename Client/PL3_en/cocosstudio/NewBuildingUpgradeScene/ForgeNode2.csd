@@ -250,10 +250,10 @@
             <FileData Type="Normal" Path="NewBuildingUpgradeScene/ui/ware_house_info.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="equip_text" ActionTag="1725267237" Tag="176" IconVisible="False" LeftMargin="23.9545" RightMargin="-125.9545" TopMargin="117.4186" BottomMargin="-147.4186" FontSize="20" LabelText="Text Label" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="equip_text" ActionTag="1725267237" Tag="176" IconVisible="False" LeftMargin="86.2077" RightMargin="-188.2077" TopMargin="123.8030" BottomMargin="-153.8030" FontSize="20" LabelText="Text Label" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="102.0000" Y="30.0000" />
             <AnchorPoint ScaleY="1.0000" />
-            <Position X="23.9545" Y="-117.4186" />
+            <Position X="86.2077" Y="-123.8030" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

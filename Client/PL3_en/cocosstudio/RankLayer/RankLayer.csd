@@ -110,7 +110,7 @@
                 <PreSize X="1.0000" Y="1.3670" />
                 <FileData Type="Normal" Path="Common/newUI/rw_bottom.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="player_power" ActionTag="-705801360" Alpha="0" Tag="126" IconVisible="False" LeftMargin="1.0900" RightMargin="-6.0900" TopMargin="10.5473" BottomMargin="435.4527" TouchEnable="True" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="player_power" ActionTag="-705801360" Alpha="0" Tag="126" IconVisible="False" LeftMargin="1.0900" RightMargin="-6.0900" TopMargin="10.5473" BottomMargin="435.4527" TouchEnable="True" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="120" Scale9Height="14" ctype="ImageViewObjectData">
                 <Size X="185.0000" Y="69.0000" />
                 <AnchorPoint ScaleY="0.5000" />
                 <Position X="1.0900" Y="469.9527" />
@@ -130,19 +130,19 @@
                 <PreSize X="0.0056" Y="0.2058" />
                 <FileData Type="Normal" Path="Common/newUI/line_fg01.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="player_power_text" ActionTag="926834961" Tag="130" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="29.6520" RightMargin="45.3480" TopMargin="33.5260" BottomMargin="457.4740" FontSize="16" LabelText="Player Power" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="105.0000" Y="24.0000" />
+              <AbstractNodeData Name="player_power_text" ActionTag="926834961" Tag="130" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="11.1520" RightMargin="26.8480" TopMargin="29.0260" BottomMargin="452.9740" FontSize="22" LabelText="Player Power" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="142.0000" Y="33.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="82.1520" Y="469.4740" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="209" G="209" B="209" />
                 <PrePosition X="0.4564" Y="0.9116" />
-                <PreSize X="0.5833" Y="0.0466" />
+                <PreSize X="0.7889" Y="0.0641" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="209" G="209" B="209" />
               </AbstractNodeData>
-              <AbstractNodeData Name="PlayerLevel" ActionTag="615886191" Alpha="0" Tag="131" IconVisible="False" LeftMargin="1.0900" RightMargin="-6.0900" TopMargin="81.3260" BottomMargin="364.6740" TouchEnable="True" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="PlayerLevel" ActionTag="615886191" Alpha="0" Tag="131" IconVisible="False" LeftMargin="1.0900" RightMargin="-6.0900" TopMargin="81.3260" BottomMargin="364.6740" TouchEnable="True" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="120" Scale9Height="14" ctype="ImageViewObjectData">
                 <Size X="185.0000" Y="69.0000" />
                 <AnchorPoint ScaleY="0.5000" />
                 <Position X="1.0900" Y="399.1740" />
@@ -152,14 +152,14 @@
                 <PreSize X="1.0278" Y="0.1340" />
                 <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="PlayerLevel_text" ActionTag="1598842185" Tag="134" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="33.6520" RightMargin="49.3480" TopMargin="108.9735" BottomMargin="382.0265" FontSize="16" LabelText="Player Level" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="97.0000" Y="24.0000" />
+              <AbstractNodeData Name="PlayerLevel_text" ActionTag="1598842185" Tag="134" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="17.6520" RightMargin="33.3480" TopMargin="104.4735" BottomMargin="377.5265" FontSize="22" LabelText="Player Level" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="129.0000" Y="33.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="82.1520" Y="394.0265" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="209" G="209" B="209" />
                 <PrePosition X="0.4564" Y="0.7651" />
-                <PreSize X="0.5389" Y="0.0466" />
+                <PreSize X="0.7167" Y="0.0641" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="209" G="209" B="209" />
@@ -174,7 +174,7 @@
                 <PreSize X="0.0056" Y="0.2078" />
                 <FileData Type="Normal" Path="Common/newUI/line_fg01.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="CentreLevel" ActionTag="2077839042" Alpha="0" Tag="135" IconVisible="False" LeftMargin="1.0900" RightMargin="-6.0900" TopMargin="150.5436" BottomMargin="295.4564" TouchEnable="True" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="CentreLevel" ActionTag="2077839042" Alpha="0" Tag="135" IconVisible="False" LeftMargin="1.0900" RightMargin="-6.0900" TopMargin="150.5436" BottomMargin="295.4564" TouchEnable="True" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="120" Scale9Height="14" ctype="ImageViewObjectData">
                 <Size X="185.0000" Y="69.0000" />
                 <AnchorPoint ScaleY="0.5000" />
                 <Position X="1.0900" Y="329.9564" />
@@ -194,19 +194,19 @@
                 <PreSize X="0.0056" Y="0.2058" />
                 <FileData Type="Normal" Path="Common/newUI/line_fg01.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="CentreLevel_text" ActionTag="-367360800" Tag="138" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="45.7000" RightMargin="49.3000" TopMargin="181.3310" BottomMargin="309.6690" FontSize="16" LabelText="Main Level" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="85.0000" Y="24.0000" />
+              <AbstractNodeData Name="CentreLevel_text" ActionTag="-367360800" Tag="138" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="25.6520" RightMargin="41.3480" TopMargin="176.8310" BottomMargin="305.1690" FontSize="22" LabelText="Main Level" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="113.0000" Y="33.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="88.2000" Y="321.6690" />
+                <Position X="82.1520" Y="321.6690" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="209" G="209" B="209" />
-                <PrePosition X="0.4900" Y="0.6246" />
-                <PreSize X="0.4722" Y="0.0466" />
+                <PrePosition X="0.4564" Y="0.6246" />
+                <PreSize X="0.6278" Y="0.0641" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="209" G="209" B="209" />
               </AbstractNodeData>
-              <AbstractNodeData Name="leaguePower" ActionTag="-539508354" Alpha="0" Tag="143" IconVisible="False" LeftMargin="1.0900" RightMargin="-6.0900" TopMargin="220.5428" BottomMargin="225.4572" TouchEnable="True" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="leaguePower" ActionTag="-539508354" Alpha="0" Tag="143" IconVisible="False" LeftMargin="1.0900" RightMargin="-6.0900" TopMargin="220.5428" BottomMargin="225.4572" TouchEnable="True" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="120" Scale9Height="14" ctype="ImageViewObjectData">
                 <Size X="185.0000" Y="69.0000" />
                 <AnchorPoint ScaleY="0.5000" />
                 <Position X="1.0900" Y="259.9572" />
@@ -226,19 +226,19 @@
                 <PreSize X="0.0056" Y="0.2058" />
                 <FileData Type="Normal" Path="Common/newUI/line_fg01.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="leaguePower_text" ActionTag="-1251145799" Tag="146" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="30.1520" RightMargin="45.8480" TopMargin="244.4700" BottomMargin="246.5300" FontSize="16" LabelText="Group Power" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="104.0000" Y="24.0000" />
+              <AbstractNodeData Name="leaguePower_text" ActionTag="-1251145799" Tag="146" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="11.6520" RightMargin="27.3480" TopMargin="239.9700" BottomMargin="242.0300" FontSize="22" LabelText="Group Power" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="141.0000" Y="33.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="82.1520" Y="258.5300" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="209" G="209" B="209" />
                 <PrePosition X="0.4564" Y="0.5020" />
-                <PreSize X="0.5778" Y="0.0466" />
+                <PreSize X="0.7833" Y="0.0641" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="209" G="209" B="209" />
               </AbstractNodeData>
-              <AbstractNodeData Name="arena_rank" ActionTag="2119910883" Alpha="0" Tag="147" IconVisible="False" LeftMargin="0.9997" RightMargin="-5.9997" TopMargin="292.6828" BottomMargin="153.3172" TouchEnable="True" Scale9Enable="True" LeftEage="13" RightEage="17" TopEage="22" BottomEage="22" Scale9OriginX="13" Scale9OriginY="22" Scale9Width="178" Scale9Height="18" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="arena_rank" ActionTag="2119910883" Alpha="0" Tag="147" IconVisible="False" LeftMargin="0.9997" RightMargin="-5.9997" TopMargin="292.6828" BottomMargin="153.3172" TouchEnable="True" Scale9Enable="True" LeftEage="13" RightEage="17" TopEage="22" BottomEage="22" Scale9OriginX="13" Scale9OriginY="22" Scale9Width="160" Scale9Height="14" ctype="ImageViewObjectData">
                 <Size X="185.0000" Y="69.0000" />
                 <AnchorPoint ScaleY="0.5000" />
                 <Position X="0.9997" Y="187.8172" />
@@ -258,19 +258,19 @@
                 <PreSize X="0.0056" Y="0.2039" />
                 <FileData Type="Normal" Path="Common/newUI/line_fg01.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="arena_rank_text" ActionTag="949584782" Tag="150" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="36.6520" RightMargin="52.3480" TopMargin="314.0465" BottomMargin="176.9535" FontSize="16" LabelText="Arena Rank" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="91.0000" Y="24.0000" />
+              <AbstractNodeData Name="arena_rank_text" ActionTag="949584782" Tag="150" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="20.1520" RightMargin="35.8480" TopMargin="309.5465" BottomMargin="172.4535" FontSize="22" LabelText="Arena Rank" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="124.0000" Y="33.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="82.1520" Y="188.9535" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="209" G="209" B="209" />
                 <PrePosition X="0.4564" Y="0.3669" />
-                <PreSize X="0.5056" Y="0.0466" />
+                <PreSize X="0.6889" Y="0.0641" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="209" G="209" B="209" />
               </AbstractNodeData>
-              <AbstractNodeData Name="trial_rank" ActionTag="-992288444" Alpha="0" Tag="151" IconVisible="False" LeftMargin="0.9998" RightMargin="-5.9998" TopMargin="366.6517" BottomMargin="79.3483" TouchEnable="True" Scale9Enable="True" LeftEage="13" RightEage="17" TopEage="22" BottomEage="22" Scale9OriginX="13" Scale9OriginY="22" Scale9Width="178" Scale9Height="18" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="trial_rank" ActionTag="-992288444" Alpha="0" Tag="151" IconVisible="False" LeftMargin="0.9998" RightMargin="-5.9998" TopMargin="366.6517" BottomMargin="79.3483" TouchEnable="True" Scale9Enable="True" LeftEage="13" RightEage="17" TopEage="22" BottomEage="22" Scale9OriginX="13" Scale9OriginY="22" Scale9Width="160" Scale9Height="14" ctype="ImageViewObjectData">
                 <Size X="185.0000" Y="69.0000" />
                 <AnchorPoint ScaleY="0.5000" />
                 <Position X="0.9998" Y="113.8483" />
@@ -290,14 +290,14 @@
                 <PreSize X="0.0056" Y="0.2058" />
                 <FileData Type="Normal" Path="Common/newUI/line_fg01.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="trial_rank_text" ActionTag="1796537526" Tag="154" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="41.6520" RightMargin="57.3480" TopMargin="389.0820" BottomMargin="101.9180" FontSize="16" LabelText="Trial Rank" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="81.0000" Y="24.0000" />
+              <AbstractNodeData Name="trial_rank_text" ActionTag="1796537526" Tag="154" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="27.6520" RightMargin="43.3480" TopMargin="384.5820" BottomMargin="97.4180" FontSize="22" LabelText="Trial Rank" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="109.0000" Y="33.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="82.1520" Y="113.9180" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="209" G="209" B="209" />
                 <PrePosition X="0.4564" Y="0.2212" />
-                <PreSize X="0.4500" Y="0.0466" />
+                <PreSize X="0.6056" Y="0.0641" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="209" G="209" B="209" />
@@ -321,17 +321,17 @@
             <PreSize X="0.1585" Y="0.6706" />
             <FileData Type="Normal" Path="Common/newUI/rw_bottom.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="btnReward" ActionTag="-69370128" UserData="lefttop" Tag="36" IconVisible="False" LeftMargin="853.1913" RightMargin="132.8087" TopMargin="91.8286" BottomMargin="636.1714" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="100" Scale9Height="18" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-            <Size X="150.0000" Y="40.0000" />
+          <AbstractNodeData Name="btnReward" ActionTag="-69370128" UserData="lefttop" Tag="36" IconVisible="False" LeftMargin="863.1913" RightMargin="142.8087" TopMargin="91.8286" BottomMargin="636.1714" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="100" Scale9Height="18" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+            <Size X="130.0000" Y="40.0000" />
             <Children>
-              <AbstractNodeData Name="text" ActionTag="-1454831592" Tag="515" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="46.5000" RightMargin="46.5000" TopMargin="8.5000" BottomMargin="-1.5000" FontSize="22" LabelText="Rank" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="57.0000" Y="33.0000" />
+              <AbstractNodeData Name="text" ActionTag="-1454831592" Tag="515" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="42.0000" RightMargin="42.0000" TopMargin="8.5000" BottomMargin="-1.5000" FontSize="22" LabelText="排行" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="46.0000" Y="33.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="75.0000" Y="15.0000" />
+                <Position X="65.0000" Y="15.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="214" G="229" B="245" />
                 <PrePosition X="0.5000" Y="0.3750" />
-                <PreSize X="0.3800" Y="0.8250" />
+                <PreSize X="0.3538" Y="0.8250" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="214" G="229" B="245" />
@@ -342,7 +342,7 @@
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.8171" Y="0.8804" />
-            <PreSize X="0.1320" Y="0.0521" />
+            <PreSize X="0.1144" Y="0.0521" />
             <TextColor A="255" R="65" G="65" B="70" />
             <DisabledFileData Type="Normal" Path="Common/newUI/button_blue_grray.png" Plist="" />
             <PressedFileData Type="Normal" Path="Common/newUI/button_yellow_light.png" Plist="" />

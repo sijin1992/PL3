@@ -75,20 +75,6 @@
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="effect_list" ActionTag="64386561" Tag="2920" IconVisible="False" LeftMargin="-223.8915" RightMargin="23.8915" TopMargin="73.9242" BottomMargin="-193.9242" TouchEnable="True" ClipAble="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" IsBounceEnabled="True" ScrollDirectionType="Vertical" ctype="ScrollViewObjectData">
-                <Size X="200.0000" Y="120.0000" />
-                <AnchorPoint ScaleY="1.0000" />
-                <Position X="-223.8915" Y="-73.9242" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition />
-                <PreSize X="0.0000" Y="0.0000" />
-                <SingleColor A="255" R="255" G="150" B="100" />
-                <FirstColor A="255" R="255" G="150" B="100" />
-                <EndColor A="255" R="255" G="255" B="255" />
-                <ColorVector ScaleY="1.0000" />
-                <InnerNodeSize Width="200" Height="120" />
-              </AbstractNodeData>
             </Children>
             <AnchorPoint />
             <Position X="-2.4640" Y="-4.2196" />

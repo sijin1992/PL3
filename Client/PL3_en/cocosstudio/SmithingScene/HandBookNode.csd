@@ -12,7 +12,7 @@
               <AbstractNodeData Name="mode_1" ActionTag="-733049707" Tag="3509" IconVisible="True" LeftMargin="96.8405" RightMargin="81.1595" TopMargin="29.1909" BottomMargin="450.8091" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
-                  <AbstractNodeData Name="normal" ActionTag="-1357403453" Alpha="0" Tag="3510" IconVisible="False" LeftMargin="-98.6128" RightMargin="-86.3872" TopMargin="-32.9999" BottomMargin="-31.0001" TouchEnable="True" LeftEage="102" RightEage="102" TopEage="22" BottomEage="22" Scale9OriginX="102" Scale9OriginY="22" Scale9Width="4" Scale9Height="18" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="normal" ActionTag="-1357403453" Alpha="0" Tag="3510" IconVisible="False" LeftMargin="-98.6128" RightMargin="-86.3872" TopMargin="-32.9999" BottomMargin="-31.0001" TouchEnable="True" LeftEage="102" RightEage="102" TopEage="22" BottomEage="22" Scale9OriginX="88" Scale9OriginY="22" Scale9Width="14" Scale9Height="14" ctype="ImageViewObjectData">
                     <Size X="185.0000" Y="64.0000" />
                     <AnchorPoint ScaleX="0.4990" ScaleY="0.5000" />
                     <Position X="-6.2978" Y="0.9999" />
@@ -22,7 +22,7 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="selected" ActionTag="-909278666" Tag="3511" IconVisible="False" LeftMargin="-98.8000" RightMargin="-86.2000" TopMargin="-29.0000" BottomMargin="-31.0000" TouchEnable="True" Scale9Enable="True" RightEage="27" TopEage="22" BottomEage="22" Scale9OriginY="22" Scale9Width="181" Scale9Height="18" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="selected" ActionTag="-909278666" Tag="3511" IconVisible="False" LeftMargin="-98.8000" RightMargin="-86.2000" TopMargin="-29.0000" BottomMargin="-31.0000" TouchEnable="True" Scale9Enable="True" RightEage="27" TopEage="22" BottomEage="22" Scale9OriginY="22" Scale9Width="163" Scale9Height="14" ctype="ImageViewObjectData">
                     <Size X="185.0000" Y="60.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="-6.3000" Y="-1.0000" />
@@ -65,10 +65,10 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/line_fg01.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="text_0" ActionTag="804233946" VisibleForFrame="False" Tag="3515" IconVisible="False" LeftMargin="-39.0000" RightMargin="-39.0000" TopMargin="-18.9998" BottomMargin="-19.0002" FontSize="25" LabelText="传感器" ShadowOffsetX="1.5000" ShadowOffsetY="-2.5000" ShadowEnabled="True" ctype="TextObjectData">
+                  <AbstractNodeData Name="text_0" ActionTag="804233946" VisibleForFrame="False" Tag="3515" IconVisible="False" LeftMargin="-16.9991" RightMargin="-61.0009" TopMargin="-18.9998" BottomMargin="-19.0002" FontSize="25" LabelText="传感器" ShadowOffsetX="1.5000" ShadowOffsetY="-2.5000" ShadowEnabled="True" ctype="TextObjectData">
                     <Size X="78.0000" Y="38.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position Y="-0.0002" />
+                    <Position X="22.0009" Y="-0.0002" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="254" G="255" B="254" />
                     <PrePosition />
@@ -88,7 +88,7 @@
               <AbstractNodeData Name="mode_2" ActionTag="1377624061" Tag="3516" IconVisible="True" LeftMargin="96.8400" RightMargin="81.1600" TopMargin="94.0056" BottomMargin="385.9944" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
-                  <AbstractNodeData Name="normal" ActionTag="-1277269364" Alpha="0" Tag="3517" IconVisible="False" LeftMargin="-98.4984" RightMargin="-86.5016" TopMargin="-34.0001" BottomMargin="-29.9999" TouchEnable="True" LeftEage="102" RightEage="102" TopEage="22" BottomEage="22" Scale9OriginX="102" Scale9OriginY="22" Scale9Width="4" Scale9Height="18" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="normal" ActionTag="-1277269364" Alpha="0" Tag="3517" IconVisible="False" LeftMargin="-98.4984" RightMargin="-86.5016" TopMargin="-34.0001" BottomMargin="-29.9999" TouchEnable="True" LeftEage="102" RightEage="102" TopEage="22" BottomEage="22" Scale9OriginX="88" Scale9OriginY="22" Scale9Width="14" Scale9Height="14" ctype="ImageViewObjectData">
                     <Size X="185.0000" Y="64.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="-5.9984" Y="2.0001" />
@@ -98,7 +98,7 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="selected" ActionTag="526145395" VisibleForFrame="False" Tag="3518" IconVisible="False" LeftMargin="-98.8000" RightMargin="-86.2000" TopMargin="-31.0000" BottomMargin="-29.0000" TouchEnable="True" Scale9Enable="True" RightEage="27" TopEage="22" BottomEage="22" Scale9OriginY="22" Scale9Width="181" Scale9Height="18" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="selected" ActionTag="526145395" VisibleForFrame="False" Tag="3518" IconVisible="False" LeftMargin="-98.8000" RightMargin="-86.2000" TopMargin="-31.0000" BottomMargin="-29.0000" TouchEnable="True" Scale9Enable="True" RightEage="27" TopEage="22" BottomEage="22" Scale9OriginY="22" Scale9Width="163" Scale9Height="14" ctype="ImageViewObjectData">
                     <Size X="185.0000" Y="60.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="-6.3000" Y="1.0000" />
@@ -141,10 +141,10 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/line_fg01.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="text_0" ActionTag="1844448388" VisibleForFrame="False" Tag="3522" IconVisible="False" LeftMargin="-25.0000" RightMargin="-25.0000" TopMargin="-19.0000" BottomMargin="-19.0000" FontSize="25" LabelText="装甲" ShadowOffsetX="1.5000" ShadowOffsetY="-2.5000" ShadowEnabled="True" ctype="TextObjectData">
+                  <AbstractNodeData Name="text_0" ActionTag="1844448388" VisibleForFrame="False" Tag="3522" IconVisible="False" LeftMargin="-3.0007" RightMargin="-46.9993" TopMargin="-19.0000" BottomMargin="-19.0000" FontSize="25" LabelText="装甲" ShadowOffsetX="1.5000" ShadowOffsetY="-2.5000" ShadowEnabled="True" ctype="TextObjectData">
                     <Size X="50.0000" Y="38.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position />
+                    <Position X="21.9993" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="254" G="255" B="254" />
                     <PrePosition />
@@ -164,7 +164,7 @@
               <AbstractNodeData Name="mode_3" ActionTag="-949520046" Tag="3523" IconVisible="True" LeftMargin="95.8198" RightMargin="82.1802" TopMargin="155.4145" BottomMargin="324.5855" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
-                  <AbstractNodeData Name="normal" ActionTag="492990734" Alpha="0" Tag="3524" IconVisible="False" LeftMargin="-98.4986" RightMargin="-86.5014" TopMargin="-31.9999" BottomMargin="-32.0001" TouchEnable="True" LeftEage="102" RightEage="102" TopEage="22" BottomEage="22" Scale9OriginX="102" Scale9OriginY="22" Scale9Width="4" Scale9Height="18" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="normal" ActionTag="492990734" Alpha="0" Tag="3524" IconVisible="False" LeftMargin="-98.4986" RightMargin="-86.5014" TopMargin="-31.9999" BottomMargin="-32.0001" TouchEnable="True" LeftEage="102" RightEage="102" TopEage="22" BottomEage="22" Scale9OriginX="88" Scale9OriginY="22" Scale9Width="14" Scale9Height="14" ctype="ImageViewObjectData">
                     <Size X="185.0000" Y="64.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="-5.9986" Y="-0.0001" />
@@ -174,7 +174,7 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="selected" ActionTag="-872185118" VisibleForFrame="False" Tag="3525" IconVisible="False" LeftMargin="-98.8000" RightMargin="-86.2000" TopMargin="-29.0000" BottomMargin="-31.0000" TouchEnable="True" Scale9Enable="True" RightEage="27" TopEage="22" BottomEage="22" Scale9OriginY="22" Scale9Width="181" Scale9Height="18" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="selected" ActionTag="-872185118" VisibleForFrame="False" Tag="3525" IconVisible="False" LeftMargin="-98.8000" RightMargin="-86.2000" TopMargin="-29.0000" BottomMargin="-31.0000" TouchEnable="True" Scale9Enable="True" RightEage="27" TopEage="22" BottomEage="22" Scale9OriginY="22" Scale9Width="163" Scale9Height="14" ctype="ImageViewObjectData">
                     <Size X="185.0000" Y="60.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="-6.3000" Y="-1.0000" />
@@ -217,10 +217,10 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/line_fg01.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="text_0" ActionTag="1414766933" VisibleForFrame="False" Tag="3529" IconVisible="False" LeftMargin="-26.0000" RightMargin="-26.0000" TopMargin="-19.0003" BottomMargin="-18.9997" FontSize="25" LabelText="机翼" ShadowOffsetX="1.5000" ShadowOffsetY="-2.5000" ShadowEnabled="True" ctype="TextObjectData">
+                  <AbstractNodeData Name="text_0" ActionTag="1414766933" VisibleForFrame="False" Tag="3529" IconVisible="False" LeftMargin="-4.0000" RightMargin="-48.0000" TopMargin="-19.0003" BottomMargin="-18.9997" FontSize="25" LabelText="机翼" ShadowOffsetX="1.5000" ShadowOffsetY="-2.5000" ShadowEnabled="True" ctype="TextObjectData">
                     <Size X="52.0000" Y="38.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position Y="0.0003" />
+                    <Position X="22.0000" Y="0.0003" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="254" G="255" B="254" />
                     <PrePosition />
@@ -240,7 +240,7 @@
               <AbstractNodeData Name="mode_4" ActionTag="1812149888" Tag="3530" IconVisible="True" LeftMargin="96.8400" RightMargin="81.1600" TopMargin="215.9812" BottomMargin="264.0188" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
-                  <AbstractNodeData Name="normal" ActionTag="1587231799" Alpha="0" Tag="3531" IconVisible="False" LeftMargin="-98.2088" RightMargin="-86.7912" TopMargin="-29.7103" BottomMargin="-34.2897" TouchEnable="True" Scale9Enable="True" LeftEage="102" RightEage="102" TopEage="22" BottomEage="22" Scale9OriginX="102" Scale9OriginY="22" Scale9Width="4" Scale9Height="18" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="normal" ActionTag="1587231799" Alpha="0" Tag="3531" IconVisible="False" LeftMargin="-98.2088" RightMargin="-86.7912" TopMargin="-29.7103" BottomMargin="-34.2897" TouchEnable="True" Scale9Enable="True" LeftEage="102" RightEage="102" TopEage="22" BottomEage="22" Scale9OriginX="88" Scale9OriginY="22" Scale9Width="14" Scale9Height="14" ctype="ImageViewObjectData">
                     <Size X="185.0000" Y="64.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="-5.7088" Y="-2.2897" />
@@ -250,7 +250,7 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="selected" ActionTag="1681432697" VisibleForFrame="False" Tag="3532" IconVisible="False" LeftMargin="-98.8000" RightMargin="-86.2000" TopMargin="-28.0000" BottomMargin="-32.0000" TouchEnable="True" Scale9Enable="True" RightEage="17" TopEage="27" BottomEage="27" Scale9OriginY="27" Scale9Width="191" Scale9Height="8" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="selected" ActionTag="1681432697" VisibleForFrame="False" Tag="3532" IconVisible="False" LeftMargin="-98.8000" RightMargin="-86.2000" TopMargin="-28.0000" BottomMargin="-32.0000" TouchEnable="True" Scale9Enable="True" RightEage="17" TopEage="27" BottomEage="27" Scale9OriginY="27" Scale9Width="173" Scale9Height="4" ctype="ImageViewObjectData">
                     <Size X="185.0000" Y="60.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="-6.3000" Y="-2.0000" />
@@ -293,10 +293,10 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/line_fg01.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="text_0" ActionTag="179340819" VisibleForFrame="False" Tag="3536" IconVisible="False" LeftMargin="-26.0000" RightMargin="-26.0000" TopMargin="-19.0002" BottomMargin="-18.9998" FontSize="25" LabelText="机翼" ShadowOffsetX="1.5000" ShadowOffsetY="-2.5000" ShadowEnabled="True" ctype="TextObjectData">
+                  <AbstractNodeData Name="text_0" ActionTag="179340819" VisibleForFrame="False" Tag="3536" IconVisible="False" LeftMargin="-4.0002" RightMargin="-47.9998" TopMargin="-19.0002" BottomMargin="-18.9998" FontSize="25" LabelText="机翼" ShadowOffsetX="1.5000" ShadowOffsetY="-2.5000" ShadowEnabled="True" ctype="TextObjectData">
                     <Size X="52.0000" Y="38.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position Y="0.0002" />
+                    <Position X="21.9998" Y="0.0002" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="254" G="255" B="254" />
                     <PrePosition />
@@ -316,7 +316,7 @@
               <AbstractNodeData Name="mode_5" ActionTag="-2037472025" Tag="3537" IconVisible="True" LeftMargin="96.1154" RightMargin="81.8846" TopMargin="276.8760" BottomMargin="203.1240" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
-                  <AbstractNodeData Name="normal" ActionTag="-615115707" Alpha="0" Tag="3538" IconVisible="False" LeftMargin="-98.2088" RightMargin="-86.7912" TopMargin="-29.7103" BottomMargin="-34.2897" TouchEnable="True" Scale9Enable="True" LeftEage="102" RightEage="102" TopEage="22" BottomEage="22" Scale9OriginX="102" Scale9OriginY="22" Scale9Width="4" Scale9Height="18" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="normal" ActionTag="-615115707" Alpha="0" Tag="3538" IconVisible="False" LeftMargin="-98.2088" RightMargin="-86.7912" TopMargin="-29.7103" BottomMargin="-34.2897" TouchEnable="True" Scale9Enable="True" LeftEage="102" RightEage="102" TopEage="22" BottomEage="22" Scale9OriginX="88" Scale9OriginY="22" Scale9Width="14" Scale9Height="14" ctype="ImageViewObjectData">
                     <Size X="185.0000" Y="64.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="-5.7088" Y="-2.2897" />
@@ -326,7 +326,7 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="selected" ActionTag="1587568924" VisibleForFrame="False" Tag="3539" IconVisible="False" LeftMargin="-98.8000" RightMargin="-86.2000" TopMargin="-28.0000" BottomMargin="-32.0000" TouchEnable="True" Scale9Enable="True" RightEage="17" TopEage="27" BottomEage="27" Scale9OriginY="27" Scale9Width="191" Scale9Height="8" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="selected" ActionTag="1587568924" VisibleForFrame="False" Tag="3539" IconVisible="False" LeftMargin="-98.8000" RightMargin="-86.2000" TopMargin="-28.0000" BottomMargin="-32.0000" TouchEnable="True" Scale9Enable="True" RightEage="17" TopEage="27" BottomEage="27" Scale9OriginY="27" Scale9Width="173" Scale9Height="4" ctype="ImageViewObjectData">
                     <Size X="185.0000" Y="60.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="-6.3000" Y="-2.0000" />
@@ -369,10 +369,10 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/line_fg01.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="text_0" ActionTag="1255844834" VisibleForFrame="False" Tag="3543" IconVisible="False" LeftMargin="-26.0000" RightMargin="-26.0000" TopMargin="-19.0002" BottomMargin="-18.9998" FontSize="25" LabelText="机翼" ShadowOffsetX="1.5000" ShadowOffsetY="-2.5000" ShadowEnabled="True" ctype="TextObjectData">
+                  <AbstractNodeData Name="text_0" ActionTag="1255844834" VisibleForFrame="False" Tag="3543" IconVisible="False" LeftMargin="-4.0002" RightMargin="-47.9998" TopMargin="-19.0002" BottomMargin="-18.9998" FontSize="25" LabelText="机翼" ShadowOffsetX="1.5000" ShadowOffsetY="-2.5000" ShadowEnabled="True" ctype="TextObjectData">
                     <Size X="52.0000" Y="38.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position Y="0.0002" />
+                    <Position X="21.9998" Y="0.0002" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="254" G="255" B="254" />
                     <PrePosition />
@@ -392,7 +392,7 @@
               <AbstractNodeData Name="mode_6" ActionTag="225470951" Tag="3544" IconVisible="True" LeftMargin="94.8495" RightMargin="83.1505" TopMargin="338.2065" BottomMargin="141.7935" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
-                  <AbstractNodeData Name="normal" ActionTag="807098812" Alpha="0" Tag="3545" IconVisible="False" LeftMargin="-98.2088" RightMargin="-86.7912" TopMargin="-29.7103" BottomMargin="-34.2897" TouchEnable="True" Scale9Enable="True" LeftEage="102" RightEage="102" TopEage="22" BottomEage="22" Scale9OriginX="102" Scale9OriginY="22" Scale9Width="4" Scale9Height="18" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="normal" ActionTag="807098812" Alpha="0" Tag="3545" IconVisible="False" LeftMargin="-98.2088" RightMargin="-86.7912" TopMargin="-29.7103" BottomMargin="-34.2897" TouchEnable="True" Scale9Enable="True" LeftEage="102" RightEage="102" TopEage="22" BottomEage="22" Scale9OriginX="88" Scale9OriginY="22" Scale9Width="14" Scale9Height="14" ctype="ImageViewObjectData">
                     <Size X="185.0000" Y="64.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="-5.7088" Y="-2.2897" />
@@ -402,7 +402,7 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="selected" ActionTag="-1257285371" VisibleForFrame="False" Tag="3546" IconVisible="False" LeftMargin="-98.8000" RightMargin="-86.2000" TopMargin="-28.0000" BottomMargin="-32.0000" TouchEnable="True" Scale9Enable="True" RightEage="17" TopEage="27" BottomEage="27" Scale9OriginY="27" Scale9Width="191" Scale9Height="8" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="selected" ActionTag="-1257285371" VisibleForFrame="False" Tag="3546" IconVisible="False" LeftMargin="-98.8000" RightMargin="-86.2000" TopMargin="-28.0000" BottomMargin="-32.0000" TouchEnable="True" Scale9Enable="True" RightEage="17" TopEage="27" BottomEage="27" Scale9OriginY="27" Scale9Width="173" Scale9Height="4" ctype="ImageViewObjectData">
                     <Size X="185.0000" Y="60.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="-6.3000" Y="-2.0000" />
@@ -445,10 +445,10 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/line_fg01.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="text_0" ActionTag="-1820192433" VisibleForFrame="False" Tag="3550" IconVisible="False" LeftMargin="-26.0000" RightMargin="-26.0000" TopMargin="-19.0002" BottomMargin="-18.9998" FontSize="25" LabelText="机翼" ShadowOffsetX="1.5000" ShadowOffsetY="-2.5000" ShadowEnabled="True" ctype="TextObjectData">
+                  <AbstractNodeData Name="text_0" ActionTag="-1820192433" VisibleForFrame="False" Tag="3550" IconVisible="False" LeftMargin="-4.0002" RightMargin="-47.9998" TopMargin="-19.0002" BottomMargin="-18.9998" FontSize="25" LabelText="机翼" ShadowOffsetX="1.5000" ShadowOffsetY="-2.5000" ShadowEnabled="True" ctype="TextObjectData">
                     <Size X="52.0000" Y="38.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position Y="0.0002" />
+                    <Position X="21.9998" Y="0.0002" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="254" G="255" B="254" />
                     <PrePosition />
@@ -468,7 +468,7 @@
               <AbstractNodeData Name="mode_7" ActionTag="1664170166" Tag="3551" IconVisible="True" LeftMargin="94.7115" RightMargin="83.2885" TopMargin="400.3974" BottomMargin="79.6026" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
-                  <AbstractNodeData Name="normal" ActionTag="27812164" Alpha="0" Tag="3552" IconVisible="False" LeftMargin="-98.2088" RightMargin="-86.7912" TopMargin="-29.7103" BottomMargin="-34.2897" TouchEnable="True" Scale9Enable="True" LeftEage="102" RightEage="102" TopEage="22" BottomEage="22" Scale9OriginX="102" Scale9OriginY="22" Scale9Width="4" Scale9Height="18" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="normal" ActionTag="27812164" Alpha="0" Tag="3552" IconVisible="False" LeftMargin="-98.2088" RightMargin="-86.7912" TopMargin="-29.7103" BottomMargin="-34.2897" TouchEnable="True" Scale9Enable="True" LeftEage="102" RightEage="102" TopEage="22" BottomEage="22" Scale9OriginX="88" Scale9OriginY="22" Scale9Width="14" Scale9Height="14" ctype="ImageViewObjectData">
                     <Size X="185.0000" Y="64.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="-5.7088" Y="-2.2897" />
@@ -478,7 +478,7 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="selected" ActionTag="-621597564" VisibleForFrame="False" Tag="3553" IconVisible="False" LeftMargin="-98.8000" RightMargin="-86.2000" TopMargin="-28.0000" BottomMargin="-32.0000" TouchEnable="True" Scale9Enable="True" RightEage="17" TopEage="27" BottomEage="27" Scale9OriginY="27" Scale9Width="191" Scale9Height="8" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="selected" ActionTag="-621597564" VisibleForFrame="False" Tag="3553" IconVisible="False" LeftMargin="-98.8000" RightMargin="-86.2000" TopMargin="-28.0000" BottomMargin="-32.0000" TouchEnable="True" Scale9Enable="True" RightEage="17" TopEage="27" BottomEage="27" Scale9OriginY="27" Scale9Width="173" Scale9Height="4" ctype="ImageViewObjectData">
                     <Size X="185.0000" Y="60.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="-6.3000" Y="-2.0000" />
@@ -521,10 +521,10 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/line_fg01.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="text_0" ActionTag="-2037886051" VisibleForFrame="False" Tag="3557" IconVisible="False" LeftMargin="-26.0000" RightMargin="-26.0000" TopMargin="-19.0002" BottomMargin="-18.9998" FontSize="25" LabelText="机翼" ShadowOffsetX="1.5000" ShadowOffsetY="-2.5000" ShadowEnabled="True" ctype="TextObjectData">
+                  <AbstractNodeData Name="text_0" ActionTag="-2037886051" VisibleForFrame="False" Tag="3557" IconVisible="False" LeftMargin="-4.0002" RightMargin="-47.9998" TopMargin="-19.0002" BottomMargin="-18.9998" FontSize="25" LabelText="机翼" ShadowOffsetX="1.5000" ShadowOffsetY="-2.5000" ShadowEnabled="True" ctype="TextObjectData">
                     <Size X="52.0000" Y="38.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position Y="0.0002" />
+                    <Position X="21.9998" Y="0.0002" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="254" G="255" B="254" />
                     <PrePosition />

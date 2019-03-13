@@ -6,7 +6,7 @@
       <ObjectData Name="Scene" Tag="88" ctype="GameNodeObjectData">
         <Size X="1136.0000" Y="768.0000" />
         <Children>
-          <AbstractNodeData Name="icon" ActionTag="-339307961" Tag="91" IconVisible="False" LeftMargin="-333.0193" RightMargin="-330.9807" TopMargin="-1.9998" BottomMargin="1.9998" LeftEage="374" RightEage="374" TopEage="253" BottomEage="253" Scale9OriginX="374" Scale9OriginY="253" Scale9Width="1052" Scale9Height="262" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="icon" ActionTag="-339307961" Tag="91" IconVisible="False" LeftMargin="-333.0193" RightMargin="-330.9807" TopMargin="-1.9998" BottomMargin="1.9998" LeftEage="15" RightEage="15" TopEage="15" BottomEage="15" Scale9OriginX="15" Scale9OriginY="15" Scale9Width="1770" Scale9Height="738" ctype="ImageViewObjectData">
             <Size X="1800.0000" Y="768.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="566.9807" Y="385.9998" />
@@ -16,7 +16,7 @@
             <PreSize X="1.5845" Y="1.0000" />
             <FileData Type="Normal" Path="LaunchScene/hm.jpg" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_2" ActionTag="733287610" VisibleForFrame="False" Tag="1135" IconVisible="False" LeftMargin="152.3551" RightMargin="149.6449" TopMargin="637.2681" BottomMargin="107.7319" FontSize="15" LabelText="抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="Text_2" ActionTag="733287610" Tag="1135" IconVisible="False" LeftMargin="152.3551" RightMargin="149.6449" TopMargin="637.2681" BottomMargin="107.7319" FontSize="15" LabelText="抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="834.0000" Y="23.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="569.3551" Y="119.2319" />

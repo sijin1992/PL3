@@ -156,43 +156,21 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="num" ActionTag="1422756325" Tag="24" IconVisible="False" LeftMargin="-190.2252" RightMargin="174.2252" TopMargin="-244.5000" BottomMargin="219.5000" ctype="SpriteObjectData">
-            <Size X="16.0000" Y="25.0000" />
+          <AbstractNodeData Name="num" ActionTag="1422756325" Tag="24" IconVisible="False" LeftMargin="-200.2251" RightMargin="154.2251" TopMargin="-255.5195" BottomMargin="209.5195" ctype="SpriteObjectData">
+            <Size X="46.0000" Y="46.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-182.2252" Y="232.0000" />
+            <Position X="-177.2251" Y="232.5195" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="AdventureLayer/ui/num_9.png" Plist="" />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="num_0" ActionTag="1695654512" Tag="3922" IconVisible="False" LeftMargin="-173.2254" RightMargin="157.2254" TopMargin="-244.5000" BottomMargin="219.5000" ctype="SpriteObjectData">
-            <Size X="16.0000" Y="25.0000" />
+          <AbstractNodeData Name="zhe_4" ActionTag="-1771419563" Tag="25" IconVisible="False" LeftMargin="-165.9594" RightMargin="139.9594" TopMargin="-224.5410" BottomMargin="198.5410" ctype="SpriteObjectData">
+            <Size X="26.0000" Y="26.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-165.2254" Y="232.0000" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="AdventureLayer/ui/num_9.png" Plist="" />
-            <BlendFunc Src="1" Dst="771" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="num_fu" ActionTag="-2064213598" Tag="3923" IconVisible="False" LeftMargin="-156.5573" RightMargin="137.5573" TopMargin="-245.0001" BottomMargin="219.0001" ctype="SpriteObjectData">
-            <Size X="19.0000" Y="26.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-147.0573" Y="232.0001" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="AdventureLayer/ui/bai.png" Plist="" />
-            <BlendFunc Src="1" Dst="771" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="zhe_4" ActionTag="-1771419563" Tag="25" IconVisible="False" LeftMargin="-179.9596" RightMargin="151.9596" TopMargin="-216.5408" BottomMargin="194.5408" ctype="SpriteObjectData">
-            <Size X="28.0000" Y="22.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-165.9596" Y="205.5408" />
+            <Position X="-152.9594" Y="211.5410" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

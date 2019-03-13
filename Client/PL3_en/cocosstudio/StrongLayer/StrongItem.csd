@@ -37,10 +37,10 @@
             <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="text" ActionTag="-2050632502" Tag="338" IconVisible="False" LeftMargin="90.9480" RightMargin="-281.9480" TopMargin="0.0313" BottomMargin="-27.0313" FontSize="18" LabelText="up froms ship number" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="text" ActionTag="-2050632502" Tag="338" IconVisible="False" LeftMargin="90.9480" RightMargin="-281.9480" TopMargin="9.0313" BottomMargin="-36.0313" FontSize="18" LabelText="up froms ship number" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="191.0000" Y="27.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="90.9480" Y="-13.5313" />
+            <Position X="90.9480" Y="-22.5313" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="178" B="54" />
             <PrePosition />
@@ -49,7 +49,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="251" G="251" B="243" />
           </AbstractNodeData>
-          <AbstractNodeData Name="finish" ActionTag="2012517683" VisibleForFrame="False" Tag="344" RotationSkewX="7.9993" IconVisible="False" LeftMargin="432.8961" RightMargin="-539.8961" TopMargin="9.4576" BottomMargin="-78.4576" IsCustomSize="True" FontSize="16" LabelText="主角等级10级开启" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="finish" ActionTag="2012517683" VisibleForFrame="False" Tag="344" RotationSkewX="7.9993" IconVisible="False" LeftMargin="432.8961" RightMargin="-539.8961" TopMargin="9.4576" BottomMargin="-78.4576" IsCustomSize="True" FontSize="20" LabelText="主角等级10级开启" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="107.0000" Y="69.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="486.3961" Y="-43.9576" />
@@ -134,7 +134,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="209" G="209" B="209" />
           </AbstractNodeData>
-          <AbstractNodeData Name="des" ActionTag="-1918910521" VisibleForFrame="False" Tag="354" IconVisible="False" LeftMargin="89.3898" RightMargin="-398.3898" TopMargin="24.7400" BottomMargin="-90.7400" IsCustomSize="True" FontSize="14" LabelText="up froms ship numberup froms ship numberup froms sh" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="des" ActionTag="-1918910521" VisibleForFrame="False" Tag="354" IconVisible="False" LeftMargin="89.3898" RightMargin="-398.3898" TopMargin="24.7400" BottomMargin="-90.7400" IsCustomSize="True" FontSize="15" LabelText="up froms ship numberup froms ship numberup froms sh" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="309.0000" Y="66.0000" />
             <AnchorPoint ScaleY="0.5000" />
             <Position X="89.3898" Y="-57.7400" />

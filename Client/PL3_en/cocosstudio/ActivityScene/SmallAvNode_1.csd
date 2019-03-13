@@ -17,7 +17,7 @@
             <FileData Type="Normal" Path="ActivityScene/ui/7d_di1.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="av_name" ActionTag="-1214524769" VisibleForFrame="False" Tag="1750" IconVisible="False" LeftMargin="22.9969" RightMargin="-233.9969" TopMargin="-491.6349" BottomMargin="452.6349" FontSize="26" LabelText="累计充值活动名称" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="av_name" ActionTag="-1214524769" VisibleForFrame="False" Tag="1750" IconVisible="False" LeftMargin="22.4969" RightMargin="-234.4969" TopMargin="-492.6349" BottomMargin="451.6349" FontSize="26" LabelText="累计充值活动名称" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="211.0000" Y="39.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="128.4969" Y="472.1349" />
@@ -29,7 +29,7 @@
             <OutlineColor A="255" R="255" G="244" B="121" />
             <ShadowColor A="255" R="26" G="26" B="26" />
           </AbstractNodeData>
-          <AbstractNodeData Name="av_ins" ActionTag="-1163228962" Tag="1751" IconVisible="False" LeftMargin="21.6852" RightMargin="-721.6852" TopMargin="-453.2885" BottomMargin="414.2885" IsCustomSize="True" FontSize="20" LabelText="累计充值活动名称" VerticalAlignmentType="VT_Center" OutlineSize="2" ShadowOffsetX="-0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="av_ins" ActionTag="-1163228962" Tag="1751" IconVisible="False" LeftMargin="21.6852" RightMargin="-721.6852" TopMargin="-453.2885" BottomMargin="414.2885" IsCustomSize="True" FontSize="23" LabelText="累计充值活动名称" VerticalAlignmentType="VT_Center" OutlineSize="2" ShadowOffsetX="-0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
             <Size X="700.0000" Y="39.0000" />
             <AnchorPoint ScaleY="0.5000" />
             <Position X="21.6852" Y="433.7885" />

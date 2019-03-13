@@ -319,10 +319,10 @@
             <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="item_pos" ActionTag="-2130337573" Tag="211" IconVisible="True" LeftMargin="-132.6979" RightMargin="132.6979" TopMargin="-38.8175" BottomMargin="38.8175" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="item_pos" ActionTag="-2130337573" Tag="211" IconVisible="True" LeftMargin="-184.6979" RightMargin="184.6979" TopMargin="-38.8176" BottomMargin="38.8176" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
-            <Position X="-132.6979" Y="38.8175" />
+            <Position X="-184.6979" Y="38.8176" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

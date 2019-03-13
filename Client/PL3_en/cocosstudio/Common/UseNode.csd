@@ -56,8 +56,8 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="Common/newUI/newbg.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Image_3_0_0" ActionTag="2143912322" Tag="1414" IconVisible="False" LeftMargin="-255.9738" RightMargin="-257.9772" TopMargin="-61.2550" BottomMargin="-138.7450" Scale9Enable="True" LeftEage="10" RightEage="10" TopEage="9" BottomEage="9" Scale9OriginX="10" Scale9OriginY="9" Scale9Width="5" Scale9Height="10" ctype="ImageViewObjectData">
-            <Size X="513.9509" Y="200.0000" />
+          <AbstractNodeData Name="Image_3_0_0" ActionTag="2143912322" Tag="1414" IconVisible="False" LeftMargin="-255.9738" RightMargin="-257.9772" TopMargin="-61.2550" BottomMargin="-117.9274" Scale9Enable="True" LeftEage="10" RightEage="10" TopEage="9" BottomEage="9" Scale9OriginX="10" Scale9OriginY="9" Scale9Width="5" Scale9Height="10" ctype="ImageViewObjectData">
+            <Size X="513.9509" Y="179.1824" />
             <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
             <Position X="1.0017" Y="61.2550" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -77,7 +77,7 @@
             <FileData Type="Normal" Path="Common/newUI/newbg3.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="yes" ActionTag="-289603301" Tag="816" IconVisible="False" LeftMargin="-68.5636" RightMargin="-61.4364" TopMargin="93.5954" BottomMargin="-133.5954" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="100" Scale9Height="18" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="yes" ActionTag="-289603301" Tag="816" IconVisible="False" LeftMargin="-68.5646" RightMargin="-61.4354" TopMargin="70.5960" BottomMargin="-110.5960" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="100" Scale9Height="18" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="130.0000" Y="40.0000" />
             <Children>
               <AbstractNodeData Name="text" ActionTag="-1004195809" Tag="817" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="44.5000" RightMargin="44.5000" TopMargin="8.9400" BottomMargin="-1.9400" FontSize="22" LabelText="YES" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
@@ -94,7 +94,7 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-3.5636" Y="-113.5954" />
+            <Position X="-3.5646" Y="-90.5960" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -109,10 +109,10 @@
           <AbstractNodeData Name="queue_node" ActionTag="-1461994108" Tag="820" IconVisible="True" LeftMargin="-183.7908" RightMargin="183.7908" TopMargin="77.6105" BottomMargin="-77.6105" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
-              <AbstractNodeData Name="open" ActionTag="-412368679" Tag="821" IconVisible="False" LeftMargin="-29.9151" RightMargin="-421.0849" TopMargin="-153.4366" BottomMargin="93.4366" IsCustomSize="True" FontSize="20" LabelText="" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="451.0000" Y="60.0000" />
+              <AbstractNodeData Name="open" ActionTag="-412368679" Tag="821" IconVisible="False" LeftMargin="-29.9162" RightMargin="-421.0838" TopMargin="-177.4333" BottomMargin="127.4333" IsCustomSize="True" FontSize="22" LabelText="" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="451.0000" Y="50.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="195.5849" Y="123.4366" />
+                <Position X="195.5838" Y="152.4333" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -129,10 +129,10 @@
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="item" ActionTag="346397379" Tag="906" IconVisible="True" LeftMargin="-34.5025" RightMargin="34.5025" TopMargin="-14.1973" BottomMargin="14.1973" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="item" ActionTag="346397379" Tag="906" IconVisible="True" LeftMargin="-34.5025" RightMargin="34.5025" TopMargin="-29.1950" BottomMargin="29.1950" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
-            <Position X="-34.5025" Y="14.1973" />
+            <Position X="-34.5025" Y="29.1950" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

@@ -36,7 +36,7 @@
           </IntFrame>
         </Timeline>
         <Timeline ActionTag="937100870" Property="Position">
-          <PointFrame FrameIndex="0" X="-77.3200" Y="-115.2900">
+          <PointFrame FrameIndex="0" X="-77.3200" Y="-499.2900">
             <EasingData Type="0" />
           </PointFrame>
           <PointFrame FrameIndex="30" X="-77.3200" Y="-499.2883">
@@ -47,7 +47,7 @@
           </PointFrame>
         </Timeline>
         <Timeline ActionTag="937100870" Property="Scale">
-          <ScaleFrame FrameIndex="0" X="1.0000" Y="1.1000">
+          <ScaleFrame FrameIndex="0" X="1.0000" Y="1.0000">
             <EasingData Type="0" />
           </ScaleFrame>
           <ScaleFrame FrameIndex="30" X="1.0000" Y="1.0000">
@@ -26382,19 +26382,19 @@
           <AbstractNodeData Name="Node_16" ActionTag="397415210" Tag="484" IconVisible="True" LeftMargin="44.4077" RightMargin="-44.4077" TopMargin="-117.5471" BottomMargin="117.5471" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
-              <AbstractNodeData Name="bj_6" ActionTag="-353746461" Tag="662" IconVisible="False" LeftMargin="-977.3180" RightMargin="-822.6820" TopMargin="-268.7079" BottomMargin="-499.2921" ctype="SpriteObjectData">
+              <AbstractNodeData Name="bj_6" CanEdit="False" ActionTag="-353746461" Tag="662" IconVisible="False" LeftMargin="-977.3183" RightMargin="-822.6817" TopMargin="-268.7100" BottomMargin="-499.2900" ctype="SpriteObjectData">
                 <Size X="1800.0000" Y="768.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="-77.3180" Y="-115.2921" />
+                <Position X="-77.3183" Y="-115.2900" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
-                <FileData Type="Normal" Path="LoginScene/sfx/light/1/daqiu.png" Plist="" />
+                <FileData Type="Normal" Path="LoginScene/sfx/light/1/bj.jpg" Plist="" />
                 <BlendFunc Src="770" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="bj1_3" Visible="False" ActionTag="-713505710" Alpha="0" Tag="145" IconVisible="False" LeftMargin="-977.3200" RightMargin="-822.6800" TopMargin="-268.7100" BottomMargin="-499.2900" ctype="SpriteObjectData">
-                <Size X="1800.0000" Y="768.0000" />
+              <AbstractNodeData Name="bj1_3" ActionTag="-713505710" Alpha="0" Tag="145" IconVisible="False" LeftMargin="-645.3200" RightMargin="-490.6800" TopMargin="-268.7100" BottomMargin="-499.2900" ctype="SpriteObjectData">
+                <Size X="1136.0000" Y="768.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="-77.3200" Y="-115.2900" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -26404,11 +26404,11 @@
                 <FileData Type="Normal" Path="LoginScene/sfx/light/1/bj1.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="back" Visible="False" ActionTag="937100870" Alpha="178" Tag="207" IconVisible="False" LeftMargin="-977.3200" RightMargin="-822.6800" TopMargin="-268.7100" BottomMargin="-499.2900" LeftEage="7" RightEage="7" TopEage="2" BottomEage="2" Scale9OriginX="7" Scale9OriginY="2" Scale9Width="32" Scale9Height="42" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="back" ActionTag="937100870" Alpha="178" Tag="207" IconVisible="False" LeftMargin="-977.3200" RightMargin="-822.6800" TopMargin="-268.7100" BottomMargin="-499.2900" LeftEage="7" RightEage="7" TopEage="2" BottomEage="2" Scale9OriginX="7" Scale9OriginY="2" Scale9Width="32" Scale9Height="42" ctype="ImageViewObjectData">
                 <Size X="1800.0000" Y="768.0000" />
-                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="-77.3200" Y="-115.2900" />
-                <Scale ScaleX="1.0000" ScaleY="1.1000" />
+                <AnchorPoint ScaleX="0.5000" />
+                <Position X="-77.3200" Y="-499.2900" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="0" G="0" B="0" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
@@ -26447,7 +26447,7 @@
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="daqiu_29" Visible="False" ActionTag="-425447707" Alpha="0" Tag="186" IconVisible="False" LeftMargin="-977.3201" RightMargin="-822.6799" TopMargin="-268.7100" BottomMargin="-499.2900" ctype="SpriteObjectData">
+              <AbstractNodeData Name="daqiu_29" ActionTag="-425447707" Alpha="0" Tag="186" IconVisible="False" LeftMargin="-977.3201" RightMargin="-822.6799" TopMargin="-268.7100" BottomMargin="-499.2900" ctype="SpriteObjectData">
                 <Size X="1800.0000" Y="768.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="-77.3201" Y="-115.2900" />
@@ -27133,7 +27133,7 @@
               <AbstractNodeData Name="Node_50_0" ActionTag="321577805" Tag="245" IconVisible="True" LeftMargin="70.7656" RightMargin="-70.7656" TopMargin="-37.5856" BottomMargin="37.5856" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
-                  <AbstractNodeData Name="Node_33" ActionTag="-1693760536" Tag="246" RotationSkewY="-0.0005" IconVisible="True" LeftMargin="242.9380" RightMargin="-242.9380" TopMargin="-37.8783" BottomMargin="37.8783" ctype="SingleNodeObjectData">
+                  <AbstractNodeData Name="Node_33" CanEdit="False" ActionTag="-1693760536" Tag="246" RotationSkewY="-0.0005" IconVisible="True" LeftMargin="242.9380" RightMargin="-242.9380" TopMargin="-37.8783" BottomMargin="37.8783" ctype="SingleNodeObjectData">
                     <Size X="0.0000" Y="0.0000" />
                     <Children>
                       <AbstractNodeData Name="guangci_574_51" CanEdit="False" ActionTag="-1892401720" Tag="247" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="170.0135" RightMargin="-298.0135" TopMargin="9.7287" BottomMargin="-137.7287" ctype="SpriteObjectData">
@@ -27155,7 +27155,7 @@
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Node_33_0" ActionTag="-861005157" Tag="248" RotationSkewX="-160.7242" RotationSkewY="-160.7248" IconVisible="True" LeftMargin="90.0804" RightMargin="-90.0804" TopMargin="127.5057" BottomMargin="-127.5057" ctype="SingleNodeObjectData">
+                  <AbstractNodeData Name="Node_33_0" CanEdit="False" ActionTag="-861005157" Tag="248" RotationSkewX="-160.7242" RotationSkewY="-160.7248" IconVisible="True" LeftMargin="90.0804" RightMargin="-90.0804" TopMargin="127.5057" BottomMargin="-127.5057" ctype="SingleNodeObjectData">
                     <Size X="0.0000" Y="0.0000" />
                     <Children>
                       <AbstractNodeData Name="guangci_574_51" CanEdit="False" ActionTag="859667205" Tag="249" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="170.0135" RightMargin="-298.0135" TopMargin="9.7287" BottomMargin="-137.7287" ctype="SpriteObjectData">
@@ -27177,7 +27177,7 @@
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Node_33_0_0" ActionTag="-190680414" Tag="250" RotationSkewX="-191.6108" RotationSkewY="-191.6087" IconVisible="True" LeftMargin="412.2990" RightMargin="-412.2990" TopMargin="171.8684" BottomMargin="-171.8684" ctype="SingleNodeObjectData">
+                  <AbstractNodeData Name="Node_33_0_0" CanEdit="False" ActionTag="-190680414" Tag="250" RotationSkewX="-191.6108" RotationSkewY="-191.6087" IconVisible="True" LeftMargin="412.2990" RightMargin="-412.2990" TopMargin="171.8684" BottomMargin="-171.8684" ctype="SingleNodeObjectData">
                     <Size X="0.0000" Y="0.0000" />
                     <Children>
                       <AbstractNodeData Name="guangci_574_51" CanEdit="False" ActionTag="-279834454" Tag="251" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="170.0135" RightMargin="-298.0135" TopMargin="9.7287" BottomMargin="-137.7287" ctype="SpriteObjectData">
@@ -28007,7 +28007,7 @@
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Node_6" ActionTag="157648770" VisibleForFrame="False" Tag="2046" IconVisible="True" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="Node_6" ActionTag="157648770" Tag="2046" IconVisible="True" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
               <AbstractNodeData Name="Sprite_29" ActionTag="-1482953726" Tag="2045" IconVisible="False" LeftMargin="-466.1700" RightMargin="-247.8300" TopMargin="-265.5855" BottomMargin="-401.4145" ctype="SpriteObjectData">
@@ -28029,7 +28029,7 @@
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Node_9" ActionTag="-500230927" VisibleForFrame="False" Alpha="195" Tag="2065" IconVisible="True" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="Node_9" ActionTag="-500230927" Alpha="195" Tag="2065" IconVisible="True" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
               <AbstractNodeData Name="Sprite_39" ActionTag="-45917756" Alpha="0" Tag="2064" IconVisible="False" LeftMargin="-329.0782" RightMargin="-68.9218" TopMargin="-243.2310" BottomMargin="-46.7690" ctype="SpriteObjectData">

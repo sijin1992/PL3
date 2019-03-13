@@ -135,10 +135,7 @@
           <PointFrame FrameIndex="25" X="63.0000" Y="159.6400">
             <EasingData Type="0" />
           </PointFrame>
-          <PointFrame FrameIndex="30" X="-25.3342" Y="160.9557">
-            <EasingData Type="0" />
-          </PointFrame>
-          <PointFrame FrameIndex="44" X="-25.0005" Y="164.6401">
+          <PointFrame FrameIndex="44" X="63.0000" Y="164.6401">
             <EasingData Type="0" />
           </PointFrame>
         </Timeline>
@@ -167,10 +164,10 @@
           </IntFrame>
         </Timeline>
         <Timeline ActionTag="-1190529368" Property="Position">
-          <PointFrame FrameIndex="30" X="501.0531" Y="159.6399">
+          <PointFrame FrameIndex="30" X="589.3900" Y="159.6400">
             <EasingData Type="0" />
           </PointFrame>
-          <PointFrame FrameIndex="44" X="501.3864" Y="164.6401">
+          <PointFrame FrameIndex="44" X="589.3900" Y="164.6401">
             <EasingData Type="0" />
           </PointFrame>
         </Timeline>
@@ -723,7 +720,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="gold_ins" ActionTag="-1734421624" Tag="652" IconVisible="True" LeftMargin="-25.0005" RightMargin="1161.0005" TopMargin="603.3599" BottomMargin="164.6401" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="gold_ins" ActionTag="-1734421624" Tag="652" IconVisible="True" LeftMargin="63.0000" RightMargin="1073.0000" TopMargin="603.3599" BottomMargin="164.6401" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
               <AbstractNodeData Name="string_1" ActionTag="-1582798093" Tag="653" IconVisible="False" LeftMargin="125.7854" RightMargin="-163.7854" TopMargin="-14.9246" BottomMargin="-12.0754" FontSize="18" LabelText="再买" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
@@ -788,13 +785,13 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint />
-            <Position X="-25.0005" Y="164.6401" />
+            <Position X="63.0000" Y="164.6401" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="-0.0220" Y="0.2144" />
+            <PrePosition X="0.0555" Y="0.2144" />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="money_ins" ActionTag="-1190529368" Tag="658" IconVisible="True" LeftMargin="501.3864" RightMargin="634.6135" TopMargin="603.3599" BottomMargin="164.6401" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="money_ins" ActionTag="-1190529368" Tag="658" IconVisible="True" LeftMargin="589.3900" RightMargin="546.6100" TopMargin="603.3599" BottomMargin="164.6401" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
               <AbstractNodeData Name="string_1" ActionTag="796081759" Tag="659" IconVisible="False" LeftMargin="130.6409" RightMargin="-168.6409" TopMargin="-13.3082" BottomMargin="-13.6918" FontSize="18" LabelText="再买" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
@@ -859,10 +856,10 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint />
-            <Position X="501.3864" Y="164.6401" />
+            <Position X="589.3900" Y="164.6401" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.4414" Y="0.2144" />
+            <PrePosition X="0.5188" Y="0.2144" />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
           <AbstractNodeData Name="cishu_num" ActionTag="2100890378" Tag="830" IconVisible="False" LeftMargin="818.2982" RightMargin="278.7018" TopMargin="538.1842" BottomMargin="202.8158" FontSize="18" LabelText="次数" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
@@ -886,7 +883,7 @@
             <PrePosition X="-0.0148" Y="0.0308" />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="btn_show" ActionTag="-2079339796" UserData="lefttop" Tag="733" IconVisible="False" LeftMargin="360.1289" RightMargin="678.6711" TopMargin="96.2413" BottomMargin="585.3587" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="51" Scale9Height="50" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="btn_show" ActionTag="-2079339796" UserData="lefttop" Tag="733" IconVisible="False" LeftMargin="360.1289" RightMargin="678.6711" TopMargin="96.2413" BottomMargin="585.3586" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="51" Scale9Height="50" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="97.2000" Y="86.4000" />
             <Children>
               <AbstractNodeData Name="icon" ActionTag="387646895" Tag="1088" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="13.5592" RightMargin="15.6408" TopMargin="22.6491" BottomMargin="22.7509" LeftEage="22" RightEage="22" TopEage="13" BottomEage="13" Scale9OriginX="22" Scale9OriginY="13" Scale9Width="24" Scale9Height="15" ctype="ImageViewObjectData">

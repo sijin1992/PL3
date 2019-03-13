@@ -244,7 +244,6 @@ function PurchaseLayer:onEnterTransitionFinish()
 	local fontSize =  rn:getChildByName("sum"):getFontSize()
 	edit:setPlaceholderFont(fontName,fontSize)
 	edit:setFont(fontName,fontSize)
-    edit:setFontColor(cc.c4b(0,0,0,0))
 	edit:setReturnType(cc.KEYBOARD_RETURNTYPE_DONE)
 
 	edit:setInputMode(cc.EDITBOX_INPUT_MODE_NUMERIC)

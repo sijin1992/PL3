@@ -97,10 +97,10 @@
                 <FileData Type="Normal" Path="HeroImage/2.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text" ActionTag="1853588624" UserData="bottom" Tag="5693" RotationSkewY="-0.0009" IconVisible="False" LeftMargin="223.4296" RightMargin="-925.2296" TopMargin="-149.1850" BottomMargin="9.1850" IsCustomSize="True" FontSize="20" LabelText="blalalal" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="701.8000" Y="140.0000" />
+              <AbstractNodeData Name="text" ActionTag="1853588624" UserData="bottom" Tag="5693" RotationSkewY="-0.0009" IconVisible="False" LeftMargin="223.4296" RightMargin="-925.2296" TopMargin="-130.6298" BottomMargin="0.6298" IsCustomSize="True" FontSize="20" LabelText="blalalal" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="701.8000" Y="130.0000" />
                 <AnchorPoint ScaleX="0.5006" ScaleY="0.5000" />
-                <Position X="574.7507" Y="79.1850" />
+                <Position X="574.7507" Y="65.6298" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />

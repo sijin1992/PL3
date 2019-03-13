@@ -779,7 +779,6 @@ function CityUILayer:onEnterTransitionFinish()
 
 	rn:getChildByName("league"):getChildByName("text_miao"):setString(CONF.STRING.get("covenant").VALUE)
 	rn:getChildByName("form"):getChildByName("text_miao"):setString(CONF.STRING.get("yushe").VALUE);
-    rn:getChildByName("friend"):getChildByName("text_miao"):setString(CONF.STRING.get("friend").VALUE);
 
 	rn:getChildByName("chat"):addClickEventListener(function ( sender )
 		if cc.exports.g_activate_building then

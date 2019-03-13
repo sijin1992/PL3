@@ -131,18 +131,6 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="209" G="209" B="209" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_2" ActionTag="545538243" VisibleForFrame="False" Tag="3225" IconVisible="False" LeftMargin="524.6398" RightMargin="509.3602" TopMargin="348.3325" BottomMargin="389.6675" FontSize="20" LabelText="Text Label" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="102.0000" Y="30.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="575.6398" Y="404.6675" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="209" G="209" B="209" />
-            <PrePosition X="0.5067" Y="0.5269" />
-            <PreSize X="0.0898" Y="0.0391" />
-            <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
-            <OutlineColor A="255" R="255" G="0" B="0" />
-            <ShadowColor A="255" R="110" G="110" B="110" />
-          </AbstractNodeData>
           <AbstractNodeData Name="zuan" ActionTag="1285118916" VisibleForFrame="False" Tag="3391" IconVisible="False" LeftMargin="525.7263" RightMargin="538.2737" TopMargin="291.1399" BottomMargin="404.8601" LeftEage="23" RightEage="23" TopEage="23" BottomEage="23" Scale9OriginX="23" Scale9OriginY="23" Scale9Width="26" Scale9Height="26" ctype="ImageViewObjectData">
             <Size X="72.0000" Y="72.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />

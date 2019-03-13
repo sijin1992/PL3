@@ -1468,7 +1468,7 @@ PARAM["index"][168] = 168
 PARAM[168] = {}
 	PARAM[168]["ID"] = 168
 	PARAM[168]["KEY"] = "name_digit"
-	PARAM[168]["PARAM"] = 12
+	PARAM[168]["PARAM"] = 6
 	PARAM[168]["DESCRIPTION"] = "名字字数限制(中文需修改）"
 	PARAM[168]["real_idx"] = 168
 
@@ -2590,19 +2590,7 @@ PARAM[279] = {}
 		PARAM[279]["DESCRIPTION"][2] = "能量槽：消耗点券=int(1+等待时间(秒)*参数）"
 	PARAM[279]["real_idx"] = 279
 
-PARAM["index"][280] = 280
-PARAM[280] = {}
-	PARAM[280]["ID"] = 280
-	PARAM[280]["KEY"] = "planet_res_freshen"
-	PARAM[280]["PARAM"] = {}
-		PARAM[280]["PARAM"][1] = 1000
-		PARAM[280]["PARAM"][2] = 2100
-		PARAM[280]["PARAM"][3] = 2100
-		PARAM[280]["PARAM"][4] = 1000
-	PARAM[280]["DESCRIPTION"] = "残留资源固定值刷新（金币、合金、晶体、能源）"
-	PARAM[280]["real_idx"] = 280
 
-
-PARAM["len"] = 280
+PARAM["len"] = 279
 
 return PARAM

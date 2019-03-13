@@ -18,8 +18,8 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="145" B="136" />
           </AbstractNodeData>
-          <AbstractNodeData Name="boss_ins" ActionTag="-198420623" Tag="52" IconVisible="False" LeftMargin="226.5470" RightMargin="-610.9370" TopMargin="-356.4049" BottomMargin="276.4049" IsCustomSize="True" FontSize="18" LabelText="A fanatic who is good at masquerading nobilities of every country, sowing discords and triggering wars between them." ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="384.3900" Y="80.0000" />
+          <AbstractNodeData Name="boss_ins" ActionTag="-198420623" Tag="52" IconVisible="False" LeftMargin="226.5470" RightMargin="-610.9370" TopMargin="-356.4049" BottomMargin="290.1349" IsCustomSize="True" FontSize="18" LabelText="A fanatic who is good at masquerading nobilities of every country, sowing discords and triggering wars between them." ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="384.3900" Y="66.2700" />
             <AnchorPoint ScaleY="1.0000" />
             <Position X="226.5470" Y="356.4049" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -150,10 +150,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="boss_power" ActionTag="572390391" Tag="53" IconVisible="False" LeftMargin="39.0575" RightMargin="-114.0575" TopMargin="162.1577" BottomMargin="-188.1577" FontSize="17" LabelText="当前队列:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="boss_power" ActionTag="572390391" Tag="53" IconVisible="False" LeftMargin="39.0575" RightMargin="-114.0575" TopMargin="123.1602" BottomMargin="-149.1602" FontSize="17" LabelText="当前队列:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="75.0000" Y="26.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="39.0575" Y="-175.1577" />
+                <Position X="39.0575" Y="-136.1602" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="191" G="244" B="255" />
                 <PrePosition />
@@ -162,10 +162,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="191" G="244" B="255" />
               </AbstractNodeData>
-              <AbstractNodeData Name="boss_power_num" ActionTag="-1476359976" Tag="54" IconVisible="False" LeftMargin="130.4909" RightMargin="-204.4909" TopMargin="159.1983" BottomMargin="-191.1983" FontSize="21" LabelText="100000" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="boss_power_num" ActionTag="-1476359976" Tag="54" IconVisible="False" LeftMargin="130.4909" RightMargin="-204.4909" TopMargin="120.2003" BottomMargin="-152.2003" FontSize="21" LabelText="100000" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="74.0000" Y="32.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="130.4909" Y="-175.1983" />
+                <Position X="130.4909" Y="-136.2003" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="33" G="255" B="70" />
                 <PrePosition />
@@ -174,7 +174,7 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="33" G="255" B="70" />
               </AbstractNodeData>
-              <AbstractNodeData Name="btn_reward" ActionTag="-344713172" Tag="55" IconVisible="False" LeftMargin="41.4437" RightMargin="-171.4437" TopMargin="207.1476" BottomMargin="-247.1476" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="100" Scale9Height="18" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+              <AbstractNodeData Name="btn_reward" ActionTag="-344713172" Tag="55" IconVisible="False" LeftMargin="231.4498" RightMargin="-361.4498" TopMargin="114.1616" BottomMargin="-154.1616" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="100" Scale9Height="18" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="130.0000" Y="40.0000" />
                 <Children>
                   <AbstractNodeData Name="text" ActionTag="-242576512" Tag="56" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="42.0000" RightMargin="42.0000" TopMargin="7.7760" BottomMargin="-0.7760" FontSize="22" LabelText="奖励" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
@@ -202,7 +202,7 @@
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="106.4437" Y="-227.1476" />
+                <Position X="296.4498" Y="-134.1616" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -315,10 +315,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="boss_time" ActionTag="-358160320" Tag="489" IconVisible="False" LeftMargin="39.0576" RightMargin="-114.0576" TopMargin="129.1568" BottomMargin="-155.1568" FontSize="17" LabelText="当前队列:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="boss_time" ActionTag="-358160320" Tag="489" IconVisible="False" LeftMargin="39.0576" RightMargin="-114.0576" TopMargin="90.1592" BottomMargin="-116.1592" FontSize="17" LabelText="当前队列:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="75.0000" Y="26.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="39.0576" Y="-142.1568" />
+                <Position X="39.0576" Y="-103.1592" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="191" G="244" B="255" />
                 <PrePosition />
@@ -327,10 +327,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="191" G="244" B="255" />
               </AbstractNodeData>
-              <AbstractNodeData Name="boss_time_num" ActionTag="-153681065" Tag="490" IconVisible="False" LeftMargin="130.4909" RightMargin="-204.4909" TopMargin="126.1979" BottomMargin="-158.1979" FontSize="21" LabelText="100000" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="boss_time_num" ActionTag="-153681065" Tag="490" IconVisible="False" LeftMargin="130.4909" RightMargin="-204.4909" TopMargin="87.1997" BottomMargin="-119.1997" FontSize="21" LabelText="100000" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="74.0000" Y="32.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="130.4909" Y="-142.1979" />
+                <Position X="130.4909" Y="-103.1997" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="33" G="255" B="70" />
                 <PrePosition />
@@ -347,7 +347,7 @@
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="can't_fight" ActionTag="1817500978" Tag="69" IconVisible="True" LeftMargin="185.3678" RightMargin="-185.3678" TopMargin="-282.3391" BottomMargin="282.3391" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="can't_fight" ActionTag="1817500978" Tag="69" IconVisible="True" LeftMargin="185.3678" RightMargin="-185.3678" TopMargin="-321.3389" BottomMargin="321.3389" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
               <AbstractNodeData Name="flag_w" ActionTag="-488711171" Tag="90" IconVisible="False" LeftMargin="30.8004" RightMargin="-44.8004" TopMargin="12.5883" BottomMargin="-25.5883" ctype="SpriteObjectData">
@@ -410,7 +410,7 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint />
-            <Position X="185.3678" Y="282.3391" />
+            <Position X="185.3678" Y="321.3389" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

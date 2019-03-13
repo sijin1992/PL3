@@ -146,7 +146,6 @@ function MailDetailAttackType_field:initMailDetail(mail_info,data)
 		-- node:getChildByName('Text_huode'):enableShadow(cc.c4b(233,50,59,255), cc.size(0.5,0.5))
 	end
 	node:getChildByName('Text_1'):setString(CONF:getStringValue('Get resources'))
-    node:getChildByName('Text_3'):setString(CONF:getStringValue('Team information'))
 	node:getChildByName('ship_list'):setPositionX(node:getChildByName('Text_1'):getPositionX()+20+node:getChildByName('Text_1'):getContentSize().width)
 	local list = require("util.ScrollViewDelegate"):create(node:getChildByName("ship_list"),cc.size(7,3), cc.size(90,90))
 	node:getChildByName('ship_list'):setVisible(true)

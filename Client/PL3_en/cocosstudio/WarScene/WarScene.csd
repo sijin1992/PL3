@@ -108,24 +108,24 @@
       <ObjectData Name="Scene" Tag="564" ctype="GameNodeObjectData">
         <Size X="1136.0000" Y="768.0000" />
         <Children>
-          <AbstractNodeData Name="bg" ActionTag="-464453528" Tag="938" IconVisible="False" LeftMargin="-328.0705" RightMargin="-335.9294" TopMargin="-0.5976" BottomMargin="0.5976" ctype="SpriteObjectData">
-            <Size X="1800.0000" Y="768.0000" />
+          <AbstractNodeData Name="bg" ActionTag="-464453528" Tag="938" IconVisible="False" LeftMargin="0.5432" RightMargin="-0.5432" TopMargin="-0.5976" BottomMargin="0.5976" ctype="SpriteObjectData">
+            <Size X="1136.0000" Y="768.0000" />
             <AnchorPoint ScaleX="0.4949" ScaleY="0.4982" />
             <Position X="562.7495" Y="383.2152" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.4954" Y="0.4990" />
-            <PreSize X="1.5845" Y="1.0000" />
+            <PreSize X="1.0000" Y="1.0000" />
             <FileData Type="Normal" Path="BuildingUpgradeScene/ui/bj03.jpg" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="close" ActionTag="-398253966" Alpha="0" UserData="righttop" Tag="842" IconVisible="False" LeftMargin="1051.9999" RightMargin="-25.9999" TopMargin="-2.5483" BottomMargin="694.5483" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="80" Scale9Height="54" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="close" ActionTag="-398253966" UserData="righttop" Tag="842" IconVisible="False" LeftMargin="1021.5665" RightMargin="4.4335" TopMargin="0.7874" BottomMargin="691.2126" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="80" Scale9Height="54" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="110.0000" Y="76.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="1106.9999" Y="732.5483" />
+            <Position X="1076.5665" Y="729.2126" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.9745" Y="0.9538" />
+            <PrePosition X="0.9477" Y="0.9495" />
             <PreSize X="0.0968" Y="0.0990" />
             <TextColor A="255" R="65" G="65" B="70" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
@@ -134,7 +134,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="title_bg" ActionTag="681718708" Alpha="0" UserData="lefttop" Tag="837" IconVisible="False" LeftMargin="-150.4676" RightMargin="893.4676" TopMargin="1.0208" BottomMargin="697.9792" Scale9Enable="True" LeftEage="20" RightEage="178" TopEage="22" BottomEage="22" Scale9OriginX="20" Scale9OriginY="22" Scale9Width="195" Scale9Height="25" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="title_bg" ActionTag="681718708" UserData="lefttop" Tag="837" IconVisible="False" LeftMargin="-86.4700" RightMargin="829.4700" TopMargin="0.0191" BottomMargin="698.9809" Scale9Enable="True" LeftEage="20" RightEage="178" TopEage="22" BottomEage="22" Scale9OriginX="20" Scale9OriginY="22" Scale9Width="195" Scale9Height="25" ctype="ImageViewObjectData">
             <Size X="393.0000" Y="69.0000" />
             <Children>
               <AbstractNodeData Name="title_bg1" ActionTag="-1722876500" UserData="lefttop" Tag="838" IconVisible="False" LeftMargin="340.2811" RightMargin="-829.2811" TopMargin="69.0400" BottomMargin="-2.0400" LeftEage="159" RightEage="159" Scale9OriginX="159" Scale9Width="564" Scale9Height="2" ctype="ImageViewObjectData">
@@ -149,14 +149,14 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="46.0324" Y="732.4792" />
+            <Position X="110.0300" Y="733.4809" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.0405" Y="0.9537" />
+            <PrePosition X="0.0969" Y="0.9551" />
             <PreSize X="0.3460" Y="0.0898" />
             <FileData Type="Normal" Path="Common/newUI/xiewen.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="title" ActionTag="1096846559" Alpha="0" UserData="lefttop" Tag="836" RotationSkewX="7.9942" IconVisible="False" LeftMargin="71.7900" RightMargin="866.2100" TopMargin="19.5600" BottomMargin="697.4400" FontSize="34" LabelText="熔炉读string" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ShadowEnabled="True" ctype="TextObjectData">
+          <AbstractNodeData Name="title" ActionTag="1096846559" UserData="lefttop" Tag="836" RotationSkewX="7.9939" IconVisible="False" LeftMargin="71.7900" RightMargin="866.2100" TopMargin="19.5600" BottomMargin="697.4400" FontSize="34" LabelText="熔炉读string" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ShadowEnabled="True" ctype="TextObjectData">
             <Size X="198.0000" Y="51.0000" />
             <AnchorPoint ScaleY="0.5000" />
             <Position X="71.7900" Y="722.9400" />
@@ -262,13 +262,13 @@
             <FileData Type="Normal" Path="WarScene/ui/tanchu.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="def_text" ActionTag="-656251036" Tag="1118" IconVisible="False" LeftMargin="714.9564" RightMargin="371.0436" TopMargin="169.8170" BottomMargin="562.1830" FontSize="24" LabelText="星盟" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ShadowEnabled="True" ctype="TextObjectData">
+          <AbstractNodeData Name="def_text" ActionTag="-656251036" Tag="1118" IconVisible="False" LeftMargin="745.9586" RightMargin="340.0414" TopMargin="169.8164" BottomMargin="562.1836" FontSize="24" LabelText="星盟" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ShadowEnabled="True" ctype="TextObjectData">
             <Size X="50.0000" Y="36.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="714.9564" Y="580.1830" />
+            <Position X="745.9586" Y="580.1836" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.6294" Y="0.7554" />
+            <PrePosition X="0.6567" Y="0.7554" />
             <PreSize X="0.0440" Y="0.0469" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />

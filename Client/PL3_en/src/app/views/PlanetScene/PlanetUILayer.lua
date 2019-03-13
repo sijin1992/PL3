@@ -254,7 +254,7 @@ function PlanetUILayer:onEnterTransitionFinish()
 		marker_node:getChildByName("close"):addClickEventListener(function ( ... )
 			marker_node:removeFromParent()
 		end)
-        marker_node:getChildByName("btn"):getChildByName("text"):setString(CONF:getStringValue("skip"))
+
 		marker_node:getChildByName("btn"):addClickEventListener(function ( ... )
 			if tonumber(marker_node:getChildByName("shuru_x"):getString()) == nil or marker_node:getChildByName("shuru_y"):getString() == nil then
 				tips:tips(CONF:getStringValue("coordinate mistake"))

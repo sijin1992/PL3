@@ -105,10 +105,7 @@ function TrialWinLayer:createLayer2( ... )
 			local ship_conf = CONF.AIRSHIP.get(ship_info.id)
 			local node = require("app.ExResInterface"):getInstance():FastLoad("BattleScene/WinLayer/ShipNode.csb")
 			node:getChildByName("bg"):loadTexture("RankLayer/ui/ui_avatar_"..ship_conf.QUALITY..".png")
---			node:getChildByName("icon"):loadTexture("RoleIcon/"..ship_conf.DRIVER_ID..".png")
-            node:getChildByName("icon"):setVisible(false)
-            node:getChildByName("icon2"):setVisible(true)
-            node:getChildByName("icon2"):setTexture("ShipImage/"..ship_conf.DRIVER_ID..".png")
+			node:getChildByName("icon"):loadTexture("RoleIcon/"..ship_conf.DRIVER_ID..".png")
 
 			for i=ship_info.ship_break+1,6 do
 				node:getChildByName("star_"..i):removeFromParent()
@@ -452,9 +449,6 @@ function TrialWinLayer:onEnterTransitionFinish()
 
 				self.win_info = proto
 				-- self:touchLayer()
-                if self:getParent():getChildByName("layer_2") == nil then
-				    local layer = require("util.UI_Helper_WinLayer"):getInstance():OnInitWinPopupPanel("layer_2", self:getParent(), self)
-			    end
 			end
 
 		end

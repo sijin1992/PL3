@@ -81,7 +81,7 @@
             <FileData Type="Normal" Path="ShopScene/ui/biaotidi.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Recharge" ActionTag="-1044751246" Tag="711" IconVisible="False" LeftMargin="-32.5800" RightMargin="-33.4200" TopMargin="-263.0200" BottomMargin="232.0200" LeftEage="21" RightEage="21" TopEage="10" BottomEage="10" Scale9OriginX="21" Scale9OriginY="10" Scale9Width="35" Scale9Height="16" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="Recharge" ActionTag="-1044751246" Tag="711" IconVisible="False" LeftMargin="-32.5800" RightMargin="-33.4200" TopMargin="-263.0200" BottomMargin="232.0200" LeftEage="21" RightEage="21" TopEage="10" BottomEage="10" Scale9OriginX="21" Scale9OriginY="10" Scale9Width="24" Scale9Height="11" ctype="ImageViewObjectData">
             <Size X="66.0000" Y="31.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="0.4200" Y="247.5200" />
@@ -118,20 +118,20 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="104" G="125" B="150" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Icon_credit" ActionTag="-876554333" Tag="54" IconVisible="False" LeftMargin="-459.9595" RightMargin="387.9595" TopMargin="190.3553" BottomMargin="-262.3553" LeftEage="23" RightEage="23" TopEage="23" BottomEage="23" Scale9OriginX="23" Scale9OriginY="23" Scale9Width="26" Scale9Height="26" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="Icon_credit" ActionTag="-876554333" Tag="54" IconVisible="False" LeftMargin="-446.9582" RightMargin="374.9582" TopMargin="190.3553" BottomMargin="-262.3553" LeftEage="23" RightEage="23" TopEage="23" BottomEage="23" Scale9OriginX="23" Scale9OriginY="23" Scale9Width="26" Scale9Height="26" ctype="ImageViewObjectData">
             <Size X="72.0000" Y="72.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-423.9595" Y="-226.3553" />
+            <Position X="-410.9582" Y="-226.3553" />
             <Scale ScaleX="0.6400" ScaleY="0.6400" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ItemIcon/10005.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_credit" ActionTag="601596474" Tag="55" IconVisible="False" LeftMargin="-398.0385" RightMargin="-461.9615" TopMargin="219.1922" BottomMargin="-249.1922" IsCustomSize="True" FontSize="18" LabelText="信用点,可用于建筑、科技加速，购买商城道具等，主要通过充值获得..." VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
-            <Size X="860.0000" Y="30.0000" />
+          <AbstractNodeData Name="Text_credit" ActionTag="601596474" Tag="55" IconVisible="False" LeftMargin="-388.0385" RightMargin="-461.9615" TopMargin="213.1923" BottomMargin="-255.1923" IsCustomSize="True" FontSize="20" LabelText="信用点,可用于建筑、科技加速，购买商城道具等，主要通过充值获得..." VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
+            <Size X="850.0000" Y="42.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="-398.0385" Y="-234.1922" />
+            <Position X="-388.0385" Y="-234.1923" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="104" G="125" B="150" />
             <PrePosition />

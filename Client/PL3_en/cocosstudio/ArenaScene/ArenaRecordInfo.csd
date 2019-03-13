@@ -37,10 +37,10 @@
             <FileData Type="Normal" Path="Common/newUI/frame_huawen.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="result_icon_1" ActionTag="-1171564711" Tag="62" IconVisible="False" LeftMargin="25.8560" RightMargin="-57.8560" TopMargin="38.0292" BottomMargin="-66.0292" ctype="SpriteObjectData">
+          <AbstractNodeData Name="result_icon_1" ActionTag="-1171564711" Tag="62" IconVisible="False" LeftMargin="30.8562" RightMargin="-62.8562" TopMargin="38.0290" BottomMargin="-66.0290" ctype="SpriteObjectData">
             <Size X="32.0000" Y="28.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="41.8560" Y="-52.0292" />
+            <Position X="46.8562" Y="-52.0290" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -48,10 +48,10 @@
             <FileData Type="Normal" Path="ArenaScene/ui/win.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="result_icon_0" ActionTag="-76394262" Tag="21" IconVisible="False" LeftMargin="26.5306" RightMargin="-58.5306" TopMargin="37.0538" BottomMargin="-65.0538" ctype="SpriteObjectData">
+          <AbstractNodeData Name="result_icon_0" ActionTag="-76394262" Tag="21" IconVisible="False" LeftMargin="31.5307" RightMargin="-63.5307" TopMargin="37.0536" BottomMargin="-65.0536" ctype="SpriteObjectData">
             <Size X="32.0000" Y="28.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="42.5306" Y="-51.0538" />
+            <Position X="47.5307" Y="-51.0536" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -59,10 +59,10 @@
             <FileData Type="Normal" Path="ArenaScene/ui/lose.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="result_1" ActionTag="-1584992569" Tag="79" IconVisible="False" LeftMargin="57.6619" RightMargin="-145.6619" TopMargin="38.4078" BottomMargin="-76.4078" FontSize="25" LabelText="Victory" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="88.0000" Y="38.0000" />
+          <AbstractNodeData Name="result_1" ActionTag="-1584992569" Tag="79" IconVisible="False" LeftMargin="71.3120" RightMargin="-116.3120" TopMargin="38.4075" BottomMargin="-76.4075" FontSize="25" LabelText="win" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="45.0000" Y="38.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="57.6619" Y="-57.4078" />
+            <Position X="71.3120" Y="-57.4075" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="144" G="238" B="144" />
             <PrePosition />
@@ -71,10 +71,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="144" G="238" B="144" />
           </AbstractNodeData>
-          <AbstractNodeData Name="result_0" ActionTag="1871865671" Tag="80" IconVisible="False" LeftMargin="56.8266" RightMargin="-107.8266" TopMargin="38.3475" BottomMargin="-76.3475" FontSize="25" LabelText="lose" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="result_0" ActionTag="1871865671" Tag="80" IconVisible="False" LeftMargin="70.4766" RightMargin="-121.4766" TopMargin="38.3472" BottomMargin="-76.3472" FontSize="25" LabelText="lose" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="51.0000" Y="38.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="56.8266" Y="-57.3475" />
+            <Position X="70.4766" Y="-57.3472" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="0" B="0" />
             <PrePosition />

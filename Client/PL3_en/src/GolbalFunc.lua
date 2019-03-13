@@ -939,7 +939,7 @@ function createWeaponInfo( conf, size )
 		else
 
 			string_1 = conf.ATTR_PERCENT.."%"
-			string_2 = CONF:getStringValue("Attr_3")
+			string_2 = CONF:getStringValue("physical")
 		end
 
 		if conf.ATTR_PERCENT ~= 0 or conf.ATTR_VALUE ~= 0 then
@@ -953,7 +953,7 @@ function createWeaponInfo( conf, size )
 		else
 
 			string_3 = conf.ENERGY_ATTR_PERCENT.."%"
-			string_4 = CONF:getStringValue("Attr_20")
+			string_4 = CONF:getStringValue("energy")
 		end
 
 		local num = conf.ATTR_VALUE + conf.ENERGY_ATTR_VALUE
@@ -969,10 +969,10 @@ function createWeaponInfo( conf, size )
 
 		if conf.SIGN == 1 then
 
---			string_4 = string_4..CONF:getStringValue("de_damage")
+			string_4 = string_4..CONF:getStringValue("de_damage")
 		elseif conf.SIGN == 2 then
 
---			string_4 = string_4..CONF:getStringValue("de_cure")
+			string_4 = string_4..CONF:getStringValue("de_cure")
 		end
 
 	end

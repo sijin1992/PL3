@@ -268,7 +268,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="chat" ActionTag="189526283" UserData="leftbottom" Tag="229" IconVisible="False" LeftMargin="39.8387" RightMargin="1060.1613" TopMargin="724.2391" BottomMargin="12.7609" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="6" Scale9Height="9" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="chat" ActionTag="189526283" UserData="leftbottom" Tag="229" IconVisible="False" LeftMargin="39.8387" RightMargin="1060.1614" TopMargin="724.2391" BottomMargin="12.7609" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="6" Scale9Height="9" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="36.0000" Y="31.0000" />
             <Children>
               <AbstractNodeData Name="point" ActionTag="-1983243485" UserData="leftbottom" Tag="230" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="19.5066" RightMargin="-1.5066" TopMargin="-3.0978" BottomMargin="16.0978" ctype="SpriteObjectData">
@@ -307,14 +307,14 @@
             <FileData Type="Normal" Path="Common/newUI/line_top02.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="planteName" ActionTag="660148494" UserData="right" Tag="207" IconVisible="False" LeftMargin="589.8700" RightMargin="46.1300" TopMargin="492.9500" BottomMargin="-57.9500" IsCustomSize="True" FontSize="19" LabelText="" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ShadowEnabled="True" ctype="TextObjectData">
-            <Size X="500.0000" Y="333.0000" />
+          <AbstractNodeData Name="planteName" ActionTag="660148494" UserData="right" Tag="207" IconVisible="False" LeftMargin="733.8700" RightMargin="190.1300" TopMargin="492.9500" BottomMargin="-57.9500" IsCustomSize="True" FontSize="19" LabelText="" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ShadowEnabled="True" ctype="TextObjectData">
+            <Size X="212.0000" Y="333.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="839.8700" Y="108.5500" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.7393" Y="0.1413" />
-            <PreSize X="0.4401" Y="0.4336" />
+            <PreSize X="0.1866" Y="0.4336" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />

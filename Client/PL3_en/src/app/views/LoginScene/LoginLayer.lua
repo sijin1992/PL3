@@ -15,7 +15,7 @@ LoginLayer.RESOURCE_BINDING = {
 	["close"]={["varname"]="",["events"]={{["event"]="touch",["method"]="OnBtnClick"}}},
 }
 
-local password = "password"
+local password = "utugamepassword"
 
 function LoginLayer:httpLoginUser()
 
