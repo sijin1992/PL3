@@ -849,7 +849,7 @@ function LevelScene:resetPanel(stage)
 			local diff = touch:getDelta()
 			if math.abs(diff.x) < g_click_delta and math.abs(diff.y) < g_click_delta then
 				
-			else
+			elseif player:getGuideStep() > CONF.GUIDANCE.count() then -- 修复进入副本的新手引导卡住的BUG
 				isTouchMe = false
 			end
 			

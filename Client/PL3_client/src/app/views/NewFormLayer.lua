@@ -483,6 +483,9 @@ local function fightfun()
 end
 
 function NewFormLayer:OnBtnClick(event)
+    if self.isTouch then
+        return
+    end
 
 	printInfo(event.name)
 	if event.name == "ended" then
@@ -801,9 +804,12 @@ function NewFormLayer:setAllkindNumString()
 end
 
 function NewFormLayer:addIconListener(node)
- 
 
 	local function onTouchBegan(touch, event)
+
+        if self.isTouch then
+            return
+        end
 		-- self:removeAction1()
 		local target = event:getCurrentTarget()
 
@@ -1091,6 +1097,10 @@ function NewFormLayer:addFormListener(node)
 
 
 	local function onTouchBegan(touch, event)
+        if self.isTouch then
+            return
+        end
+
 		self:removeAction2()
 		if self.test_ship then
 			return false
@@ -2161,6 +2171,10 @@ function NewFormLayer:onEnterTransitionFinish()
 	for i=1,5 do
 
 		rn:getChildByName('Node_team'):getChildByName('team'..i):addClickEventListener(function()
+            if self.isTouch then
+                return
+            end
+
 			local ship_list_ = g_player:getPreset_lineup_list(i)
 			if self.data_.scene and self.data_.scene == 'ShipsScene' then
 				if self.selectNode == i then	
