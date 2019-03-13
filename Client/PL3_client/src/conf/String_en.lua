@@ -277,7 +277,7 @@ STRING_EN["index"][40] = 40
 STRING_EN[40] = {}
 	STRING_EN[40]["ID"] = 40
 	STRING_EN[40]["KEY"] = nil
-	STRING_EN[40]["VALUE"] = "RankingBoard"
+	STRING_EN[40]["VALUE"] = "Ranking Board"
 	STRING_EN[40]["real_idx"] = 40
 
 STRING_EN["index"][41] = 41
@@ -4407,14 +4407,14 @@ STRING_EN["index"][630] = 630
 STRING_EN[630] = {}
 	STRING_EN[630]["ID"] = 630
 	STRING_EN[630]["KEY"] = "SKILL_M10300"
-	STRING_EN[630]["VALUE"] = "* This technology effectively improves the damage of long-range strikes， which terrifies the enemy that is protected in the rear. *#C# probability of burning itself with HP of #B# of its physical attack and causing #A# damage to 1 single target. $#C# probability of burning itself with HP of *#B# of its physical attack$"
+	STRING_EN[630]["VALUE"] = "* This technology effectively improves the damage of long-range strikes， which terrifies the enemy that is protected in the rear . *#C# probability of burning itself with HP of #B# of its physical attack and causing #A# damage to 1 single target. $#C# probability of burning itself with HP of *#B# of its physical attack$"
 	STRING_EN[630]["real_idx"] = 630
 
 STRING_EN["index"][631] = 631
 STRING_EN[631] = {}
 	STRING_EN[631]["ID"] = 631
 	STRING_EN[631]["KEY"] = "SKILL_M10400"
-	STRING_EN[631]["VALUE"] = "* Composite combat technology， the side effect is not easy to be detected by the enemy， the longer the combat time， the more obvious the effect * Attack the target in the rear， causing #A# damageand lowering #B# physical attack of the target for #D# rounds. $lowering #B# physical attack of the target for #D# rounds$"
+	STRING_EN[631]["VALUE"] = "* Composite combat technology， the side effect is not easy to be detected by the enemy， the longer the combat time， the more obvious the effect * Attack the target in the rear， causing #A# damage and lowering #B# physical attack of the target for #D# rounds. $lowering #B# physical attack of the target for #D# rounds$"
 	STRING_EN[631]["real_idx"] = 631
 
 STRING_EN["index"][632] = 632
@@ -4428,7 +4428,7 @@ STRING_EN["index"][633] = 633
 STRING_EN[633] = {}
 	STRING_EN[633]["ID"] = 633
 	STRING_EN[633]["KEY"] = "SKILL_M10600"
-	STRING_EN[633]["VALUE"] = "* Biological weapons technology that has been through iterations for many years， which can cause multiple levels of damage which is not easy to be repaired * Attack the target in the front row， causing #A# damage， #C# probability poisoning target for #D# rounds that can cause*#B# toxic phsical damage per round. $#C# probability poisoning target for #D# rounds that can cause *#B# toxic damage per round$"
+	STRING_EN[633]["VALUE"] = "* Biological weapons technology that has been through iterations for many years， which can cause multiple levels of damage which is not easy to be repaired * Attack the target in the front row， causing #A# damage， #C# probability poisoning target for #D# rounds that can cause *#B# toxic phsical damage per round. $#C# probability poisoning target for #D# rounds that can cause *#B# toxic damage per round$"
 	STRING_EN[633]["real_idx"] = 633
 
 STRING_EN["index"][634] = 634
@@ -4463,21 +4463,21 @@ STRING_EN["index"][638] = 638
 STRING_EN[638] = {}
 	STRING_EN[638]["ID"] = 638
 	STRING_EN[638]["KEY"] = "SKILL_M11100"
-	STRING_EN[638]["VALUE"] = "* Composite combat technology that triggers multiple debuffs whose performance far exceeds single-function technologies. * Attacking 1 single target， causing #A# damage， additional burning target for #D# rounds that can cause *#B# burning physical damage per round and decreasing #B# attack speed for #D# rounds. $burning target for #D# rounds that can cause *#B# burning physical damage per round and decreasing #B# attack speed for #D# rounds$"
+	STRING_EN[638]["VALUE"] = "* Composite combat technology that triggers multiple debuffs whose performance far exceeds single-function technologies. * Attacking 1 single target， causing #A# damage， additional burning target for #D# rounds that can cause *#B# burning physical damage per round and decreasing #B# attack speed for #D# rounds. $burning target for #D# rounds that can cause *#B# burning physical damage per round and decreasing #B# attack speed for #D# rounds$"
 	STRING_EN[638]["real_idx"] = 638
 
 STRING_EN["index"][639] = 639
 STRING_EN[639] = {}
 	STRING_EN[639]["ID"] = 639
 	STRING_EN[639]["KEY"] = "SKILL_M11200"
-	STRING_EN[639]["VALUE"] = "* The technology that uses ionizing energy to make mechanical failure， which can make the enemy shipsunable to operate. * Attack 1 single target， causing #A# damage， #C# probability stunning the target for #D# rounds. $#C# probability stunning target for #D# rounds$"
+	STRING_EN[639]["VALUE"] = "* The technology that uses ionizing energy to make mechanical failure， which can make the enemy ships unable to operate. * Attack 1 single target， causing #A# damage， #C# probability stunning the target for #D# rounds. $#C# probability stunning target for #D# rounds$"
 	STRING_EN[639]["real_idx"] = 639
 
 STRING_EN["index"][640] = 640
 STRING_EN[640] = {}
 	STRING_EN[640]["ID"] = 640
 	STRING_EN[640]["KEY"] = "SKILL_M11300"
-	STRING_EN[640]["VALUE"] = "* The technology developed by cloning humans which can distort the space， its ownership is still in tussle. * #C# probability of burning itself with HP of *#B# of its physical attack， attack 2 targets randomly for multiple times， causing #A# damage， probabilistic imprisoning the target to make it unable to attack and suffering #B#% more damage for 2 rounds. $probabilistic imprisoning the target to make it unable to attack and suffering 10% more damage for 2 rounds$"
+	STRING_EN[640]["VALUE"] = "* The technology developed by cloning humans which can distort the space， its ownership is still in tussle. * #C# probability of burning itself with HP of *#B# of its physical attack， attack 2 targets randomly for multiple times， causing #A# damage， probabilistic imprisoning the target to make it unable to attack and suffering #B#% more damage for 2 rounds. $probabilistic imprisoning the target to make it unable to attack and suffering 10% more damage for 2 rounds$"
 	STRING_EN[640]["real_idx"] = 640
 
 STRING_EN["index"][641] = 641
@@ -4512,7 +4512,7 @@ STRING_EN["index"][645] = 645
 STRING_EN[645] = {}
 	STRING_EN[645]["ID"] = 645
 	STRING_EN[645]["KEY"] = "SKILL_M11999"
-	STRING_EN[645]["VALUE"] = "* The Human Alliance summed up a lot of combat experiences and finally understood weakening enemy's output abilities after the attack can also achieve both offensive and defensive effects! * Attack 3 targets randomly for multiple times， causing #A# damage， #C# probability lowering#B# physical attack of the target for #D# rounds. $#C# probability lowering #B# physical attack of the target after hit for #D# rounds$"
+	STRING_EN[645]["VALUE"] = "* The Human Alliance summed up a lot of combat experiences and finally understood weakening enemy's output abilities after the attack can also achieve both offensive and defensive effects! * Attack 3 targets randomly for multiple times， causing #A# damage， #C# probability lowering #B# physical attack of the target for #D# rounds. $#C# probability lowering #B# physical attack of the target after hit for #D# rounds$"
 	STRING_EN[645]["real_idx"] = 645
 
 STRING_EN["index"][646] = 646
@@ -4610,7 +4610,7 @@ STRING_EN["index"][659] = 659
 STRING_EN[659] = {}
 	STRING_EN[659]["ID"] = 659
 	STRING_EN[659]["KEY"] = "SKILL_M21400"
-	STRING_EN[659]["VALUE"] = "* Technology developed by the hidden mollusca species， using pulse energy to disrupt signals to destroy information transmission， ensuring the safety of their hiding place. * Attack vertical targets， causing #A# damage， #C# probability stunning the target for #D# rounds. $#C# probability stunning the target for #D# rounds$"
+	STRING_EN[659]["VALUE"] = "* Technology developed by the hidden mollusca species， using pulse energy to disrupt signals to destroy information transmission， ensuring the safety of their hiding place. * Attack vertical targets， causing #A# damage， #C# probability stunning the target for #D# rounds. $#C# probability stunning the target for #D# rounds$"
 	STRING_EN[659]["real_idx"] = 659
 
 STRING_EN["index"][660] = 660
@@ -4645,7 +4645,7 @@ STRING_EN["index"][664] = 664
 STRING_EN[664] = {}
 	STRING_EN[664]["ID"] = 664
 	STRING_EN[664]["KEY"] = "SKILL_M30200"
-	STRING_EN[664]["VALUE"] = "* The technology developed by Human Alliance which is used for warning originally， however it has been misunderstood due to the differences in cultures and technologies， so it is fully being used in the war now. * Silencing 3 targets randomly which makes they can not be able to release skills anymore for #D# rounds， and gain30 extra rages. $Silencing 3 targets randomly which makes they can not be able to release skills anymore for #D# rounds， and gain 30 extra rages$"
+	STRING_EN[664]["VALUE"] = "* The technology developed by Human Alliance which is used for warning originally， however it has been misunderstood due to the differences in cultures and technologies， so it is fully being used in the war now. * Silencing 3 targets randomly which makes they can not be able to release skills anymore for #D# rounds， and gain 30 extra rages. $Silencing 3 targets randomly which makes they can not be able to release skills anymore for #D# rounds， and gain 30 extra rages$"
 	STRING_EN[664]["real_idx"] = 664
 
 STRING_EN["index"][665] = 665
@@ -4673,7 +4673,7 @@ STRING_EN["index"][668] = 668
 STRING_EN[668] = {}
 	STRING_EN[668]["ID"] = 668
 	STRING_EN[668]["KEY"] = "SKILL_M30600"
-	STRING_EN[668]["VALUE"] = "* In order to repel the enemy more thoroughly， the airborne nation have developed this extreme technological. If the enemy is smart， they'd avoid to get involved. * Attack the target which has the highest attack， causing #A# damage， #C# probability of burning effect which can cause the target losing HP by *#B# of its energy attack for #D# rounds. $#C# probability of burning effect which can cause the target losing HP by*#B# of itsenergy attack for #D# rounds$"
+	STRING_EN[668]["VALUE"] = "* In order to repel the enemy more thoroughly， the airborne nation have developed this extreme technological. If the enemy is smart， they'd avoid to get involved. * Attack the target which has the highest attack， causing #A# damage， #C# probability of burning effect which can cause the target losing HP by *#B# of its energy attack for #D# rounds. $#C# probability of burning effect which can cause the target losing HP by*#B# of its energy attack for #D# rounds$"
 	STRING_EN[668]["real_idx"] = 668
 
 STRING_EN["index"][669] = 669
@@ -4694,7 +4694,7 @@ STRING_EN["index"][671] = 671
 STRING_EN[671] = {}
 	STRING_EN[671]["ID"] = 671
 	STRING_EN[671]["KEY"] = "SKILL_M30900"
-	STRING_EN[671]["VALUE"] = "* The nationality from Distance Star developed a system of punishment for punishing defectors or servants who refused to be assimilated， it evolved into a technology that is used for slaughtering after times.* Increase #B#% more damage to all the enemy units for #D# rounds. $increase #B#% more damage to all the enemy units for #D# rounds$"
+	STRING_EN[671]["VALUE"] = "* The nationality from Distance Star developed a system of punishment for punishing defectors or servants who refused to be assimilated， it evolved into a technology that is used for slaughtering after times.* Increase #B#% more damage to all the enemy units for #D# rounds. $increase #B#% more damage to all the enemy units for #D# rounds$"
 	STRING_EN[671]["real_idx"] = 671
 
 STRING_EN["index"][672] = 672
@@ -4708,7 +4708,7 @@ STRING_EN["index"][673] = 673
 STRING_EN[673] = {}
 	STRING_EN[673]["ID"] = 673
 	STRING_EN[673]["KEY"] = "SKILL_M31100"
-	STRING_EN[673]["VALUE"] = "* The mechanical civilization from Distance Star made progresses during exploring the civilization of icefield， although it has not reached the essence of the civilization yet， it is enough for them to exploit. * Attack 2 targets randomly， causing #A# damage， #C# probability freezing the target and decreasing#B# dodge for #D# rounds. $#C# probability freezing the target and decreasing#B# dodge for #D# rounds$"
+	STRING_EN[673]["VALUE"] = "* The mechanical civilization from Distance Star made progresses during exploring the civilization of icefield， although it has not reached the essence of the civilization yet， it is enough for them to exploit. * Attack 2 targets randomly， causing #A# damage， #C# probability freezing the target and decreasing #B# dodge for #D# rounds. $#C# probability freezing the target and decreasing #B# dodge for #D# rounds$"
 	STRING_EN[673]["real_idx"] = 673
 
 STRING_EN["index"][674] = 674
@@ -4729,7 +4729,7 @@ STRING_EN["index"][676] = 676
 STRING_EN[676] = {}
 	STRING_EN[676]["ID"] = 676
 	STRING_EN[676]["KEY"] = "SKILL_M31400"
-	STRING_EN[676]["VALUE"] = "* The colonist tried to conquer humans， they once thought that human beings are good slaves. This is the interference technology specially developed for human biological magnetic field. * Attack the target in the rear， causing #A# damage， #C# probability poisoning target for #D# rounds that can cause*#B# toxic damage from energy attack per round， which can also decrease #B# attack speed of the target for #D# rounds. $#C# probability poisoning target for #D# rounds that can cause *#B# toxic damage from energy attack per round， which can also decrease #B# attack speed of the target for #D# rounds$"
+	STRING_EN[676]["VALUE"] = "* The colonist tried to conquer humans， they once thought that human beings are good slaves. This is the interference technology specially developed for human biological magnetic field. * Attack the target in the rear， causing #A# damage， #C# probability poisoning target for #D# rounds that can cause *#B# toxic damage from energy attack per round， which can also decrease #B# attack speed of the target for #D# rounds. $#C# probability poisoning target for #D# rounds that can cause *#B# toxic damage from energy attack per round， which can also decrease #B# attack speed of the target for #D# rounds$"
 	STRING_EN[676]["real_idx"] = 676
 
 STRING_EN["index"][677] = 677
@@ -5387,7 +5387,7 @@ STRING_EN["index"][770] = 770
 STRING_EN[770] = {}
 	STRING_EN[770]["ID"] = 770
 	STRING_EN[770]["KEY"] = "SKILL_M4000800"
-	STRING_EN[770]["VALUE"] = "* One of the open technologies from Universe Alliance which is used to balance the power of weak galaxies and species. * Attack 1 single target， causing #A# damage， #C# probability stunning the target for #D# rounds. $#C# probability stunning the target for #D# rounds$"
+	STRING_EN[770]["VALUE"] = "* One of the open technologies from Universe Alliance which is used to balance the power of weak galaxies and species. * Attack 1 single target， causing #A# damage， #C# probability stunning the target for #D# rounds. $#C# probability stunning the target for #D# rounds$"
 	STRING_EN[770]["real_idx"] = 770
 
 STRING_EN["index"][771] = 771
