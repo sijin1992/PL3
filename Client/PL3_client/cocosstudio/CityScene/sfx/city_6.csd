@@ -642,10 +642,10 @@
           <AbstractNodeData Name="Node_15" ActionTag="2068343858" Tag="3406" IconVisible="True" LeftMargin="173.5384" RightMargin="-173.5384" TopMargin="67.5047" BottomMargin="-67.5047" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
-              <AbstractNodeData Name="lansesheguangdeng_18" Visible="False" ActionTag="-765886690" Tag="21" RotationSkewX="-1.5490" RotationSkewY="-1.5493" IconVisible="False" LeftMargin="-148.7700" RightMargin="62.7700" TopMargin="-207.3304" BottomMargin="48.3304" ctype="SpriteObjectData">
+              <AbstractNodeData Name="lansesheguangdeng_18" Visible="False" ActionTag="-765886690" VisibleForFrame="False" Tag="21" RotationSkewX="6.4528" RotationSkewY="6.4524" IconVisible="False" LeftMargin="-148.7700" RightMargin="62.7700" TopMargin="-207.3300" BottomMargin="48.3300" ctype="SpriteObjectData">
                 <Size X="86.0000" Y="159.0000" />
                 <AnchorPoint ScaleX="0.5000" />
-                <Position X="-105.7700" Y="48.3304" />
+                <Position X="-105.7700" Y="48.3300" />
                 <Scale ScaleX="0.6606" ScaleY="1.0803" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -664,7 +664,7 @@
           <AbstractNodeData Name="juguangdeng" ActionTag="2083287091" Tag="23" RotationSkewX="-22.2220" RotationSkewY="-22.2220" IconVisible="True" LeftMargin="-25.8414" RightMargin="25.8414" TopMargin="-6.1880" BottomMargin="6.1880" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
-              <AbstractNodeData Name="lansesheguangdeng_19" ActionTag="-1742225949" Tag="22" RotationSkewX="19.0151" RotationSkewY="19.0146" IconVisible="False" LeftMargin="-108.4135" RightMargin="22.4135" TopMargin="-107.9517" BottomMargin="-51.0483" ctype="SpriteObjectData">
+              <AbstractNodeData Name="lansesheguangdeng_19" ActionTag="-1742225949" VisibleForFrame="False" Tag="22" RotationSkewX="20.7987" RotationSkewY="20.7980" IconVisible="False" LeftMargin="-108.4135" RightMargin="22.4135" TopMargin="-107.9517" BottomMargin="-51.0483" ctype="SpriteObjectData">
                 <Size X="86.0000" Y="159.0000" />
                 <AnchorPoint ScaleX="0.5000" />
                 <Position X="-65.4135" Y="-51.0483" />
@@ -694,7 +694,7 @@
             <FileData Type="MarkedSubImage" Path="CityScene/sfx/city_1/city_1.png" Plist="CityScene/sfx/city_1/city_1.plist" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="languang_1" ActionTag="310556319" Tag="4" IconVisible="False" LeftMargin="-41.9562" RightMargin="-72.0438" TopMargin="48.2969" BottomMargin="-89.2969" ctype="SpriteObjectData">
+          <AbstractNodeData Name="languang_1" ActionTag="310556319" VisibleForFrame="False" Tag="4" IconVisible="False" LeftMargin="-41.9562" RightMargin="-72.0438" TopMargin="48.2969" BottomMargin="-89.2969" ctype="SpriteObjectData">
             <Size X="114.0000" Y="41.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="15.0438" Y="-68.7969" />
@@ -705,7 +705,7 @@
             <FileData Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_1_0002.png" Plist="CityScene/sfx/city_1/city_1.plist" />
             <BlendFunc Src="770" Dst="1" />
           </AbstractNodeData>
-          <AbstractNodeData Name="languang_2" ActionTag="-1666880919" Tag="5" IconVisible="False" LeftMargin="81.8619" RightMargin="-162.8619" TopMargin="72.8240" BottomMargin="-111.8240" ctype="SpriteObjectData">
+          <AbstractNodeData Name="languang_2" ActionTag="-1666880919" VisibleForFrame="False" Tag="5" IconVisible="False" LeftMargin="81.8619" RightMargin="-162.8619" TopMargin="72.8240" BottomMargin="-111.8240" ctype="SpriteObjectData">
             <Size X="81.0000" Y="39.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="122.3619" Y="-92.3240" />
@@ -713,10 +713,10 @@
             <CColor A="255" R="42" G="151" B="254" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_2_0002.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <FileData Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_2_0011.png" Plist="CityScene/sfx/city_1/city_1.plist" />
             <BlendFunc Src="770" Dst="1" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_5" ActionTag="-1797971845" Tag="6" RotationSkewX="-1.0858" RotationSkewY="-1.0858" IconVisible="False" LeftMargin="6.6167" RightMargin="-64.6167" TopMargin="41.2252" BottomMargin="-80.2252" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Sprite_5" ActionTag="-1797971845" VisibleForFrame="False" Tag="6" RotationSkewX="-1.0858" RotationSkewY="-1.0858" IconVisible="False" LeftMargin="6.6167" RightMargin="-64.6167" TopMargin="41.2252" BottomMargin="-80.2252" ctype="SpriteObjectData">
             <Size X="58.0000" Y="39.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="35.6167" Y="-60.7252" />
@@ -724,7 +724,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuanrao_0004.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <FileData Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuanrao_0001.png" Plist="CityScene/sfx/city_1/city_1.plist" />
             <BlendFunc Src="770" Dst="1" />
           </AbstractNodeData>
           <AbstractNodeData Name="icon_suo" ActionTag="-230887610" Alpha="0" Tag="137" IconVisible="False" LeftMargin="-78.5006" RightMargin="-90.4994" TopMargin="-32.9993" BottomMargin="-117.0007" ctype="SpriteObjectData">
@@ -738,7 +738,7 @@
             <FileData Type="Normal" Path="CityScene/sfx/suo/10001.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_192" ActionTag="2134437357" Tag="919" IconVisible="False" LeftMargin="11.3033" RightMargin="-72.3033" TopMargin="-64.0253" BottomMargin="0.0253" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Sprite_192" ActionTag="2134437357" VisibleForFrame="False" Tag="919" IconVisible="False" LeftMargin="11.3033" RightMargin="-72.3033" TopMargin="-64.0253" BottomMargin="0.0253" ctype="SpriteObjectData">
             <Size X="61.0000" Y="64.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="41.8033" Y="32.0253" />
@@ -746,7 +746,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="CityScene/sfx/city_1/zishen/10007.png" Plist="" />
+            <FileData Type="Normal" Path="CityScene/sfx/city_1/zishen/10002.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
         </Children>

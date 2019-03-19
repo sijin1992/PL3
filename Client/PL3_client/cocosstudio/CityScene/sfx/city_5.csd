@@ -2638,10 +2638,10 @@
           <AbstractNodeData Name="Node_393" ActionTag="-1129073830" Tag="1457" IconVisible="True" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
-              <AbstractNodeData Name="Sprite_4" ActionTag="-10468782" Tag="1008" IconVisible="False" LeftMargin="-306.7685" RightMargin="-214.2315" TopMargin="-148.1048" BottomMargin="-156.8952" ctype="SpriteObjectData">
+              <AbstractNodeData Name="Sprite_4" ActionTag="-10468782" Tag="1008" IconVisible="False" LeftMargin="-306.7700" RightMargin="-214.2300" TopMargin="-148.1000" BottomMargin="-156.9000" ctype="SpriteObjectData">
                 <Size X="521.0000" Y="305.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="-46.2685" Y="-4.3952" />
+                <Position X="-46.2700" Y="-4.4000" />
                 <Scale ScaleX="0.6000" ScaleY="0.6000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -2661,11 +2661,11 @@
               <AbstractNodeData Name="Node_1" ActionTag="-447740953" Tag="2448" IconVisible="True" LeftMargin="17.0004" RightMargin="-17.0004" TopMargin="8.1055" BottomMargin="-8.1055" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
-                  <AbstractNodeData Name="hongdeng_7" ActionTag="-1737469705" Tag="53" IconVisible="False" LeftMargin="-110.3948" RightMargin="52.3948" TopMargin="-107.2998" BottomMargin="49.2998" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="hongdeng_7" ActionTag="-1737469705" VisibleForFrame="False" Tag="53" IconVisible="False" LeftMargin="-110.3948" RightMargin="52.3948" TopMargin="-107.2998" BottomMargin="49.2998" ctype="SpriteObjectData">
                     <Size X="58.0000" Y="58.0000" />
                     <AnchorPoint ScaleX="0.5102" ScaleY="0.4784" />
                     <Position X="-80.8032" Y="77.0470" />
-                    <Scale ScaleX="3.7626" ScaleY="0.0535" />
+                    <Scale ScaleX="3.9051" ScaleY="0.0736" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
@@ -2683,7 +2683,7 @@
               <AbstractNodeData Name="Node_2_0" ActionTag="231921327" Tag="2452" IconVisible="True" LeftMargin="-48.8102" RightMargin="48.8102" TopMargin="-43.3887" BottomMargin="43.3887" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
-                  <AbstractNodeData Name="hongdeng_6" ActionTag="-244173656" Alpha="175" Tag="2453" IconVisible="False" LeftMargin="-50.8705" RightMargin="-7.1295" TopMargin="-53.3288" BottomMargin="-4.6712" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="hongdeng_6" ActionTag="-244173656" VisibleForFrame="False" Tag="2453" IconVisible="False" LeftMargin="-50.8705" RightMargin="-7.1295" TopMargin="-53.3288" BottomMargin="-4.6712" ctype="SpriteObjectData">
                     <Size X="58.0000" Y="58.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="-21.8705" Y="24.3288" />
@@ -2702,7 +2702,7 @@
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Sprite_3" ActionTag="643198131" Alpha="0" Tag="2454" IconVisible="False" LeftMargin="-106.4500" RightMargin="-103.5500" TopMargin="-43.3600" BottomMargin="-88.6400" ctype="SpriteObjectData">
+              <AbstractNodeData Name="Sprite_3" ActionTag="643198131" VisibleForFrame="False" Alpha="222" Tag="2454" IconVisible="False" LeftMargin="-106.4500" RightMargin="-103.5500" TopMargin="-43.3600" BottomMargin="-88.6400" ctype="SpriteObjectData">
                 <Size X="210.0000" Y="132.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="-1.4500" Y="-22.6400" />
@@ -2713,7 +2713,7 @@
                 <FileData Type="Normal" Path="CityScene/sfx/city_5/keji/2.png" Plist="" />
                 <BlendFunc Src="775" Dst="1" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Sprite_50" ActionTag="1219187659" Tag="2540" RotationSkewX="-90.0000" RotationSkewY="-90.0000" IconVisible="False" LeftMargin="-10.7233" RightMargin="-63.2767" TopMargin="-34.2321" BottomMargin="-53.7679" ctype="SpriteObjectData">
+              <AbstractNodeData Name="Sprite_50" ActionTag="1219187659" VisibleForFrame="False" Tag="2540" RotationSkewX="-90.0000" RotationSkewY="-90.0000" IconVisible="False" LeftMargin="-10.7233" RightMargin="-63.2767" TopMargin="-34.2321" BottomMargin="-53.7679" ctype="SpriteObjectData">
                 <Size X="74.0000" Y="88.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="26.2767" Y="-9.7679" />
@@ -2730,7 +2730,7 @@
                   <AbstractNodeData Name="guangtiao" ActionTag="-1068692348" Tag="2908" RotationSkewX="-19.0000" RotationSkewY="-19.0002" IconVisible="True" LeftMargin="-48.4532" RightMargin="48.4532" TopMargin="94.3484" BottomMargin="-94.3484" ctype="SingleNodeObjectData">
                     <Size X="0.0000" Y="0.0000" />
                     <Children>
-                      <AbstractNodeData Name="Sprite_275" ActionTag="1509074327" Alpha="192" Tag="2909" IconVisible="False" RightMargin="-159.0000" TopMargin="-43.0000" BottomMargin="-43.0000" ctype="SpriteObjectData">
+                      <AbstractNodeData Name="Sprite_275" ActionTag="1509074327" VisibleForFrame="False" Alpha="183" Tag="2909" IconVisible="False" RightMargin="-159.0000" TopMargin="-43.0000" BottomMargin="-43.0000" ctype="SpriteObjectData">
                         <Size X="159.0000" Y="86.0000" />
                         <AnchorPoint ScaleY="0.5000" />
                         <Position />
@@ -2752,7 +2752,7 @@
                   <AbstractNodeData Name="Node_97" ActionTag="-702080957" Tag="2910" RotationSkewX="-11.0600" RotationSkewY="-11.0620" IconVisible="True" LeftMargin="-46.7139" RightMargin="46.7139" TopMargin="96.1954" BottomMargin="-96.1954" ctype="SingleNodeObjectData">
                     <Size X="0.0000" Y="0.0000" />
                     <Children>
-                      <AbstractNodeData Name="Sprite_275_0" ActionTag="1942293529" Alpha="48" Tag="2911" IconVisible="False" RightMargin="-159.0000" TopMargin="-43.0000" BottomMargin="-43.0000" ctype="SpriteObjectData">
+                      <AbstractNodeData Name="Sprite_275_0" ActionTag="1942293529" VisibleForFrame="False" Alpha="57" Tag="2911" IconVisible="False" RightMargin="-159.0000" TopMargin="-43.0000" BottomMargin="-43.0000" ctype="SpriteObjectData">
                         <Size X="159.0000" Y="86.0000" />
                         <AnchorPoint ScaleY="0.5000" />
                         <Position />
@@ -2774,7 +2774,7 @@
                   <AbstractNodeData Name="Node_98" ActionTag="-613376566" Tag="2912" RotationSkewX="-5.1100" RotationSkewY="-5.1099" IconVisible="True" LeftMargin="-47.0770" RightMargin="47.0770" TopMargin="99.6373" BottomMargin="-99.6373" ctype="SingleNodeObjectData">
                     <Size X="0.0000" Y="0.0000" />
                     <Children>
-                      <AbstractNodeData Name="Sprite_275_1" ActionTag="154640534" Alpha="95" Tag="2913" IconVisible="False" RightMargin="-159.0000" TopMargin="-43.0000" BottomMargin="-43.0000" ctype="SpriteObjectData">
+                      <AbstractNodeData Name="Sprite_275_1" ActionTag="154640534" VisibleForFrame="False" Alpha="84" Tag="2913" IconVisible="False" RightMargin="-159.0000" TopMargin="-43.0000" BottomMargin="-43.0000" ctype="SpriteObjectData">
                         <Size X="159.0000" Y="86.0000" />
                         <AnchorPoint ScaleY="0.5000" />
                         <Position />
@@ -2801,10 +2801,10 @@
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Sprite_57" ActionTag="-1212574860" Tag="2914" IconVisible="False" LeftMargin="-128.3200" RightMargin="-109.6800" TopMargin="-86.0342" BottomMargin="-92.9658" ctype="SpriteObjectData">
+              <AbstractNodeData Name="Sprite_57" ActionTag="-1212574860" Alpha="0" Tag="2914" IconVisible="False" LeftMargin="-130.3200" RightMargin="-107.6800" TopMargin="-79.3577" BottomMargin="-99.6423" ctype="SpriteObjectData">
                 <Size X="238.0000" Y="179.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="-9.3200" Y="-3.4658" />
+                <Position X="-11.3200" Y="-10.1423" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -2812,24 +2812,24 @@
                 <FileData Type="Normal" Path="CityScene/sfx/city_5/keji/3.png" Plist="" />
                 <BlendFunc Src="1" Dst="1" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Sprite_58" ActionTag="578056106" Tag="2915" IconVisible="False" LeftMargin="-154.1577" RightMargin="-162.8423" TopMargin="-117.9566" BottomMargin="-140.0434" ctype="SpriteObjectData">
-                <Size X="317.0000" Y="258.0000" />
+              <AbstractNodeData Name="Sprite_58" ActionTag="578056106" Alpha="0" Tag="2915" IconVisible="False" LeftMargin="-154.1577" RightMargin="-162.8423" TopMargin="-117.9566" BottomMargin="-140.0434" ctype="SpriteObjectData">
+                <Size X="310.0000" Y="181.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="4.3423" Y="-11.0434" />
                 <Scale ScaleX="0.9214" ScaleY="0.8713" />
                 <CColor A="255" R="79" G="168" B="255" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
-                <FileData Type="Normal" Path="CityScene/sfx/city_4/ys/10001.png" Plist="" />
+                <FileData Type="Normal" Path="CityScene/sfx/city_5/lizi/10001.png" Plist="" />
                 <BlendFunc Src="1" Dst="1" />
               </AbstractNodeData>
               <AbstractNodeData Name="Node_74" ActionTag="1648578201" Tag="3106" RotationSkewX="37.9383" RotationSkewY="37.9430" IconVisible="True" LeftMargin="100.2582" RightMargin="-100.2582" TopMargin="140.6311" BottomMargin="-140.6311" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
-                  <AbstractNodeData Name="Sprite_153" ActionTag="2091218134" Alpha="0" Tag="3107" IconVisible="False" LeftMargin="-475.0168" RightMargin="230.0168" TopMargin="-318.6814" BottomMargin="103.6814" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_153" ActionTag="2091218134" VisibleForFrame="False" Alpha="0" Tag="3107" IconVisible="False" LeftMargin="-475.0164" RightMargin="230.0164" TopMargin="-348.6814" BottomMargin="133.6814" ctype="SpriteObjectData">
                     <Size X="245.0000" Y="215.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="-352.5168" Y="211.1814" />
+                    <Position X="-352.5164" Y="241.1814" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
@@ -2837,11 +2837,11 @@
                     <FileData Type="Normal" Path="CityScene/sfx/112.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_154" ActionTag="668577632" Alpha="0" Tag="3108" IconVisible="False" LeftMargin="-440.2308" RightMargin="195.2308" TopMargin="-249.1157" BottomMargin="34.1157" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_154" ActionTag="668577632" VisibleForFrame="False" Alpha="0" Tag="3108" IconVisible="False" LeftMargin="-440.2308" RightMargin="195.2308" TopMargin="-249.1157" BottomMargin="34.1157" ctype="SpriteObjectData">
                     <Size X="245.0000" Y="215.0000" />
                     <AnchorPoint ScaleX="0.3648" ScaleY="0.8892" />
                     <Position X="-350.8548" Y="225.2937" />
-                    <Scale ScaleX="0.6073" ScaleY="1.0000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="61" G="152" B="255" />
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
@@ -2894,7 +2894,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="CityScene/sfx/suo/10001.png" Plist="" />
+            <FileData Type="Normal" Path="CityScene/sfx/suo/10008.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
         </Children>
