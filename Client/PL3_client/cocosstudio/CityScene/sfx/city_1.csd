@@ -1250,7 +1250,7 @@
             <FileData Type="Normal" Path="CityScene/sfx/suo/10001.png" Plist="" />
             <BlendFunc Src="1" Dst="769" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_5" ActionTag="-1070840383" Tag="28" RotationSkewX="126.6227" RotationSkewY="126.6275" IconVisible="False" LeftMargin="-85.9617" RightMargin="-209.0383" TopMargin="106.8692" BottomMargin="-273.8692" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Sprite_5" ActionTag="-1070840383" VisibleForFrame="False" Tag="28" RotationSkewX="126.6227" RotationSkewY="126.6275" IconVisible="False" LeftMargin="-85.9617" RightMargin="-209.0383" TopMargin="106.8692" BottomMargin="-273.8692" ctype="SpriteObjectData">
             <Size X="295.0000" Y="167.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="61.5383" Y="-190.3692" />
@@ -1258,10 +1258,10 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="CityScene/sfx/city_3/lizi/10003.png" Plist="" />
+            <FileData Type="Normal" Path="CityScene/sfx/city_3/lizi/10061.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_12" ActionTag="-1205349639" Alpha="245" Tag="179" RotationSkewX="-91.4858" RotationSkewY="-91.4873" IconVisible="False" LeftMargin="-154.0002" RightMargin="80.0002" TopMargin="66.0003" BottomMargin="-154.0003" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Sprite_12" ActionTag="-1205349639" VisibleForFrame="False" Alpha="246" Tag="179" RotationSkewX="-91.4858" RotationSkewY="-91.4873" IconVisible="False" LeftMargin="-154.0002" RightMargin="80.0002" TopMargin="66.0003" BottomMargin="-154.0003" ctype="SpriteObjectData">
             <Size X="74.0000" Y="88.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-117.0002" Y="-110.0003" />
@@ -1272,7 +1272,7 @@
             <FileData Type="Normal" Path="CityScene/sfx/city_5/keji/4.png" Plist="" />
             <BlendFunc Src="1" Dst="1" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_5_0" ActionTag="-619734952" Tag="181" RotationSkewX="-2.4921" RotationSkewY="-2.4849" IconVisible="False" LeftMargin="-270.9610" RightMargin="-24.0390" TopMargin="27.8683" BottomMargin="-194.8683" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Sprite_5_0" ActionTag="-619734952" VisibleForFrame="False" Tag="181" RotationSkewX="-2.4921" RotationSkewY="-2.4849" IconVisible="False" LeftMargin="-270.9610" RightMargin="-24.0390" TopMargin="27.8683" BottomMargin="-194.8683" ctype="SpriteObjectData">
             <Size X="295.0000" Y="167.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-123.4610" Y="-111.3683" />
@@ -1280,10 +1280,10 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="CityScene/sfx/city_3/lizi/10003.png" Plist="" />
+            <FileData Type="Normal" Path="CityScene/sfx/city_3/lizi/10061.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_5_1" ActionTag="-546361059" Tag="280" RotationSkewX="-0.8463" RotationSkewY="-0.8458" IconVisible="False" LeftMargin="11.5945" RightMargin="-69.5945" TopMargin="-73.7740" BottomMargin="34.7740" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Sprite_5_1" ActionTag="-546361059" VisibleForFrame="False" Tag="280" RotationSkewX="-0.8463" RotationSkewY="-0.8458" IconVisible="False" LeftMargin="11.5945" RightMargin="-69.5945" TopMargin="-73.7740" BottomMargin="34.7740" ctype="SpriteObjectData">
             <Size X="58.0000" Y="39.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="40.5945" Y="54.2740" />
@@ -1291,10 +1291,10 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuanrao_0001.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <FileData Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuanrao_0003.png" Plist="CityScene/sfx/city_1/city_1.plist" />
             <BlendFunc Src="770" Dst="1" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_4" ActionTag="-1075472548" Alpha="235" Tag="46" IconVisible="False" LeftMargin="-179.4993" RightMargin="-157.5007" TopMargin="-82.0005" BottomMargin="-187.9995" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Sprite_4" ActionTag="-1075472548" VisibleForFrame="False" Alpha="238" Tag="46" IconVisible="False" LeftMargin="-179.4993" RightMargin="-157.5007" TopMargin="-82.0005" BottomMargin="-187.9995" ctype="SpriteObjectData">
             <Size X="337.0000" Y="270.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-10.9993" Y="-52.9995" />
@@ -1305,7 +1305,7 @@
             <FileData Type="Normal" Path="CityScene/sfx/city_4/1_00000.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="build4_00000_5" ActionTag="768744481" Tag="47" IconVisible="False" LeftMargin="13.8757" RightMargin="-68.8757" TopMargin="-178.6611" BottomMargin="-81.3389" ctype="SpriteObjectData">
+          <AbstractNodeData Name="build4_00000_5" ActionTag="768744481" VisibleForFrame="False" Alpha="70" Tag="47" IconVisible="False" LeftMargin="13.8757" RightMargin="-68.8757" TopMargin="-178.6611" BottomMargin="-81.3389" ctype="SpriteObjectData">
             <Size X="55.0000" Y="260.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="41.3757" Y="48.6611" />
@@ -1313,7 +1313,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="CityScene/sfx/city_4/zouguang/build4_00001.png" Plist="" />
+            <FileData Type="Normal" Path="CityScene/sfx/city_4/zouguang/build4_00011.png" Plist="" />
             <BlendFunc Src="1" Dst="1" />
           </AbstractNodeData>
         </Children>

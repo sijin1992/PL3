@@ -832,10 +832,10 @@
           <AbstractNodeData Name="Node_14" ActionTag="-966584674" Tag="1219" IconVisible="True" LeftMargin="49.7391" RightMargin="-49.7391" TopMargin="9.5738" BottomMargin="-9.5738" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
-              <AbstractNodeData Name="Node_1" ActionTag="-203239243" Tag="59" IconVisible="True" LeftMargin="-90.6183" RightMargin="90.6183" TopMargin="-31.5090" BottomMargin="31.5090" ctype="SingleNodeObjectData">
+              <AbstractNodeData Name="Node_1" ActionTag="-203239243" Tag="59" IconVisible="True" LeftMargin="-90.6182" RightMargin="90.6182" TopMargin="-29.9435" BottomMargin="29.9435" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
-                  <AbstractNodeData Name="chaun" ActionTag="332379420" Tag="60" IconVisible="False" LeftMargin="-32.3011" RightMargin="-36.6989" TopMargin="-19.7845" BottomMargin="-19.2155" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="chaun" ActionTag="332379420" VisibleForFrame="False" Tag="60" IconVisible="False" LeftMargin="-32.8073" RightMargin="-37.1927" TopMargin="-20.7241" BottomMargin="-20.2759" ctype="SpriteObjectData">
                     <Size X="70.0000" Y="41.0000" />
                     <AnchorPoint ScaleX="0.5062" ScaleY="0.5302" />
                     <Position X="2.6267" Y="1.4623" />
@@ -848,7 +848,7 @@
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint />
-                <Position X="-90.6183" Y="31.5090" />
+                <Position X="-90.6182" Y="29.9435" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -868,7 +868,7 @@
               <AbstractNodeData Name="guangtiao" ActionTag="298879002" Tag="1213" RotationSkewX="-19.0000" RotationSkewY="-19.0002" IconVisible="True" LeftMargin="-48.4532" RightMargin="48.4532" TopMargin="94.3484" BottomMargin="-94.3484" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
-                  <AbstractNodeData Name="Sprite_275" ActionTag="-29635321" Alpha="44" Tag="1214" IconVisible="False" RightMargin="-159.0000" TopMargin="-43.0000" BottomMargin="-43.0000" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_275" ActionTag="-29635321" VisibleForFrame="False" Alpha="190" Tag="1214" IconVisible="False" RightMargin="-159.0000" TopMargin="-43.0000" BottomMargin="-43.0000" ctype="SpriteObjectData">
                     <Size X="159.0000" Y="86.0000" />
                     <AnchorPoint ScaleY="0.5000" />
                     <Position />
@@ -890,7 +890,7 @@
               <AbstractNodeData Name="Node_97" ActionTag="-1490473658" Tag="1215" RotationSkewX="-11.0600" RotationSkewY="-11.0620" IconVisible="True" LeftMargin="-46.7139" RightMargin="46.7139" TopMargin="96.1954" BottomMargin="-96.1954" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
-                  <AbstractNodeData Name="Sprite_275_0" ActionTag="-1369346958" Alpha="98" Tag="1216" IconVisible="False" RightMargin="-159.0000" TopMargin="-43.0000" BottomMargin="-43.0000" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_275_0" ActionTag="-1369346958" VisibleForFrame="False" Alpha="51" Tag="1216" IconVisible="False" RightMargin="-159.0000" TopMargin="-43.0000" BottomMargin="-43.0000" ctype="SpriteObjectData">
                     <Size X="159.0000" Y="86.0000" />
                     <AnchorPoint ScaleY="0.5000" />
                     <Position />
@@ -912,7 +912,7 @@
               <AbstractNodeData Name="Node_98" ActionTag="2128443329" Tag="1217" RotationSkewX="-5.1100" RotationSkewY="-5.1099" IconVisible="True" LeftMargin="-47.0770" RightMargin="47.0770" TopMargin="99.6373" BottomMargin="-99.6373" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
-                  <AbstractNodeData Name="Sprite_275_1" ActionTag="-688474469" Alpha="144" Tag="1218" IconVisible="False" RightMargin="-159.0000" TopMargin="-43.0000" BottomMargin="-43.0000" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_275_1" ActionTag="-688474469" VisibleForFrame="False" Alpha="91" Tag="1218" IconVisible="False" RightMargin="-159.0000" TopMargin="-43.0000" BottomMargin="-43.0000" ctype="SpriteObjectData">
                     <Size X="159.0000" Y="86.0000" />
                     <AnchorPoint ScaleY="0.5000" />
                     <Position />
@@ -939,7 +939,7 @@
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_79" ActionTag="-981676540" Tag="1603" RotationSkewY="-0.0018" IconVisible="False" LeftMargin="-75.8693" RightMargin="5.8693" TopMargin="-65.3309" BottomMargin="-71.6691" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Sprite_79" ActionTag="-981676540" VisibleForFrame="False" Tag="1603" RotationSkewY="-0.0018" IconVisible="False" LeftMargin="-75.8693" RightMargin="5.8693" TopMargin="-65.3309" BottomMargin="-71.6691" ctype="SpriteObjectData">
             <Size X="70.0000" Y="137.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-40.8693" Y="-3.1691" />
@@ -947,13 +947,13 @@
             <CColor A="255" R="120" G="201" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="CityScene/sfx/changj/xingxing/10048.png" Plist="" />
+            <FileData Type="Normal" Path="CityScene/sfx/changj/xingxing/10059.png" Plist="" />
             <BlendFunc Src="770" Dst="1" />
           </AbstractNodeData>
           <AbstractNodeData Name="Node_14_0" ActionTag="1243193986" Alpha="0" Tag="51" IconVisible="True" LeftMargin="19.7400" RightMargin="-19.7400" TopMargin="9.5700" BottomMargin="-9.5700" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
-              <AbstractNodeData Name="Node_1" ActionTag="-571555427" Tag="52" IconVisible="True" LeftMargin="-90.6183" RightMargin="90.6183" TopMargin="-31.5090" BottomMargin="31.5090" ctype="SingleNodeObjectData">
+              <AbstractNodeData Name="Node_1" ActionTag="-571555427" Tag="52" IconVisible="True" LeftMargin="-90.6182" RightMargin="90.6182" TopMargin="-29.9435" BottomMargin="29.9435" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
                   <AbstractNodeData Name="chaun" ActionTag="-1686833269" Alpha="196" Tag="53" IconVisible="False" LeftMargin="-1.8072" RightMargin="-68.1928" TopMargin="-21.7243" BottomMargin="-19.2757" ctype="SpriteObjectData">
@@ -969,7 +969,7 @@
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint />
-                <Position X="-90.6183" Y="31.5090" />
+                <Position X="-90.6182" Y="29.9435" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />

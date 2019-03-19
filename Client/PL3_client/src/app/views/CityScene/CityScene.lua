@@ -1339,12 +1339,12 @@ function CityScene:onEnterTransitionFinish()
 	end
 	
 	-- ADD WJJ 20180726
-	local r_sfx = self:getResourceNode():getChildByName("background"):getChildByName("r_sfx")
-	local r_sfx_x, r_sfx_y = r_sfx:getPosition()
-	r_sfx:setPosition(r_sfx_x + self.BACKGROUND_LIU_GUANG_X, r_sfx_y + self.BACKGROUND_LIU_GUANG_Y)
+--	local r_sfx = self:getResourceNode():getChildByName("background"):getChildByName("r_sfx")
+--	local r_sfx_x, r_sfx_y = r_sfx:getPosition()
+--	r_sfx:setPosition(r_sfx_x + self.BACKGROUND_LIU_GUANG_X, r_sfx_y + self.BACKGROUND_LIU_GUANG_Y)
 
-	animManager:runAnimByCSB(r_sfx, "CityScene/sfx/city_17.csb", "1")
-	animManager:runAnimByCSB(self:getResourceNode():getChildByName("background"):getChildByName("feijixunhuan"), "CityScene/sfx/feijixunhuan.csb", "1")
+--	animManager:runAnimByCSB(r_sfx, "CityScene/sfx/city_17.csb", "1")
+--	animManager:runAnimByCSB(self:getResourceNode():getChildByName("background"):getChildByName("feijixunhuan"), "CityScene/sfx/feijixunhuan.csb", "1")
 	showLed()
 	local function runAnim(ui)
 		animManager:runAnimByCSB(ui:getChildByName("yindao_1"), "GuideLayer/sfx/effect_0.csb", "1")
@@ -2096,16 +2096,18 @@ function CityScene:openAmi()
 	local city = rn:getChildByName("background")
 
 	for i=1,16 do
-		if city:getChildByName("G"..i) then
-			animManager:runAnimByCSB(city:getChildByName("G"..i), "CityScene/sfx/gaoliang/G"..i..".csb", "0")
-		end
-		if city:getChildByName(string.format("city_%d", i)) ~= nil then
-			animManager:runAnimByCSB(city:getChildByName(string.format("city_%d", i)), string.format("CityScene/sfx/city_%d.csb", i),  "1")
-		end
+        if i == 9 or i == 3 or i == 4 or i == 8 then
+		    if city:getChildByName("G"..i) then
+			    animManager:runAnimByCSB(city:getChildByName("G"..i), "CityScene/sfx/gaoliang/G"..i..".csb", "0")
+		    end
+		    if city:getChildByName(string.format("city_%d", i)) ~= nil then
+			    animManager:runAnimByCSB(city:getChildByName(string.format("city_%d", i)), string.format("CityScene/sfx/city_%d.csb", i),  "1")
+		    end
 
-		if city:getChildByName(string.format("feiji_%d", i)) ~= nil then
-			animManager:runAnimByCSB(city:getChildByName(string.format("feiji_%d", i)), string.format("CityScene/sfx/feiji_%d.csb", i),  "1")
-		end
+		    if city:getChildByName(string.format("feiji_%d", i)) ~= nil then
+			    animManager:runAnimByCSB(city:getChildByName(string.format("feiji_%d", i)), string.format("CityScene/sfx/feiji_%d.csb", i),  "1")
+		    end
+        end
 
 	end
 
