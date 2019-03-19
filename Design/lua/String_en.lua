@@ -6031,791 +6031,791 @@ STRING_EN["index"][862] = 862
 STRING_EN[862] = {}
 	STRING_EN[862]["ID"] = 862
 	STRING_EN[862]["KEY"] = "KJ_M110101"
-	STRING_EN[862]["VALUE"] = "Improve the production speed of home alloy mines"
+	STRING_EN[862]["VALUE"] = "Improve output speed of Alloy in home base"
 	STRING_EN[862]["real_idx"] = 862
 
 STRING_EN["index"][863] = 863
 STRING_EN[863] = {}
 	STRING_EN[863]["ID"] = 863
 	STRING_EN[863]["KEY"] = "KJ_M110201"
-	STRING_EN[863]["VALUE"] = "Improve the production speed of home crystal mines"
+	STRING_EN[863]["VALUE"] = "Improve output speed of Crystal in home base"
 	STRING_EN[863]["real_idx"] = 863
 
 STRING_EN["index"][864] = 864
 STRING_EN[864] = {}
 	STRING_EN[864]["ID"] = 864
 	STRING_EN[864]["KEY"] = "KJ_M110301"
-	STRING_EN[864]["VALUE"] = "Improve the speed of home energy mine production"
+	STRING_EN[864]["VALUE"] = "Improve output speed of Energy in home base"
 	STRING_EN[864]["real_idx"] = 864
 
 STRING_EN["index"][865] = 865
 STRING_EN[865] = {}
 	STRING_EN[865]["ID"] = 865
 	STRING_EN[865]["KEY"] = "KJ_M140101"
-	STRING_EN[865]["VALUE"] = "Reduce the percentage of resources consumed by the command center upgrade"
+	STRING_EN[865]["VALUE"] = "Reduce the percentage of resources consumed by Command Center upgrade"
 	STRING_EN[865]["real_idx"] = 865
 
 STRING_EN["index"][866] = 866
 STRING_EN[866] = {}
 	STRING_EN[866]["ID"] = 866
 	STRING_EN[866]["KEY"] = "KJ_M140401"
-	STRING_EN[866]["VALUE"] = "Reduce the percentage of resources consumed by the ship repair shop upgrade"
+	STRING_EN[866]["VALUE"] = "Reduce the percentage of resources consumed by Spaceship Workshop upgrade"
 	STRING_EN[866]["real_idx"] = 866
 
 STRING_EN["index"][867] = 867
 STRING_EN[867] = {}
 	STRING_EN[867]["ID"] = 867
 	STRING_EN[867]["KEY"] = "KJ_M140201"
-	STRING_EN[867]["VALUE"] = "Reduce the percentage of resources consumed by the upgrade of the Blueprint Institute"
+	STRING_EN[867]["VALUE"] = "Reduce the percentage of resources consumed by Cabin R&D Factory upgrade"
 	STRING_EN[867]["real_idx"] = 867
 
 STRING_EN["index"][868] = 868
 STRING_EN[868] = {}
 	STRING_EN[868]["ID"] = 868
 	STRING_EN[868]["KEY"] = "KJ_M120103"
-	STRING_EN[868]["VALUE"] = "Increase the percentage of collected alloy ore"
+	STRING_EN[868]["VALUE"] = "Increase the percentage of Alloy Exploiting speed"
 	STRING_EN[868]["real_idx"] = 868
 
 STRING_EN["index"][869] = 869
 STRING_EN[869] = {}
 	STRING_EN[869]["ID"] = 869
 	STRING_EN[869]["KEY"] = "KJ_M120203"
-	STRING_EN[869]["VALUE"] = "Increase the percentage of collected crystal ore"
+	STRING_EN[869]["VALUE"] = "Increase the percentage of Crystal Exploiting speed"
 	STRING_EN[869]["real_idx"] = 869
 
 STRING_EN["index"][870] = 870
 STRING_EN[870] = {}
 	STRING_EN[870]["ID"] = 870
 	STRING_EN[870]["KEY"] = "KJ_M120303"
-	STRING_EN[870]["VALUE"] = "Increase the percentage of collected energy mines"
+	STRING_EN[870]["VALUE"] = "Increase the percentage of Energy Exploiting speed"
 	STRING_EN[870]["real_idx"] = 870
 
 STRING_EN["index"][871] = 871
 STRING_EN[871] = {}
 	STRING_EN[871]["ID"] = 871
 	STRING_EN[871]["KEY"] = "KJ_M140301"
-	STRING_EN[871]["VALUE"] = "Reduce the percentage of resource consumption upgraded by the Weapons Institute"
+	STRING_EN[871]["VALUE"] = "Reduce the percentage of resources consumed by Weapon Institute upgrade"
 	STRING_EN[871]["real_idx"] = 871
 
 STRING_EN["index"][872] = 872
 STRING_EN[872] = {}
 	STRING_EN[872]["ID"] = 872
 	STRING_EN[872]["KEY"] = "KJ_M140501"
-	STRING_EN[872]["VALUE"] = "Reduce the percentage of resources consumed by technology lab upgrades"
+	STRING_EN[872]["VALUE"] = "Reduce the percentage of resources consumed by Tech Lab upgrade"
 	STRING_EN[872]["real_idx"] = 872
 
 STRING_EN["index"][873] = 873
 STRING_EN[873] = {}
 	STRING_EN[873]["ID"] = 873
 	STRING_EN[873]["KEY"] = "KJ_M280101"
-	STRING_EN[873]["VALUE"] = "Increase the percentage of experience gained by the instance of the commander"
+	STRING_EN[873]["VALUE"] = "Increase the percentage of experience gained by the Instance for the Commander"
 	STRING_EN[873]["real_idx"] = 873
 
 STRING_EN["index"][874] = 874
 STRING_EN[874] = {}
 	STRING_EN[874]["ID"] = 874
 	STRING_EN[874]["KEY"] = "KJ_M280103"
-	STRING_EN[874]["VALUE"] = "Increase the percentage of instance coins"
+	STRING_EN[874]["VALUE"] = "Increase the percentage of Gold gained by the Instance"
 	STRING_EN[874]["real_idx"] = 874
 
 STRING_EN["index"][875] = 875
 STRING_EN[875] = {}
 	STRING_EN[875]["ID"] = 875
 	STRING_EN[875]["KEY"] = "KJ_M280105"
-	STRING_EN[875]["VALUE"] = "Increase the percentage of instance alloys obtained"
+	STRING_EN[875]["VALUE"] = "Increase the percentage of Alloy gained by the Instance"
 	STRING_EN[875]["real_idx"] = 875
 
 STRING_EN["index"][876] = 876
 STRING_EN[876] = {}
 	STRING_EN[876]["ID"] = 876
 	STRING_EN[876]["KEY"] = "KJ_M280106"
-	STRING_EN[876]["VALUE"] = "Increase the percentage of instance crystal ore obtained"
+	STRING_EN[876]["VALUE"] = "Increase the percentage of Crystal gained by the Instance"
 	STRING_EN[876]["real_idx"] = 876
 
 STRING_EN["index"][877] = 877
 STRING_EN[877] = {}
 	STRING_EN[877]["ID"] = 877
 	STRING_EN[877]["KEY"] = "KJ_M280107"
-	STRING_EN[877]["VALUE"] = "Increase the percentage of instance energy mines obtained"
+	STRING_EN[877]["VALUE"] = "Increase the percentage of Energy gained by the Instance"
 	STRING_EN[877]["real_idx"] = 877
 
 STRING_EN["index"][878] = 878
 STRING_EN[878] = {}
 	STRING_EN[878]["ID"] = 878
 	STRING_EN[878]["KEY"] = "KJ_M240101"
-	STRING_EN[878]["VALUE"] = "Reduce the percentage of waiting time for command center upgrades"
+	STRING_EN[878]["VALUE"] = "Reduce the percentage of waiting time for Command Center upgrade"
 	STRING_EN[878]["real_idx"] = 878
 
 STRING_EN["index"][879] = 879
 STRING_EN[879] = {}
 	STRING_EN[879]["ID"] = 879
 	STRING_EN[879]["KEY"] = "KJ_M240402"
-	STRING_EN[879]["VALUE"] = "Reduce the percentage of waiting time for upgrades to the ship repair shop"
+	STRING_EN[879]["VALUE"] = "Reduce the percentage of waiting time for Spaceship Workshop upgrade"
 	STRING_EN[879]["real_idx"] = 879
 
 STRING_EN["index"][880] = 880
 STRING_EN[880] = {}
 	STRING_EN[880]["ID"] = 880
 	STRING_EN[880]["KEY"] = "KJ_M240202"
-	STRING_EN[880]["VALUE"] = "Reduce the waiting time for upgrades in Blueprint Institutes"
+	STRING_EN[880]["VALUE"] = "Reduce the percentage of waiting time for Cabin R&D Factory upgrade"
 	STRING_EN[880]["real_idx"] = 880
 
 STRING_EN["index"][881] = 881
 STRING_EN[881] = {}
 	STRING_EN[881]["ID"] = 881
 	STRING_EN[881]["KEY"] = "KJ_M240502"
-	STRING_EN[881]["VALUE"] = "Reduce the percentage of technology lab upgrade wait time"
+	STRING_EN[881]["VALUE"] = "Reduce the percentage of waiting time for Tech Lab upgrade"
 	STRING_EN[881]["real_idx"] = 881
 
 STRING_EN["index"][882] = 882
 STRING_EN[882] = {}
 	STRING_EN[882]["ID"] = 882
 	STRING_EN[882]["KEY"] = "KJ_M240403"
-	STRING_EN[882]["VALUE"] = "Improve the durability of the ship"
+	STRING_EN[882]["VALUE"] = "Increase repairing speed for the durability of spaceship"
 	STRING_EN[882]["real_idx"] = 882
 
 STRING_EN["index"][883] = 883
 STRING_EN[883] = {}
 	STRING_EN[883]["ID"] = 883
 	STRING_EN[883]["KEY"] = "KJ_M240302"
-	STRING_EN[883]["VALUE"] = "Reduce the percentage of waiting time for weapons research upgrades"
+	STRING_EN[883]["VALUE"] = "Reduce the percentage of waiting time for Weapon Institute upgrade"
 	STRING_EN[883]["real_idx"] = 883
 
 STRING_EN["index"][884] = 884
 STRING_EN[884] = {}
 	STRING_EN[884]["ID"] = 884
 	STRING_EN[884]["KEY"] = "KJ_M230031"
-	STRING_EN[884]["VALUE"] = "Reduce the durability loss of the ship"
+	STRING_EN[884]["VALUE"] = "Reduce loss rate for the durability of spaceship"
 	STRING_EN[884]["real_idx"] = 884
 
 STRING_EN["index"][885] = 885
 STRING_EN[885] = {}
 	STRING_EN[885]["ID"] = 885
 	STRING_EN[885]["KEY"] = "KJ_M280102"
-	STRING_EN[885]["VALUE"] = "Increase the number of outbound queues"
+	STRING_EN[885]["VALUE"] = "Increase the number of spaceships in battle formation"
 	STRING_EN[885]["real_idx"] = 885
 
 STRING_EN["index"][886] = 886
 STRING_EN[886] = {}
 	STRING_EN[886]["ID"] = 886
 	STRING_EN[886]["KEY"] = "KJ_M330002"
-	STRING_EN[886]["VALUE"] = "Increase the life of the ship"
+	STRING_EN[886]["VALUE"] = "Increase Health of the spaceship"
 	STRING_EN[886]["real_idx"] = 886
 
 STRING_EN["index"][887] = 887
 STRING_EN[887] = {}
 	STRING_EN[887]["ID"] = 887
 	STRING_EN[887]["KEY"] = "KJ_M330004"
-	STRING_EN[887]["VALUE"] = "Increase ship defense"
+	STRING_EN[887]["VALUE"] = "Increase Defense of the spaceship"
 	STRING_EN[887]["real_idx"] = 887
 
 STRING_EN["index"][888] = 888
 STRING_EN[888] = {}
 	STRING_EN[888]["ID"] = 888
 	STRING_EN[888]["KEY"] = "KJ_M330023"
-	STRING_EN[888]["VALUE"] = "Increase ship energy attack"
+	STRING_EN[888]["VALUE"] = "Increase Energy Attack of the spaceship"
 	STRING_EN[888]["real_idx"] = 888
 
 STRING_EN["index"][889] = 889
 STRING_EN[889] = {}
 	STRING_EN[889]["ID"] = 889
 	STRING_EN[889]["KEY"] = "KJ_M330008"
-	STRING_EN[889]["VALUE"] = "Increase the value of the ship crit"
+	STRING_EN[889]["VALUE"] = "Increase Crit of the spaceship"
 	STRING_EN[889]["real_idx"] = 889
 
 STRING_EN["index"][890] = 890
 STRING_EN[890] = {}
 	STRING_EN[890]["ID"] = 890
 	STRING_EN[890]["KEY"] = "KJ_M330006"
-	STRING_EN[890]["VALUE"] = "Increase the ship hit value"
+	STRING_EN[890]["VALUE"] = "Increase Hit Rate of the spaceship"
 	STRING_EN[890]["real_idx"] = 890
 
 STRING_EN["index"][891] = 891
 STRING_EN[891] = {}
 	STRING_EN[891]["ID"] = 891
 	STRING_EN[891]["KEY"] = "KJ_M330003"
-	STRING_EN[891]["VALUE"] = "Increase the physical attack power of the ship"
+	STRING_EN[891]["VALUE"] = "Increase Physical Attack of the spaceship"
 	STRING_EN[891]["real_idx"] = 891
 
 STRING_EN["index"][892] = 892
 STRING_EN[892] = {}
 	STRING_EN[892]["ID"] = 892
 	STRING_EN[892]["KEY"] = "KJ_M330018"
-	STRING_EN[892]["VALUE"] = "Increase ship anger recovery"
+	STRING_EN[892]["VALUE"] = "Increase Rage Recovery of the spaceship"
 	STRING_EN[892]["real_idx"] = 892
 
 STRING_EN["index"][893] = 893
 STRING_EN[893] = {}
 	STRING_EN[893]["ID"] = 893
 	STRING_EN[893]["KEY"] = "KJ_M330034"
-	STRING_EN[893]["VALUE"] = "Increase the base life percentage of the ship"
+	STRING_EN[893]["VALUE"] = "Increase the percentage for Base Health of the spaceship"
 	STRING_EN[893]["real_idx"] = 893
 
 STRING_EN["index"][894] = 894
 STRING_EN[894] = {}
 	STRING_EN[894]["ID"] = 894
 	STRING_EN[894]["KEY"] = "KJ_M330035"
-	STRING_EN[894]["VALUE"] = "Increase the effectiveness of the ship crit"
+	STRING_EN[894]["VALUE"] = "Increase Crit Damage of the spaceship"
 	STRING_EN[894]["real_idx"] = 894
 
 STRING_EN["index"][895] = 895
 STRING_EN[895] = {}
 	STRING_EN[895]["ID"] = 895
 	STRING_EN[895]["KEY"] = "KJ_M330019"
-	STRING_EN[895]["VALUE"] = "Increase the base defense percentage of the ship"
+	STRING_EN[895]["VALUE"] = "Increase the percentage for Base Defense of the spaceship"
 	STRING_EN[895]["real_idx"] = 895
 
 STRING_EN["index"][896] = 896
 STRING_EN[896] = {}
 	STRING_EN[896]["ID"] = 896
 	STRING_EN[896]["KEY"] = "KJ_M330009"
-	STRING_EN[896]["VALUE"] = "Increase the resistance of the ship"
+	STRING_EN[896]["VALUE"] = "Increase Anti-crit of the spaceship"
 	STRING_EN[896]["real_idx"] = 896
 
 STRING_EN["index"][897] = 897
 STRING_EN[897] = {}
 	STRING_EN[897]["ID"] = 897
 	STRING_EN[897]["KEY"] = "KJ_M330025"
-	STRING_EN[897]["VALUE"] = "Increase the percentage of ship base energy attacks"
+	STRING_EN[897]["VALUE"] = "Increase the percentage for Base Energy Attack of the spaceship"
 	STRING_EN[897]["real_idx"] = 897
 
 STRING_EN["index"][898] = 898
 STRING_EN[898] = {}
 	STRING_EN[898]["ID"] = 898
 	STRING_EN[898]["KEY"] = "KJ_M330007"
-	STRING_EN[898]["VALUE"] = "Increase ship dodge value"
+	STRING_EN[898]["VALUE"] = "Increase Dodge of the spaceship"
 	STRING_EN[898]["real_idx"] = 898
 
 STRING_EN["index"][899] = 899
 STRING_EN[899] = {}
 	STRING_EN[899]["ID"] = 899
 	STRING_EN[899]["KEY"] = "KJ_M330026"
-	STRING_EN[899]["VALUE"] = "Increase the percentage of ship physical attack power"
+	STRING_EN[899]["VALUE"] = "Increase the percentage for Base Physical Attack of the spaceship"
 	STRING_EN[899]["real_idx"] = 899
 
 STRING_EN["index"][900] = 900
 STRING_EN[900] = {}
 	STRING_EN[900]["ID"] = 900
 	STRING_EN[900]["KEY"] = "G_TECH_NAME_1170100"
-	STRING_EN[900]["VALUE"] = "Big covenant"
+	STRING_EN[900]["VALUE"] = "Great Alliance"
 	STRING_EN[900]["real_idx"] = 900
 
 STRING_EN["index"][901] = 901
 STRING_EN[901] = {}
 	STRING_EN[901]["ID"] = 901
 	STRING_EN[901]["KEY"] = "G_TECH_NAME_3370200"
-	STRING_EN[901]["VALUE"] = "Boss research"
+	STRING_EN[901]["VALUE"] = "Boss Research"
 	STRING_EN[901]["real_idx"] = 901
 
 STRING_EN["index"][902] = 902
 STRING_EN[902] = {}
 	STRING_EN[902]["ID"] = 902
 	STRING_EN[902]["KEY"] = "G_TECH_NAME_1170300"
-	STRING_EN[902]["VALUE"] = "Covenant Assistance"
+	STRING_EN[902]["VALUE"] = "Alliance Salvation"
 	STRING_EN[902]["real_idx"] = 902
 
 STRING_EN["index"][903] = 903
 STRING_EN[903] = {}
 	STRING_EN[903]["ID"] = 903
 	STRING_EN[903]["KEY"] = "G_TECH_NAME_2280100"
-	STRING_EN[903]["VALUE"] = "Physical research"
+	STRING_EN[903]["VALUE"] = "SP Research"
 	STRING_EN[903]["real_idx"] = 903
 
 STRING_EN["index"][904] = 904
 STRING_EN[904] = {}
 	STRING_EN[904]["ID"] = 904
 	STRING_EN[904]["KEY"] = "G_TECH_NAME_2221300"
-	STRING_EN[904]["VALUE"] = "Alloy collection bonus"
+	STRING_EN[904]["VALUE"] = "Alloy Exploiting Bonus"
 	STRING_EN[904]["real_idx"] = 904
 
 STRING_EN["index"][905] = 905
 STRING_EN[905] = {}
 	STRING_EN[905]["ID"] = 905
 	STRING_EN[905]["KEY"] = "G_TECH_NAME_2222300"
-	STRING_EN[905]["VALUE"] = "Crystal acquisition bonus"
+	STRING_EN[905]["VALUE"] = "Crystal Exploiting Bonus"
 	STRING_EN[905]["real_idx"] = 905
 
 STRING_EN["index"][906] = 906
 STRING_EN[906] = {}
 	STRING_EN[906]["ID"] = 906
 	STRING_EN[906]["KEY"] = "G_TECH_NAME_2223300"
-	STRING_EN[906]["VALUE"] = "Energy harvesting bonus"
+	STRING_EN[906]["VALUE"] = "Energy Exploiting Bonus"
 	STRING_EN[906]["real_idx"] = 906
 
 STRING_EN["index"][907] = 907
 STRING_EN[907] = {}
 	STRING_EN[907]["ID"] = 907
 	STRING_EN[907]["KEY"] = "G_TECH_NAME_1111100"
-	STRING_EN[907]["VALUE"] = "Alloy production bonus"
+	STRING_EN[907]["VALUE"] = "Alloy Output Bonus"
 	STRING_EN[907]["real_idx"] = 907
 
 STRING_EN["index"][908] = 908
 STRING_EN[908] = {}
 	STRING_EN[908]["ID"] = 908
 	STRING_EN[908]["KEY"] = "G_TECH_NAME_1112100"
-	STRING_EN[908]["VALUE"] = "Crystal yield bonus"
+	STRING_EN[908]["VALUE"] = "Crystal Output Bonus"
 	STRING_EN[908]["real_idx"] = 908
 
 STRING_EN["index"][909] = 909
 STRING_EN[909] = {}
 	STRING_EN[909]["ID"] = 909
 	STRING_EN[909]["KEY"] = "G_TECH_NAME_1113100"
-	STRING_EN[909]["VALUE"] = "Energy production bonus"
+	STRING_EN[909]["VALUE"] = "Energy Output Bonus"
 	STRING_EN[909]["real_idx"] = 909
 
 STRING_EN["index"][910] = 910
 STRING_EN[910] = {}
 	STRING_EN[910]["ID"] = 910
 	STRING_EN[910]["KEY"] = "G_TECH_NAME_1151100"
-	STRING_EN[910]["VALUE"] = "Experience improvement"
+	STRING_EN[910]["VALUE"] = "Experience Improvement"
 	STRING_EN[910]["real_idx"] = 910
 
 STRING_EN["index"][911] = 911
 STRING_EN[911] = {}
 	STRING_EN[911]["ID"] = 911
 	STRING_EN[911]["KEY"] = "G_TECH_NAME_2251600"
-	STRING_EN[911]["VALUE"] = "Crystal lift"
+	STRING_EN[911]["VALUE"] = "Crystal Improvement"
 	STRING_EN[911]["real_idx"] = 911
 
 STRING_EN["index"][912] = 912
 STRING_EN[912] = {}
 	STRING_EN[912]["ID"] = 912
 	STRING_EN[912]["KEY"] = "G_TECH_NAME_2251700"
-	STRING_EN[912]["VALUE"] = "Energy boost"
+	STRING_EN[912]["VALUE"] = "Energy Improvement"
 	STRING_EN[912]["real_idx"] = 912
 
 STRING_EN["index"][913] = 913
 STRING_EN[913] = {}
 	STRING_EN[913]["ID"] = 913
 	STRING_EN[913]["KEY"] = "G_TECH_NAME_2248200"
-	STRING_EN[913]["VALUE"] = "Gold mine construction cooling"
+	STRING_EN[913]["VALUE"] = "Gold producing cooling down"
 	STRING_EN[913]["real_idx"] = 913
 
 STRING_EN["index"][914] = 914
 STRING_EN[914] = {}
 	STRING_EN[914]["ID"] = 914
 	STRING_EN[914]["KEY"] = "G_TECH_NAME_2249200"
-	STRING_EN[914]["VALUE"] = "Crystal construction cooling"
+	STRING_EN[914]["VALUE"] = "Crystal producing cooling down"
 	STRING_EN[914]["real_idx"] = 914
 
 STRING_EN["index"][915] = 915
 STRING_EN[915] = {}
 	STRING_EN[915]["ID"] = 915
 	STRING_EN[915]["KEY"] = "G_TECH_NAME_2250200"
-	STRING_EN[915]["VALUE"] = "Energy building cooling"
+	STRING_EN[915]["VALUE"] = "Energy producing cooling down"
 	STRING_EN[915]["real_idx"] = 915
 
 STRING_EN["index"][916] = 916
 STRING_EN[916] = {}
 	STRING_EN[916]["ID"] = 916
 	STRING_EN[916]["KEY"] = "G_TECH_NAME_2260200"
-	STRING_EN[916]["VALUE"] = "Technological research cooling"
+	STRING_EN[916]["VALUE"] = "Tech Research cooling down"
 	STRING_EN[916]["real_idx"] = 916
 
 STRING_EN["index"][917] = 917
 STRING_EN[917] = {}
 	STRING_EN[917]["ID"] = 917
 	STRING_EN[917]["KEY"] = "G_TECH_NAME_4394200"
-	STRING_EN[917]["VALUE"] = "Damage bonus I"
+	STRING_EN[917]["VALUE"] = "Damage Bonus I"
 	STRING_EN[917]["real_idx"] = 917
 
 STRING_EN["index"][918] = 918
 STRING_EN[918] = {}
 	STRING_EN[918]["ID"] = 918
 	STRING_EN[918]["KEY"] = "G_TECH_NAME_4394100"
-	STRING_EN[918]["VALUE"] = "Damage reduction I"
+	STRING_EN[918]["VALUE"] = "Damage Reduction I"
 	STRING_EN[918]["real_idx"] = 918
 
 STRING_EN["index"][919] = 919
 STRING_EN[919] = {}
 	STRING_EN[919]["ID"] = 919
 	STRING_EN[919]["KEY"] = "G_TECH_NAME_4394700"
-	STRING_EN[919]["VALUE"] = "Hit boost I"
+	STRING_EN[919]["VALUE"] = "Hit Improvement I"
 	STRING_EN[919]["real_idx"] = 919
 
 STRING_EN["index"][920] = 920
 STRING_EN[920] = {}
 	STRING_EN[920]["ID"] = 920
 	STRING_EN[920]["KEY"] = "G_TECH_NAME_4394800"
-	STRING_EN[920]["VALUE"] = "Dodge boost I"
+	STRING_EN[920]["VALUE"] = "Dodge Improvement I"
 	STRING_EN[920]["real_idx"] = 920
 
 STRING_EN["index"][921] = 921
 STRING_EN[921] = {}
 	STRING_EN[921]["ID"] = 921
 	STRING_EN[921]["KEY"] = "G_TECH_NAME_4394900"
-	STRING_EN[921]["VALUE"] = "Critical Strike I"
+	STRING_EN[921]["VALUE"] = "Crit Improvement I"
 	STRING_EN[921]["real_idx"] = 921
 
 STRING_EN["index"][922] = 922
 STRING_EN[922] = {}
 	STRING_EN[922]["ID"] = 922
 	STRING_EN[922]["KEY"] = "G_TECH_NAME_4395000"
-	STRING_EN[922]["VALUE"] = "Anti-riot increase I"
+	STRING_EN[922]["VALUE"] = "Anti-riot Improvement I"
 	STRING_EN[922]["real_idx"] = 922
 
 STRING_EN["index"][923] = 923
 STRING_EN[923] = {}
 	STRING_EN[923]["ID"] = 923
 	STRING_EN[923]["KEY"] = "G_TECH_NAME_2295400"
-	STRING_EN[923]["VALUE"] = "Life promotion I"
+	STRING_EN[923]["VALUE"] = "Health Improvement I"
 	STRING_EN[923]["real_idx"] = 923
 
 STRING_EN["index"][924] = 924
 STRING_EN[924] = {}
 	STRING_EN[924]["ID"] = 924
 	STRING_EN[924]["KEY"] = "G_TECH_NAME_3293000"
-	STRING_EN[924]["VALUE"] = "Physical Attack Enhancement I"
+	STRING_EN[924]["VALUE"] = "Physical Attack Improvement I"
 	STRING_EN[924]["real_idx"] = 924
 
 STRING_EN["index"][925] = 925
 STRING_EN[925] = {}
 	STRING_EN[925]["ID"] = 925
 	STRING_EN[925]["KEY"] = "G_TECH_NAME_3294500"
-	STRING_EN[925]["VALUE"] = "Energy Attack Enhancement I"
+	STRING_EN[925]["VALUE"] = "Energy Attack Improvement I"
 	STRING_EN[925]["real_idx"] = 925
 
 STRING_EN["index"][926] = 926
 STRING_EN[926] = {}
 	STRING_EN[926]["ID"] = 926
 	STRING_EN[926]["KEY"] = "G_TECH_NAME_2293900"
-	STRING_EN[926]["VALUE"] = "Defense enhancement I"
+	STRING_EN[926]["VALUE"] = "Defense Improvement I"
 	STRING_EN[926]["real_idx"] = 926
 
 STRING_EN["index"][927] = 927
 STRING_EN[927] = {}
 	STRING_EN[927]["ID"] = 927
 	STRING_EN[927]["KEY"] = "G_TECH_NAME_4395200"
-	STRING_EN[927]["VALUE"] = "Damage bonus II"
+	STRING_EN[927]["VALUE"] = "Damage Bonus II"
 	STRING_EN[927]["real_idx"] = 927
 
 STRING_EN["index"][928] = 928
 STRING_EN[928] = {}
 	STRING_EN[928]["ID"] = 928
 	STRING_EN[928]["KEY"] = "G_TECH_NAME_4395100"
-	STRING_EN[928]["VALUE"] = "Injury Reduction II"
+	STRING_EN[928]["VALUE"] = "Damage Reduction II"
 	STRING_EN[928]["real_idx"] = 928
 
 STRING_EN["index"][929] = 929
 STRING_EN[929] = {}
 	STRING_EN[929]["ID"] = 929
 	STRING_EN[929]["KEY"] = "G_TECH_NAME_4395700"
-	STRING_EN[929]["VALUE"] = "Hit promotion II"
+	STRING_EN[929]["VALUE"] = "Hit Improvement II"
 	STRING_EN[929]["real_idx"] = 929
 
 STRING_EN["index"][930] = 930
 STRING_EN[930] = {}
 	STRING_EN[930]["ID"] = 930
 	STRING_EN[930]["KEY"] = "G_TECH_NAME_4395800"
-	STRING_EN[930]["VALUE"] = "Dodge Lift II"
+	STRING_EN[930]["VALUE"] = "Dodge Improvement II"
 	STRING_EN[930]["real_idx"] = 930
 
 STRING_EN["index"][931] = 931
 STRING_EN[931] = {}
 	STRING_EN[931]["ID"] = 931
 	STRING_EN[931]["KEY"] = "G_TECH_NAME_4395900"
-	STRING_EN[931]["VALUE"] = "Critical Strike II"
+	STRING_EN[931]["VALUE"] = "Crit Improvement II"
 	STRING_EN[931]["real_idx"] = 931
 
 STRING_EN["index"][932] = 932
 STRING_EN[932] = {}
 	STRING_EN[932]["ID"] = 932
 	STRING_EN[932]["KEY"] = "G_TECH_NAME_4396000"
-	STRING_EN[932]["VALUE"] = "Anti-riot increase II"
+	STRING_EN[932]["VALUE"] = "Anti-riot Improvement II"
 	STRING_EN[932]["real_idx"] = 932
 
 STRING_EN["index"][933] = 933
 STRING_EN[933] = {}
 	STRING_EN[933]["ID"] = 933
 	STRING_EN[933]["KEY"] = "G_TECH_NAME_2296400"
-	STRING_EN[933]["VALUE"] = "Life Improvement II"
+	STRING_EN[933]["VALUE"] = "Health Improvement II"
 	STRING_EN[933]["real_idx"] = 933
 
 STRING_EN["index"][934] = 934
 STRING_EN[934] = {}
 	STRING_EN[934]["ID"] = 934
 	STRING_EN[934]["KEY"] = "G_TECH_NAME_3294000"
-	STRING_EN[934]["VALUE"] = "Physical Attack Enhancement II"
+	STRING_EN[934]["VALUE"] = "Physical Attack Improvement II"
 	STRING_EN[934]["real_idx"] = 934
 
 STRING_EN["index"][935] = 935
 STRING_EN[935] = {}
 	STRING_EN[935]["ID"] = 935
 	STRING_EN[935]["KEY"] = "G_TECH_NAME_3295500"
-	STRING_EN[935]["VALUE"] = "Energy Attack Enhancement II"
+	STRING_EN[935]["VALUE"] = "Energy Attack Improvement II"
 	STRING_EN[935]["real_idx"] = 935
 
 STRING_EN["index"][936] = 936
 STRING_EN[936] = {}
 	STRING_EN[936]["ID"] = 936
 	STRING_EN[936]["KEY"] = "G_TECH_NAME_2294900"
-	STRING_EN[936]["VALUE"] = "Defense Enhancement II"
+	STRING_EN[936]["VALUE"] = "Defense Improvement II"
 	STRING_EN[936]["real_idx"] = 936
 
 STRING_EN["index"][937] = 937
 STRING_EN[937] = {}
 	STRING_EN[937]["ID"] = 937
 	STRING_EN[937]["KEY"] = "G_TECH_MEMO_1170100"
-	STRING_EN[937]["VALUE"] = "Increase member limit"
+	STRING_EN[937]["VALUE"] = "Increase the limit of members"
 	STRING_EN[937]["real_idx"] = 937
 
 STRING_EN["index"][938] = 938
 STRING_EN[938] = {}
 	STRING_EN[938]["ID"] = 938
 	STRING_EN[938]["KEY"] = "G_TECH_MEMO_3370200"
-	STRING_EN[938]["VALUE"] = "Increase covenant BOSS Awards"
+	STRING_EN[938]["VALUE"] = "Increase the reward of Alliance BOSS "
 	STRING_EN[938]["real_idx"] = 938
 
 STRING_EN["index"][939] = 939
 STRING_EN[939] = {}
 	STRING_EN[939]["ID"] = 939
 	STRING_EN[939]["KEY"] = "G_TECH_MEMO_1170300"
-	STRING_EN[939]["VALUE"] = "Increase the maximum number of help per day to"
+	STRING_EN[939]["VALUE"] = "Increase the limit to be helped per day"
 	STRING_EN[939]["real_idx"] = 939
 
 STRING_EN["index"][940] = 940
 STRING_EN[940] = {}
 	STRING_EN[940]["ID"] = 940
 	STRING_EN[940]["KEY"] = "G_TECH_MEMO_2280100"
-	STRING_EN[940]["VALUE"] = "Increase physical strength"
+	STRING_EN[940]["VALUE"] = "Increase the limit of Stamina "
 	STRING_EN[940]["real_idx"] = 940
 
 STRING_EN["index"][941] = 941
 STRING_EN[941] = {}
 	STRING_EN[941]["ID"] = 941
 	STRING_EN[941]["KEY"] = "G_TECH_MEMO_2221300"
-	STRING_EN[941]["VALUE"] = "Increase the percentage of galaxy alloy ore collection speed"
+	STRING_EN[941]["VALUE"] = "Increase the percentage of Alloy Exploiting speed in Galaxies"
 	STRING_EN[941]["real_idx"] = 941
 
 STRING_EN["index"][942] = 942
 STRING_EN[942] = {}
 	STRING_EN[942]["ID"] = 942
 	STRING_EN[942]["KEY"] = "G_TECH_MEMO_2222300"
-	STRING_EN[942]["VALUE"] = "Increase the percentage of galaxy crystal ore collection speed"
+	STRING_EN[942]["VALUE"] = "Increase the percentage of Crystal Exploiting speed in Galaxies"
 	STRING_EN[942]["real_idx"] = 942
 
 STRING_EN["index"][943] = 943
 STRING_EN[943] = {}
 	STRING_EN[943]["ID"] = 943
 	STRING_EN[943]["KEY"] = "G_TECH_MEMO_2223300"
-	STRING_EN[943]["VALUE"] = "Improve the collection speed of galaxy energy mines"
+	STRING_EN[943]["VALUE"] = "Increase the percentage of Energy Exploiting speed in Galaxies"
 	STRING_EN[943]["real_idx"] = 943
 
 STRING_EN["index"][944] = 944
 STRING_EN[944] = {}
 	STRING_EN[944]["ID"] = 944
 	STRING_EN[944]["KEY"] = "G_TECH_MEMO_1111100"
-	STRING_EN[944]["VALUE"] = "Improve the production speed of home alloy mines"
+	STRING_EN[944]["VALUE"] = "Improve output speed of Alloy in home base"
 	STRING_EN[944]["real_idx"] = 944
 
 STRING_EN["index"][945] = 945
 STRING_EN[945] = {}
 	STRING_EN[945]["ID"] = 945
 	STRING_EN[945]["KEY"] = "G_TECH_MEMO_1112100"
-	STRING_EN[945]["VALUE"] = "Improve the production speed of home crystal mines"
+	STRING_EN[945]["VALUE"] = "Improve output speed of Crystal in home base"
 	STRING_EN[945]["real_idx"] = 945
 
 STRING_EN["index"][946] = 946
 STRING_EN[946] = {}
 	STRING_EN[946]["ID"] = 946
 	STRING_EN[946]["KEY"] = "G_TECH_MEMO_1113100"
-	STRING_EN[946]["VALUE"] = "Improve the speed of home energy mine production"
+	STRING_EN[946]["VALUE"] = "Improve output speed of Energy in home base"
 	STRING_EN[946]["real_idx"] = 946
 
 STRING_EN["index"][947] = 947
 STRING_EN[947] = {}
 	STRING_EN[947]["ID"] = 947
 	STRING_EN[947]["KEY"] = "G_TECH_MEMO_1151100"
-	STRING_EN[947]["VALUE"] = "Increase the percentage of experience gained by the instance of the commander"
+	STRING_EN[947]["VALUE"] = "Increase the percentage of Experience obtained of the commander from Instance "
 	STRING_EN[947]["real_idx"] = 947
 
 STRING_EN["index"][948] = 948
 STRING_EN[948] = {}
 	STRING_EN[948]["ID"] = 948
 	STRING_EN[948]["KEY"] = "G_TECH_MEMO_2251600"
-	STRING_EN[948]["VALUE"] = "Increase the percentage of instance crystal ore obtained"
+	STRING_EN[948]["VALUE"] = "Increase the percentage of Crystal obtained from Instance"
 	STRING_EN[948]["real_idx"] = 948
 
 STRING_EN["index"][949] = 949
 STRING_EN[949] = {}
 	STRING_EN[949]["ID"] = 949
 	STRING_EN[949]["KEY"] = "G_TECH_MEMO_2251700"
-	STRING_EN[949]["VALUE"] = "Increase the percentage of instance energy mines obtained"
+	STRING_EN[949]["VALUE"] = "Increase the percentage of Energy obtained from Instance"
 	STRING_EN[949]["real_idx"] = 949
 
 STRING_EN["index"][950] = 950
 STRING_EN[950] = {}
 	STRING_EN[950]["ID"] = 950
 	STRING_EN[950]["KEY"] = "G_TECH_MEMO_2248200"
-	STRING_EN[950]["VALUE"] = "Reduce the percentage of waiting time for home alloy upgrades"
+	STRING_EN[950]["VALUE"] = "Reduce the percentage of waiting time for Homebase Alloy Mine upgrade"
 	STRING_EN[950]["real_idx"] = 950
 
 STRING_EN["index"][951] = 951
 STRING_EN[951] = {}
 	STRING_EN[951]["ID"] = 951
 	STRING_EN[951]["KEY"] = "G_TECH_MEMO_2249200"
-	STRING_EN[951]["VALUE"] = "Reduce the percentage of waiting time for home crystal crystal upgrades"
+	STRING_EN[951]["VALUE"] = "Reduce the percentage of waiting time for Homebase Crystal Mine upgrade"
 	STRING_EN[951]["real_idx"] = 951
 
 STRING_EN["index"][952] = 952
 STRING_EN[952] = {}
 	STRING_EN[952]["ID"] = 952
 	STRING_EN[952]["KEY"] = "G_TECH_MEMO_2250200"
-	STRING_EN[952]["VALUE"] = "Reduce the waiting time for home energy mine upgrades"
+	STRING_EN[952]["VALUE"] = "Reduce the percentage of waiting time for Homebase Energy Mine upgrade"
 	STRING_EN[952]["real_idx"] = 952
 
 STRING_EN["index"][953] = 953
 STRING_EN[953] = {}
 	STRING_EN[953]["ID"] = 953
 	STRING_EN[953]["KEY"] = "G_TECH_MEMO_2260200"
-	STRING_EN[953]["VALUE"] = "Reduce technology research waiting time"
+	STRING_EN[953]["VALUE"] = "Reduce waiting time of Tech Research"
 	STRING_EN[953]["real_idx"] = 953
 
 STRING_EN["index"][954] = 954
 STRING_EN[954] = {}
 	STRING_EN[954]["ID"] = 954
 	STRING_EN[954]["KEY"] = "G_TECH_MEMO_4394200"
-	STRING_EN[954]["VALUE"] = "PVE Battle: Ship Damage Bonus Percentage"
+	STRING_EN[954]["VALUE"] = "PVE Battle: Spaceship Damage Bonus Percentage"
 	STRING_EN[954]["real_idx"] = 954
 
 STRING_EN["index"][955] = 955
 STRING_EN[955] = {}
 	STRING_EN[955]["ID"] = 955
 	STRING_EN[955]["KEY"] = "G_TECH_MEMO_4394100"
-	STRING_EN[955]["VALUE"] = "PVE Battle: Ship Damage Reduction Percentage"
+	STRING_EN[955]["VALUE"] = "PVE Battle: Spaceship Damage Reduction Percentage"
 	STRING_EN[955]["real_idx"] = 955
 
 STRING_EN["index"][956] = 956
 STRING_EN[956] = {}
 	STRING_EN[956]["ID"] = 956
 	STRING_EN[956]["KEY"] = "G_TECH_MEMO_4394700"
-	STRING_EN[956]["VALUE"] = "PVE battle: increase the final hit rate of the ship"
+	STRING_EN[956]["VALUE"] = "PVE battle: Increase Final Hit Rate of the spaceship"
 	STRING_EN[956]["real_idx"] = 956
 
 STRING_EN["index"][957] = 957
 STRING_EN[957] = {}
 	STRING_EN[957]["ID"] = 957
 	STRING_EN[957]["KEY"] = "G_TECH_MEMO_4394800"
-	STRING_EN[957]["VALUE"] = "PVE battle: increase the final dodge rate of the ship"
+	STRING_EN[957]["VALUE"] = "PVE battle: Increase Final Dodge Rate of the spaceship"
 	STRING_EN[957]["real_idx"] = 957
 
 STRING_EN["index"][958] = 958
 STRING_EN[958] = {}
 	STRING_EN[958]["ID"] = 958
 	STRING_EN[958]["KEY"] = "G_TECH_MEMO_4394900"
-	STRING_EN[958]["VALUE"] = "PVE battle: increase the final crit rate of the ship"
+	STRING_EN[958]["VALUE"] = "PVE battle: Increase Final Crit Rate of the spaceship"
 	STRING_EN[958]["real_idx"] = 958
 
 STRING_EN["index"][959] = 959
 STRING_EN[959] = {}
 	STRING_EN[959]["ID"] = 959
 	STRING_EN[959]["KEY"] = "G_TECH_MEMO_4395000"
-	STRING_EN[959]["VALUE"] = "PVE battle: increase the final anti-storm rate of the ship"
+	STRING_EN[959]["VALUE"] = "PVE battle: Increase Final Anti-crit Rate of the spaceship"
 	STRING_EN[959]["real_idx"] = 959
 
 STRING_EN["index"][960] = 960
 STRING_EN[960] = {}
 	STRING_EN[960]["ID"] = 960
 	STRING_EN[960]["KEY"] = "G_TECH_MEMO_2295400"
-	STRING_EN[960]["VALUE"] = "PVE battle: increase the percentage of the base ship's life value"
+	STRING_EN[960]["VALUE"] = "PVE battle: Increase the percentage for Base Health of the spaceship"
 	STRING_EN[960]["real_idx"] = 960
 
 STRING_EN["index"][961] = 961
 STRING_EN[961] = {}
 	STRING_EN[961]["ID"] = 961
 	STRING_EN[961]["KEY"] = "G_TECH_MEMO_3293000"
-	STRING_EN[961]["VALUE"] = "PVE battle: increase the percentage of ship base physical attacks"
+	STRING_EN[961]["VALUE"] = "PVE battle: Increase the percentage for Base Physical Attack of the spaceship"
 	STRING_EN[961]["real_idx"] = 961
 
 STRING_EN["index"][962] = 962
 STRING_EN[962] = {}
 	STRING_EN[962]["ID"] = 962
 	STRING_EN[962]["KEY"] = "G_TECH_MEMO_3294500"
-	STRING_EN[962]["VALUE"] = "PVE battle: increase the percentage of base ship energy attack"
+	STRING_EN[962]["VALUE"] = "PVE battle: Increase the percentage for Base Energy Attack of the spaceship"
 	STRING_EN[962]["real_idx"] = 962
 
 STRING_EN["index"][963] = 963
 STRING_EN[963] = {}
 	STRING_EN[963]["ID"] = 963
 	STRING_EN[963]["KEY"] = "G_TECH_MEMO_2293900"
-	STRING_EN[963]["VALUE"] = "PVE battle: increase the percentage of ship basic defense"
+	STRING_EN[963]["VALUE"] = "PVE battle: Increase the percentage for Base Defense of the spaceship"
 	STRING_EN[963]["real_idx"] = 963
 
 STRING_EN["index"][964] = 964
 STRING_EN[964] = {}
 	STRING_EN[964]["ID"] = 964
 	STRING_EN[964]["KEY"] = "G_TECH_MEMO_4395200"
-	STRING_EN[964]["VALUE"] = "PVP battle: ship damage bonus percentage"
+	STRING_EN[964]["VALUE"] = "PVP battle: The percentage of Attack Damage Bonus"
 	STRING_EN[964]["real_idx"] = 964
 
 STRING_EN["index"][965] = 965
 STRING_EN[965] = {}
 	STRING_EN[965]["ID"] = 965
 	STRING_EN[965]["KEY"] = "G_TECH_MEMO_4395100"
-	STRING_EN[965]["VALUE"] = "PVP battle: ship damage reduction percentage"
+	STRING_EN[965]["VALUE"] = "PVP battle: The percentage of Damage Reduction"
 	STRING_EN[965]["real_idx"] = 965
 
 STRING_EN["index"][966] = 966
 STRING_EN[966] = {}
 	STRING_EN[966]["ID"] = 966
 	STRING_EN[966]["KEY"] = "G_TECH_MEMO_4395700"
-	STRING_EN[966]["VALUE"] = "PVP battle: increase the final hit rate of the ship"
+	STRING_EN[966]["VALUE"] = "PVP battle: Increase Final Hit Rate of the spaceship"
 	STRING_EN[966]["real_idx"] = 966
 
 STRING_EN["index"][967] = 967
 STRING_EN[967] = {}
 	STRING_EN[967]["ID"] = 967
 	STRING_EN[967]["KEY"] = "G_TECH_MEMO_4395800"
-	STRING_EN[967]["VALUE"] = "PVP battle: increase the ultimate dodge rate of the ship"
+	STRING_EN[967]["VALUE"] = "PVP battle: Increase Final Dodge Rate of the spaceship"
 	STRING_EN[967]["real_idx"] = 967
 
 STRING_EN["index"][968] = 968
 STRING_EN[968] = {}
 	STRING_EN[968]["ID"] = 968
 	STRING_EN[968]["KEY"] = "G_TECH_MEMO_4395900"
-	STRING_EN[968]["VALUE"] = "PVP battle: increase the final crit rate of the ship"
+	STRING_EN[968]["VALUE"] = "PVP battle: Increase Final Crit Rate of the spaceship"
 	STRING_EN[968]["real_idx"] = 968
 
 STRING_EN["index"][969] = 969
 STRING_EN[969] = {}
 	STRING_EN[969]["ID"] = 969
 	STRING_EN[969]["KEY"] = "G_TECH_MEMO_4396000"
-	STRING_EN[969]["VALUE"] = "PVP battle: increase the ultimate anti-storm rate of the ship"
+	STRING_EN[969]["VALUE"] = "PVP battle: Increase Final Anti-crit Rate of the spaceship"
 	STRING_EN[969]["real_idx"] = 969
 
 STRING_EN["index"][970] = 970
 STRING_EN[970] = {}
 	STRING_EN[970]["ID"] = 970
 	STRING_EN[970]["KEY"] = "G_TECH_MEMO_2296400"
-	STRING_EN[970]["VALUE"] = "PVP battle: increase the percentage of the base ship's life value"
+	STRING_EN[970]["VALUE"] = "PVP battle: Increase the percentage for Base Health of the spaceship"
 	STRING_EN[970]["real_idx"] = 970
 
 STRING_EN["index"][971] = 971
 STRING_EN[971] = {}
 	STRING_EN[971]["ID"] = 971
 	STRING_EN[971]["KEY"] = "G_TECH_MEMO_3294000"
-	STRING_EN[971]["VALUE"] = "PVP battle: increase the percentage of ship base physical attacks"
+	STRING_EN[971]["VALUE"] = "PVP battle: Increase the percentage for Base Physical Attack of the spaceship"
 	STRING_EN[971]["real_idx"] = 971
 
 STRING_EN["index"][972] = 972
 STRING_EN[972] = {}
 	STRING_EN[972]["ID"] = 972
 	STRING_EN[972]["KEY"] = "G_TECH_MEMO_3295500"
-	STRING_EN[972]["VALUE"] = "PVP battle: increase the percentage of ship base energy attack"
+	STRING_EN[972]["VALUE"] = "PVP battle: Increase the percentage for Base Energy Attack of the spaceship"
 	STRING_EN[972]["real_idx"] = 972
 
 STRING_EN["index"][973] = 973
 STRING_EN[973] = {}
 	STRING_EN[973]["ID"] = 973
 	STRING_EN[973]["KEY"] = "G_TECH_MEMO_2294900"
-	STRING_EN[973]["VALUE"] = "PVP battle: increase the percentage of ship basic defense"
+	STRING_EN[973]["VALUE"] = "PVP battle: Increase the percentage for Base Defense of the spaceship"
 	STRING_EN[973]["real_idx"] = 973
 
 STRING_EN["index"][974] = 974
 STRING_EN[974] = {}
 	STRING_EN[974]["ID"] = 974
 	STRING_EN[974]["KEY"] = "HERO_LEVEL_1"
-	STRING_EN[974]["VALUE"] = "Welcome to Plunder3"
+	STRING_EN[974]["VALUE"] = "Welcome to Plunder 3"
 	STRING_EN[974]["real_idx"] = 974
 
 STRING_EN["index"][975] = 975
@@ -7375,11032 +7375,11032 @@ STRING_EN["index"][1054] = 1054
 STRING_EN[1054] = {}
 	STRING_EN[1054]["ID"] = 1054
 	STRING_EN[1054]["KEY"] = "SHIP_COLLECT_1"
-	STRING_EN[1054]["VALUE"] = "Has 2 ships"
+	STRING_EN[1054]["VALUE"] = "Owned 2 spaceships"
 	STRING_EN[1054]["real_idx"] = 1054
 
 STRING_EN["index"][1055] = 1055
 STRING_EN[1055] = {}
 	STRING_EN[1055]["ID"] = 1055
 	STRING_EN[1055]["KEY"] = "SHIP_COLLECT_2"
-	STRING_EN[1055]["VALUE"] = "Has 3 ships"
+	STRING_EN[1055]["VALUE"] = "Owned 3 spaceships"
 	STRING_EN[1055]["real_idx"] = 1055
 
 STRING_EN["index"][1056] = 1056
 STRING_EN[1056] = {}
 	STRING_EN[1056]["ID"] = 1056
 	STRING_EN[1056]["KEY"] = "SHIP_COLLECT_3"
-	STRING_EN[1056]["VALUE"] = "Has 4 ships"
+	STRING_EN[1056]["VALUE"] = "Owned 4 spaceships"
 	STRING_EN[1056]["real_idx"] = 1056
 
 STRING_EN["index"][1057] = 1057
 STRING_EN[1057] = {}
 	STRING_EN[1057]["ID"] = 1057
 	STRING_EN[1057]["KEY"] = "SHIP_COLLECT_4"
-	STRING_EN[1057]["VALUE"] = "Has 5 ships"
+	STRING_EN[1057]["VALUE"] = "Owned 5 spaceships"
 	STRING_EN[1057]["real_idx"] = 1057
 
 STRING_EN["index"][1058] = 1058
 STRING_EN[1058] = {}
 	STRING_EN[1058]["ID"] = 1058
 	STRING_EN[1058]["KEY"] = "SHIP_COLLECT_5"
-	STRING_EN[1058]["VALUE"] = "Has 6 ships"
+	STRING_EN[1058]["VALUE"] = "Owned 6 spaceships"
 	STRING_EN[1058]["real_idx"] = 1058
 
 STRING_EN["index"][1059] = 1059
 STRING_EN[1059] = {}
 	STRING_EN[1059]["ID"] = 1059
 	STRING_EN[1059]["KEY"] = "SHIP_COLLECT_6"
-	STRING_EN[1059]["VALUE"] = "Has 7 ships"
+	STRING_EN[1059]["VALUE"] = "Owned 7 spaceships"
 	STRING_EN[1059]["real_idx"] = 1059
 
 STRING_EN["index"][1060] = 1060
 STRING_EN[1060] = {}
 	STRING_EN[1060]["ID"] = 1060
 	STRING_EN[1060]["KEY"] = "SHIP_COLLECT_7"
-	STRING_EN[1060]["VALUE"] = "Has 8 ships"
+	STRING_EN[1060]["VALUE"] = "Owned 8 spaceships"
 	STRING_EN[1060]["real_idx"] = 1060
 
 STRING_EN["index"][1061] = 1061
 STRING_EN[1061] = {}
 	STRING_EN[1061]["ID"] = 1061
 	STRING_EN[1061]["KEY"] = "SHIP_COLLECT_8"
-	STRING_EN[1061]["VALUE"] = "Has 9 ships"
+	STRING_EN[1061]["VALUE"] = "Owned 9 spaceships"
 	STRING_EN[1061]["real_idx"] = 1061
 
 STRING_EN["index"][1062] = 1062
 STRING_EN[1062] = {}
 	STRING_EN[1062]["ID"] = 1062
 	STRING_EN[1062]["KEY"] = "SHIP_COLLECT_9"
-	STRING_EN[1062]["VALUE"] = "Has 10 ships"
+	STRING_EN[1062]["VALUE"] = "Owned 10 spaceships"
 	STRING_EN[1062]["real_idx"] = 1062
 
 STRING_EN["index"][1063] = 1063
 STRING_EN[1063] = {}
 	STRING_EN[1063]["ID"] = 1063
 	STRING_EN[1063]["KEY"] = "SHIP_COLLECT_10"
-	STRING_EN[1063]["VALUE"] = "Has 11 ships"
+	STRING_EN[1063]["VALUE"] = "Owned 11 spaceships"
 	STRING_EN[1063]["real_idx"] = 1063
 
 STRING_EN["index"][1064] = 1064
 STRING_EN[1064] = {}
 	STRING_EN[1064]["ID"] = 1064
 	STRING_EN[1064]["KEY"] = "SHIP_COLLECT_11"
-	STRING_EN[1064]["VALUE"] = "Has 12 ships"
+	STRING_EN[1064]["VALUE"] = "Owned 12 spaceships"
 	STRING_EN[1064]["real_idx"] = 1064
 
 STRING_EN["index"][1065] = 1065
 STRING_EN[1065] = {}
 	STRING_EN[1065]["ID"] = 1065
 	STRING_EN[1065]["KEY"] = "SHIP_COLLECT_12"
-	STRING_EN[1065]["VALUE"] = "Has 13 ships"
+	STRING_EN[1065]["VALUE"] = "Owned 13 spaceships"
 	STRING_EN[1065]["real_idx"] = 1065
 
 STRING_EN["index"][1066] = 1066
 STRING_EN[1066] = {}
 	STRING_EN[1066]["ID"] = 1066
 	STRING_EN[1066]["KEY"] = "SHIP_COLLECT_13"
-	STRING_EN[1066]["VALUE"] = "Has 14 ships"
+	STRING_EN[1066]["VALUE"] = "Owned 14 spaceships"
 	STRING_EN[1066]["real_idx"] = 1066
 
 STRING_EN["index"][1067] = 1067
 STRING_EN[1067] = {}
 	STRING_EN[1067]["ID"] = 1067
 	STRING_EN[1067]["KEY"] = "SHIP_COLLECT_14"
-	STRING_EN[1067]["VALUE"] = "Has 15 ships"
+	STRING_EN[1067]["VALUE"] = "Owned 15 spaceships"
 	STRING_EN[1067]["real_idx"] = 1067
 
 STRING_EN["index"][1068] = 1068
 STRING_EN[1068] = {}
 	STRING_EN[1068]["ID"] = 1068
 	STRING_EN[1068]["KEY"] = "SHIP_COLLECT_15"
-	STRING_EN[1068]["VALUE"] = "Has 16 ships"
+	STRING_EN[1068]["VALUE"] = "Owned 16 spaceships"
 	STRING_EN[1068]["real_idx"] = 1068
 
 STRING_EN["index"][1069] = 1069
 STRING_EN[1069] = {}
 	STRING_EN[1069]["ID"] = 1069
 	STRING_EN[1069]["KEY"] = "SHIP_COLLECT_16"
-	STRING_EN[1069]["VALUE"] = "Has 17 ships"
+	STRING_EN[1069]["VALUE"] = "Owned 17 spaceships"
 	STRING_EN[1069]["real_idx"] = 1069
 
 STRING_EN["index"][1070] = 1070
 STRING_EN[1070] = {}
 	STRING_EN[1070]["ID"] = 1070
 	STRING_EN[1070]["KEY"] = "SHIP_COLLECT_17"
-	STRING_EN[1070]["VALUE"] = "Has 18 ships"
+	STRING_EN[1070]["VALUE"] = "Owned 18 spaceships"
 	STRING_EN[1070]["real_idx"] = 1070
 
 STRING_EN["index"][1071] = 1071
 STRING_EN[1071] = {}
 	STRING_EN[1071]["ID"] = 1071
 	STRING_EN[1071]["KEY"] = "SHIP_COLLECT_18"
-	STRING_EN[1071]["VALUE"] = "Has 19 ships"
+	STRING_EN[1071]["VALUE"] = "Owned 19 spaceships"
 	STRING_EN[1071]["real_idx"] = 1071
 
 STRING_EN["index"][1072] = 1072
 STRING_EN[1072] = {}
 	STRING_EN[1072]["ID"] = 1072
 	STRING_EN[1072]["KEY"] = "SHIP_COLLECT_19"
-	STRING_EN[1072]["VALUE"] = "Has 20 ships"
+	STRING_EN[1072]["VALUE"] = "Owned 20 spaceships"
 	STRING_EN[1072]["real_idx"] = 1072
 
 STRING_EN["index"][1073] = 1073
 STRING_EN[1073] = {}
 	STRING_EN[1073]["ID"] = 1073
 	STRING_EN[1073]["KEY"] = "SHIP_COLLECT_20"
-	STRING_EN[1073]["VALUE"] = "With 21 ships"
+	STRING_EN[1073]["VALUE"] = "Owned 21 spaceships"
 	STRING_EN[1073]["real_idx"] = 1073
 
 STRING_EN["index"][1074] = 1074
 STRING_EN[1074] = {}
 	STRING_EN[1074]["ID"] = 1074
 	STRING_EN[1074]["KEY"] = "SHIP_COLLECT_21"
-	STRING_EN[1074]["VALUE"] = "Has 22 ships"
+	STRING_EN[1074]["VALUE"] = "Owned 22 spaceships"
 	STRING_EN[1074]["real_idx"] = 1074
 
 STRING_EN["index"][1075] = 1075
 STRING_EN[1075] = {}
 	STRING_EN[1075]["ID"] = 1075
 	STRING_EN[1075]["KEY"] = "SHIP_COLLECT_22"
-	STRING_EN[1075]["VALUE"] = "Has 23 ships"
+	STRING_EN[1075]["VALUE"] = "Owned 23 spaceships"
 	STRING_EN[1075]["real_idx"] = 1075
 
 STRING_EN["index"][1076] = 1076
 STRING_EN[1076] = {}
 	STRING_EN[1076]["ID"] = 1076
 	STRING_EN[1076]["KEY"] = "SHIP_COLLECT_23"
-	STRING_EN[1076]["VALUE"] = "Has 24 ships"
+	STRING_EN[1076]["VALUE"] = "Owned 24 spaceships"
 	STRING_EN[1076]["real_idx"] = 1076
 
 STRING_EN["index"][1077] = 1077
 STRING_EN[1077] = {}
 	STRING_EN[1077]["ID"] = 1077
 	STRING_EN[1077]["KEY"] = "SHIP_COLLECT_24"
-	STRING_EN[1077]["VALUE"] = "Has 25 ships"
+	STRING_EN[1077]["VALUE"] = "Owned 25 spaceships"
 	STRING_EN[1077]["real_idx"] = 1077
 
 STRING_EN["index"][1078] = 1078
 STRING_EN[1078] = {}
 	STRING_EN[1078]["ID"] = 1078
 	STRING_EN[1078]["KEY"] = "SHIP_COLLECT_25"
-	STRING_EN[1078]["VALUE"] = "Has 26 ships"
+	STRING_EN[1078]["VALUE"] = "Owned 26 spaceships"
 	STRING_EN[1078]["real_idx"] = 1078
 
 STRING_EN["index"][1079] = 1079
 STRING_EN[1079] = {}
 	STRING_EN[1079]["ID"] = 1079
 	STRING_EN[1079]["KEY"] = "SHIP_COLLECT_26"
-	STRING_EN[1079]["VALUE"] = "Has 27 ships"
+	STRING_EN[1079]["VALUE"] = "Owned 27 spaceships"
 	STRING_EN[1079]["real_idx"] = 1079
 
 STRING_EN["index"][1080] = 1080
 STRING_EN[1080] = {}
 	STRING_EN[1080]["ID"] = 1080
 	STRING_EN[1080]["KEY"] = "SHIP_COLLECT_27"
-	STRING_EN[1080]["VALUE"] = "Has 28 ships"
+	STRING_EN[1080]["VALUE"] = "Owned 28 spaceships"
 	STRING_EN[1080]["real_idx"] = 1080
 
 STRING_EN["index"][1081] = 1081
 STRING_EN[1081] = {}
 	STRING_EN[1081]["ID"] = 1081
 	STRING_EN[1081]["KEY"] = "SHIP_COLLECT_28"
-	STRING_EN[1081]["VALUE"] = "Has 29 ships"
+	STRING_EN[1081]["VALUE"] = "Owned 29 spaceships"
 	STRING_EN[1081]["real_idx"] = 1081
 
 STRING_EN["index"][1082] = 1082
 STRING_EN[1082] = {}
 	STRING_EN[1082]["ID"] = 1082
 	STRING_EN[1082]["KEY"] = "SHIP_COLLECT_29"
-	STRING_EN[1082]["VALUE"] = "Has 30 ships"
+	STRING_EN[1082]["VALUE"] = "Owned 30 spaceships"
 	STRING_EN[1082]["real_idx"] = 1082
 
 STRING_EN["index"][1083] = 1083
 STRING_EN[1083] = {}
 	STRING_EN[1083]["ID"] = 1083
 	STRING_EN[1083]["KEY"] = "SHIP_COLLECT_30"
-	STRING_EN[1083]["VALUE"] = "Has 31 ships"
+	STRING_EN[1083]["VALUE"] = "Owned 31 spaceships"
 	STRING_EN[1083]["real_idx"] = 1083
 
 STRING_EN["index"][1084] = 1084
 STRING_EN[1084] = {}
 	STRING_EN[1084]["ID"] = 1084
 	STRING_EN[1084]["KEY"] = "SHIP_COLLECT_31"
-	STRING_EN[1084]["VALUE"] = "With 32 ships"
+	STRING_EN[1084]["VALUE"] = "Owned 32 spaceships"
 	STRING_EN[1084]["real_idx"] = 1084
 
 STRING_EN["index"][1085] = 1085
 STRING_EN[1085] = {}
 	STRING_EN[1085]["ID"] = 1085
 	STRING_EN[1085]["KEY"] = "SHIP_COLLECT_32"
-	STRING_EN[1085]["VALUE"] = "Has 33 ships"
+	STRING_EN[1085]["VALUE"] = "Owned 33 spaceships"
 	STRING_EN[1085]["real_idx"] = 1085
 
 STRING_EN["index"][1086] = 1086
 STRING_EN[1086] = {}
 	STRING_EN[1086]["ID"] = 1086
 	STRING_EN[1086]["KEY"] = "SHIP_COLLECT_33"
-	STRING_EN[1086]["VALUE"] = "Has 34 ships"
+	STRING_EN[1086]["VALUE"] = "Owned 34 spaceships"
 	STRING_EN[1086]["real_idx"] = 1086
 
 STRING_EN["index"][1087] = 1087
 STRING_EN[1087] = {}
 	STRING_EN[1087]["ID"] = 1087
 	STRING_EN[1087]["KEY"] = "SHIP_COLLECT_34"
-	STRING_EN[1087]["VALUE"] = "With 35 ships"
+	STRING_EN[1087]["VALUE"] = "Owned 35 spaceships"
 	STRING_EN[1087]["real_idx"] = 1087
 
 STRING_EN["index"][1088] = 1088
 STRING_EN[1088] = {}
 	STRING_EN[1088]["ID"] = 1088
 	STRING_EN[1088]["KEY"] = "SHIP_COLLECT_35"
-	STRING_EN[1088]["VALUE"] = "Has 36 ships"
+	STRING_EN[1088]["VALUE"] = "Owned 36 spaceships"
 	STRING_EN[1088]["real_idx"] = 1088
 
 STRING_EN["index"][1089] = 1089
 STRING_EN[1089] = {}
 	STRING_EN[1089]["ID"] = 1089
 	STRING_EN[1089]["KEY"] = "SHIP_COLLECT_36"
-	STRING_EN[1089]["VALUE"] = "Has 37 ships"
+	STRING_EN[1089]["VALUE"] = "Owned 37 spaceships"
 	STRING_EN[1089]["real_idx"] = 1089
 
 STRING_EN["index"][1090] = 1090
 STRING_EN[1090] = {}
 	STRING_EN[1090]["ID"] = 1090
 	STRING_EN[1090]["KEY"] = "SHIP_COLLECT_37"
-	STRING_EN[1090]["VALUE"] = "Has 38 ships"
+	STRING_EN[1090]["VALUE"] = "Owned 38 spaceships"
 	STRING_EN[1090]["real_idx"] = 1090
 
 STRING_EN["index"][1091] = 1091
 STRING_EN[1091] = {}
 	STRING_EN[1091]["ID"] = 1091
 	STRING_EN[1091]["KEY"] = "SHIP_COLLECT_38"
-	STRING_EN[1091]["VALUE"] = "Has 39 ships"
+	STRING_EN[1091]["VALUE"] = "Owned 39 spaceships"
 	STRING_EN[1091]["real_idx"] = 1091
 
 STRING_EN["index"][1092] = 1092
 STRING_EN[1092] = {}
 	STRING_EN[1092]["ID"] = 1092
 	STRING_EN[1092]["KEY"] = "SHIP_COLLECT_39"
-	STRING_EN[1092]["VALUE"] = "Has 40 ships"
+	STRING_EN[1092]["VALUE"] = "Owned 40 spaceships"
 	STRING_EN[1092]["real_idx"] = 1092
 
 STRING_EN["index"][1093] = 1093
 STRING_EN[1093] = {}
 	STRING_EN[1093]["ID"] = 1093
 	STRING_EN[1093]["KEY"] = "SHIP_COLLECT_40"
-	STRING_EN[1093]["VALUE"] = "With 41 ships"
+	STRING_EN[1093]["VALUE"] = "Owned 41 spaceships"
 	STRING_EN[1093]["real_idx"] = 1093
 
 STRING_EN["index"][1094] = 1094
 STRING_EN[1094] = {}
 	STRING_EN[1094]["ID"] = 1094
 	STRING_EN[1094]["KEY"] = "SHIP_COLLECT_41"
-	STRING_EN[1094]["VALUE"] = "With 42 ships"
+	STRING_EN[1094]["VALUE"] = "Owned 42 spaceships"
 	STRING_EN[1094]["real_idx"] = 1094
 
 STRING_EN["index"][1095] = 1095
 STRING_EN[1095] = {}
 	STRING_EN[1095]["ID"] = 1095
 	STRING_EN[1095]["KEY"] = "SHIP_COLLECT_42"
-	STRING_EN[1095]["VALUE"] = "With 43 ships"
+	STRING_EN[1095]["VALUE"] = "Owned 43 spaceships"
 	STRING_EN[1095]["real_idx"] = 1095
 
 STRING_EN["index"][1096] = 1096
 STRING_EN[1096] = {}
 	STRING_EN[1096]["ID"] = 1096
 	STRING_EN[1096]["KEY"] = "SHIP_COLLECT_43"
-	STRING_EN[1096]["VALUE"] = "With 44 ships"
+	STRING_EN[1096]["VALUE"] = "Owned 44 spaceships"
 	STRING_EN[1096]["real_idx"] = 1096
 
 STRING_EN["index"][1097] = 1097
 STRING_EN[1097] = {}
 	STRING_EN[1097]["ID"] = 1097
 	STRING_EN[1097]["KEY"] = "SHIP_COLLECT_44"
-	STRING_EN[1097]["VALUE"] = "Has 45 ships"
+	STRING_EN[1097]["VALUE"] = "Owned 45 spaceships"
 	STRING_EN[1097]["real_idx"] = 1097
 
 STRING_EN["index"][1098] = 1098
 STRING_EN[1098] = {}
 	STRING_EN[1098]["ID"] = 1098
 	STRING_EN[1098]["KEY"] = "SHIP_COLLECT_45"
-	STRING_EN[1098]["VALUE"] = "With 46 ships"
+	STRING_EN[1098]["VALUE"] = "Owned 46 spaceships"
 	STRING_EN[1098]["real_idx"] = 1098
 
 STRING_EN["index"][1099] = 1099
 STRING_EN[1099] = {}
 	STRING_EN[1099]["ID"] = 1099
 	STRING_EN[1099]["KEY"] = "SHIP_COLLECT_46"
-	STRING_EN[1099]["VALUE"] = "Has 47 ships"
+	STRING_EN[1099]["VALUE"] = "Owned 47 spaceships"
 	STRING_EN[1099]["real_idx"] = 1099
 
 STRING_EN["index"][1100] = 1100
 STRING_EN[1100] = {}
 	STRING_EN[1100]["ID"] = 1100
 	STRING_EN[1100]["KEY"] = "SHIP_COLLECT_47"
-	STRING_EN[1100]["VALUE"] = "Has 48 ships"
+	STRING_EN[1100]["VALUE"] = "Owned 48 spaceships"
 	STRING_EN[1100]["real_idx"] = 1100
 
 STRING_EN["index"][1101] = 1101
 STRING_EN[1101] = {}
 	STRING_EN[1101]["ID"] = 1101
 	STRING_EN[1101]["KEY"] = "SHIP_COLLECT_48"
-	STRING_EN[1101]["VALUE"] = "Has 49 ships"
+	STRING_EN[1101]["VALUE"] = "Owned 49 spaceships"
 	STRING_EN[1101]["real_idx"] = 1101
 
 STRING_EN["index"][1102] = 1102
 STRING_EN[1102] = {}
 	STRING_EN[1102]["ID"] = 1102
 	STRING_EN[1102]["KEY"] = "MAINBUILING_UP2"
-	STRING_EN[1102]["VALUE"] = "Command center rose to level 2"
+	STRING_EN[1102]["VALUE"] = "Command Center Upgraded to Level 2"
 	STRING_EN[1102]["real_idx"] = 1102
 
 STRING_EN["index"][1103] = 1103
 STRING_EN[1103] = {}
 	STRING_EN[1103]["ID"] = 1103
 	STRING_EN[1103]["KEY"] = "MAINBUILING_UP3"
-	STRING_EN[1103]["VALUE"] = "Command center rose to level 3"
+	STRING_EN[1103]["VALUE"] = "Command Center Upgraded to Level 3"
 	STRING_EN[1103]["real_idx"] = 1103
 
 STRING_EN["index"][1104] = 1104
 STRING_EN[1104] = {}
 	STRING_EN[1104]["ID"] = 1104
 	STRING_EN[1104]["KEY"] = "MAINBUILING_UP4"
-	STRING_EN[1104]["VALUE"] = "Command center rose to level 4"
+	STRING_EN[1104]["VALUE"] = "Command Center Upgraded to Level 4"
 	STRING_EN[1104]["real_idx"] = 1104
 
 STRING_EN["index"][1105] = 1105
 STRING_EN[1105] = {}
 	STRING_EN[1105]["ID"] = 1105
 	STRING_EN[1105]["KEY"] = "MAINBUILING_UP5"
-	STRING_EN[1105]["VALUE"] = "Command center rose to level 5"
+	STRING_EN[1105]["VALUE"] = "Command Center Upgraded to Level 5"
 	STRING_EN[1105]["real_idx"] = 1105
 
 STRING_EN["index"][1106] = 1106
 STRING_EN[1106] = {}
 	STRING_EN[1106]["ID"] = 1106
 	STRING_EN[1106]["KEY"] = "MAINBUILING_UP6"
-	STRING_EN[1106]["VALUE"] = "Command center rose to level 6"
+	STRING_EN[1106]["VALUE"] = "Command Center Upgraded to Level 6"
 	STRING_EN[1106]["real_idx"] = 1106
 
 STRING_EN["index"][1107] = 1107
 STRING_EN[1107] = {}
 	STRING_EN[1107]["ID"] = 1107
 	STRING_EN[1107]["KEY"] = "MAINBUILING_UP7"
-	STRING_EN[1107]["VALUE"] = "Command center rose to level 7"
+	STRING_EN[1107]["VALUE"] = "Command Center Upgraded to Level 7"
 	STRING_EN[1107]["real_idx"] = 1107
 
 STRING_EN["index"][1108] = 1108
 STRING_EN[1108] = {}
 	STRING_EN[1108]["ID"] = 1108
 	STRING_EN[1108]["KEY"] = "MAINBUILING_UP8"
-	STRING_EN[1108]["VALUE"] = "Command center rose to level 8"
+	STRING_EN[1108]["VALUE"] = "Command Center Upgraded to Level 8"
 	STRING_EN[1108]["real_idx"] = 1108
 
 STRING_EN["index"][1109] = 1109
 STRING_EN[1109] = {}
 	STRING_EN[1109]["ID"] = 1109
 	STRING_EN[1109]["KEY"] = "MAINBUILING_UP9"
-	STRING_EN[1109]["VALUE"] = "Command center rose to level 9"
+	STRING_EN[1109]["VALUE"] = "Command Center Upgraded to Level 9"
 	STRING_EN[1109]["real_idx"] = 1109
 
 STRING_EN["index"][1110] = 1110
 STRING_EN[1110] = {}
 	STRING_EN[1110]["ID"] = 1110
 	STRING_EN[1110]["KEY"] = "MAINBUILING_UP10"
-	STRING_EN[1110]["VALUE"] = "Command center rose to level 10"
+	STRING_EN[1110]["VALUE"] = "Command Center Upgraded to Level 10"
 	STRING_EN[1110]["real_idx"] = 1110
 
 STRING_EN["index"][1111] = 1111
 STRING_EN[1111] = {}
 	STRING_EN[1111]["ID"] = 1111
 	STRING_EN[1111]["KEY"] = "MAINBUILING_UP11"
-	STRING_EN[1111]["VALUE"] = "Command center rose to level 11"
+	STRING_EN[1111]["VALUE"] = "Command Center Upgraded to Level 11"
 	STRING_EN[1111]["real_idx"] = 1111
 
 STRING_EN["index"][1112] = 1112
 STRING_EN[1112] = {}
 	STRING_EN[1112]["ID"] = 1112
 	STRING_EN[1112]["KEY"] = "MAINBUILING_UP12"
-	STRING_EN[1112]["VALUE"] = "Command center rose to level 12"
+	STRING_EN[1112]["VALUE"] = "Command Center Upgraded to Level 12"
 	STRING_EN[1112]["real_idx"] = 1112
 
 STRING_EN["index"][1113] = 1113
 STRING_EN[1113] = {}
 	STRING_EN[1113]["ID"] = 1113
 	STRING_EN[1113]["KEY"] = "MAINBUILING_UP13"
-	STRING_EN[1113]["VALUE"] = "Command center rose to level 13"
+	STRING_EN[1113]["VALUE"] = "Command Center Upgraded to Level 13"
 	STRING_EN[1113]["real_idx"] = 1113
 
 STRING_EN["index"][1114] = 1114
 STRING_EN[1114] = {}
 	STRING_EN[1114]["ID"] = 1114
 	STRING_EN[1114]["KEY"] = "MAINBUILING_UP14"
-	STRING_EN[1114]["VALUE"] = "Command center rose to level 14"
+	STRING_EN[1114]["VALUE"] = "Command Center Upgraded to Level 14"
 	STRING_EN[1114]["real_idx"] = 1114
 
 STRING_EN["index"][1115] = 1115
 STRING_EN[1115] = {}
 	STRING_EN[1115]["ID"] = 1115
 	STRING_EN[1115]["KEY"] = "MAINBUILING_UP15"
-	STRING_EN[1115]["VALUE"] = "Command center rose to level 15"
+	STRING_EN[1115]["VALUE"] = "Command Center Upgraded to Level 15"
 	STRING_EN[1115]["real_idx"] = 1115
 
 STRING_EN["index"][1116] = 1116
 STRING_EN[1116] = {}
 	STRING_EN[1116]["ID"] = 1116
 	STRING_EN[1116]["KEY"] = "MAINBUILING_UP16"
-	STRING_EN[1116]["VALUE"] = "Command center rose to level 16"
+	STRING_EN[1116]["VALUE"] = "Command Center Upgraded to Level 16"
 	STRING_EN[1116]["real_idx"] = 1116
 
 STRING_EN["index"][1117] = 1117
 STRING_EN[1117] = {}
 	STRING_EN[1117]["ID"] = 1117
 	STRING_EN[1117]["KEY"] = "MAINBUILING_UP17"
-	STRING_EN[1117]["VALUE"] = "Command center rose to level 17"
+	STRING_EN[1117]["VALUE"] = "Command Center Upgraded to Level 17"
 	STRING_EN[1117]["real_idx"] = 1117
 
 STRING_EN["index"][1118] = 1118
 STRING_EN[1118] = {}
 	STRING_EN[1118]["ID"] = 1118
 	STRING_EN[1118]["KEY"] = "MAINBUILING_UP18"
-	STRING_EN[1118]["VALUE"] = "Command center rose to level 18"
+	STRING_EN[1118]["VALUE"] = "Command Center Upgraded to Level 18"
 	STRING_EN[1118]["real_idx"] = 1118
 
 STRING_EN["index"][1119] = 1119
 STRING_EN[1119] = {}
 	STRING_EN[1119]["ID"] = 1119
 	STRING_EN[1119]["KEY"] = "MAINBUILING_UP19"
-	STRING_EN[1119]["VALUE"] = "Command center rose to level 19"
+	STRING_EN[1119]["VALUE"] = "Command Center Upgraded to Level 19"
 	STRING_EN[1119]["real_idx"] = 1119
 
 STRING_EN["index"][1120] = 1120
 STRING_EN[1120] = {}
 	STRING_EN[1120]["ID"] = 1120
 	STRING_EN[1120]["KEY"] = "MAINBUILING_UP20"
-	STRING_EN[1120]["VALUE"] = "Command center rose to level 20"
+	STRING_EN[1120]["VALUE"] = "Command Center Upgraded to Level 20"
 	STRING_EN[1120]["real_idx"] = 1120
 
 STRING_EN["index"][1121] = 1121
 STRING_EN[1121] = {}
 	STRING_EN[1121]["ID"] = 1121
 	STRING_EN[1121]["KEY"] = "MAINBUILING_UP21"
-	STRING_EN[1121]["VALUE"] = "Command center rose to level 21"
+	STRING_EN[1121]["VALUE"] = "Command Center Upgraded to Level 21"
 	STRING_EN[1121]["real_idx"] = 1121
 
 STRING_EN["index"][1122] = 1122
 STRING_EN[1122] = {}
 	STRING_EN[1122]["ID"] = 1122
 	STRING_EN[1122]["KEY"] = "MAINBUILING_UP22"
-	STRING_EN[1122]["VALUE"] = "Command center rose to level 22"
+	STRING_EN[1122]["VALUE"] = "Command Center Upgraded to Level 22"
 	STRING_EN[1122]["real_idx"] = 1122
 
 STRING_EN["index"][1123] = 1123
 STRING_EN[1123] = {}
 	STRING_EN[1123]["ID"] = 1123
 	STRING_EN[1123]["KEY"] = "MAINBUILING_UP23"
-	STRING_EN[1123]["VALUE"] = "Command center rose to level 23"
+	STRING_EN[1123]["VALUE"] = "Command Center Upgraded to Level 23"
 	STRING_EN[1123]["real_idx"] = 1123
 
 STRING_EN["index"][1124] = 1124
 STRING_EN[1124] = {}
 	STRING_EN[1124]["ID"] = 1124
 	STRING_EN[1124]["KEY"] = "MAINBUILING_UP24"
-	STRING_EN[1124]["VALUE"] = "Command center rose to level 24"
+	STRING_EN[1124]["VALUE"] = "Command Center Upgraded to Level 24"
 	STRING_EN[1124]["real_idx"] = 1124
 
 STRING_EN["index"][1125] = 1125
 STRING_EN[1125] = {}
 	STRING_EN[1125]["ID"] = 1125
 	STRING_EN[1125]["KEY"] = "MAINBUILING_UP25"
-	STRING_EN[1125]["VALUE"] = "Command center rose to level 25"
+	STRING_EN[1125]["VALUE"] = "Command Center Upgraded to Level 25"
 	STRING_EN[1125]["real_idx"] = 1125
 
 STRING_EN["index"][1126] = 1126
 STRING_EN[1126] = {}
 	STRING_EN[1126]["ID"] = 1126
 	STRING_EN[1126]["KEY"] = "MAINBUILING_UP26"
-	STRING_EN[1126]["VALUE"] = "Command center rose to level 26"
+	STRING_EN[1126]["VALUE"] = "Command Center Upgraded to Level 26"
 	STRING_EN[1126]["real_idx"] = 1126
 
 STRING_EN["index"][1127] = 1127
 STRING_EN[1127] = {}
 	STRING_EN[1127]["ID"] = 1127
 	STRING_EN[1127]["KEY"] = "MAINBUILING_UP27"
-	STRING_EN[1127]["VALUE"] = "Command center rose to level 27"
+	STRING_EN[1127]["VALUE"] = "Command Center Upgraded to Level 27"
 	STRING_EN[1127]["real_idx"] = 1127
 
 STRING_EN["index"][1128] = 1128
 STRING_EN[1128] = {}
 	STRING_EN[1128]["ID"] = 1128
 	STRING_EN[1128]["KEY"] = "MAINBUILING_UP28"
-	STRING_EN[1128]["VALUE"] = "Command center rose to level 28"
+	STRING_EN[1128]["VALUE"] = "Command Center Upgraded to Level 28"
 	STRING_EN[1128]["real_idx"] = 1128
 
 STRING_EN["index"][1129] = 1129
 STRING_EN[1129] = {}
 	STRING_EN[1129]["ID"] = 1129
 	STRING_EN[1129]["KEY"] = "MAINBUILING_UP29"
-	STRING_EN[1129]["VALUE"] = "Command center rose to level 29"
+	STRING_EN[1129]["VALUE"] = "Command Center Upgraded to Level 29"
 	STRING_EN[1129]["real_idx"] = 1129
 
 STRING_EN["index"][1130] = 1130
 STRING_EN[1130] = {}
 	STRING_EN[1130]["ID"] = 1130
 	STRING_EN[1130]["KEY"] = "MAINBUILING_UP30"
-	STRING_EN[1130]["VALUE"] = "Command center rose to level 30"
+	STRING_EN[1130]["VALUE"] = "Command Center Upgraded to Level 30"
 	STRING_EN[1130]["real_idx"] = 1130
 
 STRING_EN["index"][1131] = 1131
 STRING_EN[1131] = {}
 	STRING_EN[1131]["ID"] = 1131
 	STRING_EN[1131]["KEY"] = "MAINBUILING_UP31"
-	STRING_EN[1131]["VALUE"] = "Command center rose to level 31"
+	STRING_EN[1131]["VALUE"] = "Command Center Upgraded to Level 31"
 	STRING_EN[1131]["real_idx"] = 1131
 
 STRING_EN["index"][1132] = 1132
 STRING_EN[1132] = {}
 	STRING_EN[1132]["ID"] = 1132
 	STRING_EN[1132]["KEY"] = "MAINBUILING_UP32"
-	STRING_EN[1132]["VALUE"] = "Command center rose to level 32"
+	STRING_EN[1132]["VALUE"] = "Command Center Upgraded to Level 32"
 	STRING_EN[1132]["real_idx"] = 1132
 
 STRING_EN["index"][1133] = 1133
 STRING_EN[1133] = {}
 	STRING_EN[1133]["ID"] = 1133
 	STRING_EN[1133]["KEY"] = "MAINBUILING_UP33"
-	STRING_EN[1133]["VALUE"] = "Command center rose to level 33"
+	STRING_EN[1133]["VALUE"] = "Command Center Upgraded to Level 33"
 	STRING_EN[1133]["real_idx"] = 1133
 
 STRING_EN["index"][1134] = 1134
 STRING_EN[1134] = {}
 	STRING_EN[1134]["ID"] = 1134
 	STRING_EN[1134]["KEY"] = "MAINBUILING_UP34"
-	STRING_EN[1134]["VALUE"] = "Command center rose to level 34"
+	STRING_EN[1134]["VALUE"] = "Command Center Upgraded to Level 34"
 	STRING_EN[1134]["real_idx"] = 1134
 
 STRING_EN["index"][1135] = 1135
 STRING_EN[1135] = {}
 	STRING_EN[1135]["ID"] = 1135
 	STRING_EN[1135]["KEY"] = "MAINBUILING_UP35"
-	STRING_EN[1135]["VALUE"] = "Command center rose to level 35"
+	STRING_EN[1135]["VALUE"] = "Command Center Upgraded to Level 35"
 	STRING_EN[1135]["real_idx"] = 1135
 
 STRING_EN["index"][1136] = 1136
 STRING_EN[1136] = {}
 	STRING_EN[1136]["ID"] = 1136
 	STRING_EN[1136]["KEY"] = "MAINBUILING_UP36"
-	STRING_EN[1136]["VALUE"] = "Command center rose to level 36"
+	STRING_EN[1136]["VALUE"] = "Command Center Upgraded to Level 36"
 	STRING_EN[1136]["real_idx"] = 1136
 
 STRING_EN["index"][1137] = 1137
 STRING_EN[1137] = {}
 	STRING_EN[1137]["ID"] = 1137
 	STRING_EN[1137]["KEY"] = "MAINBUILING_UP37"
-	STRING_EN[1137]["VALUE"] = "Command center rose to level 37"
+	STRING_EN[1137]["VALUE"] = "Command Center Upgraded to Level 37"
 	STRING_EN[1137]["real_idx"] = 1137
 
 STRING_EN["index"][1138] = 1138
 STRING_EN[1138] = {}
 	STRING_EN[1138]["ID"] = 1138
 	STRING_EN[1138]["KEY"] = "MAINBUILING_UP38"
-	STRING_EN[1138]["VALUE"] = "Command center rose to level 38"
+	STRING_EN[1138]["VALUE"] = "Command Center Upgraded to Level 38"
 	STRING_EN[1138]["real_idx"] = 1138
 
 STRING_EN["index"][1139] = 1139
 STRING_EN[1139] = {}
 	STRING_EN[1139]["ID"] = 1139
 	STRING_EN[1139]["KEY"] = "MAINBUILING_UP39"
-	STRING_EN[1139]["VALUE"] = "Command center rose to level 39"
+	STRING_EN[1139]["VALUE"] = "Command Center Upgraded to Level 39"
 	STRING_EN[1139]["real_idx"] = 1139
 
 STRING_EN["index"][1140] = 1140
 STRING_EN[1140] = {}
 	STRING_EN[1140]["ID"] = 1140
 	STRING_EN[1140]["KEY"] = "MAINBUILING_UP40"
-	STRING_EN[1140]["VALUE"] = "Command center rose to level 40"
+	STRING_EN[1140]["VALUE"] = "Command Center Upgraded to Level 40"
 	STRING_EN[1140]["real_idx"] = 1140
 
 STRING_EN["index"][1141] = 1141
 STRING_EN[1141] = {}
 	STRING_EN[1141]["ID"] = 1141
 	STRING_EN[1141]["KEY"] = "MAINBUILING_UP41"
-	STRING_EN[1141]["VALUE"] = "Command center rose to level 41"
+	STRING_EN[1141]["VALUE"] = "Command Center Upgraded to Level 41"
 	STRING_EN[1141]["real_idx"] = 1141
 
 STRING_EN["index"][1142] = 1142
 STRING_EN[1142] = {}
 	STRING_EN[1142]["ID"] = 1142
 	STRING_EN[1142]["KEY"] = "MAINBUILING_UP42"
-	STRING_EN[1142]["VALUE"] = "Command center rose to level 42"
+	STRING_EN[1142]["VALUE"] = "Command Center Upgraded to Level 42"
 	STRING_EN[1142]["real_idx"] = 1142
 
 STRING_EN["index"][1143] = 1143
 STRING_EN[1143] = {}
 	STRING_EN[1143]["ID"] = 1143
 	STRING_EN[1143]["KEY"] = "MAINBUILING_UP43"
-	STRING_EN[1143]["VALUE"] = "Command center rose to level 43"
+	STRING_EN[1143]["VALUE"] = "Command Center Upgraded to Level 43"
 	STRING_EN[1143]["real_idx"] = 1143
 
 STRING_EN["index"][1144] = 1144
 STRING_EN[1144] = {}
 	STRING_EN[1144]["ID"] = 1144
 	STRING_EN[1144]["KEY"] = "MAINBUILING_UP44"
-	STRING_EN[1144]["VALUE"] = "Command center rose to level 44"
+	STRING_EN[1144]["VALUE"] = "Command Center Upgraded to Level 44"
 	STRING_EN[1144]["real_idx"] = 1144
 
 STRING_EN["index"][1145] = 1145
 STRING_EN[1145] = {}
 	STRING_EN[1145]["ID"] = 1145
 	STRING_EN[1145]["KEY"] = "MAINBUILING_UP45"
-	STRING_EN[1145]["VALUE"] = "Command center rose to level 45"
+	STRING_EN[1145]["VALUE"] = "Command Center Upgraded to Level 45"
 	STRING_EN[1145]["real_idx"] = 1145
 
 STRING_EN["index"][1146] = 1146
 STRING_EN[1146] = {}
 	STRING_EN[1146]["ID"] = 1146
 	STRING_EN[1146]["KEY"] = "SHIPDEVELOP_UP2"
-	STRING_EN[1146]["VALUE"] = "Blueprint Institute upgraded to level 2"
+	STRING_EN[1146]["VALUE"] = "Cabin R&D Factory Upgraded to Level 2"
 	STRING_EN[1146]["real_idx"] = 1146
 
 STRING_EN["index"][1147] = 1147
 STRING_EN[1147] = {}
 	STRING_EN[1147]["ID"] = 1147
 	STRING_EN[1147]["KEY"] = "SHIPDEVELOP_UP3"
-	STRING_EN[1147]["VALUE"] = "Blueprint Institute upgraded to level 3"
+	STRING_EN[1147]["VALUE"] = "Cabin R&D Factory Upgraded to Level 3"
 	STRING_EN[1147]["real_idx"] = 1147
 
 STRING_EN["index"][1148] = 1148
 STRING_EN[1148] = {}
 	STRING_EN[1148]["ID"] = 1148
 	STRING_EN[1148]["KEY"] = "SHIPDEVELOP_UP4"
-	STRING_EN[1148]["VALUE"] = "Blueprint Institute upgraded to level 4"
+	STRING_EN[1148]["VALUE"] = "Cabin R&D Factory Upgraded to Level 4"
 	STRING_EN[1148]["real_idx"] = 1148
 
 STRING_EN["index"][1149] = 1149
 STRING_EN[1149] = {}
 	STRING_EN[1149]["ID"] = 1149
 	STRING_EN[1149]["KEY"] = "SHIPDEVELOP_UP5"
-	STRING_EN[1149]["VALUE"] = "Blueprint Institute upgraded to level 5"
+	STRING_EN[1149]["VALUE"] = "Cabin R&D Factory Upgraded to Level 5"
 	STRING_EN[1149]["real_idx"] = 1149
 
 STRING_EN["index"][1150] = 1150
 STRING_EN[1150] = {}
 	STRING_EN[1150]["ID"] = 1150
 	STRING_EN[1150]["KEY"] = "SHIPDEVELOP_UP6"
-	STRING_EN[1150]["VALUE"] = "Blueprint Institute upgraded to level 6"
+	STRING_EN[1150]["VALUE"] = "Cabin R&D Factory Upgraded to Level 6"
 	STRING_EN[1150]["real_idx"] = 1150
 
 STRING_EN["index"][1151] = 1151
 STRING_EN[1151] = {}
 	STRING_EN[1151]["ID"] = 1151
 	STRING_EN[1151]["KEY"] = "SHIPDEVELOP_UP7"
-	STRING_EN[1151]["VALUE"] = "Blueprint Institute upgraded to level 7"
+	STRING_EN[1151]["VALUE"] = "Cabin R&D Factory Upgraded to Level 7"
 	STRING_EN[1151]["real_idx"] = 1151
 
 STRING_EN["index"][1152] = 1152
 STRING_EN[1152] = {}
 	STRING_EN[1152]["ID"] = 1152
 	STRING_EN[1152]["KEY"] = "SHIPDEVELOP_UP8"
-	STRING_EN[1152]["VALUE"] = "Blueprint Institute upgraded to level 8"
+	STRING_EN[1152]["VALUE"] = "Cabin R&D Factory Upgraded to Level 8"
 	STRING_EN[1152]["real_idx"] = 1152
 
 STRING_EN["index"][1153] = 1153
 STRING_EN[1153] = {}
 	STRING_EN[1153]["ID"] = 1153
 	STRING_EN[1153]["KEY"] = "SHIPDEVELOP_UP9"
-	STRING_EN[1153]["VALUE"] = "Blueprint Institute upgraded to level 9"
+	STRING_EN[1153]["VALUE"] = "Cabin R&D Factory Upgraded to Level 9"
 	STRING_EN[1153]["real_idx"] = 1153
 
 STRING_EN["index"][1154] = 1154
 STRING_EN[1154] = {}
 	STRING_EN[1154]["ID"] = 1154
 	STRING_EN[1154]["KEY"] = "SHIPDEVELOP_UP10"
-	STRING_EN[1154]["VALUE"] = "Blueprint Institute upgraded to level 10"
+	STRING_EN[1154]["VALUE"] = "Cabin R&D Factory Upgraded to Level 10"
 	STRING_EN[1154]["real_idx"] = 1154
 
 STRING_EN["index"][1155] = 1155
 STRING_EN[1155] = {}
 	STRING_EN[1155]["ID"] = 1155
 	STRING_EN[1155]["KEY"] = "SHIPDEVELOP_UP11"
-	STRING_EN[1155]["VALUE"] = "Blueprint Institute upgraded to level 11"
+	STRING_EN[1155]["VALUE"] = "Cabin R&D Factory Upgraded to Level 11"
 	STRING_EN[1155]["real_idx"] = 1155
 
 STRING_EN["index"][1156] = 1156
 STRING_EN[1156] = {}
 	STRING_EN[1156]["ID"] = 1156
 	STRING_EN[1156]["KEY"] = "SHIPDEVELOP_UP12"
-	STRING_EN[1156]["VALUE"] = "Blueprint Institute upgraded to level 12"
+	STRING_EN[1156]["VALUE"] = "Cabin R&D Factory Upgraded to Level 12"
 	STRING_EN[1156]["real_idx"] = 1156
 
 STRING_EN["index"][1157] = 1157
 STRING_EN[1157] = {}
 	STRING_EN[1157]["ID"] = 1157
 	STRING_EN[1157]["KEY"] = "SHIPDEVELOP_UP13"
-	STRING_EN[1157]["VALUE"] = "Blueprint Institute upgraded to level 13"
+	STRING_EN[1157]["VALUE"] = "Cabin R&D Factory Upgraded to Level 13"
 	STRING_EN[1157]["real_idx"] = 1157
 
 STRING_EN["index"][1158] = 1158
 STRING_EN[1158] = {}
 	STRING_EN[1158]["ID"] = 1158
 	STRING_EN[1158]["KEY"] = "SHIPDEVELOP_UP14"
-	STRING_EN[1158]["VALUE"] = "Blueprint Institute upgraded to level 14"
+	STRING_EN[1158]["VALUE"] = "Cabin R&D Factory Upgraded to Level 14"
 	STRING_EN[1158]["real_idx"] = 1158
 
 STRING_EN["index"][1159] = 1159
 STRING_EN[1159] = {}
 	STRING_EN[1159]["ID"] = 1159
 	STRING_EN[1159]["KEY"] = "SHIPDEVELOP_UP15"
-	STRING_EN[1159]["VALUE"] = "Blueprint Institute upgraded to level 15"
+	STRING_EN[1159]["VALUE"] = "Cabin R&D Factory Upgraded to Level 15"
 	STRING_EN[1159]["real_idx"] = 1159
 
 STRING_EN["index"][1160] = 1160
 STRING_EN[1160] = {}
 	STRING_EN[1160]["ID"] = 1160
 	STRING_EN[1160]["KEY"] = "SHIPDEVELOP_UP16"
-	STRING_EN[1160]["VALUE"] = "Blueprint Institute upgraded to level 16"
+	STRING_EN[1160]["VALUE"] = "Cabin R&D Factory Upgraded to Level 16"
 	STRING_EN[1160]["real_idx"] = 1160
 
 STRING_EN["index"][1161] = 1161
 STRING_EN[1161] = {}
 	STRING_EN[1161]["ID"] = 1161
 	STRING_EN[1161]["KEY"] = "SHIPDEVELOP_UP17"
-	STRING_EN[1161]["VALUE"] = "Blueprint Institute upgraded to level 17"
+	STRING_EN[1161]["VALUE"] = "Cabin R&D Factory Upgraded to Level 17"
 	STRING_EN[1161]["real_idx"] = 1161
 
 STRING_EN["index"][1162] = 1162
 STRING_EN[1162] = {}
 	STRING_EN[1162]["ID"] = 1162
 	STRING_EN[1162]["KEY"] = "SHIPDEVELOP_UP18"
-	STRING_EN[1162]["VALUE"] = "Blueprint Institute upgraded to level 18"
+	STRING_EN[1162]["VALUE"] = "Cabin R&D Factory Upgraded to Level 18"
 	STRING_EN[1162]["real_idx"] = 1162
 
 STRING_EN["index"][1163] = 1163
 STRING_EN[1163] = {}
 	STRING_EN[1163]["ID"] = 1163
 	STRING_EN[1163]["KEY"] = "SHIPDEVELOP_UP19"
-	STRING_EN[1163]["VALUE"] = "Blueprint Institute upgraded to level 19"
+	STRING_EN[1163]["VALUE"] = "Cabin R&D Factory Upgraded to Level 19"
 	STRING_EN[1163]["real_idx"] = 1163
 
 STRING_EN["index"][1164] = 1164
 STRING_EN[1164] = {}
 	STRING_EN[1164]["ID"] = 1164
 	STRING_EN[1164]["KEY"] = "SHIPDEVELOP_UP20"
-	STRING_EN[1164]["VALUE"] = "Blueprint Institute upgraded to level 20"
+	STRING_EN[1164]["VALUE"] = "Cabin R&D Factory Upgraded to Level 20"
 	STRING_EN[1164]["real_idx"] = 1164
 
 STRING_EN["index"][1165] = 1165
 STRING_EN[1165] = {}
 	STRING_EN[1165]["ID"] = 1165
 	STRING_EN[1165]["KEY"] = "SHIPDEVELOP_UP21"
-	STRING_EN[1165]["VALUE"] = "Blueprint Institute upgraded to level 21"
+	STRING_EN[1165]["VALUE"] = "Cabin R&D Factory Upgraded to Level 21"
 	STRING_EN[1165]["real_idx"] = 1165
 
 STRING_EN["index"][1166] = 1166
 STRING_EN[1166] = {}
 	STRING_EN[1166]["ID"] = 1166
 	STRING_EN[1166]["KEY"] = "SHIPDEVELOP_UP22"
-	STRING_EN[1166]["VALUE"] = "Blueprint Institute upgraded to level 22"
+	STRING_EN[1166]["VALUE"] = "Cabin R&D Factory Upgraded to Level 22"
 	STRING_EN[1166]["real_idx"] = 1166
 
 STRING_EN["index"][1167] = 1167
 STRING_EN[1167] = {}
 	STRING_EN[1167]["ID"] = 1167
 	STRING_EN[1167]["KEY"] = "SHIPDEVELOP_UP23"
-	STRING_EN[1167]["VALUE"] = "Blueprint Institute upgraded to level 23"
+	STRING_EN[1167]["VALUE"] = "Cabin R&D Factory Upgraded to Level 23"
 	STRING_EN[1167]["real_idx"] = 1167
 
 STRING_EN["index"][1168] = 1168
 STRING_EN[1168] = {}
 	STRING_EN[1168]["ID"] = 1168
 	STRING_EN[1168]["KEY"] = "SHIPDEVELOP_UP24"
-	STRING_EN[1168]["VALUE"] = "Blueprint Institute upgraded to level 24"
+	STRING_EN[1168]["VALUE"] = "Cabin R&D Factory Upgraded to Level 24"
 	STRING_EN[1168]["real_idx"] = 1168
 
 STRING_EN["index"][1169] = 1169
 STRING_EN[1169] = {}
 	STRING_EN[1169]["ID"] = 1169
 	STRING_EN[1169]["KEY"] = "SHIPDEVELOP_UP25"
-	STRING_EN[1169]["VALUE"] = "Blueprint Institute upgraded to level 25"
+	STRING_EN[1169]["VALUE"] = "Cabin R&D Factory Upgraded to Level 25"
 	STRING_EN[1169]["real_idx"] = 1169
 
 STRING_EN["index"][1170] = 1170
 STRING_EN[1170] = {}
 	STRING_EN[1170]["ID"] = 1170
 	STRING_EN[1170]["KEY"] = "SHIPDEVELOP_UP26"
-	STRING_EN[1170]["VALUE"] = "Blueprint Institute upgraded to level 26"
+	STRING_EN[1170]["VALUE"] = "Cabin R&D Factory Upgraded to Level 26"
 	STRING_EN[1170]["real_idx"] = 1170
 
 STRING_EN["index"][1171] = 1171
 STRING_EN[1171] = {}
 	STRING_EN[1171]["ID"] = 1171
 	STRING_EN[1171]["KEY"] = "SHIPDEVELOP_UP27"
-	STRING_EN[1171]["VALUE"] = "Blueprint Institute upgraded to level 27"
+	STRING_EN[1171]["VALUE"] = "Cabin R&D Factory Upgraded to Level 27"
 	STRING_EN[1171]["real_idx"] = 1171
 
 STRING_EN["index"][1172] = 1172
 STRING_EN[1172] = {}
 	STRING_EN[1172]["ID"] = 1172
 	STRING_EN[1172]["KEY"] = "SHIPDEVELOP_UP28"
-	STRING_EN[1172]["VALUE"] = "Blueprint Institute upgraded to level 28"
+	STRING_EN[1172]["VALUE"] = "Cabin R&D Factory Upgraded to Level 28"
 	STRING_EN[1172]["real_idx"] = 1172
 
 STRING_EN["index"][1173] = 1173
 STRING_EN[1173] = {}
 	STRING_EN[1173]["ID"] = 1173
 	STRING_EN[1173]["KEY"] = "SHIPDEVELOP_UP29"
-	STRING_EN[1173]["VALUE"] = "Blueprint Institute upgraded to level 29"
+	STRING_EN[1173]["VALUE"] = "Cabin R&D Factory Upgraded to Level 29"
 	STRING_EN[1173]["real_idx"] = 1173
 
 STRING_EN["index"][1174] = 1174
 STRING_EN[1174] = {}
 	STRING_EN[1174]["ID"] = 1174
 	STRING_EN[1174]["KEY"] = "SHIPDEVELOP_UP30"
-	STRING_EN[1174]["VALUE"] = "Blueprint Institute upgraded to level 30"
+	STRING_EN[1174]["VALUE"] = "Cabin R&D Factory Upgraded to Level 30"
 	STRING_EN[1174]["real_idx"] = 1174
 
 STRING_EN["index"][1175] = 1175
 STRING_EN[1175] = {}
 	STRING_EN[1175]["ID"] = 1175
 	STRING_EN[1175]["KEY"] = "SHIPDEVELOP_UP31"
-	STRING_EN[1175]["VALUE"] = "Blueprint Institute upgraded to level 31"
+	STRING_EN[1175]["VALUE"] = "Cabin R&D Factory Upgraded to Level 31"
 	STRING_EN[1175]["real_idx"] = 1175
 
 STRING_EN["index"][1176] = 1176
 STRING_EN[1176] = {}
 	STRING_EN[1176]["ID"] = 1176
 	STRING_EN[1176]["KEY"] = "SHIPDEVELOP_UP32"
-	STRING_EN[1176]["VALUE"] = "Blueprint Institute upgraded to level 32"
+	STRING_EN[1176]["VALUE"] = "Cabin R&D Factory Upgraded to Level 32"
 	STRING_EN[1176]["real_idx"] = 1176
 
 STRING_EN["index"][1177] = 1177
 STRING_EN[1177] = {}
 	STRING_EN[1177]["ID"] = 1177
 	STRING_EN[1177]["KEY"] = "SHIPDEVELOP_UP33"
-	STRING_EN[1177]["VALUE"] = "Blueprint Institute upgraded to level 33"
+	STRING_EN[1177]["VALUE"] = "Cabin R&D Factory Upgraded to Level 33"
 	STRING_EN[1177]["real_idx"] = 1177
 
 STRING_EN["index"][1178] = 1178
 STRING_EN[1178] = {}
 	STRING_EN[1178]["ID"] = 1178
 	STRING_EN[1178]["KEY"] = "SHIPDEVELOP_UP34"
-	STRING_EN[1178]["VALUE"] = "Blueprint Institute upgraded to level 34"
+	STRING_EN[1178]["VALUE"] = "Cabin R&D Factory Upgraded to Level 34"
 	STRING_EN[1178]["real_idx"] = 1178
 
 STRING_EN["index"][1179] = 1179
 STRING_EN[1179] = {}
 	STRING_EN[1179]["ID"] = 1179
 	STRING_EN[1179]["KEY"] = "SHIPDEVELOP_UP35"
-	STRING_EN[1179]["VALUE"] = "Blueprint Institute upgraded to level 35"
+	STRING_EN[1179]["VALUE"] = "Cabin R&D Factory Upgraded to Level 35"
 	STRING_EN[1179]["real_idx"] = 1179
 
 STRING_EN["index"][1180] = 1180
 STRING_EN[1180] = {}
 	STRING_EN[1180]["ID"] = 1180
 	STRING_EN[1180]["KEY"] = "SHIPDEVELOP_UP36"
-	STRING_EN[1180]["VALUE"] = "Blueprint Institute upgraded to level 36"
+	STRING_EN[1180]["VALUE"] = "Cabin R&D Factory Upgraded to Level 36"
 	STRING_EN[1180]["real_idx"] = 1180
 
 STRING_EN["index"][1181] = 1181
 STRING_EN[1181] = {}
 	STRING_EN[1181]["ID"] = 1181
 	STRING_EN[1181]["KEY"] = "SHIPDEVELOP_UP37"
-	STRING_EN[1181]["VALUE"] = "Blueprint Institute upgraded to level 37"
+	STRING_EN[1181]["VALUE"] = "Cabin R&D Factory Upgraded to Level 37"
 	STRING_EN[1181]["real_idx"] = 1181
 
 STRING_EN["index"][1182] = 1182
 STRING_EN[1182] = {}
 	STRING_EN[1182]["ID"] = 1182
 	STRING_EN[1182]["KEY"] = "SHIPDEVELOP_UP38"
-	STRING_EN[1182]["VALUE"] = "Blueprint Institute upgraded to level 38"
+	STRING_EN[1182]["VALUE"] = "Cabin R&D Factory Upgraded to Level 38"
 	STRING_EN[1182]["real_idx"] = 1182
 
 STRING_EN["index"][1183] = 1183
 STRING_EN[1183] = {}
 	STRING_EN[1183]["ID"] = 1183
 	STRING_EN[1183]["KEY"] = "SHIPDEVELOP_UP39"
-	STRING_EN[1183]["VALUE"] = "Blueprint Institute upgraded to level 39"
+	STRING_EN[1183]["VALUE"] = "Cabin R&D Factory Upgraded to Level 39"
 	STRING_EN[1183]["real_idx"] = 1183
 
 STRING_EN["index"][1184] = 1184
 STRING_EN[1184] = {}
 	STRING_EN[1184]["ID"] = 1184
 	STRING_EN[1184]["KEY"] = "SHIPDEVELOP_UP40"
-	STRING_EN[1184]["VALUE"] = "Blueprint Institute upgraded to level 40"
+	STRING_EN[1184]["VALUE"] = "Cabin R&D Factory Upgraded to Level 40"
 	STRING_EN[1184]["real_idx"] = 1184
 
 STRING_EN["index"][1185] = 1185
 STRING_EN[1185] = {}
 	STRING_EN[1185]["ID"] = 1185
 	STRING_EN[1185]["KEY"] = "SHIPDEVELOP_UP41"
-	STRING_EN[1185]["VALUE"] = "Blueprint Institute upgraded to level 41"
+	STRING_EN[1185]["VALUE"] = "Cabin R&D Factory Upgraded to Level 41"
 	STRING_EN[1185]["real_idx"] = 1185
 
 STRING_EN["index"][1186] = 1186
 STRING_EN[1186] = {}
 	STRING_EN[1186]["ID"] = 1186
 	STRING_EN[1186]["KEY"] = "SHIPDEVELOP_UP42"
-	STRING_EN[1186]["VALUE"] = "Blueprint Institute upgraded to level 42"
+	STRING_EN[1186]["VALUE"] = "Cabin R&D Factory Upgraded to Level 42"
 	STRING_EN[1186]["real_idx"] = 1186
 
 STRING_EN["index"][1187] = 1187
 STRING_EN[1187] = {}
 	STRING_EN[1187]["ID"] = 1187
 	STRING_EN[1187]["KEY"] = "SHIPDEVELOP_UP43"
-	STRING_EN[1187]["VALUE"] = "Blueprint Institute upgraded to level 43"
+	STRING_EN[1187]["VALUE"] = "Cabin R&D Factory Upgraded to Level 43"
 	STRING_EN[1187]["real_idx"] = 1187
 
 STRING_EN["index"][1188] = 1188
 STRING_EN[1188] = {}
 	STRING_EN[1188]["ID"] = 1188
 	STRING_EN[1188]["KEY"] = "SHIPDEVELOP_UP44"
-	STRING_EN[1188]["VALUE"] = "Blueprint Institute upgraded to level 44"
+	STRING_EN[1188]["VALUE"] = "Cabin R&D Factory Upgraded to Level 44"
 	STRING_EN[1188]["real_idx"] = 1188
 
 STRING_EN["index"][1189] = 1189
 STRING_EN[1189] = {}
 	STRING_EN[1189]["ID"] = 1189
 	STRING_EN[1189]["KEY"] = "SHIPDEVELOP_UP45"
-	STRING_EN[1189]["VALUE"] = "Blueprint Institute upgraded to level 45"
+	STRING_EN[1189]["VALUE"] = "Cabin R&D Factory Upgraded to Level 45"
 	STRING_EN[1189]["real_idx"] = 1189
 
 STRING_EN["index"][1190] = 1190
 STRING_EN[1190] = {}
 	STRING_EN[1190]["ID"] = 1190
 	STRING_EN[1190]["KEY"] = "WEAPONDEVELOP_UP2"
-	STRING_EN[1190]["VALUE"] = "Weapons Institute rose to level 2"
+	STRING_EN[1190]["VALUE"] = "Weapon Institute Upgraded to Level 2"
 	STRING_EN[1190]["real_idx"] = 1190
 
 STRING_EN["index"][1191] = 1191
 STRING_EN[1191] = {}
 	STRING_EN[1191]["ID"] = 1191
 	STRING_EN[1191]["KEY"] = "WEAPONDEVELOP_UP3"
-	STRING_EN[1191]["VALUE"] = "Weapons Institute rose to level 3"
+	STRING_EN[1191]["VALUE"] = "Weapon Institute Upgraded to Level 3"
 	STRING_EN[1191]["real_idx"] = 1191
 
 STRING_EN["index"][1192] = 1192
 STRING_EN[1192] = {}
 	STRING_EN[1192]["ID"] = 1192
 	STRING_EN[1192]["KEY"] = "WEAPONDEVELOP_UP4"
-	STRING_EN[1192]["VALUE"] = "Weapons Institute rose to level 4"
+	STRING_EN[1192]["VALUE"] = "Weapon Institute Upgraded to Level 4"
 	STRING_EN[1192]["real_idx"] = 1192
 
 STRING_EN["index"][1193] = 1193
 STRING_EN[1193] = {}
 	STRING_EN[1193]["ID"] = 1193
 	STRING_EN[1193]["KEY"] = "WEAPONDEVELOP_UP5"
-	STRING_EN[1193]["VALUE"] = "Weapons Institute rose to level 5"
+	STRING_EN[1193]["VALUE"] = "Weapon Institute Upgraded to Level 5"
 	STRING_EN[1193]["real_idx"] = 1193
 
 STRING_EN["index"][1194] = 1194
 STRING_EN[1194] = {}
 	STRING_EN[1194]["ID"] = 1194
 	STRING_EN[1194]["KEY"] = "WEAPONDEVELOP_UP6"
-	STRING_EN[1194]["VALUE"] = "Weapons Institute rose to level 6"
+	STRING_EN[1194]["VALUE"] = "Weapon Institute Upgraded to Level 6"
 	STRING_EN[1194]["real_idx"] = 1194
 
 STRING_EN["index"][1195] = 1195
 STRING_EN[1195] = {}
 	STRING_EN[1195]["ID"] = 1195
 	STRING_EN[1195]["KEY"] = "WEAPONDEVELOP_UP7"
-	STRING_EN[1195]["VALUE"] = "Weapons Institute rose to level 7"
+	STRING_EN[1195]["VALUE"] = "Weapon Institute Upgraded to Level 7"
 	STRING_EN[1195]["real_idx"] = 1195
 
 STRING_EN["index"][1196] = 1196
 STRING_EN[1196] = {}
 	STRING_EN[1196]["ID"] = 1196
 	STRING_EN[1196]["KEY"] = "WEAPONDEVELOP_UP8"
-	STRING_EN[1196]["VALUE"] = "Weapons Institute rose to level 8"
+	STRING_EN[1196]["VALUE"] = "Weapon Institute Upgraded to Level 8"
 	STRING_EN[1196]["real_idx"] = 1196
 
 STRING_EN["index"][1197] = 1197
 STRING_EN[1197] = {}
 	STRING_EN[1197]["ID"] = 1197
 	STRING_EN[1197]["KEY"] = "WEAPONDEVELOP_UP9"
-	STRING_EN[1197]["VALUE"] = "Weapons Institute rose to level 9"
+	STRING_EN[1197]["VALUE"] = "Weapon Institute Upgraded to Level 9"
 	STRING_EN[1197]["real_idx"] = 1197
 
 STRING_EN["index"][1198] = 1198
 STRING_EN[1198] = {}
 	STRING_EN[1198]["ID"] = 1198
 	STRING_EN[1198]["KEY"] = "WEAPONDEVELOP_UP10"
-	STRING_EN[1198]["VALUE"] = "Weapons Institute rose to level 10"
+	STRING_EN[1198]["VALUE"] = "Weapon Institute Upgraded to Level 10"
 	STRING_EN[1198]["real_idx"] = 1198
 
 STRING_EN["index"][1199] = 1199
 STRING_EN[1199] = {}
 	STRING_EN[1199]["ID"] = 1199
 	STRING_EN[1199]["KEY"] = "WEAPONDEVELOP_UP11"
-	STRING_EN[1199]["VALUE"] = "Weapons Institute rose to level 11"
+	STRING_EN[1199]["VALUE"] = "Weapon Institute Upgraded to Level 11"
 	STRING_EN[1199]["real_idx"] = 1199
 
 STRING_EN["index"][1200] = 1200
 STRING_EN[1200] = {}
 	STRING_EN[1200]["ID"] = 1200
 	STRING_EN[1200]["KEY"] = "WEAPONDEVELOP_UP12"
-	STRING_EN[1200]["VALUE"] = "Weapons Institute rose to level 12"
+	STRING_EN[1200]["VALUE"] = "Weapon Institute Upgraded to Level 12"
 	STRING_EN[1200]["real_idx"] = 1200
 
 STRING_EN["index"][1201] = 1201
 STRING_EN[1201] = {}
 	STRING_EN[1201]["ID"] = 1201
 	STRING_EN[1201]["KEY"] = "WEAPONDEVELOP_UP13"
-	STRING_EN[1201]["VALUE"] = "Weapons Institute rose to level 13"
+	STRING_EN[1201]["VALUE"] = "Weapon Institute Upgraded to Level 13"
 	STRING_EN[1201]["real_idx"] = 1201
 
 STRING_EN["index"][1202] = 1202
 STRING_EN[1202] = {}
 	STRING_EN[1202]["ID"] = 1202
 	STRING_EN[1202]["KEY"] = "WEAPONDEVELOP_UP14"
-	STRING_EN[1202]["VALUE"] = "Weapons Institute rose to level 14"
+	STRING_EN[1202]["VALUE"] = "Weapon Institute Upgraded to Level 14"
 	STRING_EN[1202]["real_idx"] = 1202
 
 STRING_EN["index"][1203] = 1203
 STRING_EN[1203] = {}
 	STRING_EN[1203]["ID"] = 1203
 	STRING_EN[1203]["KEY"] = "WEAPONDEVELOP_UP15"
-	STRING_EN[1203]["VALUE"] = "Weapons Institute rose to level 15"
+	STRING_EN[1203]["VALUE"] = "Weapon Institute Upgraded to Level 15"
 	STRING_EN[1203]["real_idx"] = 1203
 
 STRING_EN["index"][1204] = 1204
 STRING_EN[1204] = {}
 	STRING_EN[1204]["ID"] = 1204
 	STRING_EN[1204]["KEY"] = "WEAPONDEVELOP_UP16"
-	STRING_EN[1204]["VALUE"] = "Weapons Institute rose to level 16"
+	STRING_EN[1204]["VALUE"] = "Weapon Institute Upgraded to Level 16"
 	STRING_EN[1204]["real_idx"] = 1204
 
 STRING_EN["index"][1205] = 1205
 STRING_EN[1205] = {}
 	STRING_EN[1205]["ID"] = 1205
 	STRING_EN[1205]["KEY"] = "WEAPONDEVELOP_UP17"
-	STRING_EN[1205]["VALUE"] = "Weapons Institute rose to level 17"
+	STRING_EN[1205]["VALUE"] = "Weapon Institute Upgraded to Level 17"
 	STRING_EN[1205]["real_idx"] = 1205
 
 STRING_EN["index"][1206] = 1206
 STRING_EN[1206] = {}
 	STRING_EN[1206]["ID"] = 1206
 	STRING_EN[1206]["KEY"] = "WEAPONDEVELOP_UP18"
-	STRING_EN[1206]["VALUE"] = "Weapons Institute rose to level 18"
+	STRING_EN[1206]["VALUE"] = "Weapon Institute Upgraded to Level 18"
 	STRING_EN[1206]["real_idx"] = 1206
 
 STRING_EN["index"][1207] = 1207
 STRING_EN[1207] = {}
 	STRING_EN[1207]["ID"] = 1207
 	STRING_EN[1207]["KEY"] = "WEAPONDEVELOP_UP19"
-	STRING_EN[1207]["VALUE"] = "Weapons Institute rose to level 19"
+	STRING_EN[1207]["VALUE"] = "Weapon Institute Upgraded to Level 19"
 	STRING_EN[1207]["real_idx"] = 1207
 
 STRING_EN["index"][1208] = 1208
 STRING_EN[1208] = {}
 	STRING_EN[1208]["ID"] = 1208
 	STRING_EN[1208]["KEY"] = "WEAPONDEVELOP_UP20"
-	STRING_EN[1208]["VALUE"] = "Weapons Institute rose to level 20"
+	STRING_EN[1208]["VALUE"] = "Weapon Institute Upgraded to Level 20"
 	STRING_EN[1208]["real_idx"] = 1208
 
 STRING_EN["index"][1209] = 1209
 STRING_EN[1209] = {}
 	STRING_EN[1209]["ID"] = 1209
 	STRING_EN[1209]["KEY"] = "WEAPONDEVELOP_UP21"
-	STRING_EN[1209]["VALUE"] = "Weapons Institute rose to level 21"
+	STRING_EN[1209]["VALUE"] = "Weapon Institute Upgraded to Level 21"
 	STRING_EN[1209]["real_idx"] = 1209
 
 STRING_EN["index"][1210] = 1210
 STRING_EN[1210] = {}
 	STRING_EN[1210]["ID"] = 1210
 	STRING_EN[1210]["KEY"] = "WEAPONDEVELOP_UP22"
-	STRING_EN[1210]["VALUE"] = "Weapons Institute rose to level 22"
+	STRING_EN[1210]["VALUE"] = "Weapon Institute Upgraded to Level 22"
 	STRING_EN[1210]["real_idx"] = 1210
 
 STRING_EN["index"][1211] = 1211
 STRING_EN[1211] = {}
 	STRING_EN[1211]["ID"] = 1211
 	STRING_EN[1211]["KEY"] = "WEAPONDEVELOP_UP23"
-	STRING_EN[1211]["VALUE"] = "Weapons Institute rose to level 23"
+	STRING_EN[1211]["VALUE"] = "Weapon Institute Upgraded to Level 23"
 	STRING_EN[1211]["real_idx"] = 1211
 
 STRING_EN["index"][1212] = 1212
 STRING_EN[1212] = {}
 	STRING_EN[1212]["ID"] = 1212
 	STRING_EN[1212]["KEY"] = "WEAPONDEVELOP_UP24"
-	STRING_EN[1212]["VALUE"] = "Weapons Institute rose to level 24"
+	STRING_EN[1212]["VALUE"] = "Weapon Institute Upgraded to Level 24"
 	STRING_EN[1212]["real_idx"] = 1212
 
 STRING_EN["index"][1213] = 1213
 STRING_EN[1213] = {}
 	STRING_EN[1213]["ID"] = 1213
 	STRING_EN[1213]["KEY"] = "WEAPONDEVELOP_UP25"
-	STRING_EN[1213]["VALUE"] = "Weapons Institute rose to level 25"
+	STRING_EN[1213]["VALUE"] = "Weapon Institute Upgraded to Level 25"
 	STRING_EN[1213]["real_idx"] = 1213
 
 STRING_EN["index"][1214] = 1214
 STRING_EN[1214] = {}
 	STRING_EN[1214]["ID"] = 1214
 	STRING_EN[1214]["KEY"] = "WEAPONDEVELOP_UP26"
-	STRING_EN[1214]["VALUE"] = "Weapons Institute rose to level 26"
+	STRING_EN[1214]["VALUE"] = "Weapon Institute Upgraded to Level 26"
 	STRING_EN[1214]["real_idx"] = 1214
 
 STRING_EN["index"][1215] = 1215
 STRING_EN[1215] = {}
 	STRING_EN[1215]["ID"] = 1215
 	STRING_EN[1215]["KEY"] = "WEAPONDEVELOP_UP27"
-	STRING_EN[1215]["VALUE"] = "Weapons Institute rose to level 27"
+	STRING_EN[1215]["VALUE"] = "Weapon Institute Upgraded to Level 27"
 	STRING_EN[1215]["real_idx"] = 1215
 
 STRING_EN["index"][1216] = 1216
 STRING_EN[1216] = {}
 	STRING_EN[1216]["ID"] = 1216
 	STRING_EN[1216]["KEY"] = "WEAPONDEVELOP_UP28"
-	STRING_EN[1216]["VALUE"] = "Weapons Institute rose to level 28"
+	STRING_EN[1216]["VALUE"] = "Weapon Institute Upgraded to Level 28"
 	STRING_EN[1216]["real_idx"] = 1216
 
 STRING_EN["index"][1217] = 1217
 STRING_EN[1217] = {}
 	STRING_EN[1217]["ID"] = 1217
 	STRING_EN[1217]["KEY"] = "WEAPONDEVELOP_UP29"
-	STRING_EN[1217]["VALUE"] = "Weapons Institute rose to level 29"
+	STRING_EN[1217]["VALUE"] = "Weapon Institute Upgraded to Level 29"
 	STRING_EN[1217]["real_idx"] = 1217
 
 STRING_EN["index"][1218] = 1218
 STRING_EN[1218] = {}
 	STRING_EN[1218]["ID"] = 1218
 	STRING_EN[1218]["KEY"] = "WEAPONDEVELOP_UP30"
-	STRING_EN[1218]["VALUE"] = "Weapons Institute rose to level 30"
+	STRING_EN[1218]["VALUE"] = "Weapon Institute Upgraded to Level 30"
 	STRING_EN[1218]["real_idx"] = 1218
 
 STRING_EN["index"][1219] = 1219
 STRING_EN[1219] = {}
 	STRING_EN[1219]["ID"] = 1219
 	STRING_EN[1219]["KEY"] = "WEAPONDEVELOP_UP31"
-	STRING_EN[1219]["VALUE"] = "Weapons Institute rose to level 31"
+	STRING_EN[1219]["VALUE"] = "Weapon Institute Upgraded to Level 31"
 	STRING_EN[1219]["real_idx"] = 1219
 
 STRING_EN["index"][1220] = 1220
 STRING_EN[1220] = {}
 	STRING_EN[1220]["ID"] = 1220
 	STRING_EN[1220]["KEY"] = "WEAPONDEVELOP_UP32"
-	STRING_EN[1220]["VALUE"] = "Weapons Institute rose to level 32"
+	STRING_EN[1220]["VALUE"] = "Weapon Institute Upgraded to Level 32"
 	STRING_EN[1220]["real_idx"] = 1220
 
 STRING_EN["index"][1221] = 1221
 STRING_EN[1221] = {}
 	STRING_EN[1221]["ID"] = 1221
 	STRING_EN[1221]["KEY"] = "WEAPONDEVELOP_UP33"
-	STRING_EN[1221]["VALUE"] = "Weapons Institute rose to level 33"
+	STRING_EN[1221]["VALUE"] = "Weapon Institute Upgraded to Level 33"
 	STRING_EN[1221]["real_idx"] = 1221
 
 STRING_EN["index"][1222] = 1222
 STRING_EN[1222] = {}
 	STRING_EN[1222]["ID"] = 1222
 	STRING_EN[1222]["KEY"] = "WEAPONDEVELOP_UP34"
-	STRING_EN[1222]["VALUE"] = "Weapons Institute rose to level 34"
+	STRING_EN[1222]["VALUE"] = "Weapon Institute Upgraded to Level 34"
 	STRING_EN[1222]["real_idx"] = 1222
 
 STRING_EN["index"][1223] = 1223
 STRING_EN[1223] = {}
 	STRING_EN[1223]["ID"] = 1223
 	STRING_EN[1223]["KEY"] = "WEAPONDEVELOP_UP35"
-	STRING_EN[1223]["VALUE"] = "Weapons Institute rose to level 35"
+	STRING_EN[1223]["VALUE"] = "Weapon Institute Upgraded to Level 35"
 	STRING_EN[1223]["real_idx"] = 1223
 
 STRING_EN["index"][1224] = 1224
 STRING_EN[1224] = {}
 	STRING_EN[1224]["ID"] = 1224
 	STRING_EN[1224]["KEY"] = "WEAPONDEVELOP_UP36"
-	STRING_EN[1224]["VALUE"] = "Weapons Institute rose to level 36"
+	STRING_EN[1224]["VALUE"] = "Weapon Institute Upgraded to Level 36"
 	STRING_EN[1224]["real_idx"] = 1224
 
 STRING_EN["index"][1225] = 1225
 STRING_EN[1225] = {}
 	STRING_EN[1225]["ID"] = 1225
 	STRING_EN[1225]["KEY"] = "WEAPONDEVELOP_UP37"
-	STRING_EN[1225]["VALUE"] = "Weapons Institute rose to level 37"
+	STRING_EN[1225]["VALUE"] = "Weapon Institute Upgraded to Level 37"
 	STRING_EN[1225]["real_idx"] = 1225
 
 STRING_EN["index"][1226] = 1226
 STRING_EN[1226] = {}
 	STRING_EN[1226]["ID"] = 1226
 	STRING_EN[1226]["KEY"] = "WEAPONDEVELOP_UP38"
-	STRING_EN[1226]["VALUE"] = "Weapons Institute rose to level 38"
+	STRING_EN[1226]["VALUE"] = "Weapon Institute Upgraded to Level 38"
 	STRING_EN[1226]["real_idx"] = 1226
 
 STRING_EN["index"][1227] = 1227
 STRING_EN[1227] = {}
 	STRING_EN[1227]["ID"] = 1227
 	STRING_EN[1227]["KEY"] = "WEAPONDEVELOP_UP39"
-	STRING_EN[1227]["VALUE"] = "Weapons Institute rose to level 39"
+	STRING_EN[1227]["VALUE"] = "Weapon Institute Upgraded to Level 39"
 	STRING_EN[1227]["real_idx"] = 1227
 
 STRING_EN["index"][1228] = 1228
 STRING_EN[1228] = {}
 	STRING_EN[1228]["ID"] = 1228
 	STRING_EN[1228]["KEY"] = "WEAPONDEVELOP_UP40"
-	STRING_EN[1228]["VALUE"] = "Weapons Institute rose to level 40"
+	STRING_EN[1228]["VALUE"] = "Weapon Institute Upgraded to Level 40"
 	STRING_EN[1228]["real_idx"] = 1228
 
 STRING_EN["index"][1229] = 1229
 STRING_EN[1229] = {}
 	STRING_EN[1229]["ID"] = 1229
 	STRING_EN[1229]["KEY"] = "WEAPONDEVELOP_UP41"
-	STRING_EN[1229]["VALUE"] = "Weapons Institute rose to level 41"
+	STRING_EN[1229]["VALUE"] = "Weapon Institute Upgraded to Level 41"
 	STRING_EN[1229]["real_idx"] = 1229
 
 STRING_EN["index"][1230] = 1230
 STRING_EN[1230] = {}
 	STRING_EN[1230]["ID"] = 1230
 	STRING_EN[1230]["KEY"] = "WEAPONDEVELOP_UP42"
-	STRING_EN[1230]["VALUE"] = "Weapons Institute rose to level 42"
+	STRING_EN[1230]["VALUE"] = "Weapon Institute Upgraded to Level 42"
 	STRING_EN[1230]["real_idx"] = 1230
 
 STRING_EN["index"][1231] = 1231
 STRING_EN[1231] = {}
 	STRING_EN[1231]["ID"] = 1231
 	STRING_EN[1231]["KEY"] = "WEAPONDEVELOP_UP43"
-	STRING_EN[1231]["VALUE"] = "Weapons Institute rose to level 43"
+	STRING_EN[1231]["VALUE"] = "Weapon Institute Upgraded to Level 43"
 	STRING_EN[1231]["real_idx"] = 1231
 
 STRING_EN["index"][1232] = 1232
 STRING_EN[1232] = {}
 	STRING_EN[1232]["ID"] = 1232
 	STRING_EN[1232]["KEY"] = "WEAPONDEVELOP_UP44"
-	STRING_EN[1232]["VALUE"] = "Weapons Institute rose to level 44"
+	STRING_EN[1232]["VALUE"] = "Weapon Institute Upgraded to Level 44"
 	STRING_EN[1232]["real_idx"] = 1232
 
 STRING_EN["index"][1233] = 1233
 STRING_EN[1233] = {}
 	STRING_EN[1233]["ID"] = 1233
 	STRING_EN[1233]["KEY"] = "WEAPONDEVELOP_UP45"
-	STRING_EN[1233]["VALUE"] = "Weapons Institute rose to level 45"
+	STRING_EN[1233]["VALUE"] = "Weapon Institute Upgraded to Level 45"
 	STRING_EN[1233]["real_idx"] = 1233
 
 STRING_EN["index"][1234] = 1234
 STRING_EN[1234] = {}
 	STRING_EN[1234]["ID"] = 1234
 	STRING_EN[1234]["KEY"] = "REPAIRDEPOT_UP2"
-	STRING_EN[1234]["VALUE"] = "The repair shop rose to level 2"
+	STRING_EN[1234]["VALUE"] = "Spaceship Workshop Upgraded to Level 2"
 	STRING_EN[1234]["real_idx"] = 1234
 
 STRING_EN["index"][1235] = 1235
 STRING_EN[1235] = {}
 	STRING_EN[1235]["ID"] = 1235
 	STRING_EN[1235]["KEY"] = "REPAIRDEPOT_UP3"
-	STRING_EN[1235]["VALUE"] = "The repair shop rose to level 3"
+	STRING_EN[1235]["VALUE"] = "Spaceship Workshop Upgraded to Level 3"
 	STRING_EN[1235]["real_idx"] = 1235
 
 STRING_EN["index"][1236] = 1236
 STRING_EN[1236] = {}
 	STRING_EN[1236]["ID"] = 1236
 	STRING_EN[1236]["KEY"] = "REPAIRDEPOT_UP4"
-	STRING_EN[1236]["VALUE"] = "The repair shop rose to level 4"
+	STRING_EN[1236]["VALUE"] = "Spaceship Workshop Upgraded to Level 4"
 	STRING_EN[1236]["real_idx"] = 1236
 
 STRING_EN["index"][1237] = 1237
 STRING_EN[1237] = {}
 	STRING_EN[1237]["ID"] = 1237
 	STRING_EN[1237]["KEY"] = "REPAIRDEPOT_UP5"
-	STRING_EN[1237]["VALUE"] = "The repair shop rose to level 5"
+	STRING_EN[1237]["VALUE"] = "Spaceship Workshop Upgraded to Level 5"
 	STRING_EN[1237]["real_idx"] = 1237
 
 STRING_EN["index"][1238] = 1238
 STRING_EN[1238] = {}
 	STRING_EN[1238]["ID"] = 1238
 	STRING_EN[1238]["KEY"] = "REPAIRDEPOT_UP6"
-	STRING_EN[1238]["VALUE"] = "The repair shop rose to level 6"
+	STRING_EN[1238]["VALUE"] = "Spaceship Workshop Upgraded to Level 6"
 	STRING_EN[1238]["real_idx"] = 1238
 
 STRING_EN["index"][1239] = 1239
 STRING_EN[1239] = {}
 	STRING_EN[1239]["ID"] = 1239
 	STRING_EN[1239]["KEY"] = "REPAIRDEPOT_UP7"
-	STRING_EN[1239]["VALUE"] = "The repair shop rose to level 7"
+	STRING_EN[1239]["VALUE"] = "Spaceship Workshop Upgraded to Level 7"
 	STRING_EN[1239]["real_idx"] = 1239
 
 STRING_EN["index"][1240] = 1240
 STRING_EN[1240] = {}
 	STRING_EN[1240]["ID"] = 1240
 	STRING_EN[1240]["KEY"] = "REPAIRDEPOT_UP8"
-	STRING_EN[1240]["VALUE"] = "The repair shop rose to level 8"
+	STRING_EN[1240]["VALUE"] = "Spaceship Workshop Upgraded to Level 8"
 	STRING_EN[1240]["real_idx"] = 1240
 
 STRING_EN["index"][1241] = 1241
 STRING_EN[1241] = {}
 	STRING_EN[1241]["ID"] = 1241
 	STRING_EN[1241]["KEY"] = "REPAIRDEPOT_UP9"
-	STRING_EN[1241]["VALUE"] = "The repair shop rose to level 9"
+	STRING_EN[1241]["VALUE"] = "Spaceship Workshop Upgraded to Level 9"
 	STRING_EN[1241]["real_idx"] = 1241
 
 STRING_EN["index"][1242] = 1242
 STRING_EN[1242] = {}
 	STRING_EN[1242]["ID"] = 1242
 	STRING_EN[1242]["KEY"] = "REPAIRDEPOT_UP10"
-	STRING_EN[1242]["VALUE"] = "The repair shop rose to level 10"
+	STRING_EN[1242]["VALUE"] = "Spaceship Workshop Upgraded to Level 10"
 	STRING_EN[1242]["real_idx"] = 1242
 
 STRING_EN["index"][1243] = 1243
 STRING_EN[1243] = {}
 	STRING_EN[1243]["ID"] = 1243
 	STRING_EN[1243]["KEY"] = "REPAIRDEPOT_UP11"
-	STRING_EN[1243]["VALUE"] = "The repair shop rose to level 11"
+	STRING_EN[1243]["VALUE"] = "Spaceship Workshop Upgraded to Level 11"
 	STRING_EN[1243]["real_idx"] = 1243
 
 STRING_EN["index"][1244] = 1244
 STRING_EN[1244] = {}
 	STRING_EN[1244]["ID"] = 1244
 	STRING_EN[1244]["KEY"] = "REPAIRDEPOT_UP12"
-	STRING_EN[1244]["VALUE"] = "The repair shop rose to level 12"
+	STRING_EN[1244]["VALUE"] = "Spaceship Workshop Upgraded to Level 12"
 	STRING_EN[1244]["real_idx"] = 1244
 
 STRING_EN["index"][1245] = 1245
 STRING_EN[1245] = {}
 	STRING_EN[1245]["ID"] = 1245
 	STRING_EN[1245]["KEY"] = "REPAIRDEPOT_UP13"
-	STRING_EN[1245]["VALUE"] = "The repair shop rose to level 13"
+	STRING_EN[1245]["VALUE"] = "Spaceship Workshop Upgraded to Level 13"
 	STRING_EN[1245]["real_idx"] = 1245
 
 STRING_EN["index"][1246] = 1246
 STRING_EN[1246] = {}
 	STRING_EN[1246]["ID"] = 1246
 	STRING_EN[1246]["KEY"] = "REPAIRDEPOT_UP14"
-	STRING_EN[1246]["VALUE"] = "The repair shop rose to level 14"
+	STRING_EN[1246]["VALUE"] = "Spaceship Workshop Upgraded to Level 14"
 	STRING_EN[1246]["real_idx"] = 1246
 
 STRING_EN["index"][1247] = 1247
 STRING_EN[1247] = {}
 	STRING_EN[1247]["ID"] = 1247
 	STRING_EN[1247]["KEY"] = "REPAIRDEPOT_UP15"
-	STRING_EN[1247]["VALUE"] = "The repair shop rose to level 15"
+	STRING_EN[1247]["VALUE"] = "Spaceship Workshop Upgraded to Level 15"
 	STRING_EN[1247]["real_idx"] = 1247
 
 STRING_EN["index"][1248] = 1248
 STRING_EN[1248] = {}
 	STRING_EN[1248]["ID"] = 1248
 	STRING_EN[1248]["KEY"] = "REPAIRDEPOT_UP16"
-	STRING_EN[1248]["VALUE"] = "The repair shop rose to level 16"
+	STRING_EN[1248]["VALUE"] = "Spaceship Workshop Upgraded to Level 16"
 	STRING_EN[1248]["real_idx"] = 1248
 
 STRING_EN["index"][1249] = 1249
 STRING_EN[1249] = {}
 	STRING_EN[1249]["ID"] = 1249
 	STRING_EN[1249]["KEY"] = "REPAIRDEPOT_UP17"
-	STRING_EN[1249]["VALUE"] = "The repair shop rose to level 17"
+	STRING_EN[1249]["VALUE"] = "Spaceship Workshop Upgraded to Level 17"
 	STRING_EN[1249]["real_idx"] = 1249
 
 STRING_EN["index"][1250] = 1250
 STRING_EN[1250] = {}
 	STRING_EN[1250]["ID"] = 1250
 	STRING_EN[1250]["KEY"] = "REPAIRDEPOT_UP18"
-	STRING_EN[1250]["VALUE"] = "The repair shop rose to level 18"
+	STRING_EN[1250]["VALUE"] = "Spaceship Workshop Upgraded to Level 18"
 	STRING_EN[1250]["real_idx"] = 1250
 
 STRING_EN["index"][1251] = 1251
 STRING_EN[1251] = {}
 	STRING_EN[1251]["ID"] = 1251
 	STRING_EN[1251]["KEY"] = "REPAIRDEPOT_UP19"
-	STRING_EN[1251]["VALUE"] = "The repair shop rose to level 19"
+	STRING_EN[1251]["VALUE"] = "Spaceship Workshop Upgraded to Level 19"
 	STRING_EN[1251]["real_idx"] = 1251
 
 STRING_EN["index"][1252] = 1252
 STRING_EN[1252] = {}
 	STRING_EN[1252]["ID"] = 1252
 	STRING_EN[1252]["KEY"] = "REPAIRDEPOT_UP20"
-	STRING_EN[1252]["VALUE"] = "The repair shop rose to level 20"
+	STRING_EN[1252]["VALUE"] = "Spaceship Workshop Upgraded to Level 20"
 	STRING_EN[1252]["real_idx"] = 1252
 
 STRING_EN["index"][1253] = 1253
 STRING_EN[1253] = {}
 	STRING_EN[1253]["ID"] = 1253
 	STRING_EN[1253]["KEY"] = "REPAIRDEPOT_UP21"
-	STRING_EN[1253]["VALUE"] = "The repair shop rose to level 21"
+	STRING_EN[1253]["VALUE"] = "Spaceship Workshop Upgraded to Level 21"
 	STRING_EN[1253]["real_idx"] = 1253
 
 STRING_EN["index"][1254] = 1254
 STRING_EN[1254] = {}
 	STRING_EN[1254]["ID"] = 1254
 	STRING_EN[1254]["KEY"] = "REPAIRDEPOT_UP22"
-	STRING_EN[1254]["VALUE"] = "The repair shop rose to level 22"
+	STRING_EN[1254]["VALUE"] = "Spaceship Workshop Upgraded to Level 22"
 	STRING_EN[1254]["real_idx"] = 1254
 
 STRING_EN["index"][1255] = 1255
 STRING_EN[1255] = {}
 	STRING_EN[1255]["ID"] = 1255
 	STRING_EN[1255]["KEY"] = "REPAIRDEPOT_UP23"
-	STRING_EN[1255]["VALUE"] = "The repair shop rose to level 23"
+	STRING_EN[1255]["VALUE"] = "Spaceship Workshop Upgraded to Level 23"
 	STRING_EN[1255]["real_idx"] = 1255
 
 STRING_EN["index"][1256] = 1256
 STRING_EN[1256] = {}
 	STRING_EN[1256]["ID"] = 1256
 	STRING_EN[1256]["KEY"] = "REPAIRDEPOT_UP24"
-	STRING_EN[1256]["VALUE"] = "The repair shop rose to level 24"
+	STRING_EN[1256]["VALUE"] = "Spaceship Workshop Upgraded to Level 24"
 	STRING_EN[1256]["real_idx"] = 1256
 
 STRING_EN["index"][1257] = 1257
 STRING_EN[1257] = {}
 	STRING_EN[1257]["ID"] = 1257
 	STRING_EN[1257]["KEY"] = "REPAIRDEPOT_UP25"
-	STRING_EN[1257]["VALUE"] = "The repair shop rose to level 25"
+	STRING_EN[1257]["VALUE"] = "Spaceship Workshop Upgraded to Level 25"
 	STRING_EN[1257]["real_idx"] = 1257
 
 STRING_EN["index"][1258] = 1258
 STRING_EN[1258] = {}
 	STRING_EN[1258]["ID"] = 1258
 	STRING_EN[1258]["KEY"] = "REPAIRDEPOT_UP26"
-	STRING_EN[1258]["VALUE"] = "The repair shop rose to level 26"
+	STRING_EN[1258]["VALUE"] = "Spaceship Workshop Upgraded to Level 26"
 	STRING_EN[1258]["real_idx"] = 1258
 
 STRING_EN["index"][1259] = 1259
 STRING_EN[1259] = {}
 	STRING_EN[1259]["ID"] = 1259
 	STRING_EN[1259]["KEY"] = "REPAIRDEPOT_UP27"
-	STRING_EN[1259]["VALUE"] = "The repair shop rose to level 27"
+	STRING_EN[1259]["VALUE"] = "Spaceship Workshop Upgraded to Level 27"
 	STRING_EN[1259]["real_idx"] = 1259
 
 STRING_EN["index"][1260] = 1260
 STRING_EN[1260] = {}
 	STRING_EN[1260]["ID"] = 1260
 	STRING_EN[1260]["KEY"] = "REPAIRDEPOT_UP28"
-	STRING_EN[1260]["VALUE"] = "The repair shop rose to level 28"
+	STRING_EN[1260]["VALUE"] = "Spaceship Workshop Upgraded to Level 28"
 	STRING_EN[1260]["real_idx"] = 1260
 
 STRING_EN["index"][1261] = 1261
 STRING_EN[1261] = {}
 	STRING_EN[1261]["ID"] = 1261
 	STRING_EN[1261]["KEY"] = "REPAIRDEPOT_UP29"
-	STRING_EN[1261]["VALUE"] = "The repair shop rose to level 29"
+	STRING_EN[1261]["VALUE"] = "Spaceship Workshop Upgraded to Level 29"
 	STRING_EN[1261]["real_idx"] = 1261
 
 STRING_EN["index"][1262] = 1262
 STRING_EN[1262] = {}
 	STRING_EN[1262]["ID"] = 1262
 	STRING_EN[1262]["KEY"] = "REPAIRDEPOT_UP30"
-	STRING_EN[1262]["VALUE"] = "The repair shop rose to level 30"
+	STRING_EN[1262]["VALUE"] = "Spaceship Workshop Upgraded to Level 30"
 	STRING_EN[1262]["real_idx"] = 1262
 
 STRING_EN["index"][1263] = 1263
 STRING_EN[1263] = {}
 	STRING_EN[1263]["ID"] = 1263
 	STRING_EN[1263]["KEY"] = "REPAIRDEPOT_UP31"
-	STRING_EN[1263]["VALUE"] = "The repair shop rose to level 31"
+	STRING_EN[1263]["VALUE"] = "Spaceship Workshop Upgraded to Level 31"
 	STRING_EN[1263]["real_idx"] = 1263
 
 STRING_EN["index"][1264] = 1264
 STRING_EN[1264] = {}
 	STRING_EN[1264]["ID"] = 1264
 	STRING_EN[1264]["KEY"] = "REPAIRDEPOT_UP32"
-	STRING_EN[1264]["VALUE"] = "The repair shop rose to level 32"
+	STRING_EN[1264]["VALUE"] = "Spaceship Workshop Upgraded to Level 32"
 	STRING_EN[1264]["real_idx"] = 1264
 
 STRING_EN["index"][1265] = 1265
 STRING_EN[1265] = {}
 	STRING_EN[1265]["ID"] = 1265
 	STRING_EN[1265]["KEY"] = "REPAIRDEPOT_UP33"
-	STRING_EN[1265]["VALUE"] = "The repair shop rose to level 33"
+	STRING_EN[1265]["VALUE"] = "Spaceship Workshop Upgraded to Level 33"
 	STRING_EN[1265]["real_idx"] = 1265
 
 STRING_EN["index"][1266] = 1266
 STRING_EN[1266] = {}
 	STRING_EN[1266]["ID"] = 1266
 	STRING_EN[1266]["KEY"] = "REPAIRDEPOT_UP34"
-	STRING_EN[1266]["VALUE"] = "The repair shop rose to level 34"
+	STRING_EN[1266]["VALUE"] = "Spaceship Workshop Upgraded to Level 34"
 	STRING_EN[1266]["real_idx"] = 1266
 
 STRING_EN["index"][1267] = 1267
 STRING_EN[1267] = {}
 	STRING_EN[1267]["ID"] = 1267
 	STRING_EN[1267]["KEY"] = "REPAIRDEPOT_UP35"
-	STRING_EN[1267]["VALUE"] = "The repair shop rose to level 35"
+	STRING_EN[1267]["VALUE"] = "Spaceship Workshop Upgraded to Level 35"
 	STRING_EN[1267]["real_idx"] = 1267
 
 STRING_EN["index"][1268] = 1268
 STRING_EN[1268] = {}
 	STRING_EN[1268]["ID"] = 1268
 	STRING_EN[1268]["KEY"] = "REPAIRDEPOT_UP36"
-	STRING_EN[1268]["VALUE"] = "The repair shop rose to level 36"
+	STRING_EN[1268]["VALUE"] = "Spaceship Workshop Upgraded to Level 36"
 	STRING_EN[1268]["real_idx"] = 1268
 
 STRING_EN["index"][1269] = 1269
 STRING_EN[1269] = {}
 	STRING_EN[1269]["ID"] = 1269
 	STRING_EN[1269]["KEY"] = "REPAIRDEPOT_UP37"
-	STRING_EN[1269]["VALUE"] = "The repair shop rose to level 37"
+	STRING_EN[1269]["VALUE"] = "Spaceship Workshop Upgraded to Level 37"
 	STRING_EN[1269]["real_idx"] = 1269
 
 STRING_EN["index"][1270] = 1270
 STRING_EN[1270] = {}
 	STRING_EN[1270]["ID"] = 1270
 	STRING_EN[1270]["KEY"] = "REPAIRDEPOT_UP38"
-	STRING_EN[1270]["VALUE"] = "The repair shop rose to level 38"
+	STRING_EN[1270]["VALUE"] = "Spaceship Workshop Upgraded to Level 38"
 	STRING_EN[1270]["real_idx"] = 1270
 
 STRING_EN["index"][1271] = 1271
 STRING_EN[1271] = {}
 	STRING_EN[1271]["ID"] = 1271
 	STRING_EN[1271]["KEY"] = "REPAIRDEPOT_UP39"
-	STRING_EN[1271]["VALUE"] = "The repair shop rose to level 39"
+	STRING_EN[1271]["VALUE"] = "Spaceship Workshop Upgraded to Level 39"
 	STRING_EN[1271]["real_idx"] = 1271
 
 STRING_EN["index"][1272] = 1272
 STRING_EN[1272] = {}
 	STRING_EN[1272]["ID"] = 1272
 	STRING_EN[1272]["KEY"] = "REPAIRDEPOT_UP40"
-	STRING_EN[1272]["VALUE"] = "The repair shop rose to level 40"
+	STRING_EN[1272]["VALUE"] = "Spaceship Workshop Upgraded to Level 40"
 	STRING_EN[1272]["real_idx"] = 1272
 
 STRING_EN["index"][1273] = 1273
 STRING_EN[1273] = {}
 	STRING_EN[1273]["ID"] = 1273
 	STRING_EN[1273]["KEY"] = "REPAIRDEPOT_UP41"
-	STRING_EN[1273]["VALUE"] = "The repair shop rose to level 41"
+	STRING_EN[1273]["VALUE"] = "Spaceship Workshop Upgraded to Level 41"
 	STRING_EN[1273]["real_idx"] = 1273
 
 STRING_EN["index"][1274] = 1274
 STRING_EN[1274] = {}
 	STRING_EN[1274]["ID"] = 1274
 	STRING_EN[1274]["KEY"] = "REPAIRDEPOT_UP42"
-	STRING_EN[1274]["VALUE"] = "The repair shop rose to level 42"
+	STRING_EN[1274]["VALUE"] = "Spaceship Workshop Upgraded to Level 42"
 	STRING_EN[1274]["real_idx"] = 1274
 
 STRING_EN["index"][1275] = 1275
 STRING_EN[1275] = {}
 	STRING_EN[1275]["ID"] = 1275
 	STRING_EN[1275]["KEY"] = "REPAIRDEPOT_UP43"
-	STRING_EN[1275]["VALUE"] = "The repair shop rose to level 43"
+	STRING_EN[1275]["VALUE"] = "Spaceship Workshop Upgraded to Level 43"
 	STRING_EN[1275]["real_idx"] = 1275
 
 STRING_EN["index"][1276] = 1276
 STRING_EN[1276] = {}
 	STRING_EN[1276]["ID"] = 1276
 	STRING_EN[1276]["KEY"] = "REPAIRDEPOT_UP44"
-	STRING_EN[1276]["VALUE"] = "The repair shop rose to level 44"
+	STRING_EN[1276]["VALUE"] = "Spaceship Workshop Upgraded to Level 44"
 	STRING_EN[1276]["real_idx"] = 1276
 
 STRING_EN["index"][1277] = 1277
 STRING_EN[1277] = {}
 	STRING_EN[1277]["ID"] = 1277
 	STRING_EN[1277]["KEY"] = "REPAIRDEPOT_UP45"
-	STRING_EN[1277]["VALUE"] = "The repair shop rose to level 45"
+	STRING_EN[1277]["VALUE"] = "Spaceship Workshop Upgraded to Level 45"
 	STRING_EN[1277]["real_idx"] = 1277
 
 STRING_EN["index"][1278] = 1278
 STRING_EN[1278] = {}
 	STRING_EN[1278]["ID"] = 1278
 	STRING_EN[1278]["KEY"] = "LAB_UP2"
-	STRING_EN[1278]["VALUE"] = "Tech Lab rose to level 2"
+	STRING_EN[1278]["VALUE"] = "Tech Lab Upgraded to Level 2"
 	STRING_EN[1278]["real_idx"] = 1278
 
 STRING_EN["index"][1279] = 1279
 STRING_EN[1279] = {}
 	STRING_EN[1279]["ID"] = 1279
 	STRING_EN[1279]["KEY"] = "LAB_UP3"
-	STRING_EN[1279]["VALUE"] = "Tech Lab rose to level 3"
+	STRING_EN[1279]["VALUE"] = "Tech Lab Upgraded to Level 3"
 	STRING_EN[1279]["real_idx"] = 1279
 
 STRING_EN["index"][1280] = 1280
 STRING_EN[1280] = {}
 	STRING_EN[1280]["ID"] = 1280
 	STRING_EN[1280]["KEY"] = "LAB_UP4"
-	STRING_EN[1280]["VALUE"] = "Tech Lab rose to level 4"
+	STRING_EN[1280]["VALUE"] = "Tech Lab Upgraded to Level 4"
 	STRING_EN[1280]["real_idx"] = 1280
 
 STRING_EN["index"][1281] = 1281
 STRING_EN[1281] = {}
 	STRING_EN[1281]["ID"] = 1281
 	STRING_EN[1281]["KEY"] = "LAB_UP5"
-	STRING_EN[1281]["VALUE"] = "Tech Lab rose to level 5"
+	STRING_EN[1281]["VALUE"] = "Tech Lab Upgraded to Level 5"
 	STRING_EN[1281]["real_idx"] = 1281
 
 STRING_EN["index"][1282] = 1282
 STRING_EN[1282] = {}
 	STRING_EN[1282]["ID"] = 1282
 	STRING_EN[1282]["KEY"] = "LAB_UP6"
-	STRING_EN[1282]["VALUE"] = "Tech Lab rose to level 6"
+	STRING_EN[1282]["VALUE"] = "Tech Lab Upgraded to Level 6"
 	STRING_EN[1282]["real_idx"] = 1282
 
 STRING_EN["index"][1283] = 1283
 STRING_EN[1283] = {}
 	STRING_EN[1283]["ID"] = 1283
 	STRING_EN[1283]["KEY"] = "LAB_UP7"
-	STRING_EN[1283]["VALUE"] = "Tech Lab rose to level 7"
+	STRING_EN[1283]["VALUE"] = "Tech Lab Upgraded to Level 7"
 	STRING_EN[1283]["real_idx"] = 1283
 
 STRING_EN["index"][1284] = 1284
 STRING_EN[1284] = {}
 	STRING_EN[1284]["ID"] = 1284
 	STRING_EN[1284]["KEY"] = "LAB_UP8"
-	STRING_EN[1284]["VALUE"] = "Tech Lab rose to level 8"
+	STRING_EN[1284]["VALUE"] = "Tech Lab Upgraded to Level 8"
 	STRING_EN[1284]["real_idx"] = 1284
 
 STRING_EN["index"][1285] = 1285
 STRING_EN[1285] = {}
 	STRING_EN[1285]["ID"] = 1285
 	STRING_EN[1285]["KEY"] = "LAB_UP9"
-	STRING_EN[1285]["VALUE"] = "Tech Lab rose to level 9"
+	STRING_EN[1285]["VALUE"] = "Tech Lab Upgraded to Level 9"
 	STRING_EN[1285]["real_idx"] = 1285
 
 STRING_EN["index"][1286] = 1286
 STRING_EN[1286] = {}
 	STRING_EN[1286]["ID"] = 1286
 	STRING_EN[1286]["KEY"] = "LAB_UP10"
-	STRING_EN[1286]["VALUE"] = "Tech Lab rose to level 10"
+	STRING_EN[1286]["VALUE"] = "Tech Lab Upgraded to Level 10"
 	STRING_EN[1286]["real_idx"] = 1286
 
 STRING_EN["index"][1287] = 1287
 STRING_EN[1287] = {}
 	STRING_EN[1287]["ID"] = 1287
 	STRING_EN[1287]["KEY"] = "LAB_UP11"
-	STRING_EN[1287]["VALUE"] = "Tech Lab rose to level 11"
+	STRING_EN[1287]["VALUE"] = "Tech Lab Upgraded to Level 11"
 	STRING_EN[1287]["real_idx"] = 1287
 
 STRING_EN["index"][1288] = 1288
 STRING_EN[1288] = {}
 	STRING_EN[1288]["ID"] = 1288
 	STRING_EN[1288]["KEY"] = "LAB_UP12"
-	STRING_EN[1288]["VALUE"] = "Tech Lab rose to level 12"
+	STRING_EN[1288]["VALUE"] = "Tech Lab Upgraded to Level 12"
 	STRING_EN[1288]["real_idx"] = 1288
 
 STRING_EN["index"][1289] = 1289
 STRING_EN[1289] = {}
 	STRING_EN[1289]["ID"] = 1289
 	STRING_EN[1289]["KEY"] = "LAB_UP13"
-	STRING_EN[1289]["VALUE"] = "Tech Lab rose to level 13"
+	STRING_EN[1289]["VALUE"] = "Tech Lab Upgraded to Level 13"
 	STRING_EN[1289]["real_idx"] = 1289
 
 STRING_EN["index"][1290] = 1290
 STRING_EN[1290] = {}
 	STRING_EN[1290]["ID"] = 1290
 	STRING_EN[1290]["KEY"] = "LAB_UP14"
-	STRING_EN[1290]["VALUE"] = "Tech Lab rose to level 14"
+	STRING_EN[1290]["VALUE"] = "Tech Lab Upgraded to Level 14"
 	STRING_EN[1290]["real_idx"] = 1290
 
 STRING_EN["index"][1291] = 1291
 STRING_EN[1291] = {}
 	STRING_EN[1291]["ID"] = 1291
 	STRING_EN[1291]["KEY"] = "LAB_UP15"
-	STRING_EN[1291]["VALUE"] = "Tech Lab rose to level 15"
+	STRING_EN[1291]["VALUE"] = "Tech Lab Upgraded to Level 15"
 	STRING_EN[1291]["real_idx"] = 1291
 
 STRING_EN["index"][1292] = 1292
 STRING_EN[1292] = {}
 	STRING_EN[1292]["ID"] = 1292
 	STRING_EN[1292]["KEY"] = "LAB_UP16"
-	STRING_EN[1292]["VALUE"] = "Tech Lab rose to level 16"
+	STRING_EN[1292]["VALUE"] = "Tech Lab Upgraded to Level 16"
 	STRING_EN[1292]["real_idx"] = 1292
 
 STRING_EN["index"][1293] = 1293
 STRING_EN[1293] = {}
 	STRING_EN[1293]["ID"] = 1293
 	STRING_EN[1293]["KEY"] = "LAB_UP17"
-	STRING_EN[1293]["VALUE"] = "Tech Lab rose to level 17"
+	STRING_EN[1293]["VALUE"] = "Tech Lab Upgraded to Level 17"
 	STRING_EN[1293]["real_idx"] = 1293
 
 STRING_EN["index"][1294] = 1294
 STRING_EN[1294] = {}
 	STRING_EN[1294]["ID"] = 1294
 	STRING_EN[1294]["KEY"] = "LAB_UP18"
-	STRING_EN[1294]["VALUE"] = "Tech Lab rose to level 18"
+	STRING_EN[1294]["VALUE"] = "Tech Lab Upgraded to Level 18"
 	STRING_EN[1294]["real_idx"] = 1294
 
 STRING_EN["index"][1295] = 1295
 STRING_EN[1295] = {}
 	STRING_EN[1295]["ID"] = 1295
 	STRING_EN[1295]["KEY"] = "LAB_UP19"
-	STRING_EN[1295]["VALUE"] = "Tech Lab rose to level 19"
+	STRING_EN[1295]["VALUE"] = "Tech Lab Upgraded to Level 19"
 	STRING_EN[1295]["real_idx"] = 1295
 
 STRING_EN["index"][1296] = 1296
 STRING_EN[1296] = {}
 	STRING_EN[1296]["ID"] = 1296
 	STRING_EN[1296]["KEY"] = "LAB_UP20"
-	STRING_EN[1296]["VALUE"] = "Tech Lab rose to level 20"
+	STRING_EN[1296]["VALUE"] = "Tech Lab Upgraded to Level 20"
 	STRING_EN[1296]["real_idx"] = 1296
 
 STRING_EN["index"][1297] = 1297
 STRING_EN[1297] = {}
 	STRING_EN[1297]["ID"] = 1297
 	STRING_EN[1297]["KEY"] = "LAB_UP21"
-	STRING_EN[1297]["VALUE"] = "Tech Lab rose to level 21"
+	STRING_EN[1297]["VALUE"] = "Tech Lab Upgraded to Level 21"
 	STRING_EN[1297]["real_idx"] = 1297
 
 STRING_EN["index"][1298] = 1298
 STRING_EN[1298] = {}
 	STRING_EN[1298]["ID"] = 1298
 	STRING_EN[1298]["KEY"] = "LAB_UP22"
-	STRING_EN[1298]["VALUE"] = "Tech Lab rose to level 22"
+	STRING_EN[1298]["VALUE"] = "Tech Lab Upgraded to Level 22"
 	STRING_EN[1298]["real_idx"] = 1298
 
 STRING_EN["index"][1299] = 1299
 STRING_EN[1299] = {}
 	STRING_EN[1299]["ID"] = 1299
 	STRING_EN[1299]["KEY"] = "LAB_UP23"
-	STRING_EN[1299]["VALUE"] = "Tech Lab rose to level 23"
+	STRING_EN[1299]["VALUE"] = "Tech Lab Upgraded to Level 23"
 	STRING_EN[1299]["real_idx"] = 1299
 
 STRING_EN["index"][1300] = 1300
 STRING_EN[1300] = {}
 	STRING_EN[1300]["ID"] = 1300
 	STRING_EN[1300]["KEY"] = "LAB_UP24"
-	STRING_EN[1300]["VALUE"] = "Tech Lab rose to level 24"
+	STRING_EN[1300]["VALUE"] = "Tech Lab Upgraded to Level 24"
 	STRING_EN[1300]["real_idx"] = 1300
 
 STRING_EN["index"][1301] = 1301
 STRING_EN[1301] = {}
 	STRING_EN[1301]["ID"] = 1301
 	STRING_EN[1301]["KEY"] = "LAB_UP25"
-	STRING_EN[1301]["VALUE"] = "Tech Lab rose to level 25"
+	STRING_EN[1301]["VALUE"] = "Tech Lab Upgraded to Level 25"
 	STRING_EN[1301]["real_idx"] = 1301
 
 STRING_EN["index"][1302] = 1302
 STRING_EN[1302] = {}
 	STRING_EN[1302]["ID"] = 1302
 	STRING_EN[1302]["KEY"] = "LAB_UP26"
-	STRING_EN[1302]["VALUE"] = "Tech Lab rose to level 26"
+	STRING_EN[1302]["VALUE"] = "Tech Lab Upgraded to Level 26"
 	STRING_EN[1302]["real_idx"] = 1302
 
 STRING_EN["index"][1303] = 1303
 STRING_EN[1303] = {}
 	STRING_EN[1303]["ID"] = 1303
 	STRING_EN[1303]["KEY"] = "LAB_UP27"
-	STRING_EN[1303]["VALUE"] = "Tech Lab rose to level 27"
+	STRING_EN[1303]["VALUE"] = "Tech Lab Upgraded to Level 27"
 	STRING_EN[1303]["real_idx"] = 1303
 
 STRING_EN["index"][1304] = 1304
 STRING_EN[1304] = {}
 	STRING_EN[1304]["ID"] = 1304
 	STRING_EN[1304]["KEY"] = "LAB_UP28"
-	STRING_EN[1304]["VALUE"] = "Tech Lab rose to level 28"
+	STRING_EN[1304]["VALUE"] = "Tech Lab Upgraded to Level 28"
 	STRING_EN[1304]["real_idx"] = 1304
 
 STRING_EN["index"][1305] = 1305
 STRING_EN[1305] = {}
 	STRING_EN[1305]["ID"] = 1305
 	STRING_EN[1305]["KEY"] = "LAB_UP29"
-	STRING_EN[1305]["VALUE"] = "Tech Lab rose to level 29"
+	STRING_EN[1305]["VALUE"] = "Tech Lab Upgraded to Level 29"
 	STRING_EN[1305]["real_idx"] = 1305
 
 STRING_EN["index"][1306] = 1306
 STRING_EN[1306] = {}
 	STRING_EN[1306]["ID"] = 1306
 	STRING_EN[1306]["KEY"] = "LAB_UP30"
-	STRING_EN[1306]["VALUE"] = "Tech Lab rose to level 30"
+	STRING_EN[1306]["VALUE"] = "Tech Lab Upgraded to Level 30"
 	STRING_EN[1306]["real_idx"] = 1306
 
 STRING_EN["index"][1307] = 1307
 STRING_EN[1307] = {}
 	STRING_EN[1307]["ID"] = 1307
 	STRING_EN[1307]["KEY"] = "LAB_UP31"
-	STRING_EN[1307]["VALUE"] = "Tech Lab rose to level 31"
+	STRING_EN[1307]["VALUE"] = "Tech Lab Upgraded to Level 31"
 	STRING_EN[1307]["real_idx"] = 1307
 
 STRING_EN["index"][1308] = 1308
 STRING_EN[1308] = {}
 	STRING_EN[1308]["ID"] = 1308
 	STRING_EN[1308]["KEY"] = "LAB_UP32"
-	STRING_EN[1308]["VALUE"] = "Tech Lab rose to level 32"
+	STRING_EN[1308]["VALUE"] = "Tech Lab Upgraded to Level 32"
 	STRING_EN[1308]["real_idx"] = 1308
 
 STRING_EN["index"][1309] = 1309
 STRING_EN[1309] = {}
 	STRING_EN[1309]["ID"] = 1309
 	STRING_EN[1309]["KEY"] = "LAB_UP33"
-	STRING_EN[1309]["VALUE"] = "Tech Lab rose to level 33"
+	STRING_EN[1309]["VALUE"] = "Tech Lab Upgraded to Level 33"
 	STRING_EN[1309]["real_idx"] = 1309
 
 STRING_EN["index"][1310] = 1310
 STRING_EN[1310] = {}
 	STRING_EN[1310]["ID"] = 1310
 	STRING_EN[1310]["KEY"] = "LAB_UP34"
-	STRING_EN[1310]["VALUE"] = "Tech Lab rose to level 34"
+	STRING_EN[1310]["VALUE"] = "Tech Lab Upgraded to Level 34"
 	STRING_EN[1310]["real_idx"] = 1310
 
 STRING_EN["index"][1311] = 1311
 STRING_EN[1311] = {}
 	STRING_EN[1311]["ID"] = 1311
 	STRING_EN[1311]["KEY"] = "LAB_UP35"
-	STRING_EN[1311]["VALUE"] = "Tech Lab rose to level 35"
+	STRING_EN[1311]["VALUE"] = "Tech Lab Upgraded to Level 35"
 	STRING_EN[1311]["real_idx"] = 1311
 
 STRING_EN["index"][1312] = 1312
 STRING_EN[1312] = {}
 	STRING_EN[1312]["ID"] = 1312
 	STRING_EN[1312]["KEY"] = "LAB_UP36"
-	STRING_EN[1312]["VALUE"] = "Tech Lab rose to level 36"
+	STRING_EN[1312]["VALUE"] = "Tech Lab Upgraded to Level 36"
 	STRING_EN[1312]["real_idx"] = 1312
 
 STRING_EN["index"][1313] = 1313
 STRING_EN[1313] = {}
 	STRING_EN[1313]["ID"] = 1313
 	STRING_EN[1313]["KEY"] = "LAB_UP37"
-	STRING_EN[1313]["VALUE"] = "Tech Lab rose to level 37"
+	STRING_EN[1313]["VALUE"] = "Tech Lab Upgraded to Level 37"
 	STRING_EN[1313]["real_idx"] = 1313
 
 STRING_EN["index"][1314] = 1314
 STRING_EN[1314] = {}
 	STRING_EN[1314]["ID"] = 1314
 	STRING_EN[1314]["KEY"] = "LAB_UP38"
-	STRING_EN[1314]["VALUE"] = "Tech Lab rose to level 38"
+	STRING_EN[1314]["VALUE"] = "Tech Lab Upgraded to Level 38"
 	STRING_EN[1314]["real_idx"] = 1314
 
 STRING_EN["index"][1315] = 1315
 STRING_EN[1315] = {}
 	STRING_EN[1315]["ID"] = 1315
 	STRING_EN[1315]["KEY"] = "LAB_UP39"
-	STRING_EN[1315]["VALUE"] = "Tech Lab rose to level 39"
+	STRING_EN[1315]["VALUE"] = "Tech Lab Upgraded to Level 39"
 	STRING_EN[1315]["real_idx"] = 1315
 
 STRING_EN["index"][1316] = 1316
 STRING_EN[1316] = {}
 	STRING_EN[1316]["ID"] = 1316
 	STRING_EN[1316]["KEY"] = "LAB_UP40"
-	STRING_EN[1316]["VALUE"] = "Tech Lab rose to level 40"
+	STRING_EN[1316]["VALUE"] = "Tech Lab Upgraded to Level 40"
 	STRING_EN[1316]["real_idx"] = 1316
 
 STRING_EN["index"][1317] = 1317
 STRING_EN[1317] = {}
 	STRING_EN[1317]["ID"] = 1317
 	STRING_EN[1317]["KEY"] = "LAB_UP41"
-	STRING_EN[1317]["VALUE"] = "Tech Lab rose to level 41"
+	STRING_EN[1317]["VALUE"] = "Tech Lab Upgraded to Level 41"
 	STRING_EN[1317]["real_idx"] = 1317
 
 STRING_EN["index"][1318] = 1318
 STRING_EN[1318] = {}
 	STRING_EN[1318]["ID"] = 1318
 	STRING_EN[1318]["KEY"] = "LAB_UP42"
-	STRING_EN[1318]["VALUE"] = "Tech Lab rose to level 42"
+	STRING_EN[1318]["VALUE"] = "Tech Lab Upgraded to Level 42"
 	STRING_EN[1318]["real_idx"] = 1318
 
 STRING_EN["index"][1319] = 1319
 STRING_EN[1319] = {}
 	STRING_EN[1319]["ID"] = 1319
 	STRING_EN[1319]["KEY"] = "LAB_UP43"
-	STRING_EN[1319]["VALUE"] = "Tech Lab rose to level 43"
+	STRING_EN[1319]["VALUE"] = "Tech Lab Upgraded to Level 43"
 	STRING_EN[1319]["real_idx"] = 1319
 
 STRING_EN["index"][1320] = 1320
 STRING_EN[1320] = {}
 	STRING_EN[1320]["ID"] = 1320
 	STRING_EN[1320]["KEY"] = "LAB_UP44"
-	STRING_EN[1320]["VALUE"] = "Tech Lab rose to level 44"
+	STRING_EN[1320]["VALUE"] = "Tech Lab Upgraded to Level 44"
 	STRING_EN[1320]["real_idx"] = 1320
 
 STRING_EN["index"][1321] = 1321
 STRING_EN[1321] = {}
 	STRING_EN[1321]["ID"] = 1321
 	STRING_EN[1321]["KEY"] = "LAB_UP45"
-	STRING_EN[1321]["VALUE"] = "Tech Lab rose to level 45"
+	STRING_EN[1321]["VALUE"] = "Tech Lab Upgraded to Level 45"
 	STRING_EN[1321]["real_idx"] = 1321
 
 STRING_EN["index"][1322] = 1322
 STRING_EN[1322] = {}
 	STRING_EN[1322]["ID"] = 1322
 	STRING_EN[1322]["KEY"] = "ALLOY_UP2"
-	STRING_EN[1322]["VALUE"] = "Smelter rose to level 2"
+	STRING_EN[1322]["VALUE"] = "Smeltery Upgraded to Level 2"
 	STRING_EN[1322]["real_idx"] = 1322
 
 STRING_EN["index"][1323] = 1323
 STRING_EN[1323] = {}
 	STRING_EN[1323]["ID"] = 1323
 	STRING_EN[1323]["KEY"] = "ALLOY_UP3"
-	STRING_EN[1323]["VALUE"] = "Smelter rose to level 3"
+	STRING_EN[1323]["VALUE"] = "Smeltery Upgraded to Level 3"
 	STRING_EN[1323]["real_idx"] = 1323
 
 STRING_EN["index"][1324] = 1324
 STRING_EN[1324] = {}
 	STRING_EN[1324]["ID"] = 1324
 	STRING_EN[1324]["KEY"] = "ALLOY_UP4"
-	STRING_EN[1324]["VALUE"] = "Smelter rose to level 4"
+	STRING_EN[1324]["VALUE"] = "Smeltery Upgraded to Level 4"
 	STRING_EN[1324]["real_idx"] = 1324
 
 STRING_EN["index"][1325] = 1325
 STRING_EN[1325] = {}
 	STRING_EN[1325]["ID"] = 1325
 	STRING_EN[1325]["KEY"] = "ALLOY_UP5"
-	STRING_EN[1325]["VALUE"] = "Smelter rose to level 5"
+	STRING_EN[1325]["VALUE"] = "Smeltery Upgraded to Level 5"
 	STRING_EN[1325]["real_idx"] = 1325
 
 STRING_EN["index"][1326] = 1326
 STRING_EN[1326] = {}
 	STRING_EN[1326]["ID"] = 1326
 	STRING_EN[1326]["KEY"] = "ALLOY_UP6"
-	STRING_EN[1326]["VALUE"] = "Smelter rose to level 6"
+	STRING_EN[1326]["VALUE"] = "Smeltery Upgraded to Level 6"
 	STRING_EN[1326]["real_idx"] = 1326
 
 STRING_EN["index"][1327] = 1327
 STRING_EN[1327] = {}
 	STRING_EN[1327]["ID"] = 1327
 	STRING_EN[1327]["KEY"] = "ALLOY_UP7"
-	STRING_EN[1327]["VALUE"] = "Smelter rose to level 7"
+	STRING_EN[1327]["VALUE"] = "Smeltery Upgraded to Level 7"
 	STRING_EN[1327]["real_idx"] = 1327
 
 STRING_EN["index"][1328] = 1328
 STRING_EN[1328] = {}
 	STRING_EN[1328]["ID"] = 1328
 	STRING_EN[1328]["KEY"] = "ALLOY_UP8"
-	STRING_EN[1328]["VALUE"] = "Smelter rose to level 8"
+	STRING_EN[1328]["VALUE"] = "Smeltery Upgraded to Level 8"
 	STRING_EN[1328]["real_idx"] = 1328
 
 STRING_EN["index"][1329] = 1329
 STRING_EN[1329] = {}
 	STRING_EN[1329]["ID"] = 1329
 	STRING_EN[1329]["KEY"] = "ALLOY_UP9"
-	STRING_EN[1329]["VALUE"] = "Smelter rose to level 9"
+	STRING_EN[1329]["VALUE"] = "Smeltery Upgraded to Level 9"
 	STRING_EN[1329]["real_idx"] = 1329
 
 STRING_EN["index"][1330] = 1330
 STRING_EN[1330] = {}
 	STRING_EN[1330]["ID"] = 1330
 	STRING_EN[1330]["KEY"] = "ALLOY_UP10"
-	STRING_EN[1330]["VALUE"] = "Smelter rose to level 10"
+	STRING_EN[1330]["VALUE"] = "Smeltery Upgraded to Level 10"
 	STRING_EN[1330]["real_idx"] = 1330
 
 STRING_EN["index"][1331] = 1331
 STRING_EN[1331] = {}
 	STRING_EN[1331]["ID"] = 1331
 	STRING_EN[1331]["KEY"] = "ALLOY_UP11"
-	STRING_EN[1331]["VALUE"] = "Smelter rose to level 11"
+	STRING_EN[1331]["VALUE"] = "Smeltery Upgraded to Level 11"
 	STRING_EN[1331]["real_idx"] = 1331
 
 STRING_EN["index"][1332] = 1332
 STRING_EN[1332] = {}
 	STRING_EN[1332]["ID"] = 1332
 	STRING_EN[1332]["KEY"] = "ALLOY_UP12"
-	STRING_EN[1332]["VALUE"] = "Smelter rose to level 12"
+	STRING_EN[1332]["VALUE"] = "Smeltery Upgraded to Level 12"
 	STRING_EN[1332]["real_idx"] = 1332
 
 STRING_EN["index"][1333] = 1333
 STRING_EN[1333] = {}
 	STRING_EN[1333]["ID"] = 1333
 	STRING_EN[1333]["KEY"] = "ALLOY_UP13"
-	STRING_EN[1333]["VALUE"] = "Smelter rose to level 13"
+	STRING_EN[1333]["VALUE"] = "Smeltery Upgraded to Level 13"
 	STRING_EN[1333]["real_idx"] = 1333
 
 STRING_EN["index"][1334] = 1334
 STRING_EN[1334] = {}
 	STRING_EN[1334]["ID"] = 1334
 	STRING_EN[1334]["KEY"] = "ALLOY_UP14"
-	STRING_EN[1334]["VALUE"] = "Smelter rose to level 14"
+	STRING_EN[1334]["VALUE"] = "Smeltery Upgraded to Level 14"
 	STRING_EN[1334]["real_idx"] = 1334
 
 STRING_EN["index"][1335] = 1335
 STRING_EN[1335] = {}
 	STRING_EN[1335]["ID"] = 1335
 	STRING_EN[1335]["KEY"] = "ALLOY_UP15"
-	STRING_EN[1335]["VALUE"] = "Smelter rose to level 15"
+	STRING_EN[1335]["VALUE"] = "Smeltery Upgraded to Level 15"
 	STRING_EN[1335]["real_idx"] = 1335
 
 STRING_EN["index"][1336] = 1336
 STRING_EN[1336] = {}
 	STRING_EN[1336]["ID"] = 1336
 	STRING_EN[1336]["KEY"] = "ALLOY_UP16"
-	STRING_EN[1336]["VALUE"] = "Smelter rose to level 16"
+	STRING_EN[1336]["VALUE"] = "Smeltery Upgraded to Level 16"
 	STRING_EN[1336]["real_idx"] = 1336
 
 STRING_EN["index"][1337] = 1337
 STRING_EN[1337] = {}
 	STRING_EN[1337]["ID"] = 1337
 	STRING_EN[1337]["KEY"] = "ALLOY_UP17"
-	STRING_EN[1337]["VALUE"] = "Smelter rose to level 17"
+	STRING_EN[1337]["VALUE"] = "Smeltery Upgraded to Level 17"
 	STRING_EN[1337]["real_idx"] = 1337
 
 STRING_EN["index"][1338] = 1338
 STRING_EN[1338] = {}
 	STRING_EN[1338]["ID"] = 1338
 	STRING_EN[1338]["KEY"] = "ALLOY_UP18"
-	STRING_EN[1338]["VALUE"] = "Smelter rose to level 18"
+	STRING_EN[1338]["VALUE"] = "Smeltery Upgraded to Level 18"
 	STRING_EN[1338]["real_idx"] = 1338
 
 STRING_EN["index"][1339] = 1339
 STRING_EN[1339] = {}
 	STRING_EN[1339]["ID"] = 1339
 	STRING_EN[1339]["KEY"] = "ALLOY_UP19"
-	STRING_EN[1339]["VALUE"] = "Smelter rose to level 19"
+	STRING_EN[1339]["VALUE"] = "Smeltery Upgraded to Level 19"
 	STRING_EN[1339]["real_idx"] = 1339
 
 STRING_EN["index"][1340] = 1340
 STRING_EN[1340] = {}
 	STRING_EN[1340]["ID"] = 1340
 	STRING_EN[1340]["KEY"] = "ALLOY_UP20"
-	STRING_EN[1340]["VALUE"] = "Smelter rose to level 20"
+	STRING_EN[1340]["VALUE"] = "Smeltery Upgraded to Level 20"
 	STRING_EN[1340]["real_idx"] = 1340
 
 STRING_EN["index"][1341] = 1341
 STRING_EN[1341] = {}
 	STRING_EN[1341]["ID"] = 1341
 	STRING_EN[1341]["KEY"] = "ALLOY_UP21"
-	STRING_EN[1341]["VALUE"] = "Smelter rose to level 21"
+	STRING_EN[1341]["VALUE"] = "Smeltery Upgraded to Level 21"
 	STRING_EN[1341]["real_idx"] = 1341
 
 STRING_EN["index"][1342] = 1342
 STRING_EN[1342] = {}
 	STRING_EN[1342]["ID"] = 1342
 	STRING_EN[1342]["KEY"] = "ALLOY_UP22"
-	STRING_EN[1342]["VALUE"] = "Smelter rose to level 22"
+	STRING_EN[1342]["VALUE"] = "Smeltery Upgraded to Level 22"
 	STRING_EN[1342]["real_idx"] = 1342
 
 STRING_EN["index"][1343] = 1343
 STRING_EN[1343] = {}
 	STRING_EN[1343]["ID"] = 1343
 	STRING_EN[1343]["KEY"] = "ALLOY_UP23"
-	STRING_EN[1343]["VALUE"] = "Smelter rose to level 23"
+	STRING_EN[1343]["VALUE"] = "Smeltery Upgraded to Level 23"
 	STRING_EN[1343]["real_idx"] = 1343
 
 STRING_EN["index"][1344] = 1344
 STRING_EN[1344] = {}
 	STRING_EN[1344]["ID"] = 1344
 	STRING_EN[1344]["KEY"] = "ALLOY_UP24"
-	STRING_EN[1344]["VALUE"] = "Smelter rose to level 24"
+	STRING_EN[1344]["VALUE"] = "Smeltery Upgraded to Level 24"
 	STRING_EN[1344]["real_idx"] = 1344
 
 STRING_EN["index"][1345] = 1345
 STRING_EN[1345] = {}
 	STRING_EN[1345]["ID"] = 1345
 	STRING_EN[1345]["KEY"] = "ALLOY_UP25"
-	STRING_EN[1345]["VALUE"] = "Smelter rose to level 25"
+	STRING_EN[1345]["VALUE"] = "Smeltery Upgraded to Level 25"
 	STRING_EN[1345]["real_idx"] = 1345
 
 STRING_EN["index"][1346] = 1346
 STRING_EN[1346] = {}
 	STRING_EN[1346]["ID"] = 1346
 	STRING_EN[1346]["KEY"] = "ALLOY_UP26"
-	STRING_EN[1346]["VALUE"] = "Smelter rose to level 26"
+	STRING_EN[1346]["VALUE"] = "Smeltery Upgraded to Level 26"
 	STRING_EN[1346]["real_idx"] = 1346
 
 STRING_EN["index"][1347] = 1347
 STRING_EN[1347] = {}
 	STRING_EN[1347]["ID"] = 1347
 	STRING_EN[1347]["KEY"] = "ALLOY_UP27"
-	STRING_EN[1347]["VALUE"] = "Smelter rose to level 27"
+	STRING_EN[1347]["VALUE"] = "Smeltery Upgraded to Level 27"
 	STRING_EN[1347]["real_idx"] = 1347
 
 STRING_EN["index"][1348] = 1348
 STRING_EN[1348] = {}
 	STRING_EN[1348]["ID"] = 1348
 	STRING_EN[1348]["KEY"] = "ALLOY_UP28"
-	STRING_EN[1348]["VALUE"] = "Smelter rose to level 28"
+	STRING_EN[1348]["VALUE"] = "Smeltery Upgraded to Level 28"
 	STRING_EN[1348]["real_idx"] = 1348
 
 STRING_EN["index"][1349] = 1349
 STRING_EN[1349] = {}
 	STRING_EN[1349]["ID"] = 1349
 	STRING_EN[1349]["KEY"] = "ALLOY_UP29"
-	STRING_EN[1349]["VALUE"] = "Smelter rose to level 29"
+	STRING_EN[1349]["VALUE"] = "Smeltery Upgraded to Level 29"
 	STRING_EN[1349]["real_idx"] = 1349
 
 STRING_EN["index"][1350] = 1350
 STRING_EN[1350] = {}
 	STRING_EN[1350]["ID"] = 1350
 	STRING_EN[1350]["KEY"] = "ALLOY_UP30"
-	STRING_EN[1350]["VALUE"] = "Smelter rose to level 30"
+	STRING_EN[1350]["VALUE"] = "Smeltery Upgraded to Level 30"
 	STRING_EN[1350]["real_idx"] = 1350
 
 STRING_EN["index"][1351] = 1351
 STRING_EN[1351] = {}
 	STRING_EN[1351]["ID"] = 1351
 	STRING_EN[1351]["KEY"] = "ALLOY_UP31"
-	STRING_EN[1351]["VALUE"] = "Smelter rose to level 31"
+	STRING_EN[1351]["VALUE"] = "Smeltery Upgraded to Level 31"
 	STRING_EN[1351]["real_idx"] = 1351
 
 STRING_EN["index"][1352] = 1352
 STRING_EN[1352] = {}
 	STRING_EN[1352]["ID"] = 1352
 	STRING_EN[1352]["KEY"] = "ALLOY_UP32"
-	STRING_EN[1352]["VALUE"] = "Smelter rose to level 32"
+	STRING_EN[1352]["VALUE"] = "Smeltery Upgraded to Level 32"
 	STRING_EN[1352]["real_idx"] = 1352
 
 STRING_EN["index"][1353] = 1353
 STRING_EN[1353] = {}
 	STRING_EN[1353]["ID"] = 1353
 	STRING_EN[1353]["KEY"] = "ALLOY_UP33"
-	STRING_EN[1353]["VALUE"] = "Smelter rose to level 33"
+	STRING_EN[1353]["VALUE"] = "Smeltery Upgraded to Level 33"
 	STRING_EN[1353]["real_idx"] = 1353
 
 STRING_EN["index"][1354] = 1354
 STRING_EN[1354] = {}
 	STRING_EN[1354]["ID"] = 1354
 	STRING_EN[1354]["KEY"] = "ALLOY_UP34"
-	STRING_EN[1354]["VALUE"] = "Smelter rose to level 34"
+	STRING_EN[1354]["VALUE"] = "Smeltery Upgraded to Level 34"
 	STRING_EN[1354]["real_idx"] = 1354
 
 STRING_EN["index"][1355] = 1355
 STRING_EN[1355] = {}
 	STRING_EN[1355]["ID"] = 1355
 	STRING_EN[1355]["KEY"] = "ALLOY_UP35"
-	STRING_EN[1355]["VALUE"] = "Smelter rose to level 35"
+	STRING_EN[1355]["VALUE"] = "Smeltery Upgraded to Level 35"
 	STRING_EN[1355]["real_idx"] = 1355
 
 STRING_EN["index"][1356] = 1356
 STRING_EN[1356] = {}
 	STRING_EN[1356]["ID"] = 1356
 	STRING_EN[1356]["KEY"] = "ALLOY_UP36"
-	STRING_EN[1356]["VALUE"] = "Smelter rose to level 36"
+	STRING_EN[1356]["VALUE"] = "Smeltery Upgraded to Level 36"
 	STRING_EN[1356]["real_idx"] = 1356
 
 STRING_EN["index"][1357] = 1357
 STRING_EN[1357] = {}
 	STRING_EN[1357]["ID"] = 1357
 	STRING_EN[1357]["KEY"] = "ALLOY_UP37"
-	STRING_EN[1357]["VALUE"] = "Smelter rose to level 37"
+	STRING_EN[1357]["VALUE"] = "Smeltery Upgraded to Level 37"
 	STRING_EN[1357]["real_idx"] = 1357
 
 STRING_EN["index"][1358] = 1358
 STRING_EN[1358] = {}
 	STRING_EN[1358]["ID"] = 1358
 	STRING_EN[1358]["KEY"] = "ALLOY_UP38"
-	STRING_EN[1358]["VALUE"] = "Smelter rose to level 38"
+	STRING_EN[1358]["VALUE"] = "Smeltery Upgraded to Level 38"
 	STRING_EN[1358]["real_idx"] = 1358
 
 STRING_EN["index"][1359] = 1359
 STRING_EN[1359] = {}
 	STRING_EN[1359]["ID"] = 1359
 	STRING_EN[1359]["KEY"] = "ALLOY_UP39"
-	STRING_EN[1359]["VALUE"] = "Smelter rose to level 39"
+	STRING_EN[1359]["VALUE"] = "Smeltery Upgraded to Level 39"
 	STRING_EN[1359]["real_idx"] = 1359
 
 STRING_EN["index"][1360] = 1360
 STRING_EN[1360] = {}
 	STRING_EN[1360]["ID"] = 1360
 	STRING_EN[1360]["KEY"] = "ALLOY_UP40"
-	STRING_EN[1360]["VALUE"] = "Smelter rose to level 40"
+	STRING_EN[1360]["VALUE"] = "Smeltery Upgraded to Level 40"
 	STRING_EN[1360]["real_idx"] = 1360
 
 STRING_EN["index"][1361] = 1361
 STRING_EN[1361] = {}
 	STRING_EN[1361]["ID"] = 1361
 	STRING_EN[1361]["KEY"] = "ALLOY_UP41"
-	STRING_EN[1361]["VALUE"] = "Smelter rose to level 41"
+	STRING_EN[1361]["VALUE"] = "Smeltery Upgraded to Level 41"
 	STRING_EN[1361]["real_idx"] = 1361
 
 STRING_EN["index"][1362] = 1362
 STRING_EN[1362] = {}
 	STRING_EN[1362]["ID"] = 1362
 	STRING_EN[1362]["KEY"] = "ALLOY_UP42"
-	STRING_EN[1362]["VALUE"] = "Smelter rose to level 42"
+	STRING_EN[1362]["VALUE"] = "Smeltery Upgraded to Level 42"
 	STRING_EN[1362]["real_idx"] = 1362
 
 STRING_EN["index"][1363] = 1363
 STRING_EN[1363] = {}
 	STRING_EN[1363]["ID"] = 1363
 	STRING_EN[1363]["KEY"] = "ALLOY_UP43"
-	STRING_EN[1363]["VALUE"] = "Smelter rose to level 43"
+	STRING_EN[1363]["VALUE"] = "Smeltery Upgraded to Level 43"
 	STRING_EN[1363]["real_idx"] = 1363
 
 STRING_EN["index"][1364] = 1364
 STRING_EN[1364] = {}
 	STRING_EN[1364]["ID"] = 1364
 	STRING_EN[1364]["KEY"] = "ALLOY_UP44"
-	STRING_EN[1364]["VALUE"] = "Smelter rose to level 44"
+	STRING_EN[1364]["VALUE"] = "Smeltery Upgraded to Level 44"
 	STRING_EN[1364]["real_idx"] = 1364
 
 STRING_EN["index"][1365] = 1365
 STRING_EN[1365] = {}
 	STRING_EN[1365]["ID"] = 1365
 	STRING_EN[1365]["KEY"] = "ALLOY_UP45"
-	STRING_EN[1365]["VALUE"] = "Smelter rose to level 45"
+	STRING_EN[1365]["VALUE"] = "Smeltery Upgraded to Level 45"
 	STRING_EN[1365]["real_idx"] = 1365
 
 STRING_EN["index"][1366] = 1366
 STRING_EN[1366] = {}
 	STRING_EN[1366]["ID"] = 1366
 	STRING_EN[1366]["KEY"] = "CRYSTAL_UP2"
-	STRING_EN[1366]["VALUE"] = "Crystal mine rises to level 2"
+	STRING_EN[1366]["VALUE"] = "Crystal Mine Upgraded to Level 2"
 	STRING_EN[1366]["real_idx"] = 1366
 
 STRING_EN["index"][1367] = 1367
 STRING_EN[1367] = {}
 	STRING_EN[1367]["ID"] = 1367
 	STRING_EN[1367]["KEY"] = "CRYSTAL_UP3"
-	STRING_EN[1367]["VALUE"] = "Crystal mine rises to level 3"
+	STRING_EN[1367]["VALUE"] = "Crystal Mine Upgraded to Level 3"
 	STRING_EN[1367]["real_idx"] = 1367
 
 STRING_EN["index"][1368] = 1368
 STRING_EN[1368] = {}
 	STRING_EN[1368]["ID"] = 1368
 	STRING_EN[1368]["KEY"] = "CRYSTAL_UP4"
-	STRING_EN[1368]["VALUE"] = "Crystal mine rises to level 4"
+	STRING_EN[1368]["VALUE"] = "Crystal Mine Upgraded to Level 4"
 	STRING_EN[1368]["real_idx"] = 1368
 
 STRING_EN["index"][1369] = 1369
 STRING_EN[1369] = {}
 	STRING_EN[1369]["ID"] = 1369
 	STRING_EN[1369]["KEY"] = "CRYSTAL_UP5"
-	STRING_EN[1369]["VALUE"] = "Crystal mine rises to level 5"
+	STRING_EN[1369]["VALUE"] = "Crystal Mine Upgraded to Level 5"
 	STRING_EN[1369]["real_idx"] = 1369
 
 STRING_EN["index"][1370] = 1370
 STRING_EN[1370] = {}
 	STRING_EN[1370]["ID"] = 1370
 	STRING_EN[1370]["KEY"] = "CRYSTAL_UP6"
-	STRING_EN[1370]["VALUE"] = "Crystal mine rises to level 6"
+	STRING_EN[1370]["VALUE"] = "Crystal Mine Upgraded to Level 6"
 	STRING_EN[1370]["real_idx"] = 1370
 
 STRING_EN["index"][1371] = 1371
 STRING_EN[1371] = {}
 	STRING_EN[1371]["ID"] = 1371
 	STRING_EN[1371]["KEY"] = "CRYSTAL_UP7"
-	STRING_EN[1371]["VALUE"] = "Crystal mine rises to level 7"
+	STRING_EN[1371]["VALUE"] = "Crystal Mine Upgraded to Level 7"
 	STRING_EN[1371]["real_idx"] = 1371
 
 STRING_EN["index"][1372] = 1372
 STRING_EN[1372] = {}
 	STRING_EN[1372]["ID"] = 1372
 	STRING_EN[1372]["KEY"] = "CRYSTAL_UP8"
-	STRING_EN[1372]["VALUE"] = "Crystal mine rises to level 8"
+	STRING_EN[1372]["VALUE"] = "Crystal Mine Upgraded to Level 8"
 	STRING_EN[1372]["real_idx"] = 1372
 
 STRING_EN["index"][1373] = 1373
 STRING_EN[1373] = {}
 	STRING_EN[1373]["ID"] = 1373
 	STRING_EN[1373]["KEY"] = "CRYSTAL_UP9"
-	STRING_EN[1373]["VALUE"] = "Crystal mine rises to level 9"
+	STRING_EN[1373]["VALUE"] = "Crystal Mine Upgraded to Level 9"
 	STRING_EN[1373]["real_idx"] = 1373
 
 STRING_EN["index"][1374] = 1374
 STRING_EN[1374] = {}
 	STRING_EN[1374]["ID"] = 1374
 	STRING_EN[1374]["KEY"] = "CRYSTAL_UP10"
-	STRING_EN[1374]["VALUE"] = "Crystal mine rises to level 10"
+	STRING_EN[1374]["VALUE"] = "Crystal Mine Upgraded to Level 10"
 	STRING_EN[1374]["real_idx"] = 1374
 
 STRING_EN["index"][1375] = 1375
 STRING_EN[1375] = {}
 	STRING_EN[1375]["ID"] = 1375
 	STRING_EN[1375]["KEY"] = "CRYSTAL_UP11"
-	STRING_EN[1375]["VALUE"] = "Crystal mine rises to level 11"
+	STRING_EN[1375]["VALUE"] = "Crystal Mine Upgraded to Level 11"
 	STRING_EN[1375]["real_idx"] = 1375
 
 STRING_EN["index"][1376] = 1376
 STRING_EN[1376] = {}
 	STRING_EN[1376]["ID"] = 1376
 	STRING_EN[1376]["KEY"] = "CRYSTAL_UP12"
-	STRING_EN[1376]["VALUE"] = "Crystal mine rises to level 12"
+	STRING_EN[1376]["VALUE"] = "Crystal Mine Upgraded to Level 12"
 	STRING_EN[1376]["real_idx"] = 1376
 
 STRING_EN["index"][1377] = 1377
 STRING_EN[1377] = {}
 	STRING_EN[1377]["ID"] = 1377
 	STRING_EN[1377]["KEY"] = "CRYSTAL_UP13"
-	STRING_EN[1377]["VALUE"] = "Crystal mine rises to level 13"
+	STRING_EN[1377]["VALUE"] = "Crystal Mine Upgraded to Level 13"
 	STRING_EN[1377]["real_idx"] = 1377
 
 STRING_EN["index"][1378] = 1378
 STRING_EN[1378] = {}
 	STRING_EN[1378]["ID"] = 1378
 	STRING_EN[1378]["KEY"] = "CRYSTAL_UP14"
-	STRING_EN[1378]["VALUE"] = "Crystal mine rises to level 14"
+	STRING_EN[1378]["VALUE"] = "Crystal Mine Upgraded to Level 14"
 	STRING_EN[1378]["real_idx"] = 1378
 
 STRING_EN["index"][1379] = 1379
 STRING_EN[1379] = {}
 	STRING_EN[1379]["ID"] = 1379
 	STRING_EN[1379]["KEY"] = "CRYSTAL_UP15"
-	STRING_EN[1379]["VALUE"] = "Crystal mine rises to level 15"
+	STRING_EN[1379]["VALUE"] = "Crystal Mine Upgraded to Level 15"
 	STRING_EN[1379]["real_idx"] = 1379
 
 STRING_EN["index"][1380] = 1380
 STRING_EN[1380] = {}
 	STRING_EN[1380]["ID"] = 1380
 	STRING_EN[1380]["KEY"] = "CRYSTAL_UP16"
-	STRING_EN[1380]["VALUE"] = "Crystal mine rises to level 16"
+	STRING_EN[1380]["VALUE"] = "Crystal Mine Upgraded to Level 16"
 	STRING_EN[1380]["real_idx"] = 1380
 
 STRING_EN["index"][1381] = 1381
 STRING_EN[1381] = {}
 	STRING_EN[1381]["ID"] = 1381
 	STRING_EN[1381]["KEY"] = "CRYSTAL_UP17"
-	STRING_EN[1381]["VALUE"] = "Crystal mine rises to level 17"
+	STRING_EN[1381]["VALUE"] = "Crystal Mine Upgraded to Level 17"
 	STRING_EN[1381]["real_idx"] = 1381
 
 STRING_EN["index"][1382] = 1382
 STRING_EN[1382] = {}
 	STRING_EN[1382]["ID"] = 1382
 	STRING_EN[1382]["KEY"] = "CRYSTAL_UP18"
-	STRING_EN[1382]["VALUE"] = "Crystal mine rises to level 18"
+	STRING_EN[1382]["VALUE"] = "Crystal Mine Upgraded to Level 18"
 	STRING_EN[1382]["real_idx"] = 1382
 
 STRING_EN["index"][1383] = 1383
 STRING_EN[1383] = {}
 	STRING_EN[1383]["ID"] = 1383
 	STRING_EN[1383]["KEY"] = "CRYSTAL_UP19"
-	STRING_EN[1383]["VALUE"] = "Crystal mine rises to level 19"
+	STRING_EN[1383]["VALUE"] = "Crystal Mine Upgraded to Level 19"
 	STRING_EN[1383]["real_idx"] = 1383
 
 STRING_EN["index"][1384] = 1384
 STRING_EN[1384] = {}
 	STRING_EN[1384]["ID"] = 1384
 	STRING_EN[1384]["KEY"] = "CRYSTAL_UP20"
-	STRING_EN[1384]["VALUE"] = "Crystal mine rises to level 20"
+	STRING_EN[1384]["VALUE"] = "Crystal Mine Upgraded to Level 20"
 	STRING_EN[1384]["real_idx"] = 1384
 
 STRING_EN["index"][1385] = 1385
 STRING_EN[1385] = {}
 	STRING_EN[1385]["ID"] = 1385
 	STRING_EN[1385]["KEY"] = "CRYSTAL_UP21"
-	STRING_EN[1385]["VALUE"] = "Crystal mine rises to level 21"
+	STRING_EN[1385]["VALUE"] = "Crystal Mine Upgraded to Level 21"
 	STRING_EN[1385]["real_idx"] = 1385
 
 STRING_EN["index"][1386] = 1386
 STRING_EN[1386] = {}
 	STRING_EN[1386]["ID"] = 1386
 	STRING_EN[1386]["KEY"] = "CRYSTAL_UP22"
-	STRING_EN[1386]["VALUE"] = "Crystal mine rises to level 22"
+	STRING_EN[1386]["VALUE"] = "Crystal Mine Upgraded to Level 22"
 	STRING_EN[1386]["real_idx"] = 1386
 
 STRING_EN["index"][1387] = 1387
 STRING_EN[1387] = {}
 	STRING_EN[1387]["ID"] = 1387
 	STRING_EN[1387]["KEY"] = "CRYSTAL_UP23"
-	STRING_EN[1387]["VALUE"] = "Crystal mine rises to level 23"
+	STRING_EN[1387]["VALUE"] = "Crystal Mine Upgraded to Level 23"
 	STRING_EN[1387]["real_idx"] = 1387
 
 STRING_EN["index"][1388] = 1388
 STRING_EN[1388] = {}
 	STRING_EN[1388]["ID"] = 1388
 	STRING_EN[1388]["KEY"] = "CRYSTAL_UP24"
-	STRING_EN[1388]["VALUE"] = "Crystal mine rises to level 24"
+	STRING_EN[1388]["VALUE"] = "Crystal Mine Upgraded to Level 24"
 	STRING_EN[1388]["real_idx"] = 1388
 
 STRING_EN["index"][1389] = 1389
 STRING_EN[1389] = {}
 	STRING_EN[1389]["ID"] = 1389
 	STRING_EN[1389]["KEY"] = "CRYSTAL_UP25"
-	STRING_EN[1389]["VALUE"] = "Crystal mine rises to level 25"
+	STRING_EN[1389]["VALUE"] = "Crystal Mine Upgraded to Level 25"
 	STRING_EN[1389]["real_idx"] = 1389
 
 STRING_EN["index"][1390] = 1390
 STRING_EN[1390] = {}
 	STRING_EN[1390]["ID"] = 1390
 	STRING_EN[1390]["KEY"] = "CRYSTAL_UP26"
-	STRING_EN[1390]["VALUE"] = "Crystal mine rises to level 26"
+	STRING_EN[1390]["VALUE"] = "Crystal Mine Upgraded to Level 26"
 	STRING_EN[1390]["real_idx"] = 1390
 
 STRING_EN["index"][1391] = 1391
 STRING_EN[1391] = {}
 	STRING_EN[1391]["ID"] = 1391
 	STRING_EN[1391]["KEY"] = "CRYSTAL_UP27"
-	STRING_EN[1391]["VALUE"] = "Crystal mine rises to level 27"
+	STRING_EN[1391]["VALUE"] = "Crystal Mine Upgraded to Level 27"
 	STRING_EN[1391]["real_idx"] = 1391
 
 STRING_EN["index"][1392] = 1392
 STRING_EN[1392] = {}
 	STRING_EN[1392]["ID"] = 1392
 	STRING_EN[1392]["KEY"] = "CRYSTAL_UP28"
-	STRING_EN[1392]["VALUE"] = "Crystal mine rises to level 28"
+	STRING_EN[1392]["VALUE"] = "Crystal Mine Upgraded to Level 28"
 	STRING_EN[1392]["real_idx"] = 1392
 
 STRING_EN["index"][1393] = 1393
 STRING_EN[1393] = {}
 	STRING_EN[1393]["ID"] = 1393
 	STRING_EN[1393]["KEY"] = "CRYSTAL_UP29"
-	STRING_EN[1393]["VALUE"] = "Crystal mine rises to level 29"
+	STRING_EN[1393]["VALUE"] = "Crystal Mine Upgraded to Level 29"
 	STRING_EN[1393]["real_idx"] = 1393
 
 STRING_EN["index"][1394] = 1394
 STRING_EN[1394] = {}
 	STRING_EN[1394]["ID"] = 1394
 	STRING_EN[1394]["KEY"] = "CRYSTAL_UP30"
-	STRING_EN[1394]["VALUE"] = "Crystal mine rises to level 30"
+	STRING_EN[1394]["VALUE"] = "Crystal Mine Upgraded to Level 30"
 	STRING_EN[1394]["real_idx"] = 1394
 
 STRING_EN["index"][1395] = 1395
 STRING_EN[1395] = {}
 	STRING_EN[1395]["ID"] = 1395
 	STRING_EN[1395]["KEY"] = "CRYSTAL_UP31"
-	STRING_EN[1395]["VALUE"] = "Crystal mine rises to level 31"
+	STRING_EN[1395]["VALUE"] = "Crystal Mine Upgraded to Level 31"
 	STRING_EN[1395]["real_idx"] = 1395
 
 STRING_EN["index"][1396] = 1396
 STRING_EN[1396] = {}
 	STRING_EN[1396]["ID"] = 1396
 	STRING_EN[1396]["KEY"] = "CRYSTAL_UP32"
-	STRING_EN[1396]["VALUE"] = "Crystal mine rises to level 32"
+	STRING_EN[1396]["VALUE"] = "Crystal Mine Upgraded to Level 32"
 	STRING_EN[1396]["real_idx"] = 1396
 
 STRING_EN["index"][1397] = 1397
 STRING_EN[1397] = {}
 	STRING_EN[1397]["ID"] = 1397
 	STRING_EN[1397]["KEY"] = "CRYSTAL_UP33"
-	STRING_EN[1397]["VALUE"] = "Crystal mine rises to level 33"
+	STRING_EN[1397]["VALUE"] = "Crystal Mine Upgraded to Level 33"
 	STRING_EN[1397]["real_idx"] = 1397
 
 STRING_EN["index"][1398] = 1398
 STRING_EN[1398] = {}
 	STRING_EN[1398]["ID"] = 1398
 	STRING_EN[1398]["KEY"] = "CRYSTAL_UP34"
-	STRING_EN[1398]["VALUE"] = "Crystal mine rises to level 34"
+	STRING_EN[1398]["VALUE"] = "Crystal Mine Upgraded to Level 34"
 	STRING_EN[1398]["real_idx"] = 1398
 
 STRING_EN["index"][1399] = 1399
 STRING_EN[1399] = {}
 	STRING_EN[1399]["ID"] = 1399
 	STRING_EN[1399]["KEY"] = "CRYSTAL_UP35"
-	STRING_EN[1399]["VALUE"] = "Crystal mine rises to level 35"
+	STRING_EN[1399]["VALUE"] = "Crystal Mine Upgraded to Level 35"
 	STRING_EN[1399]["real_idx"] = 1399
 
 STRING_EN["index"][1400] = 1400
 STRING_EN[1400] = {}
 	STRING_EN[1400]["ID"] = 1400
 	STRING_EN[1400]["KEY"] = "CRYSTAL_UP36"
-	STRING_EN[1400]["VALUE"] = "Crystal mine rises to level 36"
+	STRING_EN[1400]["VALUE"] = "Crystal Mine Upgraded to Level 36"
 	STRING_EN[1400]["real_idx"] = 1400
 
 STRING_EN["index"][1401] = 1401
 STRING_EN[1401] = {}
 	STRING_EN[1401]["ID"] = 1401
 	STRING_EN[1401]["KEY"] = "CRYSTAL_UP37"
-	STRING_EN[1401]["VALUE"] = "Crystal mine rises to level 37"
+	STRING_EN[1401]["VALUE"] = "Crystal Mine Upgraded to Level 37"
 	STRING_EN[1401]["real_idx"] = 1401
 
 STRING_EN["index"][1402] = 1402
 STRING_EN[1402] = {}
 	STRING_EN[1402]["ID"] = 1402
 	STRING_EN[1402]["KEY"] = "CRYSTAL_UP38"
-	STRING_EN[1402]["VALUE"] = "Crystal mine rises to level 38"
+	STRING_EN[1402]["VALUE"] = "Crystal Mine Upgraded to Level 38"
 	STRING_EN[1402]["real_idx"] = 1402
 
 STRING_EN["index"][1403] = 1403
 STRING_EN[1403] = {}
 	STRING_EN[1403]["ID"] = 1403
 	STRING_EN[1403]["KEY"] = "CRYSTAL_UP39"
-	STRING_EN[1403]["VALUE"] = "Crystal mine rises to level 39"
+	STRING_EN[1403]["VALUE"] = "Crystal Mine Upgraded to Level 39"
 	STRING_EN[1403]["real_idx"] = 1403
 
 STRING_EN["index"][1404] = 1404
 STRING_EN[1404] = {}
 	STRING_EN[1404]["ID"] = 1404
 	STRING_EN[1404]["KEY"] = "CRYSTAL_UP40"
-	STRING_EN[1404]["VALUE"] = "Crystal mine rises to level 40"
+	STRING_EN[1404]["VALUE"] = "Crystal Mine Upgraded to Level 40"
 	STRING_EN[1404]["real_idx"] = 1404
 
 STRING_EN["index"][1405] = 1405
 STRING_EN[1405] = {}
 	STRING_EN[1405]["ID"] = 1405
 	STRING_EN[1405]["KEY"] = "CRYSTAL_UP41"
-	STRING_EN[1405]["VALUE"] = "Crystal mine rises to level 41"
+	STRING_EN[1405]["VALUE"] = "Crystal Mine Upgraded to Level 41"
 	STRING_EN[1405]["real_idx"] = 1405
 
 STRING_EN["index"][1406] = 1406
 STRING_EN[1406] = {}
 	STRING_EN[1406]["ID"] = 1406
 	STRING_EN[1406]["KEY"] = "CRYSTAL_UP42"
-	STRING_EN[1406]["VALUE"] = "Crystal mine rises to level 42"
+	STRING_EN[1406]["VALUE"] = "Crystal Mine Upgraded to Level 42"
 	STRING_EN[1406]["real_idx"] = 1406
 
 STRING_EN["index"][1407] = 1407
 STRING_EN[1407] = {}
 	STRING_EN[1407]["ID"] = 1407
 	STRING_EN[1407]["KEY"] = "CRYSTAL_UP43"
-	STRING_EN[1407]["VALUE"] = "Crystal mine rises to level 43"
+	STRING_EN[1407]["VALUE"] = "Crystal Mine Upgraded to Level 43"
 	STRING_EN[1407]["real_idx"] = 1407
 
 STRING_EN["index"][1408] = 1408
 STRING_EN[1408] = {}
 	STRING_EN[1408]["ID"] = 1408
 	STRING_EN[1408]["KEY"] = "CRYSTAL_UP44"
-	STRING_EN[1408]["VALUE"] = "Crystal mine rises to level 44"
+	STRING_EN[1408]["VALUE"] = "Crystal Mine Upgraded to Level 44"
 	STRING_EN[1408]["real_idx"] = 1408
 
 STRING_EN["index"][1409] = 1409
 STRING_EN[1409] = {}
 	STRING_EN[1409]["ID"] = 1409
 	STRING_EN[1409]["KEY"] = "CRYSTAL_UP45"
-	STRING_EN[1409]["VALUE"] = "Crystal mine rises to level 45"
+	STRING_EN[1409]["VALUE"] = "Crystal Mine Upgraded to Level 45"
 	STRING_EN[1409]["real_idx"] = 1409
 
 STRING_EN["index"][1410] = 1410
 STRING_EN[1410] = {}
 	STRING_EN[1410]["ID"] = 1410
 	STRING_EN[1410]["KEY"] = "RESOURCE_UP2"
-	STRING_EN[1410]["VALUE"] = "Energy station rose to level 2"
+	STRING_EN[1410]["VALUE"] = "Energy Station Upgraded to Level 2"
 	STRING_EN[1410]["real_idx"] = 1410
 
 STRING_EN["index"][1411] = 1411
 STRING_EN[1411] = {}
 	STRING_EN[1411]["ID"] = 1411
 	STRING_EN[1411]["KEY"] = "RESOURCE_UP3"
-	STRING_EN[1411]["VALUE"] = "Energy station rose to level 3"
+	STRING_EN[1411]["VALUE"] = "Energy Station Upgraded to Level 3"
 	STRING_EN[1411]["real_idx"] = 1411
 
 STRING_EN["index"][1412] = 1412
 STRING_EN[1412] = {}
 	STRING_EN[1412]["ID"] = 1412
 	STRING_EN[1412]["KEY"] = "RESOURCE_UP4"
-	STRING_EN[1412]["VALUE"] = "Energy station rose to level 4"
+	STRING_EN[1412]["VALUE"] = "Energy Station Upgraded to Level 4"
 	STRING_EN[1412]["real_idx"] = 1412
 
 STRING_EN["index"][1413] = 1413
 STRING_EN[1413] = {}
 	STRING_EN[1413]["ID"] = 1413
 	STRING_EN[1413]["KEY"] = "RESOURCE_UP5"
-	STRING_EN[1413]["VALUE"] = "Energy station rose to level 5"
+	STRING_EN[1413]["VALUE"] = "Energy Station Upgraded to Level 5"
 	STRING_EN[1413]["real_idx"] = 1413
 
 STRING_EN["index"][1414] = 1414
 STRING_EN[1414] = {}
 	STRING_EN[1414]["ID"] = 1414
 	STRING_EN[1414]["KEY"] = "RESOURCE_UP6"
-	STRING_EN[1414]["VALUE"] = "Energy station rose to level 6"
+	STRING_EN[1414]["VALUE"] = "Energy Station Upgraded to Level 6"
 	STRING_EN[1414]["real_idx"] = 1414
 
 STRING_EN["index"][1415] = 1415
 STRING_EN[1415] = {}
 	STRING_EN[1415]["ID"] = 1415
 	STRING_EN[1415]["KEY"] = "RESOURCE_UP7"
-	STRING_EN[1415]["VALUE"] = "Energy station rose to level 7"
+	STRING_EN[1415]["VALUE"] = "Energy Station Upgraded to Level 7"
 	STRING_EN[1415]["real_idx"] = 1415
 
 STRING_EN["index"][1416] = 1416
 STRING_EN[1416] = {}
 	STRING_EN[1416]["ID"] = 1416
 	STRING_EN[1416]["KEY"] = "RESOURCE_UP8"
-	STRING_EN[1416]["VALUE"] = "Energy station rose to level 8"
+	STRING_EN[1416]["VALUE"] = "Energy Station Upgraded to Level 8"
 	STRING_EN[1416]["real_idx"] = 1416
 
 STRING_EN["index"][1417] = 1417
 STRING_EN[1417] = {}
 	STRING_EN[1417]["ID"] = 1417
 	STRING_EN[1417]["KEY"] = "RESOURCE_UP9"
-	STRING_EN[1417]["VALUE"] = "Energy station rose to level 9"
+	STRING_EN[1417]["VALUE"] = "Energy Station Upgraded to Level 9"
 	STRING_EN[1417]["real_idx"] = 1417
 
 STRING_EN["index"][1418] = 1418
 STRING_EN[1418] = {}
 	STRING_EN[1418]["ID"] = 1418
 	STRING_EN[1418]["KEY"] = "RESOURCE_UP10"
-	STRING_EN[1418]["VALUE"] = "Energy station rose to level 10"
+	STRING_EN[1418]["VALUE"] = "Energy Station Upgraded to Level 10"
 	STRING_EN[1418]["real_idx"] = 1418
 
 STRING_EN["index"][1419] = 1419
 STRING_EN[1419] = {}
 	STRING_EN[1419]["ID"] = 1419
 	STRING_EN[1419]["KEY"] = "RESOURCE_UP11"
-	STRING_EN[1419]["VALUE"] = "Energy station rose to level 11"
+	STRING_EN[1419]["VALUE"] = "Energy Station Upgraded to Level 11"
 	STRING_EN[1419]["real_idx"] = 1419
 
 STRING_EN["index"][1420] = 1420
 STRING_EN[1420] = {}
 	STRING_EN[1420]["ID"] = 1420
 	STRING_EN[1420]["KEY"] = "RESOURCE_UP12"
-	STRING_EN[1420]["VALUE"] = "Energy station rose to level 12"
+	STRING_EN[1420]["VALUE"] = "Energy Station Upgraded to Level 12"
 	STRING_EN[1420]["real_idx"] = 1420
 
 STRING_EN["index"][1421] = 1421
 STRING_EN[1421] = {}
 	STRING_EN[1421]["ID"] = 1421
 	STRING_EN[1421]["KEY"] = "RESOURCE_UP13"
-	STRING_EN[1421]["VALUE"] = "Energy station rose to level 13"
+	STRING_EN[1421]["VALUE"] = "Energy Station Upgraded to Level 13"
 	STRING_EN[1421]["real_idx"] = 1421
 
 STRING_EN["index"][1422] = 1422
 STRING_EN[1422] = {}
 	STRING_EN[1422]["ID"] = 1422
 	STRING_EN[1422]["KEY"] = "RESOURCE_UP14"
-	STRING_EN[1422]["VALUE"] = "Energy station rose to level 14"
+	STRING_EN[1422]["VALUE"] = "Energy Station Upgraded to Level 14"
 	STRING_EN[1422]["real_idx"] = 1422
 
 STRING_EN["index"][1423] = 1423
 STRING_EN[1423] = {}
 	STRING_EN[1423]["ID"] = 1423
 	STRING_EN[1423]["KEY"] = "RESOURCE_UP15"
-	STRING_EN[1423]["VALUE"] = "Energy station rose to level 15"
+	STRING_EN[1423]["VALUE"] = "Energy Station Upgraded to Level 15"
 	STRING_EN[1423]["real_idx"] = 1423
 
 STRING_EN["index"][1424] = 1424
 STRING_EN[1424] = {}
 	STRING_EN[1424]["ID"] = 1424
 	STRING_EN[1424]["KEY"] = "RESOURCE_UP16"
-	STRING_EN[1424]["VALUE"] = "Energy station rose to level 16"
+	STRING_EN[1424]["VALUE"] = "Energy Station Upgraded to Level 16"
 	STRING_EN[1424]["real_idx"] = 1424
 
 STRING_EN["index"][1425] = 1425
 STRING_EN[1425] = {}
 	STRING_EN[1425]["ID"] = 1425
 	STRING_EN[1425]["KEY"] = "RESOURCE_UP17"
-	STRING_EN[1425]["VALUE"] = "Energy station rose to level 17"
+	STRING_EN[1425]["VALUE"] = "Energy Station Upgraded to Level 17"
 	STRING_EN[1425]["real_idx"] = 1425
 
 STRING_EN["index"][1426] = 1426
 STRING_EN[1426] = {}
 	STRING_EN[1426]["ID"] = 1426
 	STRING_EN[1426]["KEY"] = "RESOURCE_UP18"
-	STRING_EN[1426]["VALUE"] = "Energy station rose to level 18"
+	STRING_EN[1426]["VALUE"] = "Energy Station Upgraded to Level 18"
 	STRING_EN[1426]["real_idx"] = 1426
 
 STRING_EN["index"][1427] = 1427
 STRING_EN[1427] = {}
 	STRING_EN[1427]["ID"] = 1427
 	STRING_EN[1427]["KEY"] = "RESOURCE_UP19"
-	STRING_EN[1427]["VALUE"] = "Energy station rose to level 19"
+	STRING_EN[1427]["VALUE"] = "Energy Station Upgraded to Level 19"
 	STRING_EN[1427]["real_idx"] = 1427
 
 STRING_EN["index"][1428] = 1428
 STRING_EN[1428] = {}
 	STRING_EN[1428]["ID"] = 1428
 	STRING_EN[1428]["KEY"] = "RESOURCE_UP20"
-	STRING_EN[1428]["VALUE"] = "Energy station rose to level 20"
+	STRING_EN[1428]["VALUE"] = "Energy Station Upgraded to Level 20"
 	STRING_EN[1428]["real_idx"] = 1428
 
 STRING_EN["index"][1429] = 1429
 STRING_EN[1429] = {}
 	STRING_EN[1429]["ID"] = 1429
 	STRING_EN[1429]["KEY"] = "RESOURCE_UP21"
-	STRING_EN[1429]["VALUE"] = "Energy station rose to level 21"
+	STRING_EN[1429]["VALUE"] = "Energy Station Upgraded to Level 21"
 	STRING_EN[1429]["real_idx"] = 1429
 
 STRING_EN["index"][1430] = 1430
 STRING_EN[1430] = {}
 	STRING_EN[1430]["ID"] = 1430
 	STRING_EN[1430]["KEY"] = "RESOURCE_UP22"
-	STRING_EN[1430]["VALUE"] = "Energy station rose to level 22"
+	STRING_EN[1430]["VALUE"] = "Energy Station Upgraded to Level 22"
 	STRING_EN[1430]["real_idx"] = 1430
 
 STRING_EN["index"][1431] = 1431
 STRING_EN[1431] = {}
 	STRING_EN[1431]["ID"] = 1431
 	STRING_EN[1431]["KEY"] = "RESOURCE_UP23"
-	STRING_EN[1431]["VALUE"] = "Energy station rose to level 23"
+	STRING_EN[1431]["VALUE"] = "Energy Station Upgraded to Level 23"
 	STRING_EN[1431]["real_idx"] = 1431
 
 STRING_EN["index"][1432] = 1432
 STRING_EN[1432] = {}
 	STRING_EN[1432]["ID"] = 1432
 	STRING_EN[1432]["KEY"] = "RESOURCE_UP24"
-	STRING_EN[1432]["VALUE"] = "Energy station rose to level 24"
+	STRING_EN[1432]["VALUE"] = "Energy Station Upgraded to Level 24"
 	STRING_EN[1432]["real_idx"] = 1432
 
 STRING_EN["index"][1433] = 1433
 STRING_EN[1433] = {}
 	STRING_EN[1433]["ID"] = 1433
 	STRING_EN[1433]["KEY"] = "RESOURCE_UP25"
-	STRING_EN[1433]["VALUE"] = "Energy station rose to level 25"
+	STRING_EN[1433]["VALUE"] = "Energy Station Upgraded to Level 25"
 	STRING_EN[1433]["real_idx"] = 1433
 
 STRING_EN["index"][1434] = 1434
 STRING_EN[1434] = {}
 	STRING_EN[1434]["ID"] = 1434
 	STRING_EN[1434]["KEY"] = "RESOURCE_UP26"
-	STRING_EN[1434]["VALUE"] = "Energy station rose to level 26"
+	STRING_EN[1434]["VALUE"] = "Energy Station Upgraded to Level 26"
 	STRING_EN[1434]["real_idx"] = 1434
 
 STRING_EN["index"][1435] = 1435
 STRING_EN[1435] = {}
 	STRING_EN[1435]["ID"] = 1435
 	STRING_EN[1435]["KEY"] = "RESOURCE_UP27"
-	STRING_EN[1435]["VALUE"] = "Energy station rose to level 27"
+	STRING_EN[1435]["VALUE"] = "Energy Station Upgraded to Level 27"
 	STRING_EN[1435]["real_idx"] = 1435
 
 STRING_EN["index"][1436] = 1436
 STRING_EN[1436] = {}
 	STRING_EN[1436]["ID"] = 1436
 	STRING_EN[1436]["KEY"] = "RESOURCE_UP28"
-	STRING_EN[1436]["VALUE"] = "Energy station rose to level 28"
+	STRING_EN[1436]["VALUE"] = "Energy Station Upgraded to Level 28"
 	STRING_EN[1436]["real_idx"] = 1436
 
 STRING_EN["index"][1437] = 1437
 STRING_EN[1437] = {}
 	STRING_EN[1437]["ID"] = 1437
 	STRING_EN[1437]["KEY"] = "RESOURCE_UP29"
-	STRING_EN[1437]["VALUE"] = "Energy station rose to level 29"
+	STRING_EN[1437]["VALUE"] = "Energy Station Upgraded to Level 29"
 	STRING_EN[1437]["real_idx"] = 1437
 
 STRING_EN["index"][1438] = 1438
 STRING_EN[1438] = {}
 	STRING_EN[1438]["ID"] = 1438
 	STRING_EN[1438]["KEY"] = "RESOURCE_UP30"
-	STRING_EN[1438]["VALUE"] = "Energy station rose to level 30"
+	STRING_EN[1438]["VALUE"] = "Energy Station Upgraded to Level 30"
 	STRING_EN[1438]["real_idx"] = 1438
 
 STRING_EN["index"][1439] = 1439
 STRING_EN[1439] = {}
 	STRING_EN[1439]["ID"] = 1439
 	STRING_EN[1439]["KEY"] = "RESOURCE_UP31"
-	STRING_EN[1439]["VALUE"] = "Energy station rose to level 31"
+	STRING_EN[1439]["VALUE"] = "Energy Station Upgraded to Level 31"
 	STRING_EN[1439]["real_idx"] = 1439
 
 STRING_EN["index"][1440] = 1440
 STRING_EN[1440] = {}
 	STRING_EN[1440]["ID"] = 1440
 	STRING_EN[1440]["KEY"] = "RESOURCE_UP32"
-	STRING_EN[1440]["VALUE"] = "Energy station rose to level 32"
+	STRING_EN[1440]["VALUE"] = "Energy Station Upgraded to Level 32"
 	STRING_EN[1440]["real_idx"] = 1440
 
 STRING_EN["index"][1441] = 1441
 STRING_EN[1441] = {}
 	STRING_EN[1441]["ID"] = 1441
 	STRING_EN[1441]["KEY"] = "RESOURCE_UP33"
-	STRING_EN[1441]["VALUE"] = "Energy station rose to level 33"
+	STRING_EN[1441]["VALUE"] = "Energy Station Upgraded to Level 33"
 	STRING_EN[1441]["real_idx"] = 1441
 
 STRING_EN["index"][1442] = 1442
 STRING_EN[1442] = {}
 	STRING_EN[1442]["ID"] = 1442
 	STRING_EN[1442]["KEY"] = "RESOURCE_UP34"
-	STRING_EN[1442]["VALUE"] = "Energy station rose to level 34"
+	STRING_EN[1442]["VALUE"] = "Energy Station Upgraded to Level 34"
 	STRING_EN[1442]["real_idx"] = 1442
 
 STRING_EN["index"][1443] = 1443
 STRING_EN[1443] = {}
 	STRING_EN[1443]["ID"] = 1443
 	STRING_EN[1443]["KEY"] = "RESOURCE_UP35"
-	STRING_EN[1443]["VALUE"] = "Energy station rose to level 35"
+	STRING_EN[1443]["VALUE"] = "Energy Station Upgraded to Level 35"
 	STRING_EN[1443]["real_idx"] = 1443
 
 STRING_EN["index"][1444] = 1444
 STRING_EN[1444] = {}
 	STRING_EN[1444]["ID"] = 1444
 	STRING_EN[1444]["KEY"] = "RESOURCE_UP36"
-	STRING_EN[1444]["VALUE"] = "Energy station rose to level 36"
+	STRING_EN[1444]["VALUE"] = "Energy Station Upgraded to Level 36"
 	STRING_EN[1444]["real_idx"] = 1444
 
 STRING_EN["index"][1445] = 1445
 STRING_EN[1445] = {}
 	STRING_EN[1445]["ID"] = 1445
 	STRING_EN[1445]["KEY"] = "RESOURCE_UP37"
-	STRING_EN[1445]["VALUE"] = "Energy station rose to level 37"
+	STRING_EN[1445]["VALUE"] = "Energy Station Upgraded to Level 37"
 	STRING_EN[1445]["real_idx"] = 1445
 
 STRING_EN["index"][1446] = 1446
 STRING_EN[1446] = {}
 	STRING_EN[1446]["ID"] = 1446
 	STRING_EN[1446]["KEY"] = "RESOURCE_UP38"
-	STRING_EN[1446]["VALUE"] = "Energy station rose to level 38"
+	STRING_EN[1446]["VALUE"] = "Energy Station Upgraded to Level 38"
 	STRING_EN[1446]["real_idx"] = 1446
 
 STRING_EN["index"][1447] = 1447
 STRING_EN[1447] = {}
 	STRING_EN[1447]["ID"] = 1447
 	STRING_EN[1447]["KEY"] = "RESOURCE_UP39"
-	STRING_EN[1447]["VALUE"] = "Energy station rose to level 39"
+	STRING_EN[1447]["VALUE"] = "Energy Station Upgraded to Level 39"
 	STRING_EN[1447]["real_idx"] = 1447
 
 STRING_EN["index"][1448] = 1448
 STRING_EN[1448] = {}
 	STRING_EN[1448]["ID"] = 1448
 	STRING_EN[1448]["KEY"] = "RESOURCE_UP40"
-	STRING_EN[1448]["VALUE"] = "Energy station rose to level 40"
+	STRING_EN[1448]["VALUE"] = "Energy Station Upgraded to Level 40"
 	STRING_EN[1448]["real_idx"] = 1448
 
 STRING_EN["index"][1449] = 1449
 STRING_EN[1449] = {}
 	STRING_EN[1449]["ID"] = 1449
 	STRING_EN[1449]["KEY"] = "RESOURCE_UP41"
-	STRING_EN[1449]["VALUE"] = "Energy station rose to level 41"
+	STRING_EN[1449]["VALUE"] = "Energy Station Upgraded to Level 41"
 	STRING_EN[1449]["real_idx"] = 1449
 
 STRING_EN["index"][1450] = 1450
 STRING_EN[1450] = {}
 	STRING_EN[1450]["ID"] = 1450
 	STRING_EN[1450]["KEY"] = "RESOURCE_UP42"
-	STRING_EN[1450]["VALUE"] = "Energy station rose to level 42"
+	STRING_EN[1450]["VALUE"] = "Energy Station Upgraded to Level 42"
 	STRING_EN[1450]["real_idx"] = 1450
 
 STRING_EN["index"][1451] = 1451
 STRING_EN[1451] = {}
 	STRING_EN[1451]["ID"] = 1451
 	STRING_EN[1451]["KEY"] = "RESOURCE_UP43"
-	STRING_EN[1451]["VALUE"] = "Energy station rose to level 43"
+	STRING_EN[1451]["VALUE"] = "Energy Station Upgraded to Level 43"
 	STRING_EN[1451]["real_idx"] = 1451
 
 STRING_EN["index"][1452] = 1452
 STRING_EN[1452] = {}
 	STRING_EN[1452]["ID"] = 1452
 	STRING_EN[1452]["KEY"] = "RESOURCE_UP44"
-	STRING_EN[1452]["VALUE"] = "Energy station rose to level 44"
+	STRING_EN[1452]["VALUE"] = "Energy Station Upgraded to Level 44"
 	STRING_EN[1452]["real_idx"] = 1452
 
 STRING_EN["index"][1453] = 1453
 STRING_EN[1453] = {}
 	STRING_EN[1453]["ID"] = 1453
 	STRING_EN[1453]["KEY"] = "RESOURCE_UP45"
-	STRING_EN[1453]["VALUE"] = "Energy station rose to level 45"
+	STRING_EN[1453]["VALUE"] = "Energy Station Upgraded to Level 45"
 	STRING_EN[1453]["real_idx"] = 1453
 
 STRING_EN["index"][1454] = 1454
 STRING_EN[1454] = {}
 	STRING_EN[1454]["ID"] = 1454
 	STRING_EN[1454]["KEY"] = "MAINCOPY_1010101"
-	STRING_EN[1454]["VALUE"] = "Pass main line instance planet base"
+	STRING_EN[1454]["VALUE"] = "Mission completed in Planet Base"
 	STRING_EN[1454]["real_idx"] = 1454
 
 STRING_EN["index"][1455] = 1455
 STRING_EN[1455] = {}
 	STRING_EN[1455]["ID"] = 1455
 	STRING_EN[1455]["KEY"] = "MAINCOPY_1010102"
-	STRING_EN[1455]["VALUE"] = "Pass main line instance planet base interior"
+	STRING_EN[1455]["VALUE"] = "Mission completed in Interior Area of Planet Base"
 	STRING_EN[1455]["real_idx"] = 1455
 
 STRING_EN["index"][1456] = 1456
 STRING_EN[1456] = {}
 	STRING_EN[1456]["ID"] = 1456
 	STRING_EN[1456]["KEY"] = "MAINCOPY_1010103"
-	STRING_EN[1456]["VALUE"] = "Pass main line instance around the planet space station"
+	STRING_EN[1456]["VALUE"] = "Mission completed in the Rim of Planet Space Station"
 	STRING_EN[1456]["real_idx"] = 1456
 
 STRING_EN["index"][1457] = 1457
 STRING_EN[1457] = {}
 	STRING_EN[1457]["ID"] = 1457
 	STRING_EN[1457]["KEY"] = "MAINCOPY_1010201"
-	STRING_EN[1457]["VALUE"] = "Pass main line instance planet space station interior"
+	STRING_EN[1457]["VALUE"] = "Mission completed in Interior Area of Planet Space Station"
 	STRING_EN[1457]["real_idx"] = 1457
 
 STRING_EN["index"][1458] = 1458
 STRING_EN[1458] = {}
 	STRING_EN[1458]["ID"] = 1458
 	STRING_EN[1458]["KEY"] = "MAINCOPY_1010202"
-	STRING_EN[1458]["VALUE"] = "Pass main line instance planet space station base"
+	STRING_EN[1458]["VALUE"] = "Mission completed in the Stronghold of Planet Space Station"
 	STRING_EN[1458]["real_idx"] = 1458
 
 STRING_EN["index"][1459] = 1459
 STRING_EN[1459] = {}
 	STRING_EN[1459]["ID"] = 1459
 	STRING_EN[1459]["KEY"] = "MAINCOPY_1010203"
-	STRING_EN[1459]["VALUE"] = "Pass main line instance planet fog land"
+	STRING_EN[1459]["VALUE"] = "Mission completed in the Mists of the Planet"
 	STRING_EN[1459]["real_idx"] = 1459
 
 STRING_EN["index"][1460] = 1460
 STRING_EN[1460] = {}
 	STRING_EN[1460]["ID"] = 1460
 	STRING_EN[1460]["KEY"] = "MAINCOPY_1010204"
-	STRING_EN[1460]["VALUE"] = "Pass main line instance empire scout troops"
+	STRING_EN[1460]["VALUE"] = "Mission completed in Imperial Scouts Troop"
 	STRING_EN[1460]["real_idx"] = 1460
 
 STRING_EN["index"][1461] = 1461
 STRING_EN[1461] = {}
 	STRING_EN[1461]["ID"] = 1461
 	STRING_EN[1461]["KEY"] = "MAINCOPY_1010301"
-	STRING_EN[1461]["VALUE"] = "Pass main line instance empire scout site"
+	STRING_EN[1461]["VALUE"] = "Mission completed in the Stronghold of Imperial Scouts "
 	STRING_EN[1461]["real_idx"] = 1461
 
 STRING_EN["index"][1462] = 1462
 STRING_EN[1462] = {}
 	STRING_EN[1462]["ID"] = 1462
 	STRING_EN[1462]["KEY"] = "MAINCOPY_1010302"
-	STRING_EN[1462]["VALUE"] = "Pass main line instance elite scout troops"
+	STRING_EN[1462]["VALUE"] = "Mission completed in Elite Scouts Troop"
 	STRING_EN[1462]["real_idx"] = 1462
 
 STRING_EN["index"][1463] = 1463
 STRING_EN[1463] = {}
 	STRING_EN[1463]["ID"] = 1463
 	STRING_EN[1463]["KEY"] = "MAINCOPY_1010303"
-	STRING_EN[1463]["VALUE"] = "Pass main line instance elite scouting force base"
+	STRING_EN[1463]["VALUE"] = "Mission completed in the Stronghold of Elite Scouts Troop"
 	STRING_EN[1463]["real_idx"] = 1463
 
 STRING_EN["index"][1464] = 1464
 STRING_EN[1464] = {}
 	STRING_EN[1464]["ID"] = 1464
 	STRING_EN[1464]["KEY"] = "MAINCOPY_1010304"
-	STRING_EN[1464]["VALUE"] = "Pass main line instance empire scout base"
+	STRING_EN[1464]["VALUE"] = "Mission completed in Imperial Scouts Base"
 	STRING_EN[1464]["real_idx"] = 1464
 
 STRING_EN["index"][1465] = 1465
 STRING_EN[1465] = {}
 	STRING_EN[1465]["ID"] = 1465
 	STRING_EN[1465]["KEY"] = "MAINCOPY_1010305"
-	STRING_EN[1465]["VALUE"] = "Pass main line instance empire scout fleet captain"
+	STRING_EN[1465]["VALUE"] = "Mission completed in the Captain Fleet of Imperial Scouts "
 	STRING_EN[1465]["real_idx"] = 1465
 
 STRING_EN["index"][1466] = 1466
 STRING_EN[1466] = {}
 	STRING_EN[1466]["ID"] = 1466
 	STRING_EN[1466]["KEY"] = "MAINCOPY_2010101"
-	STRING_EN[1466]["VALUE"] = "Pass main line instance Ruhr Planet Fortress"
+	STRING_EN[1466]["VALUE"] = "Mission completed in the Fortress of Planet Ruhr"
 	STRING_EN[1466]["real_idx"] = 1466
 
 STRING_EN["index"][1467] = 1467
 STRING_EN[1467] = {}
 	STRING_EN[1467]["ID"] = 1467
 	STRING_EN[1467]["KEY"] = "MAINCOPY_2010102"
-	STRING_EN[1467]["VALUE"] = "Pass main line instance Ruhr satellite"
+	STRING_EN[1467]["VALUE"] = "Mission completed in the Satellite of Ruhr"
 	STRING_EN[1467]["real_idx"] = 1467
 
 STRING_EN["index"][1468] = 1468
 STRING_EN[1468] = {}
 	STRING_EN[1468]["ID"] = 1468
 	STRING_EN[1468]["KEY"] = "MAINCOPY_2010103"
-	STRING_EN[1468]["VALUE"] = "Pass main line instance Ruhr relay station"
+	STRING_EN[1468]["VALUE"] = "Mission completed in the Relay Station of Ruhr"
 	STRING_EN[1468]["real_idx"] = 1468
 
 STRING_EN["index"][1469] = 1469
 STRING_EN[1469] = {}
 	STRING_EN[1469]["ID"] = 1469
 	STRING_EN[1469]["KEY"] = "MAINCOPY_2010104"
-	STRING_EN[1469]["VALUE"] = "Pass main line instance Ruhr Outpost"
+	STRING_EN[1469]["VALUE"] = "Mission completed in the Outpost of Ruhr"
 	STRING_EN[1469]["real_idx"] = 1469
 
 STRING_EN["index"][1470] = 1470
 STRING_EN[1470] = {}
 	STRING_EN[1470]["ID"] = 1470
 	STRING_EN[1470]["KEY"] = "MAINCOPY_2010201"
-	STRING_EN[1470]["VALUE"] = "Pass main line instance Ruhr outpost patrol point"
+	STRING_EN[1470]["VALUE"] = "Mission completed in the Patrol Point of Outpost Ruhr"
 	STRING_EN[1470]["real_idx"] = 1470
 
 STRING_EN["index"][1471] = 1471
 STRING_EN[1471] = {}
 	STRING_EN[1471]["ID"] = 1471
 	STRING_EN[1471]["KEY"] = "MAINCOPY_2010202"
-	STRING_EN[1471]["VALUE"] = "Pass main line instance outpost advance fleet"
+	STRING_EN[1471]["VALUE"] = "Mission completed in Advance Fleet of the Outpost"
 	STRING_EN[1471]["real_idx"] = 1471
 
 STRING_EN["index"][1472] = 1472
 STRING_EN[1472] = {}
 	STRING_EN[1472]["ID"] = 1472
 	STRING_EN[1472]["KEY"] = "MAINCOPY_2010203"
-	STRING_EN[1472]["VALUE"] = "Pass main line instance outpost station"
+	STRING_EN[1472]["VALUE"] = "Mission completed in The Stronghold of the Outpost"
 	STRING_EN[1472]["real_idx"] = 1472
 
 STRING_EN["index"][1473] = 1473
 STRING_EN[1473] = {}
 	STRING_EN[1473]["ID"] = 1473
 	STRING_EN[1473]["KEY"] = "MAINCOPY_2010204"
-	STRING_EN[1473]["VALUE"] = "Pass main line instance outpost base"
+	STRING_EN[1473]["VALUE"] = "Mission completed in Outpost Base"
 	STRING_EN[1473]["real_idx"] = 1473
 
 STRING_EN["index"][1474] = 1474
 STRING_EN[1474] = {}
 	STRING_EN[1474]["ID"] = 1474
 	STRING_EN[1474]["KEY"] = "MAINCOPY_2010301"
-	STRING_EN[1474]["VALUE"] = "Pass main line instance Imperial patrol"
+	STRING_EN[1474]["VALUE"] = "Mission completed in Imperial Patrol"
 	STRING_EN[1474]["real_idx"] = 1474
 
 STRING_EN["index"][1475] = 1475
 STRING_EN[1475] = {}
 	STRING_EN[1475]["ID"] = 1475
 	STRING_EN[1475]["KEY"] = "MAINCOPY_2010302"
-	STRING_EN[1475]["VALUE"] = "Instance of the main line of pass to the wreckage"
+	STRING_EN[1475]["VALUE"] = "Mission completed in Arthur Remains"
 	STRING_EN[1475]["real_idx"] = 1475
 
 STRING_EN["index"][1476] = 1476
 STRING_EN[1476] = {}
 	STRING_EN[1476]["ID"] = 1476
 	STRING_EN[1476]["KEY"] = "MAINCOPY_2010303"
-	STRING_EN[1476]["VALUE"] = "A instance of the main line of the pass"
+	STRING_EN[1476]["VALUE"] = "Mission completed in the Fallen Star of Arthur "
 	STRING_EN[1476]["real_idx"] = 1476
 
 STRING_EN["index"][1477] = 1477
 STRING_EN[1477] = {}
 	STRING_EN[1477]["ID"] = 1477
 	STRING_EN[1477]["KEY"] = "MAINCOPY_2010304"
-	STRING_EN[1477]["VALUE"] = "Pass main line instance magnetic storm land"
+	STRING_EN[1477]["VALUE"] = "Mission completed in the Land of Magnetic Storm "
 	STRING_EN[1477]["real_idx"] = 1477
 
 STRING_EN["index"][1478] = 1478
 STRING_EN[1478] = {}
 	STRING_EN[1478]["ID"] = 1478
 	STRING_EN[1478]["KEY"] = "MAINCOPY_2010305"
-	STRING_EN[1478]["VALUE"] = "Pass main line instance planet wreck"
+	STRING_EN[1478]["VALUE"] = "Mission completed in Planet Remains"
 	STRING_EN[1478]["real_idx"] = 1478
 
 STRING_EN["index"][1479] = 1479
 STRING_EN[1479] = {}
 	STRING_EN[1479]["ID"] = 1479
 	STRING_EN[1479]["KEY"] = "MAINCOPY_2010306"
-	STRING_EN[1479]["VALUE"] = "Pass main line instance Imperial patrol fleet captain"
+	STRING_EN[1479]["VALUE"] = "Mission completed in the Captain Fleet of Imperial Patrol "
 	STRING_EN[1479]["real_idx"] = 1479
 
 STRING_EN["index"][1480] = 1480
 STRING_EN[1480] = {}
 	STRING_EN[1480]["ID"] = 1480
 	STRING_EN[1480]["KEY"] = "MAINCOPY_2010401"
-	STRING_EN[1480]["VALUE"] = "Pass main line instance Imperial patrol stronghold"
+	STRING_EN[1480]["VALUE"] = "Mission completed in the Stronghold of Imperial Patrol"
 	STRING_EN[1480]["real_idx"] = 1480
 
 STRING_EN["index"][1481] = 1481
 STRING_EN[1481] = {}
 	STRING_EN[1481]["ID"] = 1481
 	STRING_EN[1481]["KEY"] = "MAINCOPY_2010402"
-	STRING_EN[1481]["VALUE"] = "Pass instance of Remlock"
+	STRING_EN[1481]["VALUE"] = "Mission completed in the Sentry of Remulus"
 	STRING_EN[1481]["real_idx"] = 1481
 
 STRING_EN["index"][1482] = 1482
 STRING_EN[1482] = {}
 	STRING_EN[1482]["ID"] = 1482
 	STRING_EN[1482]["KEY"] = "MAINCOPY_2010403"
-	STRING_EN[1482]["VALUE"] = "Pass main line instance of the land of Remlock"
+	STRING_EN[1482]["VALUE"] = "Mission completed in the Land of Remulus "
 	STRING_EN[1482]["real_idx"] = 1482
 
 STRING_EN["index"][1483] = 1483
 STRING_EN[1483] = {}
 	STRING_EN[1483]["ID"] = 1483
 	STRING_EN[1483]["KEY"] = "MAINCOPY_2010404"
-	STRING_EN[1483]["VALUE"] = "Pass main line instance Remlock trace"
+	STRING_EN[1483]["VALUE"] = "Mission completed in the Crack of Remulus "
 	STRING_EN[1483]["real_idx"] = 1483
 
 STRING_EN["index"][1484] = 1484
 STRING_EN[1484] = {}
 	STRING_EN[1484]["ID"] = 1484
 	STRING_EN[1484]["KEY"] = "MAINCOPY_2010405"
-	STRING_EN[1484]["VALUE"] = "Pass main line instance Imperial patrol elite"
+	STRING_EN[1484]["VALUE"] = "Mission completed in Elite Imperial Patrol"
 	STRING_EN[1484]["real_idx"] = 1484
 
 STRING_EN["index"][1485] = 1485
 STRING_EN[1485] = {}
 	STRING_EN[1485]["ID"] = 1485
 	STRING_EN[1485]["KEY"] = "MAINCOPY_2010406"
-	STRING_EN[1485]["VALUE"] = "Pass main line instance Imperial patrol base"
+	STRING_EN[1485]["VALUE"] = "Mission completed in Imperial Patrol Base"
 	STRING_EN[1485]["real_idx"] = 1485
 
 STRING_EN["index"][1486] = 1486
 STRING_EN[1486] = {}
 	STRING_EN[1486]["ID"] = 1486
 	STRING_EN[1486]["KEY"] = "MAINCOPY_2010407"
-	STRING_EN[1486]["VALUE"] = "Pass main line instance Kenmide commander"
+	STRING_EN[1486]["VALUE"] = "Mission completed in Commander  Connor"
 	STRING_EN[1486]["real_idx"] = 1486
 
 STRING_EN["index"][1487] = 1487
 STRING_EN[1487] = {}
 	STRING_EN[1487]["ID"] = 1487
 	STRING_EN[1487]["KEY"] = "MAINCOPY_3010101"
-	STRING_EN[1487]["VALUE"] = "Pass main line instance of the Xinghai before dawn"
+	STRING_EN[1487]["VALUE"] = "Mission completed in Predawn Star-sea"
 	STRING_EN[1487]["real_idx"] = 1487
 
 STRING_EN["index"][1488] = 1488
 STRING_EN[1488] = {}
 	STRING_EN[1488]["ID"] = 1488
 	STRING_EN[1488]["KEY"] = "MAINCOPY_3010102"
-	STRING_EN[1488]["VALUE"] = "Pass main line instance Mogro main star"
+	STRING_EN[1488]["VALUE"] = "Mission completed in Starbase of Moglu"
 	STRING_EN[1488]["real_idx"] = 1488
 
 STRING_EN["index"][1489] = 1489
 STRING_EN[1489] = {}
 	STRING_EN[1489]["ID"] = 1489
 	STRING_EN[1489]["KEY"] = "MAINCOPY_3010103"
-	STRING_EN[1489]["VALUE"] = "Pass main line instance Mogro transition station"
+	STRING_EN[1489]["VALUE"] = "Mission completed in the Transition Station of Moglu"
 	STRING_EN[1489]["real_idx"] = 1489
 
 STRING_EN["index"][1490] = 1490
 STRING_EN[1490] = {}
 	STRING_EN[1490]["ID"] = 1490
 	STRING_EN[1490]["KEY"] = "MAINCOPY_3010104"
-	STRING_EN[1490]["VALUE"] = "Pass main line instance Mogro ruins"
+	STRING_EN[1490]["VALUE"] = "Mission completed in Moglu Remains"
 	STRING_EN[1490]["real_idx"] = 1490
 
 STRING_EN["index"][1491] = 1491
 STRING_EN[1491] = {}
 	STRING_EN[1491]["ID"] = 1491
 	STRING_EN[1491]["KEY"] = "MAINCOPY_3010105"
-	STRING_EN[1491]["VALUE"] = "Pass main line instance Imperial garrison"
+	STRING_EN[1491]["VALUE"] = "Mission completed in Imperial Garrison"
 	STRING_EN[1491]["real_idx"] = 1491
 
 STRING_EN["index"][1492] = 1492
 STRING_EN[1492] = {}
 	STRING_EN[1492]["ID"] = 1492
 	STRING_EN[1492]["KEY"] = "MAINCOPY_3010201"
-	STRING_EN[1492]["VALUE"] = "Pass main line instance Mogro Star Cluster"
+	STRING_EN[1492]["VALUE"] = "Mission completed in the Stardust of Moglu"
 	STRING_EN[1492]["real_idx"] = 1492
 
 STRING_EN["index"][1493] = 1493
 STRING_EN[1493] = {}
 	STRING_EN[1493]["ID"] = 1493
 	STRING_EN[1493]["KEY"] = "MAINCOPY_3010202"
-	STRING_EN[1493]["VALUE"] = "Pass main line instance Mogro Sentry"
+	STRING_EN[1493]["VALUE"] = "Mission completed in the Sentry of Moglu"
 	STRING_EN[1493]["real_idx"] = 1493
 
 STRING_EN["index"][1494] = 1494
 STRING_EN[1494] = {}
 	STRING_EN[1494]["ID"] = 1494
 	STRING_EN[1494]["KEY"] = "MAINCOPY_3010203"
-	STRING_EN[1494]["VALUE"] = "Pass main line instance storm land"
+	STRING_EN[1494]["VALUE"] = "Mission completed in the Land of Storm"
 	STRING_EN[1494]["real_idx"] = 1494
 
 STRING_EN["index"][1495] = 1495
 STRING_EN[1495] = {}
 	STRING_EN[1495]["ID"] = 1495
 	STRING_EN[1495]["KEY"] = "MAINCOPY_3010204"
-	STRING_EN[1495]["VALUE"] = "Pass main line instance star mark"
+	STRING_EN[1495]["VALUE"] = "Mission completed in the Crack of Constellation "
 	STRING_EN[1495]["real_idx"] = 1495
 
 STRING_EN["index"][1496] = 1496
 STRING_EN[1496] = {}
 	STRING_EN[1496]["ID"] = 1496
 	STRING_EN[1496]["KEY"] = "MAINCOPY_3010205"
-	STRING_EN[1496]["VALUE"] = "Pass main line instance empire neutron star"
+	STRING_EN[1496]["VALUE"] = "Mission completed in Imperial Neutron Star"
 	STRING_EN[1496]["real_idx"] = 1496
 
 STRING_EN["index"][1497] = 1497
 STRING_EN[1497] = {}
 	STRING_EN[1497]["ID"] = 1497
 	STRING_EN[1497]["KEY"] = "MAINCOPY_3010206"
-	STRING_EN[1497]["VALUE"] = "Pass main line instance Imperial elite fleet"
+	STRING_EN[1497]["VALUE"] = "Mission completed in Elite Imperial Fleet"
 	STRING_EN[1497]["real_idx"] = 1497
 
 STRING_EN["index"][1498] = 1498
 STRING_EN[1498] = {}
 	STRING_EN[1498]["ID"] = 1498
 	STRING_EN[1498]["KEY"] = "MAINCOPY_3010301"
-	STRING_EN[1498]["VALUE"] = "Pass main line instance dark shelter"
+	STRING_EN[1498]["VALUE"] = "Mission completed in Dark Shelter"
 	STRING_EN[1498]["real_idx"] = 1498
 
 STRING_EN["index"][1499] = 1499
 STRING_EN[1499] = {}
 	STRING_EN[1499]["ID"] = 1499
 	STRING_EN[1499]["KEY"] = "MAINCOPY_3010302"
-	STRING_EN[1499]["VALUE"] = "Pass main line instance fog sea"
+	STRING_EN[1499]["VALUE"] = "Mission completed in the Mists Sea"
 	STRING_EN[1499]["real_idx"] = 1499
 
 STRING_EN["index"][1500] = 1500
 STRING_EN[1500] = {}
 	STRING_EN[1500]["ID"] = 1500
 	STRING_EN[1500]["KEY"] = "MAINCOPY_3010303"
-	STRING_EN[1500]["VALUE"] = "Pass main line instance empire front line stronghold"
+	STRING_EN[1500]["VALUE"] = "Mission completed in the Stronghold of Imperial Front"
 	STRING_EN[1500]["real_idx"] = 1500
 
 STRING_EN["index"][1501] = 1501
 STRING_EN[1501] = {}
 	STRING_EN[1501]["ID"] = 1501
 	STRING_EN[1501]["KEY"] = "MAINCOPY_3010304"
-	STRING_EN[1501]["VALUE"] = "Pass main line instance death star group"
+	STRING_EN[1501]["VALUE"] = "Mission completed in the Stardust of Death"
 	STRING_EN[1501]["real_idx"] = 1501
 
 STRING_EN["index"][1502] = 1502
 STRING_EN[1502] = {}
 	STRING_EN[1502]["ID"] = 1502
 	STRING_EN[1502]["KEY"] = "MAINCOPY_3010305"
-	STRING_EN[1502]["VALUE"] = "The wreckage of the main line instance of the starry sky"
+	STRING_EN[1502]["VALUE"] = "Mission completed in Galaxy Remains"
 	STRING_EN[1502]["real_idx"] = 1502
 
 STRING_EN["index"][1503] = 1503
 STRING_EN[1503] = {}
 	STRING_EN[1503]["ID"] = 1503
 	STRING_EN[1503]["KEY"] = "MAINCOPY_3010306"
-	STRING_EN[1503]["VALUE"] = "Pass main line instance empire front line base"
+	STRING_EN[1503]["VALUE"] = "Mission completed in Imperial Front Base"
 	STRING_EN[1503]["real_idx"] = 1503
 
 STRING_EN["index"][1504] = 1504
 STRING_EN[1504] = {}
 	STRING_EN[1504]["ID"] = 1504
 	STRING_EN[1504]["KEY"] = "MAINCOPY_3010307"
-	STRING_EN[1504]["VALUE"] = "Pass main line instance Empire garrison fleet captain"
+	STRING_EN[1504]["VALUE"] = "Mission completed in the Captain Fleet of  Imperial Garrison"
 	STRING_EN[1504]["real_idx"] = 1504
 
 STRING_EN["index"][1505] = 1505
 STRING_EN[1505] = {}
 	STRING_EN[1505]["ID"] = 1505
 	STRING_EN[1505]["KEY"] = "MAINCOPY_3010401"
-	STRING_EN[1505]["VALUE"] = "Pass main line instance mourning Star Harbor"
+	STRING_EN[1505]["VALUE"] = "Mission completed in Wailing Starport"
 	STRING_EN[1505]["real_idx"] = 1505
 
 STRING_EN["index"][1506] = 1506
 STRING_EN[1506] = {}
 	STRING_EN[1506]["ID"] = 1506
 	STRING_EN[1506]["KEY"] = "MAINCOPY_3010402"
-	STRING_EN[1506]["VALUE"] = "Pass main line instance Alterac Road"
+	STRING_EN[1506]["VALUE"] = "Mission completed in the Road of Alterac "
 	STRING_EN[1506]["real_idx"] = 1506
 
 STRING_EN["index"][1507] = 1507
 STRING_EN[1507] = {}
 	STRING_EN[1507]["ID"] = 1507
 	STRING_EN[1507]["KEY"] = "MAINCOPY_3010403"
-	STRING_EN[1507]["VALUE"] = "Pass main line instance foggy open space"
+	STRING_EN[1507]["VALUE"] = "Mission completed in the Space of the Mists"
 	STRING_EN[1507]["real_idx"] = 1507
 
 STRING_EN["index"][1508] = 1508
 STRING_EN[1508] = {}
 	STRING_EN[1508]["ID"] = 1508
 	STRING_EN[1508]["KEY"] = "MAINCOPY_3010404"
-	STRING_EN[1508]["VALUE"] = "Pass main line instance Elvin falling star"
+	STRING_EN[1508]["VALUE"] = "Mission completed in Fallen Star Elvin "
 	STRING_EN[1508]["real_idx"] = 1508
 
 STRING_EN["index"][1509] = 1509
 STRING_EN[1509] = {}
 	STRING_EN[1509]["ID"] = 1509
 	STRING_EN[1509]["KEY"] = "MAINCOPY_3010405"
-	STRING_EN[1509]["VALUE"] = "Pass main line instance abandoned transition station"
+	STRING_EN[1509]["VALUE"] = "Mission completed in Abandoned Transition Station"
 	STRING_EN[1509]["real_idx"] = 1509
 
 STRING_EN["index"][1510] = 1510
 STRING_EN[1510] = {}
 	STRING_EN[1510]["ID"] = 1510
 	STRING_EN[1510]["KEY"] = "MAINCOPY_3010406"
-	STRING_EN[1510]["VALUE"] = "Pass main line instance Brad Lab"
+	STRING_EN[1510]["VALUE"] = "Mission completed in Brad Lab"
 	STRING_EN[1510]["real_idx"] = 1510
 
 STRING_EN["index"][1511] = 1511
 STRING_EN[1511] = {}
 	STRING_EN[1511]["ID"] = 1511
 	STRING_EN[1511]["KEY"] = "MAINCOPY_3010407"
-	STRING_EN[1511]["VALUE"] = "Pass main line instance temple place"
+	STRING_EN[1511]["VALUE"] = "Mission completed in the Land of Sanctuary "
 	STRING_EN[1511]["real_idx"] = 1511
 
 STRING_EN["index"][1512] = 1512
 STRING_EN[1512] = {}
 	STRING_EN[1512]["ID"] = 1512
 	STRING_EN[1512]["KEY"] = "MAINCOPY_3010408"
-	STRING_EN[1512]["VALUE"] = "Pass main line instance Brady ruins"
+	STRING_EN[1512]["VALUE"] = "Mission completed in Brady Remains"
 	STRING_EN[1512]["real_idx"] = 1512
 
 STRING_EN["index"][1513] = 1513
 STRING_EN[1513] = {}
 	STRING_EN[1513]["ID"] = 1513
 	STRING_EN[1513]["KEY"] = "MAINCOPY_3010501"
-	STRING_EN[1513]["VALUE"] = "Pass main line instance red ridge trail"
+	STRING_EN[1513]["VALUE"] = "Mission completed in the Trail of Red Ridge "
 	STRING_EN[1513]["real_idx"] = 1513
 
 STRING_EN["index"][1514] = 1514
 STRING_EN[1514] = {}
 	STRING_EN[1514]["ID"] = 1514
 	STRING_EN[1514]["KEY"] = "MAINCOPY_3010502"
-	STRING_EN[1514]["VALUE"] = "Pass main line instance of Mestra planet"
+	STRING_EN[1514]["VALUE"] = "Mission completed in Planet Mestra "
 	STRING_EN[1514]["real_idx"] = 1514
 
 STRING_EN["index"][1515] = 1515
 STRING_EN[1515] = {}
 	STRING_EN[1515]["ID"] = 1515
 	STRING_EN[1515]["KEY"] = "MAINCOPY_3010503"
-	STRING_EN[1515]["VALUE"] = "Pass main line instance of the gods"
+	STRING_EN[1515]["VALUE"] = "Mission completed in the Land of Oracle"
 	STRING_EN[1515]["real_idx"] = 1515
 
 STRING_EN["index"][1516] = 1516
 STRING_EN[1516] = {}
 	STRING_EN[1516]["ID"] = 1516
 	STRING_EN[1516]["KEY"] = "MAINCOPY_3010504"
-	STRING_EN[1516]["VALUE"] = "Pass main line instance Imperial Observatory"
+	STRING_EN[1516]["VALUE"] = "Mission completed in Imperial Observatory"
 	STRING_EN[1516]["real_idx"] = 1516
 
 STRING_EN["index"][1517] = 1517
 STRING_EN[1517] = {}
 	STRING_EN[1517]["ID"] = 1517
 	STRING_EN[1517]["KEY"] = "MAINCOPY_3010505"
-	STRING_EN[1517]["VALUE"] = "Pass main line instance of the eye of Tar"
+	STRING_EN[1517]["VALUE"] = "Mission completed in the Eye of Thar"
 	STRING_EN[1517]["real_idx"] = 1517
 
 STRING_EN["index"][1518] = 1518
 STRING_EN[1518] = {}
 	STRING_EN[1518]["ID"] = 1518
 	STRING_EN[1518]["KEY"] = "MAINCOPY_3010506"
-	STRING_EN[1518]["VALUE"] = "Pass main line instance Maistra Fortress"
+	STRING_EN[1518]["VALUE"] = "Mission completed in the Fortress of Mestra "
 	STRING_EN[1518]["real_idx"] = 1518
 
 STRING_EN["index"][1519] = 1519
 STRING_EN[1519] = {}
 	STRING_EN[1519]["ID"] = 1519
 	STRING_EN[1519]["KEY"] = "MAINCOPY_3010507"
-	STRING_EN[1519]["VALUE"] = "Pass main line instance funeral black hole"
+	STRING_EN[1519]["VALUE"] = "Mission completed in Ruining Black Hole"
 	STRING_EN[1519]["real_idx"] = 1519
 
 STRING_EN["index"][1520] = 1520
 STRING_EN[1520] = {}
 	STRING_EN[1520]["ID"] = 1520
 	STRING_EN[1520]["KEY"] = "MAINCOPY_3010508"
-	STRING_EN[1520]["VALUE"] = "Pass main line instance Maistra main star"
+	STRING_EN[1520]["VALUE"] = "Mission completed in Starbase of Mestra  "
 	STRING_EN[1520]["real_idx"] = 1520
 
 STRING_EN["index"][1521] = 1521
 STRING_EN[1521] = {}
 	STRING_EN[1521]["ID"] = 1521
 	STRING_EN[1521]["KEY"] = "MAINCOPY_3010509"
-	STRING_EN[1521]["VALUE"] = "Pass main line instance liberation Mestra"
+	STRING_EN[1521]["VALUE"] = "Mission completed in Liberation of Mestra"
 	STRING_EN[1521]["real_idx"] = 1521
 
 STRING_EN["index"][1522] = 1522
 STRING_EN[1522] = {}
 	STRING_EN[1522]["ID"] = 1522
 	STRING_EN[1522]["KEY"] = "MAINCOPY_4010101"
-	STRING_EN[1522]["VALUE"] = "Pass main line instance Danga Star"
+	STRING_EN[1522]["VALUE"] = "Mission completed in Star Chakra Danga"
 	STRING_EN[1522]["real_idx"] = 1522
 
 STRING_EN["index"][1523] = 1523
 STRING_EN[1523] = {}
 	STRING_EN[1523]["ID"] = 1523
 	STRING_EN[1523]["KEY"] = "MAINCOPY_4010102"
-	STRING_EN[1523]["VALUE"] = "Pass main line instance of the land of Senna"
+	STRING_EN[1523]["VALUE"] = "Mission completed in the Land of Seine"
 	STRING_EN[1523]["real_idx"] = 1523
 
 STRING_EN["index"][1524] = 1524
 STRING_EN[1524] = {}
 	STRING_EN[1524]["ID"] = 1524
 	STRING_EN[1524]["KEY"] = "MAINCOPY_4010103"
-	STRING_EN[1524]["VALUE"] = "Pass main line instance broken starry sky"
+	STRING_EN[1524]["VALUE"] = "Mission completed in Galaxy Fragment"
 	STRING_EN[1524]["real_idx"] = 1524
 
 STRING_EN["index"][1525] = 1525
 STRING_EN[1525] = {}
 	STRING_EN[1525]["ID"] = 1525
 	STRING_EN[1525]["KEY"] = "MAINCOPY_4010104"
-	STRING_EN[1525]["VALUE"] = "Pass main line instance Senna monitoring station"
+	STRING_EN[1525]["VALUE"] = "Mission completed in the Observatory of Seine"
 	STRING_EN[1525]["real_idx"] = 1525
 
 STRING_EN["index"][1526] = 1526
 STRING_EN[1526] = {}
 	STRING_EN[1526]["ID"] = 1526
 	STRING_EN[1526]["KEY"] = "MAINCOPY_4010105"
-	STRING_EN[1526]["VALUE"] = "Pass main line instance Imperial Defense Fleet"
+	STRING_EN[1526]["VALUE"] = "Mission completed in Imperial Defense Fleet"
 	STRING_EN[1526]["real_idx"] = 1526
 
 STRING_EN["index"][1527] = 1527
 STRING_EN[1527] = {}
 	STRING_EN[1527]["ID"] = 1527
 	STRING_EN[1527]["KEY"] = "MAINCOPY_4010201"
-	STRING_EN[1527]["VALUE"] = "Pass main line instance Senna Fortress"
+	STRING_EN[1527]["VALUE"] = "Mission completed in the Fortress of Seine"
 	STRING_EN[1527]["real_idx"] = 1527
 
 STRING_EN["index"][1528] = 1528
 STRING_EN[1528] = {}
 	STRING_EN[1528]["ID"] = 1528
 	STRING_EN[1528]["KEY"] = "MAINCOPY_4010202"
-	STRING_EN[1528]["VALUE"] = "Pass main line instance meteorite zone"
+	STRING_EN[1528]["VALUE"] = "Mission completed in the Meteorite Zone"
 	STRING_EN[1528]["real_idx"] = 1528
 
 STRING_EN["index"][1529] = 1529
 STRING_EN[1529] = {}
 	STRING_EN[1529]["ID"] = 1529
 	STRING_EN[1529]["KEY"] = "MAINCOPY_4010203"
-	STRING_EN[1529]["VALUE"] = "Pass main line instance shadow wreck"
+	STRING_EN[1529]["VALUE"] = "Mission completed in Remains in the Shadow "
 	STRING_EN[1529]["real_idx"] = 1529
 
 STRING_EN["index"][1530] = 1530
 STRING_EN[1530] = {}
 	STRING_EN[1530]["ID"] = 1530
 	STRING_EN[1530]["KEY"] = "MAINCOPY_4010204"
-	STRING_EN[1530]["VALUE"] = "Pass main line instance of the star nest in the fog"
+	STRING_EN[1530]["VALUE"] = "Mission completed in Star Nest in The Mists"
 	STRING_EN[1530]["real_idx"] = 1530
 
 STRING_EN["index"][1531] = 1531
 STRING_EN[1531] = {}
 	STRING_EN[1531]["ID"] = 1531
 	STRING_EN[1531]["KEY"] = "MAINCOPY_4010205"
-	STRING_EN[1531]["VALUE"] = "Pass main line instance Hills Space Station"
+	STRING_EN[1531]["VALUE"] = "Mission completed in Space Station Hills"
 	STRING_EN[1531]["real_idx"] = 1531
 
 STRING_EN["index"][1532] = 1532
 STRING_EN[1532] = {}
 	STRING_EN[1532]["ID"] = 1532
 	STRING_EN[1532]["KEY"] = "MAINCOPY_4010206"
-	STRING_EN[1532]["VALUE"] = "Instance of the main line of pass to break through the land of Senna"
+	STRING_EN[1532]["VALUE"] = "Mission completed in Break through the Land of Seine"
 	STRING_EN[1532]["real_idx"] = 1532
 
 STRING_EN["index"][1533] = 1533
 STRING_EN[1533] = {}
 	STRING_EN[1533]["ID"] = 1533
 	STRING_EN[1533]["KEY"] = "MAINCOPY_4010301"
-	STRING_EN[1533]["VALUE"] = "Pass main line instance garrison camp"
+	STRING_EN[1533]["VALUE"] = "Mission completed in Camp of the Garrison"
 	STRING_EN[1533]["real_idx"] = 1533
 
 STRING_EN["index"][1534] = 1534
 STRING_EN[1534] = {}
 	STRING_EN[1534]["ID"] = 1534
 	STRING_EN[1534]["KEY"] = "MAINCOPY_4010302"
-	STRING_EN[1534]["VALUE"] = "Pass main line instance Aurelia dust"
+	STRING_EN[1534]["VALUE"] = "Mission completed in the Dust of Alleria"
 	STRING_EN[1534]["real_idx"] = 1534
 
 STRING_EN["index"][1535] = 1535
 STRING_EN[1535] = {}
 	STRING_EN[1535]["ID"] = 1535
 	STRING_EN[1535]["KEY"] = "MAINCOPY_4010303"
-	STRING_EN[1535]["VALUE"] = "Pass main line instance of the bones"
+	STRING_EN[1535]["VALUE"] = "Mission completed in the Boneless Area"
 	STRING_EN[1535]["real_idx"] = 1535
 
 STRING_EN["index"][1536] = 1536
 STRING_EN[1536] = {}
 	STRING_EN[1536]["ID"] = 1536
 	STRING_EN[1536]["KEY"] = "MAINCOPY_4010304"
-	STRING_EN[1536]["VALUE"] = "Pass in the storm"
+	STRING_EN[1536]["VALUE"] = "Mission completed in Stormy Shelter"
 	STRING_EN[1536]["real_idx"] = 1536
 
 STRING_EN["index"][1537] = 1537
 STRING_EN[1537] = {}
 	STRING_EN[1537]["ID"] = 1537
 	STRING_EN[1537]["KEY"] = "MAINCOPY_4010305"
-	STRING_EN[1537]["VALUE"] = "Pass main line instance of the ruins of Lordae Mill"
+	STRING_EN[1537]["VALUE"] = "Mission completed in Lordamere Remains"
 	STRING_EN[1537]["real_idx"] = 1537
 
 STRING_EN["index"][1538] = 1538
 STRING_EN[1538] = {}
 	STRING_EN[1538]["ID"] = 1538
 	STRING_EN[1538]["KEY"] = "MAINCOPY_4010306"
-	STRING_EN[1538]["VALUE"] = "Pass main line instance Tirisfal magnetic storm"
+	STRING_EN[1538]["VALUE"] = "Mission completed in Magnetic Storm Teresa"
 	STRING_EN[1538]["real_idx"] = 1538
 
 STRING_EN["index"][1539] = 1539
 STRING_EN[1539] = {}
 	STRING_EN[1539]["ID"] = 1539
 	STRING_EN[1539]["KEY"] = "MAINCOPY_4010401"
-	STRING_EN[1539]["VALUE"] = "Pass main line instance Haigar wreck"
+	STRING_EN[1539]["VALUE"] = "Mission completed in Hyjal Remains"
 	STRING_EN[1539]["real_idx"] = 1539
 
 STRING_EN["index"][1540] = 1540
 STRING_EN[1540] = {}
 	STRING_EN[1540]["ID"] = 1540
 	STRING_EN[1540]["KEY"] = "MAINCOPY_4010402"
-	STRING_EN[1540]["VALUE"] = "Pass main line instance gloom valley"
+	STRING_EN[1540]["VALUE"] = "Mission completed in Gloomy Valley"
 	STRING_EN[1540]["real_idx"] = 1540
 
 STRING_EN["index"][1541] = 1541
 STRING_EN[1541] = {}
 	STRING_EN[1541]["ID"] = 1541
 	STRING_EN[1541]["KEY"] = "MAINCOPY_4010403"
-	STRING_EN[1541]["VALUE"] = "Pass main line instance double tower legacy"
+	STRING_EN[1541]["VALUE"] = "Mission completed in Twin Towers Remains"
 	STRING_EN[1541]["real_idx"] = 1541
 
 STRING_EN["index"][1542] = 1542
 STRING_EN[1542] = {}
 	STRING_EN[1542]["ID"] = 1542
 	STRING_EN[1542]["KEY"] = "MAINCOPY_4010404"
-	STRING_EN[1542]["VALUE"] = "Discovery in the remains of the main line of pass"
+	STRING_EN[1542]["VALUE"] = "Mission completed in Discovery of the Remains"
 	STRING_EN[1542]["real_idx"] = 1542
 
 STRING_EN["index"][1543] = 1543
 STRING_EN[1543] = {}
 	STRING_EN[1543]["ID"] = 1543
 	STRING_EN[1543]["KEY"] = "MAINCOPY_4010405"
-	STRING_EN[1543]["VALUE"] = "Pass main line instance of the star of Alleria"
+	STRING_EN[1543]["VALUE"] = "Mission completed in Planet Alleria"
 	STRING_EN[1543]["real_idx"] = 1543
 
 STRING_EN["index"][1544] = 1544
 STRING_EN[1544] = {}
 	STRING_EN[1544]["ID"] = 1544
 	STRING_EN[1544]["KEY"] = "MAINCOPY_4010406"
-	STRING_EN[1544]["VALUE"] = "A instance of the main line of the pass raids Alleria"
+	STRING_EN[1544]["VALUE"] = "Mission completed in the Raid of Alleria"
 	STRING_EN[1544]["real_idx"] = 1544
 
 STRING_EN["index"][1545] = 1545
 STRING_EN[1545] = {}
 	STRING_EN[1545]["ID"] = 1545
 	STRING_EN[1545]["KEY"] = "MAINCOPY_4010407"
-	STRING_EN[1545]["VALUE"] = "Pass main line instance of the fortress in the starry sky"
+	STRING_EN[1545]["VALUE"] = "Mission completed in the Fortress of the Galaxy"
 	STRING_EN[1545]["real_idx"] = 1545
 
 STRING_EN["index"][1546] = 1546
 STRING_EN[1546] = {}
 	STRING_EN[1546]["ID"] = 1546
 	STRING_EN[1546]["KEY"] = "MAINCOPY_4010501"
-	STRING_EN[1546]["VALUE"] = "Instance of the main line of the oass front facing Manoroc"
+	STRING_EN[1546]["VALUE"] = "Mission completed in the Confrontation of Manoroc"
 	STRING_EN[1546]["real_idx"] = 1546
 
 STRING_EN["index"][1547] = 1547
 STRING_EN[1547] = {}
 	STRING_EN[1547]["ID"] = 1547
 	STRING_EN[1547]["KEY"] = "MAINCOPY_4010502"
-	STRING_EN[1547]["VALUE"] = "Pass instance of the main line"
+	STRING_EN[1547]["VALUE"] = "Mission completed in Battleground Starport"
 	STRING_EN[1547]["real_idx"] = 1547
 
 STRING_EN["index"][1548] = 1548
 STRING_EN[1548] = {}
 	STRING_EN[1548]["ID"] = 1548
 	STRING_EN[1548]["KEY"] = "MAINCOPY_4010503"
-	STRING_EN[1548]["VALUE"] = "Pass main line instance empire support"
+	STRING_EN[1548]["VALUE"] = "Mission completed in Support from The Empire "
 	STRING_EN[1548]["real_idx"] = 1548
 
 STRING_EN["index"][1549] = 1549
 STRING_EN[1549] = {}
 	STRING_EN[1549]["ID"] = 1549
 	STRING_EN[1549]["KEY"] = "MAINCOPY_4010504"
-	STRING_EN[1549]["VALUE"] = "Pass main line instance Manolock barrier"
+	STRING_EN[1549]["VALUE"] = "Mission completed in the Barrier of Manoroc "
 	STRING_EN[1549]["real_idx"] = 1549
 
 STRING_EN["index"][1550] = 1550
 STRING_EN[1550] = {}
 	STRING_EN[1550]["ID"] = 1550
 	STRING_EN[1550]["KEY"] = "MAINCOPY_4010505"
-	STRING_EN[1550]["VALUE"] = "Manorlock with a broken instance of the main line of pass"
+	STRING_EN[1550]["VALUE"] = "Mission completed in Shattered Manoroc"
 	STRING_EN[1550]["real_idx"] = 1550
 
 STRING_EN["index"][1551] = 1551
 STRING_EN[1551] = {}
 	STRING_EN[1551]["ID"] = 1551
 	STRING_EN[1551]["KEY"] = "MAINCOPY_4010506"
-	STRING_EN[1551]["VALUE"] = "Pass main line instance Kenriba neutron star"
+	STRING_EN[1551]["VALUE"] = "Mission completed in the Neutron Star of Kenriba"
 	STRING_EN[1551]["real_idx"] = 1551
 
 STRING_EN["index"][1552] = 1552
 STRING_EN[1552] = {}
 	STRING_EN[1552]["ID"] = 1552
 	STRING_EN[1552]["KEY"] = "MAINCOPY_4010507"
-	STRING_EN[1552]["VALUE"] = "Pass main line instance Kenriba Heights"
+	STRING_EN[1552]["VALUE"] = "Mission completed in the Height of Kenriba"
 	STRING_EN[1552]["real_idx"] = 1552
 
 STRING_EN["index"][1553] = 1553
 STRING_EN[1553] = {}
 	STRING_EN[1553]["ID"] = 1553
 	STRING_EN[1553]["KEY"] = "MAINCOPY_4010508"
-	STRING_EN[1553]["VALUE"] = "Pass main line instance Kenruwa garrison"
+	STRING_EN[1553]["VALUE"] = "Mission completed in the Garrison of Kenriba"
 	STRING_EN[1553]["real_idx"] = 1553
 
 STRING_EN["index"][1554] = 1554
 STRING_EN[1554] = {}
 	STRING_EN[1554]["ID"] = 1554
 	STRING_EN[1554]["KEY"] = "MAINCOPY_4010509"
-	STRING_EN[1554]["VALUE"] = "Pass main line instance Kenruva Commander"
+	STRING_EN[1554]["VALUE"] = "Mission completed in the Commander of Kenriba"
 	STRING_EN[1554]["real_idx"] = 1554
 
 STRING_EN["index"][1555] = 1555
 STRING_EN[1555] = {}
 	STRING_EN[1555]["ID"] = 1555
 	STRING_EN[1555]["KEY"] = "MAINCOPY_4010601"
-	STRING_EN[1555]["VALUE"] = "Pass main line instance Niyier Temple"
+	STRING_EN[1555]["VALUE"] = "Mission completed in Shrine Tesniere"
 	STRING_EN[1555]["real_idx"] = 1555
 
 STRING_EN["index"][1556] = 1556
 STRING_EN[1556] = {}
 	STRING_EN[1556]["ID"] = 1556
 	STRING_EN[1556]["KEY"] = "MAINCOPY_4010602"
-	STRING_EN[1556]["VALUE"] = "Pass main line instance Nijer ruins"
+	STRING_EN[1556]["VALUE"] = "Mission completed in Tesniere Remains"
 	STRING_EN[1556]["real_idx"] = 1556
 
 STRING_EN["index"][1557] = 1557
 STRING_EN[1557] = {}
 	STRING_EN[1557]["ID"] = 1557
 	STRING_EN[1557]["KEY"] = "MAINCOPY_4010603"
-	STRING_EN[1557]["VALUE"] = "Pass main line instance Imperial Institute"
+	STRING_EN[1557]["VALUE"] = "Mission completed in Imperial Institute"
 	STRING_EN[1557]["real_idx"] = 1557
 
 STRING_EN["index"][1558] = 1558
 STRING_EN[1558] = {}
 	STRING_EN[1558]["ID"] = 1558
 	STRING_EN[1558]["KEY"] = "MAINCOPY_4010604"
-	STRING_EN[1558]["VALUE"] = "Pass main line instance Imperial Laboratory"
+	STRING_EN[1558]["VALUE"] = "Mission completed in Imperial Lab"
 	STRING_EN[1558]["real_idx"] = 1558
 
 STRING_EN["index"][1559] = 1559
 STRING_EN[1559] = {}
 	STRING_EN[1559]["ID"] = 1559
 	STRING_EN[1559]["KEY"] = "MAINCOPY_4010605"
-	STRING_EN[1559]["VALUE"] = "Pass main line instance Imperial core fleet"
+	STRING_EN[1559]["VALUE"] = "Mission completed in Imperial Core Fleet"
 	STRING_EN[1559]["real_idx"] = 1559
 
 STRING_EN["index"][1560] = 1560
 STRING_EN[1560] = {}
 	STRING_EN[1560]["ID"] = 1560
 	STRING_EN[1560]["KEY"] = "MAINCOPY_4010606"
-	STRING_EN[1560]["VALUE"] = "Pass main line instance of the foggy city"
+	STRING_EN[1560]["VALUE"] = "Mission completed in City of the Mists"
 	STRING_EN[1560]["real_idx"] = 1560
 
 STRING_EN["index"][1561] = 1561
 STRING_EN[1561] = {}
 	STRING_EN[1561]["ID"] = 1561
 	STRING_EN[1561]["KEY"] = "MAINCOPY_4010607"
-	STRING_EN[1561]["VALUE"] = "Pass main line instance Verga fortress"
+	STRING_EN[1561]["VALUE"] = "Mission completed in the Fortress of Wilga"
 	STRING_EN[1561]["real_idx"] = 1561
 
 STRING_EN["index"][1562] = 1562
 STRING_EN[1562] = {}
 	STRING_EN[1562]["ID"] = 1562
 	STRING_EN[1562]["KEY"] = "MAINCOPY_4010608"
-	STRING_EN[1562]["VALUE"] = "Pass main line instance Verga Fortress"
+	STRING_EN[1562]["VALUE"] = "Mission completed in the Stronghold of Wilga "
 	STRING_EN[1562]["real_idx"] = 1562
 
 STRING_EN["index"][1563] = 1563
 STRING_EN[1563] = {}
 	STRING_EN[1563]["ID"] = 1563
 	STRING_EN[1563]["KEY"] = "MAINCOPY_4010609"
-	STRING_EN[1563]["VALUE"] = "Pass main line instance Imperial core fleet captain"
+	STRING_EN[1563]["VALUE"] = "Mission completed in the Captain Fleet of Imperial Core Fleet"
 	STRING_EN[1563]["real_idx"] = 1563
 
 STRING_EN["index"][1564] = 1564
 STRING_EN[1564] = {}
 	STRING_EN[1564]["ID"] = 1564
 	STRING_EN[1564]["KEY"] = "MAINCOPY_4010701"
-	STRING_EN[1564]["VALUE"] = "Pass main line instance of the main star of Cologne"
+	STRING_EN[1564]["VALUE"] = "Mission completed in Starbase of Arklon"
 	STRING_EN[1564]["real_idx"] = 1564
 
 STRING_EN["index"][1565] = 1565
 STRING_EN[1565] = {}
 	STRING_EN[1565]["ID"] = 1565
 	STRING_EN[1565]["KEY"] = "MAINCOPY_4010702"
-	STRING_EN[1565]["VALUE"] = "Pass main line instance Cologne relay station"
+	STRING_EN[1565]["VALUE"] = "Mission completed in the Relay Station of Arklon"
 	STRING_EN[1565]["real_idx"] = 1565
 
 STRING_EN["index"][1566] = 1566
 STRING_EN[1566] = {}
 	STRING_EN[1566]["ID"] = 1566
 	STRING_EN[1566]["KEY"] = "MAINCOPY_4010703"
-	STRING_EN[1566]["VALUE"] = "Pass main line instance Imperial Fleet Command Post"
+	STRING_EN[1566]["VALUE"] = "Mission completed in Command Center of Imperial Fleet "
 	STRING_EN[1566]["real_idx"] = 1566
 
 STRING_EN["index"][1567] = 1567
 STRING_EN[1567] = {}
 	STRING_EN[1567]["ID"] = 1567
 	STRING_EN[1567]["KEY"] = "MAINCOPY_4010704"
-	STRING_EN[1567]["VALUE"] = "Pass main line instance of the Cologne factory"
+	STRING_EN[1567]["VALUE"] = "Mission completed in the Factory of Arklon"
 	STRING_EN[1567]["real_idx"] = 1567
 
 STRING_EN["index"][1568] = 1568
 STRING_EN[1568] = {}
 	STRING_EN[1568]["ID"] = 1568
 	STRING_EN[1568]["KEY"] = "MAINCOPY_4010705"
-	STRING_EN[1568]["VALUE"] = "Pass main line instance of the Al Cologne nest"
+	STRING_EN[1568]["VALUE"] = "Mission completed in Star Nest of Arklon"
 	STRING_EN[1568]["real_idx"] = 1568
 
 STRING_EN["index"][1569] = 1569
 STRING_EN[1569] = {}
 	STRING_EN[1569]["ID"] = 1569
 	STRING_EN[1569]["KEY"] = "MAINCOPY_4010706"
-	STRING_EN[1569]["VALUE"] = "Pass main line instance blood wall"
+	STRING_EN[1569]["VALUE"] = "Mission completed in Bloody Wall"
 	STRING_EN[1569]["real_idx"] = 1569
 
 STRING_EN["index"][1570] = 1570
 STRING_EN[1570] = {}
 	STRING_EN[1570]["ID"] = 1570
 	STRING_EN[1570]["KEY"] = "MAINCOPY_4010707"
-	STRING_EN[1570]["VALUE"] = "Pass main line instance Empire Star Harbor"
+	STRING_EN[1570]["VALUE"] = "Mission completed in Imperial Starport"
 	STRING_EN[1570]["real_idx"] = 1570
 
 STRING_EN["index"][1571] = 1571
 STRING_EN[1571] = {}
 	STRING_EN[1571]["ID"] = 1571
 	STRING_EN[1571]["KEY"] = "MAINCOPY_4010708"
-	STRING_EN[1571]["VALUE"] = "Pass main line instance Imperial Fleet Base Camp"
+	STRING_EN[1571]["VALUE"] = "Mission completed in Imperial Fleet Base "
 	STRING_EN[1571]["real_idx"] = 1571
 
 STRING_EN["index"][1572] = 1572
 STRING_EN[1572] = {}
 	STRING_EN[1572]["ID"] = 1572
 	STRING_EN[1572]["KEY"] = "MAINCOPY_4010709"
-	STRING_EN[1572]["VALUE"] = "Pass main line instance Karp commander"
+	STRING_EN[1572]["VALUE"] = "Mission completed in Commander Carp"
 	STRING_EN[1572]["real_idx"] = 1572
 
 STRING_EN["index"][1573] = 1573
 STRING_EN[1573] = {}
 	STRING_EN[1573]["ID"] = 1573
 	STRING_EN[1573]["KEY"] = "MAINCOPY_5010101"
-	STRING_EN[1573]["VALUE"] = "Pass main line instance Drew Galaxy"
+	STRING_EN[1573]["VALUE"] = "Mission completed in Galaxy Drew"
 	STRING_EN[1573]["real_idx"] = 1573
 
 STRING_EN["index"][1574] = 1574
 STRING_EN[1574] = {}
 	STRING_EN[1574]["ID"] = 1574
 	STRING_EN[1574]["KEY"] = "MAINCOPY_5010102"
-	STRING_EN[1574]["VALUE"] = "Pass main line instance Cusco outpost"
+	STRING_EN[1574]["VALUE"] = "Mission completed in the Outpost of Kusiak"
 	STRING_EN[1574]["real_idx"] = 1574
 
 STRING_EN["index"][1575] = 1575
 STRING_EN[1575] = {}
 	STRING_EN[1575]["ID"] = 1575
 	STRING_EN[1575]["KEY"] = "MAINCOPY_5010103"
-	STRING_EN[1575]["VALUE"] = "Pass main line instance Kusca Union"
+	STRING_EN[1575]["VALUE"] = "Mission completed in the Alliance of Kusiak "
 	STRING_EN[1575]["real_idx"] = 1575
 
 STRING_EN["index"][1576] = 1576
 STRING_EN[1576] = {}
 	STRING_EN[1576]["ID"] = 1576
 	STRING_EN[1576]["KEY"] = "MAINCOPY_5010104"
-	STRING_EN[1576]["VALUE"] = "Pass main line instance Kuskar column"
+	STRING_EN[1576]["VALUE"] = "Mission completed in the Backbone of Kusiak"
 	STRING_EN[1576]["real_idx"] = 1576
 
 STRING_EN["index"][1577] = 1577
 STRING_EN[1577] = {}
 	STRING_EN[1577]["ID"] = 1577
 	STRING_EN[1577]["KEY"] = "MAINCOPY_5010105"
-	STRING_EN[1577]["VALUE"] = "Pass main line instance Kusca Fortress"
+	STRING_EN[1577]["VALUE"] = "Mission completed in the Fortress of Kusiak"
 	STRING_EN[1577]["real_idx"] = 1577
 
 STRING_EN["index"][1578] = 1578
 STRING_EN[1578] = {}
 	STRING_EN[1578]["ID"] = 1578
 	STRING_EN[1578]["KEY"] = "MAINCOPY_5010201"
-	STRING_EN[1578]["VALUE"] = "Pass main line instance Haijiaer"
+	STRING_EN[1578]["VALUE"] = "Mission completed in the Peak of Hyjal"
 	STRING_EN[1578]["real_idx"] = 1578
 
 STRING_EN["index"][1579] = 1579
 STRING_EN[1579] = {}
 	STRING_EN[1579]["ID"] = 1579
 	STRING_EN[1579]["KEY"] = "MAINCOPY_5010202"
-	STRING_EN[1579]["VALUE"] = "Pass main line instance of Rutherland Floating Island"
+	STRING_EN[1579]["VALUE"] = "Mission completed in Floating Island of Lucilla"
 	STRING_EN[1579]["real_idx"] = 1579
 
 STRING_EN["index"][1580] = 1580
 STRING_EN[1580] = {}
 	STRING_EN[1580]["ID"] = 1580
 	STRING_EN[1580]["KEY"] = "MAINCOPY_5010203"
-	STRING_EN[1580]["VALUE"] = "Pass main line instance floating island wreck"
+	STRING_EN[1580]["VALUE"] = "Mission completed in Floating island Remains"
 	STRING_EN[1580]["real_idx"] = 1580
 
 STRING_EN["index"][1581] = 1581
 STRING_EN[1581] = {}
 	STRING_EN[1581]["ID"] = 1581
 	STRING_EN[1581]["KEY"] = "MAINCOPY_5010204"
-	STRING_EN[1581]["VALUE"] = "Pass of the main line of the Pass"
+	STRING_EN[1581]["VALUE"] = "Mission completed in the Bones of Constellation"
 	STRING_EN[1581]["real_idx"] = 1581
 
 STRING_EN["index"][1582] = 1582
 STRING_EN[1582] = {}
 	STRING_EN[1582]["ID"] = 1582
 	STRING_EN[1582]["KEY"] = "MAINCOPY_5010205"
-	STRING_EN[1582]["VALUE"] = "Pass main line instance of Menethil Harbor"
+	STRING_EN[1582]["VALUE"] = "Mission completed in Port Menethil"
 	STRING_EN[1582]["real_idx"] = 1582
 
 STRING_EN["index"][1583] = 1583
 STRING_EN[1583] = {}
 	STRING_EN[1583]["ID"] = 1583
 	STRING_EN[1583]["KEY"] = "MAINCOPY_5010206"
-	STRING_EN[1583]["VALUE"] = "Pass main line instance Empire advance fleet base"
+	STRING_EN[1583]["VALUE"] = "Mission completed in Base of Imperial Advance Fleet "
 	STRING_EN[1583]["real_idx"] = 1583
 
 STRING_EN["index"][1584] = 1584
 STRING_EN[1584] = {}
 	STRING_EN[1584]["ID"] = 1584
 	STRING_EN[1584]["KEY"] = "MAINCOPY_5010301"
-	STRING_EN[1584]["VALUE"] = "Pass main line instance Aocheng Shi shelter"
+	STRING_EN[1584]["VALUE"] = "Mission completed in the Shelter of Oswiak"
 	STRING_EN[1584]["real_idx"] = 1584
 
 STRING_EN["index"][1585] = 1585
 STRING_EN[1585] = {}
 	STRING_EN[1585]["ID"] = 1585
 	STRING_EN[1585]["KEY"] = "MAINCOPY_5010302"
-	STRING_EN[1585]["VALUE"] = "Pass main line instance Aocheng Shi fog"
+	STRING_EN[1585]["VALUE"] = "Mission completed in the Mists of Oswiak"
 	STRING_EN[1585]["real_idx"] = 1585
 
 STRING_EN["index"][1586] = 1586
 STRING_EN[1586] = {}
 	STRING_EN[1586]["ID"] = 1586
 	STRING_EN[1586]["KEY"] = "MAINCOPY_5010303"
-	STRING_EN[1586]["VALUE"] = "Pass main line instance Aocheng Shizhi marks"
+	STRING_EN[1586]["VALUE"] = "Mission completed in the Crack of Oswiak"
 	STRING_EN[1586]["real_idx"] = 1586
 
 STRING_EN["index"][1587] = 1587
 STRING_EN[1587] = {}
 	STRING_EN[1587]["ID"] = 1587
 	STRING_EN[1587]["KEY"] = "MAINCOPY_5010304"
-	STRING_EN[1587]["VALUE"] = "Pass main line instance star mark portal"
+	STRING_EN[1587]["VALUE"] = "Mission completed in Portal of the Galaxy"
 	STRING_EN[1587]["real_idx"] = 1587
 
 STRING_EN["index"][1588] = 1588
 STRING_EN[1588] = {}
 	STRING_EN[1588]["ID"] = 1588
 	STRING_EN[1588]["KEY"] = "MAINCOPY_5010305"
-	STRING_EN[1588]["VALUE"] = "Pass main line instance of the night of the night"
+	STRING_EN[1588]["VALUE"] = "Mission completed in the Land of Evernight"
 	STRING_EN[1588]["real_idx"] = 1588
 
 STRING_EN["index"][1589] = 1589
 STRING_EN[1589] = {}
 	STRING_EN[1589]["ID"] = 1589
 	STRING_EN[1589]["KEY"] = "MAINCOPY_5010306"
-	STRING_EN[1589]["VALUE"] = "Pass main line instance Carl's nest"
+	STRING_EN[1589]["VALUE"] = "Mission completed in Carl's Nest"
 	STRING_EN[1589]["real_idx"] = 1589
 
 STRING_EN["index"][1590] = 1590
 STRING_EN[1590] = {}
 	STRING_EN[1590]["ID"] = 1590
 	STRING_EN[1590]["KEY"] = "MAINCOPY_5010401"
-	STRING_EN[1590]["VALUE"] = "Pass main line instance Augustus ruins"
+	STRING_EN[1590]["VALUE"] = "Mission completed in Augustus Remains"
 	STRING_EN[1590]["real_idx"] = 1590
 
 STRING_EN["index"][1591] = 1591
 STRING_EN[1591] = {}
 	STRING_EN[1591]["ID"] = 1591
 	STRING_EN[1591]["KEY"] = "MAINCOPY_5010402"
-	STRING_EN[1591]["VALUE"] = "Pass main line instance Roland Star Cluster"
+	STRING_EN[1591]["VALUE"] = "Mission completed in the Stardust of Roland "
 	STRING_EN[1591]["real_idx"] = 1591
 
 STRING_EN["index"][1592] = 1592
 STRING_EN[1592] = {}
 	STRING_EN[1592]["ID"] = 1592
 	STRING_EN[1592]["KEY"] = "MAINCOPY_5010403"
-	STRING_EN[1592]["VALUE"] = "Pass main line instance Roland wreck"
+	STRING_EN[1592]["VALUE"] = "Mission completed in Roland Remains"
 	STRING_EN[1592]["real_idx"] = 1592
 
 STRING_EN["index"][1593] = 1593
 STRING_EN[1593] = {}
 	STRING_EN[1593]["ID"] = 1593
 	STRING_EN[1593]["KEY"] = "MAINCOPY_5010404"
-	STRING_EN[1593]["VALUE"] = "Pass main line instance Roland leftover"
+	STRING_EN[1593]["VALUE"] = "Mission completed in Remnant of  Roland"
 	STRING_EN[1593]["real_idx"] = 1593
 
 STRING_EN["index"][1594] = 1594
 STRING_EN[1594] = {}
 	STRING_EN[1594]["ID"] = 1594
 	STRING_EN[1594]["KEY"] = "MAINCOPY_5010405"
-	STRING_EN[1594]["VALUE"] = "Pass main line instance Roland relay station"
+	STRING_EN[1594]["VALUE"] = "Mission completed in the Relay Station of Roland"
 	STRING_EN[1594]["real_idx"] = 1594
 
 STRING_EN["index"][1595] = 1595
 STRING_EN[1595] = {}
 	STRING_EN[1595]["ID"] = 1595
 	STRING_EN[1595]["KEY"] = "MAINCOPY_5010406"
-	STRING_EN[1595]["VALUE"] = "Pass main line instance Roland Lab"
+	STRING_EN[1595]["VALUE"] = "Mission completed in Roland Lab"
 	STRING_EN[1595]["real_idx"] = 1595
 
 STRING_EN["index"][1596] = 1596
 STRING_EN[1596] = {}
 	STRING_EN[1596]["ID"] = 1596
 	STRING_EN[1596]["KEY"] = "MAINCOPY_5010407"
-	STRING_EN[1596]["VALUE"] = "Pass main line instance empire jump station"
+	STRING_EN[1596]["VALUE"] = "Mission completed in Imperial Transition Station"
 	STRING_EN[1596]["real_idx"] = 1596
 
 STRING_EN["index"][1597] = 1597
 STRING_EN[1597] = {}
 	STRING_EN[1597]["ID"] = 1597
 	STRING_EN[1597]["KEY"] = "MAINCOPY_5010408"
-	STRING_EN[1597]["VALUE"] = "Pass main line instance blood color global port"
+	STRING_EN[1597]["VALUE"] = "Mission completed in Bloody Global Harbor"
 	STRING_EN[1597]["real_idx"] = 1597
 
 STRING_EN["index"][1598] = 1598
 STRING_EN[1598] = {}
 	STRING_EN[1598]["ID"] = 1598
 	STRING_EN[1598]["KEY"] = "MAINCOPY_5010501"
-	STRING_EN[1598]["VALUE"] = "Pass main line instance Taya satellite"
+	STRING_EN[1598]["VALUE"] = "Mission completed in the Satellite of Tayar"
 	STRING_EN[1598]["real_idx"] = 1598
 
 STRING_EN["index"][1599] = 1599
 STRING_EN[1599] = {}
 	STRING_EN[1599]["ID"] = 1599
 	STRING_EN[1599]["KEY"] = "MAINCOPY_5010502"
-	STRING_EN[1599]["VALUE"] = "Pass main line instance Taya Nebula"
+	STRING_EN[1599]["VALUE"] = "Mission completed in the Nebula of Tayar"
 	STRING_EN[1599]["real_idx"] = 1599
 
 STRING_EN["index"][1600] = 1600
 STRING_EN[1600] = {}
 	STRING_EN[1600]["ID"] = 1600
 	STRING_EN[1600]["KEY"] = "MAINCOPY_5010503"
-	STRING_EN[1600]["VALUE"] = "Pass main line instance Taya factory"
+	STRING_EN[1600]["VALUE"] = "Mission completed in the Factory of Tayar"
 	STRING_EN[1600]["real_idx"] = 1600
 
 STRING_EN["index"][1601] = 1601
 STRING_EN[1601] = {}
 	STRING_EN[1601]["ID"] = 1601
 	STRING_EN[1601]["KEY"] = "MAINCOPY_5010504"
-	STRING_EN[1601]["VALUE"] = "Pass main line instance Taya fortress"
+	STRING_EN[1601]["VALUE"] = "Mission completed in the Fortress of Tayar"
 	STRING_EN[1601]["real_idx"] = 1601
 
 STRING_EN["index"][1602] = 1602
 STRING_EN[1602] = {}
 	STRING_EN[1602]["ID"] = 1602
 	STRING_EN[1602]["KEY"] = "MAINCOPY_5010505"
-	STRING_EN[1602]["VALUE"] = "Pass main line instance Taya Imperial Fleet stronghold"
+	STRING_EN[1602]["VALUE"] = "Mission completed in the Stronghold of Tayar's Fleet "
 	STRING_EN[1602]["real_idx"] = 1602
 
 STRING_EN["index"][1603] = 1603
 STRING_EN[1603] = {}
 	STRING_EN[1603]["ID"] = 1603
 	STRING_EN[1603]["KEY"] = "MAINCOPY_5010506"
-	STRING_EN[1603]["VALUE"] = "Pass of the main line of the wreck"
+	STRING_EN[1603]["VALUE"] = "Mission completed in Wrecked Lab"
 	STRING_EN[1603]["real_idx"] = 1603
 
 STRING_EN["index"][1604] = 1604
 STRING_EN[1604] = {}
 	STRING_EN[1604]["ID"] = 1604
 	STRING_EN[1604]["KEY"] = "MAINCOPY_5010507"
-	STRING_EN[1604]["VALUE"] = "Pass main line instance planetary storm"
+	STRING_EN[1604]["VALUE"] = "Mission completed in Storm of the Planet"
 	STRING_EN[1604]["real_idx"] = 1604
 
 STRING_EN["index"][1605] = 1605
 STRING_EN[1605] = {}
 	STRING_EN[1605]["ID"] = 1605
 	STRING_EN[1605]["KEY"] = "MAINCOPY_5010508"
-	STRING_EN[1605]["VALUE"] = "Pass main line instance of the wall of the mountain"
+	STRING_EN[1605]["VALUE"] = "Mission completed in the Wall of Mount Taurus"
 	STRING_EN[1605]["real_idx"] = 1605
 
 STRING_EN["index"][1606] = 1606
 STRING_EN[1606] = {}
 	STRING_EN[1606]["ID"] = 1606
 	STRING_EN[1606]["KEY"] = "MAINCOPY_5010509"
-	STRING_EN[1606]["VALUE"] = "Pass main line instance Imperial Bath Fortress"
+	STRING_EN[1606]["VALUE"] = "Mission completed in the Fortress of Imperial Bahn "
 	STRING_EN[1606]["real_idx"] = 1606
 
 STRING_EN["index"][1607] = 1607
 STRING_EN[1607] = {}
 	STRING_EN[1607]["ID"] = 1607
 	STRING_EN[1607]["KEY"] = "MAINCOPY_5010601"
-	STRING_EN[1607]["VALUE"] = "Pass main line instance Starport wreck"
+	STRING_EN[1607]["VALUE"] = "Mission completed in Starport Remains"
 	STRING_EN[1607]["real_idx"] = 1607
 
 STRING_EN["index"][1608] = 1608
 STRING_EN[1608] = {}
 	STRING_EN[1608]["ID"] = 1608
 	STRING_EN[1608]["KEY"] = "MAINCOPY_5010602"
-	STRING_EN[1608]["VALUE"] = "Pass main line instance of Halsh's Gate"
+	STRING_EN[1608]["VALUE"] = "Mission completed in the Gate of Haers"
 	STRING_EN[1608]["real_idx"] = 1608
 
 STRING_EN["index"][1609] = 1609
 STRING_EN[1609] = {}
 	STRING_EN[1609]["ID"] = 1609
 	STRING_EN[1609]["KEY"] = "MAINCOPY_5010603"
-	STRING_EN[1609]["VALUE"] = "Pass main line instance black hole storm"
+	STRING_EN[1609]["VALUE"] = "Mission completed in Storm of the Black Hole "
 	STRING_EN[1609]["real_idx"] = 1609
 
 STRING_EN["index"][1610] = 1610
 STRING_EN[1610] = {}
 	STRING_EN[1610]["ID"] = 1610
 	STRING_EN[1610]["KEY"] = "MAINCOPY_5010604"
-	STRING_EN[1610]["VALUE"] = "Pass main line instance Alterac Holy Land"
+	STRING_EN[1610]["VALUE"] = "Mission completed in the Holy Land of Alterac "
 	STRING_EN[1610]["real_idx"] = 1610
 
 STRING_EN["index"][1611] = 1611
 STRING_EN[1611] = {}
 	STRING_EN[1611]["ID"] = 1611
 	STRING_EN[1611]["KEY"] = "MAINCOPY_5010605"
-	STRING_EN[1611]["VALUE"] = "Pass main line instance hope place"
+	STRING_EN[1611]["VALUE"] = "Mission completed in the Land of Hope"
 	STRING_EN[1611]["real_idx"] = 1611
 
 STRING_EN["index"][1612] = 1612
 STRING_EN[1612] = {}
 	STRING_EN[1612]["ID"] = 1612
 	STRING_EN[1612]["KEY"] = "MAINCOPY_5010606"
-	STRING_EN[1612]["VALUE"] = "Pass main line instance Alterac civilization"
+	STRING_EN[1612]["VALUE"] = "Mission completed in Alterac Civilization"
 	STRING_EN[1612]["real_idx"] = 1612
 
 STRING_EN["index"][1613] = 1613
 STRING_EN[1613] = {}
 	STRING_EN[1613]["ID"] = 1613
 	STRING_EN[1613]["KEY"] = "MAINCOPY_5010607"
-	STRING_EN[1613]["VALUE"] = "Pass main line instance Alterac Nebula"
+	STRING_EN[1613]["VALUE"] = "Mission completed in the Nebula of Alterac"
 	STRING_EN[1613]["real_idx"] = 1613
 
 STRING_EN["index"][1614] = 1614
 STRING_EN[1614] = {}
 	STRING_EN[1614]["ID"] = 1614
 	STRING_EN[1614]["KEY"] = "MAINCOPY_5010608"
-	STRING_EN[1614]["VALUE"] = "Pass main line instance Imperial Fleet Base"
+	STRING_EN[1614]["VALUE"] = "Mission completed in Imperial Fleet Base"
 	STRING_EN[1614]["real_idx"] = 1614
 
 STRING_EN["index"][1615] = 1615
 STRING_EN[1615] = {}
 	STRING_EN[1615]["ID"] = 1615
 	STRING_EN[1615]["KEY"] = "MAINCOPY_5010609"
-	STRING_EN[1615]["VALUE"] = "Pass main line instance Alterac main city"
+	STRING_EN[1615]["VALUE"] = "Mission completed in the Main City of Alterac "
 	STRING_EN[1615]["real_idx"] = 1615
 
 STRING_EN["index"][1616] = 1616
 STRING_EN[1616] = {}
 	STRING_EN[1616]["ID"] = 1616
 	STRING_EN[1616]["KEY"] = "MAINCOPY_5010701"
-	STRING_EN[1616]["VALUE"] = "Pass main line instance of the night gathering place"
+	STRING_EN[1616]["VALUE"] = "Mission completed in Gathering place of Evernight"
 	STRING_EN[1616]["real_idx"] = 1616
 
 STRING_EN["index"][1617] = 1617
 STRING_EN[1617] = {}
 	STRING_EN[1617]["ID"] = 1617
 	STRING_EN[1617]["KEY"] = "MAINCOPY_5010702"
-	STRING_EN[1617]["VALUE"] = "Pass main line instance Yongye Xinghe"
+	STRING_EN[1617]["VALUE"] = "Mission completed in Galaxy Evernight"
 	STRING_EN[1617]["real_idx"] = 1617
 
 STRING_EN["index"][1618] = 1618
 STRING_EN[1618] = {}
 	STRING_EN[1618]["ID"] = 1618
 	STRING_EN[1618]["KEY"] = "MAINCOPY_5010703"
-	STRING_EN[1618]["VALUE"] = "Pass main line instance thorns stars"
+	STRING_EN[1618]["VALUE"] = "Mission completed in Stars of Thorns"
 	STRING_EN[1618]["real_idx"] = 1618
 
 STRING_EN["index"][1619] = 1619
 STRING_EN[1619] = {}
 	STRING_EN[1619]["ID"] = 1619
 	STRING_EN[1619]["KEY"] = "MAINCOPY_5010704"
-	STRING_EN[1619]["VALUE"] = "Pass main line instance Zolam trace"
+	STRING_EN[1619]["VALUE"] = "Mission completed in the Crack of Zoram"
 	STRING_EN[1619]["real_idx"] = 1619
 
 STRING_EN["index"][1620] = 1620
 STRING_EN[1620] = {}
 	STRING_EN[1620]["ID"] = 1620
 	STRING_EN[1620]["KEY"] = "MAINCOPY_5010705"
-	STRING_EN[1620]["VALUE"] = "Pass main line instance Zolam factory"
+	STRING_EN[1620]["VALUE"] = "Mission completed in the Factory of Zoram"
 	STRING_EN[1620]["real_idx"] = 1620
 
 STRING_EN["index"][1621] = 1621
 STRING_EN[1621] = {}
 	STRING_EN[1621]["ID"] = 1621
 	STRING_EN[1621]["KEY"] = "MAINCOPY_5010706"
-	STRING_EN[1621]["VALUE"] = "Pass main line instance Imperial elite core fleet"
+	STRING_EN[1621]["VALUE"] = "Mission completed in Imperial Elite Core Fleet"
 	STRING_EN[1621]["real_idx"] = 1621
 
 STRING_EN["index"][1622] = 1622
 STRING_EN[1622] = {}
 	STRING_EN[1622]["ID"] = 1622
 	STRING_EN[1622]["KEY"] = "MAINCOPY_5010707"
-	STRING_EN[1622]["VALUE"] = "Pass main line instance Zolam wall"
+	STRING_EN[1622]["VALUE"] = "Mission completed in the Wall of Zoram"
 	STRING_EN[1622]["real_idx"] = 1622
 
 STRING_EN["index"][1623] = 1623
 STRING_EN[1623] = {}
 	STRING_EN[1623]["ID"] = 1623
 	STRING_EN[1623]["KEY"] = "MAINCOPY_5010708"
-	STRING_EN[1623]["VALUE"] = "Pass main line instance Zolam Empire Base"
+	STRING_EN[1623]["VALUE"] = "Mission completed in Zoram's Base"
 	STRING_EN[1623]["real_idx"] = 1623
 
 STRING_EN["index"][1624] = 1624
 STRING_EN[1624] = {}
 	STRING_EN[1624]["ID"] = 1624
 	STRING_EN[1624]["KEY"] = "MAINCOPY_5010709"
-	STRING_EN[1624]["VALUE"] = "Pass main line instance Imperial core castle"
+	STRING_EN[1624]["VALUE"] = "Mission completed in the Captain Fleet of Imperial Core Fleet"
 	STRING_EN[1624]["real_idx"] = 1624
 
 STRING_EN["index"][1625] = 1625
 STRING_EN[1625] = {}
 	STRING_EN[1625]["ID"] = 1625
 	STRING_EN[1625]["KEY"] = "MAINCOPY_5010801"
-	STRING_EN[1625]["VALUE"] = "Pass main line instance St. Kejimu"
+	STRING_EN[1625]["VALUE"] = "Mission completed in Starbase of Sergej"
 	STRING_EN[1625]["real_idx"] = 1625
 
 STRING_EN["index"][1626] = 1626
 STRING_EN[1626] = {}
 	STRING_EN[1626]["ID"] = 1626
 	STRING_EN[1626]["KEY"] = "MAINCOPY_5010802"
-	STRING_EN[1626]["VALUE"] = "Pass main line instance St. Kyrgyz post"
+	STRING_EN[1626]["VALUE"] = "Mission completed in the Sentry of Sergej"
 	STRING_EN[1626]["real_idx"] = 1626
 
 STRING_EN["index"][1627] = 1627
 STRING_EN[1627] = {}
 	STRING_EN[1627]["ID"] = 1627
 	STRING_EN[1627]["KEY"] = "MAINCOPY_5010803"
-	STRING_EN[1627]["VALUE"] = "Pass main line instance fog star"
+	STRING_EN[1627]["VALUE"] = "Mission completed in Planet in the Mists"
 	STRING_EN[1627]["real_idx"] = 1627
 
 STRING_EN["index"][1628] = 1628
 STRING_EN[1628] = {}
 	STRING_EN[1628]["ID"] = 1628
 	STRING_EN[1628]["KEY"] = "MAINCOPY_5010804"
-	STRING_EN[1628]["VALUE"] = "Pass of the main line instance of the planet in the dark"
+	STRING_EN[1628]["VALUE"] = "Mission completed in Planet in the Dark"
 	STRING_EN[1628]["real_idx"] = 1628
 
 STRING_EN["index"][1629] = 1629
 STRING_EN[1629] = {}
 	STRING_EN[1629]["ID"] = 1629
 	STRING_EN[1629]["KEY"] = "MAINCOPY_5010805"
-	STRING_EN[1629]["VALUE"] = "Pass main line instance St. Keji Pendant"
+	STRING_EN[1629]["VALUE"] = "Mission completed in the Fallen Star of Sergej"
 	STRING_EN[1629]["real_idx"] = 1629
 
 STRING_EN["index"][1630] = 1630
 STRING_EN[1630] = {}
 	STRING_EN[1630]["ID"] = 1630
 	STRING_EN[1630]["KEY"] = "MAINCOPY_5010806"
-	STRING_EN[1630]["VALUE"] = "Pass main line instance St. Keji Fortress"
+	STRING_EN[1630]["VALUE"] = "Mission completed in the Fortress of Sergej"
 	STRING_EN[1630]["real_idx"] = 1630
 
 STRING_EN["index"][1631] = 1631
 STRING_EN[1631] = {}
 	STRING_EN[1631]["ID"] = 1631
 	STRING_EN[1631]["KEY"] = "MAINCOPY_5010807"
-	STRING_EN[1631]["VALUE"] = "Pass main line instance St. Keji wreck"
+	STRING_EN[1631]["VALUE"] = "Mission completed in Sergej Remains"
 	STRING_EN[1631]["real_idx"] = 1631
 
 STRING_EN["index"][1632] = 1632
 STRING_EN[1632] = {}
 	STRING_EN[1632]["ID"] = 1632
 	STRING_EN[1632]["KEY"] = "MAINCOPY_5010808"
-	STRING_EN[1632]["VALUE"] = "Pass main line instance St. Keji Fortress"
+	STRING_EN[1632]["VALUE"] = "Mission completed in the Stronghold of Sergej"
 	STRING_EN[1632]["real_idx"] = 1632
 
 STRING_EN["index"][1633] = 1633
 STRING_EN[1633] = {}
 	STRING_EN[1633]["ID"] = 1633
 	STRING_EN[1633]["KEY"] = "MAINCOPY_5010809"
-	STRING_EN[1633]["VALUE"] = "Pass main line instance Siwaka Chief Commander"
+	STRING_EN[1633]["VALUE"] = "Mission completed in Commander Sivaka"
 	STRING_EN[1633]["real_idx"] = 1633
 
 STRING_EN["index"][1634] = 1634
 STRING_EN[1634] = {}
 	STRING_EN[1634]["ID"] = 1634
 	STRING_EN[1634]["KEY"] = "MAINCOPY_6010101"
-	STRING_EN[1634]["VALUE"] = "Pass UT_6010101"
+	STRING_EN[1634]["VALUE"] = "Mission completed in UT_6010101"
 	STRING_EN[1634]["real_idx"] = 1634
 
 STRING_EN["index"][1635] = 1635
 STRING_EN[1635] = {}
 	STRING_EN[1635]["ID"] = 1635
 	STRING_EN[1635]["KEY"] = "MAINCOPY_6010102"
-	STRING_EN[1635]["VALUE"] = "Pass UT_6010102"
+	STRING_EN[1635]["VALUE"] = "Mission completed in UT_6010102"
 	STRING_EN[1635]["real_idx"] = 1635
 
 STRING_EN["index"][1636] = 1636
 STRING_EN[1636] = {}
 	STRING_EN[1636]["ID"] = 1636
 	STRING_EN[1636]["KEY"] = "MAINCOPY_6010103"
-	STRING_EN[1636]["VALUE"] = "Pass UT_6010103"
+	STRING_EN[1636]["VALUE"] = "Mission completed in UT_6010103"
 	STRING_EN[1636]["real_idx"] = 1636
 
 STRING_EN["index"][1637] = 1637
 STRING_EN[1637] = {}
 	STRING_EN[1637]["ID"] = 1637
 	STRING_EN[1637]["KEY"] = "MAINCOPY_6010104"
-	STRING_EN[1637]["VALUE"] = "Pass UT_6010104"
+	STRING_EN[1637]["VALUE"] = "Mission completed in UT_6010104"
 	STRING_EN[1637]["real_idx"] = 1637
 
 STRING_EN["index"][1638] = 1638
 STRING_EN[1638] = {}
 	STRING_EN[1638]["ID"] = 1638
 	STRING_EN[1638]["KEY"] = "MAINCOPY_6010105"
-	STRING_EN[1638]["VALUE"] = "Pass UT_6010105"
+	STRING_EN[1638]["VALUE"] = "Mission completed in UT_6010105"
 	STRING_EN[1638]["real_idx"] = 1638
 
 STRING_EN["index"][1639] = 1639
 STRING_EN[1639] = {}
 	STRING_EN[1639]["ID"] = 1639
 	STRING_EN[1639]["KEY"] = "MAINCOPY_6010106"
-	STRING_EN[1639]["VALUE"] = "Pass UT_6010106"
+	STRING_EN[1639]["VALUE"] = "Mission completed in UT_6010106"
 	STRING_EN[1639]["real_idx"] = 1639
 
 STRING_EN["index"][1640] = 1640
 STRING_EN[1640] = {}
 	STRING_EN[1640]["ID"] = 1640
 	STRING_EN[1640]["KEY"] = "MAINCOPY_6010107"
-	STRING_EN[1640]["VALUE"] = "Pass UT_6010107"
+	STRING_EN[1640]["VALUE"] = "Mission completed in UT_6010107"
 	STRING_EN[1640]["real_idx"] = 1640
 
 STRING_EN["index"][1641] = 1641
 STRING_EN[1641] = {}
 	STRING_EN[1641]["ID"] = 1641
 	STRING_EN[1641]["KEY"] = "MAINCOPY_6010108"
-	STRING_EN[1641]["VALUE"] = "Pass UT_6010108"
+	STRING_EN[1641]["VALUE"] = "Mission completed in UT_6010108"
 	STRING_EN[1641]["real_idx"] = 1641
 
 STRING_EN["index"][1642] = 1642
 STRING_EN[1642] = {}
 	STRING_EN[1642]["ID"] = 1642
 	STRING_EN[1642]["KEY"] = "MAINCOPY_6010201"
-	STRING_EN[1642]["VALUE"] = "Pass UT_6010201"
+	STRING_EN[1642]["VALUE"] = "Mission completed in UT_6010201"
 	STRING_EN[1642]["real_idx"] = 1642
 
 STRING_EN["index"][1643] = 1643
 STRING_EN[1643] = {}
 	STRING_EN[1643]["ID"] = 1643
 	STRING_EN[1643]["KEY"] = "MAINCOPY_6010202"
-	STRING_EN[1643]["VALUE"] = "Pass UT_6010202"
+	STRING_EN[1643]["VALUE"] = "Mission completed in UT_6010202"
 	STRING_EN[1643]["real_idx"] = 1643
 
 STRING_EN["index"][1644] = 1644
 STRING_EN[1644] = {}
 	STRING_EN[1644]["ID"] = 1644
 	STRING_EN[1644]["KEY"] = "MAINCOPY_6010203"
-	STRING_EN[1644]["VALUE"] = "Pass UT_6010203"
+	STRING_EN[1644]["VALUE"] = "Mission completed in UT_6010203"
 	STRING_EN[1644]["real_idx"] = 1644
 
 STRING_EN["index"][1645] = 1645
 STRING_EN[1645] = {}
 	STRING_EN[1645]["ID"] = 1645
 	STRING_EN[1645]["KEY"] = "MAINCOPY_6010204"
-	STRING_EN[1645]["VALUE"] = "Pass UT_6010204"
+	STRING_EN[1645]["VALUE"] = "Mission completed in UT_6010204"
 	STRING_EN[1645]["real_idx"] = 1645
 
 STRING_EN["index"][1646] = 1646
 STRING_EN[1646] = {}
 	STRING_EN[1646]["ID"] = 1646
 	STRING_EN[1646]["KEY"] = "MAINCOPY_6010205"
-	STRING_EN[1646]["VALUE"] = "Pass UT_6010205"
+	STRING_EN[1646]["VALUE"] = "Mission completed in UT_6010205"
 	STRING_EN[1646]["real_idx"] = 1646
 
 STRING_EN["index"][1647] = 1647
 STRING_EN[1647] = {}
 	STRING_EN[1647]["ID"] = 1647
 	STRING_EN[1647]["KEY"] = "MAINCOPY_6010206"
-	STRING_EN[1647]["VALUE"] = "Pass UT_6010206"
+	STRING_EN[1647]["VALUE"] = "Mission completed in UT_6010206"
 	STRING_EN[1647]["real_idx"] = 1647
 
 STRING_EN["index"][1648] = 1648
 STRING_EN[1648] = {}
 	STRING_EN[1648]["ID"] = 1648
 	STRING_EN[1648]["KEY"] = "MAINCOPY_6010207"
-	STRING_EN[1648]["VALUE"] = "Pass UT_6010207"
+	STRING_EN[1648]["VALUE"] = "Mission completed in UT_6010207"
 	STRING_EN[1648]["real_idx"] = 1648
 
 STRING_EN["index"][1649] = 1649
 STRING_EN[1649] = {}
 	STRING_EN[1649]["ID"] = 1649
 	STRING_EN[1649]["KEY"] = "MAINCOPY_6010208"
-	STRING_EN[1649]["VALUE"] = "Pass UT_6010208"
+	STRING_EN[1649]["VALUE"] = "Mission completed in UT_6010208"
 	STRING_EN[1649]["real_idx"] = 1649
 
 STRING_EN["index"][1650] = 1650
 STRING_EN[1650] = {}
 	STRING_EN[1650]["ID"] = 1650
 	STRING_EN[1650]["KEY"] = "MAINCOPY_6010209"
-	STRING_EN[1650]["VALUE"] = "Pass UT_6010209"
+	STRING_EN[1650]["VALUE"] = "Mission completed in UT_6010209"
 	STRING_EN[1650]["real_idx"] = 1650
 
 STRING_EN["index"][1651] = 1651
 STRING_EN[1651] = {}
 	STRING_EN[1651]["ID"] = 1651
 	STRING_EN[1651]["KEY"] = "MAINCOPY_6010301"
-	STRING_EN[1651]["VALUE"] = "Pass UT_6010301"
+	STRING_EN[1651]["VALUE"] = "Mission completed in UT_6010301"
 	STRING_EN[1651]["real_idx"] = 1651
 
 STRING_EN["index"][1652] = 1652
 STRING_EN[1652] = {}
 	STRING_EN[1652]["ID"] = 1652
 	STRING_EN[1652]["KEY"] = "MAINCOPY_6010302"
-	STRING_EN[1652]["VALUE"] = "Pass UT_6010302"
+	STRING_EN[1652]["VALUE"] = "Mission completed in UT_6010302"
 	STRING_EN[1652]["real_idx"] = 1652
 
 STRING_EN["index"][1653] = 1653
 STRING_EN[1653] = {}
 	STRING_EN[1653]["ID"] = 1653
 	STRING_EN[1653]["KEY"] = "MAINCOPY_6010303"
-	STRING_EN[1653]["VALUE"] = "Pass UT_6010303"
+	STRING_EN[1653]["VALUE"] = "Mission completed in UT_6010303"
 	STRING_EN[1653]["real_idx"] = 1653
 
 STRING_EN["index"][1654] = 1654
 STRING_EN[1654] = {}
 	STRING_EN[1654]["ID"] = 1654
 	STRING_EN[1654]["KEY"] = "MAINCOPY_6010304"
-	STRING_EN[1654]["VALUE"] = "Pass UT_6010304"
+	STRING_EN[1654]["VALUE"] = "Mission completed in UT_6010304"
 	STRING_EN[1654]["real_idx"] = 1654
 
 STRING_EN["index"][1655] = 1655
 STRING_EN[1655] = {}
 	STRING_EN[1655]["ID"] = 1655
 	STRING_EN[1655]["KEY"] = "MAINCOPY_6010305"
-	STRING_EN[1655]["VALUE"] = "Pass UT_6010305"
+	STRING_EN[1655]["VALUE"] = "Mission completed in UT_6010305"
 	STRING_EN[1655]["real_idx"] = 1655
 
 STRING_EN["index"][1656] = 1656
 STRING_EN[1656] = {}
 	STRING_EN[1656]["ID"] = 1656
 	STRING_EN[1656]["KEY"] = "MAINCOPY_6010306"
-	STRING_EN[1656]["VALUE"] = "Pass UT_6010306"
+	STRING_EN[1656]["VALUE"] = "Mission completed in UT_6010306"
 	STRING_EN[1656]["real_idx"] = 1656
 
 STRING_EN["index"][1657] = 1657
 STRING_EN[1657] = {}
 	STRING_EN[1657]["ID"] = 1657
 	STRING_EN[1657]["KEY"] = "MAINCOPY_6010307"
-	STRING_EN[1657]["VALUE"] = "Pass UT_6010307"
+	STRING_EN[1657]["VALUE"] = "Mission completed in UT_6010307"
 	STRING_EN[1657]["real_idx"] = 1657
 
 STRING_EN["index"][1658] = 1658
 STRING_EN[1658] = {}
 	STRING_EN[1658]["ID"] = 1658
 	STRING_EN[1658]["KEY"] = "MAINCOPY_6010308"
-	STRING_EN[1658]["VALUE"] = "Pass UT_6010308"
+	STRING_EN[1658]["VALUE"] = "Mission completed in UT_6010308"
 	STRING_EN[1658]["real_idx"] = 1658
 
 STRING_EN["index"][1659] = 1659
 STRING_EN[1659] = {}
 	STRING_EN[1659]["ID"] = 1659
 	STRING_EN[1659]["KEY"] = "MAINCOPY_6010309"
-	STRING_EN[1659]["VALUE"] = "Pass UT_6010309"
+	STRING_EN[1659]["VALUE"] = "Mission completed in UT_6010309"
 	STRING_EN[1659]["real_idx"] = 1659
 
 STRING_EN["index"][1660] = 1660
 STRING_EN[1660] = {}
 	STRING_EN[1660]["ID"] = 1660
 	STRING_EN[1660]["KEY"] = "MAINCOPY_6010401"
-	STRING_EN[1660]["VALUE"] = "Pass UT_6010401"
+	STRING_EN[1660]["VALUE"] = "Mission completed in UT_6010401"
 	STRING_EN[1660]["real_idx"] = 1660
 
 STRING_EN["index"][1661] = 1661
 STRING_EN[1661] = {}
 	STRING_EN[1661]["ID"] = 1661
 	STRING_EN[1661]["KEY"] = "MAINCOPY_6010402"
-	STRING_EN[1661]["VALUE"] = "Pass UT_6010402"
+	STRING_EN[1661]["VALUE"] = "Mission completed in UT_6010402"
 	STRING_EN[1661]["real_idx"] = 1661
 
 STRING_EN["index"][1662] = 1662
 STRING_EN[1662] = {}
 	STRING_EN[1662]["ID"] = 1662
 	STRING_EN[1662]["KEY"] = "MAINCOPY_6010403"
-	STRING_EN[1662]["VALUE"] = "Pass UT_6010403"
+	STRING_EN[1662]["VALUE"] = "Mission completed in UT_6010403"
 	STRING_EN[1662]["real_idx"] = 1662
 
 STRING_EN["index"][1663] = 1663
 STRING_EN[1663] = {}
 	STRING_EN[1663]["ID"] = 1663
 	STRING_EN[1663]["KEY"] = "MAINCOPY_6010404"
-	STRING_EN[1663]["VALUE"] = "Pass UT_6010404"
+	STRING_EN[1663]["VALUE"] = "Mission completed in UT_6010404"
 	STRING_EN[1663]["real_idx"] = 1663
 
 STRING_EN["index"][1664] = 1664
 STRING_EN[1664] = {}
 	STRING_EN[1664]["ID"] = 1664
 	STRING_EN[1664]["KEY"] = "MAINCOPY_6010405"
-	STRING_EN[1664]["VALUE"] = "Pass UT_6010405"
+	STRING_EN[1664]["VALUE"] = "Mission completed in UT_6010405"
 	STRING_EN[1664]["real_idx"] = 1664
 
 STRING_EN["index"][1665] = 1665
 STRING_EN[1665] = {}
 	STRING_EN[1665]["ID"] = 1665
 	STRING_EN[1665]["KEY"] = "MAINCOPY_6010406"
-	STRING_EN[1665]["VALUE"] = "Pass UT_6010406"
+	STRING_EN[1665]["VALUE"] = "Mission completed in UT_6010406"
 	STRING_EN[1665]["real_idx"] = 1665
 
 STRING_EN["index"][1666] = 1666
 STRING_EN[1666] = {}
 	STRING_EN[1666]["ID"] = 1666
 	STRING_EN[1666]["KEY"] = "MAINCOPY_6010407"
-	STRING_EN[1666]["VALUE"] = "Pass UT_6010407"
+	STRING_EN[1666]["VALUE"] = "Mission completed in UT_6010407"
 	STRING_EN[1666]["real_idx"] = 1666
 
 STRING_EN["index"][1667] = 1667
 STRING_EN[1667] = {}
 	STRING_EN[1667]["ID"] = 1667
 	STRING_EN[1667]["KEY"] = "MAINCOPY_6010408"
-	STRING_EN[1667]["VALUE"] = "Pass UT_6010408"
+	STRING_EN[1667]["VALUE"] = "Mission completed in UT_6010408"
 	STRING_EN[1667]["real_idx"] = 1667
 
 STRING_EN["index"][1668] = 1668
 STRING_EN[1668] = {}
 	STRING_EN[1668]["ID"] = 1668
 	STRING_EN[1668]["KEY"] = "MAINCOPY_6010409"
-	STRING_EN[1668]["VALUE"] = "Pass UT_6010409"
+	STRING_EN[1668]["VALUE"] = "Mission completed in UT_6010409"
 	STRING_EN[1668]["real_idx"] = 1668
 
 STRING_EN["index"][1669] = 1669
 STRING_EN[1669] = {}
 	STRING_EN[1669]["ID"] = 1669
 	STRING_EN[1669]["KEY"] = "MAINCOPY_6010501"
-	STRING_EN[1669]["VALUE"] = "Pass UT_6010501"
+	STRING_EN[1669]["VALUE"] = "Mission completed in UT_6010501"
 	STRING_EN[1669]["real_idx"] = 1669
 
 STRING_EN["index"][1670] = 1670
 STRING_EN[1670] = {}
 	STRING_EN[1670]["ID"] = 1670
 	STRING_EN[1670]["KEY"] = "MAINCOPY_6010502"
-	STRING_EN[1670]["VALUE"] = "Pass UT_6010502"
+	STRING_EN[1670]["VALUE"] = "Mission completed in UT_6010502"
 	STRING_EN[1670]["real_idx"] = 1670
 
 STRING_EN["index"][1671] = 1671
 STRING_EN[1671] = {}
 	STRING_EN[1671]["ID"] = 1671
 	STRING_EN[1671]["KEY"] = "MAINCOPY_6010503"
-	STRING_EN[1671]["VALUE"] = "Pass UT_6010503"
+	STRING_EN[1671]["VALUE"] = "Mission completed in UT_6010503"
 	STRING_EN[1671]["real_idx"] = 1671
 
 STRING_EN["index"][1672] = 1672
 STRING_EN[1672] = {}
 	STRING_EN[1672]["ID"] = 1672
 	STRING_EN[1672]["KEY"] = "MAINCOPY_6010504"
-	STRING_EN[1672]["VALUE"] = "Pass UT_6010504"
+	STRING_EN[1672]["VALUE"] = "Mission completed in UT_6010504"
 	STRING_EN[1672]["real_idx"] = 1672
 
 STRING_EN["index"][1673] = 1673
 STRING_EN[1673] = {}
 	STRING_EN[1673]["ID"] = 1673
 	STRING_EN[1673]["KEY"] = "MAINCOPY_6010505"
-	STRING_EN[1673]["VALUE"] = "Pass UT_6010505"
+	STRING_EN[1673]["VALUE"] = "Mission completed in UT_6010505"
 	STRING_EN[1673]["real_idx"] = 1673
 
 STRING_EN["index"][1674] = 1674
 STRING_EN[1674] = {}
 	STRING_EN[1674]["ID"] = 1674
 	STRING_EN[1674]["KEY"] = "MAINCOPY_6010506"
-	STRING_EN[1674]["VALUE"] = "Pass UT_6010506"
+	STRING_EN[1674]["VALUE"] = "Mission completed in UT_6010506"
 	STRING_EN[1674]["real_idx"] = 1674
 
 STRING_EN["index"][1675] = 1675
 STRING_EN[1675] = {}
 	STRING_EN[1675]["ID"] = 1675
 	STRING_EN[1675]["KEY"] = "MAINCOPY_6010507"
-	STRING_EN[1675]["VALUE"] = "Pass UT_6010507"
+	STRING_EN[1675]["VALUE"] = "Mission completed in UT_6010507"
 	STRING_EN[1675]["real_idx"] = 1675
 
 STRING_EN["index"][1676] = 1676
 STRING_EN[1676] = {}
 	STRING_EN[1676]["ID"] = 1676
 	STRING_EN[1676]["KEY"] = "MAINCOPY_6010508"
-	STRING_EN[1676]["VALUE"] = "Pass UT_6010508"
+	STRING_EN[1676]["VALUE"] = "Mission completed in UT_6010508"
 	STRING_EN[1676]["real_idx"] = 1676
 
 STRING_EN["index"][1677] = 1677
 STRING_EN[1677] = {}
 	STRING_EN[1677]["ID"] = 1677
 	STRING_EN[1677]["KEY"] = "MAINCOPY_6010509"
-	STRING_EN[1677]["VALUE"] = "Pass UT_6010509"
+	STRING_EN[1677]["VALUE"] = "Mission completed in UT_6010509"
 	STRING_EN[1677]["real_idx"] = 1677
 
 STRING_EN["index"][1678] = 1678
 STRING_EN[1678] = {}
 	STRING_EN[1678]["ID"] = 1678
 	STRING_EN[1678]["KEY"] = "MAINCOPY_6010601"
-	STRING_EN[1678]["VALUE"] = "Pass UT_6010601"
+	STRING_EN[1678]["VALUE"] = "Mission completed in UT_6010601"
 	STRING_EN[1678]["real_idx"] = 1678
 
 STRING_EN["index"][1679] = 1679
 STRING_EN[1679] = {}
 	STRING_EN[1679]["ID"] = 1679
 	STRING_EN[1679]["KEY"] = "MAINCOPY_6010602"
-	STRING_EN[1679]["VALUE"] = "Pass UT_6010602"
+	STRING_EN[1679]["VALUE"] = "Mission completed in UT_6010602"
 	STRING_EN[1679]["real_idx"] = 1679
 
 STRING_EN["index"][1680] = 1680
 STRING_EN[1680] = {}
 	STRING_EN[1680]["ID"] = 1680
 	STRING_EN[1680]["KEY"] = "MAINCOPY_6010603"
-	STRING_EN[1680]["VALUE"] = "Pass UT_6010603"
+	STRING_EN[1680]["VALUE"] = "Mission completed in UT_6010603"
 	STRING_EN[1680]["real_idx"] = 1680
 
 STRING_EN["index"][1681] = 1681
 STRING_EN[1681] = {}
 	STRING_EN[1681]["ID"] = 1681
 	STRING_EN[1681]["KEY"] = "MAINCOPY_6010604"
-	STRING_EN[1681]["VALUE"] = "Pass UT_6010604"
+	STRING_EN[1681]["VALUE"] = "Mission completed in UT_6010604"
 	STRING_EN[1681]["real_idx"] = 1681
 
 STRING_EN["index"][1682] = 1682
 STRING_EN[1682] = {}
 	STRING_EN[1682]["ID"] = 1682
 	STRING_EN[1682]["KEY"] = "MAINCOPY_6010605"
-	STRING_EN[1682]["VALUE"] = "Pass UT_6010605"
+	STRING_EN[1682]["VALUE"] = "Mission completed in UT_6010605"
 	STRING_EN[1682]["real_idx"] = 1682
 
 STRING_EN["index"][1683] = 1683
 STRING_EN[1683] = {}
 	STRING_EN[1683]["ID"] = 1683
 	STRING_EN[1683]["KEY"] = "MAINCOPY_6010606"
-	STRING_EN[1683]["VALUE"] = "Pass UT_6010606"
+	STRING_EN[1683]["VALUE"] = "Mission completed in UT_6010606"
 	STRING_EN[1683]["real_idx"] = 1683
 
 STRING_EN["index"][1684] = 1684
 STRING_EN[1684] = {}
 	STRING_EN[1684]["ID"] = 1684
 	STRING_EN[1684]["KEY"] = "MAINCOPY_6010607"
-	STRING_EN[1684]["VALUE"] = "Pass UT_6010607"
+	STRING_EN[1684]["VALUE"] = "Mission completed in UT_6010607"
 	STRING_EN[1684]["real_idx"] = 1684
 
 STRING_EN["index"][1685] = 1685
 STRING_EN[1685] = {}
 	STRING_EN[1685]["ID"] = 1685
 	STRING_EN[1685]["KEY"] = "MAINCOPY_6010608"
-	STRING_EN[1685]["VALUE"] = "Pass UT_6010608"
+	STRING_EN[1685]["VALUE"] = "Mission completed in UT_6010608"
 	STRING_EN[1685]["real_idx"] = 1685
 
 STRING_EN["index"][1686] = 1686
 STRING_EN[1686] = {}
 	STRING_EN[1686]["ID"] = 1686
 	STRING_EN[1686]["KEY"] = "MAINCOPY_6010609"
-	STRING_EN[1686]["VALUE"] = "Pass UT_6010609"
+	STRING_EN[1686]["VALUE"] = "Mission completed in UT_6010609"
 	STRING_EN[1686]["real_idx"] = 1686
 
 STRING_EN["index"][1687] = 1687
 STRING_EN[1687] = {}
 	STRING_EN[1687]["ID"] = 1687
 	STRING_EN[1687]["KEY"] = "MAINCOPY_6010701"
-	STRING_EN[1687]["VALUE"] = "Pass UT_6010701"
+	STRING_EN[1687]["VALUE"] = "Mission completed in UT_6010701"
 	STRING_EN[1687]["real_idx"] = 1687
 
 STRING_EN["index"][1688] = 1688
 STRING_EN[1688] = {}
 	STRING_EN[1688]["ID"] = 1688
 	STRING_EN[1688]["KEY"] = "MAINCOPY_6010702"
-	STRING_EN[1688]["VALUE"] = "Pass UT_6010702"
+	STRING_EN[1688]["VALUE"] = "Mission completed in UT_6010702"
 	STRING_EN[1688]["real_idx"] = 1688
 
 STRING_EN["index"][1689] = 1689
 STRING_EN[1689] = {}
 	STRING_EN[1689]["ID"] = 1689
 	STRING_EN[1689]["KEY"] = "MAINCOPY_6010703"
-	STRING_EN[1689]["VALUE"] = "Pass UT_6010703"
+	STRING_EN[1689]["VALUE"] = "Mission completed in UT_6010703"
 	STRING_EN[1689]["real_idx"] = 1689
 
 STRING_EN["index"][1690] = 1690
 STRING_EN[1690] = {}
 	STRING_EN[1690]["ID"] = 1690
 	STRING_EN[1690]["KEY"] = "MAINCOPY_6010704"
-	STRING_EN[1690]["VALUE"] = "Pass UT_6010704"
+	STRING_EN[1690]["VALUE"] = "Mission completed in UT_6010704"
 	STRING_EN[1690]["real_idx"] = 1690
 
 STRING_EN["index"][1691] = 1691
 STRING_EN[1691] = {}
 	STRING_EN[1691]["ID"] = 1691
 	STRING_EN[1691]["KEY"] = "MAINCOPY_6010705"
-	STRING_EN[1691]["VALUE"] = "Pass UT_6010705"
+	STRING_EN[1691]["VALUE"] = "Mission completed in UT_6010705"
 	STRING_EN[1691]["real_idx"] = 1691
 
 STRING_EN["index"][1692] = 1692
 STRING_EN[1692] = {}
 	STRING_EN[1692]["ID"] = 1692
 	STRING_EN[1692]["KEY"] = "MAINCOPY_6010706"
-	STRING_EN[1692]["VALUE"] = "Pass UT_6010706"
+	STRING_EN[1692]["VALUE"] = "Mission completed in UT_6010706"
 	STRING_EN[1692]["real_idx"] = 1692
 
 STRING_EN["index"][1693] = 1693
 STRING_EN[1693] = {}
 	STRING_EN[1693]["ID"] = 1693
 	STRING_EN[1693]["KEY"] = "MAINCOPY_6010707"
-	STRING_EN[1693]["VALUE"] = "Pass UT_6010707"
+	STRING_EN[1693]["VALUE"] = "Mission completed in UT_6010707"
 	STRING_EN[1693]["real_idx"] = 1693
 
 STRING_EN["index"][1694] = 1694
 STRING_EN[1694] = {}
 	STRING_EN[1694]["ID"] = 1694
 	STRING_EN[1694]["KEY"] = "MAINCOPY_6010708"
-	STRING_EN[1694]["VALUE"] = "Pass UT_6010708"
+	STRING_EN[1694]["VALUE"] = "Mission completed in UT_6010708"
 	STRING_EN[1694]["real_idx"] = 1694
 
 STRING_EN["index"][1695] = 1695
 STRING_EN[1695] = {}
 	STRING_EN[1695]["ID"] = 1695
 	STRING_EN[1695]["KEY"] = "MAINCOPY_6010709"
-	STRING_EN[1695]["VALUE"] = "Pass UT_6010709"
+	STRING_EN[1695]["VALUE"] = "Mission completed in UT_6010709"
 	STRING_EN[1695]["real_idx"] = 1695
 
 STRING_EN["index"][1696] = 1696
 STRING_EN[1696] = {}
 	STRING_EN[1696]["ID"] = 1696
 	STRING_EN[1696]["KEY"] = "MAINCOPY_6010801"
-	STRING_EN[1696]["VALUE"] = "Pass UT_6010801"
+	STRING_EN[1696]["VALUE"] = "Mission completed in UT_6010801"
 	STRING_EN[1696]["real_idx"] = 1696
 
 STRING_EN["index"][1697] = 1697
 STRING_EN[1697] = {}
 	STRING_EN[1697]["ID"] = 1697
 	STRING_EN[1697]["KEY"] = "MAINCOPY_6010802"
-	STRING_EN[1697]["VALUE"] = "Pass UT_6010802"
+	STRING_EN[1697]["VALUE"] = "Mission completed in UT_6010802"
 	STRING_EN[1697]["real_idx"] = 1697
 
 STRING_EN["index"][1698] = 1698
 STRING_EN[1698] = {}
 	STRING_EN[1698]["ID"] = 1698
 	STRING_EN[1698]["KEY"] = "MAINCOPY_6010803"
-	STRING_EN[1698]["VALUE"] = "Pass UT_6010803"
+	STRING_EN[1698]["VALUE"] = "Mission completed in UT_6010803"
 	STRING_EN[1698]["real_idx"] = 1698
 
 STRING_EN["index"][1699] = 1699
 STRING_EN[1699] = {}
 	STRING_EN[1699]["ID"] = 1699
 	STRING_EN[1699]["KEY"] = "MAINCOPY_6010804"
-	STRING_EN[1699]["VALUE"] = "Pass UT_6010804"
+	STRING_EN[1699]["VALUE"] = "Mission completed in UT_6010804"
 	STRING_EN[1699]["real_idx"] = 1699
 
 STRING_EN["index"][1700] = 1700
 STRING_EN[1700] = {}
 	STRING_EN[1700]["ID"] = 1700
 	STRING_EN[1700]["KEY"] = "MAINCOPY_6010805"
-	STRING_EN[1700]["VALUE"] = "Pass UT_6010805"
+	STRING_EN[1700]["VALUE"] = "Mission completed in UT_6010805"
 	STRING_EN[1700]["real_idx"] = 1700
 
 STRING_EN["index"][1701] = 1701
 STRING_EN[1701] = {}
 	STRING_EN[1701]["ID"] = 1701
 	STRING_EN[1701]["KEY"] = "MAINCOPY_6010806"
-	STRING_EN[1701]["VALUE"] = "Pass UT_6010806"
+	STRING_EN[1701]["VALUE"] = "Mission completed in UT_6010806"
 	STRING_EN[1701]["real_idx"] = 1701
 
 STRING_EN["index"][1702] = 1702
 STRING_EN[1702] = {}
 	STRING_EN[1702]["ID"] = 1702
 	STRING_EN[1702]["KEY"] = "MAINCOPY_6010807"
-	STRING_EN[1702]["VALUE"] = "Pass UT_6010807"
+	STRING_EN[1702]["VALUE"] = "Mission completed in UT_6010807"
 	STRING_EN[1702]["real_idx"] = 1702
 
 STRING_EN["index"][1703] = 1703
 STRING_EN[1703] = {}
 	STRING_EN[1703]["ID"] = 1703
 	STRING_EN[1703]["KEY"] = "MAINCOPY_6010808"
-	STRING_EN[1703]["VALUE"] = "Pass UT_6010808"
+	STRING_EN[1703]["VALUE"] = "Mission completed in UT_6010808"
 	STRING_EN[1703]["real_idx"] = 1703
 
 STRING_EN["index"][1704] = 1704
 STRING_EN[1704] = {}
 	STRING_EN[1704]["ID"] = 1704
 	STRING_EN[1704]["KEY"] = "MAINCOPY_6010809"
-	STRING_EN[1704]["VALUE"] = "Pass UT_6010809"
+	STRING_EN[1704]["VALUE"] = "Mission completed in UT_6010809"
 	STRING_EN[1704]["real_idx"] = 1704
 
 STRING_EN["index"][1705] = 1705
 STRING_EN[1705] = {}
 	STRING_EN[1705]["ID"] = 1705
 	STRING_EN[1705]["KEY"] = "MAINCOPY_6010901"
-	STRING_EN[1705]["VALUE"] = "Pass UT_6010901"
+	STRING_EN[1705]["VALUE"] = "Mission completed in UT_6010901"
 	STRING_EN[1705]["real_idx"] = 1705
 
 STRING_EN["index"][1706] = 1706
 STRING_EN[1706] = {}
 	STRING_EN[1706]["ID"] = 1706
 	STRING_EN[1706]["KEY"] = "MAINCOPY_6010902"
-	STRING_EN[1706]["VALUE"] = "Pass UT_6010902"
+	STRING_EN[1706]["VALUE"] = "Mission completed in UT_6010902"
 	STRING_EN[1706]["real_idx"] = 1706
 
 STRING_EN["index"][1707] = 1707
 STRING_EN[1707] = {}
 	STRING_EN[1707]["ID"] = 1707
 	STRING_EN[1707]["KEY"] = "MAINCOPY_6010903"
-	STRING_EN[1707]["VALUE"] = "Pass UT_6010903"
+	STRING_EN[1707]["VALUE"] = "Mission completed in UT_6010903"
 	STRING_EN[1707]["real_idx"] = 1707
 
 STRING_EN["index"][1708] = 1708
 STRING_EN[1708] = {}
 	STRING_EN[1708]["ID"] = 1708
 	STRING_EN[1708]["KEY"] = "MAINCOPY_6010904"
-	STRING_EN[1708]["VALUE"] = "Pass UT_6010904"
+	STRING_EN[1708]["VALUE"] = "Mission completed in UT_6010904"
 	STRING_EN[1708]["real_idx"] = 1708
 
 STRING_EN["index"][1709] = 1709
 STRING_EN[1709] = {}
 	STRING_EN[1709]["ID"] = 1709
 	STRING_EN[1709]["KEY"] = "MAINCOPY_6010905"
-	STRING_EN[1709]["VALUE"] = "Pass UT_6010905"
+	STRING_EN[1709]["VALUE"] = "Mission completed in UT_6010905"
 	STRING_EN[1709]["real_idx"] = 1709
 
 STRING_EN["index"][1710] = 1710
 STRING_EN[1710] = {}
 	STRING_EN[1710]["ID"] = 1710
 	STRING_EN[1710]["KEY"] = "MAINCOPY_6010906"
-	STRING_EN[1710]["VALUE"] = "Pass UT_6010906"
+	STRING_EN[1710]["VALUE"] = "Mission completed in UT_6010906"
 	STRING_EN[1710]["real_idx"] = 1710
 
 STRING_EN["index"][1711] = 1711
 STRING_EN[1711] = {}
 	STRING_EN[1711]["ID"] = 1711
 	STRING_EN[1711]["KEY"] = "MAINCOPY_6010907"
-	STRING_EN[1711]["VALUE"] = "Pass UT_6010907"
+	STRING_EN[1711]["VALUE"] = "Mission completed in UT_6010907"
 	STRING_EN[1711]["real_idx"] = 1711
 
 STRING_EN["index"][1712] = 1712
 STRING_EN[1712] = {}
 	STRING_EN[1712]["ID"] = 1712
 	STRING_EN[1712]["KEY"] = "MAINCOPY_6010908"
-	STRING_EN[1712]["VALUE"] = "Pass UT_6010908"
+	STRING_EN[1712]["VALUE"] = "Mission completed in UT_6010908"
 	STRING_EN[1712]["real_idx"] = 1712
 
 STRING_EN["index"][1713] = 1713
 STRING_EN[1713] = {}
 	STRING_EN[1713]["ID"] = 1713
 	STRING_EN[1713]["KEY"] = "MAINCOPY_6010909"
-	STRING_EN[1713]["VALUE"] = "Pass UT_6010909"
+	STRING_EN[1713]["VALUE"] = "Mission completed in UT_6010909"
 	STRING_EN[1713]["real_idx"] = 1713
 
 STRING_EN["index"][1714] = 1714
 STRING_EN[1714] = {}
 	STRING_EN[1714]["ID"] = 1714
 	STRING_EN[1714]["KEY"] = "MAINCOPY_7010101"
-	STRING_EN[1714]["VALUE"] = "Pass UT_7010101"
+	STRING_EN[1714]["VALUE"] = "Mission completed in UT_7010101"
 	STRING_EN[1714]["real_idx"] = 1714
 
 STRING_EN["index"][1715] = 1715
 STRING_EN[1715] = {}
 	STRING_EN[1715]["ID"] = 1715
 	STRING_EN[1715]["KEY"] = "MAINCOPY_7010102"
-	STRING_EN[1715]["VALUE"] = "Pass UT_7010102"
+	STRING_EN[1715]["VALUE"] = "Mission completed in UT_7010102"
 	STRING_EN[1715]["real_idx"] = 1715
 
 STRING_EN["index"][1716] = 1716
 STRING_EN[1716] = {}
 	STRING_EN[1716]["ID"] = 1716
 	STRING_EN[1716]["KEY"] = "MAINCOPY_7010103"
-	STRING_EN[1716]["VALUE"] = "Pass UT_7010103"
+	STRING_EN[1716]["VALUE"] = "Mission completed in UT_7010103"
 	STRING_EN[1716]["real_idx"] = 1716
 
 STRING_EN["index"][1717] = 1717
 STRING_EN[1717] = {}
 	STRING_EN[1717]["ID"] = 1717
 	STRING_EN[1717]["KEY"] = "MAINCOPY_7010104"
-	STRING_EN[1717]["VALUE"] = "Pass UT_7010104"
+	STRING_EN[1717]["VALUE"] = "Mission completed in UT_7010104"
 	STRING_EN[1717]["real_idx"] = 1717
 
 STRING_EN["index"][1718] = 1718
 STRING_EN[1718] = {}
 	STRING_EN[1718]["ID"] = 1718
 	STRING_EN[1718]["KEY"] = "MAINCOPY_7010105"
-	STRING_EN[1718]["VALUE"] = "Pass UT_7010105"
+	STRING_EN[1718]["VALUE"] = "Mission completed in UT_7010105"
 	STRING_EN[1718]["real_idx"] = 1718
 
 STRING_EN["index"][1719] = 1719
 STRING_EN[1719] = {}
 	STRING_EN[1719]["ID"] = 1719
 	STRING_EN[1719]["KEY"] = "MAINCOPY_7010106"
-	STRING_EN[1719]["VALUE"] = "Pass UT_7010106"
+	STRING_EN[1719]["VALUE"] = "Mission completed in UT_7010106"
 	STRING_EN[1719]["real_idx"] = 1719
 
 STRING_EN["index"][1720] = 1720
 STRING_EN[1720] = {}
 	STRING_EN[1720]["ID"] = 1720
 	STRING_EN[1720]["KEY"] = "MAINCOPY_7010107"
-	STRING_EN[1720]["VALUE"] = "Pass UT_7010107"
+	STRING_EN[1720]["VALUE"] = "Mission completed in UT_7010107"
 	STRING_EN[1720]["real_idx"] = 1720
 
 STRING_EN["index"][1721] = 1721
 STRING_EN[1721] = {}
 	STRING_EN[1721]["ID"] = 1721
 	STRING_EN[1721]["KEY"] = "MAINCOPY_7010108"
-	STRING_EN[1721]["VALUE"] = "Pass UT_7010108"
+	STRING_EN[1721]["VALUE"] = "Mission completed in UT_7010108"
 	STRING_EN[1721]["real_idx"] = 1721
 
 STRING_EN["index"][1722] = 1722
 STRING_EN[1722] = {}
 	STRING_EN[1722]["ID"] = 1722
 	STRING_EN[1722]["KEY"] = "MAINCOPY_7010201"
-	STRING_EN[1722]["VALUE"] = "Pass UT_7010201"
+	STRING_EN[1722]["VALUE"] = "Mission completed in UT_7010201"
 	STRING_EN[1722]["real_idx"] = 1722
 
 STRING_EN["index"][1723] = 1723
 STRING_EN[1723] = {}
 	STRING_EN[1723]["ID"] = 1723
 	STRING_EN[1723]["KEY"] = "MAINCOPY_7010202"
-	STRING_EN[1723]["VALUE"] = "Pass UT_7010202"
+	STRING_EN[1723]["VALUE"] = "Mission completed in UT_7010202"
 	STRING_EN[1723]["real_idx"] = 1723
 
 STRING_EN["index"][1724] = 1724
 STRING_EN[1724] = {}
 	STRING_EN[1724]["ID"] = 1724
 	STRING_EN[1724]["KEY"] = "MAINCOPY_7010203"
-	STRING_EN[1724]["VALUE"] = "Pass UT_7010203"
+	STRING_EN[1724]["VALUE"] = "Mission completed in UT_7010203"
 	STRING_EN[1724]["real_idx"] = 1724
 
 STRING_EN["index"][1725] = 1725
 STRING_EN[1725] = {}
 	STRING_EN[1725]["ID"] = 1725
 	STRING_EN[1725]["KEY"] = "MAINCOPY_7010204"
-	STRING_EN[1725]["VALUE"] = "Pass UT_7010204"
+	STRING_EN[1725]["VALUE"] = "Mission completed in UT_7010204"
 	STRING_EN[1725]["real_idx"] = 1725
 
 STRING_EN["index"][1726] = 1726
 STRING_EN[1726] = {}
 	STRING_EN[1726]["ID"] = 1726
 	STRING_EN[1726]["KEY"] = "MAINCOPY_7010205"
-	STRING_EN[1726]["VALUE"] = "Pass UT_7010205"
+	STRING_EN[1726]["VALUE"] = "Mission completed in UT_7010205"
 	STRING_EN[1726]["real_idx"] = 1726
 
 STRING_EN["index"][1727] = 1727
 STRING_EN[1727] = {}
 	STRING_EN[1727]["ID"] = 1727
 	STRING_EN[1727]["KEY"] = "MAINCOPY_7010206"
-	STRING_EN[1727]["VALUE"] = "Pass UT_7010206"
+	STRING_EN[1727]["VALUE"] = "Mission completed in UT_7010206"
 	STRING_EN[1727]["real_idx"] = 1727
 
 STRING_EN["index"][1728] = 1728
 STRING_EN[1728] = {}
 	STRING_EN[1728]["ID"] = 1728
 	STRING_EN[1728]["KEY"] = "MAINCOPY_7010207"
-	STRING_EN[1728]["VALUE"] = "Pass UT_7010207"
+	STRING_EN[1728]["VALUE"] = "Mission completed in UT_7010207"
 	STRING_EN[1728]["real_idx"] = 1728
 
 STRING_EN["index"][1729] = 1729
 STRING_EN[1729] = {}
 	STRING_EN[1729]["ID"] = 1729
 	STRING_EN[1729]["KEY"] = "MAINCOPY_7010208"
-	STRING_EN[1729]["VALUE"] = "Pass UT_7010208"
+	STRING_EN[1729]["VALUE"] = "Mission completed in UT_7010208"
 	STRING_EN[1729]["real_idx"] = 1729
 
 STRING_EN["index"][1730] = 1730
 STRING_EN[1730] = {}
 	STRING_EN[1730]["ID"] = 1730
 	STRING_EN[1730]["KEY"] = "MAINCOPY_7010209"
-	STRING_EN[1730]["VALUE"] = "Pass UT_7010209"
+	STRING_EN[1730]["VALUE"] = "Mission completed in UT_7010209"
 	STRING_EN[1730]["real_idx"] = 1730
 
 STRING_EN["index"][1731] = 1731
 STRING_EN[1731] = {}
 	STRING_EN[1731]["ID"] = 1731
 	STRING_EN[1731]["KEY"] = "MAINCOPY_7010301"
-	STRING_EN[1731]["VALUE"] = "Pass UT_7010301"
+	STRING_EN[1731]["VALUE"] = "Mission completed in UT_7010301"
 	STRING_EN[1731]["real_idx"] = 1731
 
 STRING_EN["index"][1732] = 1732
 STRING_EN[1732] = {}
 	STRING_EN[1732]["ID"] = 1732
 	STRING_EN[1732]["KEY"] = "MAINCOPY_7010302"
-	STRING_EN[1732]["VALUE"] = "Pass UT_7010302"
+	STRING_EN[1732]["VALUE"] = "Mission completed in UT_7010302"
 	STRING_EN[1732]["real_idx"] = 1732
 
 STRING_EN["index"][1733] = 1733
 STRING_EN[1733] = {}
 	STRING_EN[1733]["ID"] = 1733
 	STRING_EN[1733]["KEY"] = "MAINCOPY_7010303"
-	STRING_EN[1733]["VALUE"] = "Pass UT_7010303"
+	STRING_EN[1733]["VALUE"] = "Mission completed in UT_7010303"
 	STRING_EN[1733]["real_idx"] = 1733
 
 STRING_EN["index"][1734] = 1734
 STRING_EN[1734] = {}
 	STRING_EN[1734]["ID"] = 1734
 	STRING_EN[1734]["KEY"] = "MAINCOPY_7010304"
-	STRING_EN[1734]["VALUE"] = "Pass UT_7010304"
+	STRING_EN[1734]["VALUE"] = "Mission completed in UT_7010304"
 	STRING_EN[1734]["real_idx"] = 1734
 
 STRING_EN["index"][1735] = 1735
 STRING_EN[1735] = {}
 	STRING_EN[1735]["ID"] = 1735
 	STRING_EN[1735]["KEY"] = "MAINCOPY_7010305"
-	STRING_EN[1735]["VALUE"] = "Pass UT_7010305"
+	STRING_EN[1735]["VALUE"] = "Mission completed in UT_7010305"
 	STRING_EN[1735]["real_idx"] = 1735
 
 STRING_EN["index"][1736] = 1736
 STRING_EN[1736] = {}
 	STRING_EN[1736]["ID"] = 1736
 	STRING_EN[1736]["KEY"] = "MAINCOPY_7010306"
-	STRING_EN[1736]["VALUE"] = "Pass UT_7010306"
+	STRING_EN[1736]["VALUE"] = "Mission completed in UT_7010306"
 	STRING_EN[1736]["real_idx"] = 1736
 
 STRING_EN["index"][1737] = 1737
 STRING_EN[1737] = {}
 	STRING_EN[1737]["ID"] = 1737
 	STRING_EN[1737]["KEY"] = "MAINCOPY_7010307"
-	STRING_EN[1737]["VALUE"] = "Pass UT_7010307"
+	STRING_EN[1737]["VALUE"] = "Mission completed in UT_7010307"
 	STRING_EN[1737]["real_idx"] = 1737
 
 STRING_EN["index"][1738] = 1738
 STRING_EN[1738] = {}
 	STRING_EN[1738]["ID"] = 1738
 	STRING_EN[1738]["KEY"] = "MAINCOPY_7010308"
-	STRING_EN[1738]["VALUE"] = "Pass UT_7010308"
+	STRING_EN[1738]["VALUE"] = "Mission completed in UT_7010308"
 	STRING_EN[1738]["real_idx"] = 1738
 
 STRING_EN["index"][1739] = 1739
 STRING_EN[1739] = {}
 	STRING_EN[1739]["ID"] = 1739
 	STRING_EN[1739]["KEY"] = "MAINCOPY_7010309"
-	STRING_EN[1739]["VALUE"] = "Pass UT_7010309"
+	STRING_EN[1739]["VALUE"] = "Mission completed in UT_7010309"
 	STRING_EN[1739]["real_idx"] = 1739
 
 STRING_EN["index"][1740] = 1740
 STRING_EN[1740] = {}
 	STRING_EN[1740]["ID"] = 1740
 	STRING_EN[1740]["KEY"] = "MAINCOPY_7010401"
-	STRING_EN[1740]["VALUE"] = "Pass UT_7010401"
+	STRING_EN[1740]["VALUE"] = "Mission completed in UT_7010401"
 	STRING_EN[1740]["real_idx"] = 1740
 
 STRING_EN["index"][1741] = 1741
 STRING_EN[1741] = {}
 	STRING_EN[1741]["ID"] = 1741
 	STRING_EN[1741]["KEY"] = "MAINCOPY_7010402"
-	STRING_EN[1741]["VALUE"] = "Pass UT_7010402"
+	STRING_EN[1741]["VALUE"] = "Mission completed in UT_7010402"
 	STRING_EN[1741]["real_idx"] = 1741
 
 STRING_EN["index"][1742] = 1742
 STRING_EN[1742] = {}
 	STRING_EN[1742]["ID"] = 1742
 	STRING_EN[1742]["KEY"] = "MAINCOPY_7010403"
-	STRING_EN[1742]["VALUE"] = "Pass UT_7010403"
+	STRING_EN[1742]["VALUE"] = "Mission completed in UT_7010403"
 	STRING_EN[1742]["real_idx"] = 1742
 
 STRING_EN["index"][1743] = 1743
 STRING_EN[1743] = {}
 	STRING_EN[1743]["ID"] = 1743
 	STRING_EN[1743]["KEY"] = "MAINCOPY_7010404"
-	STRING_EN[1743]["VALUE"] = "Pass UT_7010404"
+	STRING_EN[1743]["VALUE"] = "Mission completed in UT_7010404"
 	STRING_EN[1743]["real_idx"] = 1743
 
 STRING_EN["index"][1744] = 1744
 STRING_EN[1744] = {}
 	STRING_EN[1744]["ID"] = 1744
 	STRING_EN[1744]["KEY"] = "MAINCOPY_7010405"
-	STRING_EN[1744]["VALUE"] = "Pass UT_7010405"
+	STRING_EN[1744]["VALUE"] = "Mission completed in UT_7010405"
 	STRING_EN[1744]["real_idx"] = 1744
 
 STRING_EN["index"][1745] = 1745
 STRING_EN[1745] = {}
 	STRING_EN[1745]["ID"] = 1745
 	STRING_EN[1745]["KEY"] = "MAINCOPY_7010406"
-	STRING_EN[1745]["VALUE"] = "Pass UT_7010406"
+	STRING_EN[1745]["VALUE"] = "Mission completed in UT_7010406"
 	STRING_EN[1745]["real_idx"] = 1745
 
 STRING_EN["index"][1746] = 1746
 STRING_EN[1746] = {}
 	STRING_EN[1746]["ID"] = 1746
 	STRING_EN[1746]["KEY"] = "MAINCOPY_7010407"
-	STRING_EN[1746]["VALUE"] = "Pass UT_7010407"
+	STRING_EN[1746]["VALUE"] = "Mission completed in UT_7010407"
 	STRING_EN[1746]["real_idx"] = 1746
 
 STRING_EN["index"][1747] = 1747
 STRING_EN[1747] = {}
 	STRING_EN[1747]["ID"] = 1747
 	STRING_EN[1747]["KEY"] = "MAINCOPY_7010408"
-	STRING_EN[1747]["VALUE"] = "Pass UT_7010408"
+	STRING_EN[1747]["VALUE"] = "Mission completed in UT_7010408"
 	STRING_EN[1747]["real_idx"] = 1747
 
 STRING_EN["index"][1748] = 1748
 STRING_EN[1748] = {}
 	STRING_EN[1748]["ID"] = 1748
 	STRING_EN[1748]["KEY"] = "MAINCOPY_7010409"
-	STRING_EN[1748]["VALUE"] = "Pass UT_7010409"
+	STRING_EN[1748]["VALUE"] = "Mission completed in UT_7010409"
 	STRING_EN[1748]["real_idx"] = 1748
 
 STRING_EN["index"][1749] = 1749
 STRING_EN[1749] = {}
 	STRING_EN[1749]["ID"] = 1749
 	STRING_EN[1749]["KEY"] = "MAINCOPY_7010501"
-	STRING_EN[1749]["VALUE"] = "Pass UT_7010501"
+	STRING_EN[1749]["VALUE"] = "Mission completed in UT_7010501"
 	STRING_EN[1749]["real_idx"] = 1749
 
 STRING_EN["index"][1750] = 1750
 STRING_EN[1750] = {}
 	STRING_EN[1750]["ID"] = 1750
 	STRING_EN[1750]["KEY"] = "MAINCOPY_7010502"
-	STRING_EN[1750]["VALUE"] = "Pass UT_7010502"
+	STRING_EN[1750]["VALUE"] = "Mission completed in UT_7010502"
 	STRING_EN[1750]["real_idx"] = 1750
 
 STRING_EN["index"][1751] = 1751
 STRING_EN[1751] = {}
 	STRING_EN[1751]["ID"] = 1751
 	STRING_EN[1751]["KEY"] = "MAINCOPY_7010503"
-	STRING_EN[1751]["VALUE"] = "Pass UT_7010503"
+	STRING_EN[1751]["VALUE"] = "Mission completed in UT_7010503"
 	STRING_EN[1751]["real_idx"] = 1751
 
 STRING_EN["index"][1752] = 1752
 STRING_EN[1752] = {}
 	STRING_EN[1752]["ID"] = 1752
 	STRING_EN[1752]["KEY"] = "MAINCOPY_7010504"
-	STRING_EN[1752]["VALUE"] = "Pass UT_7010504"
+	STRING_EN[1752]["VALUE"] = "Mission completed in UT_7010504"
 	STRING_EN[1752]["real_idx"] = 1752
 
 STRING_EN["index"][1753] = 1753
 STRING_EN[1753] = {}
 	STRING_EN[1753]["ID"] = 1753
 	STRING_EN[1753]["KEY"] = "MAINCOPY_7010505"
-	STRING_EN[1753]["VALUE"] = "Pass UT_7010505"
+	STRING_EN[1753]["VALUE"] = "Mission completed in UT_7010505"
 	STRING_EN[1753]["real_idx"] = 1753
 
 STRING_EN["index"][1754] = 1754
 STRING_EN[1754] = {}
 	STRING_EN[1754]["ID"] = 1754
 	STRING_EN[1754]["KEY"] = "MAINCOPY_7010506"
-	STRING_EN[1754]["VALUE"] = "Pass UT_7010506"
+	STRING_EN[1754]["VALUE"] = "Mission completed in UT_7010506"
 	STRING_EN[1754]["real_idx"] = 1754
 
 STRING_EN["index"][1755] = 1755
 STRING_EN[1755] = {}
 	STRING_EN[1755]["ID"] = 1755
 	STRING_EN[1755]["KEY"] = "MAINCOPY_7010507"
-	STRING_EN[1755]["VALUE"] = "Pass UT_7010507"
+	STRING_EN[1755]["VALUE"] = "Mission completed in UT_7010507"
 	STRING_EN[1755]["real_idx"] = 1755
 
 STRING_EN["index"][1756] = 1756
 STRING_EN[1756] = {}
 	STRING_EN[1756]["ID"] = 1756
 	STRING_EN[1756]["KEY"] = "MAINCOPY_7010508"
-	STRING_EN[1756]["VALUE"] = "Pass UT_7010508"
+	STRING_EN[1756]["VALUE"] = "Mission completed in UT_7010508"
 	STRING_EN[1756]["real_idx"] = 1756
 
 STRING_EN["index"][1757] = 1757
 STRING_EN[1757] = {}
 	STRING_EN[1757]["ID"] = 1757
 	STRING_EN[1757]["KEY"] = "MAINCOPY_7010509"
-	STRING_EN[1757]["VALUE"] = "Pass UT_7010509"
+	STRING_EN[1757]["VALUE"] = "Mission completed in UT_7010509"
 	STRING_EN[1757]["real_idx"] = 1757
 
 STRING_EN["index"][1758] = 1758
 STRING_EN[1758] = {}
 	STRING_EN[1758]["ID"] = 1758
 	STRING_EN[1758]["KEY"] = "MAINCOPY_7010601"
-	STRING_EN[1758]["VALUE"] = "Pass UT_7010601"
+	STRING_EN[1758]["VALUE"] = "Mission completed in UT_7010601"
 	STRING_EN[1758]["real_idx"] = 1758
 
 STRING_EN["index"][1759] = 1759
 STRING_EN[1759] = {}
 	STRING_EN[1759]["ID"] = 1759
 	STRING_EN[1759]["KEY"] = "MAINCOPY_7010602"
-	STRING_EN[1759]["VALUE"] = "Pass UT_7010602"
+	STRING_EN[1759]["VALUE"] = "Mission completed in UT_7010602"
 	STRING_EN[1759]["real_idx"] = 1759
 
 STRING_EN["index"][1760] = 1760
 STRING_EN[1760] = {}
 	STRING_EN[1760]["ID"] = 1760
 	STRING_EN[1760]["KEY"] = "MAINCOPY_7010603"
-	STRING_EN[1760]["VALUE"] = "Pass UT_7010603"
+	STRING_EN[1760]["VALUE"] = "Mission completed in UT_7010603"
 	STRING_EN[1760]["real_idx"] = 1760
 
 STRING_EN["index"][1761] = 1761
 STRING_EN[1761] = {}
 	STRING_EN[1761]["ID"] = 1761
 	STRING_EN[1761]["KEY"] = "MAINCOPY_7010604"
-	STRING_EN[1761]["VALUE"] = "Pass UT_7010604"
+	STRING_EN[1761]["VALUE"] = "Mission completed in UT_7010604"
 	STRING_EN[1761]["real_idx"] = 1761
 
 STRING_EN["index"][1762] = 1762
 STRING_EN[1762] = {}
 	STRING_EN[1762]["ID"] = 1762
 	STRING_EN[1762]["KEY"] = "MAINCOPY_7010605"
-	STRING_EN[1762]["VALUE"] = "Pass UT_7010605"
+	STRING_EN[1762]["VALUE"] = "Mission completed in UT_7010605"
 	STRING_EN[1762]["real_idx"] = 1762
 
 STRING_EN["index"][1763] = 1763
 STRING_EN[1763] = {}
 	STRING_EN[1763]["ID"] = 1763
 	STRING_EN[1763]["KEY"] = "MAINCOPY_7010606"
-	STRING_EN[1763]["VALUE"] = "Pass UT_7010606"
+	STRING_EN[1763]["VALUE"] = "Mission completed in UT_7010606"
 	STRING_EN[1763]["real_idx"] = 1763
 
 STRING_EN["index"][1764] = 1764
 STRING_EN[1764] = {}
 	STRING_EN[1764]["ID"] = 1764
 	STRING_EN[1764]["KEY"] = "MAINCOPY_7010607"
-	STRING_EN[1764]["VALUE"] = "Pass UT_7010607"
+	STRING_EN[1764]["VALUE"] = "Mission completed in UT_7010607"
 	STRING_EN[1764]["real_idx"] = 1764
 
 STRING_EN["index"][1765] = 1765
 STRING_EN[1765] = {}
 	STRING_EN[1765]["ID"] = 1765
 	STRING_EN[1765]["KEY"] = "MAINCOPY_7010608"
-	STRING_EN[1765]["VALUE"] = "Pass UT_7010608"
+	STRING_EN[1765]["VALUE"] = "Mission completed in UT_7010608"
 	STRING_EN[1765]["real_idx"] = 1765
 
 STRING_EN["index"][1766] = 1766
 STRING_EN[1766] = {}
 	STRING_EN[1766]["ID"] = 1766
 	STRING_EN[1766]["KEY"] = "MAINCOPY_7010609"
-	STRING_EN[1766]["VALUE"] = "Pass UT_7010609"
+	STRING_EN[1766]["VALUE"] = "Mission completed in UT_7010609"
 	STRING_EN[1766]["real_idx"] = 1766
 
 STRING_EN["index"][1767] = 1767
 STRING_EN[1767] = {}
 	STRING_EN[1767]["ID"] = 1767
 	STRING_EN[1767]["KEY"] = "MAINCOPY_7010701"
-	STRING_EN[1767]["VALUE"] = "Pass UT_7010701"
+	STRING_EN[1767]["VALUE"] = "Mission completed in UT_7010701"
 	STRING_EN[1767]["real_idx"] = 1767
 
 STRING_EN["index"][1768] = 1768
 STRING_EN[1768] = {}
 	STRING_EN[1768]["ID"] = 1768
 	STRING_EN[1768]["KEY"] = "MAINCOPY_7010702"
-	STRING_EN[1768]["VALUE"] = "Pass UT_7010702"
+	STRING_EN[1768]["VALUE"] = "Mission completed in UT_7010702"
 	STRING_EN[1768]["real_idx"] = 1768
 
 STRING_EN["index"][1769] = 1769
 STRING_EN[1769] = {}
 	STRING_EN[1769]["ID"] = 1769
 	STRING_EN[1769]["KEY"] = "MAINCOPY_7010703"
-	STRING_EN[1769]["VALUE"] = "Pass UT_7010703"
+	STRING_EN[1769]["VALUE"] = "Mission completed in UT_7010703"
 	STRING_EN[1769]["real_idx"] = 1769
 
 STRING_EN["index"][1770] = 1770
 STRING_EN[1770] = {}
 	STRING_EN[1770]["ID"] = 1770
 	STRING_EN[1770]["KEY"] = "MAINCOPY_7010704"
-	STRING_EN[1770]["VALUE"] = "Pass UT_7010704"
+	STRING_EN[1770]["VALUE"] = "Mission completed in UT_7010704"
 	STRING_EN[1770]["real_idx"] = 1770
 
 STRING_EN["index"][1771] = 1771
 STRING_EN[1771] = {}
 	STRING_EN[1771]["ID"] = 1771
 	STRING_EN[1771]["KEY"] = "MAINCOPY_7010705"
-	STRING_EN[1771]["VALUE"] = "Pass UT_7010705"
+	STRING_EN[1771]["VALUE"] = "Mission completed in UT_7010705"
 	STRING_EN[1771]["real_idx"] = 1771
 
 STRING_EN["index"][1772] = 1772
 STRING_EN[1772] = {}
 	STRING_EN[1772]["ID"] = 1772
 	STRING_EN[1772]["KEY"] = "MAINCOPY_7010706"
-	STRING_EN[1772]["VALUE"] = "Pass UT_7010706"
+	STRING_EN[1772]["VALUE"] = "Mission completed in UT_7010706"
 	STRING_EN[1772]["real_idx"] = 1772
 
 STRING_EN["index"][1773] = 1773
 STRING_EN[1773] = {}
 	STRING_EN[1773]["ID"] = 1773
 	STRING_EN[1773]["KEY"] = "MAINCOPY_7010707"
-	STRING_EN[1773]["VALUE"] = "Pass UT_7010707"
+	STRING_EN[1773]["VALUE"] = "Mission completed in UT_7010707"
 	STRING_EN[1773]["real_idx"] = 1773
 
 STRING_EN["index"][1774] = 1774
 STRING_EN[1774] = {}
 	STRING_EN[1774]["ID"] = 1774
 	STRING_EN[1774]["KEY"] = "MAINCOPY_7010708"
-	STRING_EN[1774]["VALUE"] = "Pass UT_7010708"
+	STRING_EN[1774]["VALUE"] = "Mission completed in UT_7010708"
 	STRING_EN[1774]["real_idx"] = 1774
 
 STRING_EN["index"][1775] = 1775
 STRING_EN[1775] = {}
 	STRING_EN[1775]["ID"] = 1775
 	STRING_EN[1775]["KEY"] = "MAINCOPY_7010709"
-	STRING_EN[1775]["VALUE"] = "Pass UT_7010709"
+	STRING_EN[1775]["VALUE"] = "Mission completed in UT_7010709"
 	STRING_EN[1775]["real_idx"] = 1775
 
 STRING_EN["index"][1776] = 1776
 STRING_EN[1776] = {}
 	STRING_EN[1776]["ID"] = 1776
 	STRING_EN[1776]["KEY"] = "MAINCOPY_7010801"
-	STRING_EN[1776]["VALUE"] = "Pass UT_7010801"
+	STRING_EN[1776]["VALUE"] = "Mission completed in UT_7010801"
 	STRING_EN[1776]["real_idx"] = 1776
 
 STRING_EN["index"][1777] = 1777
 STRING_EN[1777] = {}
 	STRING_EN[1777]["ID"] = 1777
 	STRING_EN[1777]["KEY"] = "MAINCOPY_7010802"
-	STRING_EN[1777]["VALUE"] = "Pass UT_7010802"
+	STRING_EN[1777]["VALUE"] = "Mission completed in UT_7010802"
 	STRING_EN[1777]["real_idx"] = 1777
 
 STRING_EN["index"][1778] = 1778
 STRING_EN[1778] = {}
 	STRING_EN[1778]["ID"] = 1778
 	STRING_EN[1778]["KEY"] = "MAINCOPY_7010803"
-	STRING_EN[1778]["VALUE"] = "Pass UT_7010803"
+	STRING_EN[1778]["VALUE"] = "Mission completed in UT_7010803"
 	STRING_EN[1778]["real_idx"] = 1778
 
 STRING_EN["index"][1779] = 1779
 STRING_EN[1779] = {}
 	STRING_EN[1779]["ID"] = 1779
 	STRING_EN[1779]["KEY"] = "MAINCOPY_7010804"
-	STRING_EN[1779]["VALUE"] = "Pass UT_7010804"
+	STRING_EN[1779]["VALUE"] = "Mission completed in UT_7010804"
 	STRING_EN[1779]["real_idx"] = 1779
 
 STRING_EN["index"][1780] = 1780
 STRING_EN[1780] = {}
 	STRING_EN[1780]["ID"] = 1780
 	STRING_EN[1780]["KEY"] = "MAINCOPY_7010805"
-	STRING_EN[1780]["VALUE"] = "Pass UT_7010805"
+	STRING_EN[1780]["VALUE"] = "Mission completed in UT_7010805"
 	STRING_EN[1780]["real_idx"] = 1780
 
 STRING_EN["index"][1781] = 1781
 STRING_EN[1781] = {}
 	STRING_EN[1781]["ID"] = 1781
 	STRING_EN[1781]["KEY"] = "MAINCOPY_7010806"
-	STRING_EN[1781]["VALUE"] = "Pass UT_7010806"
+	STRING_EN[1781]["VALUE"] = "Mission completed in UT_7010806"
 	STRING_EN[1781]["real_idx"] = 1781
 
 STRING_EN["index"][1782] = 1782
 STRING_EN[1782] = {}
 	STRING_EN[1782]["ID"] = 1782
 	STRING_EN[1782]["KEY"] = "MAINCOPY_7010807"
-	STRING_EN[1782]["VALUE"] = "Pass UT_7010807"
+	STRING_EN[1782]["VALUE"] = "Mission completed in UT_7010807"
 	STRING_EN[1782]["real_idx"] = 1782
 
 STRING_EN["index"][1783] = 1783
 STRING_EN[1783] = {}
 	STRING_EN[1783]["ID"] = 1783
 	STRING_EN[1783]["KEY"] = "MAINCOPY_7010808"
-	STRING_EN[1783]["VALUE"] = "Pass UT_7010808"
+	STRING_EN[1783]["VALUE"] = "Mission completed in UT_7010808"
 	STRING_EN[1783]["real_idx"] = 1783
 
 STRING_EN["index"][1784] = 1784
 STRING_EN[1784] = {}
 	STRING_EN[1784]["ID"] = 1784
 	STRING_EN[1784]["KEY"] = "MAINCOPY_7010809"
-	STRING_EN[1784]["VALUE"] = "Pass UT_7010809"
+	STRING_EN[1784]["VALUE"] = "Mission completed in UT_7010809"
 	STRING_EN[1784]["real_idx"] = 1784
 
 STRING_EN["index"][1785] = 1785
 STRING_EN[1785] = {}
 	STRING_EN[1785]["ID"] = 1785
 	STRING_EN[1785]["KEY"] = "MAINCOPY_7010901"
-	STRING_EN[1785]["VALUE"] = "Pass UT_7010901"
+	STRING_EN[1785]["VALUE"] = "Mission completed in UT_7010901"
 	STRING_EN[1785]["real_idx"] = 1785
 
 STRING_EN["index"][1786] = 1786
 STRING_EN[1786] = {}
 	STRING_EN[1786]["ID"] = 1786
 	STRING_EN[1786]["KEY"] = "MAINCOPY_7010902"
-	STRING_EN[1786]["VALUE"] = "Pass UT_7010902"
+	STRING_EN[1786]["VALUE"] = "Mission completed in UT_7010902"
 	STRING_EN[1786]["real_idx"] = 1786
 
 STRING_EN["index"][1787] = 1787
 STRING_EN[1787] = {}
 	STRING_EN[1787]["ID"] = 1787
 	STRING_EN[1787]["KEY"] = "MAINCOPY_7010903"
-	STRING_EN[1787]["VALUE"] = "Pass UT_7010903"
+	STRING_EN[1787]["VALUE"] = "Mission completed in UT_7010903"
 	STRING_EN[1787]["real_idx"] = 1787
 
 STRING_EN["index"][1788] = 1788
 STRING_EN[1788] = {}
 	STRING_EN[1788]["ID"] = 1788
 	STRING_EN[1788]["KEY"] = "MAINCOPY_7010904"
-	STRING_EN[1788]["VALUE"] = "Pass UT_7010904"
+	STRING_EN[1788]["VALUE"] = "Mission completed in UT_7010904"
 	STRING_EN[1788]["real_idx"] = 1788
 
 STRING_EN["index"][1789] = 1789
 STRING_EN[1789] = {}
 	STRING_EN[1789]["ID"] = 1789
 	STRING_EN[1789]["KEY"] = "MAINCOPY_7010905"
-	STRING_EN[1789]["VALUE"] = "Pass UT_7010905"
+	STRING_EN[1789]["VALUE"] = "Mission completed in UT_7010905"
 	STRING_EN[1789]["real_idx"] = 1789
 
 STRING_EN["index"][1790] = 1790
 STRING_EN[1790] = {}
 	STRING_EN[1790]["ID"] = 1790
 	STRING_EN[1790]["KEY"] = "MAINCOPY_7010906"
-	STRING_EN[1790]["VALUE"] = "Pass UT_7010906"
+	STRING_EN[1790]["VALUE"] = "Mission completed in UT_7010906"
 	STRING_EN[1790]["real_idx"] = 1790
 
 STRING_EN["index"][1791] = 1791
 STRING_EN[1791] = {}
 	STRING_EN[1791]["ID"] = 1791
 	STRING_EN[1791]["KEY"] = "MAINCOPY_7010907"
-	STRING_EN[1791]["VALUE"] = "Pass UT_7010907"
+	STRING_EN[1791]["VALUE"] = "Mission completed in UT_7010907"
 	STRING_EN[1791]["real_idx"] = 1791
 
 STRING_EN["index"][1792] = 1792
 STRING_EN[1792] = {}
 	STRING_EN[1792]["ID"] = 1792
 	STRING_EN[1792]["KEY"] = "MAINCOPY_7010908"
-	STRING_EN[1792]["VALUE"] = "Pass UT_7010908"
+	STRING_EN[1792]["VALUE"] = "Mission completed in UT_7010908"
 	STRING_EN[1792]["real_idx"] = 1792
 
 STRING_EN["index"][1793] = 1793
 STRING_EN[1793] = {}
 	STRING_EN[1793]["ID"] = 1793
 	STRING_EN[1793]["KEY"] = "MAINCOPY_7010909"
-	STRING_EN[1793]["VALUE"] = "Pass UT_7010909"
+	STRING_EN[1793]["VALUE"] = "Mission completed in UT_7010909"
 	STRING_EN[1793]["real_idx"] = 1793
 
 STRING_EN["index"][1794] = 1794
 STRING_EN[1794] = {}
 	STRING_EN[1794]["ID"] = 1794
 	STRING_EN[1794]["KEY"] = nil
-	STRING_EN[1794]["VALUE"] = "Nil"
+	STRING_EN[1794]["VALUE"] = nil
 	STRING_EN[1794]["real_idx"] = 1794
 
 STRING_EN["index"][1795] = 1795
 STRING_EN[1795] = {}
 	STRING_EN[1795]["ID"] = 1795
 	STRING_EN[1795]["KEY"] = "DAILY_TASK_7001"
-	STRING_EN[1795]["VALUE"] = "Participated in the arena 5 times"
+	STRING_EN[1795]["VALUE"] = "Participated in Arena 5 times"
 	STRING_EN[1795]["real_idx"] = 1795
 
 STRING_EN["index"][1796] = 1796
 STRING_EN[1796] = {}
 	STRING_EN[1796]["ID"] = 1796
 	STRING_EN[1796]["KEY"] = "DAILY_TASK_7002"
-	STRING_EN[1796]["VALUE"] = "Galaxy launches plunder"
+	STRING_EN[1796]["VALUE"] = "Galaxy Plunder Launch "
 	STRING_EN[1796]["real_idx"] = 1796
 
 STRING_EN["index"][1797] = 1797
 STRING_EN[1797] = {}
 	STRING_EN[1797]["ID"] = 1797
 	STRING_EN[1797]["KEY"] = "DAILY_TASK_7003"
-	STRING_EN[1797]["VALUE"] = "Galaxy launches raid"
+	STRING_EN[1797]["VALUE"] = "Galaxy Raid Launch"
 	STRING_EN[1797]["real_idx"] = 1797
 
 STRING_EN["index"][1798] = 1798
 STRING_EN[1798] = {}
 	STRING_EN[1798]["ID"] = 1798
 	STRING_EN[1798]["KEY"] = "DAILY_TASK_7004"
-	STRING_EN[1798]["VALUE"] = "Galaxy exploration wreck"
+	STRING_EN[1798]["VALUE"] = "Galaxy Wreckage Exploration "
 	STRING_EN[1798]["real_idx"] = 1798
 
 STRING_EN["index"][1799] = 1799
 STRING_EN[1799] = {}
 	STRING_EN[1799]["ID"] = 1799
 	STRING_EN[1799]["KEY"] = "DAILY_TASK_7005"
-	STRING_EN[1799]["VALUE"] = "Galaxy salvage wreckage"
+	STRING_EN[1799]["VALUE"] = "Galaxy Wreckage Salvage"
 	STRING_EN[1799]["real_idx"] = 1799
 
 STRING_EN["index"][1800] = 1800
 STRING_EN[1800] = {}
 	STRING_EN[1800]["ID"] = 1800
 	STRING_EN[1800]["KEY"] = "DAILY_TASK_7006"
-	STRING_EN[1800]["VALUE"] = "Covenant donation 10 times"
+	STRING_EN[1800]["VALUE"] = "Alliance Donated 10 times"
 	STRING_EN[1800]["real_idx"] = 1800
 
 STRING_EN["index"][1801] = 1801
 STRING_EN[1801] = {}
 	STRING_EN[1801]["ID"] = 1801
 	STRING_EN[1801]["KEY"] = "DAILY_TASK_7007"
-	STRING_EN[1801]["VALUE"] = "Carry out home harvest 5 times"
+	STRING_EN[1801]["VALUE"] = "Collected Homebase Outputs 5 times"
 	STRING_EN[1801]["real_idx"] = 1801
 
 STRING_EN["index"][1802] = 1802
 STRING_EN[1802] = {}
 	STRING_EN[1802]["ID"] = 1802
 	STRING_EN[1802]["KEY"] = "DAILY_TASK_7008"
-	STRING_EN[1802]["VALUE"] = "Galaxy collection resources"
+	STRING_EN[1802]["VALUE"] = "Galaxy Resources Collection"
 	STRING_EN[1802]["real_idx"] = 1802
 
 STRING_EN["index"][1803] = 1803
 STRING_EN[1803] = {}
 	STRING_EN[1803]["ID"] = 1803
 	STRING_EN[1803]["KEY"] = "DAILY_TASK_7009"
-	STRING_EN[1803]["VALUE"] = "Strengthen the ship equipment 3 times"
+	STRING_EN[1803]["VALUE"] = "Upgraded the spaceship equipment 3 times"
 	STRING_EN[1803]["real_idx"] = 1803
 
 STRING_EN["index"][1804] = 1804
 STRING_EN[1804] = {}
 	STRING_EN[1804]["ID"] = 1804
 	STRING_EN[1804]["KEY"] = "DAILY_TASK_7010"
-	STRING_EN[1804]["VALUE"] = "Participate in the instance 2 times"
+	STRING_EN[1804]["VALUE"] = "Participated in Instance 2 times"
 	STRING_EN[1804]["real_idx"] = 1804
 
 STRING_EN["index"][1805] = 1805
 STRING_EN[1805] = {}
 	STRING_EN[1805]["ID"] = 1805
 	STRING_EN[1805]["KEY"] = "DAILY_TASK_7011"
-	STRING_EN[1805]["VALUE"] = "Participate in trial 1 time"
+	STRING_EN[1805]["VALUE"] = "Participate in Trial 1 time"
 	STRING_EN[1805]["real_idx"] = 1805
 
 STRING_EN["index"][1806] = 1806
 STRING_EN[1806] = {}
 	STRING_EN[1806]["ID"] = 1806
 	STRING_EN[1806]["KEY"] = "DAILY_TASK_7012"
-	STRING_EN[1806]["VALUE"] = "Attacking Covenant boss 2 times"
+	STRING_EN[1806]["VALUE"] = "Attacked Alliance Boss 2 times"
 	STRING_EN[1806]["real_idx"] = 1806
 
 STRING_EN["index"][1807] = 1807
 STRING_EN[1807] = {}
 	STRING_EN[1807]["ID"] = 1807
 	STRING_EN[1807]["KEY"] = "DAILY_TASK_7013"
-	STRING_EN[1807]["VALUE"] = "Credit point purchase physical strength 1 time"
+	STRING_EN[1807]["VALUE"] = "Purchased Stamina with Diamonds 1 time"
 	STRING_EN[1807]["real_idx"] = 1807
 
 STRING_EN["index"][1808] = 1808
 STRING_EN[1808] = {}
 	STRING_EN[1808]["ID"] = 1808
 	STRING_EN[1808]["KEY"] = "DAILY_TASK_7014"
-	STRING_EN[1808]["VALUE"] = "Participated in the Starport Draw 5 times"
+	STRING_EN[1808]["VALUE"] = "Participated in the Starport Raffle with Diamonds 5 times"
 	STRING_EN[1808]["real_idx"] = 1808
 
 STRING_EN["index"][1809] = 1809
 STRING_EN[1809] = {}
 	STRING_EN[1809]["ID"] = 1809
 	STRING_EN[1809]["KEY"] = "DAILY_TASK_7015"
-	STRING_EN[1809]["VALUE"] = "Log in once a day"
+	STRING_EN[1809]["VALUE"] = "Logged in 1 day"
 	STRING_EN[1809]["real_idx"] = 1809
 
 STRING_EN["index"][1810] = 1810
 STRING_EN[1810] = {}
 	STRING_EN[1810]["ID"] = 1810
 	STRING_EN[1810]["KEY"] = "M_HERO_LEVEL_1"
-	STRING_EN[1810]["VALUE"] = "This is a universe where dangers and opportunities coexist. If you want to be proud of the stars， you must use resources， research and develop technology， recruit and train more advanced ship to build a fleet of superior strength!"
+	STRING_EN[1810]["VALUE"] = nil
 	STRING_EN[1810]["real_idx"] = 1810
 
 STRING_EN["index"][1811] = 1811
 STRING_EN[1811] = {}
 	STRING_EN[1811]["ID"] = 1811
 	STRING_EN[1811]["KEY"] = "M_HERO_LEVEL_2"
-	STRING_EN[1811]["VALUE"] = "Crossing the Star Gate， you can see the endless universe， where you can get a lot of upgrade experience!"
+	STRING_EN[1811]["VALUE"] = "Crossing the Star Gate， you can see the endless universe where you can gain a lot of experience for upgrade!"
 	STRING_EN[1811]["real_idx"] = 1811
 
 STRING_EN["index"][1812] = 1812
 STRING_EN[1812] = {}
 	STRING_EN[1812]["ID"] = 1812
 	STRING_EN[1812]["KEY"] = "M_HERO_LEVEL_3"
-	STRING_EN[1812]["VALUE"] = "Crossing the Star Gate， you can see the endless universe， where you can get a lot of upgrade experience!"
+	STRING_EN[1812]["VALUE"] = "Crossing the Star Gate， you can see the endless universe where you can gain a lot of experience for upgrade!"
 	STRING_EN[1812]["real_idx"] = 1812
 
 STRING_EN["index"][1813] = 1813
 STRING_EN[1813] = {}
 	STRING_EN[1813]["ID"] = 1813
 	STRING_EN[1813]["KEY"] = "M_HERO_LEVEL_4"
-	STRING_EN[1813]["VALUE"] = "Crossing the Star Gate， you can see the endless universe， where you can get a lot of upgrade experience!"
+	STRING_EN[1813]["VALUE"] = "Crossing the Star Gate， you can see the endless universe where you can gain a lot of experience for upgrade!"
 	STRING_EN[1813]["real_idx"] = 1813
 
 STRING_EN["index"][1814] = 1814
 STRING_EN[1814] = {}
 	STRING_EN[1814]["ID"] = 1814
 	STRING_EN[1814]["KEY"] = "M_HERO_LEVEL_5"
-	STRING_EN[1814]["VALUE"] = "Crossing the Star Gate， you can see the endless universe， where you can get a lot of upgrade experience!"
+	STRING_EN[1814]["VALUE"] = "Crossing the Star Gate， you can see the endless universe where you can gain a lot of experience for upgrade!"
 	STRING_EN[1814]["real_idx"] = 1814
 
 STRING_EN["index"][1815] = 1815
 STRING_EN[1815] = {}
 	STRING_EN[1815]["ID"] = 1815
 	STRING_EN[1815]["KEY"] = "M_HERO_LEVEL_6"
-	STRING_EN[1815]["VALUE"] = "Crossing the Star Gate， you can see the endless universe， where you can get a lot of upgrade experience!"
+	STRING_EN[1815]["VALUE"] = "Crossing the Star Gate， you can see the endless universe where you can gain a lot of experience for upgrade!"
 	STRING_EN[1815]["real_idx"] = 1815
 
 STRING_EN["index"][1816] = 1816
 STRING_EN[1816] = {}
 	STRING_EN[1816]["ID"] = 1816
 	STRING_EN[1816]["KEY"] = "M_HERO_LEVEL_7"
-	STRING_EN[1816]["VALUE"] = "Crossing the Star Gate， you can see the endless universe， where you can get a lot of upgrade experience!"
+	STRING_EN[1816]["VALUE"] = "Crossing the Star Gate， you can see the endless universe where you can gain a lot of experience for upgrade!"
 	STRING_EN[1816]["real_idx"] = 1816
 
 STRING_EN["index"][1817] = 1817
 STRING_EN[1817] = {}
 	STRING_EN[1817]["ID"] = 1817
 	STRING_EN[1817]["KEY"] = "M_HERO_LEVEL_8"
-	STRING_EN[1817]["VALUE"] = "Crossing the Star Gate， you can see the endless universe， where you can get a lot of upgrade experience!"
+	STRING_EN[1817]["VALUE"] = "Crossing the Star Gate， you can see the endless universe where you can gain a lot of experience for upgrade!"
 	STRING_EN[1817]["real_idx"] = 1817
 
 STRING_EN["index"][1818] = 1818
 STRING_EN[1818] = {}
 	STRING_EN[1818]["ID"] = 1818
 	STRING_EN[1818]["KEY"] = "M_HERO_LEVEL_9"
-	STRING_EN[1818]["VALUE"] = "Crossing the Star Gate， you can see the endless universe， where you can get a lot of upgrade experience!"
+	STRING_EN[1818]["VALUE"] = "Crossing the Star Gate， you can see the endless universe where you can gain a lot of experience for upgrade!"
 	STRING_EN[1818]["real_idx"] = 1818
 
 STRING_EN["index"][1819] = 1819
 STRING_EN[1819] = {}
 	STRING_EN[1819]["ID"] = 1819
 	STRING_EN[1819]["KEY"] = "M_HERO_LEVEL_10"
-	STRING_EN[1819]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1819]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1819]["real_idx"] = 1819
 
 STRING_EN["index"][1820] = 1820
 STRING_EN[1820] = {}
 	STRING_EN[1820]["ID"] = 1820
 	STRING_EN[1820]["KEY"] = "M_HERO_LEVEL_11"
-	STRING_EN[1820]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1820]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1820]["real_idx"] = 1820
 
 STRING_EN["index"][1821] = 1821
 STRING_EN[1821] = {}
 	STRING_EN[1821]["ID"] = 1821
 	STRING_EN[1821]["KEY"] = "M_HERO_LEVEL_12"
-	STRING_EN[1821]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1821]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1821]["real_idx"] = 1821
 
 STRING_EN["index"][1822] = 1822
 STRING_EN[1822] = {}
 	STRING_EN[1822]["ID"] = 1822
 	STRING_EN[1822]["KEY"] = "M_HERO_LEVEL_13"
-	STRING_EN[1822]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1822]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1822]["real_idx"] = 1822
 
 STRING_EN["index"][1823] = 1823
 STRING_EN[1823] = {}
 	STRING_EN[1823]["ID"] = 1823
 	STRING_EN[1823]["KEY"] = "M_HERO_LEVEL_14"
-	STRING_EN[1823]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1823]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1823]["real_idx"] = 1823
 
 STRING_EN["index"][1824] = 1824
 STRING_EN[1824] = {}
 	STRING_EN[1824]["ID"] = 1824
 	STRING_EN[1824]["KEY"] = "M_HERO_LEVEL_15"
-	STRING_EN[1824]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1824]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1824]["real_idx"] = 1824
 
 STRING_EN["index"][1825] = 1825
 STRING_EN[1825] = {}
 	STRING_EN[1825]["ID"] = 1825
 	STRING_EN[1825]["KEY"] = "M_HERO_LEVEL_16"
-	STRING_EN[1825]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1825]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1825]["real_idx"] = 1825
 
 STRING_EN["index"][1826] = 1826
 STRING_EN[1826] = {}
 	STRING_EN[1826]["ID"] = 1826
 	STRING_EN[1826]["KEY"] = "M_HERO_LEVEL_17"
-	STRING_EN[1826]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1826]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1826]["real_idx"] = 1826
 
 STRING_EN["index"][1827] = 1827
 STRING_EN[1827] = {}
 	STRING_EN[1827]["ID"] = 1827
 	STRING_EN[1827]["KEY"] = "M_HERO_LEVEL_18"
-	STRING_EN[1827]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1827]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1827]["real_idx"] = 1827
 
 STRING_EN["index"][1828] = 1828
 STRING_EN[1828] = {}
 	STRING_EN[1828]["ID"] = 1828
 	STRING_EN[1828]["KEY"] = "M_HERO_LEVEL_19"
-	STRING_EN[1828]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1828]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1828]["real_idx"] = 1828
 
 STRING_EN["index"][1829] = 1829
 STRING_EN[1829] = {}
 	STRING_EN[1829]["ID"] = 1829
 	STRING_EN[1829]["KEY"] = "M_HERO_LEVEL_20"
-	STRING_EN[1829]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1829]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1829]["real_idx"] = 1829
 
 STRING_EN["index"][1830] = 1830
 STRING_EN[1830] = {}
 	STRING_EN[1830]["ID"] = 1830
 	STRING_EN[1830]["KEY"] = "M_HERO_LEVEL_21"
-	STRING_EN[1830]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1830]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1830]["real_idx"] = 1830
 
 STRING_EN["index"][1831] = 1831
 STRING_EN[1831] = {}
 	STRING_EN[1831]["ID"] = 1831
 	STRING_EN[1831]["KEY"] = "M_HERO_LEVEL_22"
-	STRING_EN[1831]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1831]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1831]["real_idx"] = 1831
 
 STRING_EN["index"][1832] = 1832
 STRING_EN[1832] = {}
 	STRING_EN[1832]["ID"] = 1832
 	STRING_EN[1832]["KEY"] = "M_HERO_LEVEL_23"
-	STRING_EN[1832]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1832]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1832]["real_idx"] = 1832
 
 STRING_EN["index"][1833] = 1833
 STRING_EN[1833] = {}
 	STRING_EN[1833]["ID"] = 1833
 	STRING_EN[1833]["KEY"] = "M_HERO_LEVEL_24"
-	STRING_EN[1833]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1833]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1833]["real_idx"] = 1833
 
 STRING_EN["index"][1834] = 1834
 STRING_EN[1834] = {}
 	STRING_EN[1834]["ID"] = 1834
 	STRING_EN[1834]["KEY"] = "M_HERO_LEVEL_25"
-	STRING_EN[1834]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1834]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1834]["real_idx"] = 1834
 
 STRING_EN["index"][1835] = 1835
 STRING_EN[1835] = {}
 	STRING_EN[1835]["ID"] = 1835
 	STRING_EN[1835]["KEY"] = "M_HERO_LEVEL_26"
-	STRING_EN[1835]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1835]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1835]["real_idx"] = 1835
 
 STRING_EN["index"][1836] = 1836
 STRING_EN[1836] = {}
 	STRING_EN[1836]["ID"] = 1836
 	STRING_EN[1836]["KEY"] = "M_HERO_LEVEL_27"
-	STRING_EN[1836]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1836]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1836]["real_idx"] = 1836
 
 STRING_EN["index"][1837] = 1837
 STRING_EN[1837] = {}
 	STRING_EN[1837]["ID"] = 1837
 	STRING_EN[1837]["KEY"] = "M_HERO_LEVEL_28"
-	STRING_EN[1837]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1837]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1837]["real_idx"] = 1837
 
 STRING_EN["index"][1838] = 1838
 STRING_EN[1838] = {}
 	STRING_EN[1838]["ID"] = 1838
 	STRING_EN[1838]["KEY"] = "M_HERO_LEVEL_29"
-	STRING_EN[1838]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1838]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1838]["real_idx"] = 1838
 
 STRING_EN["index"][1839] = 1839
 STRING_EN[1839] = {}
 	STRING_EN[1839]["ID"] = 1839
 	STRING_EN[1839]["KEY"] = "M_HERO_LEVEL_30"
-	STRING_EN[1839]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1839]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1839]["real_idx"] = 1839
 
 STRING_EN["index"][1840] = 1840
 STRING_EN[1840] = {}
 	STRING_EN[1840]["ID"] = 1840
 	STRING_EN[1840]["KEY"] = "M_HERO_LEVEL_31"
-	STRING_EN[1840]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1840]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1840]["real_idx"] = 1840
 
 STRING_EN["index"][1841] = 1841
 STRING_EN[1841] = {}
 	STRING_EN[1841]["ID"] = 1841
 	STRING_EN[1841]["KEY"] = "M_HERO_LEVEL_32"
-	STRING_EN[1841]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1841]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1841]["real_idx"] = 1841
 
 STRING_EN["index"][1842] = 1842
 STRING_EN[1842] = {}
 	STRING_EN[1842]["ID"] = 1842
 	STRING_EN[1842]["KEY"] = "M_HERO_LEVEL_33"
-	STRING_EN[1842]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1842]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1842]["real_idx"] = 1842
 
 STRING_EN["index"][1843] = 1843
 STRING_EN[1843] = {}
 	STRING_EN[1843]["ID"] = 1843
 	STRING_EN[1843]["KEY"] = "M_HERO_LEVEL_34"
-	STRING_EN[1843]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1843]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1843]["real_idx"] = 1843
 
 STRING_EN["index"][1844] = 1844
 STRING_EN[1844] = {}
 	STRING_EN[1844]["ID"] = 1844
 	STRING_EN[1844]["KEY"] = "M_HERO_LEVEL_35"
-	STRING_EN[1844]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1844]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1844]["real_idx"] = 1844
 
 STRING_EN["index"][1845] = 1845
 STRING_EN[1845] = {}
 	STRING_EN[1845]["ID"] = 1845
 	STRING_EN[1845]["KEY"] = "M_HERO_LEVEL_36"
-	STRING_EN[1845]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1845]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1845]["real_idx"] = 1845
 
 STRING_EN["index"][1846] = 1846
 STRING_EN[1846] = {}
 	STRING_EN[1846]["ID"] = 1846
 	STRING_EN[1846]["KEY"] = "M_HERO_LEVEL_37"
-	STRING_EN[1846]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1846]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1846]["real_idx"] = 1846
 
 STRING_EN["index"][1847] = 1847
 STRING_EN[1847] = {}
 	STRING_EN[1847]["ID"] = 1847
 	STRING_EN[1847]["KEY"] = "M_HERO_LEVEL_38"
-	STRING_EN[1847]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1847]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1847]["real_idx"] = 1847
 
 STRING_EN["index"][1848] = 1848
 STRING_EN[1848] = {}
 	STRING_EN[1848]["ID"] = 1848
 	STRING_EN[1848]["KEY"] = "M_HERO_LEVEL_39"
-	STRING_EN[1848]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1848]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1848]["real_idx"] = 1848
 
 STRING_EN["index"][1849] = 1849
 STRING_EN[1849] = {}
 	STRING_EN[1849]["ID"] = 1849
 	STRING_EN[1849]["KEY"] = "M_HERO_LEVEL_40"
-	STRING_EN[1849]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1849]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1849]["real_idx"] = 1849
 
 STRING_EN["index"][1850] = 1850
 STRING_EN[1850] = {}
 	STRING_EN[1850]["ID"] = 1850
 	STRING_EN[1850]["KEY"] = "M_HERO_LEVEL_41"
-	STRING_EN[1850]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1850]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1850]["real_idx"] = 1850
 
 STRING_EN["index"][1851] = 1851
 STRING_EN[1851] = {}
 	STRING_EN[1851]["ID"] = 1851
 	STRING_EN[1851]["KEY"] = "M_HERO_LEVEL_42"
-	STRING_EN[1851]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1851]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1851]["real_idx"] = 1851
 
 STRING_EN["index"][1852] = 1852
 STRING_EN[1852] = {}
 	STRING_EN[1852]["ID"] = 1852
 	STRING_EN[1852]["KEY"] = "M_HERO_LEVEL_43"
-	STRING_EN[1852]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1852]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1852]["real_idx"] = 1852
 
 STRING_EN["index"][1853] = 1853
 STRING_EN[1853] = {}
 	STRING_EN[1853]["ID"] = 1853
 	STRING_EN[1853]["KEY"] = "M_HERO_LEVEL_44"
-	STRING_EN[1853]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1853]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1853]["real_idx"] = 1853
 
 STRING_EN["index"][1854] = 1854
 STRING_EN[1854] = {}
 	STRING_EN[1854]["ID"] = 1854
 	STRING_EN[1854]["KEY"] = "M_HERO_LEVEL_45"
-	STRING_EN[1854]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1854]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1854]["real_idx"] = 1854
 
 STRING_EN["index"][1855] = 1855
 STRING_EN[1855] = {}
 	STRING_EN[1855]["ID"] = 1855
 	STRING_EN[1855]["KEY"] = "M_HERO_LEVEL_46"
-	STRING_EN[1855]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1855]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1855]["real_idx"] = 1855
 
 STRING_EN["index"][1856] = 1856
 STRING_EN[1856] = {}
 	STRING_EN[1856]["ID"] = 1856
 	STRING_EN[1856]["KEY"] = "M_HERO_LEVEL_47"
-	STRING_EN[1856]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1856]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1856]["real_idx"] = 1856
 
 STRING_EN["index"][1857] = 1857
 STRING_EN[1857] = {}
 	STRING_EN[1857]["ID"] = 1857
 	STRING_EN[1857]["KEY"] = "M_HERO_LEVEL_48"
-	STRING_EN[1857]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1857]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1857]["real_idx"] = 1857
 
 STRING_EN["index"][1858] = 1858
 STRING_EN[1858] = {}
 	STRING_EN[1858]["ID"] = 1858
 	STRING_EN[1858]["KEY"] = "M_HERO_LEVEL_49"
-	STRING_EN[1858]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1858]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1858]["real_idx"] = 1858
 
 STRING_EN["index"][1859] = 1859
 STRING_EN[1859] = {}
 	STRING_EN[1859]["ID"] = 1859
 	STRING_EN[1859]["KEY"] = "M_HERO_LEVEL_50"
-	STRING_EN[1859]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1859]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1859]["real_idx"] = 1859
 
 STRING_EN["index"][1860] = 1860
 STRING_EN[1860] = {}
 	STRING_EN[1860]["ID"] = 1860
 	STRING_EN[1860]["KEY"] = "M_HERO_LEVEL_51"
-	STRING_EN[1860]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1860]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1860]["real_idx"] = 1860
 
 STRING_EN["index"][1861] = 1861
 STRING_EN[1861] = {}
 	STRING_EN[1861]["ID"] = 1861
 	STRING_EN[1861]["KEY"] = "M_HERO_LEVEL_52"
-	STRING_EN[1861]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1861]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1861]["real_idx"] = 1861
 
 STRING_EN["index"][1862] = 1862
 STRING_EN[1862] = {}
 	STRING_EN[1862]["ID"] = 1862
 	STRING_EN[1862]["KEY"] = "M_HERO_LEVEL_53"
-	STRING_EN[1862]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1862]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1862]["real_idx"] = 1862
 
 STRING_EN["index"][1863] = 1863
 STRING_EN[1863] = {}
 	STRING_EN[1863]["ID"] = 1863
 	STRING_EN[1863]["KEY"] = "M_HERO_LEVEL_54"
-	STRING_EN[1863]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1863]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1863]["real_idx"] = 1863
 
 STRING_EN["index"][1864] = 1864
 STRING_EN[1864] = {}
 	STRING_EN[1864]["ID"] = 1864
 	STRING_EN[1864]["KEY"] = "M_HERO_LEVEL_55"
-	STRING_EN[1864]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1864]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1864]["real_idx"] = 1864
 
 STRING_EN["index"][1865] = 1865
 STRING_EN[1865] = {}
 	STRING_EN[1865]["ID"] = 1865
 	STRING_EN[1865]["KEY"] = "M_HERO_LEVEL_56"
-	STRING_EN[1865]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1865]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1865]["real_idx"] = 1865
 
 STRING_EN["index"][1866] = 1866
 STRING_EN[1866] = {}
 	STRING_EN[1866]["ID"] = 1866
 	STRING_EN[1866]["KEY"] = "M_HERO_LEVEL_57"
-	STRING_EN[1866]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1866]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1866]["real_idx"] = 1866
 
 STRING_EN["index"][1867] = 1867
 STRING_EN[1867] = {}
 	STRING_EN[1867]["ID"] = 1867
 	STRING_EN[1867]["KEY"] = "M_HERO_LEVEL_58"
-	STRING_EN[1867]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1867]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1867]["real_idx"] = 1867
 
 STRING_EN["index"][1868] = 1868
 STRING_EN[1868] = {}
 	STRING_EN[1868]["ID"] = 1868
 	STRING_EN[1868]["KEY"] = "M_HERO_LEVEL_59"
-	STRING_EN[1868]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1868]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1868]["real_idx"] = 1868
 
 STRING_EN["index"][1869] = 1869
 STRING_EN[1869] = {}
 	STRING_EN[1869]["ID"] = 1869
 	STRING_EN[1869]["KEY"] = "M_HERO_LEVEL_60"
-	STRING_EN[1869]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1869]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1869]["real_idx"] = 1869
 
 STRING_EN["index"][1870] = 1870
 STRING_EN[1870] = {}
 	STRING_EN[1870]["ID"] = 1870
 	STRING_EN[1870]["KEY"] = "M_HERO_LEVEL_61"
-	STRING_EN[1870]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1870]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1870]["real_idx"] = 1870
 
 STRING_EN["index"][1871] = 1871
 STRING_EN[1871] = {}
 	STRING_EN[1871]["ID"] = 1871
 	STRING_EN[1871]["KEY"] = "M_HERO_LEVEL_62"
-	STRING_EN[1871]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1871]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1871]["real_idx"] = 1871
 
 STRING_EN["index"][1872] = 1872
 STRING_EN[1872] = {}
 	STRING_EN[1872]["ID"] = 1872
 	STRING_EN[1872]["KEY"] = "M_HERO_LEVEL_63"
-	STRING_EN[1872]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1872]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1872]["real_idx"] = 1872
 
 STRING_EN["index"][1873] = 1873
 STRING_EN[1873] = {}
 	STRING_EN[1873]["ID"] = 1873
 	STRING_EN[1873]["KEY"] = "M_HERO_LEVEL_64"
-	STRING_EN[1873]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1873]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1873]["real_idx"] = 1873
 
 STRING_EN["index"][1874] = 1874
 STRING_EN[1874] = {}
 	STRING_EN[1874]["ID"] = 1874
 	STRING_EN[1874]["KEY"] = "M_HERO_LEVEL_65"
-	STRING_EN[1874]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1874]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1874]["real_idx"] = 1874
 
 STRING_EN["index"][1875] = 1875
 STRING_EN[1875] = {}
 	STRING_EN[1875]["ID"] = 1875
 	STRING_EN[1875]["KEY"] = "M_HERO_LEVEL_66"
-	STRING_EN[1875]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1875]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1875]["real_idx"] = 1875
 
 STRING_EN["index"][1876] = 1876
 STRING_EN[1876] = {}
 	STRING_EN[1876]["ID"] = 1876
 	STRING_EN[1876]["KEY"] = "M_HERO_LEVEL_67"
-	STRING_EN[1876]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1876]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1876]["real_idx"] = 1876
 
 STRING_EN["index"][1877] = 1877
 STRING_EN[1877] = {}
 	STRING_EN[1877]["ID"] = 1877
 	STRING_EN[1877]["KEY"] = "M_HERO_LEVEL_68"
-	STRING_EN[1877]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1877]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1877]["real_idx"] = 1877
 
 STRING_EN["index"][1878] = 1878
 STRING_EN[1878] = {}
 	STRING_EN[1878]["ID"] = 1878
 	STRING_EN[1878]["KEY"] = "M_HERO_LEVEL_69"
-	STRING_EN[1878]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1878]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1878]["real_idx"] = 1878
 
 STRING_EN["index"][1879] = 1879
 STRING_EN[1879] = {}
 	STRING_EN[1879]["ID"] = 1879
 	STRING_EN[1879]["KEY"] = "M_HERO_LEVEL_70"
-	STRING_EN[1879]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1879]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1879]["real_idx"] = 1879
 
 STRING_EN["index"][1880] = 1880
 STRING_EN[1880] = {}
 	STRING_EN[1880]["ID"] = 1880
 	STRING_EN[1880]["KEY"] = "M_HERO_LEVEL_71"
-	STRING_EN[1880]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1880]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1880]["real_idx"] = 1880
 
 STRING_EN["index"][1881] = 1881
 STRING_EN[1881] = {}
 	STRING_EN[1881]["ID"] = 1881
 	STRING_EN[1881]["KEY"] = "M_HERO_LEVEL_72"
-	STRING_EN[1881]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1881]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1881]["real_idx"] = 1881
 
 STRING_EN["index"][1882] = 1882
 STRING_EN[1882] = {}
 	STRING_EN[1882]["ID"] = 1882
 	STRING_EN[1882]["KEY"] = "M_HERO_LEVEL_73"
-	STRING_EN[1882]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1882]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1882]["real_idx"] = 1882
 
 STRING_EN["index"][1883] = 1883
 STRING_EN[1883] = {}
 	STRING_EN[1883]["ID"] = 1883
 	STRING_EN[1883]["KEY"] = "M_HERO_LEVEL_74"
-	STRING_EN[1883]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1883]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1883]["real_idx"] = 1883
 
 STRING_EN["index"][1884] = 1884
 STRING_EN[1884] = {}
 	STRING_EN[1884]["ID"] = 1884
 	STRING_EN[1884]["KEY"] = "M_HERO_LEVEL_75"
-	STRING_EN[1884]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1884]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1884]["real_idx"] = 1884
 
 STRING_EN["index"][1885] = 1885
 STRING_EN[1885] = {}
 	STRING_EN[1885]["ID"] = 1885
 	STRING_EN[1885]["KEY"] = "M_HERO_LEVEL_76"
-	STRING_EN[1885]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1885]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1885]["real_idx"] = 1885
 
 STRING_EN["index"][1886] = 1886
 STRING_EN[1886] = {}
 	STRING_EN[1886]["ID"] = 1886
 	STRING_EN[1886]["KEY"] = "M_HERO_LEVEL_77"
-	STRING_EN[1886]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1886]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1886]["real_idx"] = 1886
 
 STRING_EN["index"][1887] = 1887
 STRING_EN[1887] = {}
 	STRING_EN[1887]["ID"] = 1887
 	STRING_EN[1887]["KEY"] = "M_HERO_LEVEL_78"
-	STRING_EN[1887]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1887]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1887]["real_idx"] = 1887
 
 STRING_EN["index"][1888] = 1888
 STRING_EN[1888] = {}
 	STRING_EN[1888]["ID"] = 1888
 	STRING_EN[1888]["KEY"] = "M_HERO_LEVEL_79"
-	STRING_EN[1888]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1888]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1888]["real_idx"] = 1888
 
 STRING_EN["index"][1889] = 1889
 STRING_EN[1889] = {}
 	STRING_EN[1889]["ID"] = 1889
 	STRING_EN[1889]["KEY"] = "M_HERO_LEVEL_80"
-	STRING_EN[1889]["VALUE"] = "A instance， trial can get a lot of upgrade experience， the rational use of physical strength is the key to becoming a strong!"
+	STRING_EN[1889]["VALUE"] = "Instance and Trial are the places where you can get a lot of experience for your upgrade， the rational use of your stamina is the key to become a strong commander!"
 	STRING_EN[1889]["real_idx"] = 1889
 
 STRING_EN["index"][1890] = 1890
 STRING_EN[1890] = {}
 	STRING_EN[1890]["ID"] = 1890
 	STRING_EN[1890]["KEY"] = "M_SHIP_COLLECT_1"
-	STRING_EN[1890]["VALUE"] = "The ship can be used to synthesize the corresponding ship. The blueprints are mainly produced from Blueprint Institutes， galaxies and activities!"
+	STRING_EN[1890]["VALUE"] = "The cabin can be used to synthesize its corresponding spaceship. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1890]["real_idx"] = 1890
 
 STRING_EN["index"][1891] = 1891
 STRING_EN[1891] = {}
 	STRING_EN[1891]["ID"] = 1891
 	STRING_EN[1891]["KEY"] = "M_SHIP_COLLECT_2"
-	STRING_EN[1891]["VALUE"] = "The ship can be used to synthesize the corresponding ship. The blueprints are mainly produced from Blueprint Institutes， galaxies and activities!"
+	STRING_EN[1891]["VALUE"] = "The cabin can be used to synthesize its corresponding spaceship. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1891]["real_idx"] = 1891
 
 STRING_EN["index"][1892] = 1892
 STRING_EN[1892] = {}
 	STRING_EN[1892]["ID"] = 1892
 	STRING_EN[1892]["KEY"] = "M_SHIP_COLLECT_3"
-	STRING_EN[1892]["VALUE"] = "The ship can be used to synthesize the corresponding ship. The blueprints are mainly produced from Blueprint Institutes， galaxies and activities!"
+	STRING_EN[1892]["VALUE"] = "The cabin can be used to synthesize its corresponding spaceship. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1892]["real_idx"] = 1892
 
 STRING_EN["index"][1893] = 1893
 STRING_EN[1893] = {}
 	STRING_EN[1893]["ID"] = 1893
 	STRING_EN[1893]["KEY"] = "M_SHIP_COLLECT_4"
-	STRING_EN[1893]["VALUE"] = "The ship can be used to synthesize the corresponding ship. The blueprints are mainly produced from Blueprint Institutes， galaxies and activities!"
+	STRING_EN[1893]["VALUE"] = "The cabin can be used to synthesize its corresponding spaceship. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1893]["real_idx"] = 1893
 
 STRING_EN["index"][1894] = 1894
 STRING_EN[1894] = {}
 	STRING_EN[1894]["ID"] = 1894
 	STRING_EN[1894]["KEY"] = "M_SHIP_COLLECT_5"
-	STRING_EN[1894]["VALUE"] = "The ship can be used to synthesize the corresponding ship. The blueprints are mainly produced from Blueprint Institutes， galaxies and activities!"
+	STRING_EN[1894]["VALUE"] = "The cabin can be used to synthesize its corresponding spaceship. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1894]["real_idx"] = 1894
 
 STRING_EN["index"][1895] = 1895
 STRING_EN[1895] = {}
 	STRING_EN[1895]["ID"] = 1895
 	STRING_EN[1895]["KEY"] = "M_SHIP_COLLECT_6"
-	STRING_EN[1895]["VALUE"] = "The ship can be used to synthesize the corresponding ship. The blueprints are mainly produced from Blueprint Institutes， galaxies and activities!"
+	STRING_EN[1895]["VALUE"] = "The cabin can be used to synthesize its corresponding spaceship. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1895]["real_idx"] = 1895
 
 STRING_EN["index"][1896] = 1896
 STRING_EN[1896] = {}
 	STRING_EN[1896]["ID"] = 1896
 	STRING_EN[1896]["KEY"] = "M_SHIP_COLLECT_7"
-	STRING_EN[1896]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1896]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1896]["real_idx"] = 1896
 
 STRING_EN["index"][1897] = 1897
 STRING_EN[1897] = {}
 	STRING_EN[1897]["ID"] = 1897
 	STRING_EN[1897]["KEY"] = "M_SHIP_COLLECT_8"
-	STRING_EN[1897]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1897]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1897]["real_idx"] = 1897
 
 STRING_EN["index"][1898] = 1898
 STRING_EN[1898] = {}
 	STRING_EN[1898]["ID"] = 1898
 	STRING_EN[1898]["KEY"] = "M_SHIP_COLLECT_9"
-	STRING_EN[1898]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1898]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1898]["real_idx"] = 1898
 
 STRING_EN["index"][1899] = 1899
 STRING_EN[1899] = {}
 	STRING_EN[1899]["ID"] = 1899
 	STRING_EN[1899]["KEY"] = "M_SHIP_COLLECT_10"
-	STRING_EN[1899]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1899]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1899]["real_idx"] = 1899
 
 STRING_EN["index"][1900] = 1900
 STRING_EN[1900] = {}
 	STRING_EN[1900]["ID"] = 1900
 	STRING_EN[1900]["KEY"] = "M_SHIP_COLLECT_11"
-	STRING_EN[1900]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1900]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1900]["real_idx"] = 1900
 
 STRING_EN["index"][1901] = 1901
 STRING_EN[1901] = {}
 	STRING_EN[1901]["ID"] = 1901
 	STRING_EN[1901]["KEY"] = "M_SHIP_COLLECT_12"
-	STRING_EN[1901]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1901]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1901]["real_idx"] = 1901
 
 STRING_EN["index"][1902] = 1902
 STRING_EN[1902] = {}
 	STRING_EN[1902]["ID"] = 1902
 	STRING_EN[1902]["KEY"] = "M_SHIP_COLLECT_13"
-	STRING_EN[1902]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1902]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1902]["real_idx"] = 1902
 
 STRING_EN["index"][1903] = 1903
 STRING_EN[1903] = {}
 	STRING_EN[1903]["ID"] = 1903
 	STRING_EN[1903]["KEY"] = "M_SHIP_COLLECT_14"
-	STRING_EN[1903]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1903]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1903]["real_idx"] = 1903
 
 STRING_EN["index"][1904] = 1904
 STRING_EN[1904] = {}
 	STRING_EN[1904]["ID"] = 1904
 	STRING_EN[1904]["KEY"] = "M_SHIP_COLLECT_15"
-	STRING_EN[1904]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1904]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1904]["real_idx"] = 1904
 
 STRING_EN["index"][1905] = 1905
 STRING_EN[1905] = {}
 	STRING_EN[1905]["ID"] = 1905
 	STRING_EN[1905]["KEY"] = "M_SHIP_COLLECT_16"
-	STRING_EN[1905]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1905]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1905]["real_idx"] = 1905
 
 STRING_EN["index"][1906] = 1906
 STRING_EN[1906] = {}
 	STRING_EN[1906]["ID"] = 1906
 	STRING_EN[1906]["KEY"] = "M_SHIP_COLLECT_17"
-	STRING_EN[1906]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1906]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1906]["real_idx"] = 1906
 
 STRING_EN["index"][1907] = 1907
 STRING_EN[1907] = {}
 	STRING_EN[1907]["ID"] = 1907
 	STRING_EN[1907]["KEY"] = "M_SHIP_COLLECT_18"
-	STRING_EN[1907]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1907]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1907]["real_idx"] = 1907
 
 STRING_EN["index"][1908] = 1908
 STRING_EN[1908] = {}
 	STRING_EN[1908]["ID"] = 1908
 	STRING_EN[1908]["KEY"] = "M_SHIP_COLLECT_19"
-	STRING_EN[1908]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1908]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1908]["real_idx"] = 1908
 
 STRING_EN["index"][1909] = 1909
 STRING_EN[1909] = {}
 	STRING_EN[1909]["ID"] = 1909
 	STRING_EN[1909]["KEY"] = "M_SHIP_COLLECT_20"
-	STRING_EN[1909]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1909]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1909]["real_idx"] = 1909
 
 STRING_EN["index"][1910] = 1910
 STRING_EN[1910] = {}
 	STRING_EN[1910]["ID"] = 1910
 	STRING_EN[1910]["KEY"] = "M_SHIP_COLLECT_21"
-	STRING_EN[1910]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1910]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1910]["real_idx"] = 1910
 
 STRING_EN["index"][1911] = 1911
 STRING_EN[1911] = {}
 	STRING_EN[1911]["ID"] = 1911
 	STRING_EN[1911]["KEY"] = "M_SHIP_COLLECT_22"
-	STRING_EN[1911]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1911]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1911]["real_idx"] = 1911
 
 STRING_EN["index"][1912] = 1912
 STRING_EN[1912] = {}
 	STRING_EN[1912]["ID"] = 1912
 	STRING_EN[1912]["KEY"] = "M_SHIP_COLLECT_23"
-	STRING_EN[1912]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1912]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1912]["real_idx"] = 1912
 
 STRING_EN["index"][1913] = 1913
 STRING_EN[1913] = {}
 	STRING_EN[1913]["ID"] = 1913
 	STRING_EN[1913]["KEY"] = "M_SHIP_COLLECT_24"
-	STRING_EN[1913]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1913]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1913]["real_idx"] = 1913
 
 STRING_EN["index"][1914] = 1914
 STRING_EN[1914] = {}
 	STRING_EN[1914]["ID"] = 1914
 	STRING_EN[1914]["KEY"] = "M_SHIP_COLLECT_25"
-	STRING_EN[1914]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1914]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1914]["real_idx"] = 1914
 
 STRING_EN["index"][1915] = 1915
 STRING_EN[1915] = {}
 	STRING_EN[1915]["ID"] = 1915
 	STRING_EN[1915]["KEY"] = "M_SHIP_COLLECT_26"
-	STRING_EN[1915]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1915]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1915]["real_idx"] = 1915
 
 STRING_EN["index"][1916] = 1916
 STRING_EN[1916] = {}
 	STRING_EN[1916]["ID"] = 1916
 	STRING_EN[1916]["KEY"] = "M_SHIP_COLLECT_27"
-	STRING_EN[1916]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1916]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1916]["real_idx"] = 1916
 
 STRING_EN["index"][1917] = 1917
 STRING_EN[1917] = {}
 	STRING_EN[1917]["ID"] = 1917
 	STRING_EN[1917]["KEY"] = "M_SHIP_COLLECT_28"
-	STRING_EN[1917]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1917]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1917]["real_idx"] = 1917
 
 STRING_EN["index"][1918] = 1918
 STRING_EN[1918] = {}
 	STRING_EN[1918]["ID"] = 1918
 	STRING_EN[1918]["KEY"] = "M_SHIP_COLLECT_29"
-	STRING_EN[1918]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1918]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1918]["real_idx"] = 1918
 
 STRING_EN["index"][1919] = 1919
 STRING_EN[1919] = {}
 	STRING_EN[1919]["ID"] = 1919
 	STRING_EN[1919]["KEY"] = "M_SHIP_COLLECT_30"
-	STRING_EN[1919]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1919]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1919]["real_idx"] = 1919
 
 STRING_EN["index"][1920] = 1920
 STRING_EN[1920] = {}
 	STRING_EN[1920]["ID"] = 1920
 	STRING_EN[1920]["KEY"] = "M_SHIP_COLLECT_31"
-	STRING_EN[1920]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1920]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1920]["real_idx"] = 1920
 
 STRING_EN["index"][1921] = 1921
 STRING_EN[1921] = {}
 	STRING_EN[1921]["ID"] = 1921
 	STRING_EN[1921]["KEY"] = "M_SHIP_COLLECT_32"
-	STRING_EN[1921]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1921]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1921]["real_idx"] = 1921
 
 STRING_EN["index"][1922] = 1922
 STRING_EN[1922] = {}
 	STRING_EN[1922]["ID"] = 1922
 	STRING_EN[1922]["KEY"] = "M_SHIP_COLLECT_33"
-	STRING_EN[1922]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1922]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1922]["real_idx"] = 1922
 
 STRING_EN["index"][1923] = 1923
 STRING_EN[1923] = {}
 	STRING_EN[1923]["ID"] = 1923
 	STRING_EN[1923]["KEY"] = "M_SHIP_COLLECT_34"
-	STRING_EN[1923]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1923]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1923]["real_idx"] = 1923
 
 STRING_EN["index"][1924] = 1924
 STRING_EN[1924] = {}
 	STRING_EN[1924]["ID"] = 1924
 	STRING_EN[1924]["KEY"] = "M_SHIP_COLLECT_35"
-	STRING_EN[1924]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1924]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1924]["real_idx"] = 1924
 
 STRING_EN["index"][1925] = 1925
 STRING_EN[1925] = {}
 	STRING_EN[1925]["ID"] = 1925
 	STRING_EN[1925]["KEY"] = "M_SHIP_COLLECT_36"
-	STRING_EN[1925]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1925]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1925]["real_idx"] = 1925
 
 STRING_EN["index"][1926] = 1926
 STRING_EN[1926] = {}
 	STRING_EN[1926]["ID"] = 1926
 	STRING_EN[1926]["KEY"] = "M_SHIP_COLLECT_37"
-	STRING_EN[1926]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1926]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1926]["real_idx"] = 1926
 
 STRING_EN["index"][1927] = 1927
 STRING_EN[1927] = {}
 	STRING_EN[1927]["ID"] = 1927
 	STRING_EN[1927]["KEY"] = "M_SHIP_COLLECT_38"
-	STRING_EN[1927]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1927]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1927]["real_idx"] = 1927
 
 STRING_EN["index"][1928] = 1928
 STRING_EN[1928] = {}
 	STRING_EN[1928]["ID"] = 1928
 	STRING_EN[1928]["KEY"] = "M_SHIP_COLLECT_39"
-	STRING_EN[1928]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1928]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1928]["real_idx"] = 1928
 
 STRING_EN["index"][1929] = 1929
 STRING_EN[1929] = {}
 	STRING_EN[1929]["ID"] = 1929
 	STRING_EN[1929]["KEY"] = "M_SHIP_COLLECT_40"
-	STRING_EN[1929]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1929]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1929]["real_idx"] = 1929
 
 STRING_EN["index"][1930] = 1930
 STRING_EN[1930] = {}
 	STRING_EN[1930]["ID"] = 1930
 	STRING_EN[1930]["KEY"] = "M_SHIP_COLLECT_41"
-	STRING_EN[1930]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1930]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1930]["real_idx"] = 1930
 
 STRING_EN["index"][1931] = 1931
 STRING_EN[1931] = {}
 	STRING_EN[1931]["ID"] = 1931
 	STRING_EN[1931]["KEY"] = "M_SHIP_COLLECT_42"
-	STRING_EN[1931]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1931]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1931]["real_idx"] = 1931
 
 STRING_EN["index"][1932] = 1932
 STRING_EN[1932] = {}
 	STRING_EN[1932]["ID"] = 1932
 	STRING_EN[1932]["KEY"] = "M_SHIP_COLLECT_43"
-	STRING_EN[1932]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1932]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1932]["real_idx"] = 1932
 
 STRING_EN["index"][1933] = 1933
 STRING_EN[1933] = {}
 	STRING_EN[1933]["ID"] = 1933
 	STRING_EN[1933]["KEY"] = "M_SHIP_COLLECT_44"
-	STRING_EN[1933]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1933]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1933]["real_idx"] = 1933
 
 STRING_EN["index"][1934] = 1934
 STRING_EN[1934] = {}
 	STRING_EN[1934]["ID"] = 1934
 	STRING_EN[1934]["KEY"] = "M_SHIP_COLLECT_45"
-	STRING_EN[1934]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1934]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1934]["real_idx"] = 1934
 
 STRING_EN["index"][1935] = 1935
 STRING_EN[1935] = {}
 	STRING_EN[1935]["ID"] = 1935
 	STRING_EN[1935]["KEY"] = "M_SHIP_COLLECT_46"
-	STRING_EN[1935]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1935]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1935]["real_idx"] = 1935
 
 STRING_EN["index"][1936] = 1936
 STRING_EN[1936] = {}
 	STRING_EN[1936]["ID"] = 1936
 	STRING_EN[1936]["KEY"] = "M_SHIP_COLLECT_47"
-	STRING_EN[1936]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1936]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1936]["real_idx"] = 1936
 
 STRING_EN["index"][1937] = 1937
 STRING_EN[1937] = {}
 	STRING_EN[1937]["ID"] = 1937
 	STRING_EN[1937]["KEY"] = "M_SHIP_COLLECT_48"
-	STRING_EN[1937]["VALUE"] = "The higher the value of the ship， the more blueprints that need to be consumed. The blueprints are mainly produced from Blueprint Institutes， galaxies， and activities!"
+	STRING_EN[1937]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
 	STRING_EN[1937]["real_idx"] = 1937
 
 STRING_EN["index"][1938] = 1938
 STRING_EN[1938] = {}
 	STRING_EN[1938]["ID"] = 1938
 	STRING_EN[1938]["KEY"] = "M_MAINBUILING_UP2"
-	STRING_EN[1938]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 2..."
+	STRING_EN[1938]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 2..."
 	STRING_EN[1938]["real_idx"] = 1938
 
 STRING_EN["index"][1939] = 1939
 STRING_EN[1939] = {}
 	STRING_EN[1939]["ID"] = 1939
 	STRING_EN[1939]["KEY"] = "M_MAINBUILING_UP3"
-	STRING_EN[1939]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 3..."
+	STRING_EN[1939]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 3..."
 	STRING_EN[1939]["real_idx"] = 1939
 
 STRING_EN["index"][1940] = 1940
 STRING_EN[1940] = {}
 	STRING_EN[1940]["ID"] = 1940
 	STRING_EN[1940]["KEY"] = "M_MAINBUILING_UP4"
-	STRING_EN[1940]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 4..."
+	STRING_EN[1940]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 4..."
 	STRING_EN[1940]["real_idx"] = 1940
 
 STRING_EN["index"][1941] = 1941
 STRING_EN[1941] = {}
 	STRING_EN[1941]["ID"] = 1941
 	STRING_EN[1941]["KEY"] = "M_MAINBUILING_UP5"
-	STRING_EN[1941]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 5..."
+	STRING_EN[1941]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 5..."
 	STRING_EN[1941]["real_idx"] = 1941
 
 STRING_EN["index"][1942] = 1942
 STRING_EN[1942] = {}
 	STRING_EN[1942]["ID"] = 1942
 	STRING_EN[1942]["KEY"] = "M_MAINBUILING_UP6"
-	STRING_EN[1942]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 6..."
+	STRING_EN[1942]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 6..."
 	STRING_EN[1942]["real_idx"] = 1942
 
 STRING_EN["index"][1943] = 1943
 STRING_EN[1943] = {}
 	STRING_EN[1943]["ID"] = 1943
 	STRING_EN[1943]["KEY"] = "M_MAINBUILING_UP7"
-	STRING_EN[1943]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 7..."
+	STRING_EN[1943]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 7..."
 	STRING_EN[1943]["real_idx"] = 1943
 
 STRING_EN["index"][1944] = 1944
 STRING_EN[1944] = {}
 	STRING_EN[1944]["ID"] = 1944
 	STRING_EN[1944]["KEY"] = "M_MAINBUILING_UP8"
-	STRING_EN[1944]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 8..."
+	STRING_EN[1944]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 8..."
 	STRING_EN[1944]["real_idx"] = 1944
 
 STRING_EN["index"][1945] = 1945
 STRING_EN[1945] = {}
 	STRING_EN[1945]["ID"] = 1945
 	STRING_EN[1945]["KEY"] = "M_MAINBUILING_UP9"
-	STRING_EN[1945]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 9..."
+	STRING_EN[1945]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 9..."
 	STRING_EN[1945]["real_idx"] = 1945
 
 STRING_EN["index"][1946] = 1946
 STRING_EN[1946] = {}
 	STRING_EN[1946]["ID"] = 1946
 	STRING_EN[1946]["KEY"] = "M_MAINBUILING_UP10"
-	STRING_EN[1946]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 10..."
+	STRING_EN[1946]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 10..."
 	STRING_EN[1946]["real_idx"] = 1946
 
 STRING_EN["index"][1947] = 1947
 STRING_EN[1947] = {}
 	STRING_EN[1947]["ID"] = 1947
 	STRING_EN[1947]["KEY"] = "M_MAINBUILING_UP11"
-	STRING_EN[1947]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to 11..."
+	STRING_EN[1947]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 11..."
 	STRING_EN[1947]["real_idx"] = 1947
 
 STRING_EN["index"][1948] = 1948
 STRING_EN[1948] = {}
 	STRING_EN[1948]["ID"] = 1948
 	STRING_EN[1948]["KEY"] = "M_MAINBUILING_UP12"
-	STRING_EN[1948]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 12..."
+	STRING_EN[1948]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 12..."
 	STRING_EN[1948]["real_idx"] = 1948
 
 STRING_EN["index"][1949] = 1949
 STRING_EN[1949] = {}
 	STRING_EN[1949]["ID"] = 1949
 	STRING_EN[1949]["KEY"] = "M_MAINBUILING_UP13"
-	STRING_EN[1949]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to 13..."
+	STRING_EN[1949]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 13..."
 	STRING_EN[1949]["real_idx"] = 1949
 
 STRING_EN["index"][1950] = 1950
 STRING_EN[1950] = {}
 	STRING_EN[1950]["ID"] = 1950
 	STRING_EN[1950]["KEY"] = "M_MAINBUILING_UP14"
-	STRING_EN[1950]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 14..."
+	STRING_EN[1950]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 14..."
 	STRING_EN[1950]["real_idx"] = 1950
 
 STRING_EN["index"][1951] = 1951
 STRING_EN[1951] = {}
 	STRING_EN[1951]["ID"] = 1951
 	STRING_EN[1951]["KEY"] = "M_MAINBUILING_UP15"
-	STRING_EN[1951]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 15..."
+	STRING_EN[1951]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 15..."
 	STRING_EN[1951]["real_idx"] = 1951
 
 STRING_EN["index"][1952] = 1952
 STRING_EN[1952] = {}
 	STRING_EN[1952]["ID"] = 1952
 	STRING_EN[1952]["KEY"] = "M_MAINBUILING_UP16"
-	STRING_EN[1952]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to 16..."
+	STRING_EN[1952]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 16..."
 	STRING_EN[1952]["real_idx"] = 1952
 
 STRING_EN["index"][1953] = 1953
 STRING_EN[1953] = {}
 	STRING_EN[1953]["ID"] = 1953
 	STRING_EN[1953]["KEY"] = "M_MAINBUILING_UP17"
-	STRING_EN[1953]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 17..."
+	STRING_EN[1953]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 17..."
 	STRING_EN[1953]["real_idx"] = 1953
 
 STRING_EN["index"][1954] = 1954
 STRING_EN[1954] = {}
 	STRING_EN[1954]["ID"] = 1954
 	STRING_EN[1954]["KEY"] = "M_MAINBUILING_UP18"
-	STRING_EN[1954]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 18..."
+	STRING_EN[1954]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 18..."
 	STRING_EN[1954]["real_idx"] = 1954
 
 STRING_EN["index"][1955] = 1955
 STRING_EN[1955] = {}
 	STRING_EN[1955]["ID"] = 1955
 	STRING_EN[1955]["KEY"] = "M_MAINBUILING_UP19"
-	STRING_EN[1955]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 19..."
+	STRING_EN[1955]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 19..."
 	STRING_EN[1955]["real_idx"] = 1955
 
 STRING_EN["index"][1956] = 1956
 STRING_EN[1956] = {}
 	STRING_EN[1956]["ID"] = 1956
 	STRING_EN[1956]["KEY"] = "M_MAINBUILING_UP20"
-	STRING_EN[1956]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 20..."
+	STRING_EN[1956]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 20..."
 	STRING_EN[1956]["real_idx"] = 1956
 
 STRING_EN["index"][1957] = 1957
 STRING_EN[1957] = {}
 	STRING_EN[1957]["ID"] = 1957
 	STRING_EN[1957]["KEY"] = "M_MAINBUILING_UP21"
-	STRING_EN[1957]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to 21..."
+	STRING_EN[1957]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 21..."
 	STRING_EN[1957]["real_idx"] = 1957
 
 STRING_EN["index"][1958] = 1958
 STRING_EN[1958] = {}
 	STRING_EN[1958]["ID"] = 1958
 	STRING_EN[1958]["KEY"] = "M_MAINBUILING_UP22"
-	STRING_EN[1958]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to 22..."
+	STRING_EN[1958]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 22..."
 	STRING_EN[1958]["real_idx"] = 1958
 
 STRING_EN["index"][1959] = 1959
 STRING_EN[1959] = {}
 	STRING_EN[1959]["ID"] = 1959
 	STRING_EN[1959]["KEY"] = "M_MAINBUILING_UP23"
-	STRING_EN[1959]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 23..."
+	STRING_EN[1959]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 23..."
 	STRING_EN[1959]["real_idx"] = 1959
 
 STRING_EN["index"][1960] = 1960
 STRING_EN[1960] = {}
 	STRING_EN[1960]["ID"] = 1960
 	STRING_EN[1960]["KEY"] = "M_MAINBUILING_UP24"
-	STRING_EN[1960]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 24..."
+	STRING_EN[1960]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 24..."
 	STRING_EN[1960]["real_idx"] = 1960
 
 STRING_EN["index"][1961] = 1961
 STRING_EN[1961] = {}
 	STRING_EN[1961]["ID"] = 1961
 	STRING_EN[1961]["KEY"] = "M_MAINBUILING_UP25"
-	STRING_EN[1961]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 25..."
+	STRING_EN[1961]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 25..."
 	STRING_EN[1961]["real_idx"] = 1961
 
 STRING_EN["index"][1962] = 1962
 STRING_EN[1962] = {}
 	STRING_EN[1962]["ID"] = 1962
 	STRING_EN[1962]["KEY"] = "M_MAINBUILING_UP26"
-	STRING_EN[1962]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 26..."
+	STRING_EN[1962]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 26..."
 	STRING_EN[1962]["real_idx"] = 1962
 
 STRING_EN["index"][1963] = 1963
 STRING_EN[1963] = {}
 	STRING_EN[1963]["ID"] = 1963
 	STRING_EN[1963]["KEY"] = "M_MAINBUILING_UP27"
-	STRING_EN[1963]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 27..."
+	STRING_EN[1963]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 27..."
 	STRING_EN[1963]["real_idx"] = 1963
 
 STRING_EN["index"][1964] = 1964
 STRING_EN[1964] = {}
 	STRING_EN[1964]["ID"] = 1964
 	STRING_EN[1964]["KEY"] = "M_MAINBUILING_UP28"
-	STRING_EN[1964]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 28..."
+	STRING_EN[1964]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 28..."
 	STRING_EN[1964]["real_idx"] = 1964
 
 STRING_EN["index"][1965] = 1965
 STRING_EN[1965] = {}
 	STRING_EN[1965]["ID"] = 1965
 	STRING_EN[1965]["KEY"] = "M_MAINBUILING_UP29"
-	STRING_EN[1965]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 29..."
+	STRING_EN[1965]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 29..."
 	STRING_EN[1965]["real_idx"] = 1965
 
 STRING_EN["index"][1966] = 1966
 STRING_EN[1966] = {}
 	STRING_EN[1966]["ID"] = 1966
 	STRING_EN[1966]["KEY"] = "M_MAINBUILING_UP30"
-	STRING_EN[1966]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 30..."
+	STRING_EN[1966]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 30..."
 	STRING_EN[1966]["real_idx"] = 1966
 
 STRING_EN["index"][1967] = 1967
 STRING_EN[1967] = {}
 	STRING_EN[1967]["ID"] = 1967
 	STRING_EN[1967]["KEY"] = "M_MAINBUILING_UP31"
-	STRING_EN[1967]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 31..."
+	STRING_EN[1967]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 31..."
 	STRING_EN[1967]["real_idx"] = 1967
 
 STRING_EN["index"][1968] = 1968
 STRING_EN[1968] = {}
 	STRING_EN[1968]["ID"] = 1968
 	STRING_EN[1968]["KEY"] = "M_MAINBUILING_UP32"
-	STRING_EN[1968]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 32..."
+	STRING_EN[1968]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 32..."
 	STRING_EN[1968]["real_idx"] = 1968
 
 STRING_EN["index"][1969] = 1969
 STRING_EN[1969] = {}
 	STRING_EN[1969]["ID"] = 1969
 	STRING_EN[1969]["KEY"] = "M_MAINBUILING_UP33"
-	STRING_EN[1969]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 33..."
+	STRING_EN[1969]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 33..."
 	STRING_EN[1969]["real_idx"] = 1969
 
 STRING_EN["index"][1970] = 1970
 STRING_EN[1970] = {}
 	STRING_EN[1970]["ID"] = 1970
 	STRING_EN[1970]["KEY"] = "M_MAINBUILING_UP34"
-	STRING_EN[1970]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 34..."
+	STRING_EN[1970]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 34..."
 	STRING_EN[1970]["real_idx"] = 1970
 
 STRING_EN["index"][1971] = 1971
 STRING_EN[1971] = {}
 	STRING_EN[1971]["ID"] = 1971
 	STRING_EN[1971]["KEY"] = "M_MAINBUILING_UP35"
-	STRING_EN[1971]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 35..."
+	STRING_EN[1971]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 35..."
 	STRING_EN[1971]["real_idx"] = 1971
 
 STRING_EN["index"][1972] = 1972
 STRING_EN[1972] = {}
 	STRING_EN[1972]["ID"] = 1972
 	STRING_EN[1972]["KEY"] = "M_MAINBUILING_UP36"
-	STRING_EN[1972]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to 36..."
+	STRING_EN[1972]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 36..."
 	STRING_EN[1972]["real_idx"] = 1972
 
 STRING_EN["index"][1973] = 1973
 STRING_EN[1973] = {}
 	STRING_EN[1973]["ID"] = 1973
 	STRING_EN[1973]["KEY"] = "M_MAINBUILING_UP37"
-	STRING_EN[1973]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 37..."
+	STRING_EN[1973]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 37..."
 	STRING_EN[1973]["real_idx"] = 1973
 
 STRING_EN["index"][1974] = 1974
 STRING_EN[1974] = {}
 	STRING_EN[1974]["ID"] = 1974
 	STRING_EN[1974]["KEY"] = "M_MAINBUILING_UP38"
-	STRING_EN[1974]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 38..."
+	STRING_EN[1974]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 38..."
 	STRING_EN[1974]["real_idx"] = 1974
 
 STRING_EN["index"][1975] = 1975
 STRING_EN[1975] = {}
 	STRING_EN[1975]["ID"] = 1975
 	STRING_EN[1975]["KEY"] = "M_MAINBUILING_UP39"
-	STRING_EN[1975]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 39..."
+	STRING_EN[1975]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 39..."
 	STRING_EN[1975]["real_idx"] = 1975
 
 STRING_EN["index"][1976] = 1976
 STRING_EN[1976] = {}
 	STRING_EN[1976]["ID"] = 1976
 	STRING_EN[1976]["KEY"] = "M_MAINBUILING_UP40"
-	STRING_EN[1976]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 40..."
+	STRING_EN[1976]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 40..."
 	STRING_EN[1976]["real_idx"] = 1976
 
 STRING_EN["index"][1977] = 1977
 STRING_EN[1977] = {}
 	STRING_EN[1977]["ID"] = 1977
 	STRING_EN[1977]["KEY"] = "M_MAINBUILING_UP41"
-	STRING_EN[1977]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to 41..."
+	STRING_EN[1977]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 41..."
 	STRING_EN[1977]["real_idx"] = 1977
 
 STRING_EN["index"][1978] = 1978
 STRING_EN[1978] = {}
 	STRING_EN[1978]["ID"] = 1978
 	STRING_EN[1978]["KEY"] = "M_MAINBUILING_UP42"
-	STRING_EN[1978]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 42..."
+	STRING_EN[1978]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 42..."
 	STRING_EN[1978]["real_idx"] = 1978
 
 STRING_EN["index"][1979] = 1979
 STRING_EN[1979] = {}
 	STRING_EN[1979]["ID"] = 1979
 	STRING_EN[1979]["KEY"] = "M_MAINBUILING_UP43"
-	STRING_EN[1979]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 43..."
+	STRING_EN[1979]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 43..."
 	STRING_EN[1979]["real_idx"] = 1979
 
 STRING_EN["index"][1980] = 1980
 STRING_EN[1980] = {}
 	STRING_EN[1980]["ID"] = 1980
 	STRING_EN[1980]["KEY"] = "M_MAINBUILING_UP44"
-	STRING_EN[1980]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 44..."
+	STRING_EN[1980]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 44..."
 	STRING_EN[1980]["real_idx"] = 1980
 
 STRING_EN["index"][1981] = 1981
 STRING_EN[1981] = {}
 	STRING_EN[1981]["ID"] = 1981
 	STRING_EN[1981]["KEY"] = "M_MAINBUILING_UP45"
-	STRING_EN[1981]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade! The current goal is to raise him to level 45..."
+	STRING_EN[1981]["VALUE"] = "The Command Center is the hub of your base， you can unlock more buildings and functions after its upgrade! Our current goal is to upgrade it to level 45..."
 	STRING_EN[1981]["real_idx"] = 1981
 
 STRING_EN["index"][1982] = 1982
 STRING_EN[1982] = {}
 	STRING_EN[1982]["ID"] = 1982
 	STRING_EN[1982]["KEY"] = "M_SHIPDEVELOP_UP2"
-	STRING_EN[1982]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to level 2..."
+	STRING_EN[1982]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 2..."
 	STRING_EN[1982]["real_idx"] = 1982
 
 STRING_EN["index"][1983] = 1983
 STRING_EN[1983] = {}
 	STRING_EN[1983]["ID"] = 1983
 	STRING_EN[1983]["KEY"] = "M_SHIPDEVELOP_UP3"
-	STRING_EN[1983]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to level 3..."
+	STRING_EN[1983]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 3..."
 	STRING_EN[1983]["real_idx"] = 1983
 
 STRING_EN["index"][1984] = 1984
 STRING_EN[1984] = {}
 	STRING_EN[1984]["ID"] = 1984
 	STRING_EN[1984]["KEY"] = "M_SHIPDEVELOP_UP4"
-	STRING_EN[1984]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to level 4..."
+	STRING_EN[1984]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 4..."
 	STRING_EN[1984]["real_idx"] = 1984
 
 STRING_EN["index"][1985] = 1985
 STRING_EN[1985] = {}
 	STRING_EN[1985]["ID"] = 1985
 	STRING_EN[1985]["KEY"] = "M_SHIPDEVELOP_UP5"
-	STRING_EN[1985]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to level 5..."
+	STRING_EN[1985]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 5..."
 	STRING_EN[1985]["real_idx"] = 1985
 
 STRING_EN["index"][1986] = 1986
 STRING_EN[1986] = {}
 	STRING_EN[1986]["ID"] = 1986
 	STRING_EN[1986]["KEY"] = "M_SHIPDEVELOP_UP6"
-	STRING_EN[1986]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to level 6..."
+	STRING_EN[1986]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 6..."
 	STRING_EN[1986]["real_idx"] = 1986
 
 STRING_EN["index"][1987] = 1987
 STRING_EN[1987] = {}
 	STRING_EN[1987]["ID"] = 1987
 	STRING_EN[1987]["KEY"] = "M_SHIPDEVELOP_UP7"
-	STRING_EN[1987]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to level 7..."
+	STRING_EN[1987]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 7..."
 	STRING_EN[1987]["real_idx"] = 1987
 
 STRING_EN["index"][1988] = 1988
 STRING_EN[1988] = {}
 	STRING_EN[1988]["ID"] = 1988
 	STRING_EN[1988]["KEY"] = "M_SHIPDEVELOP_UP8"
-	STRING_EN[1988]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to 8..."
+	STRING_EN[1988]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 8..."
 	STRING_EN[1988]["real_idx"] = 1988
 
 STRING_EN["index"][1989] = 1989
 STRING_EN[1989] = {}
 	STRING_EN[1989]["ID"] = 1989
 	STRING_EN[1989]["KEY"] = "M_SHIPDEVELOP_UP9"
-	STRING_EN[1989]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to level 9..."
+	STRING_EN[1989]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 9..."
 	STRING_EN[1989]["real_idx"] = 1989
 
 STRING_EN["index"][1990] = 1990
 STRING_EN[1990] = {}
 	STRING_EN[1990]["ID"] = 1990
 	STRING_EN[1990]["KEY"] = "M_SHIPDEVELOP_UP10"
-	STRING_EN[1990]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to level 10..."
+	STRING_EN[1990]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 10..."
 	STRING_EN[1990]["real_idx"] = 1990
 
 STRING_EN["index"][1991] = 1991
 STRING_EN[1991] = {}
 	STRING_EN[1991]["ID"] = 1991
 	STRING_EN[1991]["KEY"] = "M_SHIPDEVELOP_UP11"
-	STRING_EN[1991]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to 11..."
+	STRING_EN[1991]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 11..."
 	STRING_EN[1991]["real_idx"] = 1991
 
 STRING_EN["index"][1992] = 1992
 STRING_EN[1992] = {}
 	STRING_EN[1992]["ID"] = 1992
 	STRING_EN[1992]["KEY"] = "M_SHIPDEVELOP_UP12"
-	STRING_EN[1992]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to level 12..."
+	STRING_EN[1992]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 12..."
 	STRING_EN[1992]["real_idx"] = 1992
 
 STRING_EN["index"][1993] = 1993
 STRING_EN[1993] = {}
 	STRING_EN[1993]["ID"] = 1993
 	STRING_EN[1993]["KEY"] = "M_SHIPDEVELOP_UP13"
-	STRING_EN[1993]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to 13..."
+	STRING_EN[1993]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 13..."
 	STRING_EN[1993]["real_idx"] = 1993
 
 STRING_EN["index"][1994] = 1994
 STRING_EN[1994] = {}
 	STRING_EN[1994]["ID"] = 1994
 	STRING_EN[1994]["KEY"] = "M_SHIPDEVELOP_UP14"
-	STRING_EN[1994]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to level 14..."
+	STRING_EN[1994]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 14..."
 	STRING_EN[1994]["real_idx"] = 1994
 
 STRING_EN["index"][1995] = 1995
 STRING_EN[1995] = {}
 	STRING_EN[1995]["ID"] = 1995
 	STRING_EN[1995]["KEY"] = "M_SHIPDEVELOP_UP15"
-	STRING_EN[1995]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to 15..."
+	STRING_EN[1995]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 15..."
 	STRING_EN[1995]["real_idx"] = 1995
 
 STRING_EN["index"][1996] = 1996
 STRING_EN[1996] = {}
 	STRING_EN[1996]["ID"] = 1996
 	STRING_EN[1996]["KEY"] = "M_SHIPDEVELOP_UP16"
-	STRING_EN[1996]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to 16..."
+	STRING_EN[1996]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 16..."
 	STRING_EN[1996]["real_idx"] = 1996
 
 STRING_EN["index"][1997] = 1997
 STRING_EN[1997] = {}
 	STRING_EN[1997]["ID"] = 1997
 	STRING_EN[1997]["KEY"] = "M_SHIPDEVELOP_UP17"
-	STRING_EN[1997]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to 17..."
+	STRING_EN[1997]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 17..."
 	STRING_EN[1997]["real_idx"] = 1997
 
 STRING_EN["index"][1998] = 1998
 STRING_EN[1998] = {}
 	STRING_EN[1998]["ID"] = 1998
 	STRING_EN[1998]["KEY"] = "M_SHIPDEVELOP_UP18"
-	STRING_EN[1998]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to 18..."
+	STRING_EN[1998]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 18..."
 	STRING_EN[1998]["real_idx"] = 1998
 
 STRING_EN["index"][1999] = 1999
 STRING_EN[1999] = {}
 	STRING_EN[1999]["ID"] = 1999
 	STRING_EN[1999]["KEY"] = "M_SHIPDEVELOP_UP19"
-	STRING_EN[1999]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to level 19..."
+	STRING_EN[1999]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 19..."
 	STRING_EN[1999]["real_idx"] = 1999
 
 STRING_EN["index"][2000] = 2000
 STRING_EN[2000] = {}
 	STRING_EN[2000]["ID"] = 2000
 	STRING_EN[2000]["KEY"] = "M_SHIPDEVELOP_UP20"
-	STRING_EN[2000]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to level 20..."
+	STRING_EN[2000]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 20..."
 	STRING_EN[2000]["real_idx"] = 2000
 
 STRING_EN["index"][2001] = 2001
 STRING_EN[2001] = {}
 	STRING_EN[2001]["ID"] = 2001
 	STRING_EN[2001]["KEY"] = "M_SHIPDEVELOP_UP21"
-	STRING_EN[2001]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to 21..."
+	STRING_EN[2001]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 21..."
 	STRING_EN[2001]["real_idx"] = 2001
 
 STRING_EN["index"][2002] = 2002
 STRING_EN[2002] = {}
 	STRING_EN[2002]["ID"] = 2002
 	STRING_EN[2002]["KEY"] = "M_SHIPDEVELOP_UP22"
-	STRING_EN[2002]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to 22..."
+	STRING_EN[2002]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 22..."
 	STRING_EN[2002]["real_idx"] = 2002
 
 STRING_EN["index"][2003] = 2003
 STRING_EN[2003] = {}
 	STRING_EN[2003]["ID"] = 2003
 	STRING_EN[2003]["KEY"] = "M_SHIPDEVELOP_UP23"
-	STRING_EN[2003]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to level 23..."
+	STRING_EN[2003]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 23..."
 	STRING_EN[2003]["real_idx"] = 2003
 
 STRING_EN["index"][2004] = 2004
 STRING_EN[2004] = {}
 	STRING_EN[2004]["ID"] = 2004
 	STRING_EN[2004]["KEY"] = "M_SHIPDEVELOP_UP24"
-	STRING_EN[2004]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to level 24..."
+	STRING_EN[2004]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 24..."
 	STRING_EN[2004]["real_idx"] = 2004
 
 STRING_EN["index"][2005] = 2005
 STRING_EN[2005] = {}
 	STRING_EN[2005]["ID"] = 2005
 	STRING_EN[2005]["KEY"] = "M_SHIPDEVELOP_UP25"
-	STRING_EN[2005]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to 25..."
+	STRING_EN[2005]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 25..."
 	STRING_EN[2005]["real_idx"] = 2005
 
 STRING_EN["index"][2006] = 2006
 STRING_EN[2006] = {}
 	STRING_EN[2006]["ID"] = 2006
 	STRING_EN[2006]["KEY"] = "M_SHIPDEVELOP_UP26"
-	STRING_EN[2006]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to 26..."
+	STRING_EN[2006]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 26..."
 	STRING_EN[2006]["real_idx"] = 2006
 
 STRING_EN["index"][2007] = 2007
 STRING_EN[2007] = {}
 	STRING_EN[2007]["ID"] = 2007
 	STRING_EN[2007]["KEY"] = "M_SHIPDEVELOP_UP27"
-	STRING_EN[2007]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to 27..."
+	STRING_EN[2007]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 27..."
 	STRING_EN[2007]["real_idx"] = 2007
 
 STRING_EN["index"][2008] = 2008
 STRING_EN[2008] = {}
 	STRING_EN[2008]["ID"] = 2008
 	STRING_EN[2008]["KEY"] = "M_SHIPDEVELOP_UP28"
-	STRING_EN[2008]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to 28..."
+	STRING_EN[2008]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 28..."
 	STRING_EN[2008]["real_idx"] = 2008
 
 STRING_EN["index"][2009] = 2009
 STRING_EN[2009] = {}
 	STRING_EN[2009]["ID"] = 2009
 	STRING_EN[2009]["KEY"] = "M_SHIPDEVELOP_UP29"
-	STRING_EN[2009]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to level 29..."
+	STRING_EN[2009]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 29..."
 	STRING_EN[2009]["real_idx"] = 2009
 
 STRING_EN["index"][2010] = 2010
 STRING_EN[2010] = {}
 	STRING_EN[2010]["ID"] = 2010
 	STRING_EN[2010]["KEY"] = "M_SHIPDEVELOP_UP30"
-	STRING_EN[2010]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to level 30..."
+	STRING_EN[2010]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 30..."
 	STRING_EN[2010]["real_idx"] = 2010
 
 STRING_EN["index"][2011] = 2011
 STRING_EN[2011] = {}
 	STRING_EN[2011]["ID"] = 2011
 	STRING_EN[2011]["KEY"] = "M_SHIPDEVELOP_UP31"
-	STRING_EN[2011]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to level 31..."
+	STRING_EN[2011]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 31..."
 	STRING_EN[2011]["real_idx"] = 2011
 
 STRING_EN["index"][2012] = 2012
 STRING_EN[2012] = {}
 	STRING_EN[2012]["ID"] = 2012
 	STRING_EN[2012]["KEY"] = "M_SHIPDEVELOP_UP32"
-	STRING_EN[2012]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to 32..."
+	STRING_EN[2012]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 32..."
 	STRING_EN[2012]["real_idx"] = 2012
 
 STRING_EN["index"][2013] = 2013
 STRING_EN[2013] = {}
 	STRING_EN[2013]["ID"] = 2013
 	STRING_EN[2013]["KEY"] = "M_SHIPDEVELOP_UP33"
-	STRING_EN[2013]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to level 33..."
+	STRING_EN[2013]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 33..."
 	STRING_EN[2013]["real_idx"] = 2013
 
 STRING_EN["index"][2014] = 2014
 STRING_EN[2014] = {}
 	STRING_EN[2014]["ID"] = 2014
 	STRING_EN[2014]["KEY"] = "M_SHIPDEVELOP_UP34"
-	STRING_EN[2014]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to 34..."
+	STRING_EN[2014]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 34..."
 	STRING_EN[2014]["real_idx"] = 2014
 
 STRING_EN["index"][2015] = 2015
 STRING_EN[2015] = {}
 	STRING_EN[2015]["ID"] = 2015
 	STRING_EN[2015]["KEY"] = "M_SHIPDEVELOP_UP35"
-	STRING_EN[2015]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to 35..."
+	STRING_EN[2015]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 35..."
 	STRING_EN[2015]["real_idx"] = 2015
 
 STRING_EN["index"][2016] = 2016
 STRING_EN[2016] = {}
 	STRING_EN[2016]["ID"] = 2016
 	STRING_EN[2016]["KEY"] = "M_SHIPDEVELOP_UP36"
-	STRING_EN[2016]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to 36..."
+	STRING_EN[2016]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 36..."
 	STRING_EN[2016]["real_idx"] = 2016
 
 STRING_EN["index"][2017] = 2017
 STRING_EN[2017] = {}
 	STRING_EN[2017]["ID"] = 2017
 	STRING_EN[2017]["KEY"] = "M_SHIPDEVELOP_UP37"
-	STRING_EN[2017]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to 37..."
+	STRING_EN[2017]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 37..."
 	STRING_EN[2017]["real_idx"] = 2017
 
 STRING_EN["index"][2018] = 2018
 STRING_EN[2018] = {}
 	STRING_EN[2018]["ID"] = 2018
 	STRING_EN[2018]["KEY"] = "M_SHIPDEVELOP_UP38"
-	STRING_EN[2018]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to 38..."
+	STRING_EN[2018]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 38..."
 	STRING_EN[2018]["real_idx"] = 2018
 
 STRING_EN["index"][2019] = 2019
 STRING_EN[2019] = {}
 	STRING_EN[2019]["ID"] = 2019
 	STRING_EN[2019]["KEY"] = "M_SHIPDEVELOP_UP39"
-	STRING_EN[2019]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to level 39..."
+	STRING_EN[2019]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 39..."
 	STRING_EN[2019]["real_idx"] = 2019
 
 STRING_EN["index"][2020] = 2020
 STRING_EN[2020] = {}
 	STRING_EN[2020]["ID"] = 2020
 	STRING_EN[2020]["KEY"] = "M_SHIPDEVELOP_UP40"
-	STRING_EN[2020]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to level 40..."
+	STRING_EN[2020]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 40..."
 	STRING_EN[2020]["real_idx"] = 2020
 
 STRING_EN["index"][2021] = 2021
 STRING_EN[2021] = {}
 	STRING_EN[2021]["ID"] = 2021
 	STRING_EN[2021]["KEY"] = "M_SHIPDEVELOP_UP41"
-	STRING_EN[2021]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to 41..."
+	STRING_EN[2021]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 41..."
 	STRING_EN[2021]["real_idx"] = 2021
 
 STRING_EN["index"][2022] = 2022
 STRING_EN[2022] = {}
 	STRING_EN[2022]["ID"] = 2022
 	STRING_EN[2022]["KEY"] = "M_SHIPDEVELOP_UP42"
-	STRING_EN[2022]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to 42..."
+	STRING_EN[2022]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 42..."
 	STRING_EN[2022]["real_idx"] = 2022
 
 STRING_EN["index"][2023] = 2023
 STRING_EN[2023] = {}
 	STRING_EN[2023]["ID"] = 2023
 	STRING_EN[2023]["KEY"] = "M_SHIPDEVELOP_UP43"
-	STRING_EN[2023]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to 43..."
+	STRING_EN[2023]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 43..."
 	STRING_EN[2023]["real_idx"] = 2023
 
 STRING_EN["index"][2024] = 2024
 STRING_EN[2024] = {}
 	STRING_EN[2024]["ID"] = 2024
 	STRING_EN[2024]["KEY"] = "M_SHIPDEVELOP_UP44"
-	STRING_EN[2024]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to 44..."
+	STRING_EN[2024]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 44..."
 	STRING_EN[2024]["real_idx"] = 2024
 
 STRING_EN["index"][2025] = 2025
 STRING_EN[2025] = {}
 	STRING_EN[2025]["ID"] = 2025
 	STRING_EN[2025]["KEY"] = "M_SHIPDEVELOP_UP45"
-	STRING_EN[2025]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher the value of the ship blueprint， the current goal is to raise him to 45..."
+	STRING_EN[2025]["VALUE"] = "After the Cabin R&D Factory is upgraded， the cabin with higher value can be developed， our current goal is to upgrade it to level 45..."
 	STRING_EN[2025]["real_idx"] = 2025
 
 STRING_EN["index"][2026] = 2026
 STRING_EN[2026] = {}
 	STRING_EN[2026]["ID"] = 2026
 	STRING_EN[2026]["KEY"] = "M_WEAPONDEVELOP_UP2"
-	STRING_EN[2026]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to Level 2..."
+	STRING_EN[2026]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 2..."
 	STRING_EN[2026]["real_idx"] = 2026
 
 STRING_EN["index"][2027] = 2027
 STRING_EN[2027] = {}
 	STRING_EN[2027]["ID"] = 2027
 	STRING_EN[2027]["KEY"] = "M_WEAPONDEVELOP_UP3"
-	STRING_EN[2027]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to Level 3..."
+	STRING_EN[2027]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 3..."
 	STRING_EN[2027]["real_idx"] = 2027
 
 STRING_EN["index"][2028] = 2028
 STRING_EN[2028] = {}
 	STRING_EN[2028]["ID"] = 2028
 	STRING_EN[2028]["KEY"] = "M_WEAPONDEVELOP_UP4"
-	STRING_EN[2028]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to Level 4..."
+	STRING_EN[2028]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 4..."
 	STRING_EN[2028]["real_idx"] = 2028
 
 STRING_EN["index"][2029] = 2029
 STRING_EN[2029] = {}
 	STRING_EN[2029]["ID"] = 2029
 	STRING_EN[2029]["KEY"] = "M_WEAPONDEVELOP_UP5"
-	STRING_EN[2029]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to Level 5..."
+	STRING_EN[2029]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 5..."
 	STRING_EN[2029]["real_idx"] = 2029
 
 STRING_EN["index"][2030] = 2030
 STRING_EN[2030] = {}
 	STRING_EN[2030]["ID"] = 2030
 	STRING_EN[2030]["KEY"] = "M_WEAPONDEVELOP_UP6"
-	STRING_EN[2030]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to Level 6..."
+	STRING_EN[2030]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 6..."
 	STRING_EN[2030]["real_idx"] = 2030
 
 STRING_EN["index"][2031] = 2031
 STRING_EN[2031] = {}
 	STRING_EN[2031]["ID"] = 2031
 	STRING_EN[2031]["KEY"] = "M_WEAPONDEVELOP_UP7"
-	STRING_EN[2031]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 7..."
+	STRING_EN[2031]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 7..."
 	STRING_EN[2031]["real_idx"] = 2031
 
 STRING_EN["index"][2032] = 2032
 STRING_EN[2032] = {}
 	STRING_EN[2032]["ID"] = 2032
 	STRING_EN[2032]["KEY"] = "M_WEAPONDEVELOP_UP8"
-	STRING_EN[2032]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to Level 8..."
+	STRING_EN[2032]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 8..."
 	STRING_EN[2032]["real_idx"] = 2032
 
 STRING_EN["index"][2033] = 2033
 STRING_EN[2033] = {}
 	STRING_EN[2033]["ID"] = 2033
 	STRING_EN[2033]["KEY"] = "M_WEAPONDEVELOP_UP9"
-	STRING_EN[2033]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 9..."
+	STRING_EN[2033]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 9..."
 	STRING_EN[2033]["real_idx"] = 2033
 
 STRING_EN["index"][2034] = 2034
 STRING_EN[2034] = {}
 	STRING_EN[2034]["ID"] = 2034
 	STRING_EN[2034]["KEY"] = "M_WEAPONDEVELOP_UP10"
-	STRING_EN[2034]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 10..."
+	STRING_EN[2034]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 10..."
 	STRING_EN[2034]["real_idx"] = 2034
 
 STRING_EN["index"][2035] = 2035
 STRING_EN[2035] = {}
 	STRING_EN[2035]["ID"] = 2035
 	STRING_EN[2035]["KEY"] = "M_WEAPONDEVELOP_UP11"
-	STRING_EN[2035]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 11..."
+	STRING_EN[2035]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 11..."
 	STRING_EN[2035]["real_idx"] = 2035
 
 STRING_EN["index"][2036] = 2036
 STRING_EN[2036] = {}
 	STRING_EN[2036]["ID"] = 2036
 	STRING_EN[2036]["KEY"] = "M_WEAPONDEVELOP_UP12"
-	STRING_EN[2036]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 12..."
+	STRING_EN[2036]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 12..."
 	STRING_EN[2036]["real_idx"] = 2036
 
 STRING_EN["index"][2037] = 2037
 STRING_EN[2037] = {}
 	STRING_EN[2037]["ID"] = 2037
 	STRING_EN[2037]["KEY"] = "M_WEAPONDEVELOP_UP13"
-	STRING_EN[2037]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 13..."
+	STRING_EN[2037]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 13..."
 	STRING_EN[2037]["real_idx"] = 2037
 
 STRING_EN["index"][2038] = 2038
 STRING_EN[2038] = {}
 	STRING_EN[2038]["ID"] = 2038
 	STRING_EN[2038]["KEY"] = "M_WEAPONDEVELOP_UP14"
-	STRING_EN[2038]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 14..."
+	STRING_EN[2038]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 14..."
 	STRING_EN[2038]["real_idx"] = 2038
 
 STRING_EN["index"][2039] = 2039
 STRING_EN[2039] = {}
 	STRING_EN[2039]["ID"] = 2039
 	STRING_EN[2039]["KEY"] = "M_WEAPONDEVELOP_UP15"
-	STRING_EN[2039]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 15..."
+	STRING_EN[2039]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 15..."
 	STRING_EN[2039]["real_idx"] = 2039
 
 STRING_EN["index"][2040] = 2040
 STRING_EN[2040] = {}
 	STRING_EN[2040]["ID"] = 2040
 	STRING_EN[2040]["KEY"] = "M_WEAPONDEVELOP_UP16"
-	STRING_EN[2040]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 16..."
+	STRING_EN[2040]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 16..."
 	STRING_EN[2040]["real_idx"] = 2040
 
 STRING_EN["index"][2041] = 2041
 STRING_EN[2041] = {}
 	STRING_EN[2041]["ID"] = 2041
 	STRING_EN[2041]["KEY"] = "M_WEAPONDEVELOP_UP17"
-	STRING_EN[2041]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 17..."
+	STRING_EN[2041]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 17..."
 	STRING_EN[2041]["real_idx"] = 2041
 
 STRING_EN["index"][2042] = 2042
 STRING_EN[2042] = {}
 	STRING_EN[2042]["ID"] = 2042
 	STRING_EN[2042]["KEY"] = "M_WEAPONDEVELOP_UP18"
-	STRING_EN[2042]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 18..."
+	STRING_EN[2042]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 18..."
 	STRING_EN[2042]["real_idx"] = 2042
 
 STRING_EN["index"][2043] = 2043
 STRING_EN[2043] = {}
 	STRING_EN[2043]["ID"] = 2043
 	STRING_EN[2043]["KEY"] = "M_WEAPONDEVELOP_UP19"
-	STRING_EN[2043]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 19..."
+	STRING_EN[2043]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 19..."
 	STRING_EN[2043]["real_idx"] = 2043
 
 STRING_EN["index"][2044] = 2044
 STRING_EN[2044] = {}
 	STRING_EN[2044]["ID"] = 2044
 	STRING_EN[2044]["KEY"] = "M_WEAPONDEVELOP_UP20"
-	STRING_EN[2044]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 20..."
+	STRING_EN[2044]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 20..."
 	STRING_EN[2044]["real_idx"] = 2044
 
 STRING_EN["index"][2045] = 2045
 STRING_EN[2045] = {}
 	STRING_EN[2045]["ID"] = 2045
 	STRING_EN[2045]["KEY"] = "M_WEAPONDEVELOP_UP21"
-	STRING_EN[2045]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 21..."
+	STRING_EN[2045]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 21..."
 	STRING_EN[2045]["real_idx"] = 2045
 
 STRING_EN["index"][2046] = 2046
 STRING_EN[2046] = {}
 	STRING_EN[2046]["ID"] = 2046
 	STRING_EN[2046]["KEY"] = "M_WEAPONDEVELOP_UP22"
-	STRING_EN[2046]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 22..."
+	STRING_EN[2046]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 22..."
 	STRING_EN[2046]["real_idx"] = 2046
 
 STRING_EN["index"][2047] = 2047
 STRING_EN[2047] = {}
 	STRING_EN[2047]["ID"] = 2047
 	STRING_EN[2047]["KEY"] = "M_WEAPONDEVELOP_UP23"
-	STRING_EN[2047]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 23..."
+	STRING_EN[2047]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 23..."
 	STRING_EN[2047]["real_idx"] = 2047
 
 STRING_EN["index"][2048] = 2048
 STRING_EN[2048] = {}
 	STRING_EN[2048]["ID"] = 2048
 	STRING_EN[2048]["KEY"] = "M_WEAPONDEVELOP_UP24"
-	STRING_EN[2048]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 24..."
+	STRING_EN[2048]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 24..."
 	STRING_EN[2048]["real_idx"] = 2048
 
 STRING_EN["index"][2049] = 2049
 STRING_EN[2049] = {}
 	STRING_EN[2049]["ID"] = 2049
 	STRING_EN[2049]["KEY"] = "M_WEAPONDEVELOP_UP25"
-	STRING_EN[2049]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 25..."
+	STRING_EN[2049]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 25..."
 	STRING_EN[2049]["real_idx"] = 2049
 
 STRING_EN["index"][2050] = 2050
 STRING_EN[2050] = {}
 	STRING_EN[2050]["ID"] = 2050
 	STRING_EN[2050]["KEY"] = "M_WEAPONDEVELOP_UP26"
-	STRING_EN[2050]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 26..."
+	STRING_EN[2050]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 26..."
 	STRING_EN[2050]["real_idx"] = 2050
 
 STRING_EN["index"][2051] = 2051
 STRING_EN[2051] = {}
 	STRING_EN[2051]["ID"] = 2051
 	STRING_EN[2051]["KEY"] = "M_WEAPONDEVELOP_UP27"
-	STRING_EN[2051]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 27..."
+	STRING_EN[2051]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 27..."
 	STRING_EN[2051]["real_idx"] = 2051
 
 STRING_EN["index"][2052] = 2052
 STRING_EN[2052] = {}
 	STRING_EN[2052]["ID"] = 2052
 	STRING_EN[2052]["KEY"] = "M_WEAPONDEVELOP_UP28"
-	STRING_EN[2052]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 28..."
+	STRING_EN[2052]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 28..."
 	STRING_EN[2052]["real_idx"] = 2052
 
 STRING_EN["index"][2053] = 2053
 STRING_EN[2053] = {}
 	STRING_EN[2053]["ID"] = 2053
 	STRING_EN[2053]["KEY"] = "M_WEAPONDEVELOP_UP29"
-	STRING_EN[2053]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 29..."
+	STRING_EN[2053]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 29..."
 	STRING_EN[2053]["real_idx"] = 2053
 
 STRING_EN["index"][2054] = 2054
 STRING_EN[2054] = {}
 	STRING_EN[2054]["ID"] = 2054
 	STRING_EN[2054]["KEY"] = "M_WEAPONDEVELOP_UP30"
-	STRING_EN[2054]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 30..."
+	STRING_EN[2054]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 30..."
 	STRING_EN[2054]["real_idx"] = 2054
 
 STRING_EN["index"][2055] = 2055
 STRING_EN[2055] = {}
 	STRING_EN[2055]["ID"] = 2055
 	STRING_EN[2055]["KEY"] = "M_WEAPONDEVELOP_UP31"
-	STRING_EN[2055]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 31..."
+	STRING_EN[2055]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 31..."
 	STRING_EN[2055]["real_idx"] = 2055
 
 STRING_EN["index"][2056] = 2056
 STRING_EN[2056] = {}
 	STRING_EN[2056]["ID"] = 2056
 	STRING_EN[2056]["KEY"] = "M_WEAPONDEVELOP_UP32"
-	STRING_EN[2056]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 32..."
+	STRING_EN[2056]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 32..."
 	STRING_EN[2056]["real_idx"] = 2056
 
 STRING_EN["index"][2057] = 2057
 STRING_EN[2057] = {}
 	STRING_EN[2057]["ID"] = 2057
 	STRING_EN[2057]["KEY"] = "M_WEAPONDEVELOP_UP33"
-	STRING_EN[2057]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 33..."
+	STRING_EN[2057]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 33..."
 	STRING_EN[2057]["real_idx"] = 2057
 
 STRING_EN["index"][2058] = 2058
 STRING_EN[2058] = {}
 	STRING_EN[2058]["ID"] = 2058
 	STRING_EN[2058]["KEY"] = "M_WEAPONDEVELOP_UP34"
-	STRING_EN[2058]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 34..."
+	STRING_EN[2058]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 34..."
 	STRING_EN[2058]["real_idx"] = 2058
 
 STRING_EN["index"][2059] = 2059
 STRING_EN[2059] = {}
 	STRING_EN[2059]["ID"] = 2059
 	STRING_EN[2059]["KEY"] = "M_WEAPONDEVELOP_UP35"
-	STRING_EN[2059]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 35..."
+	STRING_EN[2059]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 35..."
 	STRING_EN[2059]["real_idx"] = 2059
 
 STRING_EN["index"][2060] = 2060
 STRING_EN[2060] = {}
 	STRING_EN[2060]["ID"] = 2060
 	STRING_EN[2060]["KEY"] = "M_WEAPONDEVELOP_UP36"
-	STRING_EN[2060]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 36..."
+	STRING_EN[2060]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 36..."
 	STRING_EN[2060]["real_idx"] = 2060
 
 STRING_EN["index"][2061] = 2061
 STRING_EN[2061] = {}
 	STRING_EN[2061]["ID"] = 2061
 	STRING_EN[2061]["KEY"] = "M_WEAPONDEVELOP_UP37"
-	STRING_EN[2061]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 37..."
+	STRING_EN[2061]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 37..."
 	STRING_EN[2061]["real_idx"] = 2061
 
 STRING_EN["index"][2062] = 2062
 STRING_EN[2062] = {}
 	STRING_EN[2062]["ID"] = 2062
 	STRING_EN[2062]["KEY"] = "M_WEAPONDEVELOP_UP38"
-	STRING_EN[2062]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 38..."
+	STRING_EN[2062]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 38..."
 	STRING_EN[2062]["real_idx"] = 2062
 
 STRING_EN["index"][2063] = 2063
 STRING_EN[2063] = {}
 	STRING_EN[2063]["ID"] = 2063
 	STRING_EN[2063]["KEY"] = "M_WEAPONDEVELOP_UP39"
-	STRING_EN[2063]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 39..."
+	STRING_EN[2063]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 39..."
 	STRING_EN[2063]["real_idx"] = 2063
 
 STRING_EN["index"][2064] = 2064
 STRING_EN[2064] = {}
 	STRING_EN[2064]["ID"] = 2064
 	STRING_EN[2064]["KEY"] = "M_WEAPONDEVELOP_UP40"
-	STRING_EN[2064]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 40..."
+	STRING_EN[2064]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 40..."
 	STRING_EN[2064]["real_idx"] = 2064
 
 STRING_EN["index"][2065] = 2065
 STRING_EN[2065] = {}
 	STRING_EN[2065]["ID"] = 2065
 	STRING_EN[2065]["KEY"] = "M_WEAPONDEVELOP_UP41"
-	STRING_EN[2065]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 41..."
+	STRING_EN[2065]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 41..."
 	STRING_EN[2065]["real_idx"] = 2065
 
 STRING_EN["index"][2066] = 2066
 STRING_EN[2066] = {}
 	STRING_EN[2066]["ID"] = 2066
 	STRING_EN[2066]["KEY"] = "M_WEAPONDEVELOP_UP42"
-	STRING_EN[2066]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 42..."
+	STRING_EN[2066]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 42..."
 	STRING_EN[2066]["real_idx"] = 2066
 
 STRING_EN["index"][2067] = 2067
 STRING_EN[2067] = {}
 	STRING_EN[2067]["ID"] = 2067
 	STRING_EN[2067]["KEY"] = "M_WEAPONDEVELOP_UP43"
-	STRING_EN[2067]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 43..."
+	STRING_EN[2067]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 43..."
 	STRING_EN[2067]["real_idx"] = 2067
 
 STRING_EN["index"][2068] = 2068
 STRING_EN[2068] = {}
 	STRING_EN[2068]["ID"] = 2068
 	STRING_EN[2068]["KEY"] = "M_WEAPONDEVELOP_UP44"
-	STRING_EN[2068]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 44..."
+	STRING_EN[2068]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 44..."
 	STRING_EN[2068]["real_idx"] = 2068
 
 STRING_EN["index"][2069] = 2069
 STRING_EN[2069] = {}
 	STRING_EN[2069]["ID"] = 2069
 	STRING_EN[2069]["KEY"] = "M_WEAPONDEVELOP_UP45"
-	STRING_EN[2069]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode! Now raise the Institute to level 45..."
+	STRING_EN[2069]["VALUE"] = "After the Weapon Institute is upgraded， more weapon skills can be activated， which can be equipped on the spaceship to change the attack mode! Now upgrade the Institute to level 45..."
 	STRING_EN[2069]["real_idx"] = 2069
 
 STRING_EN["index"][2070] = 2070
 STRING_EN[2070] = {}
 	STRING_EN[2070]["ID"] = 2070
 	STRING_EN[2070]["KEY"] = "M_REPAIRDEPOT_UP2"
-	STRING_EN[2070]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 2..."
+	STRING_EN[2070]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 2..."
 	STRING_EN[2070]["real_idx"] = 2070
 
 STRING_EN["index"][2071] = 2071
 STRING_EN[2071] = {}
 	STRING_EN[2071]["ID"] = 2071
 	STRING_EN[2071]["KEY"] = "M_REPAIRDEPOT_UP3"
-	STRING_EN[2071]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 3..."
+	STRING_EN[2071]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 3..."
 	STRING_EN[2071]["real_idx"] = 2071
 
 STRING_EN["index"][2072] = 2072
 STRING_EN[2072] = {}
 	STRING_EN[2072]["ID"] = 2072
 	STRING_EN[2072]["KEY"] = "M_REPAIRDEPOT_UP4"
-	STRING_EN[2072]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 4..."
+	STRING_EN[2072]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 4..."
 	STRING_EN[2072]["real_idx"] = 2072
 
 STRING_EN["index"][2073] = 2073
 STRING_EN[2073] = {}
 	STRING_EN[2073]["ID"] = 2073
 	STRING_EN[2073]["KEY"] = "M_REPAIRDEPOT_UP5"
-	STRING_EN[2073]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 5..."
+	STRING_EN[2073]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 5..."
 	STRING_EN[2073]["real_idx"] = 2073
 
 STRING_EN["index"][2074] = 2074
 STRING_EN[2074] = {}
 	STRING_EN[2074]["ID"] = 2074
 	STRING_EN[2074]["KEY"] = "M_REPAIRDEPOT_UP6"
-	STRING_EN[2074]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 6..."
+	STRING_EN[2074]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 6..."
 	STRING_EN[2074]["real_idx"] = 2074
 
 STRING_EN["index"][2075] = 2075
 STRING_EN[2075] = {}
 	STRING_EN[2075]["ID"] = 2075
 	STRING_EN[2075]["KEY"] = "M_REPAIRDEPOT_UP7"
-	STRING_EN[2075]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 7..."
+	STRING_EN[2075]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 7..."
 	STRING_EN[2075]["real_idx"] = 2075
 
 STRING_EN["index"][2076] = 2076
 STRING_EN[2076] = {}
 	STRING_EN[2076]["ID"] = 2076
 	STRING_EN[2076]["KEY"] = "M_REPAIRDEPOT_UP8"
-	STRING_EN[2076]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 8..."
+	STRING_EN[2076]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 8..."
 	STRING_EN[2076]["real_idx"] = 2076
 
 STRING_EN["index"][2077] = 2077
 STRING_EN[2077] = {}
 	STRING_EN[2077]["ID"] = 2077
 	STRING_EN[2077]["KEY"] = "M_REPAIRDEPOT_UP9"
-	STRING_EN[2077]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 9..."
+	STRING_EN[2077]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 9..."
 	STRING_EN[2077]["real_idx"] = 2077
 
 STRING_EN["index"][2078] = 2078
 STRING_EN[2078] = {}
 	STRING_EN[2078]["ID"] = 2078
 	STRING_EN[2078]["KEY"] = "M_REPAIRDEPOT_UP10"
-	STRING_EN[2078]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 10..."
+	STRING_EN[2078]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 10..."
 	STRING_EN[2078]["real_idx"] = 2078
 
 STRING_EN["index"][2079] = 2079
 STRING_EN[2079] = {}
 	STRING_EN[2079]["ID"] = 2079
 	STRING_EN[2079]["KEY"] = "M_REPAIRDEPOT_UP11"
-	STRING_EN[2079]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 11..."
+	STRING_EN[2079]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 11..."
 	STRING_EN[2079]["real_idx"] = 2079
 
 STRING_EN["index"][2080] = 2080
 STRING_EN[2080] = {}
 	STRING_EN[2080]["ID"] = 2080
 	STRING_EN[2080]["KEY"] = "M_REPAIRDEPOT_UP12"
-	STRING_EN[2080]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 12..."
+	STRING_EN[2080]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 12..."
 	STRING_EN[2080]["real_idx"] = 2080
 
 STRING_EN["index"][2081] = 2081
 STRING_EN[2081] = {}
 	STRING_EN[2081]["ID"] = 2081
 	STRING_EN[2081]["KEY"] = "M_REPAIRDEPOT_UP13"
-	STRING_EN[2081]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 13..."
+	STRING_EN[2081]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 13..."
 	STRING_EN[2081]["real_idx"] = 2081
 
 STRING_EN["index"][2082] = 2082
 STRING_EN[2082] = {}
 	STRING_EN[2082]["ID"] = 2082
 	STRING_EN[2082]["KEY"] = "M_REPAIRDEPOT_UP14"
-	STRING_EN[2082]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 14..."
+	STRING_EN[2082]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 14..."
 	STRING_EN[2082]["real_idx"] = 2082
 
 STRING_EN["index"][2083] = 2083
 STRING_EN[2083] = {}
 	STRING_EN[2083]["ID"] = 2083
 	STRING_EN[2083]["KEY"] = "M_REPAIRDEPOT_UP15"
-	STRING_EN[2083]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 15..."
+	STRING_EN[2083]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 15..."
 	STRING_EN[2083]["real_idx"] = 2083
 
 STRING_EN["index"][2084] = 2084
 STRING_EN[2084] = {}
 	STRING_EN[2084]["ID"] = 2084
 	STRING_EN[2084]["KEY"] = "M_REPAIRDEPOT_UP16"
-	STRING_EN[2084]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 16..."
+	STRING_EN[2084]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 16..."
 	STRING_EN[2084]["real_idx"] = 2084
 
 STRING_EN["index"][2085] = 2085
 STRING_EN[2085] = {}
 	STRING_EN[2085]["ID"] = 2085
 	STRING_EN[2085]["KEY"] = "M_REPAIRDEPOT_UP17"
-	STRING_EN[2085]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 17..."
+	STRING_EN[2085]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 17..."
 	STRING_EN[2085]["real_idx"] = 2085
 
 STRING_EN["index"][2086] = 2086
 STRING_EN[2086] = {}
 	STRING_EN[2086]["ID"] = 2086
 	STRING_EN[2086]["KEY"] = "M_REPAIRDEPOT_UP18"
-	STRING_EN[2086]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 18..."
+	STRING_EN[2086]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 18..."
 	STRING_EN[2086]["real_idx"] = 2086
 
 STRING_EN["index"][2087] = 2087
 STRING_EN[2087] = {}
 	STRING_EN[2087]["ID"] = 2087
 	STRING_EN[2087]["KEY"] = "M_REPAIRDEPOT_UP19"
-	STRING_EN[2087]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 19..."
+	STRING_EN[2087]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 19..."
 	STRING_EN[2087]["real_idx"] = 2087
 
 STRING_EN["index"][2088] = 2088
 STRING_EN[2088] = {}
 	STRING_EN[2088]["ID"] = 2088
 	STRING_EN[2088]["KEY"] = "M_REPAIRDEPOT_UP20"
-	STRING_EN[2088]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 20..."
+	STRING_EN[2088]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 20..."
 	STRING_EN[2088]["real_idx"] = 2088
 
 STRING_EN["index"][2089] = 2089
 STRING_EN[2089] = {}
 	STRING_EN[2089]["ID"] = 2089
 	STRING_EN[2089]["KEY"] = "M_REPAIRDEPOT_UP21"
-	STRING_EN[2089]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 21..."
+	STRING_EN[2089]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 21..."
 	STRING_EN[2089]["real_idx"] = 2089
 
 STRING_EN["index"][2090] = 2090
 STRING_EN[2090] = {}
 	STRING_EN[2090]["ID"] = 2090
 	STRING_EN[2090]["KEY"] = "M_REPAIRDEPOT_UP22"
-	STRING_EN[2090]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 22..."
+	STRING_EN[2090]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 22..."
 	STRING_EN[2090]["real_idx"] = 2090
 
 STRING_EN["index"][2091] = 2091
 STRING_EN[2091] = {}
 	STRING_EN[2091]["ID"] = 2091
 	STRING_EN[2091]["KEY"] = "M_REPAIRDEPOT_UP23"
-	STRING_EN[2091]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 23..."
+	STRING_EN[2091]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 23..."
 	STRING_EN[2091]["real_idx"] = 2091
 
 STRING_EN["index"][2092] = 2092
 STRING_EN[2092] = {}
 	STRING_EN[2092]["ID"] = 2092
 	STRING_EN[2092]["KEY"] = "M_REPAIRDEPOT_UP24"
-	STRING_EN[2092]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 24..."
+	STRING_EN[2092]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 24..."
 	STRING_EN[2092]["real_idx"] = 2092
 
 STRING_EN["index"][2093] = 2093
 STRING_EN[2093] = {}
 	STRING_EN[2093]["ID"] = 2093
 	STRING_EN[2093]["KEY"] = "M_REPAIRDEPOT_UP25"
-	STRING_EN[2093]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 25..."
+	STRING_EN[2093]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 25..."
 	STRING_EN[2093]["real_idx"] = 2093
 
 STRING_EN["index"][2094] = 2094
 STRING_EN[2094] = {}
 	STRING_EN[2094]["ID"] = 2094
 	STRING_EN[2094]["KEY"] = "M_REPAIRDEPOT_UP26"
-	STRING_EN[2094]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 26..."
+	STRING_EN[2094]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 26..."
 	STRING_EN[2094]["real_idx"] = 2094
 
 STRING_EN["index"][2095] = 2095
 STRING_EN[2095] = {}
 	STRING_EN[2095]["ID"] = 2095
 	STRING_EN[2095]["KEY"] = "M_REPAIRDEPOT_UP27"
-	STRING_EN[2095]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 27..."
+	STRING_EN[2095]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 27..."
 	STRING_EN[2095]["real_idx"] = 2095
 
 STRING_EN["index"][2096] = 2096
 STRING_EN[2096] = {}
 	STRING_EN[2096]["ID"] = 2096
 	STRING_EN[2096]["KEY"] = "M_REPAIRDEPOT_UP28"
-	STRING_EN[2096]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 28..."
+	STRING_EN[2096]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 28..."
 	STRING_EN[2096]["real_idx"] = 2096
 
 STRING_EN["index"][2097] = 2097
 STRING_EN[2097] = {}
 	STRING_EN[2097]["ID"] = 2097
 	STRING_EN[2097]["KEY"] = "M_REPAIRDEPOT_UP29"
-	STRING_EN[2097]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 29..."
+	STRING_EN[2097]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 29..."
 	STRING_EN[2097]["real_idx"] = 2097
 
 STRING_EN["index"][2098] = 2098
 STRING_EN[2098] = {}
 	STRING_EN[2098]["ID"] = 2098
 	STRING_EN[2098]["KEY"] = "M_REPAIRDEPOT_UP30"
-	STRING_EN[2098]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 30..."
+	STRING_EN[2098]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 30..."
 	STRING_EN[2098]["real_idx"] = 2098
 
 STRING_EN["index"][2099] = 2099
 STRING_EN[2099] = {}
 	STRING_EN[2099]["ID"] = 2099
 	STRING_EN[2099]["KEY"] = "M_REPAIRDEPOT_UP31"
-	STRING_EN[2099]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 31..."
+	STRING_EN[2099]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 31..."
 	STRING_EN[2099]["real_idx"] = 2099
 
 STRING_EN["index"][2100] = 2100
 STRING_EN[2100] = {}
 	STRING_EN[2100]["ID"] = 2100
 	STRING_EN[2100]["KEY"] = "M_REPAIRDEPOT_UP32"
-	STRING_EN[2100]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 32..."
+	STRING_EN[2100]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 32..."
 	STRING_EN[2100]["real_idx"] = 2100
 
 STRING_EN["index"][2101] = 2101
 STRING_EN[2101] = {}
 	STRING_EN[2101]["ID"] = 2101
 	STRING_EN[2101]["KEY"] = "M_REPAIRDEPOT_UP33"
-	STRING_EN[2101]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 33..."
+	STRING_EN[2101]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 33..."
 	STRING_EN[2101]["real_idx"] = 2101
 
 STRING_EN["index"][2102] = 2102
 STRING_EN[2102] = {}
 	STRING_EN[2102]["ID"] = 2102
 	STRING_EN[2102]["KEY"] = "M_REPAIRDEPOT_UP34"
-	STRING_EN[2102]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 34..."
+	STRING_EN[2102]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 34..."
 	STRING_EN[2102]["real_idx"] = 2102
 
 STRING_EN["index"][2103] = 2103
 STRING_EN[2103] = {}
 	STRING_EN[2103]["ID"] = 2103
 	STRING_EN[2103]["KEY"] = "M_REPAIRDEPOT_UP35"
-	STRING_EN[2103]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 35..."
+	STRING_EN[2103]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 35..."
 	STRING_EN[2103]["real_idx"] = 2103
 
 STRING_EN["index"][2104] = 2104
 STRING_EN[2104] = {}
 	STRING_EN[2104]["ID"] = 2104
 	STRING_EN[2104]["KEY"] = "M_REPAIRDEPOT_UP36"
-	STRING_EN[2104]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to 36..."
+	STRING_EN[2104]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 36..."
 	STRING_EN[2104]["real_idx"] = 2104
 
 STRING_EN["index"][2105] = 2105
 STRING_EN[2105] = {}
 	STRING_EN[2105]["ID"] = 2105
 	STRING_EN[2105]["KEY"] = "M_REPAIRDEPOT_UP37"
-	STRING_EN[2105]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 37..."
+	STRING_EN[2105]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 37..."
 	STRING_EN[2105]["real_idx"] = 2105
 
 STRING_EN["index"][2106] = 2106
 STRING_EN[2106] = {}
 	STRING_EN[2106]["ID"] = 2106
 	STRING_EN[2106]["KEY"] = "M_REPAIRDEPOT_UP38"
-	STRING_EN[2106]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 38..."
+	STRING_EN[2106]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 38..."
 	STRING_EN[2106]["real_idx"] = 2106
 
 STRING_EN["index"][2107] = 2107
 STRING_EN[2107] = {}
 	STRING_EN[2107]["ID"] = 2107
 	STRING_EN[2107]["KEY"] = "M_REPAIRDEPOT_UP39"
-	STRING_EN[2107]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 39..."
+	STRING_EN[2107]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 39..."
 	STRING_EN[2107]["real_idx"] = 2107
 
 STRING_EN["index"][2108] = 2108
 STRING_EN[2108] = {}
 	STRING_EN[2108]["ID"] = 2108
 	STRING_EN[2108]["KEY"] = "M_REPAIRDEPOT_UP40"
-	STRING_EN[2108]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 40..."
+	STRING_EN[2108]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 40..."
 	STRING_EN[2108]["real_idx"] = 2108
 
 STRING_EN["index"][2109] = 2109
 STRING_EN[2109] = {}
 	STRING_EN[2109]["ID"] = 2109
 	STRING_EN[2109]["KEY"] = "M_REPAIRDEPOT_UP41"
-	STRING_EN[2109]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 41..."
+	STRING_EN[2109]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 41..."
 	STRING_EN[2109]["real_idx"] = 2109
 
 STRING_EN["index"][2110] = 2110
 STRING_EN[2110] = {}
 	STRING_EN[2110]["ID"] = 2110
 	STRING_EN[2110]["KEY"] = "M_REPAIRDEPOT_UP42"
-	STRING_EN[2110]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 42..."
+	STRING_EN[2110]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 42..."
 	STRING_EN[2110]["real_idx"] = 2110
 
 STRING_EN["index"][2111] = 2111
 STRING_EN[2111] = {}
 	STRING_EN[2111]["ID"] = 2111
 	STRING_EN[2111]["KEY"] = "M_REPAIRDEPOT_UP43"
-	STRING_EN[2111]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 43..."
+	STRING_EN[2111]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 43..."
 	STRING_EN[2111]["real_idx"] = 2111
 
 STRING_EN["index"][2112] = 2112
 STRING_EN[2112] = {}
 	STRING_EN[2112]["ID"] = 2112
 	STRING_EN[2112]["KEY"] = "M_REPAIRDEPOT_UP44"
-	STRING_EN[2112]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 44..."
+	STRING_EN[2112]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 44..."
 	STRING_EN[2112]["real_idx"] = 2112
 
 STRING_EN["index"][2113] = 2113
 STRING_EN[2113] = {}
 	STRING_EN[2113]["ID"] = 2113
 	STRING_EN[2113]["KEY"] = "M_REPAIRDEPOT_UP45"
-	STRING_EN[2113]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability! In order to improve the repair speed， now raise the repair shop to level 45..."
+	STRING_EN[2113]["VALUE"] = "Spaceship can not participate in a battle anymore if its durability is not enough， Workshop is the place to repair the durability of your spaceships! For the faster repairing speed，now upgrade the Workshop to level 45..."
 	STRING_EN[2113]["real_idx"] = 2113
 
 STRING_EN["index"][2114] = 2114
 STRING_EN[2114] = {}
 	STRING_EN[2114]["ID"] = 2114
 	STRING_EN[2114]["KEY"] = "M_LAB_UP2"
-	STRING_EN[2114]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 2 now!"
+	STRING_EN[2114]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 3 now!"
 	STRING_EN[2114]["real_idx"] = 2114
 
 STRING_EN["index"][2115] = 2115
 STRING_EN[2115] = {}
 	STRING_EN[2115]["ID"] = 2115
 	STRING_EN[2115]["KEY"] = "M_LAB_UP3"
-	STRING_EN[2115]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 3 now!"
+	STRING_EN[2115]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 4 now!"
 	STRING_EN[2115]["real_idx"] = 2115
 
 STRING_EN["index"][2116] = 2116
 STRING_EN[2116] = {}
 	STRING_EN[2116]["ID"] = 2116
 	STRING_EN[2116]["KEY"] = "M_LAB_UP4"
-	STRING_EN[2116]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 4 now!"
+	STRING_EN[2116]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 5 now!"
 	STRING_EN[2116]["real_idx"] = 2116
 
 STRING_EN["index"][2117] = 2117
 STRING_EN[2117] = {}
 	STRING_EN[2117]["ID"] = 2117
 	STRING_EN[2117]["KEY"] = "M_LAB_UP5"
-	STRING_EN[2117]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For the sake of strength， raise the lab to level 5 now!"
+	STRING_EN[2117]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 6 now!"
 	STRING_EN[2117]["real_idx"] = 2117
 
 STRING_EN["index"][2118] = 2118
 STRING_EN[2118] = {}
 	STRING_EN[2118]["ID"] = 2118
 	STRING_EN[2118]["KEY"] = "M_LAB_UP6"
-	STRING_EN[2118]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， upgrade the lab to level 6 now!"
+	STRING_EN[2118]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 7 now!"
 	STRING_EN[2118]["real_idx"] = 2118
 
 STRING_EN["index"][2119] = 2119
 STRING_EN[2119] = {}
 	STRING_EN[2119]["ID"] = 2119
 	STRING_EN[2119]["KEY"] = "M_LAB_UP7"
-	STRING_EN[2119]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， upgrade the lab to level 7 now!"
+	STRING_EN[2119]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 8 now!"
 	STRING_EN[2119]["real_idx"] = 2119
 
 STRING_EN["index"][2120] = 2120
 STRING_EN[2120] = {}
 	STRING_EN[2120]["ID"] = 2120
 	STRING_EN[2120]["KEY"] = "M_LAB_UP8"
-	STRING_EN[2120]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 8 now!"
+	STRING_EN[2120]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 9 now!"
 	STRING_EN[2120]["real_idx"] = 2120
 
 STRING_EN["index"][2121] = 2121
 STRING_EN[2121] = {}
 	STRING_EN[2121]["ID"] = 2121
 	STRING_EN[2121]["KEY"] = "M_LAB_UP9"
-	STRING_EN[2121]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 9 now!"
+	STRING_EN[2121]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 10 now!"
 	STRING_EN[2121]["real_idx"] = 2121
 
 STRING_EN["index"][2122] = 2122
 STRING_EN[2122] = {}
 	STRING_EN[2122]["ID"] = 2122
 	STRING_EN[2122]["KEY"] = "M_LAB_UP10"
-	STRING_EN[2122]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 10 now!"
+	STRING_EN[2122]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 11 now!"
 	STRING_EN[2122]["real_idx"] = 2122
 
 STRING_EN["index"][2123] = 2123
 STRING_EN[2123] = {}
 	STRING_EN[2123]["ID"] = 2123
 	STRING_EN[2123]["KEY"] = "M_LAB_UP11"
-	STRING_EN[2123]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 11 now!"
+	STRING_EN[2123]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 12 now!"
 	STRING_EN[2123]["real_idx"] = 2123
 
 STRING_EN["index"][2124] = 2124
 STRING_EN[2124] = {}
 	STRING_EN[2124]["ID"] = 2124
 	STRING_EN[2124]["KEY"] = "M_LAB_UP12"
-	STRING_EN[2124]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 12 now!"
+	STRING_EN[2124]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 13 now!"
 	STRING_EN[2124]["real_idx"] = 2124
 
 STRING_EN["index"][2125] = 2125
 STRING_EN[2125] = {}
 	STRING_EN[2125]["ID"] = 2125
 	STRING_EN[2125]["KEY"] = "M_LAB_UP13"
-	STRING_EN[2125]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 13 now!"
+	STRING_EN[2125]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 14 now!"
 	STRING_EN[2125]["real_idx"] = 2125
 
 STRING_EN["index"][2126] = 2126
 STRING_EN[2126] = {}
 	STRING_EN[2126]["ID"] = 2126
 	STRING_EN[2126]["KEY"] = "M_LAB_UP14"
-	STRING_EN[2126]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 14 now!"
+	STRING_EN[2126]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 15 now!"
 	STRING_EN[2126]["real_idx"] = 2126
 
 STRING_EN["index"][2127] = 2127
 STRING_EN[2127] = {}
 	STRING_EN[2127]["ID"] = 2127
 	STRING_EN[2127]["KEY"] = "M_LAB_UP15"
-	STRING_EN[2127]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 15 now!"
+	STRING_EN[2127]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 16 now!"
 	STRING_EN[2127]["real_idx"] = 2127
 
 STRING_EN["index"][2128] = 2128
 STRING_EN[2128] = {}
 	STRING_EN[2128]["ID"] = 2128
 	STRING_EN[2128]["KEY"] = "M_LAB_UP16"
-	STRING_EN[2128]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 16 now!"
+	STRING_EN[2128]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 17 now!"
 	STRING_EN[2128]["real_idx"] = 2128
 
 STRING_EN["index"][2129] = 2129
 STRING_EN[2129] = {}
 	STRING_EN[2129]["ID"] = 2129
 	STRING_EN[2129]["KEY"] = "M_LAB_UP17"
-	STRING_EN[2129]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 17 now!"
+	STRING_EN[2129]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 18 now!"
 	STRING_EN[2129]["real_idx"] = 2129
 
 STRING_EN["index"][2130] = 2130
 STRING_EN[2130] = {}
 	STRING_EN[2130]["ID"] = 2130
 	STRING_EN[2130]["KEY"] = "M_LAB_UP18"
-	STRING_EN[2130]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 18 now!"
+	STRING_EN[2130]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 19 now!"
 	STRING_EN[2130]["real_idx"] = 2130
 
 STRING_EN["index"][2131] = 2131
 STRING_EN[2131] = {}
 	STRING_EN[2131]["ID"] = 2131
 	STRING_EN[2131]["KEY"] = "M_LAB_UP19"
-	STRING_EN[2131]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 19 now!"
+	STRING_EN[2131]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 20 now!"
 	STRING_EN[2131]["real_idx"] = 2131
 
 STRING_EN["index"][2132] = 2132
 STRING_EN[2132] = {}
 	STRING_EN[2132]["ID"] = 2132
 	STRING_EN[2132]["KEY"] = "M_LAB_UP20"
-	STRING_EN[2132]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 20 now!"
+	STRING_EN[2132]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 21 now!"
 	STRING_EN[2132]["real_idx"] = 2132
 
 STRING_EN["index"][2133] = 2133
 STRING_EN[2133] = {}
 	STRING_EN[2133]["ID"] = 2133
 	STRING_EN[2133]["KEY"] = "M_LAB_UP21"
-	STRING_EN[2133]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For the sake of strength， raise the lab to level 21 now!"
+	STRING_EN[2133]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 22 now!"
 	STRING_EN[2133]["real_idx"] = 2133
 
 STRING_EN["index"][2134] = 2134
 STRING_EN[2134] = {}
 	STRING_EN[2134]["ID"] = 2134
 	STRING_EN[2134]["KEY"] = "M_LAB_UP22"
-	STRING_EN[2134]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 22 now!"
+	STRING_EN[2134]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 23 now!"
 	STRING_EN[2134]["real_idx"] = 2134
 
 STRING_EN["index"][2135] = 2135
 STRING_EN[2135] = {}
 	STRING_EN[2135]["ID"] = 2135
 	STRING_EN[2135]["KEY"] = "M_LAB_UP23"
-	STRING_EN[2135]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 23 now!"
+	STRING_EN[2135]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 24 now!"
 	STRING_EN[2135]["real_idx"] = 2135
 
 STRING_EN["index"][2136] = 2136
 STRING_EN[2136] = {}
 	STRING_EN[2136]["ID"] = 2136
 	STRING_EN[2136]["KEY"] = "M_LAB_UP24"
-	STRING_EN[2136]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For the sake of strength， raise the lab to level 24 now!"
+	STRING_EN[2136]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 25 now!"
 	STRING_EN[2136]["real_idx"] = 2136
 
 STRING_EN["index"][2137] = 2137
 STRING_EN[2137] = {}
 	STRING_EN[2137]["ID"] = 2137
 	STRING_EN[2137]["KEY"] = "M_LAB_UP25"
-	STRING_EN[2137]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 25 now!"
+	STRING_EN[2137]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 26 now!"
 	STRING_EN[2137]["real_idx"] = 2137
 
 STRING_EN["index"][2138] = 2138
 STRING_EN[2138] = {}
 	STRING_EN[2138]["ID"] = 2138
 	STRING_EN[2138]["KEY"] = "M_LAB_UP26"
-	STRING_EN[2138]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 26 now!"
+	STRING_EN[2138]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 27 now!"
 	STRING_EN[2138]["real_idx"] = 2138
 
 STRING_EN["index"][2139] = 2139
 STRING_EN[2139] = {}
 	STRING_EN[2139]["ID"] = 2139
 	STRING_EN[2139]["KEY"] = "M_LAB_UP27"
-	STRING_EN[2139]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 27 now!"
+	STRING_EN[2139]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 28 now!"
 	STRING_EN[2139]["real_idx"] = 2139
 
 STRING_EN["index"][2140] = 2140
 STRING_EN[2140] = {}
 	STRING_EN[2140]["ID"] = 2140
 	STRING_EN[2140]["KEY"] = "M_LAB_UP28"
-	STRING_EN[2140]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 28 now!"
+	STRING_EN[2140]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 29 now!"
 	STRING_EN[2140]["real_idx"] = 2140
 
 STRING_EN["index"][2141] = 2141
 STRING_EN[2141] = {}
 	STRING_EN[2141]["ID"] = 2141
 	STRING_EN[2141]["KEY"] = "M_LAB_UP29"
-	STRING_EN[2141]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For the sake of strength， raise the lab to level 29 now!"
+	STRING_EN[2141]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 30 now!"
 	STRING_EN[2141]["real_idx"] = 2141
 
 STRING_EN["index"][2142] = 2142
 STRING_EN[2142] = {}
 	STRING_EN[2142]["ID"] = 2142
 	STRING_EN[2142]["KEY"] = "M_LAB_UP30"
-	STRING_EN[2142]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 30 now!"
+	STRING_EN[2142]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 31 now!"
 	STRING_EN[2142]["real_idx"] = 2142
 
 STRING_EN["index"][2143] = 2143
 STRING_EN[2143] = {}
 	STRING_EN[2143]["ID"] = 2143
 	STRING_EN[2143]["KEY"] = "M_LAB_UP31"
-	STRING_EN[2143]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 31 now!"
+	STRING_EN[2143]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 32 now!"
 	STRING_EN[2143]["real_idx"] = 2143
 
 STRING_EN["index"][2144] = 2144
 STRING_EN[2144] = {}
 	STRING_EN[2144]["ID"] = 2144
 	STRING_EN[2144]["KEY"] = "M_LAB_UP32"
-	STRING_EN[2144]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 32 now!"
+	STRING_EN[2144]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 33 now!"
 	STRING_EN[2144]["real_idx"] = 2144
 
 STRING_EN["index"][2145] = 2145
 STRING_EN[2145] = {}
 	STRING_EN[2145]["ID"] = 2145
 	STRING_EN[2145]["KEY"] = "M_LAB_UP33"
-	STRING_EN[2145]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For the sake of strength， raise the lab to level 33 now!"
+	STRING_EN[2145]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 34 now!"
 	STRING_EN[2145]["real_idx"] = 2145
 
 STRING_EN["index"][2146] = 2146
 STRING_EN[2146] = {}
 	STRING_EN[2146]["ID"] = 2146
 	STRING_EN[2146]["KEY"] = "M_LAB_UP34"
-	STRING_EN[2146]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 34 now!"
+	STRING_EN[2146]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 35 now!"
 	STRING_EN[2146]["real_idx"] = 2146
 
 STRING_EN["index"][2147] = 2147
 STRING_EN[2147] = {}
 	STRING_EN[2147]["ID"] = 2147
 	STRING_EN[2147]["KEY"] = "M_LAB_UP35"
-	STRING_EN[2147]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 35 now!"
+	STRING_EN[2147]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 36 now!"
 	STRING_EN[2147]["real_idx"] = 2147
 
 STRING_EN["index"][2148] = 2148
 STRING_EN[2148] = {}
 	STRING_EN[2148]["ID"] = 2148
 	STRING_EN[2148]["KEY"] = "M_LAB_UP36"
-	STRING_EN[2148]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 36 now!"
+	STRING_EN[2148]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 37 now!"
 	STRING_EN[2148]["real_idx"] = 2148
 
 STRING_EN["index"][2149] = 2149
 STRING_EN[2149] = {}
 	STRING_EN[2149]["ID"] = 2149
 	STRING_EN[2149]["KEY"] = "M_LAB_UP37"
-	STRING_EN[2149]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 37 now!"
+	STRING_EN[2149]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 38 now!"
 	STRING_EN[2149]["real_idx"] = 2149
 
 STRING_EN["index"][2150] = 2150
 STRING_EN[2150] = {}
 	STRING_EN[2150]["ID"] = 2150
 	STRING_EN[2150]["KEY"] = "M_LAB_UP38"
-	STRING_EN[2150]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 38 now!"
+	STRING_EN[2150]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 39 now!"
 	STRING_EN[2150]["real_idx"] = 2150
 
 STRING_EN["index"][2151] = 2151
 STRING_EN[2151] = {}
 	STRING_EN[2151]["ID"] = 2151
 	STRING_EN[2151]["KEY"] = "M_LAB_UP39"
-	STRING_EN[2151]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 39 now!"
+	STRING_EN[2151]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 40 now!"
 	STRING_EN[2151]["real_idx"] = 2151
 
 STRING_EN["index"][2152] = 2152
 STRING_EN[2152] = {}
 	STRING_EN[2152]["ID"] = 2152
 	STRING_EN[2152]["KEY"] = "M_LAB_UP40"
-	STRING_EN[2152]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 40 now!"
+	STRING_EN[2152]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 41 now!"
 	STRING_EN[2152]["real_idx"] = 2152
 
 STRING_EN["index"][2153] = 2153
 STRING_EN[2153] = {}
 	STRING_EN[2153]["ID"] = 2153
 	STRING_EN[2153]["KEY"] = "M_LAB_UP41"
-	STRING_EN[2153]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 41 now!"
+	STRING_EN[2153]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 42 now!"
 	STRING_EN[2153]["real_idx"] = 2153
 
 STRING_EN["index"][2154] = 2154
 STRING_EN[2154] = {}
 	STRING_EN[2154]["ID"] = 2154
 	STRING_EN[2154]["KEY"] = "M_LAB_UP42"
-	STRING_EN[2154]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 42 now!"
+	STRING_EN[2154]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 43 now!"
 	STRING_EN[2154]["real_idx"] = 2154
 
 STRING_EN["index"][2155] = 2155
 STRING_EN[2155] = {}
 	STRING_EN[2155]["ID"] = 2155
 	STRING_EN[2155]["KEY"] = "M_LAB_UP43"
-	STRING_EN[2155]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 43 now!"
+	STRING_EN[2155]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 44 now!"
 	STRING_EN[2155]["real_idx"] = 2155
 
 STRING_EN["index"][2156] = 2156
 STRING_EN[2156] = {}
 	STRING_EN[2156]["ID"] = 2156
 	STRING_EN[2156]["KEY"] = "M_LAB_UP44"
-	STRING_EN[2156]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 44 now!"
+	STRING_EN[2156]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 45 now!"
 	STRING_EN[2156]["real_idx"] = 2156
 
 STRING_EN["index"][2157] = 2157
 STRING_EN[2157] = {}
 	STRING_EN[2157]["ID"] = 2157
 	STRING_EN[2157]["KEY"] = "M_LAB_UP45"
-	STRING_EN[2157]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated! For strength， raise the lab to level 45 now!"
+	STRING_EN[2157]["VALUE"] = "Tech Lab decides your battle abilities! The higher the level of the Lab， the more powerful the technology can be activated! For  your strength， upgrade the Lab to level 46 now!"
 	STRING_EN[2157]["real_idx"] = 2157
 
 STRING_EN["index"][2158] = 2158
 STRING_EN[2158] = {}
 	STRING_EN[2158]["ID"] = 2158
 	STRING_EN[2158]["KEY"] = "M_ALLOY_UP2"
-	STRING_EN[2158]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 2!"
+	STRING_EN[2158]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 2!"
 	STRING_EN[2158]["real_idx"] = 2158
 
 STRING_EN["index"][2159] = 2159
 STRING_EN[2159] = {}
 	STRING_EN[2159]["ID"] = 2159
 	STRING_EN[2159]["KEY"] = "M_ALLOY_UP3"
-	STRING_EN[2159]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 3!"
+	STRING_EN[2159]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 3!"
 	STRING_EN[2159]["real_idx"] = 2159
 
 STRING_EN["index"][2160] = 2160
 STRING_EN[2160] = {}
 	STRING_EN[2160]["ID"] = 2160
 	STRING_EN[2160]["KEY"] = "M_ALLOY_UP4"
-	STRING_EN[2160]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 4!"
+	STRING_EN[2160]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 4!"
 	STRING_EN[2160]["real_idx"] = 2160
 
 STRING_EN["index"][2161] = 2161
 STRING_EN[2161] = {}
 	STRING_EN[2161]["ID"] = 2161
 	STRING_EN[2161]["KEY"] = "M_ALLOY_UP5"
-	STRING_EN[2161]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 5!"
+	STRING_EN[2161]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 5!"
 	STRING_EN[2161]["real_idx"] = 2161
 
 STRING_EN["index"][2162] = 2162
 STRING_EN[2162] = {}
 	STRING_EN[2162]["ID"] = 2162
 	STRING_EN[2162]["KEY"] = "M_ALLOY_UP6"
-	STRING_EN[2162]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 6."
+	STRING_EN[2162]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 6!"
 	STRING_EN[2162]["real_idx"] = 2162
 
 STRING_EN["index"][2163] = 2163
 STRING_EN[2163] = {}
 	STRING_EN[2163]["ID"] = 2163
 	STRING_EN[2163]["KEY"] = "M_ALLOY_UP7"
-	STRING_EN[2163]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 7!"
+	STRING_EN[2163]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 7!"
 	STRING_EN[2163]["real_idx"] = 2163
 
 STRING_EN["index"][2164] = 2164
 STRING_EN[2164] = {}
 	STRING_EN[2164]["ID"] = 2164
 	STRING_EN[2164]["KEY"] = "M_ALLOY_UP8"
-	STRING_EN[2164]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output. The increase in strength is at the cost of huge consumption of resources. It is imperative to raise the smelter to level 8."
+	STRING_EN[2164]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 8!"
 	STRING_EN[2164]["real_idx"] = 2164
 
 STRING_EN["index"][2165] = 2165
 STRING_EN[2165] = {}
 	STRING_EN[2165]["ID"] = 2165
 	STRING_EN[2165]["KEY"] = "M_ALLOY_UP9"
-	STRING_EN[2165]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output. The increase in strength is at the cost of huge consumption of resources. It is imperative to raise the smelter to level 9."
+	STRING_EN[2165]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 9!"
 	STRING_EN[2165]["real_idx"] = 2165
 
 STRING_EN["index"][2166] = 2166
 STRING_EN[2166] = {}
 	STRING_EN[2166]["ID"] = 2166
 	STRING_EN[2166]["KEY"] = "M_ALLOY_UP10"
-	STRING_EN[2166]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 10!"
+	STRING_EN[2166]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 10!"
 	STRING_EN[2166]["real_idx"] = 2166
 
 STRING_EN["index"][2167] = 2167
 STRING_EN[2167] = {}
 	STRING_EN[2167]["ID"] = 2167
 	STRING_EN[2167]["KEY"] = "M_ALLOY_UP11"
-	STRING_EN[2167]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 11!"
+	STRING_EN[2167]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 11!"
 	STRING_EN[2167]["real_idx"] = 2167
 
 STRING_EN["index"][2168] = 2168
 STRING_EN[2168] = {}
 	STRING_EN[2168]["ID"] = 2168
 	STRING_EN[2168]["KEY"] = "M_ALLOY_UP12"
-	STRING_EN[2168]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 12!"
+	STRING_EN[2168]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 12!"
 	STRING_EN[2168]["real_idx"] = 2168
 
 STRING_EN["index"][2169] = 2169
 STRING_EN[2169] = {}
 	STRING_EN[2169]["ID"] = 2169
 	STRING_EN[2169]["KEY"] = "M_ALLOY_UP13"
-	STRING_EN[2169]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 13!"
+	STRING_EN[2169]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 13!"
 	STRING_EN[2169]["real_idx"] = 2169
 
 STRING_EN["index"][2170] = 2170
 STRING_EN[2170] = {}
 	STRING_EN[2170]["ID"] = 2170
 	STRING_EN[2170]["KEY"] = "M_ALLOY_UP14"
-	STRING_EN[2170]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 14!"
+	STRING_EN[2170]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 14!"
 	STRING_EN[2170]["real_idx"] = 2170
 
 STRING_EN["index"][2171] = 2171
 STRING_EN[2171] = {}
 	STRING_EN[2171]["ID"] = 2171
 	STRING_EN[2171]["KEY"] = "M_ALLOY_UP15"
-	STRING_EN[2171]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output. The increase in strength is at the cost of huge consumption of resources. It is imperative to raise the smelter to level 15!"
+	STRING_EN[2171]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 15!"
 	STRING_EN[2171]["real_idx"] = 2171
 
 STRING_EN["index"][2172] = 2172
 STRING_EN[2172] = {}
 	STRING_EN[2172]["ID"] = 2172
 	STRING_EN[2172]["KEY"] = "M_ALLOY_UP16"
-	STRING_EN[2172]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to 16!"
+	STRING_EN[2172]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 16!"
 	STRING_EN[2172]["real_idx"] = 2172
 
 STRING_EN["index"][2173] = 2173
 STRING_EN[2173] = {}
 	STRING_EN[2173]["ID"] = 2173
 	STRING_EN[2173]["KEY"] = "M_ALLOY_UP17"
-	STRING_EN[2173]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 17!"
+	STRING_EN[2173]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 17!"
 	STRING_EN[2173]["real_idx"] = 2173
 
 STRING_EN["index"][2174] = 2174
 STRING_EN[2174] = {}
 	STRING_EN[2174]["ID"] = 2174
 	STRING_EN[2174]["KEY"] = "M_ALLOY_UP18"
-	STRING_EN[2174]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to 18!"
+	STRING_EN[2174]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 18!"
 	STRING_EN[2174]["real_idx"] = 2174
 
 STRING_EN["index"][2175] = 2175
 STRING_EN[2175] = {}
 	STRING_EN[2175]["ID"] = 2175
 	STRING_EN[2175]["KEY"] = "M_ALLOY_UP19"
-	STRING_EN[2175]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 19!"
+	STRING_EN[2175]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 19!"
 	STRING_EN[2175]["real_idx"] = 2175
 
 STRING_EN["index"][2176] = 2176
 STRING_EN[2176] = {}
 	STRING_EN[2176]["ID"] = 2176
 	STRING_EN[2176]["KEY"] = "M_ALLOY_UP20"
-	STRING_EN[2176]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output. The increase in strength is at the cost of huge consumption of resources. It is imperative to raise the smelter to level 20."
+	STRING_EN[2176]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 20!"
 	STRING_EN[2176]["real_idx"] = 2176
 
 STRING_EN["index"][2177] = 2177
 STRING_EN[2177] = {}
 	STRING_EN[2177]["ID"] = 2177
 	STRING_EN[2177]["KEY"] = "M_ALLOY_UP21"
-	STRING_EN[2177]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 21!"
+	STRING_EN[2177]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 21!"
 	STRING_EN[2177]["real_idx"] = 2177
 
 STRING_EN["index"][2178] = 2178
 STRING_EN[2178] = {}
 	STRING_EN[2178]["ID"] = 2178
 	STRING_EN[2178]["KEY"] = "M_ALLOY_UP22"
-	STRING_EN[2178]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to 22!"
+	STRING_EN[2178]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 22!"
 	STRING_EN[2178]["real_idx"] = 2178
 
 STRING_EN["index"][2179] = 2179
 STRING_EN[2179] = {}
 	STRING_EN[2179]["ID"] = 2179
 	STRING_EN[2179]["KEY"] = "M_ALLOY_UP23"
-	STRING_EN[2179]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 23!"
+	STRING_EN[2179]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 23!"
 	STRING_EN[2179]["real_idx"] = 2179
 
 STRING_EN["index"][2180] = 2180
 STRING_EN[2180] = {}
 	STRING_EN[2180]["ID"] = 2180
 	STRING_EN[2180]["KEY"] = "M_ALLOY_UP24"
-	STRING_EN[2180]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 24!"
+	STRING_EN[2180]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 24!"
 	STRING_EN[2180]["real_idx"] = 2180
 
 STRING_EN["index"][2181] = 2181
 STRING_EN[2181] = {}
 	STRING_EN[2181]["ID"] = 2181
 	STRING_EN[2181]["KEY"] = "M_ALLOY_UP25"
-	STRING_EN[2181]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to 25!"
+	STRING_EN[2181]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 25!"
 	STRING_EN[2181]["real_idx"] = 2181
 
 STRING_EN["index"][2182] = 2182
 STRING_EN[2182] = {}
 	STRING_EN[2182]["ID"] = 2182
 	STRING_EN[2182]["KEY"] = "M_ALLOY_UP26"
-	STRING_EN[2182]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 26!"
+	STRING_EN[2182]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 26!"
 	STRING_EN[2182]["real_idx"] = 2182
 
 STRING_EN["index"][2183] = 2183
 STRING_EN[2183] = {}
 	STRING_EN[2183]["ID"] = 2183
 	STRING_EN[2183]["KEY"] = "M_ALLOY_UP27"
-	STRING_EN[2183]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output. The increase in strength is at the cost of huge consumption of resources. It is imperative to raise the smelter to level 27."
+	STRING_EN[2183]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 27!"
 	STRING_EN[2183]["real_idx"] = 2183
 
 STRING_EN["index"][2184] = 2184
 STRING_EN[2184] = {}
 	STRING_EN[2184]["ID"] = 2184
 	STRING_EN[2184]["KEY"] = "M_ALLOY_UP28"
-	STRING_EN[2184]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 28!"
+	STRING_EN[2184]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 28!"
 	STRING_EN[2184]["real_idx"] = 2184
 
 STRING_EN["index"][2185] = 2185
 STRING_EN[2185] = {}
 	STRING_EN[2185]["ID"] = 2185
 	STRING_EN[2185]["KEY"] = "M_ALLOY_UP29"
-	STRING_EN[2185]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 29!"
+	STRING_EN[2185]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 29!"
 	STRING_EN[2185]["real_idx"] = 2185
 
 STRING_EN["index"][2186] = 2186
 STRING_EN[2186] = {}
 	STRING_EN[2186]["ID"] = 2186
 	STRING_EN[2186]["KEY"] = "M_ALLOY_UP30"
-	STRING_EN[2186]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 30!"
+	STRING_EN[2186]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 30!"
 	STRING_EN[2186]["real_idx"] = 2186
 
 STRING_EN["index"][2187] = 2187
 STRING_EN[2187] = {}
 	STRING_EN[2187]["ID"] = 2187
 	STRING_EN[2187]["KEY"] = "M_ALLOY_UP31"
-	STRING_EN[2187]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output. The increase in strength is at the cost of huge consumption of resources. It is imperative to raise the smelter to level 31!"
+	STRING_EN[2187]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 31!"
 	STRING_EN[2187]["real_idx"] = 2187
 
 STRING_EN["index"][2188] = 2188
 STRING_EN[2188] = {}
 	STRING_EN[2188]["ID"] = 2188
 	STRING_EN[2188]["KEY"] = "M_ALLOY_UP32"
-	STRING_EN[2188]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 32!"
+	STRING_EN[2188]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 32!"
 	STRING_EN[2188]["real_idx"] = 2188
 
 STRING_EN["index"][2189] = 2189
 STRING_EN[2189] = {}
 	STRING_EN[2189]["ID"] = 2189
 	STRING_EN[2189]["KEY"] = "M_ALLOY_UP33"
-	STRING_EN[2189]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 33!"
+	STRING_EN[2189]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 33!"
 	STRING_EN[2189]["real_idx"] = 2189
 
 STRING_EN["index"][2190] = 2190
 STRING_EN[2190] = {}
 	STRING_EN[2190]["ID"] = 2190
 	STRING_EN[2190]["KEY"] = "M_ALLOY_UP34"
-	STRING_EN[2190]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 34!"
+	STRING_EN[2190]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 34!"
 	STRING_EN[2190]["real_idx"] = 2190
 
 STRING_EN["index"][2191] = 2191
 STRING_EN[2191] = {}
 	STRING_EN[2191]["ID"] = 2191
 	STRING_EN[2191]["KEY"] = "M_ALLOY_UP35"
-	STRING_EN[2191]["VALUE"] = "The smelter regularly produces alloy ore， the higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 35!"
+	STRING_EN[2191]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 35!"
 	STRING_EN[2191]["real_idx"] = 2191
 
 STRING_EN["index"][2192] = 2192
 STRING_EN[2192] = {}
 	STRING_EN[2192]["ID"] = 2192
 	STRING_EN[2192]["KEY"] = "M_ALLOY_UP36"
-	STRING_EN[2192]["VALUE"] = "The smelter regularly produces alloy ore， the higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to 36!"
+	STRING_EN[2192]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 36!"
 	STRING_EN[2192]["real_idx"] = 2192
 
 STRING_EN["index"][2193] = 2193
 STRING_EN[2193] = {}
 	STRING_EN[2193]["ID"] = 2193
 	STRING_EN[2193]["KEY"] = "M_ALLOY_UP37"
-	STRING_EN[2193]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 37!"
+	STRING_EN[2193]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 37!"
 	STRING_EN[2193]["real_idx"] = 2193
 
 STRING_EN["index"][2194] = 2194
 STRING_EN[2194] = {}
 	STRING_EN[2194]["ID"] = 2194
 	STRING_EN[2194]["KEY"] = "M_ALLOY_UP38"
-	STRING_EN[2194]["VALUE"] = "The smelter regularly produces alloy ore， the higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to 38!"
+	STRING_EN[2194]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 38!"
 	STRING_EN[2194]["real_idx"] = 2194
 
 STRING_EN["index"][2195] = 2195
 STRING_EN[2195] = {}
 	STRING_EN[2195]["ID"] = 2195
 	STRING_EN[2195]["KEY"] = "M_ALLOY_UP39"
-	STRING_EN[2195]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 39!"
+	STRING_EN[2195]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 39!"
 	STRING_EN[2195]["real_idx"] = 2195
 
 STRING_EN["index"][2196] = 2196
 STRING_EN[2196] = {}
 	STRING_EN[2196]["ID"] = 2196
 	STRING_EN[2196]["KEY"] = "M_ALLOY_UP40"
-	STRING_EN[2196]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 40!"
+	STRING_EN[2196]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 40!"
 	STRING_EN[2196]["real_idx"] = 2196
 
 STRING_EN["index"][2197] = 2197
 STRING_EN[2197] = {}
 	STRING_EN[2197]["ID"] = 2197
 	STRING_EN[2197]["KEY"] = "M_ALLOY_UP41"
-	STRING_EN[2197]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output. The increase in strength is at the cost of huge consumption of resources. It is imperative to raise the smelter to 41."
+	STRING_EN[2197]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 41!"
 	STRING_EN[2197]["real_idx"] = 2197
 
 STRING_EN["index"][2198] = 2198
 STRING_EN[2198] = {}
 	STRING_EN[2198]["ID"] = 2198
 	STRING_EN[2198]["KEY"] = "M_ALLOY_UP42"
-	STRING_EN[2198]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output. The increase in strength is at the cost of huge consumption of resources. It is imperative to raise the smelter to level 42!"
+	STRING_EN[2198]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 42!"
 	STRING_EN[2198]["real_idx"] = 2198
 
 STRING_EN["index"][2199] = 2199
 STRING_EN[2199] = {}
 	STRING_EN[2199]["ID"] = 2199
 	STRING_EN[2199]["KEY"] = "M_ALLOY_UP43"
-	STRING_EN[2199]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 43!"
+	STRING_EN[2199]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 43!"
 	STRING_EN[2199]["real_idx"] = 2199
 
 STRING_EN["index"][2200] = 2200
 STRING_EN[2200] = {}
 	STRING_EN[2200]["ID"] = 2200
 	STRING_EN[2200]["KEY"] = "M_ALLOY_UP44"
-	STRING_EN[2200]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output. The increase in strength is at the cost of huge consumption of resources. It is imperative to raise the smelter to level 44!"
+	STRING_EN[2200]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 44!"
 	STRING_EN[2200]["real_idx"] = 2200
 
 STRING_EN["index"][2201] = 2201
 STRING_EN[2201] = {}
 	STRING_EN[2201]["ID"] = 2201
 	STRING_EN[2201]["KEY"] = "M_ALLOY_UP45"
-	STRING_EN[2201]["VALUE"] = "The smelter regularly produces alloy ore. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the smelter to level 45!"
+	STRING_EN[2201]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Smeltery to level 45!"
 	STRING_EN[2201]["real_idx"] = 2201
 
 STRING_EN["index"][2202] = 2202
 STRING_EN[2202] = {}
 	STRING_EN[2202]["ID"] = 2202
 	STRING_EN[2202]["KEY"] = "M_CRYSTAL_UP2"
-	STRING_EN[2202]["VALUE"] = "The crystal mine produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 2!"
+	STRING_EN[2202]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 2!"
 	STRING_EN[2202]["real_idx"] = 2202
 
 STRING_EN["index"][2203] = 2203
 STRING_EN[2203] = {}
 	STRING_EN[2203]["ID"] = 2203
 	STRING_EN[2203]["KEY"] = "M_CRYSTAL_UP3"
-	STRING_EN[2203]["VALUE"] = "Crystal ore produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 3!"
+	STRING_EN[2203]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 3!"
 	STRING_EN[2203]["real_idx"] = 2203
 
 STRING_EN["index"][2204] = 2204
 STRING_EN[2204] = {}
 	STRING_EN[2204]["ID"] = 2204
 	STRING_EN[2204]["KEY"] = "M_CRYSTAL_UP4"
-	STRING_EN[2204]["VALUE"] = "The crystal mine produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 4!"
+	STRING_EN[2204]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 4!"
 	STRING_EN[2204]["real_idx"] = 2204
 
 STRING_EN["index"][2205] = 2205
 STRING_EN[2205] = {}
 	STRING_EN[2205]["ID"] = 2205
 	STRING_EN[2205]["KEY"] = "M_CRYSTAL_UP5"
-	STRING_EN[2205]["VALUE"] = "The crystal mine produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 5!"
+	STRING_EN[2205]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 5!"
 	STRING_EN[2205]["real_idx"] = 2205
 
 STRING_EN["index"][2206] = 2206
 STRING_EN[2206] = {}
 	STRING_EN[2206]["ID"] = 2206
 	STRING_EN[2206]["KEY"] = "M_CRYSTAL_UP6"
-	STRING_EN[2206]["VALUE"] = "Crystal ore produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 6!"
+	STRING_EN[2206]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 6!"
 	STRING_EN[2206]["real_idx"] = 2206
 
 STRING_EN["index"][2207] = 2207
 STRING_EN[2207] = {}
 	STRING_EN[2207]["ID"] = 2207
 	STRING_EN[2207]["KEY"] = "M_CRYSTAL_UP7"
-	STRING_EN[2207]["VALUE"] = "The crystal mine produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 7!"
+	STRING_EN[2207]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 7!"
 	STRING_EN[2207]["real_idx"] = 2207
 
 STRING_EN["index"][2208] = 2208
 STRING_EN[2208] = {}
 	STRING_EN[2208]["ID"] = 2208
 	STRING_EN[2208]["KEY"] = "M_CRYSTAL_UP8"
-	STRING_EN[2208]["VALUE"] = "The crystal mine produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 8!"
+	STRING_EN[2208]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 8!"
 	STRING_EN[2208]["real_idx"] = 2208
 
 STRING_EN["index"][2209] = 2209
 STRING_EN[2209] = {}
 	STRING_EN[2209]["ID"] = 2209
 	STRING_EN[2209]["KEY"] = "M_CRYSTAL_UP9"
-	STRING_EN[2209]["VALUE"] = "The crystal mine produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 9!"
+	STRING_EN[2209]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 9!"
 	STRING_EN[2209]["real_idx"] = 2209
 
 STRING_EN["index"][2210] = 2210
 STRING_EN[2210] = {}
 	STRING_EN[2210]["ID"] = 2210
 	STRING_EN[2210]["KEY"] = "M_CRYSTAL_UP10"
-	STRING_EN[2210]["VALUE"] = "Crystal ore produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 10!"
+	STRING_EN[2210]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 10!"
 	STRING_EN[2210]["real_idx"] = 2210
 
 STRING_EN["index"][2211] = 2211
 STRING_EN[2211] = {}
 	STRING_EN[2211]["ID"] = 2211
 	STRING_EN[2211]["KEY"] = "M_CRYSTAL_UP11"
-	STRING_EN[2211]["VALUE"] = "The crystal mine produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to 11!"
+	STRING_EN[2211]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 11!"
 	STRING_EN[2211]["real_idx"] = 2211
 
 STRING_EN["index"][2212] = 2212
 STRING_EN[2212] = {}
 	STRING_EN[2212]["ID"] = 2212
 	STRING_EN[2212]["KEY"] = "M_CRYSTAL_UP12"
-	STRING_EN[2212]["VALUE"] = "The crystal mine produces crystals at regular intervals. The higher the grade， the more the output. The increase in strength is at the cost of huge consumption of resources. It is imperative to raise the processing plant to level 12!"
+	STRING_EN[2212]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 12!"
 	STRING_EN[2212]["real_idx"] = 2212
 
 STRING_EN["index"][2213] = 2213
 STRING_EN[2213] = {}
 	STRING_EN[2213]["ID"] = 2213
 	STRING_EN[2213]["KEY"] = "M_CRYSTAL_UP13"
-	STRING_EN[2213]["VALUE"] = "The crystal mine produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 13!"
+	STRING_EN[2213]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 13!"
 	STRING_EN[2213]["real_idx"] = 2213
 
 STRING_EN["index"][2214] = 2214
 STRING_EN[2214] = {}
 	STRING_EN[2214]["ID"] = 2214
 	STRING_EN[2214]["KEY"] = "M_CRYSTAL_UP14"
-	STRING_EN[2214]["VALUE"] = "Crystal ore produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 14!"
+	STRING_EN[2214]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 14!"
 	STRING_EN[2214]["real_idx"] = 2214
 
 STRING_EN["index"][2215] = 2215
 STRING_EN[2215] = {}
 	STRING_EN[2215]["ID"] = 2215
 	STRING_EN[2215]["KEY"] = "M_CRYSTAL_UP15"
-	STRING_EN[2215]["VALUE"] = "Crystal ore produces crystals at regular intervals. The higher the grade， the more the output. The increase in strength is at the cost of huge consumption of resources. It is imperative to raise the processing plant to level 15!"
+	STRING_EN[2215]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 15!"
 	STRING_EN[2215]["real_idx"] = 2215
 
 STRING_EN["index"][2216] = 2216
 STRING_EN[2216] = {}
 	STRING_EN[2216]["ID"] = 2216
 	STRING_EN[2216]["KEY"] = "M_CRYSTAL_UP16"
-	STRING_EN[2216]["VALUE"] = "The crystal mine produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to 16!"
+	STRING_EN[2216]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 16!"
 	STRING_EN[2216]["real_idx"] = 2216
 
 STRING_EN["index"][2217] = 2217
 STRING_EN[2217] = {}
 	STRING_EN[2217]["ID"] = 2217
 	STRING_EN[2217]["KEY"] = "M_CRYSTAL_UP17"
-	STRING_EN[2217]["VALUE"] = "The crystal mine produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 17!"
+	STRING_EN[2217]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 17!"
 	STRING_EN[2217]["real_idx"] = 2217
 
 STRING_EN["index"][2218] = 2218
 STRING_EN[2218] = {}
 	STRING_EN[2218]["ID"] = 2218
 	STRING_EN[2218]["KEY"] = "M_CRYSTAL_UP18"
-	STRING_EN[2218]["VALUE"] = "The crystal mine produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to 18!"
+	STRING_EN[2218]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 18!"
 	STRING_EN[2218]["real_idx"] = 2218
 
 STRING_EN["index"][2219] = 2219
 STRING_EN[2219] = {}
 	STRING_EN[2219]["ID"] = 2219
 	STRING_EN[2219]["KEY"] = "M_CRYSTAL_UP19"
-	STRING_EN[2219]["VALUE"] = "Crystal ore produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 19!"
+	STRING_EN[2219]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 19!"
 	STRING_EN[2219]["real_idx"] = 2219
 
 STRING_EN["index"][2220] = 2220
 STRING_EN[2220] = {}
 	STRING_EN[2220]["ID"] = 2220
 	STRING_EN[2220]["KEY"] = "M_CRYSTAL_UP20"
-	STRING_EN[2220]["VALUE"] = "Crystal ore produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 20!"
+	STRING_EN[2220]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 20!"
 	STRING_EN[2220]["real_idx"] = 2220
 
 STRING_EN["index"][2221] = 2221
 STRING_EN[2221] = {}
 	STRING_EN[2221]["ID"] = 2221
 	STRING_EN[2221]["KEY"] = "M_CRYSTAL_UP21"
-	STRING_EN[2221]["VALUE"] = "The crystal mine produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 21!"
+	STRING_EN[2221]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 21!"
 	STRING_EN[2221]["real_idx"] = 2221
 
 STRING_EN["index"][2222] = 2222
 STRING_EN[2222] = {}
 	STRING_EN[2222]["ID"] = 2222
 	STRING_EN[2222]["KEY"] = "M_CRYSTAL_UP22"
-	STRING_EN[2222]["VALUE"] = "Crystal ore produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to 22!"
+	STRING_EN[2222]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 22!"
 	STRING_EN[2222]["real_idx"] = 2222
 
 STRING_EN["index"][2223] = 2223
 STRING_EN[2223] = {}
 	STRING_EN[2223]["ID"] = 2223
 	STRING_EN[2223]["KEY"] = "M_CRYSTAL_UP23"
-	STRING_EN[2223]["VALUE"] = "Crystal ore produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 23!"
+	STRING_EN[2223]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 23!"
 	STRING_EN[2223]["real_idx"] = 2223
 
 STRING_EN["index"][2224] = 2224
 STRING_EN[2224] = {}
 	STRING_EN[2224]["ID"] = 2224
 	STRING_EN[2224]["KEY"] = "M_CRYSTAL_UP24"
-	STRING_EN[2224]["VALUE"] = "The crystal mine produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 24!"
+	STRING_EN[2224]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 24!"
 	STRING_EN[2224]["real_idx"] = 2224
 
 STRING_EN["index"][2225] = 2225
 STRING_EN[2225] = {}
 	STRING_EN[2225]["ID"] = 2225
 	STRING_EN[2225]["KEY"] = "M_CRYSTAL_UP25"
-	STRING_EN[2225]["VALUE"] = "Crystal ore produces crystals at regular intervals. The higher the grade， the more the output. The increase in strength is at the cost of huge consumption of resources. It is imperative to raise the processing plant to level 25!"
+	STRING_EN[2225]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 25!"
 	STRING_EN[2225]["real_idx"] = 2225
 
 STRING_EN["index"][2226] = 2226
 STRING_EN[2226] = {}
 	STRING_EN[2226]["ID"] = 2226
 	STRING_EN[2226]["KEY"] = "M_CRYSTAL_UP26"
-	STRING_EN[2226]["VALUE"] = "Crystal ore produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to 26!"
+	STRING_EN[2226]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 26!"
 	STRING_EN[2226]["real_idx"] = 2226
 
 STRING_EN["index"][2227] = 2227
 STRING_EN[2227] = {}
 	STRING_EN[2227]["ID"] = 2227
 	STRING_EN[2227]["KEY"] = "M_CRYSTAL_UP27"
-	STRING_EN[2227]["VALUE"] = "The crystal mine produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 27!"
+	STRING_EN[2227]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 27!"
 	STRING_EN[2227]["real_idx"] = 2227
 
 STRING_EN["index"][2228] = 2228
 STRING_EN[2228] = {}
 	STRING_EN[2228]["ID"] = 2228
 	STRING_EN[2228]["KEY"] = "M_CRYSTAL_UP28"
-	STRING_EN[2228]["VALUE"] = "Crystal ore produces crystals at regular intervals. The higher the grade， the more the output. The increase in strength is at the cost of huge consumption of resources. It is imperative to raise the processing plant to level 28!"
+	STRING_EN[2228]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 28!"
 	STRING_EN[2228]["real_idx"] = 2228
 
 STRING_EN["index"][2229] = 2229
 STRING_EN[2229] = {}
 	STRING_EN[2229]["ID"] = 2229
 	STRING_EN[2229]["KEY"] = "M_CRYSTAL_UP29"
-	STRING_EN[2229]["VALUE"] = "Crystal ore produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 29!"
+	STRING_EN[2229]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 29!"
 	STRING_EN[2229]["real_idx"] = 2229
 
 STRING_EN["index"][2230] = 2230
 STRING_EN[2230] = {}
 	STRING_EN[2230]["ID"] = 2230
 	STRING_EN[2230]["KEY"] = "M_CRYSTAL_UP30"
-	STRING_EN[2230]["VALUE"] = "The crystal mine produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 30!"
+	STRING_EN[2230]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 30!"
 	STRING_EN[2230]["real_idx"] = 2230
 
 STRING_EN["index"][2231] = 2231
 STRING_EN[2231] = {}
 	STRING_EN[2231]["ID"] = 2231
 	STRING_EN[2231]["KEY"] = "M_CRYSTAL_UP31"
-	STRING_EN[2231]["VALUE"] = "Crystal ore produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to 31!"
+	STRING_EN[2231]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 31!"
 	STRING_EN[2231]["real_idx"] = 2231
 
 STRING_EN["index"][2232] = 2232
 STRING_EN[2232] = {}
 	STRING_EN[2232]["ID"] = 2232
 	STRING_EN[2232]["KEY"] = "M_CRYSTAL_UP32"
-	STRING_EN[2232]["VALUE"] = "The crystal mine produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 32!"
+	STRING_EN[2232]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 32!"
 	STRING_EN[2232]["real_idx"] = 2232
 
 STRING_EN["index"][2233] = 2233
 STRING_EN[2233] = {}
 	STRING_EN[2233]["ID"] = 2233
 	STRING_EN[2233]["KEY"] = "M_CRYSTAL_UP33"
-	STRING_EN[2233]["VALUE"] = "Crystal ore produces crystals at regular intervals. The higher the grade， the more the output. The increase in strength is at the cost of huge consumption of resources. It is imperative to raise the processing plant to level 33!"
+	STRING_EN[2233]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 33!"
 	STRING_EN[2233]["real_idx"] = 2233
 
 STRING_EN["index"][2234] = 2234
 STRING_EN[2234] = {}
 	STRING_EN[2234]["ID"] = 2234
 	STRING_EN[2234]["KEY"] = "M_CRYSTAL_UP34"
-	STRING_EN[2234]["VALUE"] = "The crystal mine produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 34!"
+	STRING_EN[2234]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 34!"
 	STRING_EN[2234]["real_idx"] = 2234
 
 STRING_EN["index"][2235] = 2235
 STRING_EN[2235] = {}
 	STRING_EN[2235]["ID"] = 2235
 	STRING_EN[2235]["KEY"] = "M_CRYSTAL_UP35"
-	STRING_EN[2235]["VALUE"] = "The crystal mine produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 35!"
+	STRING_EN[2235]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 35!"
 	STRING_EN[2235]["real_idx"] = 2235
 
 STRING_EN["index"][2236] = 2236
 STRING_EN[2236] = {}
 	STRING_EN[2236]["ID"] = 2236
 	STRING_EN[2236]["KEY"] = "M_CRYSTAL_UP36"
-	STRING_EN[2236]["VALUE"] = "Crystal ore produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to 36!"
+	STRING_EN[2236]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 36!"
 	STRING_EN[2236]["real_idx"] = 2236
 
 STRING_EN["index"][2237] = 2237
 STRING_EN[2237] = {}
 	STRING_EN[2237]["ID"] = 2237
 	STRING_EN[2237]["KEY"] = "M_CRYSTAL_UP37"
-	STRING_EN[2237]["VALUE"] = "Crystal ore produces crystals at regular intervals. The higher the grade， the more the output. The increase in strength is at the cost of huge consumption of resources. It is imperative to raise the processing plant to level 37!"
+	STRING_EN[2237]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 37!"
 	STRING_EN[2237]["real_idx"] = 2237
 
 STRING_EN["index"][2238] = 2238
 STRING_EN[2238] = {}
 	STRING_EN[2238]["ID"] = 2238
 	STRING_EN[2238]["KEY"] = "M_CRYSTAL_UP38"
-	STRING_EN[2238]["VALUE"] = "Crystal ore produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to 38!"
+	STRING_EN[2238]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 38!"
 	STRING_EN[2238]["real_idx"] = 2238
 
 STRING_EN["index"][2239] = 2239
 STRING_EN[2239] = {}
 	STRING_EN[2239]["ID"] = 2239
 	STRING_EN[2239]["KEY"] = "M_CRYSTAL_UP39"
-	STRING_EN[2239]["VALUE"] = "Crystal ore produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 39!"
+	STRING_EN[2239]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 39!"
 	STRING_EN[2239]["real_idx"] = 2239
 
 STRING_EN["index"][2240] = 2240
 STRING_EN[2240] = {}
 	STRING_EN[2240]["ID"] = 2240
 	STRING_EN[2240]["KEY"] = "M_CRYSTAL_UP40"
-	STRING_EN[2240]["VALUE"] = "Crystal ore produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to 40!"
+	STRING_EN[2240]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 40!"
 	STRING_EN[2240]["real_idx"] = 2240
 
 STRING_EN["index"][2241] = 2241
 STRING_EN[2241] = {}
 	STRING_EN[2241]["ID"] = 2241
 	STRING_EN[2241]["KEY"] = "M_CRYSTAL_UP41"
-	STRING_EN[2241]["VALUE"] = "Crystal ore produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to 41!"
+	STRING_EN[2241]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 41!"
 	STRING_EN[2241]["real_idx"] = 2241
 
 STRING_EN["index"][2242] = 2242
 STRING_EN[2242] = {}
 	STRING_EN[2242]["ID"] = 2242
 	STRING_EN[2242]["KEY"] = "M_CRYSTAL_UP42"
-	STRING_EN[2242]["VALUE"] = "The crystal mine produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 42!"
+	STRING_EN[2242]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 42!"
 	STRING_EN[2242]["real_idx"] = 2242
 
 STRING_EN["index"][2243] = 2243
 STRING_EN[2243] = {}
 	STRING_EN[2243]["ID"] = 2243
 	STRING_EN[2243]["KEY"] = "M_CRYSTAL_UP43"
-	STRING_EN[2243]["VALUE"] = "The crystal mine produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 43!"
+	STRING_EN[2243]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 43!"
 	STRING_EN[2243]["real_idx"] = 2243
 
 STRING_EN["index"][2244] = 2244
 STRING_EN[2244] = {}
 	STRING_EN[2244]["ID"] = 2244
 	STRING_EN[2244]["KEY"] = "M_CRYSTAL_UP44"
-	STRING_EN[2244]["VALUE"] = "The crystal mine produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to 44!"
+	STRING_EN[2244]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 44!"
 	STRING_EN[2244]["real_idx"] = 2244
 
 STRING_EN["index"][2245] = 2245
 STRING_EN[2245] = {}
 	STRING_EN[2245]["ID"] = 2245
 	STRING_EN[2245]["KEY"] = "M_CRYSTAL_UP45"
-	STRING_EN[2245]["VALUE"] = "The crystal mine produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imperative to raise the processing plant to level 45!"
+	STRING_EN[2245]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Factory to level 45!"
 	STRING_EN[2245]["real_idx"] = 2245
 
 STRING_EN["index"][2246] = 2246
 STRING_EN[2246] = {}
 	STRING_EN[2246]["ID"] = 2246
 	STRING_EN[2246]["KEY"] = "M_RESOURCE_UP2"
-	STRING_EN[2246]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 2!"
+	STRING_EN[2246]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 2!"
 	STRING_EN[2246]["real_idx"] = 2246
 
 STRING_EN["index"][2247] = 2247
 STRING_EN[2247] = {}
 	STRING_EN[2247]["ID"] = 2247
 	STRING_EN[2247]["KEY"] = "M_RESOURCE_UP3"
-	STRING_EN[2247]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 3!"
+	STRING_EN[2247]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 3!"
 	STRING_EN[2247]["real_idx"] = 2247
 
 STRING_EN["index"][2248] = 2248
 STRING_EN[2248] = {}
 	STRING_EN[2248]["ID"] = 2248
 	STRING_EN[2248]["KEY"] = "M_RESOURCE_UP4"
-	STRING_EN[2248]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 4!"
+	STRING_EN[2248]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 4!"
 	STRING_EN[2248]["real_idx"] = 2248
 
 STRING_EN["index"][2249] = 2249
 STRING_EN[2249] = {}
 	STRING_EN[2249]["ID"] = 2249
 	STRING_EN[2249]["KEY"] = "M_RESOURCE_UP5"
-	STRING_EN[2249]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 5!"
+	STRING_EN[2249]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 5!"
 	STRING_EN[2249]["real_idx"] = 2249
 
 STRING_EN["index"][2250] = 2250
 STRING_EN[2250] = {}
 	STRING_EN[2250]["ID"] = 2250
 	STRING_EN[2250]["KEY"] = "M_RESOURCE_UP6"
-	STRING_EN[2250]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 6!"
+	STRING_EN[2250]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 6!"
 	STRING_EN[2250]["real_idx"] = 2250
 
 STRING_EN["index"][2251] = 2251
 STRING_EN[2251] = {}
 	STRING_EN[2251]["ID"] = 2251
 	STRING_EN[2251]["KEY"] = "M_RESOURCE_UP7"
-	STRING_EN[2251]["VALUE"] = "The energy station regularly produces energy. The higher the level， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 7!"
+	STRING_EN[2251]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 7!"
 	STRING_EN[2251]["real_idx"] = 2251
 
 STRING_EN["index"][2252] = 2252
 STRING_EN[2252] = {}
 	STRING_EN[2252]["ID"] = 2252
 	STRING_EN[2252]["KEY"] = "M_RESOURCE_UP8"
-	STRING_EN[2252]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 8!"
+	STRING_EN[2252]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 8!"
 	STRING_EN[2252]["real_idx"] = 2252
 
 STRING_EN["index"][2253] = 2253
 STRING_EN[2253] = {}
 	STRING_EN[2253]["ID"] = 2253
 	STRING_EN[2253]["KEY"] = "M_RESOURCE_UP9"
-	STRING_EN[2253]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 9!"
+	STRING_EN[2253]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 9!"
 	STRING_EN[2253]["real_idx"] = 2253
 
 STRING_EN["index"][2254] = 2254
 STRING_EN[2254] = {}
 	STRING_EN[2254]["ID"] = 2254
 	STRING_EN[2254]["KEY"] = "M_RESOURCE_UP10"
-	STRING_EN[2254]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 10!"
+	STRING_EN[2254]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 10!"
 	STRING_EN[2254]["real_idx"] = 2254
 
 STRING_EN["index"][2255] = 2255
 STRING_EN[2255] = {}
 	STRING_EN[2255]["ID"] = 2255
 	STRING_EN[2255]["KEY"] = "M_RESOURCE_UP11"
-	STRING_EN[2255]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 11!"
+	STRING_EN[2255]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 11!"
 	STRING_EN[2255]["real_idx"] = 2255
 
 STRING_EN["index"][2256] = 2256
 STRING_EN[2256] = {}
 	STRING_EN[2256]["ID"] = 2256
 	STRING_EN[2256]["KEY"] = "M_RESOURCE_UP12"
-	STRING_EN[2256]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 12!"
+	STRING_EN[2256]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 12!"
 	STRING_EN[2256]["real_idx"] = 2256
 
 STRING_EN["index"][2257] = 2257
 STRING_EN[2257] = {}
 	STRING_EN[2257]["ID"] = 2257
 	STRING_EN[2257]["KEY"] = "M_RESOURCE_UP13"
-	STRING_EN[2257]["VALUE"] = "The energy station regularly produces energy. The higher the level， the more output. The increase in strength is the huge consumption of resources. It is imminent to raise the energy station to level 13!"
+	STRING_EN[2257]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 13!"
 	STRING_EN[2257]["real_idx"] = 2257
 
 STRING_EN["index"][2258] = 2258
 STRING_EN[2258] = {}
 	STRING_EN[2258]["ID"] = 2258
 	STRING_EN[2258]["KEY"] = "M_RESOURCE_UP14"
-	STRING_EN[2258]["VALUE"] = "The energy station regularly produces energy. The higher the level， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 14!"
+	STRING_EN[2258]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 14!"
 	STRING_EN[2258]["real_idx"] = 2258
 
 STRING_EN["index"][2259] = 2259
 STRING_EN[2259] = {}
 	STRING_EN[2259]["ID"] = 2259
 	STRING_EN[2259]["KEY"] = "M_RESOURCE_UP15"
-	STRING_EN[2259]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output. The increase in strength is at the cost of huge consumption of resources. It is imminent to raise the energy station to level 15!"
+	STRING_EN[2259]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 15!"
 	STRING_EN[2259]["real_idx"] = 2259
 
 STRING_EN["index"][2260] = 2260
 STRING_EN[2260] = {}
 	STRING_EN[2260]["ID"] = 2260
 	STRING_EN[2260]["KEY"] = "M_RESOURCE_UP16"
-	STRING_EN[2260]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 16!"
+	STRING_EN[2260]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 16!"
 	STRING_EN[2260]["real_idx"] = 2260
 
 STRING_EN["index"][2261] = 2261
 STRING_EN[2261] = {}
 	STRING_EN[2261]["ID"] = 2261
 	STRING_EN[2261]["KEY"] = "M_RESOURCE_UP17"
-	STRING_EN[2261]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 17!"
+	STRING_EN[2261]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 17!"
 	STRING_EN[2261]["real_idx"] = 2261
 
 STRING_EN["index"][2262] = 2262
 STRING_EN[2262] = {}
 	STRING_EN[2262]["ID"] = 2262
 	STRING_EN[2262]["KEY"] = "M_RESOURCE_UP18"
-	STRING_EN[2262]["VALUE"] = "The energy station regularly produces energy. The higher the level， the more output. The increase in strength is at the cost of huge consumption of resources. It is imminent to raise the energy station to level 18!"
+	STRING_EN[2262]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 18!"
 	STRING_EN[2262]["real_idx"] = 2262
 
 STRING_EN["index"][2263] = 2263
 STRING_EN[2263] = {}
 	STRING_EN[2263]["ID"] = 2263
 	STRING_EN[2263]["KEY"] = "M_RESOURCE_UP19"
-	STRING_EN[2263]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output. The increase in strength is at the cost of huge consumption of resources. It is imminent to raise the energy station to level 19!"
+	STRING_EN[2263]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 19!"
 	STRING_EN[2263]["real_idx"] = 2263
 
 STRING_EN["index"][2264] = 2264
 STRING_EN[2264] = {}
 	STRING_EN[2264]["ID"] = 2264
 	STRING_EN[2264]["KEY"] = "M_RESOURCE_UP20"
-	STRING_EN[2264]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 20!"
+	STRING_EN[2264]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 20!"
 	STRING_EN[2264]["real_idx"] = 2264
 
 STRING_EN["index"][2265] = 2265
 STRING_EN[2265] = {}
 	STRING_EN[2265]["ID"] = 2265
 	STRING_EN[2265]["KEY"] = "M_RESOURCE_UP21"
-	STRING_EN[2265]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 21!"
+	STRING_EN[2265]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 21!"
 	STRING_EN[2265]["real_idx"] = 2265
 
 STRING_EN["index"][2266] = 2266
 STRING_EN[2266] = {}
 	STRING_EN[2266]["ID"] = 2266
 	STRING_EN[2266]["KEY"] = "M_RESOURCE_UP22"
-	STRING_EN[2266]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 22!"
+	STRING_EN[2266]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 22!"
 	STRING_EN[2266]["real_idx"] = 2266
 
 STRING_EN["index"][2267] = 2267
 STRING_EN[2267] = {}
 	STRING_EN[2267]["ID"] = 2267
 	STRING_EN[2267]["KEY"] = "M_RESOURCE_UP23"
-	STRING_EN[2267]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 23!"
+	STRING_EN[2267]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 23!"
 	STRING_EN[2267]["real_idx"] = 2267
 
 STRING_EN["index"][2268] = 2268
 STRING_EN[2268] = {}
 	STRING_EN[2268]["ID"] = 2268
 	STRING_EN[2268]["KEY"] = "M_RESOURCE_UP24"
-	STRING_EN[2268]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 24!"
+	STRING_EN[2268]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 24!"
 	STRING_EN[2268]["real_idx"] = 2268
 
 STRING_EN["index"][2269] = 2269
 STRING_EN[2269] = {}
 	STRING_EN[2269]["ID"] = 2269
 	STRING_EN[2269]["KEY"] = "M_RESOURCE_UP25"
-	STRING_EN[2269]["VALUE"] = "The energy station regularly produces energy. The higher the level， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 25!"
+	STRING_EN[2269]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 25!"
 	STRING_EN[2269]["real_idx"] = 2269
 
 STRING_EN["index"][2270] = 2270
 STRING_EN[2270] = {}
 	STRING_EN[2270]["ID"] = 2270
 	STRING_EN[2270]["KEY"] = "M_RESOURCE_UP26"
-	STRING_EN[2270]["VALUE"] = "The energy station regularly produces energy. The higher the level， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 26!"
+	STRING_EN[2270]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 26!"
 	STRING_EN[2270]["real_idx"] = 2270
 
 STRING_EN["index"][2271] = 2271
 STRING_EN[2271] = {}
 	STRING_EN[2271]["ID"] = 2271
 	STRING_EN[2271]["KEY"] = "M_RESOURCE_UP27"
-	STRING_EN[2271]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 27!"
+	STRING_EN[2271]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 27!"
 	STRING_EN[2271]["real_idx"] = 2271
 
 STRING_EN["index"][2272] = 2272
 STRING_EN[2272] = {}
 	STRING_EN[2272]["ID"] = 2272
 	STRING_EN[2272]["KEY"] = "M_RESOURCE_UP28"
-	STRING_EN[2272]["VALUE"] = "The energy station regularly produces energy. The higher the level， the more the output. The increase in strength is at the cost of huge consumption of resources. It is imminent to raise the energy station to level 28!"
+	STRING_EN[2272]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 28!"
 	STRING_EN[2272]["real_idx"] = 2272
 
 STRING_EN["index"][2273] = 2273
 STRING_EN[2273] = {}
 	STRING_EN[2273]["ID"] = 2273
 	STRING_EN[2273]["KEY"] = "M_RESOURCE_UP29"
-	STRING_EN[2273]["VALUE"] = "The energy station regularly produces energy. The higher the level， the more the output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 29!"
+	STRING_EN[2273]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 29!"
 	STRING_EN[2273]["real_idx"] = 2273
 
 STRING_EN["index"][2274] = 2274
 STRING_EN[2274] = {}
 	STRING_EN[2274]["ID"] = 2274
 	STRING_EN[2274]["KEY"] = "M_RESOURCE_UP30"
-	STRING_EN[2274]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 30!"
+	STRING_EN[2274]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 30!"
 	STRING_EN[2274]["real_idx"] = 2274
 
 STRING_EN["index"][2275] = 2275
 STRING_EN[2275] = {}
 	STRING_EN[2275]["ID"] = 2275
 	STRING_EN[2275]["KEY"] = "M_RESOURCE_UP31"
-	STRING_EN[2275]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 31!"
+	STRING_EN[2275]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 31!"
 	STRING_EN[2275]["real_idx"] = 2275
 
 STRING_EN["index"][2276] = 2276
 STRING_EN[2276] = {}
 	STRING_EN[2276]["ID"] = 2276
 	STRING_EN[2276]["KEY"] = "M_RESOURCE_UP32"
-	STRING_EN[2276]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output. The increase in strength is at the cost of huge consumption of resources. It is imminent to raise the energy station to level 32!"
+	STRING_EN[2276]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 32!"
 	STRING_EN[2276]["real_idx"] = 2276
 
 STRING_EN["index"][2277] = 2277
 STRING_EN[2277] = {}
 	STRING_EN[2277]["ID"] = 2277
 	STRING_EN[2277]["KEY"] = "M_RESOURCE_UP33"
-	STRING_EN[2277]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output. The increase in strength is at the cost of huge consumption of resources. It is imminent to raise the energy station to level 33!"
+	STRING_EN[2277]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 33!"
 	STRING_EN[2277]["real_idx"] = 2277
 
 STRING_EN["index"][2278] = 2278
 STRING_EN[2278] = {}
 	STRING_EN[2278]["ID"] = 2278
 	STRING_EN[2278]["KEY"] = "M_RESOURCE_UP34"
-	STRING_EN[2278]["VALUE"] = "The energy station regularly produces energy. The higher the level， the more output. The increase in strength is at the cost of huge consumption of resources. It is imminent to raise the energy station to level 34!"
+	STRING_EN[2278]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 34!"
 	STRING_EN[2278]["real_idx"] = 2278
 
 STRING_EN["index"][2279] = 2279
 STRING_EN[2279] = {}
 	STRING_EN[2279]["ID"] = 2279
 	STRING_EN[2279]["KEY"] = "M_RESOURCE_UP35"
-	STRING_EN[2279]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output. The increase in strength is at the cost of huge consumption of resources. It is imminent to raise the energy station to level 35!"
+	STRING_EN[2279]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 35!"
 	STRING_EN[2279]["real_idx"] = 2279
 
 STRING_EN["index"][2280] = 2280
 STRING_EN[2280] = {}
 	STRING_EN[2280]["ID"] = 2280
 	STRING_EN[2280]["KEY"] = "M_RESOURCE_UP36"
-	STRING_EN[2280]["VALUE"] = "The energy station regularly produces energy. The higher the level， the more output. The increase in strength is at the cost of huge consumption of resources. It is imminent to raise the energy station to level 36!"
+	STRING_EN[2280]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 36!"
 	STRING_EN[2280]["real_idx"] = 2280
 
 STRING_EN["index"][2281] = 2281
 STRING_EN[2281] = {}
 	STRING_EN[2281]["ID"] = 2281
 	STRING_EN[2281]["KEY"] = "M_RESOURCE_UP37"
-	STRING_EN[2281]["VALUE"] = "The energy station regularly produces energy. The higher the level， the more the output. The increase in strength is at the cost of huge consumption of resources. It is imminent to raise the energy station to level 37!"
+	STRING_EN[2281]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 37!"
 	STRING_EN[2281]["real_idx"] = 2281
 
 STRING_EN["index"][2282] = 2282
 STRING_EN[2282] = {}
 	STRING_EN[2282]["ID"] = 2282
 	STRING_EN[2282]["KEY"] = "M_RESOURCE_UP38"
-	STRING_EN[2282]["VALUE"] = "The energy station regularly produces energy. The higher the level， the more output. The increase in strength is at the cost of huge consumption of resources. It is imminent to raise the energy station to level 38!"
+	STRING_EN[2282]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 38!"
 	STRING_EN[2282]["real_idx"] = 2282
 
 STRING_EN["index"][2283] = 2283
 STRING_EN[2283] = {}
 	STRING_EN[2283]["ID"] = 2283
 	STRING_EN[2283]["KEY"] = "M_RESOURCE_UP39"
-	STRING_EN[2283]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 39!"
+	STRING_EN[2283]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 39!"
 	STRING_EN[2283]["real_idx"] = 2283
 
 STRING_EN["index"][2284] = 2284
 STRING_EN[2284] = {}
 	STRING_EN[2284]["ID"] = 2284
 	STRING_EN[2284]["KEY"] = "M_RESOURCE_UP40"
-	STRING_EN[2284]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 40!"
+	STRING_EN[2284]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 40!"
 	STRING_EN[2284]["real_idx"] = 2284
 
 STRING_EN["index"][2285] = 2285
 STRING_EN[2285] = {}
 	STRING_EN[2285]["ID"] = 2285
 	STRING_EN[2285]["KEY"] = "M_RESOURCE_UP41"
-	STRING_EN[2285]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 41!"
+	STRING_EN[2285]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 41!"
 	STRING_EN[2285]["real_idx"] = 2285
 
 STRING_EN["index"][2286] = 2286
 STRING_EN[2286] = {}
 	STRING_EN[2286]["ID"] = 2286
 	STRING_EN[2286]["KEY"] = "M_RESOURCE_UP42"
-	STRING_EN[2286]["VALUE"] = "The energy station regularly produces energy. The higher the level， the more output. The increase in strength is at the cost of huge consumption of resources. It is imminent to raise the energy station to level 42!"
+	STRING_EN[2286]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 42!"
 	STRING_EN[2286]["real_idx"] = 2286
 
 STRING_EN["index"][2287] = 2287
 STRING_EN[2287] = {}
 	STRING_EN[2287]["ID"] = 2287
 	STRING_EN[2287]["KEY"] = "M_RESOURCE_UP43"
-	STRING_EN[2287]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output. The increase in strength is at the cost of huge consumption of resources. It is imminent to raise the energy station to level 43!"
+	STRING_EN[2287]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 43!"
 	STRING_EN[2287]["real_idx"] = 2287
 
 STRING_EN["index"][2288] = 2288
 STRING_EN[2288] = {}
 	STRING_EN[2288]["ID"] = 2288
 	STRING_EN[2288]["KEY"] = "M_RESOURCE_UP44"
-	STRING_EN[2288]["VALUE"] = "The energy station regularly produces energy. The higher the level， the more output. The increase in strength is at the cost of huge consumption of resources. It is imminent to raise the energy station to level 44!"
+	STRING_EN[2288]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 44!"
 	STRING_EN[2288]["real_idx"] = 2288
 
 STRING_EN["index"][2289] = 2289
 STRING_EN[2289] = {}
 	STRING_EN[2289]["ID"] = 2289
 	STRING_EN[2289]["KEY"] = "M_RESOURCE_UP45"
-	STRING_EN[2289]["VALUE"] = "Energy stations regularly produce energy. The higher the level， the more output; the increase in strength， the cost is the huge consumption of resources， it is imminent to raise the energy station to level 45!"
+	STRING_EN[2289]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources， it is vital to upgrade the Energy Station to level 45!"
 	STRING_EN[2289]["real_idx"] = 2289
 
 STRING_EN["index"][2290] = 2290
 STRING_EN[2290] = {}
 	STRING_EN[2290]["ID"] = 2290
 	STRING_EN[2290]["KEY"] = "M_MAINCOPY_1010101"
-	STRING_EN[2290]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the planet base and regain the glory of the past!"
+	STRING_EN[2290]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Planet Base and recapture the former glory!"
 	STRING_EN[2290]["real_idx"] = 2290
 
 STRING_EN["index"][2291] = 2291
 STRING_EN[2291] = {}
 	STRING_EN[2291]["ID"] = 2291
 	STRING_EN[2291]["KEY"] = "M_MAINCOPY_1010102"
-	STRING_EN[2291]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the inside of the planet base and regain the glory of the past!"
+	STRING_EN[2291]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Interior Area of Planet Base and recapture the former glory!"
 	STRING_EN[2291]["real_idx"] = 2291
 
 STRING_EN["index"][2292] = 2292
 STRING_EN[2292] = {}
 	STRING_EN[2292]["ID"] = 2292
 	STRING_EN[2292]["KEY"] = "M_MAINCOPY_1010103"
-	STRING_EN[2292]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the periphery of the Planet Space Station to regain the glory of the past!"
+	STRING_EN[2292]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to The Rim of Planet Space Station and recapture the former glory!"
 	STRING_EN[2292]["real_idx"] = 2292
 
 STRING_EN["index"][2293] = 2293
 STRING_EN[2293] = {}
 	STRING_EN[2293]["ID"] = 2293
 	STRING_EN[2293]["KEY"] = "M_MAINCOPY_1010201"
-	STRING_EN[2293]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the inside of the Planet Space Station to regain the glory of the past!"
+	STRING_EN[2293]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Interior Area of Planet Space Station and recapture the former glory!"
 	STRING_EN[2293]["real_idx"] = 2293
 
 STRING_EN["index"][2294] = 2294
 STRING_EN[2294] = {}
 	STRING_EN[2294]["ID"] = 2294
 	STRING_EN[2294]["KEY"] = "M_MAINCOPY_1010202"
-	STRING_EN[2294]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the planet space station stronghold to regain the glory of the past!"
+	STRING_EN[2294]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Stronghold of Planet Space Station and recapture the former glory!"
 	STRING_EN[2294]["real_idx"] = 2294
 
 STRING_EN["index"][2295] = 2295
 STRING_EN[2295] = {}
 	STRING_EN[2295]["ID"] = 2295
 	STRING_EN[2295]["KEY"] = "M_MAINCOPY_1010203"
-	STRING_EN[2295]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the foggy land of the planet and regain the glory of the past!"
+	STRING_EN[2295]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Mists of the Planet and recapture the former glory!"
 	STRING_EN[2295]["real_idx"] = 2295
 
 STRING_EN["index"][2296] = 2296
 STRING_EN[2296] = {}
 	STRING_EN[2296]["ID"] = 2296
 	STRING_EN[2296]["KEY"] = "M_MAINCOPY_1010204"
-	STRING_EN[2296]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the empire scouts and regain the glory of the past!"
+	STRING_EN[2296]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Imperial Scouts Troop and recapture the former glory!"
 	STRING_EN[2296]["real_idx"] = 2296
 
 STRING_EN["index"][2297] = 2297
 STRING_EN[2297] = {}
 	STRING_EN[2297]["ID"] = 2297
 	STRING_EN[2297]["KEY"] = "M_MAINCOPY_1010301"
-	STRING_EN[2297]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the empire scouts and regain the glory of the past!"
+	STRING_EN[2297]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Stronghold of Imperial Scouts  and recapture the former glory!"
 	STRING_EN[2297]["real_idx"] = 2297
 
 STRING_EN["index"][2298] = 2298
 STRING_EN[2298] = {}
 	STRING_EN[2298]["ID"] = 2298
 	STRING_EN[2298]["KEY"] = "M_MAINCOPY_1010302"
-	STRING_EN[2298]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the elite scouts and regain the glory of the past!"
+	STRING_EN[2298]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Elite Scouts Troop and recapture the former glory!"
 	STRING_EN[2298]["real_idx"] = 2298
 
 STRING_EN["index"][2299] = 2299
 STRING_EN[2299] = {}
 	STRING_EN[2299]["ID"] = 2299
 	STRING_EN[2299]["KEY"] = "M_MAINCOPY_1010303"
-	STRING_EN[2299]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the elite scouts to regain the glory of the past!"
+	STRING_EN[2299]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Stronghold of Elite Scouts Troop and recapture the former glory!"
 	STRING_EN[2299]["real_idx"] = 2299
 
 STRING_EN["index"][2300] = 2300
 STRING_EN[2300] = {}
 	STRING_EN[2300]["ID"] = 2300
 	STRING_EN[2300]["KEY"] = "M_MAINCOPY_1010304"
-	STRING_EN[2300]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the empire scout base and regain the glory of the past!"
+	STRING_EN[2300]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Imperial Scouts Base and recapture the former glory!"
 	STRING_EN[2300]["real_idx"] = 2300
 
 STRING_EN["index"][2301] = 2301
 STRING_EN[2301] = {}
 	STRING_EN[2301]["ID"] = 2301
 	STRING_EN[2301]["KEY"] = "M_MAINCOPY_1010305"
-	STRING_EN[2301]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the captain of the empire scout fleet and regain the glory of the past!"
+	STRING_EN[2301]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Captain Fleet of Imperial Scouts  and recapture the former glory!"
 	STRING_EN[2301]["real_idx"] = 2301
 
 STRING_EN["index"][2302] = 2302
 STRING_EN[2302] = {}
 	STRING_EN[2302]["ID"] = 2302
 	STRING_EN[2302]["KEY"] = "M_MAINCOPY_2010101"
-	STRING_EN[2302]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Ruhr Planet Fortress and regain the glory of the past!"
+	STRING_EN[2302]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Fortress of Planet Ruhr and recapture the former glory!"
 	STRING_EN[2302]["real_idx"] = 2302
 
 STRING_EN["index"][2303] = 2303
 STRING_EN[2303] = {}
 	STRING_EN[2303]["ID"] = 2303
 	STRING_EN[2303]["KEY"] = "M_MAINCOPY_2010102"
-	STRING_EN[2303]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Ruhr satellite and regain the glory of the past!"
+	STRING_EN[2303]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Satellite of Ruhr and recapture the former glory!"
 	STRING_EN[2303]["real_idx"] = 2303
 
 STRING_EN["index"][2304] = 2304
 STRING_EN[2304] = {}
 	STRING_EN[2304]["ID"] = 2304
 	STRING_EN[2304]["KEY"] = "M_MAINCOPY_2010103"
-	STRING_EN[2304]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Ruhr relay station and regain the glory of the past!"
+	STRING_EN[2304]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Relay Station of Ruhr and recapture the former glory!"
 	STRING_EN[2304]["real_idx"] = 2304
 
 STRING_EN["index"][2305] = 2305
 STRING_EN[2305] = {}
 	STRING_EN[2305]["ID"] = 2305
 	STRING_EN[2305]["KEY"] = "M_MAINCOPY_2010104"
-	STRING_EN[2305]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Ruhr Outpost and regain the glory of the past!"
+	STRING_EN[2305]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Outpost of Ruhr and recapture the former glory!"
 	STRING_EN[2305]["real_idx"] = 2305
 
 STRING_EN["index"][2306] = 2306
 STRING_EN[2306] = {}
 	STRING_EN[2306]["ID"] = 2306
 	STRING_EN[2306]["KEY"] = "M_MAINCOPY_2010201"
-	STRING_EN[2306]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Ruhr Outpost patrol point to regain the glory of the past!"
+	STRING_EN[2306]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Patrol Point of Outpost Ruhr and recapture the former glory!"
 	STRING_EN[2306]["real_idx"] = 2306
 
 STRING_EN["index"][2307] = 2307
 STRING_EN[2307] = {}
 	STRING_EN[2307]["ID"] = 2307
 	STRING_EN[2307]["KEY"] = "M_MAINCOPY_2010202"
-	STRING_EN[2307]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the front post to advance the fleet and regain the glory of the past!"
+	STRING_EN[2307]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Advance Fleet of the Outpost and recapture the former glory!"
 	STRING_EN[2307]["real_idx"] = 2307
 
 STRING_EN["index"][2308] = 2308
 STRING_EN[2308] = {}
 	STRING_EN[2308]["ID"] = 2308
 	STRING_EN[2308]["KEY"] = "M_MAINCOPY_2010203"
-	STRING_EN[2308]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will drive to the front post and regain the glory of the past!"
+	STRING_EN[2308]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Stronghold of the Outpost and recapture the former glory!"
 	STRING_EN[2308]["real_idx"] = 2308
 
 STRING_EN["index"][2309] = 2309
 STRING_EN[2309] = {}
 	STRING_EN[2309]["ID"] = 2309
 	STRING_EN[2309]["KEY"] = "M_MAINCOPY_2010204"
-	STRING_EN[2309]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will drive to the base of the outpost and regain the glory of the past!"
+	STRING_EN[2309]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Outpost Base and recapture the former glory!"
 	STRING_EN[2309]["real_idx"] = 2309
 
 STRING_EN["index"][2310] = 2310
 STRING_EN[2310] = {}
 	STRING_EN[2310]["ID"] = 2310
 	STRING_EN[2310]["KEY"] = "M_MAINCOPY_2010301"
-	STRING_EN[2310]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Imperial Patrol and regain the glory of the past!"
+	STRING_EN[2310]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Imperial Patrol and recapture the former glory!"
 	STRING_EN[2310]["real_idx"] = 2310
 
 STRING_EN["index"][2311] = 2311
 STRING_EN[2311] = {}
 	STRING_EN[2311]["ID"] = 2311
 	STRING_EN[2311]["KEY"] = "M_MAINCOPY_2010302"
-	STRING_EN[2311]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the wreckage and regain the glory of the past!"
+	STRING_EN[2311]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Arthur Remains and recapture the former glory!"
 	STRING_EN[2311]["real_idx"] = 2311
 
 STRING_EN["index"][2312] = 2312
 STRING_EN[2312] = {}
 	STRING_EN[2312]["ID"] = 2312
 	STRING_EN[2312]["KEY"] = "M_MAINCOPY_2010303"
-	STRING_EN[2312]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the stars and regain the glory of the past!"
+	STRING_EN[2312]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Fallen Star of Arthur  and recapture the former glory!"
 	STRING_EN[2312]["real_idx"] = 2312
 
 STRING_EN["index"][2313] = 2313
 STRING_EN[2313] = {}
 	STRING_EN[2313]["ID"] = 2313
 	STRING_EN[2313]["KEY"] = "M_MAINCOPY_2010304"
-	STRING_EN[2313]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the place of the magnetic storm and regain the glory of the past!"
+	STRING_EN[2313]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Land of Magnetic Storm  and recapture the former glory!"
 	STRING_EN[2313]["real_idx"] = 2313
 
 STRING_EN["index"][2314] = 2314
 STRING_EN[2314] = {}
 	STRING_EN[2314]["ID"] = 2314
 	STRING_EN[2314]["KEY"] = "M_MAINCOPY_2010305"
-	STRING_EN[2314]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the wreckage of the planet and regain the glory of the past!"
+	STRING_EN[2314]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Planet Remains and recapture the former glory!"
 	STRING_EN[2314]["real_idx"] = 2314
 
 STRING_EN["index"][2315] = 2315
 STRING_EN[2315] = {}
 	STRING_EN[2315]["ID"] = 2315
 	STRING_EN[2315]["KEY"] = "M_MAINCOPY_2010306"
-	STRING_EN[2315]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the captain of the Imperial patrol fleet to regain the glory of the past!"
+	STRING_EN[2315]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Captain Fleet of Imperial Patrol  and recapture the former glory!"
 	STRING_EN[2315]["real_idx"] = 2315
 
 STRING_EN["index"][2316] = 2316
 STRING_EN[2316] = {}
 	STRING_EN[2316]["ID"] = 2316
 	STRING_EN[2316]["KEY"] = "M_MAINCOPY_2010401"
-	STRING_EN[2316]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Imperial patrol stronghold to regain the glory of the past!"
+	STRING_EN[2316]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Stronghold of Imperial Patrol and recapture the former glory!"
 	STRING_EN[2316]["real_idx"] = 2316
 
 STRING_EN["index"][2317] = 2317
 STRING_EN[2317] = {}
 	STRING_EN[2317]["ID"] = 2317
 	STRING_EN[2317]["KEY"] = "M_MAINCOPY_2010402"
-	STRING_EN[2317]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to Remlock， and regain the glory of the past!"
+	STRING_EN[2317]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Sentry of Remulus and recapture the former glory!"
 	STRING_EN[2317]["real_idx"] = 2317
 
 STRING_EN["index"][2318] = 2318
 STRING_EN[2318] = {}
 	STRING_EN[2318]["ID"] = 2318
 	STRING_EN[2318]["KEY"] = "M_MAINCOPY_2010403"
-	STRING_EN[2318]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the land of Remlow and regain the glory of the past!"
+	STRING_EN[2318]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Land of Remulus and recapture the former glory!"
 	STRING_EN[2318]["real_idx"] = 2318
 
 STRING_EN["index"][2319] = 2319
 STRING_EN[2319] = {}
 	STRING_EN[2319]["ID"] = 2319
 	STRING_EN[2319]["KEY"] = "M_MAINCOPY_2010404"
-	STRING_EN[2319]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the mark of Remlow and regain the glory of the past!"
+	STRING_EN[2319]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Crack of Remulus and recapture the former glory!"
 	STRING_EN[2319]["real_idx"] = 2319
 
 STRING_EN["index"][2320] = 2320
 STRING_EN[2320] = {}
 	STRING_EN[2320]["ID"] = 2320
 	STRING_EN[2320]["KEY"] = "M_MAINCOPY_2010405"
-	STRING_EN[2320]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the elite of the Imperial Patrol and regain the glory of the past!"
+	STRING_EN[2320]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Elite Imperial Patrol and recapture the former glory!"
 	STRING_EN[2320]["real_idx"] = 2320
 
 STRING_EN["index"][2321] = 2321
 STRING_EN[2321] = {}
 	STRING_EN[2321]["ID"] = 2321
 	STRING_EN[2321]["KEY"] = "M_MAINCOPY_2010406"
-	STRING_EN[2321]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the base of the Imperial Patrol and regain the glory of the past!"
+	STRING_EN[2321]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Imperial Patrol Base and recapture the former glory!"
 	STRING_EN[2321]["real_idx"] = 2321
 
 STRING_EN["index"][2322] = 2322
 STRING_EN[2322] = {}
 	STRING_EN[2322]["ID"] = 2322
 	STRING_EN[2322]["KEY"] = "M_MAINCOPY_2010407"
-	STRING_EN[2322]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the commander of Kenmed and regain the glory of the past!"
+	STRING_EN[2322]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Commander  Connor and recapture the former glory!"
 	STRING_EN[2322]["real_idx"] = 2322
 
 STRING_EN["index"][2323] = 2323
 STRING_EN[2323] = {}
 	STRING_EN[2323]["ID"] = 2323
 	STRING_EN[2323]["KEY"] = "M_MAINCOPY_3010101"
-	STRING_EN[2323]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Xinghai before dawn and regain the glory of the past!"
+	STRING_EN[2323]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Predawn Star-sea and recapture the former glory!"
 	STRING_EN[2323]["real_idx"] = 2323
 
 STRING_EN["index"][2324] = 2324
 STRING_EN[2324] = {}
 	STRING_EN[2324]["ID"] = 2324
 	STRING_EN[2324]["KEY"] = "M_MAINCOPY_3010102"
-	STRING_EN[2324]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the main star of Mogro to regain the glory of the past!"
+	STRING_EN[2324]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Starbase of Moglu and recapture the former glory!"
 	STRING_EN[2324]["real_idx"] = 2324
 
 STRING_EN["index"][2325] = 2325
 STRING_EN[2325] = {}
 	STRING_EN[2325]["ID"] = 2325
 	STRING_EN[2325]["KEY"] = "M_MAINCOPY_3010103"
-	STRING_EN[2325]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Mogro transition station to regain the glory of the past!"
+	STRING_EN[2325]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Transition Station of Moglu and recapture the former glory!"
 	STRING_EN[2325]["real_idx"] = 2325
 
 STRING_EN["index"][2326] = 2326
 STRING_EN[2326] = {}
 	STRING_EN[2326]["ID"] = 2326
 	STRING_EN[2326]["KEY"] = "M_MAINCOPY_3010104"
-	STRING_EN[2326]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the ruins of Mogro and regain the glory of the past!"
+	STRING_EN[2326]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Moglu Remains and recapture the former glory!"
 	STRING_EN[2326]["real_idx"] = 2326
 
 STRING_EN["index"][2327] = 2327
 STRING_EN[2327] = {}
 	STRING_EN[2327]["ID"] = 2327
 	STRING_EN[2327]["KEY"] = "M_MAINCOPY_3010105"
-	STRING_EN[2327]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Imperial Guards and regain the glory of the past!"
+	STRING_EN[2327]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Imperial Garrison and recapture the former glory!"
 	STRING_EN[2327]["real_idx"] = 2327
 
 STRING_EN["index"][2328] = 2328
 STRING_EN[2328] = {}
 	STRING_EN[2328]["ID"] = 2328
 	STRING_EN[2328]["KEY"] = "M_MAINCOPY_3010201"
-	STRING_EN[2328]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Mogro Star Cluster to regain the glory of the past!"
+	STRING_EN[2328]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Stardust of Moglu and recapture the former glory!"
 	STRING_EN[2328]["real_idx"] = 2328
 
 STRING_EN["index"][2329] = 2329
 STRING_EN[2329] = {}
 	STRING_EN[2329]["ID"] = 2329
 	STRING_EN[2329]["KEY"] = "M_MAINCOPY_3010202"
-	STRING_EN[2329]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Mogrow post and regain the glory of the past!"
+	STRING_EN[2329]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Sentry of Moglu and recapture the former glory!"
 	STRING_EN[2329]["real_idx"] = 2329
 
 STRING_EN["index"][2330] = 2330
 STRING_EN[2330] = {}
 	STRING_EN[2330]["ID"] = 2330
 	STRING_EN[2330]["KEY"] = "M_MAINCOPY_3010203"
-	STRING_EN[2330]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the land of the storm and regain the glory of the past!"
+	STRING_EN[2330]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Land of the Storm and recapture the former glory!"
 	STRING_EN[2330]["real_idx"] = 2330
 
 STRING_EN["index"][2331] = 2331
 STRING_EN[2331] = {}
 	STRING_EN[2331]["ID"] = 2331
 	STRING_EN[2331]["KEY"] = "M_MAINCOPY_3010204"
-	STRING_EN[2331]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the stars and regain the glory of the past!"
+	STRING_EN[2331]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Crack of Constellation and recapture the former glory!"
 	STRING_EN[2331]["real_idx"] = 2331
 
 STRING_EN["index"][2332] = 2332
 STRING_EN[2332] = {}
 	STRING_EN[2332]["ID"] = 2332
 	STRING_EN[2332]["KEY"] = "M_MAINCOPY_3010205"
-	STRING_EN[2332]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the empire neutron star and regain the glory of the past!"
+	STRING_EN[2332]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Imperial Neutron Star and recapture the former glory!"
 	STRING_EN[2332]["real_idx"] = 2332
 
 STRING_EN["index"][2333] = 2333
 STRING_EN[2333] = {}
 	STRING_EN[2333]["ID"] = 2333
 	STRING_EN[2333]["KEY"] = "M_MAINCOPY_3010206"
-	STRING_EN[2333]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Imperial Elite Fleet and regain the glory of the past!"
+	STRING_EN[2333]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Elite Imperial Fleet and recapture the former glory!"
 	STRING_EN[2333]["real_idx"] = 2333
 
 STRING_EN["index"][2334] = 2334
 STRING_EN[2334] = {}
 	STRING_EN[2334]["ID"] = 2334
 	STRING_EN[2334]["KEY"] = "M_MAINCOPY_3010301"
-	STRING_EN[2334]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the dark shelter and regain the glory of the past!"
+	STRING_EN[2334]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Dark Shelter and recapture the former glory!"
 	STRING_EN[2334]["real_idx"] = 2334
 
 STRING_EN["index"][2335] = 2335
 STRING_EN[2335] = {}
 	STRING_EN[2335]["ID"] = 2335
 	STRING_EN[2335]["KEY"] = "M_MAINCOPY_3010302"
-	STRING_EN[2335]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the sea of ​​fog and regain the glory of the past!"
+	STRING_EN[2335]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Mists Sea and recapture the former glory!"
 	STRING_EN[2335]["real_idx"] = 2335
 
 STRING_EN["index"][2336] = 2336
 STRING_EN[2336] = {}
 	STRING_EN[2336]["ID"] = 2336
 	STRING_EN[2336]["KEY"] = "M_MAINCOPY_3010303"
-	STRING_EN[2336]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the front line of the empire and regain the glory of the past!"
+	STRING_EN[2336]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Stronghold of Imperial Front and recapture the former glory!"
 	STRING_EN[2336]["real_idx"] = 2336
 
 STRING_EN["index"][2337] = 2337
 STRING_EN[2337] = {}
 	STRING_EN[2337]["ID"] = 2337
 	STRING_EN[2337]["KEY"] = "M_MAINCOPY_3010304"
-	STRING_EN[2337]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Death Star Cluster and regain the glory of the past!"
+	STRING_EN[2337]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Stardust of Death and recapture the former glory!"
 	STRING_EN[2337]["real_idx"] = 2337
 
 STRING_EN["index"][2338] = 2338
 STRING_EN[2338] = {}
 	STRING_EN[2338]["ID"] = 2338
 	STRING_EN[2338]["KEY"] = "M_MAINCOPY_3010305"
-	STRING_EN[2338]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the wreckage of the stars and regain the glory of the past!"
+	STRING_EN[2338]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Galaxy Remains and recapture the former glory!"
 	STRING_EN[2338]["real_idx"] = 2338
 
 STRING_EN["index"][2339] = 2339
 STRING_EN[2339] = {}
 	STRING_EN[2339]["ID"] = 2339
 	STRING_EN[2339]["KEY"] = "M_MAINCOPY_3010306"
-	STRING_EN[2339]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the front line of the Empire and regain the glory of the past!"
+	STRING_EN[2339]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Imperial Front Base and recapture the former glory!"
 	STRING_EN[2339]["real_idx"] = 2339
 
 STRING_EN["index"][2340] = 2340
 STRING_EN[2340] = {}
 	STRING_EN[2340]["ID"] = 2340
 	STRING_EN[2340]["KEY"] = "M_MAINCOPY_3010307"
-	STRING_EN[2340]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the captain of the Imperial Guards Fleet and regain the glory of the past!"
+	STRING_EN[2340]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Captain Fleet of  Imperial Garrison and recapture the former glory!"
 	STRING_EN[2340]["real_idx"] = 2340
 
 STRING_EN["index"][2341] = 2341
 STRING_EN[2341] = {}
 	STRING_EN[2341]["ID"] = 2341
 	STRING_EN[2341]["KEY"] = "M_MAINCOPY_3010401"
-	STRING_EN[2341]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Star Harbor and regain the glory of the past!"
+	STRING_EN[2341]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Wailing Starport and recapture the former glory!"
 	STRING_EN[2341]["real_idx"] = 2341
 
 STRING_EN["index"][2342] = 2342
 STRING_EN[2342] = {}
 	STRING_EN[2342]["ID"] = 2342
 	STRING_EN[2342]["KEY"] = "M_MAINCOPY_3010402"
-	STRING_EN[2342]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Alterac Road and regain the glory of the past!"
+	STRING_EN[2342]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Road of Alterac  and recapture the former glory!"
 	STRING_EN[2342]["real_idx"] = 2342
 
 STRING_EN["index"][2343] = 2343
 STRING_EN[2343] = {}
 	STRING_EN[2343]["ID"] = 2343
 	STRING_EN[2343]["KEY"] = "M_MAINCOPY_3010403"
-	STRING_EN[2343]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the foggy open space and regain the glory of the past!"
+	STRING_EN[2343]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Space of the Mists and recapture the former glory!"
 	STRING_EN[2343]["real_idx"] = 2343
 
 STRING_EN["index"][2344] = 2344
 STRING_EN[2344] = {}
 	STRING_EN[2344]["ID"] = 2344
 	STRING_EN[2344]["KEY"] = "M_MAINCOPY_3010404"
-	STRING_EN[2344]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to Alvin to catch the stars and regain the glory of the past!"
+	STRING_EN[2344]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Fallen Star Elvin and recapture the former glory!"
 	STRING_EN[2344]["real_idx"] = 2344
 
 STRING_EN["index"][2345] = 2345
 STRING_EN[2345] = {}
 	STRING_EN[2345]["ID"] = 2345
 	STRING_EN[2345]["KEY"] = "M_MAINCOPY_3010405"
-	STRING_EN[2345]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the abandoned transition station and regain the glory of the past!"
+	STRING_EN[2345]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Abandoned Transition Station and recapture the former glory!"
 	STRING_EN[2345]["real_idx"] = 2345
 
 STRING_EN["index"][2346] = 2346
 STRING_EN[2346] = {}
 	STRING_EN[2346]["ID"] = 2346
 	STRING_EN[2346]["KEY"] = "M_MAINCOPY_3010406"
-	STRING_EN[2346]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Brad Lab to regain the glory of the past!"
+	STRING_EN[2346]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Brad Lab and recapture the former glory!"
 	STRING_EN[2346]["real_idx"] = 2346
 
 STRING_EN["index"][2347] = 2347
 STRING_EN[2347] = {}
 	STRING_EN[2347]["ID"] = 2347
 	STRING_EN[2347]["KEY"] = "M_MAINCOPY_3010407"
-	STRING_EN[2347]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the land of the temple and regain the glory of the past!"
+	STRING_EN[2347]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Land of Sanctuary  and recapture the former glory!"
 	STRING_EN[2347]["real_idx"] = 2347
 
 STRING_EN["index"][2348] = 2348
 STRING_EN[2348] = {}
 	STRING_EN[2348]["ID"] = 2348
 	STRING_EN[2348]["KEY"] = "M_MAINCOPY_3010408"
-	STRING_EN[2348]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the remains of Brady and regain the glory of the past!"
+	STRING_EN[2348]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Brady Remains and recapture the former glory!"
 	STRING_EN[2348]["real_idx"] = 2348
 
 STRING_EN["index"][2349] = 2349
 STRING_EN[2349] = {}
 	STRING_EN[2349]["ID"] = 2349
 	STRING_EN[2349]["KEY"] = "M_MAINCOPY_3010501"
-	STRING_EN[2349]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Red Ridge Trail and regain the glory of the past!"
+	STRING_EN[2349]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Trail of Red Ridge  and recapture the former glory!"
 	STRING_EN[2349]["real_idx"] = 2349
 
 STRING_EN["index"][2350] = 2350
 STRING_EN[2350] = {}
 	STRING_EN[2350]["ID"] = 2350
 	STRING_EN[2350]["KEY"] = "M_MAINCOPY_3010502"
-	STRING_EN[2350]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the planet of Mestra to regain the glory of the past!"
+	STRING_EN[2350]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Planet Mestra and recapture the former glory!"
 	STRING_EN[2350]["real_idx"] = 2350
 
 STRING_EN["index"][2351] = 2351
 STRING_EN[2351] = {}
 	STRING_EN[2351]["ID"] = 2351
 	STRING_EN[2351]["KEY"] = "M_MAINCOPY_3010503"
-	STRING_EN[2351]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the land of God and regain the glory of the past!"
+	STRING_EN[2351]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Land of Oracle and recapture the former glory!"
 	STRING_EN[2351]["real_idx"] = 2351
 
 STRING_EN["index"][2352] = 2352
 STRING_EN[2352] = {}
 	STRING_EN[2352]["ID"] = 2352
 	STRING_EN[2352]["KEY"] = "M_MAINCOPY_3010504"
-	STRING_EN[2352]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Empire Observatory and regain the glory of the past!"
+	STRING_EN[2352]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Imperial Observatory and recapture the former glory!"
 	STRING_EN[2352]["real_idx"] = 2352
 
 STRING_EN["index"][2353] = 2353
 STRING_EN[2353] = {}
 	STRING_EN[2353]["ID"] = 2353
 	STRING_EN[2353]["KEY"] = "M_MAINCOPY_3010505"
-	STRING_EN[2353]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the eye of Tar and regain the glory of the past!"
+	STRING_EN[2353]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Eye of Thar and recapture the former glory!"
 	STRING_EN[2353]["real_idx"] = 2353
 
 STRING_EN["index"][2354] = 2354
 STRING_EN[2354] = {}
 	STRING_EN[2354]["ID"] = 2354
 	STRING_EN[2354]["KEY"] = "M_MAINCOPY_3010506"
-	STRING_EN[2354]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Mestre Fortress and regain the glory of the past!"
+	STRING_EN[2354]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Fortress of Mestra and recapture the former glory!"
 	STRING_EN[2354]["real_idx"] = 2354
 
 STRING_EN["index"][2355] = 2355
 STRING_EN[2355] = {}
 	STRING_EN[2355]["ID"] = 2355
 	STRING_EN[2355]["KEY"] = "M_MAINCOPY_3010507"
-	STRING_EN[2355]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the funeral black hole and regain the glory of the past!"
+	STRING_EN[2355]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Ruining Black Hole and recapture the former glory!"
 	STRING_EN[2355]["real_idx"] = 2355
 
 STRING_EN["index"][2356] = 2356
 STRING_EN[2356] = {}
 	STRING_EN[2356]["ID"] = 2356
 	STRING_EN[2356]["KEY"] = "M_MAINCOPY_3010508"
-	STRING_EN[2356]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the main star of Mestre and regain the glory of the past!"
+	STRING_EN[2356]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Starbase of Mestra and recapture the former glory!"
 	STRING_EN[2356]["real_idx"] = 2356
 
 STRING_EN["index"][2357] = 2357
 STRING_EN[2357] = {}
 	STRING_EN[2357]["ID"] = 2357
 	STRING_EN[2357]["KEY"] = "M_MAINCOPY_3010509"
-	STRING_EN[2357]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the liberation of Mestra to regain the glory of the past!"
+	STRING_EN[2357]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Liberation of Mestra and recapture the former glory!"
 	STRING_EN[2357]["real_idx"] = 2357
 
 STRING_EN["index"][2358] = 2358
 STRING_EN[2358] = {}
 	STRING_EN[2358]["ID"] = 2358
 	STRING_EN[2358]["KEY"] = "M_MAINCOPY_4010101"
-	STRING_EN[2358]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Danga Stars and regain the glory of the past!"
+	STRING_EN[2358]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Star Chakra Danga and recapture the former glory!"
 	STRING_EN[2358]["real_idx"] = 2358
 
 STRING_EN["index"][2359] = 2359
 STRING_EN[2359] = {}
 	STRING_EN[2359]["ID"] = 2359
 	STRING_EN[2359]["KEY"] = "M_MAINCOPY_4010102"
-	STRING_EN[2359]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the land of Senna and regain the glory of the past!"
+	STRING_EN[2359]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Land of Seine and recapture the former glory!"
 	STRING_EN[2359]["real_idx"] = 2359
 
 STRING_EN["index"][2360] = 2360
 STRING_EN[2360] = {}
 	STRING_EN[2360]["ID"] = 2360
 	STRING_EN[2360]["KEY"] = "M_MAINCOPY_4010103"
-	STRING_EN[2360]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the broken starry sky and regain the glory of the past!"
+	STRING_EN[2360]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Galaxy Fragment and recapture the former glory!"
 	STRING_EN[2360]["real_idx"] = 2360
 
 STRING_EN["index"][2361] = 2361
 STRING_EN[2361] = {}
 	STRING_EN[2361]["ID"] = 2361
 	STRING_EN[2361]["KEY"] = "M_MAINCOPY_4010104"
-	STRING_EN[2361]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Senna monitoring station to regain the glory of the past!"
+	STRING_EN[2361]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Observatory of Seine and recapture the former glory!"
 	STRING_EN[2361]["real_idx"] = 2361
 
 STRING_EN["index"][2362] = 2362
 STRING_EN[2362] = {}
 	STRING_EN[2362]["ID"] = 2362
 	STRING_EN[2362]["KEY"] = "M_MAINCOPY_4010105"
-	STRING_EN[2362]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Imperial Defense Fleet and regain the glory of the past!"
+	STRING_EN[2362]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Imperial Garrison and recapture the former glory!"
 	STRING_EN[2362]["real_idx"] = 2362
 
 STRING_EN["index"][2363] = 2363
 STRING_EN[2363] = {}
 	STRING_EN[2363]["ID"] = 2363
 	STRING_EN[2363]["KEY"] = "M_MAINCOPY_4010201"
-	STRING_EN[2363]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the fortress of Senna to regain the glory of the past!"
+	STRING_EN[2363]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Fortress of Seine and recapture the former glory!"
 	STRING_EN[2363]["real_idx"] = 2363
 
 STRING_EN["index"][2364] = 2364
 STRING_EN[2364] = {}
 	STRING_EN[2364]["ID"] = 2364
 	STRING_EN[2364]["KEY"] = "M_MAINCOPY_4010202"
-	STRING_EN[2364]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the meteorite zone and regain the glory of the past!"
+	STRING_EN[2364]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Meteorite Zone and recapture the former glory!"
 	STRING_EN[2364]["real_idx"] = 2364
 
 STRING_EN["index"][2365] = 2365
 STRING_EN[2365] = {}
 	STRING_EN[2365]["ID"] = 2365
 	STRING_EN[2365]["KEY"] = "M_MAINCOPY_4010203"
-	STRING_EN[2365]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the shadow wreck and regain the glory of the past!"
+	STRING_EN[2365]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Remains in the Shadow  and recapture the former glory!"
 	STRING_EN[2365]["real_idx"] = 2365
 
 STRING_EN["index"][2366] = 2366
 STRING_EN[2366] = {}
 	STRING_EN[2366]["ID"] = 2366
 	STRING_EN[2366]["KEY"] = "M_MAINCOPY_4010204"
-	STRING_EN[2366]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Star Nest in the fog and regain the glory of the past!"
+	STRING_EN[2366]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Star Nest in The Mists and recapture the former glory!"
 	STRING_EN[2366]["real_idx"] = 2366
 
 STRING_EN["index"][2367] = 2367
 STRING_EN[2367] = {}
 	STRING_EN[2367]["ID"] = 2367
 	STRING_EN[2367]["KEY"] = "M_MAINCOPY_4010205"
-	STRING_EN[2367]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Seas Space Station and regain the glory of the past!"
+	STRING_EN[2367]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Space Station Hills and recapture the former glory!"
 	STRING_EN[2367]["real_idx"] = 2367
 
 STRING_EN["index"][2368] = 2368
 STRING_EN[2368] = {}
 	STRING_EN[2368]["ID"] = 2368
 	STRING_EN[2368]["KEY"] = "M_MAINCOPY_4010206"
-	STRING_EN[2368]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to break through the land of Senna and regain the glory of the past!"
+	STRING_EN[2368]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Break through the Land of Seine and recapture the former glory!"
 	STRING_EN[2368]["real_idx"] = 2368
 
 STRING_EN["index"][2369] = 2369
 STRING_EN[2369] = {}
 	STRING_EN[2369]["ID"] = 2369
 	STRING_EN[2369]["KEY"] = "M_MAINCOPY_4010301"
-	STRING_EN[2369]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the garrison camp to regain the glory of the past!"
+	STRING_EN[2369]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Camp of the Garrison and recapture the former glory!"
 	STRING_EN[2369]["real_idx"] = 2369
 
 STRING_EN["index"][2370] = 2370
 STRING_EN[2370] = {}
 	STRING_EN[2370]["ID"] = 2370
 	STRING_EN[2370]["KEY"] = "M_MAINCOPY_4010302"
-	STRING_EN[2370]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Aurelia dust and regain the glory of the past!"
+	STRING_EN[2370]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Dust of Alleria and recapture the former glory!"
 	STRING_EN[2370]["real_idx"] = 2370
 
 STRING_EN["index"][2371] = 2371
 STRING_EN[2371] = {}
 	STRING_EN[2371]["ID"] = 2371
 	STRING_EN[2371]["KEY"] = "M_MAINCOPY_4010303"
-	STRING_EN[2371]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the bones and land to regain the glory of the past!"
+	STRING_EN[2371]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Boneless Area and recapture the former glory!"
 	STRING_EN[2371]["real_idx"] = 2371
 
 STRING_EN["index"][2372] = 2372
 STRING_EN[2372] = {}
 	STRING_EN[2372]["ID"] = 2372
 	STRING_EN[2372]["KEY"] = "M_MAINCOPY_4010304"
-	STRING_EN[2372]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the shelter in the storm and regain the glory of the past!"
+	STRING_EN[2372]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Shelter in the Storm and recapture the former glory!"
 	STRING_EN[2372]["real_idx"] = 2372
 
 STRING_EN["index"][2373] = 2373
 STRING_EN[2373] = {}
 	STRING_EN[2373]["ID"] = 2373
 	STRING_EN[2373]["KEY"] = "M_MAINCOPY_4010305"
-	STRING_EN[2373]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the remains of Lordan Mill and regain the glory of the past!"
+	STRING_EN[2373]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Lordamere Remains and recapture the former glory!"
 	STRING_EN[2373]["real_idx"] = 2373
 
 STRING_EN["index"][2374] = 2374
 STRING_EN[2374] = {}
 	STRING_EN[2374]["ID"] = 2374
 	STRING_EN[2374]["KEY"] = "M_MAINCOPY_4010306"
-	STRING_EN[2374]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Tirisfal magnetic storm and regain the glory of the past!"
+	STRING_EN[2374]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Magnetic Storm Teresa and recapture the former glory!"
 	STRING_EN[2374]["real_idx"] = 2374
 
 STRING_EN["index"][2375] = 2375
 STRING_EN[2375] = {}
 	STRING_EN[2375]["ID"] = 2375
 	STRING_EN[2375]["KEY"] = "M_MAINCOPY_4010401"
-	STRING_EN[2375]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the wreckage of Hyjal and regain the glory of the past!"
+	STRING_EN[2375]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Hyjal Remains and recapture the former glory!"
 	STRING_EN[2375]["real_idx"] = 2375
 
 STRING_EN["index"][2376] = 2376
 STRING_EN[2376] = {}
 	STRING_EN[2376]["ID"] = 2376
 	STRING_EN[2376]["KEY"] = "M_MAINCOPY_4010402"
-	STRING_EN[2376]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Gloomy Valley and regain the glory of the past!"
+	STRING_EN[2376]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Gloomy Valley and recapture the former glory!"
 	STRING_EN[2376]["real_idx"] = 2376
 
 STRING_EN["index"][2377] = 2377
 STRING_EN[2377] = {}
 	STRING_EN[2377]["ID"] = 2377
 	STRING_EN[2377]["KEY"] = "M_MAINCOPY_4010403"
-	STRING_EN[2377]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the twin towers and regain the glory of the past!"
+	STRING_EN[2377]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Twin Towers Remains and recapture the former glory!"
 	STRING_EN[2377]["real_idx"] = 2377
 
 STRING_EN["index"][2378] = 2378
 STRING_EN[2378] = {}
 	STRING_EN[2378]["ID"] = 2378
 	STRING_EN[2378]["KEY"] = "M_MAINCOPY_4010404"
-	STRING_EN[2378]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the discovery in the remains and regain the glory of the past!"
+	STRING_EN[2378]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Discovery of the Remains and recapture the former glory!"
 	STRING_EN[2378]["real_idx"] = 2378
 
 STRING_EN["index"][2379] = 2379
 STRING_EN[2379] = {}
 	STRING_EN[2379]["ID"] = 2379
 	STRING_EN[2379]["KEY"] = "M_MAINCOPY_4010405"
-	STRING_EN[2379]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the star of Alleria to regain the glory of the past!"
+	STRING_EN[2379]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Planet Alleria and recapture the former glory!"
 	STRING_EN[2379]["real_idx"] = 2379
 
 STRING_EN["index"][2380] = 2380
 STRING_EN[2380] = {}
 	STRING_EN[2380]["ID"] = 2380
 	STRING_EN[2380]["KEY"] = "M_MAINCOPY_4010406"
-	STRING_EN[2380]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Alleria to regain the glory of the past!"
+	STRING_EN[2380]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Raid of Alleria and recapture the former glory!"
 	STRING_EN[2380]["real_idx"] = 2380
 
 STRING_EN["index"][2381] = 2381
 STRING_EN[2381] = {}
 	STRING_EN[2381]["ID"] = 2381
 	STRING_EN[2381]["KEY"] = "M_MAINCOPY_4010407"
-	STRING_EN[2381]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the fortress in the sky to regain the glory of the past!"
+	STRING_EN[2381]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Fortress of the Galaxy and recapture the former glory!"
 	STRING_EN[2381]["real_idx"] = 2381
 
 STRING_EN["index"][2382] = 2382
 STRING_EN[2382] = {}
 	STRING_EN[2382]["ID"] = 2382
 	STRING_EN[2382]["KEY"] = "M_MAINCOPY_4010501"
-	STRING_EN[2382]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the frontal Manrolock and regain the glory of the past!"
+	STRING_EN[2382]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Confrontation of Manoroc and recapture the former glory!"
 	STRING_EN[2382]["real_idx"] = 2382
 
 STRING_EN["index"][2383] = 2383
 STRING_EN[2383] = {}
 	STRING_EN[2383]["ID"] = 2383
 	STRING_EN[2383]["KEY"] = "M_MAINCOPY_4010502"
-	STRING_EN[2383]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the fierce battleport and regain the glory of the past!"
+	STRING_EN[2383]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Battleground Starport and recapture the former glory!"
 	STRING_EN[2383]["real_idx"] = 2383
 
 STRING_EN["index"][2384] = 2384
 STRING_EN[2384] = {}
 	STRING_EN[2384]["ID"] = 2384
 	STRING_EN[2384]["KEY"] = "M_MAINCOPY_4010503"
-	STRING_EN[2384]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the support of the Empire and regain the glory of the past!"
+	STRING_EN[2384]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Support from The Empire and recapture the former glory!"
 	STRING_EN[2384]["real_idx"] = 2384
 
 STRING_EN["index"][2385] = 2385
 STRING_EN[2385] = {}
 	STRING_EN[2385]["ID"] = 2385
 	STRING_EN[2385]["KEY"] = "M_MAINCOPY_4010504"
-	STRING_EN[2385]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Manorlock barrier and regain the glory of the past!"
+	STRING_EN[2385]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Barrier of Manoroc  and recapture the former glory!"
 	STRING_EN[2385]["real_idx"] = 2385
 
 STRING_EN["index"][2386] = 2386
 STRING_EN[2386] = {}
 	STRING_EN[2386]["ID"] = 2386
 	STRING_EN[2386]["KEY"] = "M_MAINCOPY_4010505"
-	STRING_EN[2386]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the broken Manorlock and regain the glory of the past!"
+	STRING_EN[2386]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Shattered Manoroc and recapture the former glory!"
 	STRING_EN[2386]["real_idx"] = 2386
 
 STRING_EN["index"][2387] = 2387
 STRING_EN[2387] = {}
 	STRING_EN[2387]["ID"] = 2387
 	STRING_EN[2387]["KEY"] = "M_MAINCOPY_4010506"
-	STRING_EN[2387]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Kenriba neutron star and regain the glory of the past!"
+	STRING_EN[2387]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Neutron Star of Kenriba and recapture the former glory!"
 	STRING_EN[2387]["real_idx"] = 2387
 
 STRING_EN["index"][2388] = 2388
 STRING_EN[2388] = {}
 	STRING_EN[2388]["ID"] = 2388
 	STRING_EN[2388]["KEY"] = "M_MAINCOPY_4010507"
-	STRING_EN[2388]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Kenriba Heights and regain the glory of the past!"
+	STRING_EN[2388]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Height of Kenriba and recapture the former glory!"
 	STRING_EN[2388]["real_idx"] = 2388
 
 STRING_EN["index"][2389] = 2389
 STRING_EN[2389] = {}
 	STRING_EN[2389]["ID"] = 2389
 	STRING_EN[2389]["KEY"] = "M_MAINCOPY_4010508"
-	STRING_EN[2389]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Kenruwa garrison and regain the glory of the past!"
+	STRING_EN[2389]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Garrison of Kenriba and recapture the former glory!"
 	STRING_EN[2389]["real_idx"] = 2389
 
 STRING_EN["index"][2390] = 2390
 STRING_EN[2390] = {}
 	STRING_EN[2390]["ID"] = 2390
 	STRING_EN[2390]["KEY"] = "M_MAINCOPY_4010509"
-	STRING_EN[2390]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the commander of Kenruwa and regain the glory of the past!"
+	STRING_EN[2390]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Commander of Kenriba and recapture the former glory!"
 	STRING_EN[2390]["real_idx"] = 2390
 
 STRING_EN["index"][2391] = 2391
 STRING_EN[2391] = {}
 	STRING_EN[2391]["ID"] = 2391
 	STRING_EN[2391]["KEY"] = "M_MAINCOPY_4010601"
-	STRING_EN[2391]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Temple of Nijer and regain the glory of the past!"
+	STRING_EN[2391]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Shrine Tesniere and recapture the former glory!"
 	STRING_EN[2391]["real_idx"] = 2391
 
 STRING_EN["index"][2392] = 2392
 STRING_EN[2392] = {}
 	STRING_EN[2392]["ID"] = 2392
 	STRING_EN[2392]["KEY"] = "M_MAINCOPY_4010602"
-	STRING_EN[2392]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the remains of Nijer and regain the glory of the past!"
+	STRING_EN[2392]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Tesniere Remains and recapture the former glory!"
 	STRING_EN[2392]["real_idx"] = 2392
 
 STRING_EN["index"][2393] = 2393
 STRING_EN[2393] = {}
 	STRING_EN[2393]["ID"] = 2393
 	STRING_EN[2393]["KEY"] = "M_MAINCOPY_4010603"
-	STRING_EN[2393]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Imperial Institute and regain the glory of the past!"
+	STRING_EN[2393]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Imperial Institute and recapture the former glory!"
 	STRING_EN[2393]["real_idx"] = 2393
 
 STRING_EN["index"][2394] = 2394
 STRING_EN[2394] = {}
 	STRING_EN[2394]["ID"] = 2394
 	STRING_EN[2394]["KEY"] = "M_MAINCOPY_4010604"
-	STRING_EN[2394]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Imperial Laboratory and regain the glory of the past!"
+	STRING_EN[2394]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Imperial Lab and recapture the former glory!"
 	STRING_EN[2394]["real_idx"] = 2394
 
 STRING_EN["index"][2395] = 2395
 STRING_EN[2395] = {}
 	STRING_EN[2395]["ID"] = 2395
 	STRING_EN[2395]["KEY"] = "M_MAINCOPY_4010605"
-	STRING_EN[2395]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Imperial Core Fleet and regain the glory of the past!"
+	STRING_EN[2395]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Imperial Core Fleet and recapture the former glory!"
 	STRING_EN[2395]["real_idx"] = 2395
 
 STRING_EN["index"][2396] = 2396
 STRING_EN[2396] = {}
 	STRING_EN[2396]["ID"] = 2396
 	STRING_EN[2396]["KEY"] = "M_MAINCOPY_4010606"
-	STRING_EN[2396]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the city of the fog and regain the glory of the past!"
+	STRING_EN[2396]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to City of the Mists and recapture the former glory!"
 	STRING_EN[2396]["real_idx"] = 2396
 
 STRING_EN["index"][2397] = 2397
 STRING_EN[2397] = {}
 	STRING_EN[2397]["ID"] = 2397
 	STRING_EN[2397]["KEY"] = "M_MAINCOPY_4010607"
-	STRING_EN[2397]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Virga Fortress and regain the glory of the past!"
+	STRING_EN[2397]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Fortress of Wilga and recapture the former glory!"
 	STRING_EN[2397]["real_idx"] = 2397
 
 STRING_EN["index"][2398] = 2398
 STRING_EN[2398] = {}
 	STRING_EN[2398]["ID"] = 2398
 	STRING_EN[2398]["KEY"] = "M_MAINCOPY_4010608"
-	STRING_EN[2398]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Virga Fortress and regain the glory of the past!"
+	STRING_EN[2398]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Stronghold of Wilga  and recapture the former glory!"
 	STRING_EN[2398]["real_idx"] = 2398
 
 STRING_EN["index"][2399] = 2399
 STRING_EN[2399] = {}
 	STRING_EN[2399]["ID"] = 2399
 	STRING_EN[2399]["KEY"] = "M_MAINCOPY_4010609"
-	STRING_EN[2399]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the captain of the Imperial Core Fleet and regain the glory of the past!"
+	STRING_EN[2399]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Captain Fleet of Imperial Core Fleet and recapture the former glory!"
 	STRING_EN[2399]["real_idx"] = 2399
 
 STRING_EN["index"][2400] = 2400
 STRING_EN[2400] = {}
 	STRING_EN[2400]["ID"] = 2400
 	STRING_EN[2400]["KEY"] = "M_MAINCOPY_4010701"
-	STRING_EN[2400]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the main star of Al Cologne and regain the glory of the past!"
+	STRING_EN[2400]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Starbase of Arklon and recapture the former glory!"
 	STRING_EN[2400]["real_idx"] = 2400
 
 STRING_EN["index"][2401] = 2401
 STRING_EN[2401] = {}
 	STRING_EN[2401]["ID"] = 2401
 	STRING_EN[2401]["KEY"] = "M_MAINCOPY_4010702"
-	STRING_EN[2401]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Al Cologne relay station to regain the glory of the past!"
+	STRING_EN[2401]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Relay Station of Arklon and recapture the former glory!"
 	STRING_EN[2401]["real_idx"] = 2401
 
 STRING_EN["index"][2402] = 2402
 STRING_EN[2402] = {}
 	STRING_EN[2402]["ID"] = 2402
 	STRING_EN[2402]["KEY"] = "M_MAINCOPY_4010703"
-	STRING_EN[2402]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Imperial Fleet Command and regain the glory of the past!"
+	STRING_EN[2402]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Command Center of Imperial Fleet  and recapture the former glory!"
 	STRING_EN[2402]["real_idx"] = 2402
 
 STRING_EN["index"][2403] = 2403
 STRING_EN[2403] = {}
 	STRING_EN[2403]["ID"] = 2403
 	STRING_EN[2403]["KEY"] = "M_MAINCOPY_4010704"
-	STRING_EN[2403]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Alcohol factory to regain the glory of the past!"
+	STRING_EN[2403]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Factory of Arklon and recapture the former glory!"
 	STRING_EN[2403]["real_idx"] = 2403
 
 STRING_EN["index"][2404] = 2404
 STRING_EN[2404] = {}
 	STRING_EN[2404]["ID"] = 2404
 	STRING_EN[2404]["KEY"] = "M_MAINCOPY_4010705"
-	STRING_EN[2404]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Al Cologne Star Nest and regain the glory of the past!"
+	STRING_EN[2404]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Star Nest of Arklon and recapture the former glory!"
 	STRING_EN[2404]["real_idx"] = 2404
 
 STRING_EN["index"][2405] = 2405
 STRING_EN[2405] = {}
 	STRING_EN[2405]["ID"] = 2405
 	STRING_EN[2405]["KEY"] = "M_MAINCOPY_4010706"
-	STRING_EN[2405]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Scarlet Wall and regain the glory of the past!"
+	STRING_EN[2405]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Bloody Wall and recapture the former glory!"
 	STRING_EN[2405]["real_idx"] = 2405
 
 STRING_EN["index"][2406] = 2406
 STRING_EN[2406] = {}
 	STRING_EN[2406]["ID"] = 2406
 	STRING_EN[2406]["KEY"] = "M_MAINCOPY_4010707"
-	STRING_EN[2406]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Empire Starport to regain the glory of the past!"
+	STRING_EN[2406]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Imperial Starport and recapture the former glory!"
 	STRING_EN[2406]["real_idx"] = 2406
 
 STRING_EN["index"][2407] = 2407
 STRING_EN[2407] = {}
 	STRING_EN[2407]["ID"] = 2407
 	STRING_EN[2407]["KEY"] = "M_MAINCOPY_4010708"
-	STRING_EN[2407]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Imperial Fleet Base Camp and regain the glory of the past!"
+	STRING_EN[2407]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Imperial Fleet Base and recapture the former glory!"
 	STRING_EN[2407]["real_idx"] = 2407
 
 STRING_EN["index"][2408] = 2408
 STRING_EN[2408] = {}
 	STRING_EN[2408]["ID"] = 2408
 	STRING_EN[2408]["KEY"] = "M_MAINCOPY_4010709"
-	STRING_EN[2408]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the commander of Karp and regain the glory of the past!"
+	STRING_EN[2408]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Commander Carp and recapture the former glory!"
 	STRING_EN[2408]["real_idx"] = 2408
 
 STRING_EN["index"][2409] = 2409
 STRING_EN[2409] = {}
 	STRING_EN[2409]["ID"] = 2409
 	STRING_EN[2409]["KEY"] = "M_MAINCOPY_5010101"
-	STRING_EN[2409]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Drew Galaxy and regain the glory of the past!"
+	STRING_EN[2409]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Galaxy Drew and recapture the former glory!"
 	STRING_EN[2409]["real_idx"] = 2409
 
 STRING_EN["index"][2410] = 2410
 STRING_EN[2410] = {}
 	STRING_EN[2410]["ID"] = 2410
 	STRING_EN[2410]["KEY"] = "M_MAINCOPY_5010102"
-	STRING_EN[2410]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Kusca outpost to regain the glory of the past!"
+	STRING_EN[2410]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Outpost of Kusiak and recapture the former glory!"
 	STRING_EN[2410]["real_idx"] = 2410
 
 STRING_EN["index"][2411] = 2411
 STRING_EN[2411] = {}
 	STRING_EN[2411]["ID"] = 2411
 	STRING_EN[2411]["KEY"] = "M_MAINCOPY_5010103"
-	STRING_EN[2411]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Kusca League and regain the glory of the past!"
+	STRING_EN[2411]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Alliance of Kusiak  and recapture the former glory!"
 	STRING_EN[2411]["real_idx"] = 2411
 
 STRING_EN["index"][2412] = 2412
 STRING_EN[2412] = {}
 	STRING_EN[2412]["ID"] = 2412
 	STRING_EN[2412]["KEY"] = "M_MAINCOPY_5010104"
-	STRING_EN[2412]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the pillar of Kusca and regain the glory of the past!"
+	STRING_EN[2412]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Backbone of Kusiak and recapture the former glory!"
 	STRING_EN[2412]["real_idx"] = 2412
 
 STRING_EN["index"][2413] = 2413
 STRING_EN[2413] = {}
 	STRING_EN[2413]["ID"] = 2413
 	STRING_EN[2413]["KEY"] = "M_MAINCOPY_5010105"
-	STRING_EN[2413]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Kusca Fortress and regain the glory of the past!"
+	STRING_EN[2413]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Fortress of Kusiak and recapture the former glory!"
 	STRING_EN[2413]["real_idx"] = 2413
 
 STRING_EN["index"][2414] = 2414
 STRING_EN[2414] = {}
 	STRING_EN[2414]["ID"] = 2414
 	STRING_EN[2414]["KEY"] = "M_MAINCOPY_5010201"
-	STRING_EN[2414]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to Hyjal and regain the glory of the past!"
+	STRING_EN[2414]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Peak of Hyjal and recapture the former glory!"
 	STRING_EN[2414]["real_idx"] = 2414
 
 STRING_EN["index"][2415] = 2415
 STRING_EN[2415] = {}
 	STRING_EN[2415]["ID"] = 2415
 	STRING_EN[2415]["KEY"] = "M_MAINCOPY_5010202"
-	STRING_EN[2415]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the floating island of Rutherland to regain the glory of the past!"
+	STRING_EN[2415]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Floating Island of Lucilla and recapture the former glory!"
 	STRING_EN[2415]["real_idx"] = 2415
 
 STRING_EN["index"][2416] = 2416
 STRING_EN[2416] = {}
 	STRING_EN[2416]["ID"] = 2416
 	STRING_EN[2416]["KEY"] = "M_MAINCOPY_5010203"
-	STRING_EN[2416]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the wreckage of the floating island and regain the glory of the past!"
+	STRING_EN[2416]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Floating island Remains and recapture the former glory!"
 	STRING_EN[2416]["real_idx"] = 2416
 
 STRING_EN["index"][2417] = 2417
 STRING_EN[2417] = {}
 	STRING_EN[2417]["ID"] = 2417
 	STRING_EN[2417]["KEY"] = "M_MAINCOPY_5010204"
-	STRING_EN[2417]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the starry glory and regain the glory of the past!"
+	STRING_EN[2417]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Bones of Constellation and recapture the former glory!"
 	STRING_EN[2417]["real_idx"] = 2417
 
 STRING_EN["index"][2418] = 2418
 STRING_EN[2418] = {}
 	STRING_EN[2418]["ID"] = 2418
 	STRING_EN[2418]["KEY"] = "M_MAINCOPY_5010205"
-	STRING_EN[2418]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to Menethil Harbor to regain the glory of the past!"
+	STRING_EN[2418]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Port Menethil and recapture the former glory!"
 	STRING_EN[2418]["real_idx"] = 2418
 
 STRING_EN["index"][2419] = 2419
 STRING_EN[2419] = {}
 	STRING_EN[2419]["ID"] = 2419
 	STRING_EN[2419]["KEY"] = "M_MAINCOPY_5010206"
-	STRING_EN[2419]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Empire's advance fleet base to regain the glory of the past!"
+	STRING_EN[2419]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Base of Imperial Advance Fleet  and recapture the former glory!"
 	STRING_EN[2419]["real_idx"] = 2419
 
 STRING_EN["index"][2420] = 2420
 STRING_EN[2420] = {}
 	STRING_EN[2420]["ID"] = 2420
 	STRING_EN[2420]["KEY"] = "M_MAINCOPY_5010301"
-	STRING_EN[2420]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Austrian city shelter and regain the glory of the past!"
+	STRING_EN[2420]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Shelter of Oswiak and recapture the former glory!"
 	STRING_EN[2420]["real_idx"] = 2420
 
 STRING_EN["index"][2421] = 2421
 STRING_EN[2421] = {}
 	STRING_EN[2421]["ID"] = 2421
 	STRING_EN[2421]["KEY"] = "M_MAINCOPY_5010302"
-	STRING_EN[2421]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the city of Osh and regain the glory of the past!"
+	STRING_EN[2421]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Mists of Oswiak and recapture the former glory!"
 	STRING_EN[2421]["real_idx"] = 2421
 
 STRING_EN["index"][2422] = 2422
 STRING_EN[2422] = {}
 	STRING_EN[2422]["ID"] = 2422
 	STRING_EN[2422]["KEY"] = "M_MAINCOPY_5010303"
-	STRING_EN[2422]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the mark of Aocheng and regain the glory of the past!"
+	STRING_EN[2422]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Crack of Oswiak and recapture the former glory!"
 	STRING_EN[2422]["real_idx"] = 2422
 
 STRING_EN["index"][2423] = 2423
 STRING_EN[2423] = {}
 	STRING_EN[2423]["ID"] = 2423
 	STRING_EN[2423]["KEY"] = "M_MAINCOPY_5010304"
-	STRING_EN[2423]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Star Trail Portal to regain the glory of the past!"
+	STRING_EN[2423]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Portal of the Galaxy and recapture the former glory!"
 	STRING_EN[2423]["real_idx"] = 2423
 
 STRING_EN["index"][2424] = 2424
 STRING_EN[2424] = {}
 	STRING_EN[2424]["ID"] = 2424
 	STRING_EN[2424]["KEY"] = "M_MAINCOPY_5010305"
-	STRING_EN[2424]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the place of the night and regain the glory of the past!"
+	STRING_EN[2424]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Land of Evernight and recapture the former glory!"
 	STRING_EN[2424]["real_idx"] = 2424
 
 STRING_EN["index"][2425] = 2425
 STRING_EN[2425] = {}
 	STRING_EN[2425]["ID"] = 2425
 	STRING_EN[2425]["KEY"] = "M_MAINCOPY_5010306"
-	STRING_EN[2425]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Carl's lair and regain the glory of the past!"
+	STRING_EN[2425]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Carl's Nest and recapture the former glory!"
 	STRING_EN[2425]["real_idx"] = 2425
 
 STRING_EN["index"][2426] = 2426
 STRING_EN[2426] = {}
 	STRING_EN[2426]["ID"] = 2426
 	STRING_EN[2426]["KEY"] = "M_MAINCOPY_5010401"
-	STRING_EN[2426]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the ruins of Augustus and regain the glory of the past!"
+	STRING_EN[2426]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Augustus Remains and recapture the former glory!"
 	STRING_EN[2426]["real_idx"] = 2426
 
 STRING_EN["index"][2427] = 2427
 STRING_EN[2427] = {}
 	STRING_EN[2427]["ID"] = 2427
 	STRING_EN[2427]["KEY"] = "M_MAINCOPY_5010402"
-	STRING_EN[2427]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Roland Star Cluster and regain the glory of the past!"
+	STRING_EN[2427]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Stardust of Roland  and recapture the former glory!"
 	STRING_EN[2427]["real_idx"] = 2427
 
 STRING_EN["index"][2428] = 2428
 STRING_EN[2428] = {}
 	STRING_EN[2428]["ID"] = 2428
 	STRING_EN[2428]["KEY"] = "M_MAINCOPY_5010403"
-	STRING_EN[2428]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the wreckage of Roland and regain the glory of the past!"
+	STRING_EN[2428]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Roland Remains and recapture the former glory!"
 	STRING_EN[2428]["real_idx"] = 2428
 
 STRING_EN["index"][2429] = 2429
 STRING_EN[2429] = {}
 	STRING_EN[2429]["ID"] = 2429
 	STRING_EN[2429]["KEY"] = "M_MAINCOPY_5010404"
-	STRING_EN[2429]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the land of Roland and regain the glory of the past!"
+	STRING_EN[2429]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Remnant of Roland and recapture the former glory!"
 	STRING_EN[2429]["real_idx"] = 2429
 
 STRING_EN["index"][2430] = 2430
 STRING_EN[2430] = {}
 	STRING_EN[2430]["ID"] = 2430
 	STRING_EN[2430]["KEY"] = "M_MAINCOPY_5010405"
-	STRING_EN[2430]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Roland relay station to regain the glory of the past!"
+	STRING_EN[2430]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Relay Station of Roland and recapture the former glory!"
 	STRING_EN[2430]["real_idx"] = 2430
 
 STRING_EN["index"][2431] = 2431
 STRING_EN[2431] = {}
 	STRING_EN[2431]["ID"] = 2431
 	STRING_EN[2431]["KEY"] = "M_MAINCOPY_5010406"
-	STRING_EN[2431]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Roland Laboratory to regain the glory of the past!"
+	STRING_EN[2431]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Roland Lab and recapture the former glory!"
 	STRING_EN[2431]["real_idx"] = 2431
 
 STRING_EN["index"][2432] = 2432
 STRING_EN[2432] = {}
 	STRING_EN[2432]["ID"] = 2432
 	STRING_EN[2432]["KEY"] = "M_MAINCOPY_5010407"
-	STRING_EN[2432]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Empire Jump Station and regain the glory of the past!"
+	STRING_EN[2432]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Imperial Transition Station and recapture the former glory!"
 	STRING_EN[2432]["real_idx"] = 2432
 
 STRING_EN["index"][2433] = 2433
 STRING_EN[2433] = {}
 	STRING_EN[2433]["ID"] = 2433
 	STRING_EN[2433]["KEY"] = "M_MAINCOPY_5010408"
-	STRING_EN[2433]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the bloody global port and regain the glory of the past!"
+	STRING_EN[2433]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Bloody Global Harbor and recapture the former glory!"
 	STRING_EN[2433]["real_idx"] = 2433
 
 STRING_EN["index"][2434] = 2434
 STRING_EN[2434] = {}
 	STRING_EN[2434]["ID"] = 2434
 	STRING_EN[2434]["KEY"] = "M_MAINCOPY_5010501"
-	STRING_EN[2434]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Taya satellite and regain the glory of the past!"
+	STRING_EN[2434]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Satellite of Tayar and recapture the former glory!"
 	STRING_EN[2434]["real_idx"] = 2434
 
 STRING_EN["index"][2435] = 2435
 STRING_EN[2435] = {}
 	STRING_EN[2435]["ID"] = 2435
 	STRING_EN[2435]["KEY"] = "M_MAINCOPY_5010502"
-	STRING_EN[2435]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Taya Nebula to regain the glory of the past!"
+	STRING_EN[2435]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Nebula of Tayar and recapture the former glory!"
 	STRING_EN[2435]["real_idx"] = 2435
 
 STRING_EN["index"][2436] = 2436
 STRING_EN[2436] = {}
 	STRING_EN[2436]["ID"] = 2436
 	STRING_EN[2436]["KEY"] = "M_MAINCOPY_5010503"
-	STRING_EN[2436]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Taya factory to regain the glory of the past!"
+	STRING_EN[2436]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Factory of Tayar and recapture the former glory!"
 	STRING_EN[2436]["real_idx"] = 2436
 
 STRING_EN["index"][2437] = 2437
 STRING_EN[2437] = {}
 	STRING_EN[2437]["ID"] = 2437
 	STRING_EN[2437]["KEY"] = "M_MAINCOPY_5010504"
-	STRING_EN[2437]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Taya Fortress and regain the glory of the past!"
+	STRING_EN[2437]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Fortress of Tayar and recapture the former glory!"
 	STRING_EN[2437]["real_idx"] = 2437
 
 STRING_EN["index"][2438] = 2438
 STRING_EN[2438] = {}
 	STRING_EN[2438]["ID"] = 2438
 	STRING_EN[2438]["KEY"] = "M_MAINCOPY_5010505"
-	STRING_EN[2438]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Taya Imperial Fleet stronghold and regain the glory of the past!"
+	STRING_EN[2438]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Stronghold of Tayar's Fleet  and recapture the former glory!"
 	STRING_EN[2438]["real_idx"] = 2438
 
 STRING_EN["index"][2439] = 2439
 STRING_EN[2439] = {}
 	STRING_EN[2439]["ID"] = 2439
 	STRING_EN[2439]["KEY"] = "M_MAINCOPY_5010506"
-	STRING_EN[2439]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the wrecked laboratory and regain the glory of the past!"
+	STRING_EN[2439]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Wrecked Lab and recapture the former glory!"
 	STRING_EN[2439]["real_idx"] = 2439
 
 STRING_EN["index"][2440] = 2440
 STRING_EN[2440] = {}
 	STRING_EN[2440]["ID"] = 2440
 	STRING_EN[2440]["KEY"] = "M_MAINCOPY_5010507"
-	STRING_EN[2440]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the planetary storm and regain the glory of the past!"
+	STRING_EN[2440]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Storm of the Planet and recapture the former glory!"
 	STRING_EN[2440]["real_idx"] = 2440
 
 STRING_EN["index"][2441] = 2441
 STRING_EN[2441] = {}
 	STRING_EN[2441]["ID"] = 2441
 	STRING_EN[2441]["KEY"] = "M_MAINCOPY_5010508"
-	STRING_EN[2441]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Wall of Sri Lanka and regain the glory of the past!"
+	STRING_EN[2441]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Wall of Mount Taurus and recapture the former glory!"
 	STRING_EN[2441]["real_idx"] = 2441
 
 STRING_EN["index"][2442] = 2442
 STRING_EN[2442] = {}
 	STRING_EN[2442]["ID"] = 2442
 	STRING_EN[2442]["KEY"] = "M_MAINCOPY_5010509"
-	STRING_EN[2442]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Imperial Barn Fortress and regain the glory of the past!"
+	STRING_EN[2442]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Fortress of Imperial Bahn  and recapture the former glory!"
 	STRING_EN[2442]["real_idx"] = 2442
 
 STRING_EN["index"][2443] = 2443
 STRING_EN[2443] = {}
 	STRING_EN[2443]["ID"] = 2443
 	STRING_EN[2443]["KEY"] = "M_MAINCOPY_5010601"
-	STRING_EN[2443]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the wreckage of Star Trek and regain the glory of the past!"
+	STRING_EN[2443]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Starport Remains and recapture the former glory!"
 	STRING_EN[2443]["real_idx"] = 2443
 
 STRING_EN["index"][2444] = 2444
 STRING_EN[2444] = {}
 	STRING_EN[2444]["ID"] = 2444
 	STRING_EN[2444]["KEY"] = "M_MAINCOPY_5010602"
-	STRING_EN[2444]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the gate of Halsh and regain the glory of the past!"
+	STRING_EN[2444]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Gate of Haers and recapture the former glory!"
 	STRING_EN[2444]["real_idx"] = 2444
 
 STRING_EN["index"][2445] = 2445
 STRING_EN[2445] = {}
 	STRING_EN[2445]["ID"] = 2445
 	STRING_EN[2445]["KEY"] = "M_MAINCOPY_5010603"
-	STRING_EN[2445]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the black hole storm and regain the glory of the past!"
+	STRING_EN[2445]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Storm of the Black Hole  and recapture the former glory!"
 	STRING_EN[2445]["real_idx"] = 2445
 
 STRING_EN["index"][2446] = 2446
 STRING_EN[2446] = {}
 	STRING_EN[2446]["ID"] = 2446
 	STRING_EN[2446]["KEY"] = "M_MAINCOPY_5010604"
-	STRING_EN[2446]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Holy Land of Alterac and regain the glory of the past!"
+	STRING_EN[2446]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Holy Land of Alterac  and recapture the former glory!"
 	STRING_EN[2446]["real_idx"] = 2446
 
 STRING_EN["index"][2447] = 2447
 STRING_EN[2447] = {}
 	STRING_EN[2447]["ID"] = 2447
 	STRING_EN[2447]["KEY"] = "M_MAINCOPY_5010605"
-	STRING_EN[2447]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the land of hope and regain the glory of the past!"
+	STRING_EN[2447]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Land of Hope and recapture the former glory!"
 	STRING_EN[2447]["real_idx"] = 2447
 
 STRING_EN["index"][2448] = 2448
 STRING_EN[2448] = {}
 	STRING_EN[2448]["ID"] = 2448
 	STRING_EN[2448]["KEY"] = "M_MAINCOPY_5010606"
-	STRING_EN[2448]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Alterac civilization and regain the glory of the past!"
+	STRING_EN[2448]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Alterac Civilization and recapture the former glory!"
 	STRING_EN[2448]["real_idx"] = 2448
 
 STRING_EN["index"][2449] = 2449
 STRING_EN[2449] = {}
 	STRING_EN[2449]["ID"] = 2449
 	STRING_EN[2449]["KEY"] = "M_MAINCOPY_5010607"
-	STRING_EN[2449]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Alterac Nebula to regain the glory of the past!"
+	STRING_EN[2449]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Nebula of Alterac and recapture the former glory!"
 	STRING_EN[2449]["real_idx"] = 2449
 
 STRING_EN["index"][2450] = 2450
 STRING_EN[2450] = {}
 	STRING_EN[2450]["ID"] = 2450
 	STRING_EN[2450]["KEY"] = "M_MAINCOPY_5010608"
-	STRING_EN[2450]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Imperial Fleet Base and regain the glory of the past!"
+	STRING_EN[2450]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Imperial Fleet Base and recapture the former glory!"
 	STRING_EN[2450]["real_idx"] = 2450
 
 STRING_EN["index"][2451] = 2451
 STRING_EN[2451] = {}
 	STRING_EN[2451]["ID"] = 2451
 	STRING_EN[2451]["KEY"] = "M_MAINCOPY_5010609"
-	STRING_EN[2451]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the main city of Alterac to regain the glory of the past!"
+	STRING_EN[2451]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Main City of Alterac and recapture the former glory!"
 	STRING_EN[2451]["real_idx"] = 2451
 
 STRING_EN["index"][2452] = 2452
 STRING_EN[2452] = {}
 	STRING_EN[2452]["ID"] = 2452
 	STRING_EN[2452]["KEY"] = "M_MAINCOPY_5010701"
-	STRING_EN[2452]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the gathering place of the night and regain the glory of the past!"
+	STRING_EN[2452]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Gathering place of Evernight and recapture the former glory!"
 	STRING_EN[2452]["real_idx"] = 2452
 
 STRING_EN["index"][2453] = 2453
 STRING_EN[2453] = {}
 	STRING_EN[2453]["ID"] = 2453
 	STRING_EN[2453]["KEY"] = "M_MAINCOPY_5010702"
-	STRING_EN[2453]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Yongxing Xinghe and regain the glory of the past!"
+	STRING_EN[2453]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Galaxy Evernight and recapture the former glory!"
 	STRING_EN[2453]["real_idx"] = 2453
 
 STRING_EN["index"][2454] = 2454
 STRING_EN[2454] = {}
 	STRING_EN[2454]["ID"] = 2454
 	STRING_EN[2454]["KEY"] = "M_MAINCOPY_5010703"
-	STRING_EN[2454]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the stars of the thorns and regain the glory of the past!"
+	STRING_EN[2454]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Stars of Thorns and recapture the former glory!"
 	STRING_EN[2454]["real_idx"] = 2454
 
 STRING_EN["index"][2455] = 2455
 STRING_EN[2455] = {}
 	STRING_EN[2455]["ID"] = 2455
 	STRING_EN[2455]["KEY"] = "M_MAINCOPY_5010704"
-	STRING_EN[2455]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the mark of Zoram and regain the glory of the past!"
+	STRING_EN[2455]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Crack of Zoram and recapture the former glory!"
 	STRING_EN[2455]["real_idx"] = 2455
 
 STRING_EN["index"][2456] = 2456
 STRING_EN[2456] = {}
 	STRING_EN[2456]["ID"] = 2456
 	STRING_EN[2456]["KEY"] = "M_MAINCOPY_5010705"
-	STRING_EN[2456]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Zoram factory and regain the glory of the past!"
+	STRING_EN[2456]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Factory of Zoram and recapture the former glory!"
 	STRING_EN[2456]["real_idx"] = 2456
 
 STRING_EN["index"][2457] = 2457
 STRING_EN[2457] = {}
 	STRING_EN[2457]["ID"] = 2457
 	STRING_EN[2457]["KEY"] = "M_MAINCOPY_5010706"
-	STRING_EN[2457]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the elite elite core fleet and regain the glory of the past!"
+	STRING_EN[2457]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Imperial Elite Core Fleet and recapture the former glory!"
 	STRING_EN[2457]["real_idx"] = 2457
 
 STRING_EN["index"][2458] = 2458
 STRING_EN[2458] = {}
 	STRING_EN[2458]["ID"] = 2458
 	STRING_EN[2458]["KEY"] = "M_MAINCOPY_5010707"
-	STRING_EN[2458]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the wall of Zoram and regain the glory of the past!"
+	STRING_EN[2458]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Wall of Zoram and recapture the former glory!"
 	STRING_EN[2458]["real_idx"] = 2458
 
 STRING_EN["index"][2459] = 2459
 STRING_EN[2459] = {}
 	STRING_EN[2459]["ID"] = 2459
 	STRING_EN[2459]["KEY"] = "M_MAINCOPY_5010708"
-	STRING_EN[2459]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Zolam Empire Base and regain the glory of the past!"
+	STRING_EN[2459]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Zoram's Base and recapture the former glory!"
 	STRING_EN[2459]["real_idx"] = 2459
 
 STRING_EN["index"][2460] = 2460
 STRING_EN[2460] = {}
 	STRING_EN[2460]["ID"] = 2460
 	STRING_EN[2460]["KEY"] = "M_MAINCOPY_5010709"
-	STRING_EN[2460]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the core castle of the Empire and regain the glory of the past!"
+	STRING_EN[2460]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Captain Fleet of Imperial Core Fleet and recapture the former glory!"
 	STRING_EN[2460]["real_idx"] = 2460
 
 STRING_EN["index"][2461] = 2461
 STRING_EN[2461] = {}
 	STRING_EN[2461]["ID"] = 2461
 	STRING_EN[2461]["KEY"] = "M_MAINCOPY_5010801"
-	STRING_EN[2461]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the holy Kyrgyz star and regain the glory of the past!"
+	STRING_EN[2461]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Starbase of Sergej and recapture the former glory!"
 	STRING_EN[2461]["real_idx"] = 2461
 
 STRING_EN["index"][2462] = 2462
 STRING_EN[2462] = {}
 	STRING_EN[2462]["ID"] = 2462
 	STRING_EN[2462]["KEY"] = "M_MAINCOPY_5010802"
-	STRING_EN[2462]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the St. Kyrgyz post and regain the glory of the past!"
+	STRING_EN[2462]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Sentry of Sergej and recapture the former glory!"
 	STRING_EN[2462]["real_idx"] = 2462
 
 STRING_EN["index"][2463] = 2463
 STRING_EN[2463] = {}
 	STRING_EN[2463]["ID"] = 2463
 	STRING_EN[2463]["KEY"] = "M_MAINCOPY_5010803"
-	STRING_EN[2463]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Star of the Mist and regain the glory of the past!"
+	STRING_EN[2463]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Planet in the Mists and recapture the former glory!"
 	STRING_EN[2463]["real_idx"] = 2463
 
 STRING_EN["index"][2464] = 2464
 STRING_EN[2464] = {}
 	STRING_EN[2464]["ID"] = 2464
 	STRING_EN[2464]["KEY"] = "M_MAINCOPY_5010804"
-	STRING_EN[2464]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the dark planet and regain the glory of the past!"
+	STRING_EN[2464]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Planet in the Dark and recapture the former glory!"
 	STRING_EN[2464]["real_idx"] = 2464
 
 STRING_EN["index"][2465] = 2465
 STRING_EN[2465] = {}
 	STRING_EN[2465]["ID"] = 2465
 	STRING_EN[2465]["KEY"] = "M_MAINCOPY_5010805"
-	STRING_EN[2465]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to St. Keji’s star and regain the glory of the past!"
+	STRING_EN[2465]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Fallen Star of Sergej and recapture the former glory!"
 	STRING_EN[2465]["real_idx"] = 2465
 
 STRING_EN["index"][2466] = 2466
 STRING_EN[2466] = {}
 	STRING_EN[2466]["ID"] = 2466
 	STRING_EN[2466]["KEY"] = "M_MAINCOPY_5010806"
-	STRING_EN[2466]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Fortress of St. Keji and regain the glory of the past!"
+	STRING_EN[2466]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Fortress of Sergej and recapture the former glory!"
 	STRING_EN[2466]["real_idx"] = 2466
 
 STRING_EN["index"][2467] = 2467
 STRING_EN[2467] = {}
 	STRING_EN[2467]["ID"] = 2467
 	STRING_EN[2467]["KEY"] = "M_MAINCOPY_5010807"
-	STRING_EN[2467]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the ruins of St. Croix and regain the glory of the past!"
+	STRING_EN[2467]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Sergej Remains and recapture the former glory!"
 	STRING_EN[2467]["real_idx"] = 2467
 
 STRING_EN["index"][2468] = 2468
 STRING_EN[2468] = {}
 	STRING_EN[2468]["ID"] = 2468
 	STRING_EN[2468]["KEY"] = "M_MAINCOPY_5010808"
-	STRING_EN[2468]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Fortress of St. Keji and regain the glory of the past!"
+	STRING_EN[2468]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to the Stronghold of Sergej and recapture the former glory!"
 	STRING_EN[2468]["real_idx"] = 2468
 
 STRING_EN["index"][2469] = 2469
 STRING_EN[2469] = {}
 	STRING_EN[2469]["ID"] = 2469
 	STRING_EN[2469]["KEY"] = "M_MAINCOPY_5010809"
-	STRING_EN[2469]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to the Sikova Cardinal Commander and regain the glory of the past!"
+	STRING_EN[2469]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to Commander Sivaka and recapture the former glory!"
 	STRING_EN[2469]["real_idx"] = 2469
 
 STRING_EN["index"][2470] = 2470
 STRING_EN[2470] = {}
 	STRING_EN[2470]["ID"] = 2470
 	STRING_EN[2470]["KEY"] = "M_MAINCOPY_6010101"
-	STRING_EN[2470]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010101 and regain the glory of the past!"
+	STRING_EN[2470]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010101 and recapture the former glory!"
 	STRING_EN[2470]["real_idx"] = 2470
 
 STRING_EN["index"][2471] = 2471
 STRING_EN[2471] = {}
 	STRING_EN[2471]["ID"] = 2471
 	STRING_EN[2471]["KEY"] = "M_MAINCOPY_6010102"
-	STRING_EN[2471]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010102 and regain the glory of the past!"
+	STRING_EN[2471]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010102 and recapture the former glory!"
 	STRING_EN[2471]["real_idx"] = 2471
 
 STRING_EN["index"][2472] = 2472
 STRING_EN[2472] = {}
 	STRING_EN[2472]["ID"] = 2472
 	STRING_EN[2472]["KEY"] = "M_MAINCOPY_6010103"
-	STRING_EN[2472]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010103 to regain the glory of the past!"
+	STRING_EN[2472]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010103 and recapture the former glory!"
 	STRING_EN[2472]["real_idx"] = 2472
 
 STRING_EN["index"][2473] = 2473
 STRING_EN[2473] = {}
 	STRING_EN[2473]["ID"] = 2473
 	STRING_EN[2473]["KEY"] = "M_MAINCOPY_6010104"
-	STRING_EN[2473]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010104 and regain the glory of the past!"
+	STRING_EN[2473]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010104 and recapture the former glory!"
 	STRING_EN[2473]["real_idx"] = 2473
 
 STRING_EN["index"][2474] = 2474
 STRING_EN[2474] = {}
 	STRING_EN[2474]["ID"] = 2474
 	STRING_EN[2474]["KEY"] = "M_MAINCOPY_6010105"
-	STRING_EN[2474]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010105 and regain the glory of the past!"
+	STRING_EN[2474]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010105 and recapture the former glory!"
 	STRING_EN[2474]["real_idx"] = 2474
 
 STRING_EN["index"][2475] = 2475
 STRING_EN[2475] = {}
 	STRING_EN[2475]["ID"] = 2475
 	STRING_EN[2475]["KEY"] = "M_MAINCOPY_6010106"
-	STRING_EN[2475]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010106 to regain the glory of the past!"
+	STRING_EN[2475]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010106 and recapture the former glory!"
 	STRING_EN[2475]["real_idx"] = 2475
 
 STRING_EN["index"][2476] = 2476
 STRING_EN[2476] = {}
 	STRING_EN[2476]["ID"] = 2476
 	STRING_EN[2476]["KEY"] = "M_MAINCOPY_6010107"
-	STRING_EN[2476]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010107 to regain the glory of the past!"
+	STRING_EN[2476]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010107 and recapture the former glory!"
 	STRING_EN[2476]["real_idx"] = 2476
 
 STRING_EN["index"][2477] = 2477
 STRING_EN[2477] = {}
 	STRING_EN[2477]["ID"] = 2477
 	STRING_EN[2477]["KEY"] = "M_MAINCOPY_6010108"
-	STRING_EN[2477]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010108 to regain the glory of the past!"
+	STRING_EN[2477]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010108 and recapture the former glory!"
 	STRING_EN[2477]["real_idx"] = 2477
 
 STRING_EN["index"][2478] = 2478
 STRING_EN[2478] = {}
 	STRING_EN[2478]["ID"] = 2478
 	STRING_EN[2478]["KEY"] = "M_MAINCOPY_6010201"
-	STRING_EN[2478]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010201 and regain the glory of the past!"
+	STRING_EN[2478]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010201 and recapture the former glory!"
 	STRING_EN[2478]["real_idx"] = 2478
 
 STRING_EN["index"][2479] = 2479
 STRING_EN[2479] = {}
 	STRING_EN[2479]["ID"] = 2479
 	STRING_EN[2479]["KEY"] = "M_MAINCOPY_6010202"
-	STRING_EN[2479]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010202 and regain the glory of the past!"
+	STRING_EN[2479]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010202 and recapture the former glory!"
 	STRING_EN[2479]["real_idx"] = 2479
 
 STRING_EN["index"][2480] = 2480
 STRING_EN[2480] = {}
 	STRING_EN[2480]["ID"] = 2480
 	STRING_EN[2480]["KEY"] = "M_MAINCOPY_6010203"
-	STRING_EN[2480]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010203 and regain the glory of the past!"
+	STRING_EN[2480]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010203 and recapture the former glory!"
 	STRING_EN[2480]["real_idx"] = 2480
 
 STRING_EN["index"][2481] = 2481
 STRING_EN[2481] = {}
 	STRING_EN[2481]["ID"] = 2481
 	STRING_EN[2481]["KEY"] = "M_MAINCOPY_6010204"
-	STRING_EN[2481]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010204 and regain the glory of the past!"
+	STRING_EN[2481]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010204 and recapture the former glory!"
 	STRING_EN[2481]["real_idx"] = 2481
 
 STRING_EN["index"][2482] = 2482
 STRING_EN[2482] = {}
 	STRING_EN[2482]["ID"] = 2482
 	STRING_EN[2482]["KEY"] = "M_MAINCOPY_6010205"
-	STRING_EN[2482]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010205 to regain the glory of the past!"
+	STRING_EN[2482]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010205 and recapture the former glory!"
 	STRING_EN[2482]["real_idx"] = 2482
 
 STRING_EN["index"][2483] = 2483
 STRING_EN[2483] = {}
 	STRING_EN[2483]["ID"] = 2483
 	STRING_EN[2483]["KEY"] = "M_MAINCOPY_6010206"
-	STRING_EN[2483]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010206 to regain the glory of the past!"
+	STRING_EN[2483]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010206 and recapture the former glory!"
 	STRING_EN[2483]["real_idx"] = 2483
 
 STRING_EN["index"][2484] = 2484
 STRING_EN[2484] = {}
 	STRING_EN[2484]["ID"] = 2484
 	STRING_EN[2484]["KEY"] = "M_MAINCOPY_6010207"
-	STRING_EN[2484]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010207 to regain the glory of the past!"
+	STRING_EN[2484]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010207 and recapture the former glory!"
 	STRING_EN[2484]["real_idx"] = 2484
 
 STRING_EN["index"][2485] = 2485
 STRING_EN[2485] = {}
 	STRING_EN[2485]["ID"] = 2485
 	STRING_EN[2485]["KEY"] = "M_MAINCOPY_6010208"
-	STRING_EN[2485]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010208 to regain the glory of the past!"
+	STRING_EN[2485]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010208 and recapture the former glory!"
 	STRING_EN[2485]["real_idx"] = 2485
 
 STRING_EN["index"][2486] = 2486
 STRING_EN[2486] = {}
 	STRING_EN[2486]["ID"] = 2486
 	STRING_EN[2486]["KEY"] = "M_MAINCOPY_6010209"
-	STRING_EN[2486]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010209 to regain the glory of the past!"
+	STRING_EN[2486]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010209 and recapture the former glory!"
 	STRING_EN[2486]["real_idx"] = 2486
 
 STRING_EN["index"][2487] = 2487
 STRING_EN[2487] = {}
 	STRING_EN[2487]["ID"] = 2487
 	STRING_EN[2487]["KEY"] = "M_MAINCOPY_6010301"
-	STRING_EN[2487]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010301 and regain the glory of the past!"
+	STRING_EN[2487]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010301 and recapture the former glory!"
 	STRING_EN[2487]["real_idx"] = 2487
 
 STRING_EN["index"][2488] = 2488
 STRING_EN[2488] = {}
 	STRING_EN[2488]["ID"] = 2488
 	STRING_EN[2488]["KEY"] = "M_MAINCOPY_6010302"
-	STRING_EN[2488]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010302 to regain the glory of the past!"
+	STRING_EN[2488]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010302 and recapture the former glory!"
 	STRING_EN[2488]["real_idx"] = 2488
 
 STRING_EN["index"][2489] = 2489
 STRING_EN[2489] = {}
 	STRING_EN[2489]["ID"] = 2489
 	STRING_EN[2489]["KEY"] = "M_MAINCOPY_6010303"
-	STRING_EN[2489]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010303 and regain the glory of the past!"
+	STRING_EN[2489]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010303 and recapture the former glory!"
 	STRING_EN[2489]["real_idx"] = 2489
 
 STRING_EN["index"][2490] = 2490
 STRING_EN[2490] = {}
 	STRING_EN[2490]["ID"] = 2490
 	STRING_EN[2490]["KEY"] = "M_MAINCOPY_6010304"
-	STRING_EN[2490]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010304 to regain the glory of the past!"
+	STRING_EN[2490]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010304 and recapture the former glory!"
 	STRING_EN[2490]["real_idx"] = 2490
 
 STRING_EN["index"][2491] = 2491
 STRING_EN[2491] = {}
 	STRING_EN[2491]["ID"] = 2491
 	STRING_EN[2491]["KEY"] = "M_MAINCOPY_6010305"
-	STRING_EN[2491]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010305 and regain the glory of the past!"
+	STRING_EN[2491]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010305 and recapture the former glory!"
 	STRING_EN[2491]["real_idx"] = 2491
 
 STRING_EN["index"][2492] = 2492
 STRING_EN[2492] = {}
 	STRING_EN[2492]["ID"] = 2492
 	STRING_EN[2492]["KEY"] = "M_MAINCOPY_6010306"
-	STRING_EN[2492]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010306 to regain the glory of the past!"
+	STRING_EN[2492]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010306 and recapture the former glory!"
 	STRING_EN[2492]["real_idx"] = 2492
 
 STRING_EN["index"][2493] = 2493
 STRING_EN[2493] = {}
 	STRING_EN[2493]["ID"] = 2493
 	STRING_EN[2493]["KEY"] = "M_MAINCOPY_6010307"
-	STRING_EN[2493]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010307 and regain the glory of the past!"
+	STRING_EN[2493]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010307 and recapture the former glory!"
 	STRING_EN[2493]["real_idx"] = 2493
 
 STRING_EN["index"][2494] = 2494
 STRING_EN[2494] = {}
 	STRING_EN[2494]["ID"] = 2494
 	STRING_EN[2494]["KEY"] = "M_MAINCOPY_6010308"
-	STRING_EN[2494]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010308 to regain the glory of the past!"
+	STRING_EN[2494]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010308 and recapture the former glory!"
 	STRING_EN[2494]["real_idx"] = 2494
 
 STRING_EN["index"][2495] = 2495
 STRING_EN[2495] = {}
 	STRING_EN[2495]["ID"] = 2495
 	STRING_EN[2495]["KEY"] = "M_MAINCOPY_6010309"
-	STRING_EN[2495]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010309 to regain the glory of the past!"
+	STRING_EN[2495]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010309 and recapture the former glory!"
 	STRING_EN[2495]["real_idx"] = 2495
 
 STRING_EN["index"][2496] = 2496
 STRING_EN[2496] = {}
 	STRING_EN[2496]["ID"] = 2496
 	STRING_EN[2496]["KEY"] = "M_MAINCOPY_6010401"
-	STRING_EN[2496]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010401 and regain the glory of the past!"
+	STRING_EN[2496]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010401 and recapture the former glory!"
 	STRING_EN[2496]["real_idx"] = 2496
 
 STRING_EN["index"][2497] = 2497
 STRING_EN[2497] = {}
 	STRING_EN[2497]["ID"] = 2497
 	STRING_EN[2497]["KEY"] = "M_MAINCOPY_6010402"
-	STRING_EN[2497]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010402 and regain the glory of the past!"
+	STRING_EN[2497]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010402 and recapture the former glory!"
 	STRING_EN[2497]["real_idx"] = 2497
 
 STRING_EN["index"][2498] = 2498
 STRING_EN[2498] = {}
 	STRING_EN[2498]["ID"] = 2498
 	STRING_EN[2498]["KEY"] = "M_MAINCOPY_6010403"
-	STRING_EN[2498]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010403 to regain the glory of the past!"
+	STRING_EN[2498]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010403 and recapture the former glory!"
 	STRING_EN[2498]["real_idx"] = 2498
 
 STRING_EN["index"][2499] = 2499
 STRING_EN[2499] = {}
 	STRING_EN[2499]["ID"] = 2499
 	STRING_EN[2499]["KEY"] = "M_MAINCOPY_6010404"
-	STRING_EN[2499]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010404 and regain the glory of the past!"
+	STRING_EN[2499]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010404 and recapture the former glory!"
 	STRING_EN[2499]["real_idx"] = 2499
 
 STRING_EN["index"][2500] = 2500
 STRING_EN[2500] = {}
 	STRING_EN[2500]["ID"] = 2500
 	STRING_EN[2500]["KEY"] = "M_MAINCOPY_6010405"
-	STRING_EN[2500]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010405 to regain the glory of the past!"
+	STRING_EN[2500]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010405 and recapture the former glory!"
 	STRING_EN[2500]["real_idx"] = 2500
 
 STRING_EN["index"][2501] = 2501
 STRING_EN[2501] = {}
 	STRING_EN[2501]["ID"] = 2501
 	STRING_EN[2501]["KEY"] = "M_MAINCOPY_6010406"
-	STRING_EN[2501]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010406 ​​to regain the glory of the past!"
+	STRING_EN[2501]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010406 and recapture the former glory!"
 	STRING_EN[2501]["real_idx"] = 2501
 
 STRING_EN["index"][2502] = 2502
 STRING_EN[2502] = {}
 	STRING_EN[2502]["ID"] = 2502
 	STRING_EN[2502]["KEY"] = "M_MAINCOPY_6010407"
-	STRING_EN[2502]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010407 and regain the glory of the past!"
+	STRING_EN[2502]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010407 and recapture the former glory!"
 	STRING_EN[2502]["real_idx"] = 2502
 
 STRING_EN["index"][2503] = 2503
 STRING_EN[2503] = {}
 	STRING_EN[2503]["ID"] = 2503
 	STRING_EN[2503]["KEY"] = "M_MAINCOPY_6010408"
-	STRING_EN[2503]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010408 to regain the glory of the past!"
+	STRING_EN[2503]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010408 and recapture the former glory!"
 	STRING_EN[2503]["real_idx"] = 2503
 
 STRING_EN["index"][2504] = 2504
 STRING_EN[2504] = {}
 	STRING_EN[2504]["ID"] = 2504
 	STRING_EN[2504]["KEY"] = "M_MAINCOPY_6010409"
-	STRING_EN[2504]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010409 to regain the glory of the past!"
+	STRING_EN[2504]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010409 and recapture the former glory!"
 	STRING_EN[2504]["real_idx"] = 2504
 
 STRING_EN["index"][2505] = 2505
 STRING_EN[2505] = {}
 	STRING_EN[2505]["ID"] = 2505
 	STRING_EN[2505]["KEY"] = "M_MAINCOPY_6010501"
-	STRING_EN[2505]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010501 to regain the glory of the past!"
+	STRING_EN[2505]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010501 and recapture the former glory!"
 	STRING_EN[2505]["real_idx"] = 2505
 
 STRING_EN["index"][2506] = 2506
 STRING_EN[2506] = {}
 	STRING_EN[2506]["ID"] = 2506
 	STRING_EN[2506]["KEY"] = "M_MAINCOPY_6010502"
-	STRING_EN[2506]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010502 and regain the glory of the past!"
+	STRING_EN[2506]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010502 and recapture the former glory!"
 	STRING_EN[2506]["real_idx"] = 2506
 
 STRING_EN["index"][2507] = 2507
 STRING_EN[2507] = {}
 	STRING_EN[2507]["ID"] = 2507
 	STRING_EN[2507]["KEY"] = "M_MAINCOPY_6010503"
-	STRING_EN[2507]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010503 and regain the glory of the past!"
+	STRING_EN[2507]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010503 and recapture the former glory!"
 	STRING_EN[2507]["real_idx"] = 2507
 
 STRING_EN["index"][2508] = 2508
 STRING_EN[2508] = {}
 	STRING_EN[2508]["ID"] = 2508
 	STRING_EN[2508]["KEY"] = "M_MAINCOPY_6010504"
-	STRING_EN[2508]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010504 and regain the glory of the past!"
+	STRING_EN[2508]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010504 and recapture the former glory!"
 	STRING_EN[2508]["real_idx"] = 2508
 
 STRING_EN["index"][2509] = 2509
 STRING_EN[2509] = {}
 	STRING_EN[2509]["ID"] = 2509
 	STRING_EN[2509]["KEY"] = "M_MAINCOPY_6010505"
-	STRING_EN[2509]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010505 and regain the glory of the past!"
+	STRING_EN[2509]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010505 and recapture the former glory!"
 	STRING_EN[2509]["real_idx"] = 2509
 
 STRING_EN["index"][2510] = 2510
 STRING_EN[2510] = {}
 	STRING_EN[2510]["ID"] = 2510
 	STRING_EN[2510]["KEY"] = "M_MAINCOPY_6010506"
-	STRING_EN[2510]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010506 and regain the glory of the past!"
+	STRING_EN[2510]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010506 and recapture the former glory!"
 	STRING_EN[2510]["real_idx"] = 2510
 
 STRING_EN["index"][2511] = 2511
 STRING_EN[2511] = {}
 	STRING_EN[2511]["ID"] = 2511
 	STRING_EN[2511]["KEY"] = "M_MAINCOPY_6010507"
-	STRING_EN[2511]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010507 and regain the glory of the past!"
+	STRING_EN[2511]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010507 and recapture the former glory!"
 	STRING_EN[2511]["real_idx"] = 2511
 
 STRING_EN["index"][2512] = 2512
 STRING_EN[2512] = {}
 	STRING_EN[2512]["ID"] = 2512
 	STRING_EN[2512]["KEY"] = "M_MAINCOPY_6010508"
-	STRING_EN[2512]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010508 and regain the glory of the past!"
+	STRING_EN[2512]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010508 and recapture the former glory!"
 	STRING_EN[2512]["real_idx"] = 2512
 
 STRING_EN["index"][2513] = 2513
 STRING_EN[2513] = {}
 	STRING_EN[2513]["ID"] = 2513
 	STRING_EN[2513]["KEY"] = "M_MAINCOPY_6010509"
-	STRING_EN[2513]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010509 and regain the glory of the past!"
+	STRING_EN[2513]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010509 and recapture the former glory!"
 	STRING_EN[2513]["real_idx"] = 2513
 
 STRING_EN["index"][2514] = 2514
 STRING_EN[2514] = {}
 	STRING_EN[2514]["ID"] = 2514
 	STRING_EN[2514]["KEY"] = "M_MAINCOPY_6010601"
-	STRING_EN[2514]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010601 and regain the glory of the past!"
+	STRING_EN[2514]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010601 and recapture the former glory!"
 	STRING_EN[2514]["real_idx"] = 2514
 
 STRING_EN["index"][2515] = 2515
 STRING_EN[2515] = {}
 	STRING_EN[2515]["ID"] = 2515
 	STRING_EN[2515]["KEY"] = "M_MAINCOPY_6010602"
-	STRING_EN[2515]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010602 and regain the glory of the past!"
+	STRING_EN[2515]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010602 and recapture the former glory!"
 	STRING_EN[2515]["real_idx"] = 2515
 
 STRING_EN["index"][2516] = 2516
 STRING_EN[2516] = {}
 	STRING_EN[2516]["ID"] = 2516
 	STRING_EN[2516]["KEY"] = "M_MAINCOPY_6010603"
-	STRING_EN[2516]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010603 and regain the glory of the past!"
+	STRING_EN[2516]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010603 and recapture the former glory!"
 	STRING_EN[2516]["real_idx"] = 2516
 
 STRING_EN["index"][2517] = 2517
 STRING_EN[2517] = {}
 	STRING_EN[2517]["ID"] = 2517
 	STRING_EN[2517]["KEY"] = "M_MAINCOPY_6010604"
-	STRING_EN[2517]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010604 to regain the glory of the past!"
+	STRING_EN[2517]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010604 and recapture the former glory!"
 	STRING_EN[2517]["real_idx"] = 2517
 
 STRING_EN["index"][2518] = 2518
 STRING_EN[2518] = {}
 	STRING_EN[2518]["ID"] = 2518
 	STRING_EN[2518]["KEY"] = "M_MAINCOPY_6010605"
-	STRING_EN[2518]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010605 to regain the glory of the past!"
+	STRING_EN[2518]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010605 and recapture the former glory!"
 	STRING_EN[2518]["real_idx"] = 2518
 
 STRING_EN["index"][2519] = 2519
 STRING_EN[2519] = {}
 	STRING_EN[2519]["ID"] = 2519
 	STRING_EN[2519]["KEY"] = "M_MAINCOPY_6010606"
-	STRING_EN[2519]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010606 to regain the glory of the past!"
+	STRING_EN[2519]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010606 and recapture the former glory!"
 	STRING_EN[2519]["real_idx"] = 2519
 
 STRING_EN["index"][2520] = 2520
 STRING_EN[2520] = {}
 	STRING_EN[2520]["ID"] = 2520
 	STRING_EN[2520]["KEY"] = "M_MAINCOPY_6010607"
-	STRING_EN[2520]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010607 to regain the glory of the past!"
+	STRING_EN[2520]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010607 and recapture the former glory!"
 	STRING_EN[2520]["real_idx"] = 2520
 
 STRING_EN["index"][2521] = 2521
 STRING_EN[2521] = {}
 	STRING_EN[2521]["ID"] = 2521
 	STRING_EN[2521]["KEY"] = "M_MAINCOPY_6010608"
-	STRING_EN[2521]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010608 to regain the glory of the past!"
+	STRING_EN[2521]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010608 and recapture the former glory!"
 	STRING_EN[2521]["real_idx"] = 2521
 
 STRING_EN["index"][2522] = 2522
 STRING_EN[2522] = {}
 	STRING_EN[2522]["ID"] = 2522
 	STRING_EN[2522]["KEY"] = "M_MAINCOPY_6010609"
-	STRING_EN[2522]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010609 to regain the glory of the past!"
+	STRING_EN[2522]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010609 and recapture the former glory!"
 	STRING_EN[2522]["real_idx"] = 2522
 
 STRING_EN["index"][2523] = 2523
 STRING_EN[2523] = {}
 	STRING_EN[2523]["ID"] = 2523
 	STRING_EN[2523]["KEY"] = "M_MAINCOPY_6010701"
-	STRING_EN[2523]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010701 to regain the glory of the past!"
+	STRING_EN[2523]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010701 and recapture the former glory!"
 	STRING_EN[2523]["real_idx"] = 2523
 
 STRING_EN["index"][2524] = 2524
 STRING_EN[2524] = {}
 	STRING_EN[2524]["ID"] = 2524
 	STRING_EN[2524]["KEY"] = "M_MAINCOPY_6010702"
-	STRING_EN[2524]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010702 to regain the glory of the past!"
+	STRING_EN[2524]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010702 and recapture the former glory!"
 	STRING_EN[2524]["real_idx"] = 2524
 
 STRING_EN["index"][2525] = 2525
 STRING_EN[2525] = {}
 	STRING_EN[2525]["ID"] = 2525
 	STRING_EN[2525]["KEY"] = "M_MAINCOPY_6010703"
-	STRING_EN[2525]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010703 to regain the glory of the past!"
+	STRING_EN[2525]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010703 and recapture the former glory!"
 	STRING_EN[2525]["real_idx"] = 2525
 
 STRING_EN["index"][2526] = 2526
 STRING_EN[2526] = {}
 	STRING_EN[2526]["ID"] = 2526
 	STRING_EN[2526]["KEY"] = "M_MAINCOPY_6010704"
-	STRING_EN[2526]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010704 to regain the glory of the past!"
+	STRING_EN[2526]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010704 and recapture the former glory!"
 	STRING_EN[2526]["real_idx"] = 2526
 
 STRING_EN["index"][2527] = 2527
 STRING_EN[2527] = {}
 	STRING_EN[2527]["ID"] = 2527
 	STRING_EN[2527]["KEY"] = "M_MAINCOPY_6010705"
-	STRING_EN[2527]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010705 to regain the glory of the past!"
+	STRING_EN[2527]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010705 and recapture the former glory!"
 	STRING_EN[2527]["real_idx"] = 2527
 
 STRING_EN["index"][2528] = 2528
 STRING_EN[2528] = {}
 	STRING_EN[2528]["ID"] = 2528
 	STRING_EN[2528]["KEY"] = "M_MAINCOPY_6010706"
-	STRING_EN[2528]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010706 to regain the glory of the past!"
+	STRING_EN[2528]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010706 and recapture the former glory!"
 	STRING_EN[2528]["real_idx"] = 2528
 
 STRING_EN["index"][2529] = 2529
 STRING_EN[2529] = {}
 	STRING_EN[2529]["ID"] = 2529
 	STRING_EN[2529]["KEY"] = "M_MAINCOPY_6010707"
-	STRING_EN[2529]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010707 to regain the glory of the past!"
+	STRING_EN[2529]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010707 and recapture the former glory!"
 	STRING_EN[2529]["real_idx"] = 2529
 
 STRING_EN["index"][2530] = 2530
 STRING_EN[2530] = {}
 	STRING_EN[2530]["ID"] = 2530
 	STRING_EN[2530]["KEY"] = "M_MAINCOPY_6010708"
-	STRING_EN[2530]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010708 to regain the glory of the past!"
+	STRING_EN[2530]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010708 and recapture the former glory!"
 	STRING_EN[2530]["real_idx"] = 2530
 
 STRING_EN["index"][2531] = 2531
 STRING_EN[2531] = {}
 	STRING_EN[2531]["ID"] = 2531
 	STRING_EN[2531]["KEY"] = "M_MAINCOPY_6010709"
-	STRING_EN[2531]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010709 to regain the glory of the past!"
+	STRING_EN[2531]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010709 and recapture the former glory!"
 	STRING_EN[2531]["real_idx"] = 2531
 
 STRING_EN["index"][2532] = 2532
 STRING_EN[2532] = {}
 	STRING_EN[2532]["ID"] = 2532
 	STRING_EN[2532]["KEY"] = "M_MAINCOPY_6010801"
-	STRING_EN[2532]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010801 and regain the glory of the past!"
+	STRING_EN[2532]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010801 and recapture the former glory!"
 	STRING_EN[2532]["real_idx"] = 2532
 
 STRING_EN["index"][2533] = 2533
 STRING_EN[2533] = {}
 	STRING_EN[2533]["ID"] = 2533
 	STRING_EN[2533]["KEY"] = "M_MAINCOPY_6010802"
-	STRING_EN[2533]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010802 and regain the glory of the past!"
+	STRING_EN[2533]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010802 and recapture the former glory!"
 	STRING_EN[2533]["real_idx"] = 2533
 
 STRING_EN["index"][2534] = 2534
 STRING_EN[2534] = {}
 	STRING_EN[2534]["ID"] = 2534
 	STRING_EN[2534]["KEY"] = "M_MAINCOPY_6010803"
-	STRING_EN[2534]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010803 and regain the glory of the past!"
+	STRING_EN[2534]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010803 and recapture the former glory!"
 	STRING_EN[2534]["real_idx"] = 2534
 
 STRING_EN["index"][2535] = 2535
 STRING_EN[2535] = {}
 	STRING_EN[2535]["ID"] = 2535
 	STRING_EN[2535]["KEY"] = "M_MAINCOPY_6010804"
-	STRING_EN[2535]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010804 to regain the glory of the past!"
+	STRING_EN[2535]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010804 and recapture the former glory!"
 	STRING_EN[2535]["real_idx"] = 2535
 
 STRING_EN["index"][2536] = 2536
 STRING_EN[2536] = {}
 	STRING_EN[2536]["ID"] = 2536
 	STRING_EN[2536]["KEY"] = "M_MAINCOPY_6010805"
-	STRING_EN[2536]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010805 and regain the glory of the past!"
+	STRING_EN[2536]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010805 and recapture the former glory!"
 	STRING_EN[2536]["real_idx"] = 2536
 
 STRING_EN["index"][2537] = 2537
 STRING_EN[2537] = {}
 	STRING_EN[2537]["ID"] = 2537
 	STRING_EN[2537]["KEY"] = "M_MAINCOPY_6010806"
-	STRING_EN[2537]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010806 to regain the glory of the past!"
+	STRING_EN[2537]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010806 and recapture the former glory!"
 	STRING_EN[2537]["real_idx"] = 2537
 
 STRING_EN["index"][2538] = 2538
 STRING_EN[2538] = {}
 	STRING_EN[2538]["ID"] = 2538
 	STRING_EN[2538]["KEY"] = "M_MAINCOPY_6010807"
-	STRING_EN[2538]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010807 to regain the glory of the past!"
+	STRING_EN[2538]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010807 and recapture the former glory!"
 	STRING_EN[2538]["real_idx"] = 2538
 
 STRING_EN["index"][2539] = 2539
 STRING_EN[2539] = {}
 	STRING_EN[2539]["ID"] = 2539
 	STRING_EN[2539]["KEY"] = "M_MAINCOPY_6010808"
-	STRING_EN[2539]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010808 to regain the glory of the past!"
+	STRING_EN[2539]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010808 and recapture the former glory!"
 	STRING_EN[2539]["real_idx"] = 2539
 
 STRING_EN["index"][2540] = 2540
 STRING_EN[2540] = {}
 	STRING_EN[2540]["ID"] = 2540
 	STRING_EN[2540]["KEY"] = "M_MAINCOPY_6010809"
-	STRING_EN[2540]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010809 to regain the glory of the past!"
+	STRING_EN[2540]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010809 and recapture the former glory!"
 	STRING_EN[2540]["real_idx"] = 2540
 
 STRING_EN["index"][2541] = 2541
 STRING_EN[2541] = {}
 	STRING_EN[2541]["ID"] = 2541
 	STRING_EN[2541]["KEY"] = "M_MAINCOPY_6010901"
-	STRING_EN[2541]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010901 to regain the glory of the past!"
+	STRING_EN[2541]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010901 and recapture the former glory!"
 	STRING_EN[2541]["real_idx"] = 2541
 
 STRING_EN["index"][2542] = 2542
 STRING_EN[2542] = {}
 	STRING_EN[2542]["ID"] = 2542
 	STRING_EN[2542]["KEY"] = "M_MAINCOPY_6010902"
-	STRING_EN[2542]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010902 and regain the glory of the past!"
+	STRING_EN[2542]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010902 and recapture the former glory!"
 	STRING_EN[2542]["real_idx"] = 2542
 
 STRING_EN["index"][2543] = 2543
 STRING_EN[2543] = {}
 	STRING_EN[2543]["ID"] = 2543
 	STRING_EN[2543]["KEY"] = "M_MAINCOPY_6010903"
-	STRING_EN[2543]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010903 and regain the glory of the past!"
+	STRING_EN[2543]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010903 and recapture the former glory!"
 	STRING_EN[2543]["real_idx"] = 2543
 
 STRING_EN["index"][2544] = 2544
 STRING_EN[2544] = {}
 	STRING_EN[2544]["ID"] = 2544
 	STRING_EN[2544]["KEY"] = "M_MAINCOPY_6010904"
-	STRING_EN[2544]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010904 and regain the glory of the past!"
+	STRING_EN[2544]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010904 and recapture the former glory!"
 	STRING_EN[2544]["real_idx"] = 2544
 
 STRING_EN["index"][2545] = 2545
 STRING_EN[2545] = {}
 	STRING_EN[2545]["ID"] = 2545
 	STRING_EN[2545]["KEY"] = "M_MAINCOPY_6010905"
-	STRING_EN[2545]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010905 and regain the glory of the past!"
+	STRING_EN[2545]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010905 and recapture the former glory!"
 	STRING_EN[2545]["real_idx"] = 2545
 
 STRING_EN["index"][2546] = 2546
 STRING_EN[2546] = {}
 	STRING_EN[2546]["ID"] = 2546
 	STRING_EN[2546]["KEY"] = "M_MAINCOPY_6010906"
-	STRING_EN[2546]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010906 and regain the glory of the past!"
+	STRING_EN[2546]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010906 and recapture the former glory!"
 	STRING_EN[2546]["real_idx"] = 2546
 
 STRING_EN["index"][2547] = 2547
 STRING_EN[2547] = {}
 	STRING_EN[2547]["ID"] = 2547
 	STRING_EN[2547]["KEY"] = "M_MAINCOPY_6010907"
-	STRING_EN[2547]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010907 and regain the glory of the past!"
+	STRING_EN[2547]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010907 and recapture the former glory!"
 	STRING_EN[2547]["real_idx"] = 2547
 
 STRING_EN["index"][2548] = 2548
 STRING_EN[2548] = {}
 	STRING_EN[2548]["ID"] = 2548
 	STRING_EN[2548]["KEY"] = "M_MAINCOPY_6010908"
-	STRING_EN[2548]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010908 and regain the glory of the past!"
+	STRING_EN[2548]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010908 and recapture the former glory!"
 	STRING_EN[2548]["real_idx"] = 2548
 
 STRING_EN["index"][2549] = 2549
 STRING_EN[2549] = {}
 	STRING_EN[2549]["ID"] = 2549
 	STRING_EN[2549]["KEY"] = "M_MAINCOPY_6010909"
-	STRING_EN[2549]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_6010909 and regain the glory of the past!"
+	STRING_EN[2549]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_6010909 and recapture the former glory!"
 	STRING_EN[2549]["real_idx"] = 2549
 
 STRING_EN["index"][2550] = 2550
 STRING_EN[2550] = {}
 	STRING_EN[2550]["ID"] = 2550
 	STRING_EN[2550]["KEY"] = "M_MAINCOPY_7010101"
-	STRING_EN[2550]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010101 and regain the glory of the past!"
+	STRING_EN[2550]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010101 and recapture the former glory!"
 	STRING_EN[2550]["real_idx"] = 2550
 
 STRING_EN["index"][2551] = 2551
 STRING_EN[2551] = {}
 	STRING_EN[2551]["ID"] = 2551
 	STRING_EN[2551]["KEY"] = "M_MAINCOPY_7010102"
-	STRING_EN[2551]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010102 and regain the glory of the past!"
+	STRING_EN[2551]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010102 and recapture the former glory!"
 	STRING_EN[2551]["real_idx"] = 2551
 
 STRING_EN["index"][2552] = 2552
 STRING_EN[2552] = {}
 	STRING_EN[2552]["ID"] = 2552
 	STRING_EN[2552]["KEY"] = "M_MAINCOPY_7010103"
-	STRING_EN[2552]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010103 and regain the glory of the past!"
+	STRING_EN[2552]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010103 and recapture the former glory!"
 	STRING_EN[2552]["real_idx"] = 2552
 
 STRING_EN["index"][2553] = 2553
 STRING_EN[2553] = {}
 	STRING_EN[2553]["ID"] = 2553
 	STRING_EN[2553]["KEY"] = "M_MAINCOPY_7010104"
-	STRING_EN[2553]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010104 and regain the glory of the past!"
+	STRING_EN[2553]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010104 and recapture the former glory!"
 	STRING_EN[2553]["real_idx"] = 2553
 
 STRING_EN["index"][2554] = 2554
 STRING_EN[2554] = {}
 	STRING_EN[2554]["ID"] = 2554
 	STRING_EN[2554]["KEY"] = "M_MAINCOPY_7010105"
-	STRING_EN[2554]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010105 to regain the glory of the past!"
+	STRING_EN[2554]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010105 and recapture the former glory!"
 	STRING_EN[2554]["real_idx"] = 2554
 
 STRING_EN["index"][2555] = 2555
 STRING_EN[2555] = {}
 	STRING_EN[2555]["ID"] = 2555
 	STRING_EN[2555]["KEY"] = "M_MAINCOPY_7010106"
-	STRING_EN[2555]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010106 to regain the glory of the past!"
+	STRING_EN[2555]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010106 and recapture the former glory!"
 	STRING_EN[2555]["real_idx"] = 2555
 
 STRING_EN["index"][2556] = 2556
 STRING_EN[2556] = {}
 	STRING_EN[2556]["ID"] = 2556
 	STRING_EN[2556]["KEY"] = "M_MAINCOPY_7010107"
-	STRING_EN[2556]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010107 to regain the glory of the past!"
+	STRING_EN[2556]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010107 and recapture the former glory!"
 	STRING_EN[2556]["real_idx"] = 2556
 
 STRING_EN["index"][2557] = 2557
 STRING_EN[2557] = {}
 	STRING_EN[2557]["ID"] = 2557
 	STRING_EN[2557]["KEY"] = "M_MAINCOPY_7010108"
-	STRING_EN[2557]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010108 and regain the glory of the past!"
+	STRING_EN[2557]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010108 and recapture the former glory!"
 	STRING_EN[2557]["real_idx"] = 2557
 
 STRING_EN["index"][2558] = 2558
 STRING_EN[2558] = {}
 	STRING_EN[2558]["ID"] = 2558
 	STRING_EN[2558]["KEY"] = "M_MAINCOPY_7010201"
-	STRING_EN[2558]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010201 and regain the glory of the past!"
+	STRING_EN[2558]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010201 and recapture the former glory!"
 	STRING_EN[2558]["real_idx"] = 2558
 
 STRING_EN["index"][2559] = 2559
 STRING_EN[2559] = {}
 	STRING_EN[2559]["ID"] = 2559
 	STRING_EN[2559]["KEY"] = "M_MAINCOPY_7010202"
-	STRING_EN[2559]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010202 and regain the glory of the past!"
+	STRING_EN[2559]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010202 and recapture the former glory!"
 	STRING_EN[2559]["real_idx"] = 2559
 
 STRING_EN["index"][2560] = 2560
 STRING_EN[2560] = {}
 	STRING_EN[2560]["ID"] = 2560
 	STRING_EN[2560]["KEY"] = "M_MAINCOPY_7010203"
-	STRING_EN[2560]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010203 and regain the glory of the past!"
+	STRING_EN[2560]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010203 and recapture the former glory!"
 	STRING_EN[2560]["real_idx"] = 2560
 
 STRING_EN["index"][2561] = 2561
 STRING_EN[2561] = {}
 	STRING_EN[2561]["ID"] = 2561
 	STRING_EN[2561]["KEY"] = "M_MAINCOPY_7010204"
-	STRING_EN[2561]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010204 and regain the glory of the past!"
+	STRING_EN[2561]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010204 and recapture the former glory!"
 	STRING_EN[2561]["real_idx"] = 2561
 
 STRING_EN["index"][2562] = 2562
 STRING_EN[2562] = {}
 	STRING_EN[2562]["ID"] = 2562
 	STRING_EN[2562]["KEY"] = "M_MAINCOPY_7010205"
-	STRING_EN[2562]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010205 to regain the glory of the past!"
+	STRING_EN[2562]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010205 and recapture the former glory!"
 	STRING_EN[2562]["real_idx"] = 2562
 
 STRING_EN["index"][2563] = 2563
 STRING_EN[2563] = {}
 	STRING_EN[2563]["ID"] = 2563
 	STRING_EN[2563]["KEY"] = "M_MAINCOPY_7010206"
-	STRING_EN[2563]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010206 to regain the glory of the past!"
+	STRING_EN[2563]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010206 and recapture the former glory!"
 	STRING_EN[2563]["real_idx"] = 2563
 
 STRING_EN["index"][2564] = 2564
 STRING_EN[2564] = {}
 	STRING_EN[2564]["ID"] = 2564
 	STRING_EN[2564]["KEY"] = "M_MAINCOPY_7010207"
-	STRING_EN[2564]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010207 to regain the glory of the past!"
+	STRING_EN[2564]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010207 and recapture the former glory!"
 	STRING_EN[2564]["real_idx"] = 2564
 
 STRING_EN["index"][2565] = 2565
 STRING_EN[2565] = {}
 	STRING_EN[2565]["ID"] = 2565
 	STRING_EN[2565]["KEY"] = "M_MAINCOPY_7010208"
-	STRING_EN[2565]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010208 and regain the glory of the past!"
+	STRING_EN[2565]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010208 and recapture the former glory!"
 	STRING_EN[2565]["real_idx"] = 2565
 
 STRING_EN["index"][2566] = 2566
 STRING_EN[2566] = {}
 	STRING_EN[2566]["ID"] = 2566
 	STRING_EN[2566]["KEY"] = "M_MAINCOPY_7010209"
-	STRING_EN[2566]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010209 to regain the glory of the past!"
+	STRING_EN[2566]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010209 and recapture the former glory!"
 	STRING_EN[2566]["real_idx"] = 2566
 
 STRING_EN["index"][2567] = 2567
 STRING_EN[2567] = {}
 	STRING_EN[2567]["ID"] = 2567
 	STRING_EN[2567]["KEY"] = "M_MAINCOPY_7010301"
-	STRING_EN[2567]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010301 and regain the glory of the past!"
+	STRING_EN[2567]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010301 and recapture the former glory!"
 	STRING_EN[2567]["real_idx"] = 2567
 
 STRING_EN["index"][2568] = 2568
 STRING_EN[2568] = {}
 	STRING_EN[2568]["ID"] = 2568
 	STRING_EN[2568]["KEY"] = "M_MAINCOPY_7010302"
-	STRING_EN[2568]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010302 to regain the glory of the past!"
+	STRING_EN[2568]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010302 and recapture the former glory!"
 	STRING_EN[2568]["real_idx"] = 2568
 
 STRING_EN["index"][2569] = 2569
 STRING_EN[2569] = {}
 	STRING_EN[2569]["ID"] = 2569
 	STRING_EN[2569]["KEY"] = "M_MAINCOPY_7010303"
-	STRING_EN[2569]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010303 and regain the glory of the past!"
+	STRING_EN[2569]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010303 and recapture the former glory!"
 	STRING_EN[2569]["real_idx"] = 2569
 
 STRING_EN["index"][2570] = 2570
 STRING_EN[2570] = {}
 	STRING_EN[2570]["ID"] = 2570
 	STRING_EN[2570]["KEY"] = "M_MAINCOPY_7010304"
-	STRING_EN[2570]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010304 to regain the glory of the past!"
+	STRING_EN[2570]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010304 and recapture the former glory!"
 	STRING_EN[2570]["real_idx"] = 2570
 
 STRING_EN["index"][2571] = 2571
 STRING_EN[2571] = {}
 	STRING_EN[2571]["ID"] = 2571
 	STRING_EN[2571]["KEY"] = "M_MAINCOPY_7010305"
-	STRING_EN[2571]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010305 and regain the glory of the past!"
+	STRING_EN[2571]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010305 and recapture the former glory!"
 	STRING_EN[2571]["real_idx"] = 2571
 
 STRING_EN["index"][2572] = 2572
 STRING_EN[2572] = {}
 	STRING_EN[2572]["ID"] = 2572
 	STRING_EN[2572]["KEY"] = "M_MAINCOPY_7010306"
-	STRING_EN[2572]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010306 to regain the glory of the past!"
+	STRING_EN[2572]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010306 and recapture the former glory!"
 	STRING_EN[2572]["real_idx"] = 2572
 
 STRING_EN["index"][2573] = 2573
 STRING_EN[2573] = {}
 	STRING_EN[2573]["ID"] = 2573
 	STRING_EN[2573]["KEY"] = "M_MAINCOPY_7010307"
-	STRING_EN[2573]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010307 to regain the glory of the past!"
+	STRING_EN[2573]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010307 and recapture the former glory!"
 	STRING_EN[2573]["real_idx"] = 2573
 
 STRING_EN["index"][2574] = 2574
 STRING_EN[2574] = {}
 	STRING_EN[2574]["ID"] = 2574
 	STRING_EN[2574]["KEY"] = "M_MAINCOPY_7010308"
-	STRING_EN[2574]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010308 to regain the glory of the past!"
+	STRING_EN[2574]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010308 and recapture the former glory!"
 	STRING_EN[2574]["real_idx"] = 2574
 
 STRING_EN["index"][2575] = 2575
 STRING_EN[2575] = {}
 	STRING_EN[2575]["ID"] = 2575
 	STRING_EN[2575]["KEY"] = "M_MAINCOPY_7010309"
-	STRING_EN[2575]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010309 to regain the glory of the past!"
+	STRING_EN[2575]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010309 and recapture the former glory!"
 	STRING_EN[2575]["real_idx"] = 2575
 
 STRING_EN["index"][2576] = 2576
 STRING_EN[2576] = {}
 	STRING_EN[2576]["ID"] = 2576
 	STRING_EN[2576]["KEY"] = "M_MAINCOPY_7010401"
-	STRING_EN[2576]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010401 and regain the glory of the past!"
+	STRING_EN[2576]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010401 and recapture the former glory!"
 	STRING_EN[2576]["real_idx"] = 2576
 
 STRING_EN["index"][2577] = 2577
 STRING_EN[2577] = {}
 	STRING_EN[2577]["ID"] = 2577
 	STRING_EN[2577]["KEY"] = "M_MAINCOPY_7010402"
-	STRING_EN[2577]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010402 and regain the glory of the past!"
+	STRING_EN[2577]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010402 and recapture the former glory!"
 	STRING_EN[2577]["real_idx"] = 2577
 
 STRING_EN["index"][2578] = 2578
 STRING_EN[2578] = {}
 	STRING_EN[2578]["ID"] = 2578
 	STRING_EN[2578]["KEY"] = "M_MAINCOPY_7010403"
-	STRING_EN[2578]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010403 to regain the glory of the past!"
+	STRING_EN[2578]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010403 and recapture the former glory!"
 	STRING_EN[2578]["real_idx"] = 2578
 
 STRING_EN["index"][2579] = 2579
 STRING_EN[2579] = {}
 	STRING_EN[2579]["ID"] = 2579
 	STRING_EN[2579]["KEY"] = "M_MAINCOPY_7010404"
-	STRING_EN[2579]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010404 and regain the glory of the past!"
+	STRING_EN[2579]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010404 and recapture the former glory!"
 	STRING_EN[2579]["real_idx"] = 2579
 
 STRING_EN["index"][2580] = 2580
 STRING_EN[2580] = {}
 	STRING_EN[2580]["ID"] = 2580
 	STRING_EN[2580]["KEY"] = "M_MAINCOPY_7010405"
-	STRING_EN[2580]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010405 to regain the glory of the past!"
+	STRING_EN[2580]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010405 and recapture the former glory!"
 	STRING_EN[2580]["real_idx"] = 2580
 
 STRING_EN["index"][2581] = 2581
 STRING_EN[2581] = {}
 	STRING_EN[2581]["ID"] = 2581
 	STRING_EN[2581]["KEY"] = "M_MAINCOPY_7010406"
-	STRING_EN[2581]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010406 ​​and regain the glory of the past!"
+	STRING_EN[2581]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010406 and recapture the former glory!"
 	STRING_EN[2581]["real_idx"] = 2581
 
 STRING_EN["index"][2582] = 2582
 STRING_EN[2582] = {}
 	STRING_EN[2582]["ID"] = 2582
 	STRING_EN[2582]["KEY"] = "M_MAINCOPY_7010407"
-	STRING_EN[2582]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010407 and regain the glory of the past!"
+	STRING_EN[2582]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010407 and recapture the former glory!"
 	STRING_EN[2582]["real_idx"] = 2582
 
 STRING_EN["index"][2583] = 2583
 STRING_EN[2583] = {}
 	STRING_EN[2583]["ID"] = 2583
 	STRING_EN[2583]["KEY"] = "M_MAINCOPY_7010408"
-	STRING_EN[2583]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010408 to regain the glory of the past!"
+	STRING_EN[2583]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010408 and recapture the former glory!"
 	STRING_EN[2583]["real_idx"] = 2583
 
 STRING_EN["index"][2584] = 2584
 STRING_EN[2584] = {}
 	STRING_EN[2584]["ID"] = 2584
 	STRING_EN[2584]["KEY"] = "M_MAINCOPY_7010409"
-	STRING_EN[2584]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010409 to regain the glory of the past!"
+	STRING_EN[2584]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010409 and recapture the former glory!"
 	STRING_EN[2584]["real_idx"] = 2584
 
 STRING_EN["index"][2585] = 2585
 STRING_EN[2585] = {}
 	STRING_EN[2585]["ID"] = 2585
 	STRING_EN[2585]["KEY"] = "M_MAINCOPY_7010501"
-	STRING_EN[2585]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010501 to regain the glory of the past!"
+	STRING_EN[2585]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010501 and recapture the former glory!"
 	STRING_EN[2585]["real_idx"] = 2585
 
 STRING_EN["index"][2586] = 2586
 STRING_EN[2586] = {}
 	STRING_EN[2586]["ID"] = 2586
 	STRING_EN[2586]["KEY"] = "M_MAINCOPY_7010502"
-	STRING_EN[2586]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010502 and regain the glory of the past!"
+	STRING_EN[2586]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010502 and recapture the former glory!"
 	STRING_EN[2586]["real_idx"] = 2586
 
 STRING_EN["index"][2587] = 2587
 STRING_EN[2587] = {}
 	STRING_EN[2587]["ID"] = 2587
 	STRING_EN[2587]["KEY"] = "M_MAINCOPY_7010503"
-	STRING_EN[2587]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010503 and regain the glory of the past!"
+	STRING_EN[2587]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010503 and recapture the former glory!"
 	STRING_EN[2587]["real_idx"] = 2587
 
 STRING_EN["index"][2588] = 2588
 STRING_EN[2588] = {}
 	STRING_EN[2588]["ID"] = 2588
 	STRING_EN[2588]["KEY"] = "M_MAINCOPY_7010504"
-	STRING_EN[2588]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010504 and regain the glory of the past!"
+	STRING_EN[2588]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010504 and recapture the former glory!"
 	STRING_EN[2588]["real_idx"] = 2588
 
 STRING_EN["index"][2589] = 2589
 STRING_EN[2589] = {}
 	STRING_EN[2589]["ID"] = 2589
 	STRING_EN[2589]["KEY"] = "M_MAINCOPY_7010505"
-	STRING_EN[2589]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010505 and regain the glory of the past!"
+	STRING_EN[2589]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010505 and recapture the former glory!"
 	STRING_EN[2589]["real_idx"] = 2589
 
 STRING_EN["index"][2590] = 2590
 STRING_EN[2590] = {}
 	STRING_EN[2590]["ID"] = 2590
 	STRING_EN[2590]["KEY"] = "M_MAINCOPY_7010506"
-	STRING_EN[2590]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010506 and regain the glory of the past!"
+	STRING_EN[2590]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010506 and recapture the former glory!"
 	STRING_EN[2590]["real_idx"] = 2590
 
 STRING_EN["index"][2591] = 2591
 STRING_EN[2591] = {}
 	STRING_EN[2591]["ID"] = 2591
 	STRING_EN[2591]["KEY"] = "M_MAINCOPY_7010507"
-	STRING_EN[2591]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010507 and regain the glory of the past!"
+	STRING_EN[2591]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010507 and recapture the former glory!"
 	STRING_EN[2591]["real_idx"] = 2591
 
 STRING_EN["index"][2592] = 2592
 STRING_EN[2592] = {}
 	STRING_EN[2592]["ID"] = 2592
 	STRING_EN[2592]["KEY"] = "M_MAINCOPY_7010508"
-	STRING_EN[2592]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010508 to regain the glory of the past!"
+	STRING_EN[2592]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010508 and recapture the former glory!"
 	STRING_EN[2592]["real_idx"] = 2592
 
 STRING_EN["index"][2593] = 2593
 STRING_EN[2593] = {}
 	STRING_EN[2593]["ID"] = 2593
 	STRING_EN[2593]["KEY"] = "M_MAINCOPY_7010509"
-	STRING_EN[2593]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010509 and regain the glory of the past!"
+	STRING_EN[2593]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010509 and recapture the former glory!"
 	STRING_EN[2593]["real_idx"] = 2593
 
 STRING_EN["index"][2594] = 2594
 STRING_EN[2594] = {}
 	STRING_EN[2594]["ID"] = 2594
 	STRING_EN[2594]["KEY"] = "M_MAINCOPY_7010601"
-	STRING_EN[2594]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010601 and regain the glory of the past!"
+	STRING_EN[2594]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010601 and recapture the former glory!"
 	STRING_EN[2594]["real_idx"] = 2594
 
 STRING_EN["index"][2595] = 2595
 STRING_EN[2595] = {}
 	STRING_EN[2595]["ID"] = 2595
 	STRING_EN[2595]["KEY"] = "M_MAINCOPY_7010602"
-	STRING_EN[2595]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010602 and regain the glory of the past!"
+	STRING_EN[2595]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010602 and recapture the former glory!"
 	STRING_EN[2595]["real_idx"] = 2595
 
 STRING_EN["index"][2596] = 2596
 STRING_EN[2596] = {}
 	STRING_EN[2596]["ID"] = 2596
 	STRING_EN[2596]["KEY"] = "M_MAINCOPY_7010603"
-	STRING_EN[2596]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010603 to regain the glory of the past!"
+	STRING_EN[2596]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010603 and recapture the former glory!"
 	STRING_EN[2596]["real_idx"] = 2596
 
 STRING_EN["index"][2597] = 2597
 STRING_EN[2597] = {}
 	STRING_EN[2597]["ID"] = 2597
 	STRING_EN[2597]["KEY"] = "M_MAINCOPY_7010604"
-	STRING_EN[2597]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010604 to regain the glory of the past!"
+	STRING_EN[2597]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010604 and recapture the former glory!"
 	STRING_EN[2597]["real_idx"] = 2597
 
 STRING_EN["index"][2598] = 2598
 STRING_EN[2598] = {}
 	STRING_EN[2598]["ID"] = 2598
 	STRING_EN[2598]["KEY"] = "M_MAINCOPY_7010605"
-	STRING_EN[2598]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010605 to regain the glory of the past!"
+	STRING_EN[2598]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010605 and recapture the former glory!"
 	STRING_EN[2598]["real_idx"] = 2598
 
 STRING_EN["index"][2599] = 2599
 STRING_EN[2599] = {}
 	STRING_EN[2599]["ID"] = 2599
 	STRING_EN[2599]["KEY"] = "M_MAINCOPY_7010606"
-	STRING_EN[2599]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010606 and regain the glory of the past!"
+	STRING_EN[2599]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010606 and recapture the former glory!"
 	STRING_EN[2599]["real_idx"] = 2599
 
 STRING_EN["index"][2600] = 2600
 STRING_EN[2600] = {}
 	STRING_EN[2600]["ID"] = 2600
 	STRING_EN[2600]["KEY"] = "M_MAINCOPY_7010607"
-	STRING_EN[2600]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010607 to regain the glory of the past!"
+	STRING_EN[2600]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010607 and recapture the former glory!"
 	STRING_EN[2600]["real_idx"] = 2600
 
 STRING_EN["index"][2601] = 2601
 STRING_EN[2601] = {}
 	STRING_EN[2601]["ID"] = 2601
 	STRING_EN[2601]["KEY"] = "M_MAINCOPY_7010608"
-	STRING_EN[2601]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010608 to regain the glory of the past!"
+	STRING_EN[2601]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010608 and recapture the former glory!"
 	STRING_EN[2601]["real_idx"] = 2601
 
 STRING_EN["index"][2602] = 2602
 STRING_EN[2602] = {}
 	STRING_EN[2602]["ID"] = 2602
 	STRING_EN[2602]["KEY"] = "M_MAINCOPY_7010609"
-	STRING_EN[2602]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010609 to regain the glory of the past!"
+	STRING_EN[2602]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010609 and recapture the former glory!"
 	STRING_EN[2602]["real_idx"] = 2602
 
 STRING_EN["index"][2603] = 2603
 STRING_EN[2603] = {}
 	STRING_EN[2603]["ID"] = 2603
 	STRING_EN[2603]["KEY"] = "M_MAINCOPY_7010701"
-	STRING_EN[2603]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010701 to regain the glory of the past!"
+	STRING_EN[2603]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010701 and recapture the former glory!"
 	STRING_EN[2603]["real_idx"] = 2603
 
 STRING_EN["index"][2604] = 2604
 STRING_EN[2604] = {}
 	STRING_EN[2604]["ID"] = 2604
 	STRING_EN[2604]["KEY"] = "M_MAINCOPY_7010702"
-	STRING_EN[2604]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010702 to regain the glory of the past!"
+	STRING_EN[2604]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010702 and recapture the former glory!"
 	STRING_EN[2604]["real_idx"] = 2604
 
 STRING_EN["index"][2605] = 2605
 STRING_EN[2605] = {}
 	STRING_EN[2605]["ID"] = 2605
 	STRING_EN[2605]["KEY"] = "M_MAINCOPY_7010703"
-	STRING_EN[2605]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010703 to regain the glory of the past!"
+	STRING_EN[2605]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010703 and recapture the former glory!"
 	STRING_EN[2605]["real_idx"] = 2605
 
 STRING_EN["index"][2606] = 2606
 STRING_EN[2606] = {}
 	STRING_EN[2606]["ID"] = 2606
 	STRING_EN[2606]["KEY"] = "M_MAINCOPY_7010704"
-	STRING_EN[2606]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010704 and regain the glory of the past!"
+	STRING_EN[2606]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010704 and recapture the former glory!"
 	STRING_EN[2606]["real_idx"] = 2606
 
 STRING_EN["index"][2607] = 2607
 STRING_EN[2607] = {}
 	STRING_EN[2607]["ID"] = 2607
 	STRING_EN[2607]["KEY"] = "M_MAINCOPY_7010705"
-	STRING_EN[2607]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010705 to regain the glory of the past!"
+	STRING_EN[2607]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010705 and recapture the former glory!"
 	STRING_EN[2607]["real_idx"] = 2607
 
 STRING_EN["index"][2608] = 2608
 STRING_EN[2608] = {}
 	STRING_EN[2608]["ID"] = 2608
 	STRING_EN[2608]["KEY"] = "M_MAINCOPY_7010706"
-	STRING_EN[2608]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010706 to regain the glory of the past!"
+	STRING_EN[2608]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010706 and recapture the former glory!"
 	STRING_EN[2608]["real_idx"] = 2608
 
 STRING_EN["index"][2609] = 2609
 STRING_EN[2609] = {}
 	STRING_EN[2609]["ID"] = 2609
 	STRING_EN[2609]["KEY"] = "M_MAINCOPY_7010707"
-	STRING_EN[2609]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010707 and regain the glory of the past!"
+	STRING_EN[2609]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010707 and recapture the former glory!"
 	STRING_EN[2609]["real_idx"] = 2609
 
 STRING_EN["index"][2610] = 2610
 STRING_EN[2610] = {}
 	STRING_EN[2610]["ID"] = 2610
 	STRING_EN[2610]["KEY"] = "M_MAINCOPY_7010708"
-	STRING_EN[2610]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010708 to regain the glory of the past!"
+	STRING_EN[2610]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010708 and recapture the former glory!"
 	STRING_EN[2610]["real_idx"] = 2610
 
 STRING_EN["index"][2611] = 2611
 STRING_EN[2611] = {}
 	STRING_EN[2611]["ID"] = 2611
 	STRING_EN[2611]["KEY"] = "M_MAINCOPY_7010709"
-	STRING_EN[2611]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010709 to regain the glory of the past!"
+	STRING_EN[2611]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010709 and recapture the former glory!"
 	STRING_EN[2611]["real_idx"] = 2611
 
 STRING_EN["index"][2612] = 2612
 STRING_EN[2612] = {}
 	STRING_EN[2612]["ID"] = 2612
 	STRING_EN[2612]["KEY"] = "M_MAINCOPY_7010801"
-	STRING_EN[2612]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010801 and regain the glory of the past!"
+	STRING_EN[2612]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010801 and recapture the former glory!"
 	STRING_EN[2612]["real_idx"] = 2612
 
 STRING_EN["index"][2613] = 2613
 STRING_EN[2613] = {}
 	STRING_EN[2613]["ID"] = 2613
 	STRING_EN[2613]["KEY"] = "M_MAINCOPY_7010802"
-	STRING_EN[2613]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010802 and regain the glory of the past!"
+	STRING_EN[2613]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010802 and recapture the former glory!"
 	STRING_EN[2613]["real_idx"] = 2613
 
 STRING_EN["index"][2614] = 2614
 STRING_EN[2614] = {}
 	STRING_EN[2614]["ID"] = 2614
 	STRING_EN[2614]["KEY"] = "M_MAINCOPY_7010803"
-	STRING_EN[2614]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010803 to regain the glory of the past!"
+	STRING_EN[2614]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010803 and recapture the former glory!"
 	STRING_EN[2614]["real_idx"] = 2614
 
 STRING_EN["index"][2615] = 2615
 STRING_EN[2615] = {}
 	STRING_EN[2615]["ID"] = 2615
 	STRING_EN[2615]["KEY"] = "M_MAINCOPY_7010804"
-	STRING_EN[2615]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010804 and regain the glory of the past!"
+	STRING_EN[2615]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010804 and recapture the former glory!"
 	STRING_EN[2615]["real_idx"] = 2615
 
 STRING_EN["index"][2616] = 2616
 STRING_EN[2616] = {}
 	STRING_EN[2616]["ID"] = 2616
 	STRING_EN[2616]["KEY"] = "M_MAINCOPY_7010805"
-	STRING_EN[2616]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010805 and regain the glory of the past!"
+	STRING_EN[2616]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010805 and recapture the former glory!"
 	STRING_EN[2616]["real_idx"] = 2616
 
 STRING_EN["index"][2617] = 2617
 STRING_EN[2617] = {}
 	STRING_EN[2617]["ID"] = 2617
 	STRING_EN[2617]["KEY"] = "M_MAINCOPY_7010806"
-	STRING_EN[2617]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010806 to regain the glory of the past!"
+	STRING_EN[2617]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010806 and recapture the former glory!"
 	STRING_EN[2617]["real_idx"] = 2617
 
 STRING_EN["index"][2618] = 2618
 STRING_EN[2618] = {}
 	STRING_EN[2618]["ID"] = 2618
 	STRING_EN[2618]["KEY"] = "M_MAINCOPY_7010807"
-	STRING_EN[2618]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010807 to regain the glory of the past!"
+	STRING_EN[2618]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010807 and recapture the former glory!"
 	STRING_EN[2618]["real_idx"] = 2618
 
 STRING_EN["index"][2619] = 2619
 STRING_EN[2619] = {}
 	STRING_EN[2619]["ID"] = 2619
 	STRING_EN[2619]["KEY"] = "M_MAINCOPY_7010808"
-	STRING_EN[2619]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010808 to regain the glory of the past!"
+	STRING_EN[2619]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010808 and recapture the former glory!"
 	STRING_EN[2619]["real_idx"] = 2619
 
 STRING_EN["index"][2620] = 2620
 STRING_EN[2620] = {}
 	STRING_EN[2620]["ID"] = 2620
 	STRING_EN[2620]["KEY"] = "M_MAINCOPY_7010809"
-	STRING_EN[2620]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010809 and regain the glory of the past!"
+	STRING_EN[2620]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010809 and recapture the former glory!"
 	STRING_EN[2620]["real_idx"] = 2620
 
 STRING_EN["index"][2621] = 2621
 STRING_EN[2621] = {}
 	STRING_EN[2621]["ID"] = 2621
 	STRING_EN[2621]["KEY"] = "M_MAINCOPY_7010901"
-	STRING_EN[2621]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010901 and regain the glory of the past!"
+	STRING_EN[2621]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010901 and recapture the former glory!"
 	STRING_EN[2621]["real_idx"] = 2621
 
 STRING_EN["index"][2622] = 2622
 STRING_EN[2622] = {}
 	STRING_EN[2622]["ID"] = 2622
 	STRING_EN[2622]["KEY"] = "M_MAINCOPY_7010902"
-	STRING_EN[2622]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010902 and regain the glory of the past!"
+	STRING_EN[2622]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010902 and recapture the former glory!"
 	STRING_EN[2622]["real_idx"] = 2622
 
 STRING_EN["index"][2623] = 2623
 STRING_EN[2623] = {}
 	STRING_EN[2623]["ID"] = 2623
 	STRING_EN[2623]["KEY"] = "M_MAINCOPY_7010903"
-	STRING_EN[2623]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010903 and regain the glory of the past!"
+	STRING_EN[2623]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010903 and recapture the former glory!"
 	STRING_EN[2623]["real_idx"] = 2623
 
 STRING_EN["index"][2624] = 2624
 STRING_EN[2624] = {}
 	STRING_EN[2624]["ID"] = 2624
 	STRING_EN[2624]["KEY"] = "M_MAINCOPY_7010904"
-	STRING_EN[2624]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010904 and regain the glory of the past!"
+	STRING_EN[2624]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010904 and recapture the former glory!"
 	STRING_EN[2624]["real_idx"] = 2624
 
 STRING_EN["index"][2625] = 2625
 STRING_EN[2625] = {}
 	STRING_EN[2625]["ID"] = 2625
 	STRING_EN[2625]["KEY"] = "M_MAINCOPY_7010905"
-	STRING_EN[2625]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010905 and regain the glory of the past!"
+	STRING_EN[2625]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010905 and recapture the former glory!"
 	STRING_EN[2625]["real_idx"] = 2625
 
 STRING_EN["index"][2626] = 2626
 STRING_EN[2626] = {}
 	STRING_EN[2626]["ID"] = 2626
 	STRING_EN[2626]["KEY"] = "M_MAINCOPY_7010906"
-	STRING_EN[2626]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010906 and regain the glory of the past!"
+	STRING_EN[2626]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010906 and recapture the former glory!"
 	STRING_EN[2626]["real_idx"] = 2626
 
 STRING_EN["index"][2627] = 2627
 STRING_EN[2627] = {}
 	STRING_EN[2627]["ID"] = 2627
 	STRING_EN[2627]["KEY"] = "M_MAINCOPY_7010907"
-	STRING_EN[2627]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010907 and regain the glory of the past!"
+	STRING_EN[2627]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010907 and recapture the former glory!"
 	STRING_EN[2627]["real_idx"] = 2627
 
 STRING_EN["index"][2628] = 2628
 STRING_EN[2628] = {}
 	STRING_EN[2628]["ID"] = 2628
 	STRING_EN[2628]["KEY"] = "M_MAINCOPY_7010908"
-	STRING_EN[2628]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010908 and regain the glory of the past!"
+	STRING_EN[2628]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010908 and recapture the former glory!"
 	STRING_EN[2628]["real_idx"] = 2628
 
 STRING_EN["index"][2629] = 2629
 STRING_EN[2629] = {}
 	STRING_EN[2629]["ID"] = 2629
 	STRING_EN[2629]["KEY"] = "M_MAINCOPY_7010909"
-	STRING_EN[2629]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， we will sail to UT_7010909 and regain the glory of the past!"
+	STRING_EN[2629]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go to UT_7010909 and recapture the former glory!"
 	STRING_EN[2629]["real_idx"] = 2629
 
 STRING_EN["index"][2630] = 2630
@@ -18414,91 +18414,91 @@ STRING_EN["index"][2631] = 2631
 STRING_EN[2631] = {}
 	STRING_EN[2631]["ID"] = 2631
 	STRING_EN[2631]["KEY"] = "M_DAILY_TASK_7002"
-	STRING_EN[2631]["VALUE"] = "In the galaxy map， you can attack the resources that other players are collecting. The battle victory can rob the resources it is currently collecting. It is a good way to get rich!"
+	STRING_EN[2631]["VALUE"] = "In Galaxy Map， you can attack the resources that other players are exploiting. If you win the battle then you can plunder the resources that are currently being exploited. It is a good way to build up fortunes!"
 	STRING_EN[2631]["real_idx"] = 2631
 
 STRING_EN["index"][2632] = 2632
 STRING_EN[2632] = {}
 	STRING_EN[2632]["ID"] = 2632
 	STRING_EN[2632]["KEY"] = "M_DAILY_TASK_7003"
-	STRING_EN[2632]["VALUE"] = "In the galaxy map， you can launch a raid on other players， and reward a lot after the victory..."
+	STRING_EN[2632]["VALUE"] = "In Galaxy Map， you can launch a raid on other players and get huge reward after your victory..."
 	STRING_EN[2632]["real_idx"] = 2632
 
 STRING_EN["index"][2633] = 2633
 STRING_EN[2633] = {}
 	STRING_EN[2633]["ID"] = 2633
 	STRING_EN[2633]["KEY"] = "M_DAILY_TASK_7004"
-	STRING_EN[2633]["VALUE"] = "In the galaxy map， if you are lucky， you can search for the wreckage. After the success， the reward is very rich!"
+	STRING_EN[2633]["VALUE"] = "In Galaxy Map， if you are lucky， you can find the wreckage. The reward is abundant after the exploration succeed!"
 	STRING_EN[2633]["real_idx"] = 2633
 
 STRING_EN["index"][2634] = 2634
 STRING_EN[2634] = {}
 	STRING_EN[2634]["ID"] = 2634
 	STRING_EN[2634]["KEY"] = "M_DAILY_TASK_7005"
-	STRING_EN[2634]["VALUE"] = "In the galaxy map， if you are lucky， you can search for the wreckage. After the salvage is successful， the reward is very rich!"
+	STRING_EN[2634]["VALUE"] = "In Galaxy Map， if you are lucky， you can find the wreckage. The reward is abundant after the salvage succeed!"
 	STRING_EN[2634]["real_idx"] = 2634
 
 STRING_EN["index"][2635] = 2635
 STRING_EN[2635] = {}
 	STRING_EN[2635]["ID"] = 2635
 	STRING_EN[2635]["KEY"] = "M_DAILY_TASK_7006"
-	STRING_EN[2635]["VALUE"] = "Covenant is a big family. Only when everyone works together can we build a beautiful tomorrow!"
+	STRING_EN[2635]["VALUE"] = "The Alliance is a big family， only when everyone works together so that can build a beautiful tomorrow!"
 	STRING_EN[2635]["real_idx"] = 2635
 
 STRING_EN["index"][2636] = 2636
 STRING_EN[2636] = {}
 	STRING_EN[2636]["ID"] = 2636
 	STRING_EN[2636]["KEY"] = "M_DAILY_TASK_7007"
-	STRING_EN[2636]["VALUE"] = "Homes can produce a lot of resources， remember to harvest in time!"
+	STRING_EN[2636]["VALUE"] = "Homebase can produce a lot of resources， remember to collect them in time!"
 	STRING_EN[2636]["real_idx"] = 2636
 
 STRING_EN["index"][2637] = 2637
 STRING_EN[2637] = {}
 	STRING_EN[2637]["ID"] = 2637
 	STRING_EN[2637]["KEY"] = "M_DAILY_TASK_7008"
-	STRING_EN[2637]["VALUE"] = "In the galaxy map， you can see the resource mine， and rush to collect it in silence. The wealth is accumulated by bit..."
+	STRING_EN[2637]["VALUE"] = "In Galaxy Map， when you see the resource mine， just rush to exploit it. The wealth is always accumulated bit by bit..."
 	STRING_EN[2637]["real_idx"] = 2637
 
 STRING_EN["index"][2638] = 2638
 STRING_EN[2638] = {}
 	STRING_EN[2638]["ID"] = 2638
 	STRING_EN[2638]["KEY"] = "M_DAILY_TASK_7009"
-	STRING_EN[2638]["VALUE"] = "If the equipment is not strong， how can the battle win， the fleet hangar waiting for your arrival!"
+	STRING_EN[2638]["VALUE"] = "If the equipment is not strong then how can the battle win. Fleet Hangar is waiting for your arrival!"
 	STRING_EN[2638]["real_idx"] = 2638
 
 STRING_EN["index"][2639] = 2639
 STRING_EN[2639] = {}
 	STRING_EN[2639]["ID"] = 2639
 	STRING_EN[2639]["KEY"] = "M_DAILY_TASK_7010"
-	STRING_EN[2639]["VALUE"] = "Crossing the Star Gate， you will see the arrogant and arrogant forces， um， dry them!"
+	STRING_EN[2639]["VALUE"] = "Crossing the Star Gate and you will see those arrogant forces， knock them down!"
 	STRING_EN[2639]["real_idx"] = 2639
 
 STRING_EN["index"][2640] = 2640
 STRING_EN[2640] = {}
 	STRING_EN[2640]["ID"] = 2640
 	STRING_EN[2640]["KEY"] = "M_DAILY_TASK_7011"
-	STRING_EN[2640]["VALUE"] = "When you feel that you can sweep the sky one day， go to the trial star field and take a trip..."
+	STRING_EN[2640]["VALUE"] = "When you feel that you can sweep away the galaxy one day， then go to the Trial and take a trip..."
 	STRING_EN[2640]["real_idx"] = 2640
 
 STRING_EN["index"][2641] = 2641
 STRING_EN[2641] = {}
 	STRING_EN[2641]["ID"] = 2641
 	STRING_EN[2641]["KEY"] = "M_DAILY_TASK_7012"
-	STRING_EN[2641]["VALUE"] = "Each alliance always has its own mission， and our mission now is to go to the covenant Purgatory to eliminate some big guys..."
+	STRING_EN[2641]["VALUE"] = "Each alliance has its own mission and our mission now is to go to the Alliance Purgatory to eliminate some big guys..."
 	STRING_EN[2641]["real_idx"] = 2641
 
 STRING_EN["index"][2642] = 2642
 STRING_EN[2642] = {}
 	STRING_EN[2642]["ID"] = 2642
 	STRING_EN[2642]["KEY"] = "M_DAILY_TASK_7013"
-	STRING_EN[2642]["VALUE"] = "With a lot of physical strength， you can sweep the stars， or escape faster..."
+	STRING_EN[2642]["VALUE"] = "With a lot of stamina， you can sweep away the galaxy， or， you can run away faster..."
 	STRING_EN[2642]["real_idx"] = 2642
 
 STRING_EN["index"][2643] = 2643
 STRING_EN[2643] = {}
 	STRING_EN[2643]["ID"] = 2643
 	STRING_EN[2643]["KEY"] = "M_DAILY_TASK_7014"
-	STRING_EN[2643]["VALUE"] = "Starport， regardless of strength， this is just a place to look at the face!"
+	STRING_EN[2643]["VALUE"] = "Starport， regardless of power， this is a place just caring about your appearance!"
 	STRING_EN[2643]["real_idx"] = 2643
 
 STRING_EN["index"][2644] = 2644
@@ -18512,14 +18512,14 @@ STRING_EN["index"][2645] = 2645
 STRING_EN[2645] = {}
 	STRING_EN[2645]["ID"] = 2645
 	STRING_EN[2645]["KEY"] = "IN_1001"
-	STRING_EN[2645]["VALUE"] = "Commander experience"
+	STRING_EN[2645]["VALUE"] = "Commander Experience"
 	STRING_EN[2645]["real_idx"] = 2645
 
 STRING_EN["index"][2646] = 2646
 STRING_EN[2646] = {}
 	STRING_EN[2646]["ID"] = 2646
 	STRING_EN[2646]["KEY"] = "IN_2001"
-	STRING_EN[2646]["VALUE"] = "Ship experience"
+	STRING_EN[2646]["VALUE"] = "Spaceship Experience"
 	STRING_EN[2646]["real_idx"] = 2646
 
 STRING_EN["index"][2647] = 2647
@@ -18554,189 +18554,189 @@ STRING_EN["index"][2651] = 2651
 STRING_EN[2651] = {}
 	STRING_EN[2651]["ID"] = 2651
 	STRING_EN[2651]["KEY"] = "IN_7001"
-	STRING_EN[2651]["VALUE"] = "Credit"
+	STRING_EN[2651]["VALUE"] = "Diamonds"
 	STRING_EN[2651]["real_idx"] = 2651
 
 STRING_EN["index"][2652] = 2652
 STRING_EN[2652] = {}
 	STRING_EN[2652]["ID"] = 2652
 	STRING_EN[2652]["KEY"] = "IN_8001"
-	STRING_EN[2652]["VALUE"] = "VIT"
+	STRING_EN[2652]["VALUE"] = "Stamina"
 	STRING_EN[2652]["real_idx"] = 2652
 
 STRING_EN["index"][2653] = 2653
 STRING_EN[2653] = {}
 	STRING_EN[2653]["ID"] = 2653
 	STRING_EN[2653]["KEY"] = "IN_11001"
-	STRING_EN[2653]["VALUE"] = "Ship debris"
+	STRING_EN[2653]["VALUE"] = "Spaceship Debris"
 	STRING_EN[2653]["real_idx"] = 2653
 
 STRING_EN["index"][2654] = 2654
 STRING_EN[2654] = {}
 	STRING_EN[2654]["ID"] = 2654
 	STRING_EN[2654]["KEY"] = "IN_11002"
-	STRING_EN[2654]["VALUE"] = "S1 core"
+	STRING_EN[2654]["VALUE"] = "S1 Core"
 	STRING_EN[2654]["real_idx"] = 2654
 
 STRING_EN["index"][2655] = 2655
 STRING_EN[2655] = {}
 	STRING_EN[2655]["ID"] = 2655
 	STRING_EN[2655]["KEY"] = "IN_11003"
-	STRING_EN[2655]["VALUE"] = "S2 core"
+	STRING_EN[2655]["VALUE"] = "S2 Core"
 	STRING_EN[2655]["real_idx"] = 2655
 
 STRING_EN["index"][2656] = 2656
 STRING_EN[2656] = {}
 	STRING_EN[2656]["ID"] = 2656
 	STRING_EN[2656]["KEY"] = "IN_11004"
-	STRING_EN[2656]["VALUE"] = "S3 core"
+	STRING_EN[2656]["VALUE"] = "S3 Core"
 	STRING_EN[2656]["real_idx"] = 2656
 
 STRING_EN["index"][2657] = 2657
 STRING_EN[2657] = {}
 	STRING_EN[2657]["ID"] = 2657
 	STRING_EN[2657]["KEY"] = "IN_11005"
-	STRING_EN[2657]["VALUE"] = "S4 core"
+	STRING_EN[2657]["VALUE"] = "S4 Core"
 	STRING_EN[2657]["real_idx"] = 2657
 
 STRING_EN["index"][2658] = 2658
 STRING_EN[2658] = {}
 	STRING_EN[2658]["ID"] = 2658
 	STRING_EN[2658]["KEY"] = "IN_11101"
-	STRING_EN[2658]["VALUE"] = "Ray BP"
+	STRING_EN[2658]["VALUE"] = "Radiation Cabin"
 	STRING_EN[2658]["real_idx"] = 2658
 
 STRING_EN["index"][2659] = 2659
 STRING_EN[2659] = {}
 	STRING_EN[2659]["ID"] = 2659
 	STRING_EN[2659]["KEY"] = "IN_11102"
-	STRING_EN[2659]["VALUE"] = "Snowstorm BP"
+	STRING_EN[2659]["VALUE"] = "Snowstorm Cabin"
 	STRING_EN[2659]["real_idx"] = 2659
 
 STRING_EN["index"][2660] = 2660
 STRING_EN[2660] = {}
 	STRING_EN[2660]["ID"] = 2660
 	STRING_EN[2660]["KEY"] = "IN_11103"
-	STRING_EN[2660]["VALUE"] = "Destroyed BP"
+	STRING_EN[2660]["VALUE"] = "Destroyer Cabin"
 	STRING_EN[2660]["real_idx"] = 2660
 
 STRING_EN["index"][2661] = 2661
 STRING_EN[2661] = {}
 	STRING_EN[2661]["ID"] = 2661
 	STRING_EN[2661]["KEY"] = "IN_11104"
-	STRING_EN[2661]["VALUE"] = "Starship BP"
+	STRING_EN[2661]["VALUE"] = "Star Destroyer Cabin"
 	STRING_EN[2661]["real_idx"] = 2661
 
 STRING_EN["index"][2662] = 2662
 STRING_EN[2662] = {}
 	STRING_EN[2662]["ID"] = 2662
 	STRING_EN[2662]["KEY"] = "IN_11105"
-	STRING_EN[2662]["VALUE"] = "Wan Ling BP"
+	STRING_EN[2662]["VALUE"] = "Soul Cabin"
 	STRING_EN[2662]["real_idx"] = 2662
 
 STRING_EN["index"][2663] = 2663
 STRING_EN[2663] = {}
 	STRING_EN[2663]["ID"] = 2663
 	STRING_EN[2663]["KEY"] = "IN_11106"
-	STRING_EN[2663]["VALUE"] = "Prophet BP"
+	STRING_EN[2663]["VALUE"] = "Prophet Cabin"
 	STRING_EN[2663]["real_idx"] = 2663
 
 STRING_EN["index"][2664] = 2664
 STRING_EN[2664] = {}
 	STRING_EN[2664]["ID"] = 2664
 	STRING_EN[2664]["KEY"] = "IN_11107"
-	STRING_EN[2664]["VALUE"] = "Pear Eye BP"
+	STRING_EN[2664]["VALUE"] = "Eye of Parr Cabin"
 	STRING_EN[2664]["real_idx"] = 2664
 
 STRING_EN["index"][2665] = 2665
 STRING_EN[2665] = {}
 	STRING_EN[2665]["ID"] = 2665
 	STRING_EN[2665]["KEY"] = "IN_11108"
-	STRING_EN[2665]["VALUE"] = "King Kong BP"
+	STRING_EN[2665]["VALUE"] = "King Kong Cabin"
 	STRING_EN[2665]["real_idx"] = 2665
 
 STRING_EN["index"][2666] = 2666
 STRING_EN[2666] = {}
 	STRING_EN[2666]["ID"] = 2666
 	STRING_EN[2666]["KEY"] = "IN_11109"
-	STRING_EN[2666]["VALUE"] = "Unlimited BP"
+	STRING_EN[2666]["VALUE"] = "Infinity Cabin"
 	STRING_EN[2666]["real_idx"] = 2666
 
 STRING_EN["index"][2667] = 2667
 STRING_EN[2667] = {}
 	STRING_EN[2667]["ID"] = 2667
 	STRING_EN[2667]["KEY"] = "IN_11110"
-	STRING_EN[2667]["VALUE"] = "Star of the Rings BP"
+	STRING_EN[2667]["VALUE"] = "Ring of Stars Cabin"
 	STRING_EN[2667]["real_idx"] = 2667
 
 STRING_EN["index"][2668] = 2668
 STRING_EN[2668] = {}
 	STRING_EN[2668]["ID"] = 2668
 	STRING_EN[2668]["KEY"] = "IN_11111"
-	STRING_EN[2668]["VALUE"] = "Eclipse BP"
+	STRING_EN[2668]["VALUE"] = "Eclipse Cabin"
 	STRING_EN[2668]["real_idx"] = 2668
 
 STRING_EN["index"][2669] = 2669
 STRING_EN[2669] = {}
 	STRING_EN[2669]["ID"] = 2669
 	STRING_EN[2669]["KEY"] = "IN_11112"
-	STRING_EN[2669]["VALUE"] = "Desert Canoe BP"
+	STRING_EN[2669]["VALUE"] = "Desert Canoe Cabin"
 	STRING_EN[2669]["real_idx"] = 2669
 
 STRING_EN["index"][2670] = 2670
 STRING_EN[2670] = {}
 	STRING_EN[2670]["ID"] = 2670
 	STRING_EN[2670]["KEY"] = "IN_11113"
-	STRING_EN[2670]["VALUE"] = "Cangwu Glory BP"
+	STRING_EN[2670]["VALUE"] = "Firmament Cabin"
 	STRING_EN[2670]["real_idx"] = 2670
 
 STRING_EN["index"][2671] = 2671
 STRING_EN[2671] = {}
 	STRING_EN[2671]["ID"] = 2671
 	STRING_EN[2671]["KEY"] = "IN_11114"
-	STRING_EN[2671]["VALUE"] = "Trial BP"
+	STRING_EN[2671]["VALUE"] = "Trial Cabin"
 	STRING_EN[2671]["real_idx"] = 2671
 
 STRING_EN["index"][2672] = 2672
 STRING_EN[2672] = {}
 	STRING_EN[2672]["ID"] = 2672
 	STRING_EN[2672]["KEY"] = "IN_11115"
-	STRING_EN[2672]["VALUE"] = "Lar Cavalry BP"
+	STRING_EN[2672]["VALUE"] = "Lancer Cabin"
 	STRING_EN[2672]["real_idx"] = 2672
 
 STRING_EN["index"][2673] = 2673
 STRING_EN[2673] = {}
 	STRING_EN[2673]["ID"] = 2673
 	STRING_EN[2673]["KEY"] = "IN_11116"
-	STRING_EN[2673]["VALUE"] = "Fearless BP"
+	STRING_EN[2673]["VALUE"] = "Fearless Cabin"
 	STRING_EN[2673]["real_idx"] = 2673
 
 STRING_EN["index"][2674] = 2674
 STRING_EN[2674] = {}
 	STRING_EN[2674]["ID"] = 2674
 	STRING_EN[2674]["KEY"] = "IN_13001"
-	STRING_EN[2674]["VALUE"] = "Small experience"
+	STRING_EN[2674]["VALUE"] = "Small Experience"
 	STRING_EN[2674]["real_idx"] = 2674
 
 STRING_EN["index"][2675] = 2675
 STRING_EN[2675] = {}
 	STRING_EN[2675]["ID"] = 2675
 	STRING_EN[2675]["KEY"] = "IN_13002"
-	STRING_EN[2675]["VALUE"] = "Medium experience"
+	STRING_EN[2675]["VALUE"] = "Medium Experience"
 	STRING_EN[2675]["real_idx"] = 2675
 
 STRING_EN["index"][2676] = 2676
 STRING_EN[2676] = {}
 	STRING_EN[2676]["ID"] = 2676
 	STRING_EN[2676]["KEY"] = "IN_13003"
-	STRING_EN[2676]["VALUE"] = "Large experience"
+	STRING_EN[2676]["VALUE"] = "Large Experience"
 	STRING_EN[2676]["real_idx"] = 2676
 
 STRING_EN["index"][2677] = 2677
 STRING_EN[2677] = {}
 	STRING_EN[2677]["ID"] = 2677
 	STRING_EN[2677]["KEY"] = "IN_13004"
-	STRING_EN[2677]["VALUE"] = "Super experience"
+	STRING_EN[2677]["VALUE"] = "Super Experience"
 	STRING_EN[2677]["real_idx"] = 2677
 
 STRING_EN["index"][2678] = 2678
@@ -18750,203 +18750,203 @@ STRING_EN["index"][2679] = 2679
 STRING_EN[2679] = {}
 	STRING_EN[2679]["ID"] = 2679
 	STRING_EN[2679]["KEY"] = "IN_14001"
-	STRING_EN[2679]["VALUE"] = "Honor point"
+	STRING_EN[2679]["VALUE"] = "Honor Point"
 	STRING_EN[2679]["real_idx"] = 2679
 
 STRING_EN["index"][2680] = 2680
 STRING_EN[2680] = {}
 	STRING_EN[2680]["ID"] = 2680
 	STRING_EN[2680]["KEY"] = "IN_15001"
-	STRING_EN[2680]["VALUE"] = "Trial badge"
+	STRING_EN[2680]["VALUE"] = "Trial Badge"
 	STRING_EN[2680]["real_idx"] = 2680
 
 STRING_EN["index"][2681] = 2681
 STRING_EN[2681] = {}
 	STRING_EN[2681]["ID"] = 2681
 	STRING_EN[2681]["KEY"] = "IN_15002"
-	STRING_EN[2681]["VALUE"] = "Trial pass"
+	STRING_EN[2681]["VALUE"] = "Trial Pass"
 	STRING_EN[2681]["real_idx"] = 2681
 
 STRING_EN["index"][2682] = 2682
 STRING_EN[2682] = {}
 	STRING_EN[2682]["ID"] = 2682
 	STRING_EN[2682]["KEY"] = "IM_1001"
-	STRING_EN[2682]["VALUE"] = "Upgrade commander level"
+	STRING_EN[2682]["VALUE"] = "Upgrade Commander Level"
 	STRING_EN[2682]["real_idx"] = 2682
 
 STRING_EN["index"][2683] = 2683
 STRING_EN[2683] = {}
 	STRING_EN[2683]["ID"] = 2683
 	STRING_EN[2683]["KEY"] = "IM_2001"
-	STRING_EN[2683]["VALUE"] = "Upgrade the ship level"
+	STRING_EN[2683]["VALUE"] = "Upgrade Spaceship Level"
 	STRING_EN[2683]["real_idx"] = 2683
 
 STRING_EN["index"][2684] = 2684
 STRING_EN[2684] = {}
 	STRING_EN[2684]["ID"] = 2684
 	STRING_EN[2684]["KEY"] = "IM_3001"
-	STRING_EN[2684]["VALUE"] = "Base currency， mainly from covenant BOSS， covenant， Trial Tower， Galaxy， Mission Achievement， Mall， Instance"
+	STRING_EN[2684]["VALUE"] = "Base currency， which is mainly from Alliance BOSS， Interstellar Territory， Trial Tower， Galaxy， Mission Achievements， Shop and Instance"
 	STRING_EN[2684]["real_idx"] = 2684
 
 STRING_EN["index"][2685] = 2685
 STRING_EN[2685] = {}
 	STRING_EN[2685]["ID"] = 2685
 	STRING_EN[2685]["KEY"] = "IM_4001"
-	STRING_EN[2685]["VALUE"] = "Basic resources I， mainly from galaxies， homes， interstellar territories， mission achievements， trial towers， shopping malls， replicas"
+	STRING_EN[2685]["VALUE"] = "Basic resource I， which is mainly from Galaxy， Homebase， Interstellar Territory， Mission Achievements， Trial Tower， Shop and Instance"
 	STRING_EN[2685]["real_idx"] = 2685
 
 STRING_EN["index"][2686] = 2686
 STRING_EN[2686] = {}
 	STRING_EN[2686]["ID"] = 2686
 	STRING_EN[2686]["KEY"] = "IM_5001"
-	STRING_EN[2686]["VALUE"] = "Basic resources I， mainly from galaxies， homes， interstellar territories， mission achievements， trial towers， shopping malls， replicas"
+	STRING_EN[2686]["VALUE"] = "Basic resource I， which is mainly from Galaxy， Homebase， Interstellar Territory， Mission Achievements， Trial Tower， Shop and Instance"
 	STRING_EN[2686]["real_idx"] = 2686
 
 STRING_EN["index"][2687] = 2687
 STRING_EN[2687] = {}
 	STRING_EN[2687]["ID"] = 2687
 	STRING_EN[2687]["KEY"] = "IM_6001"
-	STRING_EN[2687]["VALUE"] = "Basic resources I， mainly from galaxies， homes， interstellar territories， mission achievements， trial towers， shopping malls， replicas"
+	STRING_EN[2687]["VALUE"] = "Basic resource I， which is mainly from Galaxy， Homebase， Interstellar Territory， Mission Achievements， Trial Tower， Shop and Instance"
 	STRING_EN[2687]["real_idx"] = 2687
 
 STRING_EN["index"][2688] = 2688
 STRING_EN[2688] = {}
 	STRING_EN[2688]["ID"] = 2688
 	STRING_EN[2688]["KEY"] = "IM_7001"
-	STRING_EN[2688]["VALUE"] = "Mall currency， mainly through recharge"
+	STRING_EN[2688]["VALUE"] = "Shop currency， which is mainly from top-up"
 	STRING_EN[2688]["real_idx"] = 2688
 
 STRING_EN["index"][2689] = 2689
 STRING_EN[2689] = {}
 	STRING_EN[2689]["ID"] = 2689
 	STRING_EN[2689]["KEY"] = "IM_8001"
-	STRING_EN[2689]["VALUE"] = "Mainly used for galaxies， replicas"
+	STRING_EN[2689]["VALUE"] = "Mainly used for Galaxy and Instance"
 	STRING_EN[2689]["real_idx"] = 2689
 
 STRING_EN["index"][2690] = 2690
 STRING_EN[2690] = {}
 	STRING_EN[2690]["ID"] = 2690
 	STRING_EN[2690]["KEY"] = "IM_11001"
-	STRING_EN[2690]["VALUE"] = "Synthetic ship or breakthrough basic materials， mainly from Starport， Galaxy， Mall， Events"
+	STRING_EN[2690]["VALUE"] = "Base Material for spaceship synthesis or breakthrough， which is mainly from Starport， Galaxy， Shop and Events"
 	STRING_EN[2690]["real_idx"] = 2690
 
 STRING_EN["index"][2691] = 2691
 STRING_EN[2691] = {}
 	STRING_EN[2691]["ID"] = 2691
 	STRING_EN[2691]["KEY"] = "IM_11002"
-	STRING_EN[2691]["VALUE"] = "Synthetic ship advanced material I， mainly from Star Harbor， Galaxy， Mall， Events"
+	STRING_EN[2691]["VALUE"] = "Advanced material I for spaceship synthesis， which is mainly from Starport， Galaxy， Shop and Events"
 	STRING_EN[2691]["real_idx"] = 2691
 
 STRING_EN["index"][2692] = 2692
 STRING_EN[2692] = {}
 	STRING_EN[2692]["ID"] = 2692
 	STRING_EN[2692]["KEY"] = "IM_11003"
-	STRING_EN[2692]["VALUE"] = "Synthetic ship advanced material I， mainly from Star Harbor， Galaxy， Mall， Events"
+	STRING_EN[2692]["VALUE"] = "Advanced material I for spaceship synthesis， which is mainly from Starport， Galaxy， Shop and Events"
 	STRING_EN[2692]["real_idx"] = 2692
 
 STRING_EN["index"][2693] = 2693
 STRING_EN[2693] = {}
 	STRING_EN[2693]["ID"] = 2693
 	STRING_EN[2693]["KEY"] = "IM_11004"
-	STRING_EN[2693]["VALUE"] = "Synthetic ship advanced material I， mainly from Star Harbor， Galaxy， Mall， Events"
+	STRING_EN[2693]["VALUE"] = "Advanced material I for spaceship synthesis， which is mainly from Starport， Galaxy， Shop and Events"
 	STRING_EN[2693]["real_idx"] = 2693
 
 STRING_EN["index"][2694] = 2694
 STRING_EN[2694] = {}
 	STRING_EN[2694]["ID"] = 2694
 	STRING_EN[2694]["KEY"] = "IM_11005"
-	STRING_EN[2694]["VALUE"] = "Synthetic ship advanced material I， mainly from Star Harbor， Galaxy， Mall， Events"
+	STRING_EN[2694]["VALUE"] = "Advanced material I for spaceship synthesis， which is mainly from Starport， Galaxy， Shop and Events"
 	STRING_EN[2694]["real_idx"] = 2694
 
 STRING_EN["index"][2695] = 2695
 STRING_EN[2695] = {}
 	STRING_EN[2695]["ID"] = 2695
 	STRING_EN[2695]["KEY"] = "IM_13001"
-	STRING_EN[2695]["VALUE"] = "Increase the ship's 100 points experience"
+	STRING_EN[2695]["VALUE"] = "Increase 100 points experience for the spaceship"
 	STRING_EN[2695]["real_idx"] = 2695
 
 STRING_EN["index"][2696] = 2696
 STRING_EN[2696] = {}
 	STRING_EN[2696]["ID"] = 2696
 	STRING_EN[2696]["KEY"] = "IM_13002"
-	STRING_EN[2696]["VALUE"] = "Increase the experience of the ship 300 points"
+	STRING_EN[2696]["VALUE"] = "Increase 300 points experience for the spaceship"
 	STRING_EN[2696]["real_idx"] = 2696
 
 STRING_EN["index"][2697] = 2697
 STRING_EN[2697] = {}
 	STRING_EN[2697]["ID"] = 2697
 	STRING_EN[2697]["KEY"] = "IM_13003"
-	STRING_EN[2697]["VALUE"] = "Increase the ship's 1000 experience"
+	STRING_EN[2697]["VALUE"] = "Increase 1000 points experience for the spaceship"
 	STRING_EN[2697]["real_idx"] = 2697
 
 STRING_EN["index"][2698] = 2698
 STRING_EN[2698] = {}
 	STRING_EN[2698]["ID"] = 2698
 	STRING_EN[2698]["KEY"] = "IM_13004"
-	STRING_EN[2698]["VALUE"] = "Increase the ship experience of 2000 points"
+	STRING_EN[2698]["VALUE"] = "Increase 2000 points experience for the spaceship"
 	STRING_EN[2698]["real_idx"] = 2698
 
 STRING_EN["index"][2699] = 2699
 STRING_EN[2699] = {}
 	STRING_EN[2699]["ID"] = 2699
 	STRING_EN[2699]["KEY"] = "IM_13005"
-	STRING_EN[2699]["VALUE"] = "Used to strengthen ship equipment in the fleet hangar， mainly from galaxies， trials， starports， shopping malls， events"
+	STRING_EN[2699]["VALUE"] = "Used for spaceship equipments upgrade in Fleet Hangar， which is mainly from Galaxy， Trial， Starport， Shop and Events"
 	STRING_EN[2699]["real_idx"] = 2699
 
 STRING_EN["index"][2700] = 2700
 STRING_EN[2700] = {}
 	STRING_EN[2700]["ID"] = 2700
 	STRING_EN[2700]["KEY"] = "IM_14001"
-	STRING_EN[2700]["VALUE"] = "The exclusive currency of the arena is used to upgrade the arena title， and the title can add powerful attributes to the ship!"
+	STRING_EN[2700]["VALUE"] = "Exclusive currency only for Arena， which is used to upgrade the Arena Title. The title can bring powerful attributes to the spaceship!"
 	STRING_EN[2700]["real_idx"] = 2700
 
 STRING_EN["index"][2701] = 2701
 STRING_EN[2701] = {}
 	STRING_EN[2701]["ID"] = 2701
 	STRING_EN[2701]["KEY"] = "IM_15001"
-	STRING_EN[2701]["VALUE"] = "Trial exclusive currency， you can redeem items in the trial mall"
+	STRING_EN[2701]["VALUE"] = "Exclusive currency only for Trial， you can use it to redeem items in Trial Shop"
 	STRING_EN[2701]["real_idx"] = 2701
 
 STRING_EN["index"][2702] = 2702
 STRING_EN[2702] = {}
 	STRING_EN[2702]["ID"] = 2702
 	STRING_EN[2702]["KEY"] = "IM_15002"
-	STRING_EN[2702]["VALUE"] = "Can increase the number of trials， mainly from sign-in， activities"
+	STRING_EN[2702]["VALUE"] = "Used for Trial frequency increase， which is mainly from Daily Bonus and Events"
 	STRING_EN[2702]["real_idx"] = 2702
 
 STRING_EN["index"][2703] = 2703
 STRING_EN[2703] = {}
 	STRING_EN[2703]["ID"] = 2703
 	STRING_EN[2703]["KEY"] = "AREA_N1"
-	STRING_EN[2703]["VALUE"] = "Ayr Galaxy"
+	STRING_EN[2703]["VALUE"] = "Galaxy Ayr"
 	STRING_EN[2703]["real_idx"] = 2703
 
 STRING_EN["index"][2704] = 2704
 STRING_EN[2704] = {}
 	STRING_EN[2704]["ID"] = 2704
 	STRING_EN[2704]["KEY"] = "AREA_N2"
-	STRING_EN[2704]["VALUE"] = "Tassan Galaxy"
+	STRING_EN[2704]["VALUE"] = "Galaxy Tassan"
 	STRING_EN[2704]["real_idx"] = 2704
 
 STRING_EN["index"][2705] = 2705
 STRING_EN[2705] = {}
 	STRING_EN[2705]["ID"] = 2705
 	STRING_EN[2705]["KEY"] = "AREA_N3"
-	STRING_EN[2705]["VALUE"] = "Mansari galaxy"
+	STRING_EN[2705]["VALUE"] = "Galaxy Mansari"
 	STRING_EN[2705]["real_idx"] = 2705
 
 STRING_EN["index"][2706] = 2706
 STRING_EN[2706] = {}
 	STRING_EN[2706]["ID"] = 2706
 	STRING_EN[2706]["KEY"] = "AREA_N4"
-	STRING_EN[2706]["VALUE"] = "Kalha Galaxy"
+	STRING_EN[2706]["VALUE"] = "Galaxy Kalha"
 	STRING_EN[2706]["real_idx"] = 2706
 
 STRING_EN["index"][2707] = 2707
 STRING_EN[2707] = {}
 	STRING_EN[2707]["ID"] = 2707
 	STRING_EN[2707]["KEY"] = "AREA_N5"
-	STRING_EN[2707]["VALUE"] = "Ramney galaxy"
+	STRING_EN[2707]["VALUE"] = "Galaxy Ramney"
 	STRING_EN[2707]["real_idx"] = 2707
 
 STRING_EN["index"][2708] = 2708
@@ -18967,672 +18967,672 @@ STRING_EN["index"][2710] = 2710
 STRING_EN[2710] = {}
 	STRING_EN[2710]["ID"] = 2710
 	STRING_EN[2710]["KEY"] = "AREA_M1"
-	STRING_EN[2710]["VALUE"] = "Prosperous， lively， too much vocabulary can be described here， it has become the second earth of mankind， but they obviously will not forget the war of the year， always ready to recapture what they lost in the past..."
+	STRING_EN[2710]["VALUE"] = "Prosperous， bustling， too many words can be used to describe here， where has become the second earth of mankind. But they obviously will not forget the war of that year， and they are always ready to recapture what they had lost in the past..."
 	STRING_EN[2710]["real_idx"] = 2710
 
 STRING_EN["index"][2711] = 2711
 STRING_EN[2711] = {}
 	STRING_EN[2711]["ID"] = 2711
 	STRING_EN[2711]["KEY"] = "AREA_M2"
-	STRING_EN[2711]["VALUE"] = "In the distant starry sky， here is the outpost of the human empire， responsible for collecting and monitoring the situation of the artificial intelligence fleet， this area is in a zone that may trigger danger at any time..."
+	STRING_EN[2711]["VALUE"] = "In the distant starry sky， here is the outpost of the human empire which is responsible for collecting and monitoring the situation of the Artificial Intelligence fleet， this area is in a zone that may trigger danger at any time..."
 	STRING_EN[2711]["real_idx"] = 2711
 
 STRING_EN["index"][2712] = 2712
 STRING_EN[2712] = {}
 	STRING_EN[2712]["ID"] = 2712
 	STRING_EN[2712]["KEY"] = "AREA_M3"
-	STRING_EN[2712]["VALUE"] = "In the endless sky， the stars are the closest planet to humanity. The originally calm planet was now pegged by artificial intelligence， trying to occupy this area as their colony..."
+	STRING_EN[2712]["VALUE"] = "In the endless starry sky， full of stars and this is the closest planet to humanity. The harmonious planet is now targeted by Artificial Intelligence， they are planning to occupy this planet as their colony..."
 	STRING_EN[2712]["real_idx"] = 2712
 
 STRING_EN["index"][2713] = 2713
 STRING_EN[2713] = {}
 	STRING_EN[2713]["ID"] = 2713
 	STRING_EN[2713]["KEY"] = "AREA_M4"
-	STRING_EN[2713]["VALUE"] = "The rapid development of artificial intelligence， through war， has occupied one planet after another in the universe， and it is in control of the universe. And here is just one of the many colonies in their colonies， but it is still very dangerous..."
+	STRING_EN[2713]["VALUE"] = "The rapid development of Artificial Intelligence has occupied one planet after another in the universe through the war， and it is going to take control of the universe. Here is just one of the many planets in their colonies， but it is still very dangerous..."
 	STRING_EN[2713]["real_idx"] = 2713
 
 STRING_EN["index"][2714] = 2714
 STRING_EN[2714] = {}
 	STRING_EN[2714]["ID"] = 2714
 	STRING_EN[2714]["KEY"] = "AREA_M5"
-	STRING_EN[2714]["VALUE"] = "The planets occupied by the war have been developed into powerful military bases by artificial intelligence. The planets are full of various fleets and supply stations. It is an insurmountable planet..."
+	STRING_EN[2714]["VALUE"] = "The planet occupied during the war has been developed into powerful military base by Artificial Intelligence. The planet is full of various fleets and supply stations. It is an insurmountable planet..."
 	STRING_EN[2714]["real_idx"] = 2714
 
 STRING_EN["index"][2715] = 2715
 STRING_EN[2715] = {}
 	STRING_EN[2715]["ID"] = 2715
 	STRING_EN[2715]["KEY"] = "AREA_M6"
-	STRING_EN[2715]["VALUE"] = "Endless deep space， lost stars， they use their own power to bring together the light of the bits and pieces， trying to make the dangers unobstructed， bringing a bustling life..."
+	STRING_EN[2715]["VALUE"] = "Endless space， lost stars， they use their own power to bring the light together bit by bit， trying to make the dangers unobstructed， trying to bring a bustling life..."
 	STRING_EN[2715]["real_idx"] = 2715
 
 STRING_EN["index"][2716] = 2716
 STRING_EN[2716] = {}
 	STRING_EN[2716]["ID"] = 2716
 	STRING_EN[2716]["KEY"] = "AREA_M7"
-	STRING_EN[2716]["VALUE"] = "Endless deep space， lost stars， they use their own power to bring together the light of the bits and pieces， trying to make the dangers unobstructed， bringing a bustling life..."
+	STRING_EN[2716]["VALUE"] = "Endless space， lost stars， they use their own power to bring the light together bit by bit， trying to make the dangers unobstructed， trying to bring a bustling life..."
 	STRING_EN[2716]["real_idx"] = 2716
 
 STRING_EN["index"][2717] = 2717
 STRING_EN[2717] = {}
 	STRING_EN[2717]["ID"] = 2717
 	STRING_EN[2717]["KEY"] = "COPY_N10101"
-	STRING_EN[2717]["VALUE"] = "Oak Planet"
+	STRING_EN[2717]["VALUE"] = "Planet Oak"
 	STRING_EN[2717]["real_idx"] = 2717
 
 STRING_EN["index"][2718] = 2718
 STRING_EN[2718] = {}
 	STRING_EN[2718]["ID"] = 2718
 	STRING_EN[2718]["KEY"] = "COPY_N10102"
-	STRING_EN[2718]["VALUE"] = "Trael Star"
+	STRING_EN[2718]["VALUE"] = "Planet Trael "
 	STRING_EN[2718]["real_idx"] = 2718
 
 STRING_EN["index"][2719] = 2719
 STRING_EN[2719] = {}
 	STRING_EN[2719]["ID"] = 2719
 	STRING_EN[2719]["KEY"] = "COPY_N10103"
-	STRING_EN[2719]["VALUE"] = "Kuras star"
+	STRING_EN[2719]["VALUE"] = "Planet Kuras "
 	STRING_EN[2719]["real_idx"] = 2719
 
 STRING_EN["index"][2720] = 2720
 STRING_EN[2720] = {}
 	STRING_EN[2720]["ID"] = 2720
 	STRING_EN[2720]["KEY"] = "COPY_N20101"
-	STRING_EN[2720]["VALUE"] = "Ruhr star"
+	STRING_EN[2720]["VALUE"] = "Planet Ruhr"
 	STRING_EN[2720]["real_idx"] = 2720
 
 STRING_EN["index"][2721] = 2721
 STRING_EN[2721] = {}
 	STRING_EN[2721]["ID"] = 2721
 	STRING_EN[2721]["KEY"] = "COPY_N20102"
-	STRING_EN[2721]["VALUE"] = "Plimtan"
+	STRING_EN[2721]["VALUE"] = "Planet Plimtan"
 	STRING_EN[2721]["real_idx"] = 2721
 
 STRING_EN["index"][2722] = 2722
 STRING_EN[2722] = {}
 	STRING_EN[2722]["ID"] = 2722
 	STRING_EN[2722]["KEY"] = "COPY_N20103"
-	STRING_EN[2722]["VALUE"] = "Planet"
+	STRING_EN[2722]["VALUE"] = "Planet Arthur"
 	STRING_EN[2722]["real_idx"] = 2722
 
 STRING_EN["index"][2723] = 2723
 STRING_EN[2723] = {}
 	STRING_EN[2723]["ID"] = 2723
 	STRING_EN[2723]["KEY"] = "COPY_N20104"
-	STRING_EN[2723]["VALUE"] = "Remlow star"
+	STRING_EN[2723]["VALUE"] = "Planet Remulus"
 	STRING_EN[2723]["real_idx"] = 2723
 
 STRING_EN["index"][2724] = 2724
 STRING_EN[2724] = {}
 	STRING_EN[2724]["ID"] = 2724
 	STRING_EN[2724]["KEY"] = "COPY_N30101"
-	STRING_EN[2724]["VALUE"] = "Mogro Planet"
+	STRING_EN[2724]["VALUE"] = "Planet Moglu"
 	STRING_EN[2724]["real_idx"] = 2724
 
 STRING_EN["index"][2725] = 2725
 STRING_EN[2725] = {}
 	STRING_EN[2725]["ID"] = 2725
 	STRING_EN[2725]["KEY"] = "COPY_N30102"
-	STRING_EN[2725]["VALUE"] = "Void"
+	STRING_EN[2725]["VALUE"] = "Remains of Vanity"
 	STRING_EN[2725]["real_idx"] = 2725
 
 STRING_EN["index"][2726] = 2726
 STRING_EN[2726] = {}
 	STRING_EN[2726]["ID"] = 2726
 	STRING_EN[2726]["KEY"] = "COPY_N30103"
-	STRING_EN[2726]["VALUE"] = "Lost Star River"
+	STRING_EN[2726]["VALUE"] = "Lost Galaxy"
 	STRING_EN[2726]["real_idx"] = 2726
 
 STRING_EN["index"][2727] = 2727
 STRING_EN[2727] = {}
 	STRING_EN[2727]["ID"] = 2727
 	STRING_EN[2727]["KEY"] = "COPY_N30104"
-	STRING_EN[2727]["VALUE"] = "Brady Star"
+	STRING_EN[2727]["VALUE"] = "Planet Brady "
 	STRING_EN[2727]["real_idx"] = 2727
 
 STRING_EN["index"][2728] = 2728
 STRING_EN[2728] = {}
 	STRING_EN[2728]["ID"] = 2728
 	STRING_EN[2728]["KEY"] = "COPY_N30105"
-	STRING_EN[2728]["VALUE"] = "Mestra Star"
+	STRING_EN[2728]["VALUE"] = "Planet Mestra "
 	STRING_EN[2728]["real_idx"] = 2728
 
 STRING_EN["index"][2729] = 2729
 STRING_EN[2729] = {}
 	STRING_EN[2729]["ID"] = 2729
 	STRING_EN[2729]["KEY"] = "COPY_N40101"
-	STRING_EN[2729]["VALUE"] = "Senna star ring"
+	STRING_EN[2729]["VALUE"] = "Star-ring Seine"
 	STRING_EN[2729]["real_idx"] = 2729
 
 STRING_EN["index"][2730] = 2730
 STRING_EN[2730] = {}
 	STRING_EN[2730]["ID"] = 2730
 	STRING_EN[2730]["KEY"] = "COPY_N40102"
-	STRING_EN[2730]["VALUE"] = "Senna planet"
+	STRING_EN[2730]["VALUE"] = "Planet Seine "
 	STRING_EN[2730]["real_idx"] = 2730
 
 STRING_EN["index"][2731] = 2731
 STRING_EN[2731] = {}
 	STRING_EN[2731]["ID"] = 2731
 	STRING_EN[2731]["KEY"] = "COPY_N40103"
-	STRING_EN[2731]["VALUE"] = "Magnetic storm star"
+	STRING_EN[2731]["VALUE"] = "Magnetic Storm Area"
 	STRING_EN[2731]["real_idx"] = 2731
 
 STRING_EN["index"][2732] = 2732
 STRING_EN[2732] = {}
 	STRING_EN[2732]["ID"] = 2732
 	STRING_EN[2732]["KEY"] = "COPY_N40104"
-	STRING_EN[2732]["VALUE"] = "Alleria Star"
+	STRING_EN[2732]["VALUE"] = "Planet Alleria"
 	STRING_EN[2732]["real_idx"] = 2732
 
 STRING_EN["index"][2733] = 2733
 STRING_EN[2733] = {}
 	STRING_EN[2733]["ID"] = 2733
 	STRING_EN[2733]["KEY"] = "COPY_N40105"
-	STRING_EN[2733]["VALUE"] = "Ken Riva Star"
+	STRING_EN[2733]["VALUE"] = "Star-sea Kenriba "
 	STRING_EN[2733]["real_idx"] = 2733
 
 STRING_EN["index"][2734] = 2734
 STRING_EN[2734] = {}
 	STRING_EN[2734]["ID"] = 2734
 	STRING_EN[2734]["KEY"] = "COPY_N40106"
-	STRING_EN[2734]["VALUE"] = "Wilga"
+	STRING_EN[2734]["VALUE"] = "Planet Wilga"
 	STRING_EN[2734]["real_idx"] = 2734
 
 STRING_EN["index"][2735] = 2735
 STRING_EN[2735] = {}
 	STRING_EN[2735]["ID"] = 2735
 	STRING_EN[2735]["KEY"] = "COPY_N40107"
-	STRING_EN[2735]["VALUE"] = "Cologne storm belt"
+	STRING_EN[2735]["VALUE"] = "Storm Area of Arklon"
 	STRING_EN[2735]["real_idx"] = 2735
 
 STRING_EN["index"][2736] = 2736
 STRING_EN[2736] = {}
 	STRING_EN[2736]["ID"] = 2736
 	STRING_EN[2736]["KEY"] = "COPY_N50101"
-	STRING_EN[2736]["VALUE"] = "Kusca Cloud"
+	STRING_EN[2736]["VALUE"] = "Nebula Kusiak "
 	STRING_EN[2736]["real_idx"] = 2736
 
 STRING_EN["index"][2737] = 2737
 STRING_EN[2737] = {}
 	STRING_EN[2737]["ID"] = 2737
 	STRING_EN[2737]["KEY"] = "COPY_N50102"
-	STRING_EN[2737]["VALUE"] = "Menethil star"
+	STRING_EN[2737]["VALUE"] = "Planet Menethil "
 	STRING_EN[2737]["real_idx"] = 2737
 
 STRING_EN["index"][2738] = 2738
 STRING_EN[2738] = {}
 	STRING_EN[2738]["ID"] = 2738
 	STRING_EN[2738]["KEY"] = "COPY_N50103"
-	STRING_EN[2738]["VALUE"] = "Aocheng Shifuxing"
+	STRING_EN[2738]["VALUE"] = "Planet Oswiak"
 	STRING_EN[2738]["real_idx"] = 2738
 
 STRING_EN["index"][2739] = 2739
 STRING_EN[2739] = {}
 	STRING_EN[2739]["ID"] = 2739
 	STRING_EN[2739]["KEY"] = "COPY_N50104"
-	STRING_EN[2739]["VALUE"] = "Roland Six"
+	STRING_EN[2739]["VALUE"] = "Planet Roland VI"
 	STRING_EN[2739]["real_idx"] = 2739
 
 STRING_EN["index"][2740] = 2740
 STRING_EN[2740] = {}
 	STRING_EN[2740]["ID"] = 2740
 	STRING_EN[2740]["KEY"] = "COPY_N50105"
-	STRING_EN[2740]["VALUE"] = "Taya Star Fortress"
+	STRING_EN[2740]["VALUE"] = "The Fortress of Planet Tayar"
 	STRING_EN[2740]["real_idx"] = 2740
 
 STRING_EN["index"][2741] = 2741
 STRING_EN[2741] = {}
 	STRING_EN[2741]["ID"] = 2741
 	STRING_EN[2741]["KEY"] = "COPY_N50106"
-	STRING_EN[2741]["VALUE"] = "Alterac"
+	STRING_EN[2741]["VALUE"] = "Planet Alterac"
 	STRING_EN[2741]["real_idx"] = 2741
 
 STRING_EN["index"][2742] = 2742
 STRING_EN[2742] = {}
 	STRING_EN[2742]["ID"] = 2742
 	STRING_EN[2742]["KEY"] = "COPY_N50107"
-	STRING_EN[2742]["VALUE"] = "Zolam Star Fight"
+	STRING_EN[2742]["VALUE"] = "Planet Zoram "
 	STRING_EN[2742]["real_idx"] = 2742
 
 STRING_EN["index"][2743] = 2743
 STRING_EN[2743] = {}
 	STRING_EN[2743]["ID"] = 2743
 	STRING_EN[2743]["KEY"] = "COPY_N50108"
-	STRING_EN[2743]["VALUE"] = "St. Keji Star Field"
+	STRING_EN[2743]["VALUE"] = "Planet Sergej"
 	STRING_EN[2743]["real_idx"] = 2743
 
 STRING_EN["index"][2744] = 2744
 STRING_EN[2744] = {}
 	STRING_EN[2744]["ID"] = 2744
 	STRING_EN[2744]["KEY"] = "Level_N1010101"
-	STRING_EN[2744]["VALUE"] = "Planetary base"
+	STRING_EN[2744]["VALUE"] = "Planet Base"
 	STRING_EN[2744]["real_idx"] = 2744
 
 STRING_EN["index"][2745] = 2745
 STRING_EN[2745] = {}
 	STRING_EN[2745]["ID"] = 2745
 	STRING_EN[2745]["KEY"] = "Level_N1010102"
-	STRING_EN[2745]["VALUE"] = "Planetary base interior"
+	STRING_EN[2745]["VALUE"] = "Interior Area of Planet Base"
 	STRING_EN[2745]["real_idx"] = 2745
 
 STRING_EN["index"][2746] = 2746
 STRING_EN[2746] = {}
 	STRING_EN[2746]["ID"] = 2746
 	STRING_EN[2746]["KEY"] = "Level_N1010103"
-	STRING_EN[2746]["VALUE"] = "Around the planet space station"
+	STRING_EN[2746]["VALUE"] = "The Rim of Planet Space Station"
 	STRING_EN[2746]["real_idx"] = 2746
 
 STRING_EN["index"][2747] = 2747
 STRING_EN[2747] = {}
 	STRING_EN[2747]["ID"] = 2747
 	STRING_EN[2747]["KEY"] = "Level_N1010201"
-	STRING_EN[2747]["VALUE"] = "Planetary space station interior"
+	STRING_EN[2747]["VALUE"] = "Interior Area of Planet Space Station"
 	STRING_EN[2747]["real_idx"] = 2747
 
 STRING_EN["index"][2748] = 2748
 STRING_EN[2748] = {}
 	STRING_EN[2748]["ID"] = 2748
 	STRING_EN[2748]["KEY"] = "Level_N1010202"
-	STRING_EN[2748]["VALUE"] = "Planetary space station"
+	STRING_EN[2748]["VALUE"] = "The Stronghold of Planet Space Station"
 	STRING_EN[2748]["real_idx"] = 2748
 
 STRING_EN["index"][2749] = 2749
 STRING_EN[2749] = {}
 	STRING_EN[2749]["ID"] = 2749
 	STRING_EN[2749]["KEY"] = "Level_N1010203"
-	STRING_EN[2749]["VALUE"] = "Planetary fog"
+	STRING_EN[2749]["VALUE"] = "The Mists of the Planet"
 	STRING_EN[2749]["real_idx"] = 2749
 
 STRING_EN["index"][2750] = 2750
 STRING_EN[2750] = {}
 	STRING_EN[2750]["ID"] = 2750
 	STRING_EN[2750]["KEY"] = "Level_N1010204"
-	STRING_EN[2750]["VALUE"] = "Empire Scouting Force"
+	STRING_EN[2750]["VALUE"] = "Imperial Scouts Troop"
 	STRING_EN[2750]["real_idx"] = 2750
 
 STRING_EN["index"][2751] = 2751
 STRING_EN[2751] = {}
 	STRING_EN[2751]["ID"] = 2751
 	STRING_EN[2751]["KEY"] = "Level_N1010301"
-	STRING_EN[2751]["VALUE"] = "Empire Scout"
+	STRING_EN[2751]["VALUE"] = "The Stronghold of Imperial Scouts "
 	STRING_EN[2751]["real_idx"] = 2751
 
 STRING_EN["index"][2752] = 2752
 STRING_EN[2752] = {}
 	STRING_EN[2752]["ID"] = 2752
 	STRING_EN[2752]["KEY"] = "Level_N1010302"
-	STRING_EN[2752]["VALUE"] = "Elite scout"
+	STRING_EN[2752]["VALUE"] = "Elite Scouts Troop"
 	STRING_EN[2752]["real_idx"] = 2752
 
 STRING_EN["index"][2753] = 2753
 STRING_EN[2753] = {}
 	STRING_EN[2753]["ID"] = 2753
 	STRING_EN[2753]["KEY"] = "Level_N1010303"
-	STRING_EN[2753]["VALUE"] = "Elite Scout Force Base"
+	STRING_EN[2753]["VALUE"] = "The Stronghold of Elite Scouts Troop"
 	STRING_EN[2753]["real_idx"] = 2753
 
 STRING_EN["index"][2754] = 2754
 STRING_EN[2754] = {}
 	STRING_EN[2754]["ID"] = 2754
 	STRING_EN[2754]["KEY"] = "Level_N1010304"
-	STRING_EN[2754]["VALUE"] = "Empire Scout Base"
+	STRING_EN[2754]["VALUE"] = "Imperial Scouts Base"
 	STRING_EN[2754]["real_idx"] = 2754
 
 STRING_EN["index"][2755] = 2755
 STRING_EN[2755] = {}
 	STRING_EN[2755]["ID"] = 2755
 	STRING_EN[2755]["KEY"] = "Level_N1010305"
-	STRING_EN[2755]["VALUE"] = "Captain of the empire scout fleet"
+	STRING_EN[2755]["VALUE"] = "The Captain Fleet of Imperial Scouts "
 	STRING_EN[2755]["real_idx"] = 2755
 
 STRING_EN["index"][2756] = 2756
 STRING_EN[2756] = {}
 	STRING_EN[2756]["ID"] = 2756
 	STRING_EN[2756]["KEY"] = "Level_N2010101"
-	STRING_EN[2756]["VALUE"] = "Ruhr Planet Fortress"
+	STRING_EN[2756]["VALUE"] = "The Fortress of Planet Ruhr"
 	STRING_EN[2756]["real_idx"] = 2756
 
 STRING_EN["index"][2757] = 2757
 STRING_EN[2757] = {}
 	STRING_EN[2757]["ID"] = 2757
 	STRING_EN[2757]["KEY"] = "Level_N2010102"
-	STRING_EN[2757]["VALUE"] = "Ruhr satellite"
+	STRING_EN[2757]["VALUE"] = "The Satellite of Ruhr"
 	STRING_EN[2757]["real_idx"] = 2757
 
 STRING_EN["index"][2758] = 2758
 STRING_EN[2758] = {}
 	STRING_EN[2758]["ID"] = 2758
 	STRING_EN[2758]["KEY"] = "Level_N2010103"
-	STRING_EN[2758]["VALUE"] = "Ruhr relay station"
+	STRING_EN[2758]["VALUE"] = "The Relay Station of Ruhr"
 	STRING_EN[2758]["real_idx"] = 2758
 
 STRING_EN["index"][2759] = 2759
 STRING_EN[2759] = {}
 	STRING_EN[2759]["ID"] = 2759
 	STRING_EN[2759]["KEY"] = "Level_N2010104"
-	STRING_EN[2759]["VALUE"] = "Ruhr Outpost"
+	STRING_EN[2759]["VALUE"] = "The Outpost of Ruhr"
 	STRING_EN[2759]["real_idx"] = 2759
 
 STRING_EN["index"][2760] = 2760
 STRING_EN[2760] = {}
 	STRING_EN[2760]["ID"] = 2760
 	STRING_EN[2760]["KEY"] = "Level_N2010201"
-	STRING_EN[2760]["VALUE"] = "Ruhr Outpost Patrol Point"
+	STRING_EN[2760]["VALUE"] = "The Patrol Point of Outpost Ruhr"
 	STRING_EN[2760]["real_idx"] = 2760
 
 STRING_EN["index"][2761] = 2761
 STRING_EN[2761] = {}
 	STRING_EN[2761]["ID"] = 2761
 	STRING_EN[2761]["KEY"] = "Level_N2010202"
-	STRING_EN[2761]["VALUE"] = "Outpost advance fleet"
+	STRING_EN[2761]["VALUE"] = "Advance Fleet of the Outpost"
 	STRING_EN[2761]["real_idx"] = 2761
 
 STRING_EN["index"][2762] = 2762
 STRING_EN[2762] = {}
 	STRING_EN[2762]["ID"] = 2762
 	STRING_EN[2762]["KEY"] = "Level_N2010203"
-	STRING_EN[2762]["VALUE"] = "Outpost station"
+	STRING_EN[2762]["VALUE"] = "The Stronghold of the Outpost"
 	STRING_EN[2762]["real_idx"] = 2762
 
 STRING_EN["index"][2763] = 2763
 STRING_EN[2763] = {}
 	STRING_EN[2763]["ID"] = 2763
 	STRING_EN[2763]["KEY"] = "Level_N2010204"
-	STRING_EN[2763]["VALUE"] = "Outpost base"
+	STRING_EN[2763]["VALUE"] = "Outpost Base"
 	STRING_EN[2763]["real_idx"] = 2763
 
 STRING_EN["index"][2764] = 2764
 STRING_EN[2764] = {}
 	STRING_EN[2764]["ID"] = 2764
 	STRING_EN[2764]["KEY"] = "Level_N2010301"
-	STRING_EN[2764]["VALUE"] = "Imperial patrol"
+	STRING_EN[2764]["VALUE"] = "Imperial Patrol"
 	STRING_EN[2764]["real_idx"] = 2764
 
 STRING_EN["index"][2765] = 2765
 STRING_EN[2765] = {}
 	STRING_EN[2765]["ID"] = 2765
 	STRING_EN[2765]["KEY"] = "Level_N2010302"
-	STRING_EN[2765]["VALUE"] = "Remnant"
+	STRING_EN[2765]["VALUE"] = "Arthur Remains"
 	STRING_EN[2765]["real_idx"] = 2765
 
 STRING_EN["index"][2766] = 2766
 STRING_EN[2766] = {}
 	STRING_EN[2766]["ID"] = 2766
 	STRING_EN[2766]["KEY"] = "Level_N2010303"
-	STRING_EN[2766]["VALUE"] = "Come to the star"
+	STRING_EN[2766]["VALUE"] = "The Fallen Star of Arthur "
 	STRING_EN[2766]["real_idx"] = 2766
 
 STRING_EN["index"][2767] = 2767
 STRING_EN[2767] = {}
 	STRING_EN[2767]["ID"] = 2767
 	STRING_EN[2767]["KEY"] = "Level_N2010304"
-	STRING_EN[2767]["VALUE"] = "Magnetic storm"
+	STRING_EN[2767]["VALUE"] = "The Land of Magnetic Storm "
 	STRING_EN[2767]["real_idx"] = 2767
 
 STRING_EN["index"][2768] = 2768
 STRING_EN[2768] = {}
 	STRING_EN[2768]["ID"] = 2768
 	STRING_EN[2768]["KEY"] = "Level_N2010305"
-	STRING_EN[2768]["VALUE"] = "Planetary debris"
+	STRING_EN[2768]["VALUE"] = "Planet Remains"
 	STRING_EN[2768]["real_idx"] = 2768
 
 STRING_EN["index"][2769] = 2769
 STRING_EN[2769] = {}
 	STRING_EN[2769]["ID"] = 2769
 	STRING_EN[2769]["KEY"] = "Level_N2010306"
-	STRING_EN[2769]["VALUE"] = "Captain of the Imperial Patrol Fleet"
+	STRING_EN[2769]["VALUE"] = "The Captain Fleet of Imperial Patrol "
 	STRING_EN[2769]["real_idx"] = 2769
 
 STRING_EN["index"][2770] = 2770
 STRING_EN[2770] = {}
 	STRING_EN[2770]["ID"] = 2770
 	STRING_EN[2770]["KEY"] = "Level_N2010401"
-	STRING_EN[2770]["VALUE"] = "Imperial patrol stronghold"
+	STRING_EN[2770]["VALUE"] = "The Stronghold of Imperial Patrol"
 	STRING_EN[2770]["real_idx"] = 2770
 
 STRING_EN["index"][2771] = 2771
 STRING_EN[2771] = {}
 	STRING_EN[2771]["ID"] = 2771
 	STRING_EN[2771]["KEY"] = "Level_N2010402"
-	STRING_EN[2771]["VALUE"] = "Remlock"
+	STRING_EN[2771]["VALUE"] = "The Sentry of Remulus"
 	STRING_EN[2771]["real_idx"] = 2771
 
 STRING_EN["index"][2772] = 2772
 STRING_EN[2772] = {}
 	STRING_EN[2772]["ID"] = 2772
 	STRING_EN[2772]["KEY"] = "Level_N2010403"
-	STRING_EN[2772]["VALUE"] = "Land of Remlock"
+	STRING_EN[2772]["VALUE"] = "The Land of Remulus "
 	STRING_EN[2772]["real_idx"] = 2772
 
 STRING_EN["index"][2773] = 2773
 STRING_EN[2773] = {}
 	STRING_EN[2773]["ID"] = 2773
 	STRING_EN[2773]["KEY"] = "Level_N2010404"
-	STRING_EN[2773]["VALUE"] = "Remlock trace"
+	STRING_EN[2773]["VALUE"] = "The Crack of Remulus "
 	STRING_EN[2773]["real_idx"] = 2773
 
 STRING_EN["index"][2774] = 2774
 STRING_EN[2774] = {}
 	STRING_EN[2774]["ID"] = 2774
 	STRING_EN[2774]["KEY"] = "Level_N2010405"
-	STRING_EN[2774]["VALUE"] = "Imperial patrol"
+	STRING_EN[2774]["VALUE"] = "Imperial Patrol"
 	STRING_EN[2774]["real_idx"] = 2774
 
 STRING_EN["index"][2775] = 2775
 STRING_EN[2775] = {}
 	STRING_EN[2775]["ID"] = 2775
 	STRING_EN[2775]["KEY"] = "Level_N2010406"
-	STRING_EN[2775]["VALUE"] = "Imperial patrol base"
+	STRING_EN[2775]["VALUE"] = "Imperial Patrol Base"
 	STRING_EN[2775]["real_idx"] = 2775
 
 STRING_EN["index"][2776] = 2776
 STRING_EN[2776] = {}
 	STRING_EN[2776]["ID"] = 2776
 	STRING_EN[2776]["KEY"] = "Level_N2010407"
-	STRING_EN[2776]["VALUE"] = "Kenmed Commander"
+	STRING_EN[2776]["VALUE"] = "Commander  Connor"
 	STRING_EN[2776]["real_idx"] = 2776
 
 STRING_EN["index"][2777] = 2777
 STRING_EN[2777] = {}
 	STRING_EN[2777]["ID"] = 2777
 	STRING_EN[2777]["KEY"] = "Level_N3010101"
-	STRING_EN[2777]["VALUE"] = "Starry sea before dawn"
+	STRING_EN[2777]["VALUE"] = "Predawn Star-sea"
 	STRING_EN[2777]["real_idx"] = 2777
 
 STRING_EN["index"][2778] = 2778
 STRING_EN[2778] = {}
 	STRING_EN[2778]["ID"] = 2778
 	STRING_EN[2778]["KEY"] = "Level_N3010102"
-	STRING_EN[2778]["VALUE"] = "Mogro's main star"
+	STRING_EN[2778]["VALUE"] = "Starbase of Moglu"
 	STRING_EN[2778]["real_idx"] = 2778
 
 STRING_EN["index"][2779] = 2779
 STRING_EN[2779] = {}
 	STRING_EN[2779]["ID"] = 2779
 	STRING_EN[2779]["KEY"] = "Level_N3010103"
-	STRING_EN[2779]["VALUE"] = "Mogro Rota"
+	STRING_EN[2779]["VALUE"] = "The Transition Station of Moglu"
 	STRING_EN[2779]["real_idx"] = 2779
 
 STRING_EN["index"][2780] = 2780
 STRING_EN[2780] = {}
 	STRING_EN[2780]["ID"] = 2780
 	STRING_EN[2780]["KEY"] = "Level_N3010104"
-	STRING_EN[2780]["VALUE"] = "Mogro ruins"
+	STRING_EN[2780]["VALUE"] = "Moglu Remains"
 	STRING_EN[2780]["real_idx"] = 2780
 
 STRING_EN["index"][2781] = 2781
 STRING_EN[2781] = {}
 	STRING_EN[2781]["ID"] = 2781
 	STRING_EN[2781]["KEY"] = "Level_N3010105"
-	STRING_EN[2781]["VALUE"] = "Imperial garrison"
+	STRING_EN[2781]["VALUE"] = "Imperial Garrison"
 	STRING_EN[2781]["real_idx"] = 2781
 
 STRING_EN["index"][2782] = 2782
 STRING_EN[2782] = {}
 	STRING_EN[2782]["ID"] = 2782
 	STRING_EN[2782]["KEY"] = "Level_N3010201"
-	STRING_EN[2782]["VALUE"] = "Mogro Star Cluster"
+	STRING_EN[2782]["VALUE"] = "The Stardust of Moglu"
 	STRING_EN[2782]["real_idx"] = 2782
 
 STRING_EN["index"][2783] = 2783
 STRING_EN[2783] = {}
 	STRING_EN[2783]["ID"] = 2783
 	STRING_EN[2783]["KEY"] = "Level_N3010202"
-	STRING_EN[2783]["VALUE"] = "Mogro Sentry"
+	STRING_EN[2783]["VALUE"] = "The Sentry of Moglu"
 	STRING_EN[2783]["real_idx"] = 2783
 
 STRING_EN["index"][2784] = 2784
 STRING_EN[2784] = {}
 	STRING_EN[2784]["ID"] = 2784
 	STRING_EN[2784]["KEY"] = "Level_N3010203"
-	STRING_EN[2784]["VALUE"] = "Magnetic storm"
+	STRING_EN[2784]["VALUE"] = "The Land of Magnetic Storm "
 	STRING_EN[2784]["real_idx"] = 2784
 
 STRING_EN["index"][2785] = 2785
 STRING_EN[2785] = {}
 	STRING_EN[2785]["ID"] = 2785
 	STRING_EN[2785]["KEY"] = "Level_N3010204"
-	STRING_EN[2785]["VALUE"] = "Star trail"
+	STRING_EN[2785]["VALUE"] = "The Crack of Constellation "
 	STRING_EN[2785]["real_idx"] = 2785
 
 STRING_EN["index"][2786] = 2786
 STRING_EN[2786] = {}
 	STRING_EN[2786]["ID"] = 2786
 	STRING_EN[2786]["KEY"] = "Level_N3010205"
-	STRING_EN[2786]["VALUE"] = "Imperial neutron star"
+	STRING_EN[2786]["VALUE"] = "Imperial Neutron Star"
 	STRING_EN[2786]["real_idx"] = 2786
 
 STRING_EN["index"][2787] = 2787
 STRING_EN[2787] = {}
 	STRING_EN[2787]["ID"] = 2787
 	STRING_EN[2787]["KEY"] = "Level_N3010206"
-	STRING_EN[2787]["VALUE"] = "Imperial elite fleet"
+	STRING_EN[2787]["VALUE"] = "Elite Imperial Fleet"
 	STRING_EN[2787]["real_idx"] = 2787
 
 STRING_EN["index"][2788] = 2788
 STRING_EN[2788] = {}
 	STRING_EN[2788]["ID"] = 2788
 	STRING_EN[2788]["KEY"] = "Level_N3010301"
-	STRING_EN[2788]["VALUE"] = "Dark shelter"
+	STRING_EN[2788]["VALUE"] = "Dark Shelter"
 	STRING_EN[2788]["real_idx"] = 2788
 
 STRING_EN["index"][2789] = 2789
 STRING_EN[2789] = {}
 	STRING_EN[2789]["ID"] = 2789
 	STRING_EN[2789]["KEY"] = "Level_N3010302"
-	STRING_EN[2789]["VALUE"] = "Sea of ​​fog"
+	STRING_EN[2789]["VALUE"] = "The Mists Sea"
 	STRING_EN[2789]["real_idx"] = 2789
 
 STRING_EN["index"][2790] = 2790
 STRING_EN[2790] = {}
 	STRING_EN[2790]["ID"] = 2790
 	STRING_EN[2790]["KEY"] = "Level_N3010303"
-	STRING_EN[2790]["VALUE"] = "Imperial frontline"
+	STRING_EN[2790]["VALUE"] = "The Stronghold of Imperial Front"
 	STRING_EN[2790]["real_idx"] = 2790
 
 STRING_EN["index"][2791] = 2791
 STRING_EN[2791] = {}
 	STRING_EN[2791]["ID"] = 2791
 	STRING_EN[2791]["KEY"] = "Level_N3010304"
-	STRING_EN[2791]["VALUE"] = "Death star cluster"
+	STRING_EN[2791]["VALUE"] = "The Stardust of Death"
 	STRING_EN[2791]["real_idx"] = 2791
 
 STRING_EN["index"][2792] = 2792
 STRING_EN[2792] = {}
 	STRING_EN[2792]["ID"] = 2792
 	STRING_EN[2792]["KEY"] = "Level_N3010305"
-	STRING_EN[2792]["VALUE"] = "The wreckage of the starry sky"
+	STRING_EN[2792]["VALUE"] = "Galaxy Remains"
 	STRING_EN[2792]["real_idx"] = 2792
 
 STRING_EN["index"][2793] = 2793
 STRING_EN[2793] = {}
 	STRING_EN[2793]["ID"] = 2793
 	STRING_EN[2793]["KEY"] = "Level_N3010306"
-	STRING_EN[2793]["VALUE"] = "Empire Frontline Base"
+	STRING_EN[2793]["VALUE"] = "Imperial Front Base"
 	STRING_EN[2793]["real_idx"] = 2793
 
 STRING_EN["index"][2794] = 2794
 STRING_EN[2794] = {}
 	STRING_EN[2794]["ID"] = 2794
 	STRING_EN[2794]["KEY"] = "Level_N3010307"
-	STRING_EN[2794]["VALUE"] = "Imperial garrison captain"
+	STRING_EN[2794]["VALUE"] = "The Captain Fleet of  Imperial Garrison"
 	STRING_EN[2794]["real_idx"] = 2794
 
 STRING_EN["index"][2795] = 2795
 STRING_EN[2795] = {}
 	STRING_EN[2795]["ID"] = 2795
 	STRING_EN[2795]["KEY"] = "Level_N3010401"
-	STRING_EN[2795]["VALUE"] = "Mourning Star Harbor"
+	STRING_EN[2795]["VALUE"] = "Wailing Starport"
 	STRING_EN[2795]["real_idx"] = 2795
 
 STRING_EN["index"][2796] = 2796
 STRING_EN[2796] = {}
 	STRING_EN[2796]["ID"] = 2796
 	STRING_EN[2796]["KEY"] = "Level_N3010402"
-	STRING_EN[2796]["VALUE"] = "Alterac Road"
+	STRING_EN[2796]["VALUE"] = "The Road of Alterac "
 	STRING_EN[2796]["real_idx"] = 2796
 
 STRING_EN["index"][2797] = 2797
 STRING_EN[2797] = {}
 	STRING_EN[2797]["ID"] = 2797
 	STRING_EN[2797]["KEY"] = "Level_N3010403"
-	STRING_EN[2797]["VALUE"] = "Foggy open space"
+	STRING_EN[2797]["VALUE"] = "The Space of the Mists"
 	STRING_EN[2797]["real_idx"] = 2797
 
 STRING_EN["index"][2798] = 2798
 STRING_EN[2798] = {}
 	STRING_EN[2798]["ID"] = 2798
 	STRING_EN[2798]["KEY"] = "Level_N3010404"
-	STRING_EN[2798]["VALUE"] = "Alvin Falling Star"
+	STRING_EN[2798]["VALUE"] = "Fallen Star Elvin"
 	STRING_EN[2798]["real_idx"] = 2798
 
 STRING_EN["index"][2799] = 2799
 STRING_EN[2799] = {}
 	STRING_EN[2799]["ID"] = 2799
 	STRING_EN[2799]["KEY"] = "Level_N3010405"
-	STRING_EN[2799]["VALUE"] = "Abandoned transition station"
+	STRING_EN[2799]["VALUE"] = "Abandoned Transition Station"
 	STRING_EN[2799]["real_idx"] = 2799
 
 STRING_EN["index"][2800] = 2800
 STRING_EN[2800] = {}
 	STRING_EN[2800]["ID"] = 2800
 	STRING_EN[2800]["KEY"] = "Level_N3010406"
-	STRING_EN[2800]["VALUE"] = "Bled Lab"
+	STRING_EN[2800]["VALUE"] = "Brad Lab"
 	STRING_EN[2800]["real_idx"] = 2800
 
 STRING_EN["index"][2801] = 2801
 STRING_EN[2801] = {}
 	STRING_EN[2801]["ID"] = 2801
 	STRING_EN[2801]["KEY"] = "Level_N3010407"
-	STRING_EN[2801]["VALUE"] = "Land of the temple"
+	STRING_EN[2801]["VALUE"] = "The Land of Sanctuary "
 	STRING_EN[2801]["real_idx"] = 2801
 
 STRING_EN["index"][2802] = 2802
 STRING_EN[2802] = {}
 	STRING_EN[2802]["ID"] = 2802
 	STRING_EN[2802]["KEY"] = "Level_N3010408"
-	STRING_EN[2802]["VALUE"] = "Brady Ruins"
+	STRING_EN[2802]["VALUE"] = "Brady Remains"
 	STRING_EN[2802]["real_idx"] = 2802
 
 STRING_EN["index"][2803] = 2803
 STRING_EN[2803] = {}
 	STRING_EN[2803]["ID"] = 2803
 	STRING_EN[2803]["KEY"] = "Level_N3010501"
-	STRING_EN[2803]["VALUE"] = "Red Ridge Trail"
+	STRING_EN[2803]["VALUE"] = "The Trail of Red Ridge "
 	STRING_EN[2803]["real_idx"] = 2803
 
 STRING_EN["index"][2804] = 2804
 STRING_EN[2804] = {}
 	STRING_EN[2804]["ID"] = 2804
 	STRING_EN[2804]["KEY"] = "Level_N3010502"
-	STRING_EN[2804]["VALUE"] = "Mestra planet"
+	STRING_EN[2804]["VALUE"] = "Planet Mestra "
 	STRING_EN[2804]["real_idx"] = 2804
 
 STRING_EN["index"][2805] = 2805
 STRING_EN[2805] = {}
 	STRING_EN[2805]["ID"] = 2805
 	STRING_EN[2805]["KEY"] = "Level_N3010503"
-	STRING_EN[2805]["VALUE"] = "Land of oracle"
+	STRING_EN[2805]["VALUE"] = "The Land of Oracle"
 	STRING_EN[2805]["real_idx"] = 2805
 
 STRING_EN["index"][2806] = 2806
@@ -19646,28 +19646,28 @@ STRING_EN["index"][2807] = 2807
 STRING_EN[2807] = {}
 	STRING_EN[2807]["ID"] = 2807
 	STRING_EN[2807]["KEY"] = "Level_N3010505"
-	STRING_EN[2807]["VALUE"] = "Eye of Tar"
+	STRING_EN[2807]["VALUE"] = "The Eye of Thar"
 	STRING_EN[2807]["real_idx"] = 2807
 
 STRING_EN["index"][2808] = 2808
 STRING_EN[2808] = {}
 	STRING_EN[2808]["ID"] = 2808
 	STRING_EN[2808]["KEY"] = "Level_N3010506"
-	STRING_EN[2808]["VALUE"] = "Maistra Fortress"
+	STRING_EN[2808]["VALUE"] = "The Fortress of Mestra"
 	STRING_EN[2808]["real_idx"] = 2808
 
 STRING_EN["index"][2809] = 2809
 STRING_EN[2809] = {}
 	STRING_EN[2809]["ID"] = 2809
 	STRING_EN[2809]["KEY"] = "Level_N3010507"
-	STRING_EN[2809]["VALUE"] = "Funeral shadow black hole"
+	STRING_EN[2809]["VALUE"] = "Ruining Black Hole"
 	STRING_EN[2809]["real_idx"] = 2809
 
 STRING_EN["index"][2810] = 2810
 STRING_EN[2810] = {}
 	STRING_EN[2810]["ID"] = 2810
 	STRING_EN[2810]["KEY"] = "Level_N3010508"
-	STRING_EN[2810]["VALUE"] = "Maine main star"
+	STRING_EN[2810]["VALUE"] = "Starbase of Mestra"
 	STRING_EN[2810]["real_idx"] = 2810
 
 STRING_EN["index"][2811] = 2811
@@ -19681,245 +19681,245 @@ STRING_EN["index"][2812] = 2812
 STRING_EN[2812] = {}
 	STRING_EN[2812]["ID"] = 2812
 	STRING_EN[2812]["KEY"] = "Level_N4010101"
-	STRING_EN[2812]["VALUE"] = "Danga Star"
+	STRING_EN[2812]["VALUE"] = "Star Chakra Danga"
 	STRING_EN[2812]["real_idx"] = 2812
 
 STRING_EN["index"][2813] = 2813
 STRING_EN[2813] = {}
 	STRING_EN[2813]["ID"] = 2813
 	STRING_EN[2813]["KEY"] = "Level_N4010102"
-	STRING_EN[2813]["VALUE"] = "Land of Senna"
+	STRING_EN[2813]["VALUE"] = "The Land of Seine"
 	STRING_EN[2813]["real_idx"] = 2813
 
 STRING_EN["index"][2814] = 2814
 STRING_EN[2814] = {}
 	STRING_EN[2814]["ID"] = 2814
 	STRING_EN[2814]["KEY"] = "Level_N4010103"
-	STRING_EN[2814]["VALUE"] = "Imperial garrison"
+	STRING_EN[2814]["VALUE"] = "Imperial Garrison"
 	STRING_EN[2814]["real_idx"] = 2814
 
 STRING_EN["index"][2815] = 2815
 STRING_EN[2815] = {}
 	STRING_EN[2815]["ID"] = 2815
 	STRING_EN[2815]["KEY"] = "Level_N4010104"
-	STRING_EN[2815]["VALUE"] = "Senna Monitoring Station"
+	STRING_EN[2815]["VALUE"] = "The Observatory of Seine"
 	STRING_EN[2815]["real_idx"] = 2815
 
 STRING_EN["index"][2816] = 2816
 STRING_EN[2816] = {}
 	STRING_EN[2816]["ID"] = 2816
 	STRING_EN[2816]["KEY"] = "Level_N4010105"
-	STRING_EN[2816]["VALUE"] = "Captain of the garrison fleet"
+	STRING_EN[2816]["VALUE"] = "The Captain Fleet of Imperial Garrison"
 	STRING_EN[2816]["real_idx"] = 2816
 
 STRING_EN["index"][2817] = 2817
 STRING_EN[2817] = {}
 	STRING_EN[2817]["ID"] = 2817
 	STRING_EN[2817]["KEY"] = "Level_N4010201"
-	STRING_EN[2817]["VALUE"] = "Sena Fortress"
+	STRING_EN[2817]["VALUE"] = "The Fortress of Seine"
 	STRING_EN[2817]["real_idx"] = 2817
 
 STRING_EN["index"][2818] = 2818
 STRING_EN[2818] = {}
 	STRING_EN[2818]["ID"] = 2818
 	STRING_EN[2818]["KEY"] = "Level_N4010202"
-	STRING_EN[2818]["VALUE"] = "Meteorite"
+	STRING_EN[2818]["VALUE"] = "The Meteorite Zone"
 	STRING_EN[2818]["real_idx"] = 2818
 
 STRING_EN["index"][2819] = 2819
 STRING_EN[2819] = {}
 	STRING_EN[2819]["ID"] = 2819
 	STRING_EN[2819]["KEY"] = "Level_N4010203"
-	STRING_EN[2819]["VALUE"] = "Shadow wreck"
+	STRING_EN[2819]["VALUE"] = "Remains in the Shadow "
 	STRING_EN[2819]["real_idx"] = 2819
 
 STRING_EN["index"][2820] = 2820
 STRING_EN[2820] = {}
 	STRING_EN[2820]["ID"] = 2820
 	STRING_EN[2820]["KEY"] = "Level_N4010204"
-	STRING_EN[2820]["VALUE"] = "Star nest in the fog"
+	STRING_EN[2820]["VALUE"] = "Star Nest in The Mists"
 	STRING_EN[2820]["real_idx"] = 2820
 
 STRING_EN["index"][2821] = 2821
 STRING_EN[2821] = {}
 	STRING_EN[2821]["ID"] = 2821
 	STRING_EN[2821]["KEY"] = "Level_N4010205"
-	STRING_EN[2821]["VALUE"] = "Hills Space Station"
+	STRING_EN[2821]["VALUE"] = "Space Station Hills"
 	STRING_EN[2821]["real_idx"] = 2821
 
 STRING_EN["index"][2822] = 2822
 STRING_EN[2822] = {}
 	STRING_EN[2822]["ID"] = 2822
 	STRING_EN[2822]["KEY"] = "Level_N4010206"
-	STRING_EN[2822]["VALUE"] = "Break through the land of Senna"
+	STRING_EN[2822]["VALUE"] = "Break through the Land of Seine"
 	STRING_EN[2822]["real_idx"] = 2822
 
 STRING_EN["index"][2823] = 2823
 STRING_EN[2823] = {}
 	STRING_EN[2823]["ID"] = 2823
 	STRING_EN[2823]["KEY"] = "Level_N4010301"
-	STRING_EN[2823]["VALUE"] = "Guard camp"
+	STRING_EN[2823]["VALUE"] = "Camp of the Garrison"
 	STRING_EN[2823]["real_idx"] = 2823
 
 STRING_EN["index"][2824] = 2824
 STRING_EN[2824] = {}
 	STRING_EN[2824]["ID"] = 2824
 	STRING_EN[2824]["KEY"] = "Level_N4010302"
-	STRING_EN[2824]["VALUE"] = "Alleria dust"
+	STRING_EN[2824]["VALUE"] = "The Dust of Alleria"
 	STRING_EN[2824]["real_idx"] = 2824
 
 STRING_EN["index"][2825] = 2825
 STRING_EN[2825] = {}
 	STRING_EN[2825]["ID"] = 2825
 	STRING_EN[2825]["KEY"] = "Level_N4010303"
-	STRING_EN[2825]["VALUE"] = "Boneless ground"
+	STRING_EN[2825]["VALUE"] = "The Boneless Area"
 	STRING_EN[2825]["real_idx"] = 2825
 
 STRING_EN["index"][2826] = 2826
 STRING_EN[2826] = {}
 	STRING_EN[2826]["ID"] = 2826
 	STRING_EN[2826]["KEY"] = "Level_N4010304"
-	STRING_EN[2826]["VALUE"] = "Shelter in the storm"
+	STRING_EN[2826]["VALUE"] = "Shelter in the Storm"
 	STRING_EN[2826]["real_idx"] = 2826
 
 STRING_EN["index"][2827] = 2827
 STRING_EN[2827] = {}
 	STRING_EN[2827]["ID"] = 2827
 	STRING_EN[2827]["KEY"] = "Level_N4010305"
-	STRING_EN[2827]["VALUE"] = "Lordan Mill Ruins"
+	STRING_EN[2827]["VALUE"] = "Lordamere Remains"
 	STRING_EN[2827]["real_idx"] = 2827
 
 STRING_EN["index"][2828] = 2828
 STRING_EN[2828] = {}
 	STRING_EN[2828]["ID"] = 2828
 	STRING_EN[2828]["KEY"] = "Level_N4010306"
-	STRING_EN[2828]["VALUE"] = "Tirisfal"
+	STRING_EN[2828]["VALUE"] = "Magnetic Storm Teresa"
 	STRING_EN[2828]["real_idx"] = 2828
 
 STRING_EN["index"][2829] = 2829
 STRING_EN[2829] = {}
 	STRING_EN[2829]["ID"] = 2829
 	STRING_EN[2829]["KEY"] = "Level_N4010401"
-	STRING_EN[2829]["VALUE"] = "Hyjal wreck"
+	STRING_EN[2829]["VALUE"] = "Hyjal Remains"
 	STRING_EN[2829]["real_idx"] = 2829
 
 STRING_EN["index"][2830] = 2830
 STRING_EN[2830] = {}
 	STRING_EN[2830]["ID"] = 2830
 	STRING_EN[2830]["KEY"] = "Level_N4010402"
-	STRING_EN[2830]["VALUE"] = "Gloomy valley"
+	STRING_EN[2830]["VALUE"] = "Gloomy Valley"
 	STRING_EN[2830]["real_idx"] = 2830
 
 STRING_EN["index"][2831] = 2831
 STRING_EN[2831] = {}
 	STRING_EN[2831]["ID"] = 2831
 	STRING_EN[2831]["KEY"] = "Level_N4010403"
-	STRING_EN[2831]["VALUE"] = "Twin towers"
+	STRING_EN[2831]["VALUE"] = "Twin Towers Remains"
 	STRING_EN[2831]["real_idx"] = 2831
 
 STRING_EN["index"][2832] = 2832
 STRING_EN[2832] = {}
 	STRING_EN[2832]["ID"] = 2832
 	STRING_EN[2832]["KEY"] = "Level_N4010404"
-	STRING_EN[2832]["VALUE"] = "Discovery in the remains"
+	STRING_EN[2832]["VALUE"] = "Discovery of the Remains"
 	STRING_EN[2832]["real_idx"] = 2832
 
 STRING_EN["index"][2833] = 2833
 STRING_EN[2833] = {}
 	STRING_EN[2833]["ID"] = 2833
 	STRING_EN[2833]["KEY"] = "Level_N4010405"
-	STRING_EN[2833]["VALUE"] = "Aurelia Star"
+	STRING_EN[2833]["VALUE"] = "Planet Alleria"
 	STRING_EN[2833]["real_idx"] = 2833
 
 STRING_EN["index"][2834] = 2834
 STRING_EN[2834] = {}
 	STRING_EN[2834]["ID"] = 2834
 	STRING_EN[2834]["KEY"] = "Level_N4010406"
-	STRING_EN[2834]["VALUE"] = "Assault on Aurelia"
+	STRING_EN[2834]["VALUE"] = "The Raid of Alleria"
 	STRING_EN[2834]["real_idx"] = 2834
 
 STRING_EN["index"][2835] = 2835
 STRING_EN[2835] = {}
 	STRING_EN[2835]["ID"] = 2835
 	STRING_EN[2835]["KEY"] = "Level_N4010407"
-	STRING_EN[2835]["VALUE"] = "Fortress in the sky"
+	STRING_EN[2835]["VALUE"] = "The Fortress of the Galaxy"
 	STRING_EN[2835]["real_idx"] = 2835
 
 STRING_EN["index"][2836] = 2836
 STRING_EN[2836] = {}
 	STRING_EN[2836]["ID"] = 2836
 	STRING_EN[2836]["KEY"] = "Level_N4010501"
-	STRING_EN[2836]["VALUE"] = "Positive confrontation with Manorok"
+	STRING_EN[2836]["VALUE"] = "The Confrontation of Manoroc"
 	STRING_EN[2836]["real_idx"] = 2836
 
 STRING_EN["index"][2837] = 2837
 STRING_EN[2837] = {}
 	STRING_EN[2837]["ID"] = 2837
 	STRING_EN[2837]["KEY"] = "Level_N4010502"
-	STRING_EN[2837]["VALUE"] = "Guild Spaceport"
+	STRING_EN[2837]["VALUE"] = "Battleground Starport"
 	STRING_EN[2837]["real_idx"] = 2837
 
 STRING_EN["index"][2838] = 2838
 STRING_EN[2838] = {}
 	STRING_EN[2838]["ID"] = 2838
 	STRING_EN[2838]["KEY"] = "Level_N4010503"
-	STRING_EN[2838]["VALUE"] = "Empire support"
+	STRING_EN[2838]["VALUE"] = "Support from The Empire "
 	STRING_EN[2838]["real_idx"] = 2838
 
 STRING_EN["index"][2839] = 2839
 STRING_EN[2839] = {}
 	STRING_EN[2839]["ID"] = 2839
 	STRING_EN[2839]["KEY"] = "Level_N4010504"
-	STRING_EN[2839]["VALUE"] = "Manorlock barrier"
+	STRING_EN[2839]["VALUE"] = "The Barrier of Manoroc "
 	STRING_EN[2839]["real_idx"] = 2839
 
 STRING_EN["index"][2840] = 2840
 STRING_EN[2840] = {}
 	STRING_EN[2840]["ID"] = 2840
 	STRING_EN[2840]["KEY"] = "Level_N4010505"
-	STRING_EN[2840]["VALUE"] = "Cracked Manolok"
+	STRING_EN[2840]["VALUE"] = "Shattered Manoroc"
 	STRING_EN[2840]["real_idx"] = 2840
 
 STRING_EN["index"][2841] = 2841
 STRING_EN[2841] = {}
 	STRING_EN[2841]["ID"] = 2841
 	STRING_EN[2841]["KEY"] = "Level_N4010506"
-	STRING_EN[2841]["VALUE"] = "Imperial neutron star"
+	STRING_EN[2841]["VALUE"] = "Imperial Neutron Star"
 	STRING_EN[2841]["real_idx"] = 2841
 
 STRING_EN["index"][2842] = 2842
 STRING_EN[2842] = {}
 	STRING_EN[2842]["ID"] = 2842
 	STRING_EN[2842]["KEY"] = "Level_N4010507"
-	STRING_EN[2842]["VALUE"] = "Kenriba Heights"
+	STRING_EN[2842]["VALUE"] = "The Height of Kenriba"
 	STRING_EN[2842]["real_idx"] = 2842
 
 STRING_EN["index"][2843] = 2843
 STRING_EN[2843] = {}
 	STRING_EN[2843]["ID"] = 2843
 	STRING_EN[2843]["KEY"] = "Level_N4010508"
-	STRING_EN[2843]["VALUE"] = "Kenruwa garrison"
+	STRING_EN[2843]["VALUE"] = "The Garrison of Kenriba"
 	STRING_EN[2843]["real_idx"] = 2843
 
 STRING_EN["index"][2844] = 2844
 STRING_EN[2844] = {}
 	STRING_EN[2844]["ID"] = 2844
 	STRING_EN[2844]["KEY"] = "Level_N4010509"
-	STRING_EN[2844]["VALUE"] = "Ken Rewa Commander"
+	STRING_EN[2844]["VALUE"] = "The Commander of Kenriba"
 	STRING_EN[2844]["real_idx"] = 2844
 
 STRING_EN["index"][2845] = 2845
 STRING_EN[2845] = {}
 	STRING_EN[2845]["ID"] = 2845
 	STRING_EN[2845]["KEY"] = "Level_N4010601"
-	STRING_EN[2845]["VALUE"] = "Niyre Shrine"
+	STRING_EN[2845]["VALUE"] = "Shrine Tesniere"
 	STRING_EN[2845]["real_idx"] = 2845
 
 STRING_EN["index"][2846] = 2846
 STRING_EN[2846] = {}
 	STRING_EN[2846]["ID"] = 2846
 	STRING_EN[2846]["KEY"] = "Level_N4010602"
-	STRING_EN[2846]["VALUE"] = "Nijer ruins"
+	STRING_EN[2846]["VALUE"] = "Tesniere Remains"
 	STRING_EN[2846]["real_idx"] = 2846
 
 STRING_EN["index"][2847] = 2847
@@ -19933,168 +19933,168 @@ STRING_EN["index"][2848] = 2848
 STRING_EN[2848] = {}
 	STRING_EN[2848]["ID"] = 2848
 	STRING_EN[2848]["KEY"] = "Level_N4010604"
-	STRING_EN[2848]["VALUE"] = "Imperial laboratory"
+	STRING_EN[2848]["VALUE"] = "Imperial Lab"
 	STRING_EN[2848]["real_idx"] = 2848
 
 STRING_EN["index"][2849] = 2849
 STRING_EN[2849] = {}
 	STRING_EN[2849]["ID"] = 2849
 	STRING_EN[2849]["KEY"] = "Level_N4010605"
-	STRING_EN[2849]["VALUE"] = "Imperial core fleet"
+	STRING_EN[2849]["VALUE"] = "Imperial Core Fleet"
 	STRING_EN[2849]["real_idx"] = 2849
 
 STRING_EN["index"][2850] = 2850
 STRING_EN[2850] = {}
 	STRING_EN[2850]["ID"] = 2850
 	STRING_EN[2850]["KEY"] = "Level_N4010606"
-	STRING_EN[2850]["VALUE"] = "City of fog"
+	STRING_EN[2850]["VALUE"] = "City of the Mists"
 	STRING_EN[2850]["real_idx"] = 2850
 
 STRING_EN["index"][2851] = 2851
 STRING_EN[2851] = {}
 	STRING_EN[2851]["ID"] = 2851
 	STRING_EN[2851]["KEY"] = "Level_N4010607"
-	STRING_EN[2851]["VALUE"] = "Wilga Fortress"
+	STRING_EN[2851]["VALUE"] = "The Fortress of Wilga"
 	STRING_EN[2851]["real_idx"] = 2851
 
 STRING_EN["index"][2852] = 2852
 STRING_EN[2852] = {}
 	STRING_EN[2852]["ID"] = 2852
 	STRING_EN[2852]["KEY"] = "Level_N4010608"
-	STRING_EN[2852]["VALUE"] = "Wilga Fortress"
+	STRING_EN[2852]["VALUE"] = "The Stronghold of Wilga "
 	STRING_EN[2852]["real_idx"] = 2852
 
 STRING_EN["index"][2853] = 2853
 STRING_EN[2853] = {}
 	STRING_EN[2853]["ID"] = 2853
 	STRING_EN[2853]["KEY"] = "Level_N4010609"
-	STRING_EN[2853]["VALUE"] = "Captain of the Imperial Core Fleet"
+	STRING_EN[2853]["VALUE"] = "The Captain Fleet of Imperial Core Fleet"
 	STRING_EN[2853]["real_idx"] = 2853
 
 STRING_EN["index"][2854] = 2854
 STRING_EN[2854] = {}
 	STRING_EN[2854]["ID"] = 2854
 	STRING_EN[2854]["KEY"] = "Level_N4010701"
-	STRING_EN[2854]["VALUE"] = "Algonquin main star"
+	STRING_EN[2854]["VALUE"] = "Starbase of Arklon"
 	STRING_EN[2854]["real_idx"] = 2854
 
 STRING_EN["index"][2855] = 2855
 STRING_EN[2855] = {}
 	STRING_EN[2855]["ID"] = 2855
 	STRING_EN[2855]["KEY"] = "Level_N4010702"
-	STRING_EN[2855]["VALUE"] = "Al Cologne relay station"
+	STRING_EN[2855]["VALUE"] = "Relay Station of Arklon"
 	STRING_EN[2855]["real_idx"] = 2855
 
 STRING_EN["index"][2856] = 2856
 STRING_EN[2856] = {}
 	STRING_EN[2856]["ID"] = 2856
 	STRING_EN[2856]["KEY"] = "Level_N4010703"
-	STRING_EN[2856]["VALUE"] = "Imperial Fleet Command"
+	STRING_EN[2856]["VALUE"] = "Command Center of Imperial Fleet "
 	STRING_EN[2856]["real_idx"] = 2856
 
 STRING_EN["index"][2857] = 2857
 STRING_EN[2857] = {}
 	STRING_EN[2857]["ID"] = 2857
 	STRING_EN[2857]["KEY"] = "Level_N4010704"
-	STRING_EN[2857]["VALUE"] = "Alcolog factory"
+	STRING_EN[2857]["VALUE"] = "The Factory of Arklon"
 	STRING_EN[2857]["real_idx"] = 2857
 
 STRING_EN["index"][2858] = 2858
 STRING_EN[2858] = {}
 	STRING_EN[2858]["ID"] = 2858
 	STRING_EN[2858]["KEY"] = "Level_N4010705"
-	STRING_EN[2858]["VALUE"] = "Alcologne Nest"
+	STRING_EN[2858]["VALUE"] = "Star Nest of Arklon"
 	STRING_EN[2858]["real_idx"] = 2858
 
 STRING_EN["index"][2859] = 2859
 STRING_EN[2859] = {}
 	STRING_EN[2859]["ID"] = 2859
 	STRING_EN[2859]["KEY"] = "Level_N4010706"
-	STRING_EN[2859]["VALUE"] = "Bloody wall"
+	STRING_EN[2859]["VALUE"] = "Bloody Wall"
 	STRING_EN[2859]["real_idx"] = 2859
 
 STRING_EN["index"][2860] = 2860
 STRING_EN[2860] = {}
 	STRING_EN[2860]["ID"] = 2860
 	STRING_EN[2860]["KEY"] = "Level_N4010707"
-	STRING_EN[2860]["VALUE"] = "Empire Starport"
+	STRING_EN[2860]["VALUE"] = "Imperial Starport"
 	STRING_EN[2860]["real_idx"] = 2860
 
 STRING_EN["index"][2861] = 2861
 STRING_EN[2861] = {}
 	STRING_EN[2861]["ID"] = 2861
 	STRING_EN[2861]["KEY"] = "Level_N4010708"
-	STRING_EN[2861]["VALUE"] = "Imperial Fleet Base Camp"
+	STRING_EN[2861]["VALUE"] = "Imperial Fleet Base "
 	STRING_EN[2861]["real_idx"] = 2861
 
 STRING_EN["index"][2862] = 2862
 STRING_EN[2862] = {}
 	STRING_EN[2862]["ID"] = 2862
 	STRING_EN[2862]["KEY"] = "Level_N4010709"
-	STRING_EN[2862]["VALUE"] = "Calp Commander"
+	STRING_EN[2862]["VALUE"] = "Commander Carp"
 	STRING_EN[2862]["real_idx"] = 2862
 
 STRING_EN["index"][2863] = 2863
 STRING_EN[2863] = {}
 	STRING_EN[2863]["ID"] = 2863
 	STRING_EN[2863]["KEY"] = "Level_N5010101"
-	STRING_EN[2863]["VALUE"] = "Drew Galaxy"
+	STRING_EN[2863]["VALUE"] = "Galaxy Drew"
 	STRING_EN[2863]["real_idx"] = 2863
 
 STRING_EN["index"][2864] = 2864
 STRING_EN[2864] = {}
 	STRING_EN[2864]["ID"] = 2864
 	STRING_EN[2864]["KEY"] = "Level_N5010102"
-	STRING_EN[2864]["VALUE"] = "Kusca Outpost"
+	STRING_EN[2864]["VALUE"] = "The Outpost of Kusiak"
 	STRING_EN[2864]["real_idx"] = 2864
 
 STRING_EN["index"][2865] = 2865
 STRING_EN[2865] = {}
 	STRING_EN[2865]["ID"] = 2865
 	STRING_EN[2865]["KEY"] = "Level_N5010103"
-	STRING_EN[2865]["VALUE"] = "Kusca Union"
+	STRING_EN[2865]["VALUE"] = "The Alliance of Kusiak "
 	STRING_EN[2865]["real_idx"] = 2865
 
 STRING_EN["index"][2866] = 2866
 STRING_EN[2866] = {}
 	STRING_EN[2866]["ID"] = 2866
 	STRING_EN[2866]["KEY"] = "Level_N5010104"
-	STRING_EN[2866]["VALUE"] = "Kuskar's Column"
+	STRING_EN[2866]["VALUE"] = "The Backbone of Kusiak"
 	STRING_EN[2866]["real_idx"] = 2866
 
 STRING_EN["index"][2867] = 2867
 STRING_EN[2867] = {}
 	STRING_EN[2867]["ID"] = 2867
 	STRING_EN[2867]["KEY"] = "Level_N5010105"
-	STRING_EN[2867]["VALUE"] = "Kusca Fortress"
+	STRING_EN[2867]["VALUE"] = "The Fortress of Kusiak"
 	STRING_EN[2867]["real_idx"] = 2867
 
 STRING_EN["index"][2868] = 2868
 STRING_EN[2868] = {}
 	STRING_EN[2868]["ID"] = 2868
 	STRING_EN[2868]["KEY"] = "Level_N5010201"
-	STRING_EN[2868]["VALUE"] = "Hyjal"
+	STRING_EN[2868]["VALUE"] = "The Peak of Hyjal"
 	STRING_EN[2868]["real_idx"] = 2868
 
 STRING_EN["index"][2869] = 2869
 STRING_EN[2869] = {}
 	STRING_EN[2869]["ID"] = 2869
 	STRING_EN[2869]["KEY"] = "Level_N5010202"
-	STRING_EN[2869]["VALUE"] = "Rutherland Floating Island"
+	STRING_EN[2869]["VALUE"] = "Floating Island of Lucilla"
 	STRING_EN[2869]["real_idx"] = 2869
 
 STRING_EN["index"][2870] = 2870
 STRING_EN[2870] = {}
 	STRING_EN[2870]["ID"] = 2870
 	STRING_EN[2870]["KEY"] = "Level_N5010203"
-	STRING_EN[2870]["VALUE"] = "Floating island wreck"
+	STRING_EN[2870]["VALUE"] = "Floating island Remains"
 	STRING_EN[2870]["real_idx"] = 2870
 
 STRING_EN["index"][2871] = 2871
 STRING_EN[2871] = {}
 	STRING_EN[2871]["ID"] = 2871
 	STRING_EN[2871]["KEY"] = "Level_N5010204"
-	STRING_EN[2871]["VALUE"] = "Stars"
+	STRING_EN[2871]["VALUE"] = "The Bones of Constellation"
 	STRING_EN[2871]["real_idx"] = 2871
 
 STRING_EN["index"][2872] = 2872
@@ -20108,42 +20108,42 @@ STRING_EN["index"][2873] = 2873
 STRING_EN[2873] = {}
 	STRING_EN[2873]["ID"] = 2873
 	STRING_EN[2873]["KEY"] = "Level_N5010206"
-	STRING_EN[2873]["VALUE"] = "Imperial advance fleet base"
+	STRING_EN[2873]["VALUE"] = "Base of Imperial Advance Fleet "
 	STRING_EN[2873]["real_idx"] = 2873
 
 STRING_EN["index"][2874] = 2874
 STRING_EN[2874] = {}
 	STRING_EN[2874]["ID"] = 2874
 	STRING_EN[2874]["KEY"] = "Level_N5010301"
-	STRING_EN[2874]["VALUE"] = "Aocheng Shrine"
+	STRING_EN[2874]["VALUE"] = "The Shelter of Oswiak"
 	STRING_EN[2874]["real_idx"] = 2874
 
 STRING_EN["index"][2875] = 2875
 STRING_EN[2875] = {}
 	STRING_EN[2875]["ID"] = 2875
 	STRING_EN[2875]["KEY"] = "Level_N5010302"
-	STRING_EN[2875]["VALUE"] = "Misty fog in Aocheng"
+	STRING_EN[2875]["VALUE"] = "The Mists of Oswiak"
 	STRING_EN[2875]["real_idx"] = 2875
 
 STRING_EN["index"][2876] = 2876
 STRING_EN[2876] = {}
 	STRING_EN[2876]["ID"] = 2876
 	STRING_EN[2876]["KEY"] = "Level_N5010303"
-	STRING_EN[2876]["VALUE"] = "Aocheng Shizhi"
+	STRING_EN[2876]["VALUE"] = "The Crack of Oswiak"
 	STRING_EN[2876]["real_idx"] = 2876
 
 STRING_EN["index"][2877] = 2877
 STRING_EN[2877] = {}
 	STRING_EN[2877]["ID"] = 2877
 	STRING_EN[2877]["KEY"] = "Level_N5010304"
-	STRING_EN[2877]["VALUE"] = "Star mark portal"
+	STRING_EN[2877]["VALUE"] = "Portal of the Galaxy"
 	STRING_EN[2877]["real_idx"] = 2877
 
 STRING_EN["index"][2878] = 2878
 STRING_EN[2878] = {}
 	STRING_EN[2878]["ID"] = 2878
 	STRING_EN[2878]["KEY"] = "Level_N5010305"
-	STRING_EN[2878]["VALUE"] = "Nevernight"
+	STRING_EN[2878]["VALUE"] = "The Land of Evernight"
 	STRING_EN[2878]["real_idx"] = 2878
 
 STRING_EN["index"][2879] = 2879
@@ -20157,49 +20157,49 @@ STRING_EN["index"][2880] = 2880
 STRING_EN[2880] = {}
 	STRING_EN[2880]["ID"] = 2880
 	STRING_EN[2880]["KEY"] = "Level_N5010401"
-	STRING_EN[2880]["VALUE"] = "Augustus ruins"
+	STRING_EN[2880]["VALUE"] = "Augustus Remains"
 	STRING_EN[2880]["real_idx"] = 2880
 
 STRING_EN["index"][2881] = 2881
 STRING_EN[2881] = {}
 	STRING_EN[2881]["ID"] = 2881
 	STRING_EN[2881]["KEY"] = "Level_N5010402"
-	STRING_EN[2881]["VALUE"] = "Roland Star Cluster"
+	STRING_EN[2881]["VALUE"] = "The Stardust of Roland "
 	STRING_EN[2881]["real_idx"] = 2881
 
 STRING_EN["index"][2882] = 2882
 STRING_EN[2882] = {}
 	STRING_EN[2882]["ID"] = 2882
 	STRING_EN[2882]["KEY"] = "Level_N5010403"
-	STRING_EN[2882]["VALUE"] = "Roland wreck"
+	STRING_EN[2882]["VALUE"] = "Roland Remains"
 	STRING_EN[2882]["real_idx"] = 2882
 
 STRING_EN["index"][2883] = 2883
 STRING_EN[2883] = {}
 	STRING_EN[2883]["ID"] = 2883
 	STRING_EN[2883]["KEY"] = "Level_N5010404"
-	STRING_EN[2883]["VALUE"] = "Roland legacy"
+	STRING_EN[2883]["VALUE"] = "Remnant of  Roland"
 	STRING_EN[2883]["real_idx"] = 2883
 
 STRING_EN["index"][2884] = 2884
 STRING_EN[2884] = {}
 	STRING_EN[2884]["ID"] = 2884
 	STRING_EN[2884]["KEY"] = "Level_N5010405"
-	STRING_EN[2884]["VALUE"] = "Roland Relay Station"
+	STRING_EN[2884]["VALUE"] = "The Relay Station of Roland"
 	STRING_EN[2884]["real_idx"] = 2884
 
 STRING_EN["index"][2885] = 2885
 STRING_EN[2885] = {}
 	STRING_EN[2885]["ID"] = 2885
 	STRING_EN[2885]["KEY"] = "Level_N5010406"
-	STRING_EN[2885]["VALUE"] = "Roland Laboratory"
+	STRING_EN[2885]["VALUE"] = "Roland Lab"
 	STRING_EN[2885]["real_idx"] = 2885
 
 STRING_EN["index"][2886] = 2886
 STRING_EN[2886] = {}
 	STRING_EN[2886]["ID"] = 2886
 	STRING_EN[2886]["KEY"] = "Level_N5010407"
-	STRING_EN[2886]["VALUE"] = "Empire Jump Station"
+	STRING_EN[2886]["VALUE"] = "Imperial Transition Station"
 	STRING_EN[2886]["real_idx"] = 2886
 
 STRING_EN["index"][2887] = 2887
@@ -20213,252 +20213,252 @@ STRING_EN["index"][2888] = 2888
 STRING_EN[2888] = {}
 	STRING_EN[2888]["ID"] = 2888
 	STRING_EN[2888]["KEY"] = "Level_N5010501"
-	STRING_EN[2888]["VALUE"] = "Taya satellite"
+	STRING_EN[2888]["VALUE"] = "The Satellite of Tayar"
 	STRING_EN[2888]["real_idx"] = 2888
 
 STRING_EN["index"][2889] = 2889
 STRING_EN[2889] = {}
 	STRING_EN[2889]["ID"] = 2889
 	STRING_EN[2889]["KEY"] = "Level_N5010502"
-	STRING_EN[2889]["VALUE"] = "Taya Nebula"
+	STRING_EN[2889]["VALUE"] = "The Nebula of Tayar"
 	STRING_EN[2889]["real_idx"] = 2889
 
 STRING_EN["index"][2890] = 2890
 STRING_EN[2890] = {}
 	STRING_EN[2890]["ID"] = 2890
 	STRING_EN[2890]["KEY"] = "Level_N5010503"
-	STRING_EN[2890]["VALUE"] = "Taya Factory"
+	STRING_EN[2890]["VALUE"] = "The Factory of Tayar"
 	STRING_EN[2890]["real_idx"] = 2890
 
 STRING_EN["index"][2891] = 2891
 STRING_EN[2891] = {}
 	STRING_EN[2891]["ID"] = 2891
 	STRING_EN[2891]["KEY"] = "Level_N5010504"
-	STRING_EN[2891]["VALUE"] = "Taya Fortress"
+	STRING_EN[2891]["VALUE"] = "The Fortress of Tayar"
 	STRING_EN[2891]["real_idx"] = 2891
 
 STRING_EN["index"][2892] = 2892
 STRING_EN[2892] = {}
 	STRING_EN[2892]["ID"] = 2892
 	STRING_EN[2892]["KEY"] = "Level_N5010505"
-	STRING_EN[2892]["VALUE"] = "Taya Imperial Fleet Stronghold"
+	STRING_EN[2892]["VALUE"] = "The Stronghold of Tayar's Fleet "
 	STRING_EN[2892]["real_idx"] = 2892
 
 STRING_EN["index"][2893] = 2893
 STRING_EN[2893] = {}
 	STRING_EN[2893]["ID"] = 2893
 	STRING_EN[2893]["KEY"] = "Level_N5010506"
-	STRING_EN[2893]["VALUE"] = "Wrecked laboratory"
+	STRING_EN[2893]["VALUE"] = "Wrecked Lab"
 	STRING_EN[2893]["real_idx"] = 2893
 
 STRING_EN["index"][2894] = 2894
 STRING_EN[2894] = {}
 	STRING_EN[2894]["ID"] = 2894
 	STRING_EN[2894]["KEY"] = "Level_N5010507"
-	STRING_EN[2894]["VALUE"] = "Planetary storm"
+	STRING_EN[2894]["VALUE"] = "Storm of the Planet"
 	STRING_EN[2894]["real_idx"] = 2894
 
 STRING_EN["index"][2895] = 2895
 STRING_EN[2895] = {}
 	STRING_EN[2895]["ID"] = 2895
 	STRING_EN[2895]["KEY"] = "Level_N5010508"
-	STRING_EN[2895]["VALUE"] = "Wall of the mountains"
+	STRING_EN[2895]["VALUE"] = "The Wall of Mount Taurus"
 	STRING_EN[2895]["real_idx"] = 2895
 
 STRING_EN["index"][2896] = 2896
 STRING_EN[2896] = {}
 	STRING_EN[2896]["ID"] = 2896
 	STRING_EN[2896]["KEY"] = "Level_N5010509"
-	STRING_EN[2896]["VALUE"] = "Imperial Bath Fortress"
+	STRING_EN[2896]["VALUE"] = "The Fortress of Imperial Bahn "
 	STRING_EN[2896]["real_idx"] = 2896
 
 STRING_EN["index"][2897] = 2897
 STRING_EN[2897] = {}
 	STRING_EN[2897]["ID"] = 2897
 	STRING_EN[2897]["KEY"] = "Level_N5010601"
-	STRING_EN[2897]["VALUE"] = "Star port wreck"
+	STRING_EN[2897]["VALUE"] = "Starport Remains"
 	STRING_EN[2897]["real_idx"] = 2897
 
 STRING_EN["index"][2898] = 2898
 STRING_EN[2898] = {}
 	STRING_EN[2898]["ID"] = 2898
 	STRING_EN[2898]["KEY"] = "Level_N5010602"
-	STRING_EN[2898]["VALUE"] = "Gate of Halsh"
+	STRING_EN[2898]["VALUE"] = "The Gate of Haers"
 	STRING_EN[2898]["real_idx"] = 2898
 
 STRING_EN["index"][2899] = 2899
 STRING_EN[2899] = {}
 	STRING_EN[2899]["ID"] = 2899
 	STRING_EN[2899]["KEY"] = "Level_N5010603"
-	STRING_EN[2899]["VALUE"] = "Black hole storm"
+	STRING_EN[2899]["VALUE"] = "Storm of the Black Hole "
 	STRING_EN[2899]["real_idx"] = 2899
 
 STRING_EN["index"][2900] = 2900
 STRING_EN[2900] = {}
 	STRING_EN[2900]["ID"] = 2900
 	STRING_EN[2900]["KEY"] = "Level_N5010604"
-	STRING_EN[2900]["VALUE"] = "Alterac Holy Land"
+	STRING_EN[2900]["VALUE"] = "The Holy Land of Alterac "
 	STRING_EN[2900]["real_idx"] = 2900
 
 STRING_EN["index"][2901] = 2901
 STRING_EN[2901] = {}
 	STRING_EN[2901]["ID"] = 2901
 	STRING_EN[2901]["KEY"] = "Level_N5010605"
-	STRING_EN[2901]["VALUE"] = "Place of hope"
+	STRING_EN[2901]["VALUE"] = "The Land of Hope"
 	STRING_EN[2901]["real_idx"] = 2901
 
 STRING_EN["index"][2902] = 2902
 STRING_EN[2902] = {}
 	STRING_EN[2902]["ID"] = 2902
 	STRING_EN[2902]["KEY"] = "Level_N5010606"
-	STRING_EN[2902]["VALUE"] = "Alterac civilization"
+	STRING_EN[2902]["VALUE"] = "Alterac Civilization"
 	STRING_EN[2902]["real_idx"] = 2902
 
 STRING_EN["index"][2903] = 2903
 STRING_EN[2903] = {}
 	STRING_EN[2903]["ID"] = 2903
 	STRING_EN[2903]["KEY"] = "Level_N5010607"
-	STRING_EN[2903]["VALUE"] = "Alterac Nebula"
+	STRING_EN[2903]["VALUE"] = "The Nebula of Alterac"
 	STRING_EN[2903]["real_idx"] = 2903
 
 STRING_EN["index"][2904] = 2904
 STRING_EN[2904] = {}
 	STRING_EN[2904]["ID"] = 2904
 	STRING_EN[2904]["KEY"] = "Level_N5010608"
-	STRING_EN[2904]["VALUE"] = "Imperial fleet base"
+	STRING_EN[2904]["VALUE"] = "Imperial Fleet Base"
 	STRING_EN[2904]["real_idx"] = 2904
 
 STRING_EN["index"][2905] = 2905
 STRING_EN[2905] = {}
 	STRING_EN[2905]["ID"] = 2905
 	STRING_EN[2905]["KEY"] = "Level_N5010609"
-	STRING_EN[2905]["VALUE"] = "The main city of Alterac"
+	STRING_EN[2905]["VALUE"] = "The Main City of Alterac "
 	STRING_EN[2905]["real_idx"] = 2905
 
 STRING_EN["index"][2906] = 2906
 STRING_EN[2906] = {}
 	STRING_EN[2906]["ID"] = 2906
 	STRING_EN[2906]["KEY"] = "Level_N5010701"
-	STRING_EN[2906]["VALUE"] = "Everlasting gathering place"
+	STRING_EN[2906]["VALUE"] = "Gathering place of Evernight"
 	STRING_EN[2906]["real_idx"] = 2906
 
 STRING_EN["index"][2907] = 2907
 STRING_EN[2907] = {}
 	STRING_EN[2907]["ID"] = 2907
 	STRING_EN[2907]["KEY"] = "Level_N5010702"
-	STRING_EN[2907]["VALUE"] = "Yongyue Xinghe"
+	STRING_EN[2907]["VALUE"] = "Galaxy Evernight"
 	STRING_EN[2907]["real_idx"] = 2907
 
 STRING_EN["index"][2908] = 2908
 STRING_EN[2908] = {}
 	STRING_EN[2908]["ID"] = 2908
 	STRING_EN[2908]["KEY"] = "Level_N5010703"
-	STRING_EN[2908]["VALUE"] = "Thorns"
+	STRING_EN[2908]["VALUE"] = "Stars of Thorns"
 	STRING_EN[2908]["real_idx"] = 2908
 
 STRING_EN["index"][2909] = 2909
 STRING_EN[2909] = {}
 	STRING_EN[2909]["ID"] = 2909
 	STRING_EN[2909]["KEY"] = "Level_N5010704"
-	STRING_EN[2909]["VALUE"] = "Zoram trace"
+	STRING_EN[2909]["VALUE"] = "The Crack of Zoram"
 	STRING_EN[2909]["real_idx"] = 2909
 
 STRING_EN["index"][2910] = 2910
 STRING_EN[2910] = {}
 	STRING_EN[2910]["ID"] = 2910
 	STRING_EN[2910]["KEY"] = "Level_N5010705"
-	STRING_EN[2910]["VALUE"] = "Zoram factory"
+	STRING_EN[2910]["VALUE"] = "The Factory of Zoram"
 	STRING_EN[2910]["real_idx"] = 2910
 
 STRING_EN["index"][2911] = 2911
 STRING_EN[2911] = {}
 	STRING_EN[2911]["ID"] = 2911
 	STRING_EN[2911]["KEY"] = "Level_N5010706"
-	STRING_EN[2911]["VALUE"] = "Imperial elite core fleet"
+	STRING_EN[2911]["VALUE"] = "Imperial Elite Core Fleet"
 	STRING_EN[2911]["real_idx"] = 2911
 
 STRING_EN["index"][2912] = 2912
 STRING_EN[2912] = {}
 	STRING_EN[2912]["ID"] = 2912
 	STRING_EN[2912]["KEY"] = "Level_N5010707"
-	STRING_EN[2912]["VALUE"] = "Wall of Zolam"
+	STRING_EN[2912]["VALUE"] = "The Wall of Zoram"
 	STRING_EN[2912]["real_idx"] = 2912
 
 STRING_EN["index"][2913] = 2913
 STRING_EN[2913] = {}
 	STRING_EN[2913]["ID"] = 2913
 	STRING_EN[2913]["KEY"] = "Level_N5010708"
-	STRING_EN[2913]["VALUE"] = "Zolam Empire Base"
+	STRING_EN[2913]["VALUE"] = "Zoram's Base"
 	STRING_EN[2913]["real_idx"] = 2913
 
 STRING_EN["index"][2914] = 2914
 STRING_EN[2914] = {}
 	STRING_EN[2914]["ID"] = 2914
 	STRING_EN[2914]["KEY"] = "Level_N5010709"
-	STRING_EN[2914]["VALUE"] = "Captain of the Imperial Core Fleet"
+	STRING_EN[2914]["VALUE"] = "The Captain Fleet of Imperial Core Fleet"
 	STRING_EN[2914]["real_idx"] = 2914
 
 STRING_EN["index"][2915] = 2915
 STRING_EN[2915] = {}
 	STRING_EN[2915]["ID"] = 2915
 	STRING_EN[2915]["KEY"] = "Level_N5010801"
-	STRING_EN[2915]["VALUE"] = "St. Kejimu"
+	STRING_EN[2915]["VALUE"] = "Starbase of Sergej"
 	STRING_EN[2915]["real_idx"] = 2915
 
 STRING_EN["index"][2916] = 2916
 STRING_EN[2916] = {}
 	STRING_EN[2916]["ID"] = 2916
 	STRING_EN[2916]["KEY"] = "Level_N5010802"
-	STRING_EN[2916]["VALUE"] = "St. Kyrgyz Post"
+	STRING_EN[2916]["VALUE"] = "The Sentry of Sergej"
 	STRING_EN[2916]["real_idx"] = 2916
 
 STRING_EN["index"][2917] = 2917
 STRING_EN[2917] = {}
 	STRING_EN[2917]["ID"] = 2917
 	STRING_EN[2917]["KEY"] = "Level_N5010803"
-	STRING_EN[2917]["VALUE"] = "Fog star"
+	STRING_EN[2917]["VALUE"] = "Planet in the Mists"
 	STRING_EN[2917]["real_idx"] = 2917
 
 STRING_EN["index"][2918] = 2918
 STRING_EN[2918] = {}
 	STRING_EN[2918]["ID"] = 2918
 	STRING_EN[2918]["KEY"] = "Level_N5010804"
-	STRING_EN[2918]["VALUE"] = "Planet in the dark"
+	STRING_EN[2918]["VALUE"] = "Planet in the Dark"
 	STRING_EN[2918]["real_idx"] = 2918
 
 STRING_EN["index"][2919] = 2919
 STRING_EN[2919] = {}
 	STRING_EN[2919]["ID"] = 2919
 	STRING_EN[2919]["KEY"] = "Level_N5010805"
-	STRING_EN[2919]["VALUE"] = "St. Keji Falling Star"
+	STRING_EN[2919]["VALUE"] = "The Fallen Star of Sergej"
 	STRING_EN[2919]["real_idx"] = 2919
 
 STRING_EN["index"][2920] = 2920
 STRING_EN[2920] = {}
 	STRING_EN[2920]["ID"] = 2920
 	STRING_EN[2920]["KEY"] = "Level_N5010806"
-	STRING_EN[2920]["VALUE"] = "St. Keji Fortress"
+	STRING_EN[2920]["VALUE"] = "The Fortress of Sergej"
 	STRING_EN[2920]["real_idx"] = 2920
 
 STRING_EN["index"][2921] = 2921
 STRING_EN[2921] = {}
 	STRING_EN[2921]["ID"] = 2921
 	STRING_EN[2921]["KEY"] = "Level_N5010807"
-	STRING_EN[2921]["VALUE"] = "St. Keji's Wreck"
+	STRING_EN[2921]["VALUE"] = "Sergej Remains"
 	STRING_EN[2921]["real_idx"] = 2921
 
 STRING_EN["index"][2922] = 2922
 STRING_EN[2922] = {}
 	STRING_EN[2922]["ID"] = 2922
 	STRING_EN[2922]["KEY"] = "Level_N5010808"
-	STRING_EN[2922]["VALUE"] = "St. Keji Fortress"
+	STRING_EN[2922]["VALUE"] = "The Stronghold of Sergej"
 	STRING_EN[2922]["real_idx"] = 2922
 
 STRING_EN["index"][2923] = 2923
 STRING_EN[2923] = {}
 	STRING_EN[2923]["ID"] = 2923
 	STRING_EN[2923]["KEY"] = "Level_N5010809"
-	STRING_EN[2923]["VALUE"] = "Siwaka Commander"
+	STRING_EN[2923]["VALUE"] = "Commander Sivaka"
 	STRING_EN[2923]["real_idx"] = 2923
 
 STRING_EN["index"][2924] = 2924
