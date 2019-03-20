@@ -25,5 +25,13 @@
         <EnableHTML5Advanced Value="False" />
       </Value>
     </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="CityScene/sfx/city_8.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="CityScene/sfx/city_8.csd" />
+      </Value>
+    </Item>
   </Properties>
 </UserData>

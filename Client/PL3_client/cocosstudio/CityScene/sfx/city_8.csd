@@ -1457,7 +1457,7 @@
       <ObjectData Name="Node" Tag="26" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="Sprite_19" ActionTag="-1240491054" Tag="48" IconVisible="False" LeftMargin="-244.0833" RightMargin="-255.9167" TopMargin="-345.0370" BottomMargin="-234.9630" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Sprite_19" ActionTag="-1240491054" VisibleForFrame="False" Tag="48" IconVisible="False" LeftMargin="-244.0833" RightMargin="-255.9167" TopMargin="-345.0370" BottomMargin="-234.9630" ctype="SpriteObjectData">
             <Size X="500.0000" Y="580.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="5.9167" Y="55.0370" />
@@ -1465,7 +1465,7 @@
             <CColor A="255" R="0" G="155" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="sfx/weapon/G_10100/10013.png" Plist="" />
+            <FileData Type="Normal" Path="sfx/weapon/G_10100/10001.png" Plist="" />
             <BlendFunc Src="770" Dst="1" />
           </AbstractNodeData>
           <AbstractNodeData Name="Sprite_49" ActionTag="-1354334544" Tag="2055" IconVisible="False" LeftMargin="-61.6724" RightMargin="-70.3276" TopMargin="-176.1624" BottomMargin="21.1624" ctype="SpriteObjectData">
@@ -1476,10 +1476,10 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="PlanetScene/sfx/jidifanghuzhao/2/20024.png" Plist="" />
+            <FileData Type="Normal" Path="PlanetScene/sfx/jidifanghuzhao/2/20001.png" Plist="" />
             <BlendFunc Src="770" Dst="1" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Node_3" ActionTag="922538784" Tag="44" IconVisible="True" LeftMargin="-0.0002" RightMargin="0.0002" TopMargin="-3.6560" BottomMargin="3.6560" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="Node_3" ActionTag="922538784" Tag="44" IconVisible="True" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
               <AbstractNodeData Name="di723_6_0" ActionTag="-1817830444" Tag="36" IconVisible="False" LeftMargin="-68.6650" RightMargin="-61.3350" TopMargin="-123.8718" BottomMargin="-121.1282" ctype="SpriteObjectData">
@@ -1495,7 +1495,7 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint />
-            <Position X="-0.0002" Y="3.6560" />
+            <Position />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -1523,7 +1523,7 @@
             <FileData Type="Normal" Path="CityScene/sfx/suo/10001.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_20" ActionTag="1030519180" Tag="49" RotationSkewX="3.2242" RotationSkewY="3.2226" IconVisible="False" LeftMargin="-24.9415" RightMargin="-103.0585" TopMargin="-175.1873" BottomMargin="-80.8127" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Sprite_20" ActionTag="1030519180" VisibleForFrame="False" Tag="49" RotationSkewX="3.2242" RotationSkewY="3.2226" IconVisible="False" LeftMargin="-24.9415" RightMargin="-103.0585" TopMargin="-175.1873" BottomMargin="-80.8127" ctype="SpriteObjectData">
             <Size X="128.0000" Y="256.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="39.0585" Y="47.1873" />
@@ -1531,7 +1531,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="sfx/weapon/G_10900/10003.png" Plist="" />
+            <FileData Type="Normal" Path="sfx/weapon/G_10900/10001.png" Plist="" />
             <BlendFunc Src="770" Dst="1" />
           </AbstractNodeData>
           <AbstractNodeData Name="Sprite_20_0" ActionTag="-2143588361" Tag="50" RotationSkewX="-5.3291" RotationSkewY="-5.3328" IconVisible="False" LeftMargin="-111.7515" RightMargin="-16.2485" TopMargin="-158.2118" BottomMargin="-97.7882" ctype="SpriteObjectData">
@@ -1542,10 +1542,10 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="sfx/weapon/G_10900/10003.png" Plist="" />
+            <FileData Type="Normal" Path="sfx/weapon/G_10900/10001.png" Plist="" />
             <BlendFunc Src="770" Dst="1" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_20_1" ActionTag="630791801" Tag="51" RotationSkewX="-0.2737" RotationSkewY="-0.2775" IconVisible="False" LeftMargin="-86.9254" RightMargin="-41.0746" TopMargin="-139.4888" BottomMargin="-116.5112" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Sprite_20_1" ActionTag="630791801" VisibleForFrame="False" Tag="51" RotationSkewX="-0.2737" RotationSkewY="-0.2775" IconVisible="False" LeftMargin="-86.9254" RightMargin="-41.0746" TopMargin="-139.4888" BottomMargin="-116.5112" ctype="SpriteObjectData">
             <Size X="128.0000" Y="256.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-22.9254" Y="11.4888" />
@@ -1553,10 +1553,10 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="sfx/weapon/G_10900/10003.png" Plist="" />
+            <FileData Type="Normal" Path="sfx/weapon/G_10900/10001.png" Plist="" />
             <BlendFunc Src="770" Dst="1" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_20_2" ActionTag="1510204500" Tag="52" RotationSkewX="6.5638" RotationSkewY="6.5608" IconVisible="False" LeftMargin="-14.1292" RightMargin="-113.8708" TopMargin="-151.2929" BottomMargin="-104.7071" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Sprite_20_2" ActionTag="1510204500" VisibleForFrame="False" Tag="52" RotationSkewX="6.5638" RotationSkewY="6.5608" IconVisible="False" LeftMargin="-14.1292" RightMargin="-113.8708" TopMargin="-151.2929" BottomMargin="-104.7071" ctype="SpriteObjectData">
             <Size X="128.0000" Y="256.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="49.8708" Y="23.2929" />
@@ -1564,7 +1564,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="sfx/weapon/G_10900/10003.png" Plist="" />
+            <FileData Type="Normal" Path="sfx/weapon/G_10900/10001.png" Plist="" />
             <BlendFunc Src="770" Dst="1" />
           </AbstractNodeData>
         </Children>
