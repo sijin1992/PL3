@@ -166,25 +166,26 @@ function CityUILayer:onEnterTransitionFinish()
 	end
 	self:openUI()
 
-	rn:getChildByName("planet"):addClickEventListener(function ()
-		if cc.exports.g_activate_building then
-			return
-		end
-		if not self:ClickPlanet() then
-			return
-		end
-        local enteranim = require("app.ExResInterface"):getInstance():FastLoad("PlanetScene/sfx/enteranim/enteranim.csb")
-		animManager:runAnimOnceByCSB(enteranim,"PlanetScene/sfx/enteranim/enteranim.csb" ,"1", function ( )
-            enteranim:removeFromParent()
-            self:getApp():addView2Top("CityScene/TransferScene",{from = "planet" ,state = "start"})
+--	rn:getChildByName("planet"):addClickEventListener(function ()
+--		if cc.exports.g_activate_building then
+--			return
+--		end
+--		if not self:ClickPlanet() then
+--			return
+--		end
+--        local enteranim = require("app.ExResInterface"):getInstance():FastLoad("PlanetScene/sfx/enteranim/enteranim.csb")
+--		animManager:runAnimOnceByCSB(enteranim,"PlanetScene/sfx/enteranim/enteranim.csb" ,"1", function ( )
+--            enteranim:removeFromParent()
+--            self:getApp():addView2Top("CityScene/TransferScene",{from = "planet" ,state = "start"})
             --app:pushToRootView("PlanetScene/PlanetScene", {come_in_type = 1,sfx = true})
-        end)
-        enteranim:setName("enteranim")
-        local center = cc.exports.VisibleRect:center()
-        enteranim:setPosition(cc.p(center.x + (rn:getContentSize().width/2 - center.x), center.y + (rn:getContentSize().height/2 - center.y)))
-		rn:addChild(enteranim)
+--            self:getApp():pushToRootView("CityScene/TransferScene",{from = "planet" ,state = "start"})
+--        end)
+--        enteranim:setName("enteranim")
+--        local center = cc.exports.VisibleRect:center()
+--        enteranim:setPosition(cc.p(center.x + (rn:getContentSize().width/2 - center.x), center.y + (rn:getContentSize().height/2 - center.y)))
+--		rn:addChild(enteranim)
 
-	end)
+--	end)
 	rn:getChildByName("planet"):getChildByName("jihuo"):getChildByName("btn"):addClickEventListener(function ()
 		if cc.exports.g_activate_building then
 			return
@@ -2320,7 +2321,6 @@ function CityUILayer:ClickPlanet()
 							end
 						end
 					end
-
 					return true
 				end
 			end
@@ -2614,16 +2614,17 @@ function CityUILayer:setState(  )
 					if name == "planet" then
 						if self:ClickPlanet() then
 							-- self:getApp():pushToRootView("PlanetScene/PlanetScene", {come_in_type = 1})
-                                    local enteranim = require("app.ExResInterface"):getInstance():FastLoad("PlanetScene/sfx/enteranim/enteranim.csb")
-		                            animManager:runAnimOnceByCSB(enteranim,"PlanetScene/sfx/enteranim/enteranim.csb" ,"1", function ( )
-                                        enteranim:removeFromParent()
-                                        self:getApp():addView2Top("CityScene/TransferScene",{from = "planet" ,state = "start"})
+--                                    local enteranim = require("app.ExResInterface"):getInstance():FastLoad("PlanetScene/sfx/enteranim/enteranim.csb")
+--		                            animManager:runAnimOnceByCSB(enteranim,"PlanetScene/sfx/enteranim/enteranim.csb" ,"1", function ( )
+--                                        enteranim:removeFromParent()
+--                                        self:getApp():addView2Top("CityScene/TransferScene",{from = "planet" ,state = "start"})
                                         --app:pushToRootView("PlanetScene/PlanetScene", {come_in_type = 1,sfx = true})
-                                    end)
-                                    enteranim:setName("enteranim")
-                                    local center = cc.exports.VisibleRect:center()
-                                    enteranim:setPosition(cc.p(center.x + (rn:getContentSize().width/2 - center.x), center.y + (rn:getContentSize().height/2 - center.y)))
-		                            rn:addChild(enteranim)
+                                        self:getApp():pushToRootView("CityScene/TransferScene",{from = "planet" ,state = "start"})
+--                                    end)
+--                                    enteranim:setName("enteranim")
+--                                    local center = cc.exports.VisibleRect:center()
+--                                    enteranim:setPosition(cc.p(center.x + (rn:getContentSize().width/2 - center.x), center.y + (rn:getContentSize().height/2 - center.y)))
+--		                            rn:addChild(enteranim)
 						end
 					elseif name == "league" then
 						self:getApp():pushView("StarLeagueScene/StarLeagueScene")
