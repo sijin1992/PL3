@@ -37,7 +37,7 @@ function GuideAnimLayer:onEnterTransitionFinish()
 
 			local strData = Tools.encode("PveReq", {
 				checkpoint_id = id,
-				type = 0,
+				type = 3,
 			})
 			-- printInfo("#### LUA runAnimOnceByCSB strData: " .. tostring(strData))
 			-- printInfo("#### LUA Tools.enum_id: " .. tostring(Tools.enum_id("CMD_DEFINE","CMD_PVE_REQ")))

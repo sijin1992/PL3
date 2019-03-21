@@ -2262,8 +2262,23 @@ function NewFormLayer:onEnterTransitionFinish()
 	self:refreshShipList()
 	self:setAllkindNumString()
 	self:getFreshRES()
-
+    local function Setguidship()
+        local pos1 = cc.p(self.svd.elementList_[1].obj:getPosition())
+        local pos2 = nil
+        local guidk = nil
+        for k,v in pairs(self.svd.elementList_) do
+            local info = g_player:getShipByGUID(v.obj:getTag())
+            if tonumber(info.id) == 111001 then
+                pos2 = cc.p(v.obj:getPosition())
+                guidk = k
+                break
+            end
+        end
+        self.svd.elementList_[guidk].obj:setPosition(pos1)
+        self.svd.elementList_[1].obj:setPosition(pos2)
+    end
 	if guideManager:getShowGuide() and guideManager:getSelfGuideID()  == guideManager:getTeshuGuideId(3)-2 then
+        Setguidship()
 		guideManager:createGuideLayer(guideManager:getTeshuGuideId(3)-1)
 	end
 	self.specialGuide_ = cc.EventListenerCustom:create("special_guide", function (event)
