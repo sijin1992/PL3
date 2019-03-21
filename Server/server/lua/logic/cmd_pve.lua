@@ -127,6 +127,15 @@ function fight_do_logic(req_buff, user_name, user_info_buff, ship_list_buff, ite
 
 		local attack_list = shipList:getLineup()
 
+		if req.type == 3 then
+			local planet_user = PlanetCache.getUser(user_info.user_name)
+			if planet_user ~= nil then
+				if Tools.isEmpty(planet_user.army_list) == false then
+					attack_list = planet_user.army_list[1].ship_list
+				end
+			end
+		end
+
 		local attackCount = #attack_list
 		if attackCount < 1 then
 			return 1
@@ -145,8 +154,7 @@ function fight_do_logic(req_buff, user_name, user_info_buff, ship_list_buff, ite
 
 		local strength
 
-		if req.type == 0 then
-
+		if req.type == 0 or req.type == 3 then
 			local level = CONF.PARAM.get("ship_pve_durable_level").PARAM
 			if level > user_info.level then
 				for i,v in ipairs(attack_list) do
@@ -368,8 +376,7 @@ function fight_do_logic(req_buff, user_name, user_info_buff, ship_list_buff, ite
 	
 	
 	local ret, oldStar
-	if req.type == 0 or req.type == 2 then
-
+	if req.type == 0 or req.type == 2 or req.type == 3 then
 		ret = pveStart(req)
 	elseif req.type == 1 then
 		ret, oldStar = pveEnd(req)
