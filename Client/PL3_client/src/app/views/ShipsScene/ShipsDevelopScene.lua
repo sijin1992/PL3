@@ -120,6 +120,12 @@ function ShipsDevelopScene:getShipList()
 
 	self.allShipList = {}
 	local shipList = player:getShipList()
+    if guideManager.guide_id  == 34 or guideManager.guide_id == 98 then
+        if #shipList > #self.NoBugShipList then
+            print("bugshiplist!!!")
+            shipList = self.NoBugShipList
+        end
+    end
 	for k,v in pairs(CONF.AIRSHIP.index) do
 		-- print("...........",k)
 		local cship = CONF.AIRSHIP.get(v)
@@ -432,6 +438,7 @@ function ShipsDevelopScene:onEnterTransitionFinish()
 	self.mode_ = 5
 
 	local rn = self:getResourceNode()
+    self.NoBugShipList = player:getShipList()
 	self:getShipList()
 	self.svd_ = require("util.ScrollViewDelegate"):create(rn:getChildByName("node_list"):getChildByName("list") ,cc.size(5,3), cc.size(140 ,105)) 
 	self.svd_:getScrollView():setScrollBarEnabled(false)
