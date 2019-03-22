@@ -459,13 +459,9 @@ function Player:userSync( user_sync )
 
 	if not Tools.isEmpty(user_sync.ship_list)  then
 		printInfo("ship_list")
-        if #user_sync.ship_list >= #self.data_.ship_list.ship_list then
-		    for i,v in ipairs(user_sync.ship_list) do
-			    syncInfo(self.data_.ship_list.ship_list,v)
-		    end
-        else
-            self.data_.ship_list.ship_list = user_sync.ship_list
-        end
+		for i,v in ipairs(user_sync.ship_list) do
+			syncInfo(self.data_.ship_list.ship_list,v)
+		end
 	end
 
 	if not Tools.isEmpty(user_sync.weapon_list) then
