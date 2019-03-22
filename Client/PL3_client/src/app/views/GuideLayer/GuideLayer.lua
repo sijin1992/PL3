@@ -522,7 +522,8 @@ function GuideLayer:onEnterTransitionFinish()
 
         local function func()
             local conf = CONF.GUIDANCE.get(LastId)
-		    guideManager:addGuideStep(conf.SAVE)
+--		    guideManager:addGuideStep(conf.SAVE)
+            guideManager:addGuideStep(self.data_.id)
             guideManager:createGuideLayer(LastId)
             app:pushToRootView("CityScene/CityScene", {pos = -1350})
 	    end
