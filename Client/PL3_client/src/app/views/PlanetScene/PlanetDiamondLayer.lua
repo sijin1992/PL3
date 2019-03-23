@@ -1850,8 +1850,10 @@ function PlanetDiamondLayer:createNodeByInfoo( info, x, y )
 
 		local type_ins = {"base" ,"res" ,"ruins" ,"boss" ,"city"}
 
-		local node_1 = require("app.ExResInterface"):getInstance():FastLoad("PlanetScene/ResourceNode_1.csb")
-		local node_2 = require("app.ExResInterface"):getInstance():FastLoad("PlanetScene/ResourceNode_2.csb")
+--		local node_1 = require("app.ExResInterface"):getInstance():FastLoad("PlanetScene/ResourceNode_1.csb")
+--		local node_2 = require("app.ExResInterface"):getInstance():FastLoad("PlanetScene/ResourceNode_2.csb")
+        local node_1 = cc.CSLoader:createNode("PlanetScene/ResourceNode_1.csb")
+        local node_2 = cc.CSLoader:createNode("PlanetScene/ResourceNode_2.csb")
 
 		node_1:setName("node1_"..x.."_"..y)	
 		node_2:setName("node2_"..x.."_"..y)
