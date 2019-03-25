@@ -36,8 +36,8 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ActivityScene/ui/first_text1.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="first_text2_5" ActionTag="-608886523" Tag="8" IconVisible="False" LeftMargin="585.0726" RightMargin="-730.0726" TopMargin="-454.0835" BottomMargin="439.0835" ctype="SpriteObjectData">
-            <Size X="145.0000" Y="15.0000" />
+          <AbstractNodeData Name="first_text2_5" ActionTag="-608886523" Tag="8" IconVisible="False" LeftMargin="485.5726" RightMargin="-829.5726" TopMargin="-463.5835" BottomMargin="429.5835" ctype="SpriteObjectData">
+            <Size X="344.0000" Y="34.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="657.5726" Y="446.5835" />
             <Scale ScaleX="1.2000" ScaleY="1.2000" />
@@ -68,17 +68,17 @@
             <FileData Type="Normal" Path="ActivityScene/ui/first_text4.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="money" ActionTag="-518499054" Tag="12" IconVisible="False" LeftMargin="708.2499" RightMargin="-735.2499" TopMargin="-453.2597" BottomMargin="432.2597" FontSize="14" LabelText="666" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="27.0000" Y="21.0000" />
+          <AbstractNodeData Name="money" ActionTag="-518499054" Tag="12" IconVisible="False" LeftMargin="744.4786" RightMargin="-818.4786" TopMargin="-468.6463" BottomMargin="403.6463" FontSize="42" LabelText="666" OutlineEnabled="True" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="TextObjectData">
+            <Size X="74.0000" Y="65.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="721.7499" Y="442.7597" />
+            <Position X="781.4786" Y="436.1463" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="70" B="70" />
+            <CColor A="255" R="255" G="238" B="48" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
-            <OutlineColor A="255" R="255" G="0" B="0" />
-            <ShadowColor A="255" R="110" G="110" B="110" />
+            <OutlineColor A="255" R="158" G="92" B="15" />
+            <ShadowColor A="255" R="255" G="255" B="0" />
           </AbstractNodeData>
           <AbstractNodeData Name="go_ToRecharge" ActionTag="-1666097203" Tag="29" IconVisible="False" LeftMargin="673.4961" RightMargin="-839.4961" TopMargin="-313.5300" BottomMargin="254.5300" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="136" Scale9Height="37" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="166.0000" Y="59.0000" />
