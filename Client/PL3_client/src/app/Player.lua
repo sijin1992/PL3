@@ -1506,6 +1506,10 @@ function Player:getShipList()
 	return self.data_.ship_list.ship_list
 end
 
+function Player:clearShipList()
+	cleartable(self.data_.ship_list.ship_list)
+end
+
 function Player:setShipList(list)
 	self.data_.ship_list.ship_list = list
 end
