@@ -374,23 +374,23 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="CityScene/sfx/lingqu/chengjiu.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="mailtop" ActionTag="-934255054" Tag="1602" IconVisible="False" LeftMargin="264.2178" RightMargin="-339.2178" TopMargin="-772.8025" BottomMargin="697.8025" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="45" Scale9Height="53" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-            <Size X="75.0000" Y="75.0000" />
+          <AbstractNodeData Name="mailtop" ActionTag="-934255054" Tag="1602" IconVisible="False" LeftMargin="329.7167" RightMargin="-399.7167" TopMargin="-770.3014" BottomMargin="700.3014" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="45" Scale9Height="53" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+            <Size X="70.0000" Y="70.0000" />
             <Children>
-              <AbstractNodeData Name="point" ActionTag="-2059136160" VisibleForFrame="False" Tag="2480" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="48.4634" RightMargin="8.5366" TopMargin="13.3003" BottomMargin="43.6997" ctype="SpriteObjectData">
+              <AbstractNodeData Name="point" ActionTag="-2059136160" VisibleForFrame="False" Tag="2480" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="44.6340" RightMargin="7.3660" TopMargin="8.3003" BottomMargin="43.6997" ctype="SpriteObjectData">
                 <Size X="18.0000" Y="18.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="57.4634" Y="52.6997" />
+                <Position X="53.6340" Y="52.6997" />
                 <Scale ScaleX="0.8500" ScaleY="0.8500" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.7662" Y="0.7027" />
-                <PreSize X="0.2400" Y="0.2400" />
+                <PrePosition X="0.7662" Y="0.7529" />
+                <PreSize X="0.2571" Y="0.2571" />
                 <FileData Type="Normal" Path="Common/ui/spherical_red.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="301.7178" Y="735.3025" />
+            <Position X="364.7167" Y="735.3014" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -402,10 +402,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="buff_pos" ActionTag="1370111087" Tag="678" IconVisible="True" LeftMargin="332.6122" RightMargin="-332.6122" TopMargin="-734.7324" BottomMargin="734.7324" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="buff_pos" ActionTag="1370111087" Tag="678" IconVisible="True" LeftMargin="395.6104" RightMargin="-395.6104" TopMargin="-734.7307" BottomMargin="734.7307" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
-            <Position X="332.6122" Y="734.7324" />
+            <Position X="395.6104" Y="734.7307" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

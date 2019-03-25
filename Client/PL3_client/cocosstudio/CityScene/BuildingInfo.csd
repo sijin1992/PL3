@@ -76,28 +76,28 @@
             <FileData Type="Normal" Path="Common/newUI/zc_bian02.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="info" ActionTag="2113412958" Tag="883" IconVisible="False" LeftMargin="-121.1011" RightMargin="47.1011" TopMargin="47.2764" BottomMargin="-89.2764" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="44" Scale9Height="20" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-            <Size X="74.0000" Y="42.0000" />
+          <AbstractNodeData Name="info" ActionTag="2113412958" Tag="883" IconVisible="False" LeftMargin="-127.1011" RightMargin="41.1011" TopMargin="47.2764" BottomMargin="-89.2764" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="44" Scale9Height="20" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+            <Size X="86.0000" Y="42.0000" />
             <Children>
-              <AbstractNodeData Name="icon" ActionTag="1858366898" Tag="884" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="1.4736" RightMargin="0.5264" TopMargin="4.9958" BottomMargin="5.0042" ctype="SpriteObjectData">
+              <AbstractNodeData Name="icon" ActionTag="1858366898" Tag="884" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="7.5504" RightMargin="6.4496" TopMargin="4.9958" BottomMargin="5.0042" ctype="SpriteObjectData">
                 <Size X="72.0000" Y="32.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="37.4736" Y="21.0042" />
+                <Position X="43.5504" Y="21.0042" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5064" Y="0.5001" />
-                <PreSize X="0.9730" Y="0.7619" />
+                <PreSize X="0.8372" Y="0.7619" />
                 <FileData Type="Normal" Path="CityScene/ui3/xz_xx.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text" ActionTag="371866621" Tag="885" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="20.0000" RightMargin="20.0000" TopMargin="11.8728" BottomMargin="6.1272" FontSize="16" LabelText="Info" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="34.0000" Y="24.0000" />
+              <AbstractNodeData Name="text" ActionTag="371866621" Tag="885" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="1.0000" RightMargin="1.0000" TopMargin="13.3728" BottomMargin="7.6272" FontSize="14" LabelText="Information" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="84.0000" Y="21.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="37.0000" Y="18.1272" />
+                <Position X="43.0000" Y="18.1272" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.4316" />
-                <PreSize X="0.4595" Y="0.5714" />
+                <PreSize X="0.9767" Y="0.5000" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
@@ -126,40 +126,40 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="GuideLayer/sfx/effect_0.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="upgrade" ActionTag="1866890977" Tag="880" IconVisible="False" LeftMargin="45.6078" RightMargin="-119.6078" TopMargin="47.2752" BottomMargin="-89.2752" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="44" Scale9Height="20" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-            <Size X="74.0000" Y="42.0000" />
+          <AbstractNodeData Name="upgrade" ActionTag="1866890977" Tag="880" IconVisible="False" LeftMargin="39.6078" RightMargin="-125.6078" TopMargin="47.2752" BottomMargin="-89.2752" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="44" Scale9Height="20" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+            <Size X="86.0000" Y="42.0000" />
             <Children>
-              <AbstractNodeData Name="icon" ActionTag="999248271" Alpha="203" Tag="881" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="1.6078" RightMargin="2.3922" TopMargin="9.8740" BottomMargin="10.1260" ctype="SpriteObjectData">
+              <AbstractNodeData Name="icon" ActionTag="999248271" Alpha="203" Tag="881" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="7.5442" RightMargin="8.4558" TopMargin="9.8740" BottomMargin="10.1260" ctype="SpriteObjectData">
                 <Size X="70.0000" Y="22.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="36.6078" Y="21.1260" />
+                <Position X="42.5442" Y="21.1260" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.4947" Y="0.5030" />
-                <PreSize X="0.9459" Y="0.5238" />
+                <PreSize X="0.8140" Y="0.5238" />
                 <FileData Type="Normal" Path="CityScene/ui3/xz_sj.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text" ActionTag="-1328641712" Tag="882" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="1.8784" RightMargin="3.1216" TopMargin="11.8728" BottomMargin="6.1272" FontSize="16" LabelText="Upgrade" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="69.0000" Y="24.0000" />
+              <AbstractNodeData Name="text" ActionTag="-1328641712" Tag="882" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="11.7776" RightMargin="13.2224" TopMargin="13.3728" BottomMargin="7.6272" FontSize="14" LabelText="Upgrade" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="61.0000" Y="21.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="36.3784" Y="18.1272" />
+                <Position X="42.2776" Y="18.1272" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.4916" Y="0.4316" />
-                <PreSize X="0.9324" Y="0.5714" />
+                <PreSize X="0.7093" Y="0.5000" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
               </AbstractNodeData>
-              <AbstractNodeData Name="point" ActionTag="1657231129" Tag="668" IconVisible="False" LeftMargin="60.8859" RightMargin="-4.8859" TopMargin="-4.1986" BottomMargin="28.1986" ctype="SpriteObjectData">
+              <AbstractNodeData Name="point" ActionTag="1657231129" Tag="668" IconVisible="False" LeftMargin="60.8859" RightMargin="7.1141" TopMargin="-4.1986" BottomMargin="28.1986" ctype="SpriteObjectData">
                 <Size X="18.0000" Y="18.0000" />
                 <AnchorPoint ScaleX="0.5559" ScaleY="0.5079" />
                 <Position X="70.8921" Y="37.3408" />
                 <Scale ScaleX="0.7000" ScaleY="0.7000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.9580" Y="0.8891" />
-                <PreSize X="0.2432" Y="0.4286" />
+                <PrePosition X="0.8243" Y="0.8891" />
+                <PreSize X="0.2093" Y="0.4286" />
                 <FileData Type="Normal" Path="Common/ui/spherical_green.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
@@ -177,28 +177,28 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="function" ActionTag="-1434387296" Tag="457" IconVisible="False" LeftMargin="-35.8208" RightMargin="-38.1792" TopMargin="-92.9867" BottomMargin="50.9867" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="44" Scale9Height="20" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-            <Size X="74.0000" Y="42.0000" />
+          <AbstractNodeData Name="function" ActionTag="-1434387296" Tag="457" IconVisible="False" LeftMargin="-41.8208" RightMargin="-44.1792" TopMargin="-92.9867" BottomMargin="50.9867" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="44" Scale9Height="20" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+            <Size X="86.0000" Y="42.0000" />
             <Children>
-              <AbstractNodeData Name="icon" ActionTag="-689960510" Tag="458" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="8.1090" RightMargin="3.8910" TopMargin="5.6464" BottomMargin="2.3536" ctype="SpriteObjectData">
+              <AbstractNodeData Name="icon" ActionTag="-689960510" Tag="458" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="14.4510" RightMargin="9.5490" TopMargin="5.6464" BottomMargin="2.3536" ctype="SpriteObjectData">
                 <Size X="62.0000" Y="34.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="39.1090" Y="19.3536" />
+                <Position X="45.4510" Y="19.3536" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5285" Y="0.4608" />
-                <PreSize X="0.8378" Y="0.8095" />
+                <PreSize X="0.7209" Y="0.8095" />
                 <FileData Type="Normal" Path="CityScene/ui3/xz_gn.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text" ActionTag="-1607206993" Tag="459" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="2.0000" RightMargin="2.0000" TopMargin="11.8728" BottomMargin="6.1272" FontSize="16" LabelText="Function" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="70.0000" Y="24.0000" />
+              <AbstractNodeData Name="text" ActionTag="-1607206993" Tag="459" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="11.5000" RightMargin="11.5000" TopMargin="13.3728" BottomMargin="7.6272" FontSize="14" LabelText="Function" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="63.0000" Y="21.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="37.0000" Y="18.1272" />
+                <Position X="43.0000" Y="18.1272" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.4316" />
-                <PreSize X="0.9459" Y="0.5714" />
+                <PreSize X="0.7326" Y="0.5000" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />

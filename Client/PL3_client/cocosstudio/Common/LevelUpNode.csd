@@ -717,10 +717,10 @@
           </PointFrame>
         </Timeline>
         <Timeline ActionTag="-118506950" Property="Scale">
-          <ScaleFrame FrameIndex="41" X="1.0000" Y="1.0000">
+          <ScaleFrame FrameIndex="41" X="1.2000" Y="1.0000">
             <EasingData Type="0" />
           </ScaleFrame>
-          <ScaleFrame FrameIndex="50" X="1.0000" Y="1.0000">
+          <ScaleFrame FrameIndex="50" X="1.2000" Y="1.0000">
             <EasingData Type="0" />
           </ScaleFrame>
         </Timeline>
@@ -1212,7 +1212,7 @@
                 <FileData Type="Normal" Path="Common/sfx/1/bz_wl01.png" Plist="" />
                 <BlendFunc Src="1" Dst="1" />
               </AbstractNodeData>
-              <AbstractNodeData Name="bz_wl02_2" ActionTag="-1581618978" Tag="74" IconVisible="False" LeftMargin="-115.5000" RightMargin="-115.5000" TopMargin="-53.5000" BottomMargin="-53.5000" ctype="SpriteObjectData">
+              <AbstractNodeData Name="bz_wl02_2" ActionTag="-1581618978" Alpha="0" Tag="74" IconVisible="False" LeftMargin="-115.5000" RightMargin="-115.5000" TopMargin="-53.5000" BottomMargin="-53.5000" ctype="SpriteObjectData">
                 <Size X="231.0000" Y="107.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position />
@@ -1223,7 +1223,7 @@
                 <FileData Type="Normal" Path="Common/sfx/1/bz_wl02.png" Plist="" />
                 <BlendFunc Src="1" Dst="1" />
               </AbstractNodeData>
-              <AbstractNodeData Name="bz_wl03_3" ActionTag="1148549084" Tag="75" IconVisible="False" LeftMargin="-115.5000" RightMargin="-115.5000" TopMargin="-53.5000" BottomMargin="-53.5000" ctype="SpriteObjectData">
+              <AbstractNodeData Name="bz_wl03_3" ActionTag="1148549084" Alpha="0" Tag="75" IconVisible="False" LeftMargin="-115.5000" RightMargin="-115.5000" TopMargin="-53.5000" BottomMargin="-53.5000" ctype="SpriteObjectData">
                 <Size X="231.0000" Y="107.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position />
@@ -1234,7 +1234,7 @@
                 <FileData Type="Normal" Path="Common/sfx/1/bz_wl03.png" Plist="" />
                 <BlendFunc Src="1" Dst="1" />
               </AbstractNodeData>
-              <AbstractNodeData Name="bz_wl04_4" ActionTag="-1539160285" Tag="76" IconVisible="False" LeftMargin="-115.5000" RightMargin="-115.5000" TopMargin="-53.5000" BottomMargin="-53.5000" ctype="SpriteObjectData">
+              <AbstractNodeData Name="bz_wl04_4" ActionTag="-1539160285" Alpha="0" Tag="76" IconVisible="False" LeftMargin="-115.5000" RightMargin="-115.5000" TopMargin="-53.5000" BottomMargin="-53.5000" ctype="SpriteObjectData">
                 <Size X="231.0000" Y="107.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position />
@@ -1245,7 +1245,7 @@
                 <FileData Type="Normal" Path="Common/sfx/1/bz_wl04.png" Plist="" />
                 <BlendFunc Src="1" Dst="1" />
               </AbstractNodeData>
-              <AbstractNodeData Name="bz_wl05_5" ActionTag="1749680838" Tag="77" IconVisible="False" LeftMargin="-115.5000" RightMargin="-115.5000" TopMargin="-53.5000" BottomMargin="-53.5000" ctype="SpriteObjectData">
+              <AbstractNodeData Name="bz_wl05_5" ActionTag="1749680838" Alpha="36" Tag="77" IconVisible="False" LeftMargin="-115.5000" RightMargin="-115.5000" TopMargin="-53.5000" BottomMargin="-53.5000" ctype="SpriteObjectData">
                 <Size X="231.0000" Y="107.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position />
@@ -1256,7 +1256,7 @@
                 <FileData Type="Normal" Path="Common/sfx/1/bz_wl05.png" Plist="" />
                 <BlendFunc Src="1" Dst="1" />
               </AbstractNodeData>
-              <AbstractNodeData Name="bz_wl06_6" ActionTag="1294521426" Tag="78" IconVisible="False" LeftMargin="-115.5000" RightMargin="-115.5000" TopMargin="-53.5000" BottomMargin="-53.5000" ctype="SpriteObjectData">
+              <AbstractNodeData Name="bz_wl06_6" ActionTag="1294521426" Alpha="0" Tag="78" IconVisible="False" LeftMargin="-115.5000" RightMargin="-115.5000" TopMargin="-53.5000" BottomMargin="-53.5000" ctype="SpriteObjectData">
                 <Size X="231.0000" Y="107.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position />
@@ -1267,7 +1267,7 @@
                 <FileData Type="Normal" Path="Common/sfx/1/bz_wl06.png" Plist="" />
                 <BlendFunc Src="1" Dst="1" />
               </AbstractNodeData>
-              <AbstractNodeData Name="bz_wl07_7" ActionTag="1152173236" Tag="79" IconVisible="False" LeftMargin="-115.5000" RightMargin="-115.5000" TopMargin="-53.5000" BottomMargin="-53.5000" ctype="SpriteObjectData">
+              <AbstractNodeData Name="bz_wl07_7" ActionTag="1152173236" Alpha="0" Tag="79" IconVisible="False" LeftMargin="-115.5000" RightMargin="-115.5000" TopMargin="-53.5000" BottomMargin="-53.5000" ctype="SpriteObjectData">
                 <Size X="231.0000" Y="107.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position />
@@ -1300,7 +1300,7 @@
                 <FileData Type="Normal" Path="Common/sfx/1/bz_wl01.png" Plist="" />
                 <BlendFunc Src="1" Dst="1" />
               </AbstractNodeData>
-              <AbstractNodeData Name="bz_wl02_2" ActionTag="-1361319673" Tag="66" IconVisible="False" LeftMargin="-115.5000" RightMargin="-115.5000" TopMargin="-53.5000" BottomMargin="-53.5000" ctype="SpriteObjectData">
+              <AbstractNodeData Name="bz_wl02_2" ActionTag="-1361319673" Alpha="0" Tag="66" IconVisible="False" LeftMargin="-115.5000" RightMargin="-115.5000" TopMargin="-53.5000" BottomMargin="-53.5000" ctype="SpriteObjectData">
                 <Size X="231.0000" Y="107.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position />
@@ -1311,7 +1311,7 @@
                 <FileData Type="Normal" Path="Common/sfx/1/bz_wl02.png" Plist="" />
                 <BlendFunc Src="1" Dst="1" />
               </AbstractNodeData>
-              <AbstractNodeData Name="bz_wl03_3" ActionTag="-1281543933" Tag="67" IconVisible="False" LeftMargin="-115.5000" RightMargin="-115.5000" TopMargin="-53.5000" BottomMargin="-53.5000" ctype="SpriteObjectData">
+              <AbstractNodeData Name="bz_wl03_3" ActionTag="-1281543933" Alpha="0" Tag="67" IconVisible="False" LeftMargin="-115.5000" RightMargin="-115.5000" TopMargin="-53.5000" BottomMargin="-53.5000" ctype="SpriteObjectData">
                 <Size X="231.0000" Y="107.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position />
@@ -1322,7 +1322,7 @@
                 <FileData Type="Normal" Path="Common/sfx/1/bz_wl03.png" Plist="" />
                 <BlendFunc Src="1" Dst="1" />
               </AbstractNodeData>
-              <AbstractNodeData Name="bz_wl04_4" ActionTag="-2064098001" Tag="68" IconVisible="False" LeftMargin="-115.5000" RightMargin="-115.5000" TopMargin="-53.5000" BottomMargin="-53.5000" ctype="SpriteObjectData">
+              <AbstractNodeData Name="bz_wl04_4" ActionTag="-2064098001" Alpha="0" Tag="68" IconVisible="False" LeftMargin="-115.5000" RightMargin="-115.5000" TopMargin="-53.5000" BottomMargin="-53.5000" ctype="SpriteObjectData">
                 <Size X="231.0000" Y="107.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position />
@@ -1333,7 +1333,7 @@
                 <FileData Type="Normal" Path="Common/sfx/1/bz_wl04.png" Plist="" />
                 <BlendFunc Src="1" Dst="1" />
               </AbstractNodeData>
-              <AbstractNodeData Name="bz_wl05_5" ActionTag="9627627" Tag="69" IconVisible="False" LeftMargin="-115.5000" RightMargin="-115.5000" TopMargin="-53.5000" BottomMargin="-53.5000" ctype="SpriteObjectData">
+              <AbstractNodeData Name="bz_wl05_5" ActionTag="9627627" Alpha="0" Tag="69" IconVisible="False" LeftMargin="-115.5000" RightMargin="-115.5000" TopMargin="-53.5000" BottomMargin="-53.5000" ctype="SpriteObjectData">
                 <Size X="231.0000" Y="107.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position />
@@ -1344,7 +1344,7 @@
                 <FileData Type="Normal" Path="Common/sfx/1/bz_wl05.png" Plist="" />
                 <BlendFunc Src="1" Dst="1" />
               </AbstractNodeData>
-              <AbstractNodeData Name="bz_wl06_6" ActionTag="-297014532" Tag="70" IconVisible="False" LeftMargin="-115.5000" RightMargin="-115.5000" TopMargin="-53.5000" BottomMargin="-53.5000" ctype="SpriteObjectData">
+              <AbstractNodeData Name="bz_wl06_6" ActionTag="-297014532" Alpha="0" Tag="70" IconVisible="False" LeftMargin="-115.5000" RightMargin="-115.5000" TopMargin="-53.5000" BottomMargin="-53.5000" ctype="SpriteObjectData">
                 <Size X="231.0000" Y="107.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position />
@@ -1355,7 +1355,7 @@
                 <FileData Type="Normal" Path="Common/sfx/1/bz_wl06.png" Plist="" />
                 <BlendFunc Src="1" Dst="1" />
               </AbstractNodeData>
-              <AbstractNodeData Name="bz_wl07_7" ActionTag="1737030380" Tag="71" IconVisible="False" LeftMargin="-115.5000" RightMargin="-115.5000" TopMargin="-53.5000" BottomMargin="-53.5000" ctype="SpriteObjectData">
+              <AbstractNodeData Name="bz_wl07_7" ActionTag="1737030380" Alpha="0" Tag="71" IconVisible="False" LeftMargin="-115.5000" RightMargin="-115.5000" TopMargin="-53.5000" BottomMargin="-53.5000" ctype="SpriteObjectData">
                 <Size X="231.0000" Y="107.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position />
@@ -1374,7 +1374,7 @@
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="xm_wl03_6" ActionTag="-311052015" Tag="400" IconVisible="False" LeftMargin="-530.6378" RightMargin="-429.3622" TopMargin="-217.1643" BottomMargin="-143.8357" ctype="SpriteObjectData">
+          <AbstractNodeData Name="xm_wl03_6" ActionTag="-311052015" Alpha="0" Tag="400" IconVisible="False" LeftMargin="-530.6378" RightMargin="-429.3622" TopMargin="-217.1643" BottomMargin="-143.8357" ctype="SpriteObjectData">
             <Size X="960.0000" Y="361.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-50.6378" Y="36.6643" />
@@ -1393,14 +1393,14 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="Common/shengji/1_00029.png" Plist="" />
+            <FileData Type="Normal" Path="Common/shengji/1_00017.png" Plist="" />
             <BlendFunc Src="1" Dst="1" />
           </AbstractNodeData>
           <AbstractNodeData Name="sj_bottom01_2" ActionTag="297173887" Tag="396" IconVisible="False" LeftMargin="-856.1219" RightMargin="-799.8781" TopMargin="-304.9571" BottomMargin="-10.0429" ctype="SpriteObjectData">
             <Size X="1656.0000" Y="315.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-28.1219" Y="147.4571" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Scale ScaleX="0.6050" ScaleY="0.6050" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
@@ -1418,7 +1418,7 @@
             <FileData Type="Normal" Path="Common/newUI/sj_bottom01.png" Plist="" />
             <BlendFunc Src="770" Dst="1" />
           </AbstractNodeData>
-          <AbstractNodeData Name="sj_bottom01_2_1" ActionTag="906058192" Alpha="0" Tag="63" IconVisible="False" LeftMargin="-778.2834" RightMargin="-877.7166" TopMargin="-317.2899" BottomMargin="2.2899" ctype="SpriteObjectData">
+          <AbstractNodeData Name="sj_bottom01_2_1" ActionTag="906058192" Tag="63" IconVisible="False" LeftMargin="-778.2834" RightMargin="-877.7166" TopMargin="-317.2899" BottomMargin="2.2899" ctype="SpriteObjectData">
             <Size X="1656.0000" Y="315.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="49.7166" Y="159.7899" />
@@ -1429,7 +1429,7 @@
             <FileData Type="Normal" Path="Common/newUI/sj_bottom01.png" Plist="" />
             <BlendFunc Src="770" Dst="1" />
           </AbstractNodeData>
-          <AbstractNodeData Name="sj_bottom01_2_0" ActionTag="1976023308" Alpha="0" Tag="62" IconVisible="False" LeftMargin="-724.4419" RightMargin="-931.5581" TopMargin="-289.3334" BottomMargin="-25.6666" ctype="SpriteObjectData">
+          <AbstractNodeData Name="sj_bottom01_2_0" ActionTag="1976023308" Tag="62" IconVisible="False" LeftMargin="-724.4419" RightMargin="-931.5581" TopMargin="-289.3334" BottomMargin="-25.6666" ctype="SpriteObjectData">
             <Size X="1656.0000" Y="315.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="103.5581" Y="131.8334" />
@@ -1440,18 +1440,18 @@
             <FileData Type="Normal" Path="Common/newUI/sj_bottom01.png" Plist="" />
             <BlendFunc Src="770" Dst="1" />
           </AbstractNodeData>
-          <AbstractNodeData Name="sj_bottom02_3" ActionTag="-118506950" Tag="397" IconVisible="False" LeftMargin="-270.4337" RightMargin="-288.5663" TopMargin="-109.5172" BottomMargin="-245.4828" ctype="SpriteObjectData">
+          <AbstractNodeData Name="sj_bottom02_3" ActionTag="-118506950" Alpha="0" Tag="397" IconVisible="False" LeftMargin="-270.4338" RightMargin="-288.5662" TopMargin="-155.5179" BottomMargin="-199.4821" ctype="SpriteObjectData">
             <Size X="559.0000" Y="355.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="9.0663" Y="-67.9828" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="9.0662" Y="-21.9821" />
+            <Scale ScaleX="1.2000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="Common/newUI/sj_bottom02.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="sj_bottom03_4" ActionTag="-1975700079" VisibleForFrame="False" Tag="398" IconVisible="False" LeftMargin="-275.0586" RightMargin="-289.9414" TopMargin="-110.0704" BottomMargin="97.0704" ctype="SpriteObjectData">
+          <AbstractNodeData Name="sj_bottom03_4" ActionTag="-1975700079" VisibleForFrame="False" Alpha="0" Tag="398" IconVisible="False" LeftMargin="-275.0586" RightMargin="-289.9414" TopMargin="-110.0704" BottomMargin="97.0704" ctype="SpriteObjectData">
             <Size X="565.0000" Y="13.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="7.4414" Y="103.5704" />
@@ -1462,22 +1462,22 @@
             <FileData Type="Normal" Path="Common/newUI/sj_bottom03.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="sj_bt_5" ActionTag="14698334" Tag="399" IconVisible="False" LeftMargin="-109.8299" RightMargin="-124.1701" TopMargin="-170.5386" BottomMargin="124.5386" ctype="SpriteObjectData">
-            <Size X="234.0000" Y="46.0000" />
+          <AbstractNodeData Name="sj_bt_5" ActionTag="14698334" Tag="399" IconVisible="False" LeftMargin="-109.8299" RightMargin="-124.1701" TopMargin="-181.5386" BottomMargin="113.5386" ctype="SpriteObjectData">
+            <Size X="234.0000" Y="68.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="7.1701" Y="147.5386" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Scale ScaleX="0.6636" ScaleY="0.6636" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="Common/newUI/sj_bt.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="level" ActionTag="-268246279" Tag="475" IconVisible="False" LeftMargin="-2.5103" RightMargin="2.5103" TopMargin="-70.6881" BottomMargin="70.6881" FontSize="25" LabelText="" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="level" ActionTag="-268246279" Alpha="0" Tag="475" IconVisible="False" LeftMargin="107.2600" RightMargin="-107.2600" TopMargin="-70.4100" BottomMargin="70.4100" FontSize="25" LabelText="" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint ScaleX="1.0000" ScaleY="0.5237" />
-            <Position X="-2.5103" Y="70.6881" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="107.2600" Y="70.4100" />
+            <Scale ScaleX="3.0000" ScaleY="3.0000" />
             <CColor A="255" R="216" G="231" B="247" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
@@ -1520,11 +1520,11 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="33" G="255" B="70" />
           </AbstractNodeData>
-          <AbstractNodeData Name="ship" ActionTag="197785703" Tag="480" IconVisible="False" LeftMargin="-2.5104" RightMargin="2.5104" TopMargin="-34.9989" BottomMargin="34.9989" FontSize="25" LabelText="" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="ship" ActionTag="197785703" Alpha="0" Tag="480" IconVisible="False" LeftMargin="107.2600" RightMargin="-107.2600" TopMargin="-35.5412" BottomMargin="35.5412" FontSize="25" LabelText="" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
-            <Position X="-2.5104" Y="34.9989" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="107.2600" Y="35.5412" />
+            <Scale ScaleX="3.0000" ScaleY="3.0000" />
             <CColor A="255" R="216" G="231" B="247" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
@@ -1567,11 +1567,11 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="33" G="255" B="70" />
           </AbstractNodeData>
-          <AbstractNodeData Name="building" ActionTag="1711061073" Tag="484" IconVisible="False" LeftMargin="-2.5103" RightMargin="2.5103" TopMargin="0.0011" BottomMargin="-0.0011" FontSize="25" LabelText="" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="building" ActionTag="1711061073" Alpha="0" Tag="484" IconVisible="False" LeftMargin="107.2600" RightMargin="-107.2600" TopMargin="1.2278" BottomMargin="-1.2278" FontSize="25" LabelText="" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
-            <Position X="-2.5103" Y="-0.0011" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="107.2600" Y="-1.2278" />
+            <Scale ScaleX="3.0000" ScaleY="3.0000" />
             <CColor A="255" R="216" G="231" B="247" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
@@ -1605,7 +1605,7 @@
           <AbstractNodeData Name="building_next" ActionTag="-1803302023" Alpha="0" Tag="487" IconVisible="False" LeftMargin="152.9251" RightMargin="-182.9251" TopMargin="-19.0000" BottomMargin="-19.0000" FontSize="25" LabelText="21" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="30.0000" Y="38.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="152.9251" Y="0.0000" />
+            <Position X="152.9251" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="33" G="255" B="70" />
             <PrePosition />
@@ -1614,11 +1614,11 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="33" G="255" B="70" />
           </AbstractNodeData>
-          <AbstractNodeData Name="strength" ActionTag="905932522" Tag="33" IconVisible="False" LeftMargin="-2.5004" RightMargin="2.5004" TopMargin="35.0010" BottomMargin="-35.0010" FontSize="25" LabelText="" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="strength" ActionTag="905932522" Alpha="0" Tag="33" IconVisible="False" LeftMargin="107.2600" RightMargin="-107.2600" TopMargin="34.8270" BottomMargin="-34.8270" FontSize="25" LabelText="" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
-            <Position X="-2.5004" Y="-35.0010" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="107.2600" Y="-34.8270" />
+            <Scale ScaleX="3.0000" ScaleY="3.0000" />
             <CColor A="255" R="216" G="231" B="247" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
@@ -1661,11 +1661,11 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="33" G="255" B="70" />
           </AbstractNodeData>
-          <AbstractNodeData Name="friend" ActionTag="-481620723" Tag="37" IconVisible="False" LeftMargin="-2.5104" RightMargin="2.5104" TopMargin="69.9993" BottomMargin="-69.9993" FontSize="25" LabelText="" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="friend" ActionTag="-481620723" Alpha="0" Tag="37" IconVisible="False" LeftMargin="107.2600" RightMargin="-107.2600" TopMargin="70.9621" BottomMargin="-70.9621" FontSize="25" LabelText="" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
-            <Position X="-2.5104" Y="-69.9993" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="107.2600" Y="-70.9621" />
+            <Scale ScaleX="3.0000" ScaleY="3.0000" />
             <CColor A="255" R="216" G="231" B="247" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
@@ -1708,11 +1708,11 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="33" G="255" B="70" />
           </AbstractNodeData>
-          <AbstractNodeData Name="sudu1" ActionTag="1917677813" Tag="41" IconVisible="False" LeftMargin="-1.5112" RightMargin="1.5112" TopMargin="104.9998" BottomMargin="-104.9998" FontSize="25" LabelText="" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="sudu1" ActionTag="1917677813" Alpha="0" Tag="41" IconVisible="False" LeftMargin="107.2600" RightMargin="-107.2600" TopMargin="105.8292" BottomMargin="-105.8292" FontSize="25" LabelText="" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
-            <Position X="-1.5112" Y="-104.9998" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="107.2600" Y="-105.8292" />
+            <Scale ScaleX="3.0000" ScaleY="3.0000" />
             <CColor A="255" R="216" G="231" B="247" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
@@ -1755,11 +1755,11 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="33" G="255" B="70" />
           </AbstractNodeData>
-          <AbstractNodeData Name="sudu2" ActionTag="-1186124085" Tag="45" IconVisible="False" LeftMargin="-1.5014" RightMargin="1.5014" TopMargin="139.9997" BottomMargin="-139.9997" FontSize="25" LabelText="" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="sudu2" ActionTag="-1186124085" Alpha="0" Tag="45" IconVisible="False" LeftMargin="107.2600" RightMargin="-107.2600" TopMargin="139.4284" BottomMargin="-139.4284" FontSize="25" LabelText="" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
-            <Position X="-1.5014" Y="-139.9997" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="107.2600" Y="-139.4284" />
+            <Scale ScaleX="3.0000" ScaleY="3.0000" />
             <CColor A="255" R="216" G="231" B="247" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
@@ -1802,11 +1802,11 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="33" G="255" B="70" />
           </AbstractNodeData>
-          <AbstractNodeData Name="sudu3" ActionTag="691916841" Tag="49" IconVisible="False" LeftMargin="-1.5112" RightMargin="1.5112" TopMargin="175.3285" BottomMargin="-175.3285" FontSize="25" LabelText="" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="sudu3" ActionTag="691916841" Alpha="0" Tag="49" IconVisible="False" LeftMargin="107.2600" RightMargin="-107.2600" TopMargin="175.5635" BottomMargin="-175.5635" FontSize="25" LabelText="" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint ScaleX="1.0000" ScaleY="0.4887" />
-            <Position X="-1.5112" Y="-175.3285" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="107.2600" Y="-175.5635" />
+            <Scale ScaleX="3.0000" ScaleY="3.0000" />
             <CColor A="255" R="216" G="231" B="247" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
@@ -1849,11 +1849,11 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="33" G="255" B="70" />
           </AbstractNodeData>
-          <AbstractNodeData Name="open" ActionTag="1089787490" Tag="488" IconVisible="False" LeftMargin="-2.5005" RightMargin="2.5005" TopMargin="210.0014" BottomMargin="-210.0014" FontSize="25" LabelText="" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="open" ActionTag="1089787490" Alpha="0" Tag="488" IconVisible="False" LeftMargin="107.2600" RightMargin="-107.2600" TopMargin="210.4306" BottomMargin="-210.4306" FontSize="25" LabelText="" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
-            <Position X="-2.5005" Y="-210.0014" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="107.2600" Y="-210.4306" />
+            <Scale ScaleX="3.0000" ScaleY="3.0000" />
             <CColor A="255" R="216" G="231" B="247" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />

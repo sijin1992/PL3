@@ -749,14 +749,14 @@
                 <PreSize X="0.7075" Y="0.7426" />
                 <FileData Type="Normal" Path="CityScene/ui3/icon_league.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text_miao" ActionTag="500729491" UserData="leftbottom" Tag="424" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="33.0034" RightMargin="28.9966" TopMargin="80.6422" BottomMargin="-11.6422" FontSize="20" LabelText="星盟" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
-                <Size X="44.0000" Y="32.0000" />
+              <AbstractNodeData Name="text_miao" ActionTag="500729491" UserData="leftbottom" Tag="424" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="35.0034" RightMargin="30.9966" TopMargin="82.1422" BottomMargin="-10.1422" FontSize="18" LabelText="星盟" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
+                <Size X="40.0000" Y="29.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="55.0034" Y="4.3578" />
                 <Scale ScaleX="1.2000" ScaleY="1.2000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5189" Y="0.0431" />
-                <PreSize X="0.4151" Y="0.3168" />
+                <PreSize X="0.3774" Y="0.2871" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="0" G="0" B="0" />
                 <ShadowColor A="255" R="48" G="38" B="35" />
@@ -834,14 +834,14 @@
                 <PreSize X="0.7075" Y="0.7426" />
                 <FileData Type="Normal" Path="SketchIcon/queue.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text_miao" ActionTag="1147878297" UserData="leftbottom" Tag="388" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="31.5000" RightMargin="31.5000" TopMargin="80.6424" BottomMargin="-11.6424" FontSize="20" LabelText="阵型" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
-                <Size X="43.0000" Y="32.0000" />
+              <AbstractNodeData Name="text_miao" ActionTag="1147878297" UserData="leftbottom" Tag="388" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="33.0000" RightMargin="33.0000" TopMargin="82.1424" BottomMargin="-10.1424" FontSize="18" LabelText="阵型" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
+                <Size X="40.0000" Y="29.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="53.0000" Y="4.3576" />
                 <Scale ScaleX="1.2000" ScaleY="1.2000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.0431" />
-                <PreSize X="0.4057" Y="0.3168" />
+                <PreSize X="0.3774" Y="0.2871" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="0" G="0" B="0" />
                 <ShadowColor A="255" R="48" G="38" B="35" />
@@ -919,14 +919,14 @@
                 <PreSize X="0.7075" Y="0.7426" />
                 <FileData Type="Normal" Path="CityScene/ui3/icon_mission.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text_miao" ActionTag="393415395" UserData="leftbottom" Tag="420" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="31.0000" RightMargin="31.0000" TopMargin="80.6424" BottomMargin="-11.6424" FontSize="20" LabelText="任务" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
-                <Size X="44.0000" Y="32.0000" />
+              <AbstractNodeData Name="text_miao" ActionTag="393415395" UserData="leftbottom" Tag="420" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="18.5000" RightMargin="18.5000" TopMargin="82.1424" BottomMargin="-10.1424" FontSize="18" LabelText="Mission" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
+                <Size X="69.0000" Y="29.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="53.0000" Y="4.3576" />
                 <Scale ScaleX="1.2000" ScaleY="1.2000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.0431" />
-                <PreSize X="0.4151" Y="0.3168" />
+                <PreSize X="0.6509" Y="0.2871" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="0" G="0" B="0" />
                 <ShadowColor A="255" R="48" G="38" B="35" />
@@ -1004,14 +1004,14 @@
                 <PreSize X="0.7075" Y="0.7426" />
                 <FileData Type="Normal" Path="CityScene/ui3/icon_backpack.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text_miao" ActionTag="-939937849" UserData="leftbottom" Tag="619" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="29.0000" RightMargin="29.0000" TopMargin="79.1424" BottomMargin="-13.1424" FontSize="22" LabelText="背包" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
-                <Size X="48.0000" Y="35.0000" />
+              <AbstractNodeData Name="text_miao" ActionTag="-939937849" UserData="leftbottom" Tag="619" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="33.0000" RightMargin="33.0000" TopMargin="82.1424" BottomMargin="-10.1424" FontSize="18" LabelText="背包" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
+                <Size X="40.0000" Y="29.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="53.0000" Y="4.3576" />
                 <Scale ScaleX="1.2000" ScaleY="1.2000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.0431" />
-                <PreSize X="0.4528" Y="0.3465" />
+                <PreSize X="0.3774" Y="0.2871" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="0" G="0" B="0" />
                 <ShadowColor A="255" R="48" G="38" B="35" />
@@ -1089,14 +1089,14 @@
                 <PreSize X="0.7075" Y="0.7426" />
                 <FileData Type="Normal" Path="CityScene/ui3/icon_packup.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text_miao" ActionTag="1292414004" UserData="leftbottom" Tag="1701" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="31.5000" RightMargin="31.5000" TopMargin="80.6424" BottomMargin="-11.6424" FontSize="20" LabelText="更多" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
-                <Size X="43.0000" Y="32.0000" />
+              <AbstractNodeData Name="text_miao" ActionTag="1292414004" UserData="leftbottom" Tag="1701" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="29.0000" RightMargin="29.0000" TopMargin="82.1424" BottomMargin="-10.1424" FontSize="18" LabelText="More" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
+                <Size X="48.0000" Y="29.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="53.0000" Y="4.3576" />
                 <Scale ScaleX="1.2000" ScaleY="1.2000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.0431" />
-                <PreSize X="0.4057" Y="0.3168" />
+                <PreSize X="0.4528" Y="0.2871" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="0" G="0" B="0" />
                 <ShadowColor A="255" R="48" G="38" B="35" />
@@ -1259,14 +1259,14 @@
                 <PreSize X="0.7075" Y="0.7426" />
                 <FileData Type="Normal" Path="CityScene/ui3/icon_from.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text_miao" ActionTag="335015374" UserData="leftbottom" Tag="946" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="31.0000" RightMargin="31.0000" TopMargin="80.6424" BottomMargin="-11.6424" FontSize="20" LabelText="ship" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
-                <Size X="44.0000" Y="32.0000" />
+              <AbstractNodeData Name="text_miao" ActionTag="335015374" UserData="leftbottom" Tag="946" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="7.5000" RightMargin="7.5000" TopMargin="82.1424" BottomMargin="-10.1424" FontSize="18" LabelText="Spaceship" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
+                <Size X="91.0000" Y="29.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="53.0000" Y="4.3576" />
                 <Scale ScaleX="1.2000" ScaleY="1.2000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.0431" />
-                <PreSize X="0.4151" Y="0.3168" />
+                <PreSize X="0.8585" Y="0.2871" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="0" G="0" B="0" />
                 <ShadowColor A="255" R="48" G="38" B="35" />
@@ -1344,14 +1344,14 @@
                 <PreSize X="0.7075" Y="0.7426" />
                 <FileData Type="Normal" Path="CityScene/ui3/icon_friend.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text_miao" ActionTag="-1337088746" UserData="leftbottom" Tag="416" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="31.0000" RightMargin="31.0000" TopMargin="80.6424" BottomMargin="-11.6424" FontSize="20" LabelText="好友" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
-                <Size X="44.0000" Y="32.0000" />
+              <AbstractNodeData Name="text_miao" ActionTag="-1337088746" UserData="leftbottom" Tag="416" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="33.0000" RightMargin="33.0000" TopMargin="82.1424" BottomMargin="-10.1424" FontSize="18" LabelText="好友" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
+                <Size X="40.0000" Y="29.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="53.0000" Y="4.3576" />
                 <Scale ScaleX="1.2000" ScaleY="1.2000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.0431" />
-                <PreSize X="0.4151" Y="0.3168" />
+                <PreSize X="0.3774" Y="0.2871" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="0" G="0" B="0" />
                 <ShadowColor A="255" R="48" G="38" B="35" />
@@ -1429,14 +1429,14 @@
                 <PreSize X="0.7075" Y="0.7426" />
                 <FileData Type="Normal" Path="CityScene/ui3/icon_trial.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text_miao" ActionTag="1876153779" UserData="leftbottom" Tag="1175" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="31.0000" RightMargin="31.0000" TopMargin="80.6424" BottomMargin="-11.6424" FontSize="20" LabelText="试炼" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
-                <Size X="44.0000" Y="32.0000" />
+              <AbstractNodeData Name="text_miao" ActionTag="1876153779" UserData="leftbottom" Tag="1175" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="33.5000" RightMargin="33.5000" TopMargin="82.1424" BottomMargin="-10.1424" FontSize="18" LabelText="试炼" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
+                <Size X="39.0000" Y="29.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="53.0000" Y="4.3576" />
                 <Scale ScaleX="1.2000" ScaleY="1.2000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.0431" />
-                <PreSize X="0.4151" Y="0.3168" />
+                <PreSize X="0.3679" Y="0.2871" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="0" G="0" B="0" />
                 <ShadowColor A="255" R="48" G="38" B="35" />
@@ -1514,14 +1514,14 @@
                 <PreSize X="0.7075" Y="0.7426" />
                 <FileData Type="Normal" Path="CityScene/ui3/icon_arena.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text_miao" ActionTag="-306257847" UserData="leftbottom" Tag="1190" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="21.0000" RightMargin="21.0000" TopMargin="80.6424" BottomMargin="-11.6424" FontSize="20" LabelText="竞技场" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
-                <Size X="64.0000" Y="32.0000" />
+              <AbstractNodeData Name="text_miao" ActionTag="-306257847" UserData="leftbottom" Tag="1190" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="24.0000" RightMargin="24.0000" TopMargin="82.1424" BottomMargin="-10.1424" FontSize="18" LabelText="竞技场" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
+                <Size X="58.0000" Y="29.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="53.0000" Y="4.3576" />
                 <Scale ScaleX="1.2000" ScaleY="1.2000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.0431" />
-                <PreSize X="0.6038" Y="0.3168" />
+                <PreSize X="0.5472" Y="0.2871" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="0" G="0" B="0" />
                 <ShadowColor A="255" R="48" G="38" B="35" />
@@ -2018,8 +2018,8 @@
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="text" ActionTag="-462620310" Tag="465" IconVisible="False" LeftMargin="3.9894" RightMargin="-106.9894" TopMargin="58.0645" BottomMargin="-90.0645" FontSize="20" LabelText="Text Label" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="103.0000" Y="32.0000" />
+                  <AbstractNodeData Name="text" ActionTag="-462620310" Tag="465" IconVisible="False" LeftMargin="9.9894" RightMargin="-100.9894" TopMargin="59.5645" BottomMargin="-88.5645" FontSize="18" LabelText="Text Label" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="91.0000" Y="29.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="55.4894" Y="-74.0645" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -2098,8 +2098,8 @@
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="huodong_text" ActionTag="1092294973" Tag="452" IconVisible="False" LeftMargin="3.9894" RightMargin="-106.9894" TopMargin="58.0645" BottomMargin="-90.0645" FontSize="20" LabelText="Text Label" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="103.0000" Y="32.0000" />
+                  <AbstractNodeData Name="huodong_text" ActionTag="1092294973" Tag="452" IconVisible="False" LeftMargin="9.9894" RightMargin="-100.9894" TopMargin="59.5645" BottomMargin="-88.5645" FontSize="18" LabelText="Text Label" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="91.0000" Y="29.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="55.4894" Y="-74.0645" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -2188,8 +2188,8 @@
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="text" ActionTag="-1676880697" Tag="1635" IconVisible="False" LeftMargin="3.9894" RightMargin="-106.9894" TopMargin="58.0645" BottomMargin="-90.0645" FontSize="20" LabelText="Text Label" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="103.0000" Y="32.0000" />
+                  <AbstractNodeData Name="text" ActionTag="-1676880697" Tag="1635" IconVisible="False" LeftMargin="9.9894" RightMargin="-100.9894" TopMargin="59.5645" BottomMargin="-88.5645" FontSize="18" LabelText="Text Label" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="91.0000" Y="29.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="55.4894" Y="-74.0645" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -2268,8 +2268,8 @@
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="text" ActionTag="-404481350" Tag="880" IconVisible="False" LeftMargin="3.9894" RightMargin="-106.9894" TopMargin="58.0645" BottomMargin="-90.0645" FontSize="20" LabelText="Text Label" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="103.0000" Y="32.0000" />
+                  <AbstractNodeData Name="text" ActionTag="-404481350" Tag="880" IconVisible="False" LeftMargin="9.9894" RightMargin="-100.9894" TopMargin="59.5645" BottomMargin="-88.5645" FontSize="18" LabelText="Text Label" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="91.0000" Y="29.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="55.4894" Y="-74.0645" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -2348,8 +2348,8 @@
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="text" ActionTag="-474610459" Tag="2623" IconVisible="False" LeftMargin="-0.4055" RightMargin="-102.5945" TopMargin="57.0645" BottomMargin="-89.0645" FontSize="20" LabelText="Text Label" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="103.0000" Y="32.0000" />
+                  <AbstractNodeData Name="text" ActionTag="-474610459" Tag="2623" IconVisible="False" LeftMargin="5.5945" RightMargin="-96.5945" TopMargin="58.5645" BottomMargin="-87.5645" FontSize="18" LabelText="Text Label" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="91.0000" Y="29.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="51.0945" Y="-73.0645" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -2419,8 +2419,8 @@
                     <FileData Type="Normal" Path="Common/ui/spherical_red.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="text_miao" ActionTag="-876099875" Tag="927" IconVisible="False" LeftMargin="5.4127" RightMargin="-108.4127" TopMargin="57.9432" BottomMargin="-89.9432" FontSize="20" LabelText="Text Label" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="103.0000" Y="32.0000" />
+                  <AbstractNodeData Name="text_miao" ActionTag="-876099875" Tag="927" IconVisible="False" LeftMargin="11.4127" RightMargin="-102.4127" TopMargin="59.4432" BottomMargin="-88.4432" FontSize="18" LabelText="Text Label" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="91.0000" Y="29.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="56.9127" Y="-73.9432" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -2468,8 +2468,8 @@
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="text" ActionTag="-58065091" Tag="4084" IconVisible="False" LeftMargin="3.9894" RightMargin="-106.9894" TopMargin="58.0645" BottomMargin="-90.0645" FontSize="20" LabelText="Text Label" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="103.0000" Y="32.0000" />
+                  <AbstractNodeData Name="text" ActionTag="-58065091" Tag="4084" IconVisible="False" LeftMargin="9.9894" RightMargin="-100.9894" TopMargin="59.5645" BottomMargin="-88.5645" FontSize="18" LabelText="Text Label" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="91.0000" Y="29.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="55.4894" Y="-74.0645" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -2528,8 +2528,8 @@
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="text" ActionTag="1607564890" Tag="6542" IconVisible="False" LeftMargin="3.9894" RightMargin="-106.9894" TopMargin="58.0645" BottomMargin="-90.0645" FontSize="20" LabelText="Text Label" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="103.0000" Y="32.0000" />
+                  <AbstractNodeData Name="text" ActionTag="1607564890" Tag="6542" IconVisible="False" LeftMargin="9.9894" RightMargin="-100.9894" TopMargin="59.5645" BottomMargin="-88.5645" FontSize="18" LabelText="Text Label" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="91.0000" Y="29.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="55.4894" Y="-74.0645" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -2588,8 +2588,8 @@
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="text" ActionTag="-1550123047" Tag="742" IconVisible="False" LeftMargin="3.9894" RightMargin="-106.9894" TopMargin="58.0645" BottomMargin="-90.0645" FontSize="20" LabelText="Text Label" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="103.0000" Y="32.0000" />
+                  <AbstractNodeData Name="text" ActionTag="-1550123047" Tag="742" IconVisible="False" LeftMargin="9.9894" RightMargin="-100.9894" TopMargin="59.5645" BottomMargin="-88.5645" FontSize="18" LabelText="Text Label" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="91.0000" Y="29.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="55.4894" Y="-74.0645" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -2919,8 +2919,8 @@
                     <FileData Type="Normal" Path="Common/ui/spherical_red.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="shouchong_text" ActionTag="1104142722" Tag="471" IconVisible="False" LeftMargin="4.4132" RightMargin="-107.4132" TopMargin="57.9440" BottomMargin="-89.9440" FontSize="20" LabelText="Text Label" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="103.0000" Y="32.0000" />
+                  <AbstractNodeData Name="shouchong_text" ActionTag="1104142722" Tag="471" IconVisible="False" LeftMargin="10.4132" RightMargin="-101.4132" TopMargin="59.4440" BottomMargin="-88.4440" FontSize="18" LabelText="Text Label" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="91.0000" Y="29.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="55.9132" Y="-73.9440" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
