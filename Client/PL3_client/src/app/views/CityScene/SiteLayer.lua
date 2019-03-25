@@ -474,6 +474,8 @@ function SiteLayer:onEnterTransitionFinish()
 		local function func( )
 			playEffectSound("sound/system/click.mp3")
 
+            player:clearShipList()
+
 			player:initInfo()
 
 			self:getApp():pushToRootView("LoginScene/LoginScene")

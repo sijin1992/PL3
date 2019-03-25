@@ -3012,6 +3012,16 @@ function IsFuncOpen(name)
 	end
 	return true, heroLevel, centreLevel
 end
+
+function cleartable(list)
+    if list == nil or #list <= 0 then
+        return
+    end
+
+    for i = #list, 1, -1 do
+        table.remove(list,i)
+    end
+end
 GlobalFunc_instance.playMusic = playMusic
 
 return GlobalFunc_instance
