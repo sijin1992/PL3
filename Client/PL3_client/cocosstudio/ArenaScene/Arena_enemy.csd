@@ -157,17 +157,17 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="fight" ActionTag="-1839538726" CallBackType="Touch" Tag="841" IconVisible="False" LeftMargin="381.0598" RightMargin="-471.0598" TopMargin="-52.2362" BottomMargin="22.2362" TouchEnable="True" FontSize="22" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="100" Scale9Height="18" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-            <Size X="90.0000" Y="30.0000" />
+          <AbstractNodeData Name="fight" ActionTag="-1839538726" CallBackType="Touch" Tag="841" IconVisible="False" LeftMargin="376.0598" RightMargin="-476.0598" TopMargin="-52.2362" BottomMargin="22.2362" TouchEnable="True" FontSize="22" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="100" Scale9Height="18" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+            <Size X="100.0000" Y="30.0000" />
             <Children>
-              <AbstractNodeData Name="text" ActionTag="-607770727" Tag="842" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-2.3230" RightMargin="0.3230" TopMargin="4.0730" BottomMargin="-3.0730" FontSize="19" LabelText="challenge" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" OutlineSize="2" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="92.0000" Y="29.0000" />
+              <AbstractNodeData Name="text" ActionTag="-607770727" Tag="842" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="6.5300" RightMargin="9.4700" TopMargin="5.0730" BottomMargin="-2.0730" FontSize="18" LabelText="challenge" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" OutlineSize="2" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="84.0000" Y="27.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="43.6770" Y="11.4270" />
+                <Position X="48.5300" Y="11.4270" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.4853" Y="0.3809" />
-                <PreSize X="1.0222" Y="0.9667" />
+                <PreSize X="0.8400" Y="0.9000" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="10" G="88" B="242" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
