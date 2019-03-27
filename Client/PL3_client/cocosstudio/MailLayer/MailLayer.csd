@@ -70,20 +70,20 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="selected" ActionTag="-180572538" VisibleForFrame="False" Tag="68" IconVisible="False" LeftMargin="-42.0300" RightMargin="-162.9700" TopMargin="-33.9661" BottomMargin="-35.0339" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="selected" ActionTag="-180572538" VisibleForFrame="False" Tag="68" IconVisible="False" LeftMargin="-41.0301" RightMargin="-163.9699" TopMargin="-33.9657" BottomMargin="-35.0343" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
                     <Size X="205.0000" Y="69.0000" />
                     <AnchorPoint ScaleX="1.0000" ScaleY="0.5139" />
-                    <Position X="162.9700" Y="0.4252" />
+                    <Position X="163.9699" Y="0.4248" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Image_12_0_0" ActionTag="1341159945" Alpha="0" Tag="62" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="34.5460" RightMargin="-35.5460" TopMargin="-17.7867" BottomMargin="-129.2133" FlipY="True" Scale9Enable="True" TopEage="14" BottomEage="20" Scale9OriginY="14" Scale9Width="1" Scale9Height="15" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="Image_12_0_0" ActionTag="1341159945" Alpha="0" Tag="62" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="35.5460" RightMargin="-36.5460" TopMargin="-17.7866" BottomMargin="-129.2134" FlipY="True" Scale9Enable="True" TopEage="14" BottomEage="20" Scale9OriginY="14" Scale9Width="1" Scale9Height="15" ctype="ImageViewObjectData">
                     <Size X="1.0000" Y="147.0000" />
                     <AnchorPoint ScaleX="0.6099" ScaleY="0.6532" />
-                    <Position X="35.1559" Y="-33.1929" />
+                    <Position X="36.1559" Y="-33.1930" />
                     <Scale ScaleX="1.0000" ScaleY="0.1000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
@@ -98,35 +98,35 @@
                 <PrePosition X="4.3030" Y="0.9299" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Image_12_0_0" ActionTag="2015214978" VisibleForFrame="False" Tag="73" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="53.5052" RightMargin="-44.5052" TopMargin="57.7488" BottomMargin="499.2512" FlipY="True" Scale9Enable="True" TopEage="14" BottomEage="20" Scale9OriginY="14" Scale9Width="1" Scale9Height="15" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="Image_12_0_0" ActionTag="2015214978" VisibleForFrame="False" Tag="73" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="54.5052" RightMargin="-45.5052" TopMargin="57.7488" BottomMargin="499.2512" FlipY="True" Scale9Enable="True" TopEage="14" BottomEage="20" Scale9OriginY="14" Scale9Width="1" Scale9Height="15" ctype="ImageViewObjectData">
                 <Size X="1.0000" Y="147.0000" />
                 <AnchorPoint ScaleX="0.6543" ScaleY="0.8277" />
-                <Position X="54.1595" Y="620.9231" />
+                <Position X="55.1595" Y="620.9231" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="5.4159" Y="0.8820" />
+                <PrePosition X="5.5159" Y="0.8820" />
                 <PreSize X="0.1000" Y="0.2088" />
                 <FileData Type="Normal" Path="Common/newUI/line_fg01.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="system_text" ActionTag="-1479730174" Tag="169" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="48.3790" RightMargin="-128.3790" TopMargin="35.5256" BottomMargin="635.4744" FontSize="22" LabelText="系统邮件" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="system_text" ActionTag="-1479730174" Tag="169" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="47.3789" RightMargin="-127.3789" TopMargin="35.5258" BottomMargin="635.4742" FontSize="22" LabelText="系统邮件" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="90.0000" Y="33.0000" />
-                <AnchorPoint ScaleY="0.5000" />
-                <Position X="48.3790" Y="651.9744" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="92.3789" Y="651.9742" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="209" G="209" B="209" />
-                <PrePosition X="4.8379" Y="0.9261" />
+                <PrePosition X="9.2379" Y="0.9261" />
                 <PreSize X="9.0000" Y="0.0469" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="205" G="235" B="247" />
               </AbstractNodeData>
-              <AbstractNodeData Name="systemNotice" ActionTag="-1668682477" Tag="154" IconVisible="False" LeftMargin="162.8400" RightMargin="-170.8400" TopMargin="16.9489" BottomMargin="669.0511" ctype="SpriteObjectData">
+              <AbstractNodeData Name="systemNotice" ActionTag="-1668682477" Tag="154" IconVisible="False" LeftMargin="163.8399" RightMargin="-171.8399" TopMargin="16.9490" BottomMargin="669.0510" ctype="SpriteObjectData">
                 <Size X="18.0000" Y="18.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="171.8400" Y="678.0511" />
+                <Position X="172.8399" Y="678.0510" />
                 <Scale ScaleX="0.8000" ScaleY="0.8000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="17.1840" Y="0.9631" />
+                <PrePosition X="17.2840" Y="0.9631" />
                 <PreSize X="1.8000" Y="0.0256" />
                 <FileData Type="Normal" Path="Common/ui/spherical_red.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
@@ -144,20 +144,20 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="selected" ActionTag="928747237" VisibleForFrame="False" Tag="67" IconVisible="False" LeftMargin="-42.0300" RightMargin="-162.9700" TopMargin="-34.4993" BottomMargin="-34.5007" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="selected" ActionTag="928747237" VisibleForFrame="False" Tag="67" IconVisible="False" LeftMargin="-41.0301" RightMargin="-163.9699" TopMargin="-34.4991" BottomMargin="-34.5009" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
                     <Size X="205.0000" Y="69.0000" />
                     <AnchorPoint ScaleX="1.0000" ScaleY="0.4832" />
-                    <Position X="162.9700" Y="-1.1599" />
+                    <Position X="163.9699" Y="-1.1601" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Image_12_0_0" ActionTag="154558029" Tag="65" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="34.5460" RightMargin="-35.5460" TopMargin="-17.7864" BottomMargin="-129.2136" FlipY="True" Scale9Enable="True" TopEage="14" BottomEage="20" Scale9OriginY="14" Scale9Width="1" Scale9Height="15" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="Image_12_0_0" ActionTag="154558029" Tag="65" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="35.5460" RightMargin="-36.5460" TopMargin="-17.7864" BottomMargin="-129.2136" FlipY="True" Scale9Enable="True" TopEage="14" BottomEage="20" Scale9OriginY="14" Scale9Width="1" Scale9Height="15" ctype="ImageViewObjectData">
                     <Size X="1.0000" Y="147.0000" />
                     <AnchorPoint ScaleX="0.6099" ScaleY="0.6532" />
-                    <Position X="35.1559" Y="-33.1932" />
+                    <Position X="36.1559" Y="-33.1932" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
@@ -172,25 +172,25 @@
                 <PrePosition X="4.3030" Y="0.8247" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="player_text" ActionTag="-570488968" Tag="145" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="50.4310" RightMargin="-130.4310" TopMargin="105.5736" BottomMargin="565.4264" FontSize="22" LabelText="玩家邮件" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="player_text" ActionTag="-570488968" Tag="145" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="49.4310" RightMargin="-129.4310" TopMargin="105.5738" BottomMargin="565.4262" FontSize="22" LabelText="玩家邮件" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="90.0000" Y="33.0000" />
-                <AnchorPoint ScaleY="0.5000" />
-                <Position X="50.4310" Y="581.9264" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="94.4310" Y="581.9262" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="209" G="209" B="209" />
-                <PrePosition X="5.0431" Y="0.8266" />
+                <PrePosition X="9.4431" Y="0.8266" />
                 <PreSize X="9.0000" Y="0.0469" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="209" G="209" B="209" />
               </AbstractNodeData>
-              <AbstractNodeData Name="playerNotice" ActionTag="393293828" Tag="204" IconVisible="False" LeftMargin="162.8400" RightMargin="-170.8400" TopMargin="86.3552" BottomMargin="599.6448" ctype="SpriteObjectData">
+              <AbstractNodeData Name="playerNotice" ActionTag="393293828" Tag="204" IconVisible="False" LeftMargin="163.8399" RightMargin="-171.8399" TopMargin="86.3552" BottomMargin="599.6448" ctype="SpriteObjectData">
                 <Size X="18.0000" Y="18.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="171.8400" Y="608.6448" />
+                <Position X="172.8399" Y="608.6448" />
                 <Scale ScaleX="0.8000" ScaleY="0.8000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="17.1840" Y="0.8646" />
+                <PrePosition X="17.2840" Y="0.8646" />
                 <PreSize X="1.8000" Y="0.0256" />
                 <FileData Type="Normal" Path="Common/ui/spherical_red.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
@@ -208,20 +208,20 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="selected" ActionTag="-1336182387" VisibleForFrame="False" Tag="66" IconVisible="False" LeftMargin="-42.0300" RightMargin="-162.9700" TopMargin="-34.5000" BottomMargin="-34.5000" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="selected" ActionTag="-1336182387" VisibleForFrame="False" Tag="66" IconVisible="False" LeftMargin="-41.0301" RightMargin="-163.9699" TopMargin="-34.5000" BottomMargin="-34.5000" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
                     <Size X="205.0000" Y="69.0000" />
                     <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
-                    <Position X="162.9700" />
+                    <Position X="163.9699" Y="0.0000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Image_12_0_0" ActionTag="-2010659218" Tag="399" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="34.5459" RightMargin="-35.5459" TopMargin="-16.7867" BottomMargin="-130.2133" FlipY="True" Scale9Enable="True" TopEage="14" BottomEage="20" Scale9OriginY="14" Scale9Width="1" Scale9Height="15" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="Image_12_0_0" ActionTag="-2010659218" Tag="399" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="35.5459" RightMargin="-36.5459" TopMargin="-16.7866" BottomMargin="-130.2133" FlipY="True" Scale9Enable="True" TopEage="14" BottomEage="20" Scale9OriginY="14" Scale9Width="1" Scale9Height="15" ctype="ImageViewObjectData">
                     <Size X="1.0000" Y="147.0000" />
                     <AnchorPoint ScaleX="0.6099" ScaleY="0.6532" />
-                    <Position X="35.1558" Y="-34.1929" />
+                    <Position X="36.1558" Y="-34.1930" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
@@ -236,25 +236,25 @@
                 <PrePosition X="4.3030" Y="0.7183" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="planet_text" ActionTag="396768602" Tag="173" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="48.8780" RightMargin="-128.8780" TopMargin="180.8312" BottomMargin="490.1688" FontSize="22" LabelText="资源报告" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="planet_text" ActionTag="396768602" Tag="173" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="47.8779" RightMargin="-127.8779" TopMargin="180.8313" BottomMargin="490.1687" FontSize="22" LabelText="资源报告" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="90.0000" Y="33.0000" />
-                <AnchorPoint ScaleY="0.5000" />
-                <Position X="48.8780" Y="506.6688" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="92.8779" Y="506.6687" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="209" G="209" B="209" />
-                <PrePosition X="4.8878" Y="0.7197" />
+                <PrePosition X="9.2878" Y="0.7197" />
                 <PreSize X="9.0000" Y="0.0469" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="209" G="209" B="209" />
               </AbstractNodeData>
-              <AbstractNodeData Name="planetNotice" ActionTag="1852721272" Tag="248" IconVisible="False" LeftMargin="162.8400" RightMargin="-170.8400" TopMargin="159.8618" BottomMargin="526.1382" ctype="SpriteObjectData">
+              <AbstractNodeData Name="planetNotice" ActionTag="1852721272" Tag="248" IconVisible="False" LeftMargin="163.8399" RightMargin="-171.8399" TopMargin="159.8618" BottomMargin="526.1382" ctype="SpriteObjectData">
                 <Size X="18.0000" Y="18.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="171.8400" Y="535.1382" />
+                <Position X="172.8399" Y="535.1382" />
                 <Scale ScaleX="0.8000" ScaleY="0.8000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="17.1840" Y="0.7601" />
+                <PrePosition X="17.2840" Y="0.7601" />
                 <PreSize X="1.8000" Y="0.0256" />
                 <FileData Type="Normal" Path="Common/ui/spherical_red.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
@@ -272,20 +272,20 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="selected" ActionTag="1608825093" VisibleForFrame="False" Tag="191" IconVisible="False" LeftMargin="-42.0300" RightMargin="-162.9700" TopMargin="-34.5000" BottomMargin="-34.5000" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="selected" ActionTag="1608825093" VisibleForFrame="False" Tag="191" IconVisible="False" LeftMargin="-41.0301" RightMargin="-163.9699" TopMargin="-34.5000" BottomMargin="-34.5000" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
                     <Size X="205.0000" Y="69.0000" />
                     <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
-                    <Position X="162.9700" />
+                    <Position X="163.9699" Y="0.0000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Image_12_0_0" ActionTag="1092883923" Tag="192" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="34.5459" RightMargin="-35.5459" TopMargin="-16.7867" BottomMargin="-130.2133" FlipY="True" Scale9Enable="True" TopEage="14" BottomEage="20" Scale9OriginY="14" Scale9Width="1" Scale9Height="15" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="Image_12_0_0" ActionTag="1092883923" Tag="192" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="35.5459" RightMargin="-36.5459" TopMargin="-16.7865" BottomMargin="-130.2135" FlipY="True" Scale9Enable="True" TopEage="14" BottomEage="20" Scale9OriginY="14" Scale9Width="1" Scale9Height="15" ctype="ImageViewObjectData">
                     <Size X="1.0000" Y="147.0000" />
                     <AnchorPoint ScaleX="0.6099" ScaleY="0.6532" />
-                    <Position X="35.1558" Y="-34.1929" />
+                    <Position X="36.1558" Y="-34.1931" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
@@ -300,25 +300,25 @@
                 <PrePosition X="4.3030" Y="0.6116" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="planet2_text" ActionTag="-390732518" Tag="193" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="49.9300" RightMargin="-129.9300" TopMargin="255.3848" BottomMargin="415.6152" FontSize="22" LabelText="打捞报告" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="planet2_text" ActionTag="-390732518" Tag="193" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="48.9300" RightMargin="-128.9300" TopMargin="255.3849" BottomMargin="415.6151" FontSize="22" LabelText="打捞报告" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="90.0000" Y="33.0000" />
-                <AnchorPoint ScaleY="0.5000" />
-                <Position X="49.9300" Y="432.1152" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="93.9300" Y="432.1151" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="209" G="209" B="209" />
-                <PrePosition X="4.9930" Y="0.6138" />
+                <PrePosition X="9.3930" Y="0.6138" />
                 <PreSize X="9.0000" Y="0.0469" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="209" G="209" B="209" />
               </AbstractNodeData>
-              <AbstractNodeData Name="planetNotice2" ActionTag="1213331739" Tag="199" IconVisible="False" LeftMargin="162.8400" RightMargin="-170.8400" TopMargin="236.6753" BottomMargin="449.3247" ctype="SpriteObjectData">
+              <AbstractNodeData Name="planetNotice2" ActionTag="1213331739" Tag="199" IconVisible="False" LeftMargin="163.8399" RightMargin="-171.8399" TopMargin="236.6754" BottomMargin="449.3246" ctype="SpriteObjectData">
                 <Size X="18.0000" Y="18.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="171.8400" Y="458.3247" />
+                <Position X="172.8399" Y="458.3246" />
                 <Scale ScaleX="0.8000" ScaleY="0.8000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="17.1840" Y="0.6510" />
+                <PrePosition X="17.2840" Y="0.6510" />
                 <PreSize X="1.8000" Y="0.0256" />
                 <FileData Type="Normal" Path="Common/ui/spherical_red.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
@@ -336,20 +336,20 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="selected" ActionTag="-982233769" VisibleForFrame="False" Tag="196" IconVisible="False" LeftMargin="-42.0300" RightMargin="-162.9700" TopMargin="-34.5000" BottomMargin="-34.5000" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="selected" ActionTag="-982233769" VisibleForFrame="False" Tag="196" IconVisible="False" LeftMargin="-41.0301" RightMargin="-163.9699" TopMargin="-34.5000" BottomMargin="-34.5000" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
                     <Size X="205.0000" Y="69.0000" />
                     <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
-                    <Position X="162.9700" />
+                    <Position X="163.9699" Y="0.0000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Image_12_0_0" ActionTag="-2006297233" Tag="197" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="34.5459" RightMargin="-35.5459" TopMargin="-16.7867" BottomMargin="-130.2133" FlipY="True" Scale9Enable="True" TopEage="14" BottomEage="20" Scale9OriginY="14" Scale9Width="1" Scale9Height="15" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="Image_12_0_0" ActionTag="-2006297233" Tag="197" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="35.5459" RightMargin="-36.5459" TopMargin="-16.7867" BottomMargin="-130.2133" FlipY="True" Scale9Enable="True" TopEage="14" BottomEage="20" Scale9OriginY="14" Scale9Width="1" Scale9Height="15" ctype="ImageViewObjectData">
                     <Size X="1.0000" Y="147.0000" />
                     <AnchorPoint ScaleX="0.6099" ScaleY="0.6532" />
-                    <Position X="35.1558" Y="-34.1929" />
+                    <Position X="36.1558" Y="-34.1929" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
@@ -364,25 +364,25 @@
                 <PrePosition X="4.3030" Y="0.5066" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="planet3_text" ActionTag="-1319775234" Tag="198" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="51.0140" RightMargin="-131.0140" TopMargin="328.4600" BottomMargin="342.5400" FontSize="22" LabelText="攻击报告" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="planet3_text" ActionTag="-1319775234" Tag="198" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="50.0139" RightMargin="-130.0139" TopMargin="328.4601" BottomMargin="342.5399" FontSize="22" LabelText="攻击报告" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="90.0000" Y="33.0000" />
-                <AnchorPoint ScaleY="0.5000" />
-                <Position X="51.0140" Y="359.0400" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="95.0139" Y="359.0399" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="209" G="209" B="209" />
-                <PrePosition X="5.1014" Y="0.5100" />
+                <PrePosition X="9.5014" Y="0.5100" />
                 <PreSize X="9.0000" Y="0.0469" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="209" G="209" B="209" />
               </AbstractNodeData>
-              <AbstractNodeData Name="planetNotice3" ActionTag="-2090004198" Tag="200" IconVisible="False" LeftMargin="162.8400" RightMargin="-170.8400" TopMargin="312.5375" BottomMargin="373.4625" ctype="SpriteObjectData">
+              <AbstractNodeData Name="planetNotice3" ActionTag="-2090004198" Tag="200" IconVisible="False" LeftMargin="163.8399" RightMargin="-171.8399" TopMargin="312.5376" BottomMargin="373.4624" ctype="SpriteObjectData">
                 <Size X="18.0000" Y="18.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="171.8400" Y="382.4625" />
+                <Position X="172.8399" Y="382.4624" />
                 <Scale ScaleX="0.8000" ScaleY="0.8000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="17.1840" Y="0.5433" />
+                <PrePosition X="17.2840" Y="0.5433" />
                 <PreSize X="1.8000" Y="0.0256" />
                 <FileData Type="Normal" Path="Common/ui/spherical_red.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
@@ -410,20 +410,20 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="selected" ActionTag="-184133431" VisibleForFrame="False" Tag="54" IconVisible="False" LeftMargin="-42.0300" RightMargin="-162.9700" TopMargin="-34.5000" BottomMargin="-34.5000" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="selected" ActionTag="-184133431" VisibleForFrame="False" Tag="54" IconVisible="False" LeftMargin="-41.0301" RightMargin="-163.9699" TopMargin="-34.4998" BottomMargin="-34.5002" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
                     <Size X="205.0000" Y="69.0000" />
                     <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
-                    <Position X="162.9700" />
+                    <Position X="163.9699" Y="-0.0002" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Image_12_0_0" ActionTag="1901076305" Tag="55" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="34.5459" RightMargin="-35.5459" TopMargin="-16.7867" BottomMargin="-130.2133" FlipY="True" Scale9Enable="True" TopEage="14" BottomEage="20" Scale9OriginY="14" Scale9Width="1" Scale9Height="15" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="Image_12_0_0" ActionTag="1901076305" Tag="55" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="35.5459" RightMargin="-36.5459" TopMargin="-16.7865" BottomMargin="-130.2134" FlipY="True" Scale9Enable="True" TopEage="14" BottomEage="20" Scale9OriginY="14" Scale9Width="1" Scale9Height="15" ctype="ImageViewObjectData">
                     <Size X="1.0000" Y="147.0000" />
                     <AnchorPoint ScaleX="0.6099" ScaleY="0.6532" />
-                    <Position X="35.1558" Y="-34.1929" />
+                    <Position X="36.1558" Y="-34.1931" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
@@ -438,25 +438,25 @@
                 <PrePosition X="4.3030" Y="0.4001" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="planet4_text" ActionTag="-1069557670" Tag="56" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="50.4980" RightMargin="-130.4980" TopMargin="402.4504" BottomMargin="268.5496" FontSize="22" LabelText="攻击报告" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="planet4_text" ActionTag="-1069557670" Tag="56" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="49.4979" RightMargin="-129.4979" TopMargin="402.4505" BottomMargin="268.5495" FontSize="22" LabelText="攻击报告" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="90.0000" Y="33.0000" />
-                <AnchorPoint ScaleY="0.5000" />
-                <Position X="50.4980" Y="285.0496" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="94.4979" Y="285.0495" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="209" G="209" B="209" />
-                <PrePosition X="5.0498" Y="0.4049" />
+                <PrePosition X="9.4498" Y="0.4049" />
                 <PreSize X="9.0000" Y="0.0469" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="209" G="209" B="209" />
               </AbstractNodeData>
-              <AbstractNodeData Name="planetNotice4" ActionTag="-1837604477" Tag="57" IconVisible="False" LeftMargin="162.8400" RightMargin="-170.8400" TopMargin="387.5175" BottomMargin="298.4825" ctype="SpriteObjectData">
+              <AbstractNodeData Name="planetNotice4" ActionTag="-1837604477" Tag="57" IconVisible="False" LeftMargin="163.8399" RightMargin="-171.8399" TopMargin="387.5177" BottomMargin="298.4823" ctype="SpriteObjectData">
                 <Size X="18.0000" Y="18.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="171.8400" Y="307.4825" />
+                <Position X="172.8399" Y="307.4823" />
                 <Scale ScaleX="0.8000" ScaleY="0.8000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="17.1840" Y="0.4368" />
+                <PrePosition X="17.2840" Y="0.4368" />
                 <PreSize X="1.8000" Y="0.0256" />
                 <FileData Type="Normal" Path="Common/ui/spherical_red.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
@@ -574,37 +574,37 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="mailNum" ActionTag="458763458" UserData="leftbottom" Tag="234" RotationSkewX="8.0000" IconVisible="False" LeftMargin="3.3401" RightMargin="1055.6599" TopMargin="695.3923" BottomMargin="48.6077" FontSize="16" LabelText="邮件总数：" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="mailNum" ActionTag="458763458" UserData="leftbottom" Tag="234" RotationSkewX="8.0000" IconVisible="False" LeftMargin="12.3401" RightMargin="1046.6599" TopMargin="695.3923" BottomMargin="48.6077" FontSize="16" LabelText="邮件总数：" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="77.0000" Y="24.0000" />
             <AnchorPoint ScaleY="1.0000" />
-            <Position X="3.3401" Y="72.6077" />
+            <Position X="12.3401" Y="72.6077" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="209" G="209" B="209" />
-            <PrePosition X="0.0029" Y="0.0945" />
+            <PrePosition X="0.0109" Y="0.0945" />
             <PreSize X="0.0678" Y="0.0313" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="209" G="209" B="209" />
           </AbstractNodeData>
-          <AbstractNodeData Name="textMailNum" ActionTag="-569466634" UserData="leftbottom" Tag="235" RotationSkewX="8.0002" IconVisible="False" LeftMargin="93.7141" RightMargin="1012.2859" TopMargin="695.4188" BottomMargin="48.5812" FontSize="16" LabelText="100" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="textMailNum" ActionTag="-569466634" UserData="leftbottom" Tag="235" RotationSkewX="8.0002" IconVisible="False" LeftMargin="102.7141" RightMargin="1003.2859" TopMargin="695.4188" BottomMargin="48.5812" FontSize="16" LabelText="100" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="30.0000" Y="24.0000" />
             <AnchorPoint ScaleY="1.0000" />
-            <Position X="93.7141" Y="72.5812" />
+            <Position X="102.7141" Y="72.5812" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.0825" Y="0.0945" />
+            <PrePosition X="0.0904" Y="0.0945" />
             <PreSize X="0.0264" Y="0.0313" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="sumMail" ActionTag="-1117367956" UserData="leftbottom" Tag="236" RotationSkewX="8.0002" IconVisible="False" LeftMargin="123.2914" RightMargin="976.7086" TopMargin="695.3922" BottomMargin="48.6079" FontSize="16" LabelText="/100" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="sumMail" ActionTag="-1117367956" UserData="leftbottom" Tag="236" RotationSkewX="8.0002" IconVisible="False" LeftMargin="132.2914" RightMargin="967.7086" TopMargin="695.3921" BottomMargin="48.6079" FontSize="16" LabelText="/100" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="36.0000" Y="24.0000" />
             <AnchorPoint ScaleY="1.0000" />
-            <Position X="123.2914" Y="72.6079" />
+            <Position X="132.2914" Y="72.6079" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="209" G="209" B="209" />
-            <PrePosition X="0.1085" Y="0.0945" />
+            <PrePosition X="0.1165" Y="0.0945" />
             <PreSize X="0.0317" Y="0.0313" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />

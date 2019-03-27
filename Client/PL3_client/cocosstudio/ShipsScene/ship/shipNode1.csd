@@ -17,22 +17,22 @@
             <FileData Type="Normal" Path="ShipsScene/ui/ui_avatar_1.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="state_bg_7" ActionTag="-1292032087" Tag="77" IconVisible="False" LeftMargin="19.0700" RightMargin="-23.0700" TopMargin="105.6312" BottomMargin="-132.6312" ctype="SpriteObjectData">
+          <AbstractNodeData Name="state_bg_7" ActionTag="-1292032087" Tag="77" IconVisible="False" LeftMargin="16.0699" RightMargin="-20.0699" TopMargin="105.6312" BottomMargin="-132.6312" ctype="SpriteObjectData">
             <Size X="4.0000" Y="27.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="19.0700" Y="-119.1312" />
-            <Scale ScaleX="22.1154" ScaleY="1.0000" />
+            <Position X="16.0699" Y="-119.1312" />
+            <Scale ScaleX="23.5000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ShipsScene/ui/state_bg.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="ship_state" ActionTag="2076431771" Tag="91" IconVisible="False" LeftMargin="35.3007" RightMargin="-91.3007" TopMargin="110.6312" BottomMargin="-137.6312" FontSize="18" LabelText="出征中" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
-            <Size X="56.0000" Y="27.0000" />
+          <AbstractNodeData Name="ship_state" ActionTag="2076431771" Tag="91" IconVisible="False" LeftMargin="38.3007" RightMargin="-88.3007" TopMargin="112.1312" BottomMargin="-136.1312" FontSize="16" LabelText="出征中" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+            <Size X="50.0000" Y="24.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="63.3007" Y="-124.1312" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Scale ScaleX="0.9000" ScaleY="1.0000" />
             <CColor A="255" R="226" G="239" B="242" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />

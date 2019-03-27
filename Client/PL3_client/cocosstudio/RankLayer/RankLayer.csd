@@ -100,215 +100,215 @@
           <AbstractNodeData Name="leftBg" ActionTag="1595266712" UserData="lefttop" Tag="35" IconVisible="False" LeftMargin="0.0002" RightMargin="955.9998" TopMargin="68.2600" BottomMargin="184.7400" Scale9Enable="True" LeftEage="3" RightEage="3" TopEage="154" BottomEage="154" Scale9OriginX="3" Scale9OriginY="154" Scale9Width="4" Scale9Height="161" ctype="ImageViewObjectData">
             <Size X="180.0000" Y="515.0000" />
             <Children>
-              <AbstractNodeData Name="SHIPEI_leftBg" ActionTag="1804660749" UserData="lefttop" Tag="254" IconVisible="False" VerticalEdge="TopEdge" BottomMargin="-189.0000" Scale9Enable="True" LeftEage="3" RightEage="3" TopEage="154" BottomEage="154" Scale9OriginX="3" Scale9OriginY="154" Scale9Width="4" Scale9Height="161" ctype="ImageViewObjectData">
-                <Size X="180.0000" Y="704.0000" />
+              <AbstractNodeData Name="SHIPEI_leftBg" ActionTag="1804660749" UserData="lefttop" Tag="254" IconVisible="False" VerticalEdge="TopEdge" RightMargin="-5.0000" BottomMargin="-189.0000" Scale9Enable="True" LeftEage="3" RightEage="3" TopEage="154" BottomEage="154" Scale9OriginX="3" Scale9OriginY="154" Scale9Width="4" Scale9Height="161" ctype="ImageViewObjectData">
+                <Size X="185.0000" Y="704.0000" />
                 <AnchorPoint ScaleY="1.0000" />
                 <Position Y="515.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition Y="1.0000" />
-                <PreSize X="1.0000" Y="1.3670" />
+                <PreSize X="1.0278" Y="1.3670" />
                 <FileData Type="Normal" Path="Common/newUI/rw_bottom.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="player_power" ActionTag="-705801360" Alpha="0" Tag="126" IconVisible="False" LeftMargin="1.0900" RightMargin="-6.0900" TopMargin="10.5473" BottomMargin="435.4527" TouchEnable="True" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
-                <Size X="185.0000" Y="69.0000" />
+              <AbstractNodeData Name="player_power" ActionTag="-705801360" Alpha="0" Tag="126" IconVisible="False" LeftMargin="-2.9098" RightMargin="-5.0902" TopMargin="10.5471" BottomMargin="435.4529" TouchEnable="True" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
+                <Size X="188.0000" Y="69.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="1.0900" Y="469.9527" />
+                <Position X="-2.9098" Y="469.9529" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.0061" Y="0.9125" />
-                <PreSize X="1.0278" Y="0.1340" />
+                <PrePosition X="-0.0162" Y="0.9125" />
+                <PreSize X="1.0444" Y="0.1340" />
                 <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Image_23" ActionTag="-512920047" Tag="230" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="84.5936" RightMargin="94.4064" TopMargin="25.7523" BottomMargin="383.2477" TopEage="16" BottomEage="16" Scale9OriginY="16" Scale9Width="1" Scale9Height="17" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="Image_23" ActionTag="-512920047" Tag="230" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="85.5936" RightMargin="93.4064" TopMargin="25.7524" BottomMargin="383.2476" TopEage="16" BottomEage="16" Scale9OriginY="16" Scale9Width="1" Scale9Height="17" ctype="ImageViewObjectData">
                 <Size X="1.0000" Y="106.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="85.0936" Y="436.2477" />
+                <Position X="86.0936" Y="436.2476" />
                 <Scale ScaleX="0.9959" ScaleY="1.4443" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.4727" Y="0.8471" />
+                <PrePosition X="0.4783" Y="0.8471" />
                 <PreSize X="0.0056" Y="0.2058" />
                 <FileData Type="Normal" Path="Common/newUI/line_fg01.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="player_power_text" ActionTag="926834961" Tag="130" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="29.6520" RightMargin="45.3480" TopMargin="33.5260" BottomMargin="457.4740" FontSize="16" LabelText="Player Power" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="player_power_text" ActionTag="926834961" Tag="130" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="30.6520" RightMargin="44.3480" TopMargin="33.5260" BottomMargin="457.4740" FontSize="16" LabelText="Player Power" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="105.0000" Y="24.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="82.1520" Y="469.4740" />
+                <Position X="83.1520" Y="469.4740" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="209" G="209" B="209" />
-                <PrePosition X="0.4564" Y="0.9116" />
+                <PrePosition X="0.4620" Y="0.9116" />
                 <PreSize X="0.5833" Y="0.0466" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="209" G="209" B="209" />
               </AbstractNodeData>
-              <AbstractNodeData Name="PlayerLevel" ActionTag="615886191" Alpha="0" Tag="131" IconVisible="False" LeftMargin="1.0900" RightMargin="-6.0900" TopMargin="81.3260" BottomMargin="364.6740" TouchEnable="True" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
-                <Size X="185.0000" Y="69.0000" />
+              <AbstractNodeData Name="PlayerLevel" ActionTag="615886191" Alpha="0" Tag="131" IconVisible="False" LeftMargin="-2.9098" RightMargin="-5.0902" TopMargin="81.3259" BottomMargin="364.6741" TouchEnable="True" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
+                <Size X="188.0000" Y="69.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="1.0900" Y="399.1740" />
+                <Position X="-2.9098" Y="399.1741" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.0061" Y="0.7751" />
-                <PreSize X="1.0278" Y="0.1340" />
+                <PrePosition X="-0.0162" Y="0.7751" />
+                <PreSize X="1.0444" Y="0.1340" />
                 <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="PlayerLevel_text" ActionTag="1598842185" Tag="134" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="33.6520" RightMargin="49.3480" TopMargin="108.9735" BottomMargin="382.0265" FontSize="16" LabelText="Player Level" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="PlayerLevel_text" ActionTag="1598842185" Tag="134" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="34.6520" RightMargin="48.3480" TopMargin="108.9735" BottomMargin="382.0265" FontSize="16" LabelText="Player Level" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="97.0000" Y="24.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="82.1520" Y="394.0265" />
+                <Position X="83.1520" Y="394.0265" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="209" G="209" B="209" />
-                <PrePosition X="0.4564" Y="0.7651" />
+                <PrePosition X="0.4620" Y="0.7651" />
                 <PreSize X="0.5389" Y="0.0466" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="209" G="209" B="209" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Image_23_0" ActionTag="-1907396573" Tag="370" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="84.5937" RightMargin="94.4063" TopMargin="95.9723" BottomMargin="312.0277" TopEage="16" BottomEage="16" Scale9OriginY="16" Scale9Width="1" Scale9Height="17" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="Image_23_0" ActionTag="-1907396573" Tag="370" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="85.5937" RightMargin="93.4063" TopMargin="95.9723" BottomMargin="312.0277" TopEage="16" BottomEage="16" Scale9OriginY="16" Scale9Width="1" Scale9Height="17" ctype="ImageViewObjectData">
                 <Size X="1.0000" Y="107.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="85.0937" Y="365.5277" />
+                <Position X="86.0937" Y="365.5277" />
                 <Scale ScaleX="0.9959" ScaleY="1.4443" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.4727" Y="0.7098" />
+                <PrePosition X="0.4783" Y="0.7098" />
                 <PreSize X="0.0056" Y="0.2078" />
                 <FileData Type="Normal" Path="Common/newUI/line_fg01.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="CentreLevel" ActionTag="2077839042" Alpha="0" Tag="135" IconVisible="False" LeftMargin="1.0900" RightMargin="-6.0900" TopMargin="150.5436" BottomMargin="295.4564" TouchEnable="True" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
-                <Size X="185.0000" Y="69.0000" />
+              <AbstractNodeData Name="CentreLevel" ActionTag="2077839042" Alpha="0" Tag="135" IconVisible="False" LeftMargin="-2.9098" RightMargin="-5.0902" TopMargin="150.5436" BottomMargin="295.4564" TouchEnable="True" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
+                <Size X="188.0000" Y="69.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="1.0900" Y="329.9564" />
+                <Position X="-2.9098" Y="329.9564" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.0061" Y="0.6407" />
-                <PreSize X="1.0278" Y="0.1340" />
+                <PrePosition X="-0.0162" Y="0.6407" />
+                <PreSize X="1.0444" Y="0.1340" />
                 <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Image_23_0_0" ActionTag="-1450172595" Tag="371" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="84.5936" RightMargin="94.4064" TopMargin="166.1824" BottomMargin="242.8176" TopEage="16" BottomEage="16" Scale9OriginY="16" Scale9Width="1" Scale9Height="17" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="Image_23_0_0" ActionTag="-1450172595" Tag="371" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="85.5936" RightMargin="93.4064" TopMargin="166.1824" BottomMargin="242.8176" TopEage="16" BottomEage="16" Scale9OriginY="16" Scale9Width="1" Scale9Height="17" ctype="ImageViewObjectData">
                 <Size X="1.0000" Y="106.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="85.0936" Y="295.8176" />
+                <Position X="86.0936" Y="295.8176" />
                 <Scale ScaleX="0.9959" ScaleY="1.4443" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.4727" Y="0.5744" />
+                <PrePosition X="0.4783" Y="0.5744" />
                 <PreSize X="0.0056" Y="0.2058" />
                 <FileData Type="Normal" Path="Common/newUI/line_fg01.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="CentreLevel_text" ActionTag="-367360800" Tag="138" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="45.7000" RightMargin="49.3000" TopMargin="181.3310" BottomMargin="309.6690" FontSize="16" LabelText="Main Level" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="CentreLevel_text" ActionTag="-367360800" Tag="138" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="46.7000" RightMargin="48.3000" TopMargin="181.3311" BottomMargin="309.6689" FontSize="16" LabelText="Main Level" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="85.0000" Y="24.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="88.2000" Y="321.6690" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Position X="89.2000" Y="321.6689" />
+                <Scale ScaleX="0.9000" ScaleY="1.0000" />
                 <CColor A="255" R="209" G="209" B="209" />
-                <PrePosition X="0.4900" Y="0.6246" />
+                <PrePosition X="0.4956" Y="0.6246" />
                 <PreSize X="0.4722" Y="0.0466" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="209" G="209" B="209" />
               </AbstractNodeData>
-              <AbstractNodeData Name="leaguePower" ActionTag="-539508354" Alpha="0" Tag="143" IconVisible="False" LeftMargin="1.0900" RightMargin="-6.0900" TopMargin="220.5428" BottomMargin="225.4572" TouchEnable="True" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
-                <Size X="185.0000" Y="69.0000" />
+              <AbstractNodeData Name="leaguePower" ActionTag="-539508354" Alpha="0" Tag="143" IconVisible="False" LeftMargin="-2.9098" RightMargin="-5.0902" TopMargin="220.5426" BottomMargin="225.4574" TouchEnable="True" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
+                <Size X="188.0000" Y="69.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="1.0900" Y="259.9572" />
+                <Position X="-2.9098" Y="259.9574" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.0061" Y="0.5048" />
-                <PreSize X="1.0278" Y="0.1340" />
+                <PrePosition X="-0.0162" Y="0.5048" />
+                <PreSize X="1.0444" Y="0.1340" />
                 <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Image_23_0_0_0" ActionTag="-1093087189" Tag="372" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="84.5936" RightMargin="94.4064" TopMargin="236.9027" BottomMargin="172.0973" TopEage="16" BottomEage="16" Scale9OriginY="16" Scale9Width="1" Scale9Height="17" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="Image_23_0_0_0" ActionTag="-1093087189" Tag="372" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="85.5936" RightMargin="93.4064" TopMargin="236.9028" BottomMargin="172.0972" TopEage="16" BottomEage="16" Scale9OriginY="16" Scale9Width="1" Scale9Height="17" ctype="ImageViewObjectData">
                 <Size X="1.0000" Y="106.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="85.0936" Y="225.0973" />
+                <Position X="86.0936" Y="225.0972" />
                 <Scale ScaleX="0.9959" ScaleY="1.4443" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.4727" Y="0.4371" />
+                <PrePosition X="0.4783" Y="0.4371" />
                 <PreSize X="0.0056" Y="0.2058" />
                 <FileData Type="Normal" Path="Common/newUI/line_fg01.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="leaguePower_text" ActionTag="-1251145799" Tag="146" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="30.1520" RightMargin="45.8480" TopMargin="244.4700" BottomMargin="246.5300" FontSize="16" LabelText="Group Power" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="leaguePower_text" ActionTag="-1251145799" Tag="146" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="31.1520" RightMargin="44.8480" TopMargin="244.4700" BottomMargin="246.5300" FontSize="16" LabelText="Group Power" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="104.0000" Y="24.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="82.1520" Y="258.5300" />
+                <Position X="83.1520" Y="258.5300" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="209" G="209" B="209" />
-                <PrePosition X="0.4564" Y="0.5020" />
+                <PrePosition X="0.4620" Y="0.5020" />
                 <PreSize X="0.5778" Y="0.0466" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="209" G="209" B="209" />
               </AbstractNodeData>
-              <AbstractNodeData Name="arena_rank" ActionTag="2119910883" Alpha="0" Tag="147" IconVisible="False" LeftMargin="0.9997" RightMargin="-5.9997" TopMargin="292.6828" BottomMargin="153.3172" TouchEnable="True" Scale9Enable="True" LeftEage="13" RightEage="17" TopEage="22" BottomEage="22" Scale9OriginX="13" Scale9OriginY="22" Scale9Width="178" Scale9Height="18" ctype="ImageViewObjectData">
-                <Size X="185.0000" Y="69.0000" />
+              <AbstractNodeData Name="arena_rank" ActionTag="2119910883" Alpha="0" Tag="147" IconVisible="False" LeftMargin="-3.0002" RightMargin="-4.9998" TopMargin="292.6828" BottomMargin="153.3172" TouchEnable="True" Scale9Enable="True" LeftEage="13" RightEage="17" TopEage="22" BottomEage="22" Scale9OriginX="13" Scale9OriginY="22" Scale9Width="178" Scale9Height="18" ctype="ImageViewObjectData">
+                <Size X="188.0000" Y="69.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="0.9997" Y="187.8172" />
+                <Position X="-3.0002" Y="187.8172" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.0056" Y="0.3647" />
-                <PreSize X="1.0278" Y="0.1340" />
+                <PrePosition X="-0.0167" Y="0.3647" />
+                <PreSize X="1.0444" Y="0.1340" />
                 <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Image_23_0_0_0_0" ActionTag="-62732999" Tag="373" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="84.5937" RightMargin="94.4063" TopMargin="-43.8875" BottomMargin="453.8875" TopEage="16" BottomEage="16" Scale9OriginY="16" Scale9Width="1" Scale9Height="17" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="Image_23_0_0_0_0" ActionTag="-62732999" Tag="373" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="85.5937" RightMargin="93.4063" TopMargin="-43.8875" BottomMargin="453.8875" TopEage="16" BottomEage="16" Scale9OriginY="16" Scale9Width="1" Scale9Height="17" ctype="ImageViewObjectData">
                 <Size X="1.0000" Y="105.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="85.0937" Y="506.3875" />
+                <Position X="86.0937" Y="506.3875" />
                 <Scale ScaleX="0.9959" ScaleY="1.4443" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.4727" Y="0.9833" />
+                <PrePosition X="0.4783" Y="0.9833" />
                 <PreSize X="0.0056" Y="0.2039" />
                 <FileData Type="Normal" Path="Common/newUI/line_fg01.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="arena_rank_text" ActionTag="949584782" Tag="150" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="36.6520" RightMargin="52.3480" TopMargin="314.0465" BottomMargin="176.9535" FontSize="16" LabelText="Arena Rank" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="arena_rank_text" ActionTag="949584782" Tag="150" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="37.6520" RightMargin="51.3480" TopMargin="314.0465" BottomMargin="176.9535" FontSize="16" LabelText="Arena Rank" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="91.0000" Y="24.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="82.1520" Y="188.9535" />
+                <Position X="83.1520" Y="188.9535" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="209" G="209" B="209" />
-                <PrePosition X="0.4564" Y="0.3669" />
+                <PrePosition X="0.4620" Y="0.3669" />
                 <PreSize X="0.5056" Y="0.0466" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="209" G="209" B="209" />
               </AbstractNodeData>
-              <AbstractNodeData Name="trial_rank" ActionTag="-992288444" Alpha="0" Tag="151" IconVisible="False" LeftMargin="0.9998" RightMargin="-5.9998" TopMargin="366.6517" BottomMargin="79.3483" TouchEnable="True" Scale9Enable="True" LeftEage="13" RightEage="17" TopEage="22" BottomEage="22" Scale9OriginX="13" Scale9OriginY="22" Scale9Width="178" Scale9Height="18" ctype="ImageViewObjectData">
-                <Size X="185.0000" Y="69.0000" />
+              <AbstractNodeData Name="trial_rank" ActionTag="-992288444" Alpha="0" Tag="151" IconVisible="False" LeftMargin="-3.0001" RightMargin="-4.9999" TopMargin="366.6516" BottomMargin="79.3484" TouchEnable="True" Scale9Enable="True" LeftEage="13" RightEage="17" TopEage="22" BottomEage="22" Scale9OriginX="13" Scale9OriginY="22" Scale9Width="178" Scale9Height="18" ctype="ImageViewObjectData">
+                <Size X="188.0000" Y="69.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="0.9998" Y="113.8483" />
+                <Position X="-3.0001" Y="113.8484" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.0056" Y="0.2211" />
-                <PreSize X="1.0278" Y="0.1340" />
+                <PrePosition X="-0.0167" Y="0.2211" />
+                <PreSize X="1.0444" Y="0.1340" />
                 <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Image_23_0_0_0_0_0" ActionTag="-1432627154" Tag="374" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="85.8528" RightMargin="93.1472" TopMargin="310.6149" BottomMargin="98.3851" TopEage="16" BottomEage="16" Scale9OriginY="16" Scale9Width="1" Scale9Height="17" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="Image_23_0_0_0_0_0" ActionTag="-1432627154" Tag="374" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="86.8528" RightMargin="92.1472" TopMargin="310.6149" BottomMargin="98.3851" TopEage="16" BottomEage="16" Scale9OriginY="16" Scale9Width="1" Scale9Height="17" ctype="ImageViewObjectData">
                 <Size X="1.0000" Y="106.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="86.3528" Y="151.3851" />
+                <Position X="87.3528" Y="151.3851" />
                 <Scale ScaleX="0.9959" ScaleY="1.4443" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.4797" Y="0.2940" />
+                <PrePosition X="0.4853" Y="0.2940" />
                 <PreSize X="0.0056" Y="0.2058" />
                 <FileData Type="Normal" Path="Common/newUI/line_fg01.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="trial_rank_text" ActionTag="1796537526" Tag="154" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="41.6520" RightMargin="57.3480" TopMargin="389.0820" BottomMargin="101.9180" FontSize="16" LabelText="Trial Rank" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="trial_rank_text" ActionTag="1796537526" Tag="154" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="42.6520" RightMargin="56.3480" TopMargin="389.0820" BottomMargin="101.9180" FontSize="16" LabelText="Trial Rank" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="81.0000" Y="24.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="82.1520" Y="113.9180" />
+                <Position X="83.1520" Y="113.9180" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="209" G="209" B="209" />
-                <PrePosition X="0.4564" Y="0.2212" />
+                <PrePosition X="0.4620" Y="0.2212" />
                 <PreSize X="0.4500" Y="0.0466" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="209" G="209" B="209" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Image_23_0_0_0_0_0_0" ActionTag="-465300250" Tag="529" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="85.8501" RightMargin="93.1499" TopMargin="383.2863" BottomMargin="25.7137" TopEage="16" BottomEage="16" Scale9OriginY="16" Scale9Width="1" Scale9Height="17" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="Image_23_0_0_0_0_0_0" ActionTag="-465300250" Tag="529" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="86.8501" RightMargin="92.1499" TopMargin="383.2863" BottomMargin="25.7137" TopEage="16" BottomEage="16" Scale9OriginY="16" Scale9Width="1" Scale9Height="17" ctype="ImageViewObjectData">
                 <Size X="1.0000" Y="106.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="86.3501" Y="78.7137" />
+                <Position X="87.3501" Y="78.7137" />
                 <Scale ScaleX="0.9959" ScaleY="1.4443" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.4797" Y="0.1528" />
+                <PrePosition X="0.4853" Y="0.1528" />
                 <PreSize X="0.0056" Y="0.2058" />
                 <FileData Type="Normal" Path="Common/newUI/line_fg01.png" Plist="" />
               </AbstractNodeData>
@@ -321,27 +321,27 @@
             <PreSize X="0.1585" Y="0.6706" />
             <FileData Type="Normal" Path="Common/newUI/rw_bottom.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="btnReward" ActionTag="-69370128" UserData="lefttop" Tag="36" IconVisible="False" LeftMargin="853.1913" RightMargin="132.8087" TopMargin="91.8286" BottomMargin="636.1714" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="100" Scale9Height="18" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="btnReward" ActionTag="-69370128" UserData="lefttop" Tag="36" IconVisible="False" LeftMargin="859.1915" RightMargin="126.8085" TopMargin="91.8286" BottomMargin="636.1714" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="100" Scale9Height="18" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="150.0000" Y="40.0000" />
             <Children>
-              <AbstractNodeData Name="text" ActionTag="-1454831592" Tag="515" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="46.5000" RightMargin="46.5000" TopMargin="8.5000" BottomMargin="-1.5000" FontSize="22" LabelText="Rank" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="57.0000" Y="33.0000" />
+              <AbstractNodeData Name="text" ActionTag="-1454831592" Tag="515" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="49.0000" RightMargin="49.0000" TopMargin="10.0000" FontSize="20" LabelText="Rank" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="52.0000" Y="30.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="75.0000" Y="15.0000" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Scale ScaleX="0.9000" ScaleY="1.0000" />
                 <CColor A="255" R="214" G="229" B="245" />
                 <PrePosition X="0.5000" Y="0.3750" />
-                <PreSize X="0.3800" Y="0.8250" />
+                <PreSize X="0.3467" Y="0.7500" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="214" G="229" B="245" />
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
-            <Position X="928.1913" Y="676.1714" />
+            <Position X="934.1915" Y="676.1714" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.8171" Y="0.8804" />
+            <PrePosition X="0.8224" Y="0.8804" />
             <PreSize X="0.1320" Y="0.0521" />
             <TextColor A="255" R="65" G="65" B="70" />
             <DisabledFileData Type="Normal" Path="Common/newUI/button_blue_grray.png" Plist="" />
@@ -350,13 +350,13 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="pos" ActionTag="-1009693589" UserData="lefttop" Tag="440" IconVisible="True" LeftMargin="222.7931" RightMargin="913.2069" TopMargin="102.5937" BottomMargin="665.4063" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="pos" ActionTag="-1009693589" UserData="lefttop" Tag="440" IconVisible="True" LeftMargin="228.7931" RightMargin="907.2069" TopMargin="102.5937" BottomMargin="665.4063" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
-            <Position X="222.7931" Y="665.4063" />
+            <Position X="228.7931" Y="665.4063" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.1961" Y="0.8664" />
+            <PrePosition X="0.2014" Y="0.8664" />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
           <AbstractNodeData Name="lineBottom" ActionTag="1336331038" Alpha="0" UserData="lefttop" Tag="96" IconVisible="False" LeftMargin="409.7946" RightMargin="242.2054" TopMargin="589.1886" BottomMargin="176.8114" LeftEage="159" RightEage="159" Scale9OriginX="159" Scale9Width="166" Scale9Height="2" ctype="ImageViewObjectData">
@@ -369,13 +369,13 @@
             <PreSize X="0.4261" Y="0.0026" />
             <FileData Type="Normal" Path="Common/newUI/line_top01.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="list" ActionTag="1875444683" UserData="lefttop" Tag="97" IconVisible="False" LeftMargin="212.8546" RightMargin="81.1454" TopMargin="148.0428" BottomMargin="178.9572" TouchEnable="True" ClipAble="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" IsBounceEnabled="True" ScrollDirectionType="Vertical" ctype="ScrollViewObjectData">
+          <AbstractNodeData Name="list" ActionTag="1875444683" UserData="lefttop" Tag="97" IconVisible="False" LeftMargin="218.8546" RightMargin="75.1454" TopMargin="148.0428" BottomMargin="178.9572" TouchEnable="True" ClipAble="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" IsBounceEnabled="True" ScrollDirectionType="Vertical" ctype="ScrollViewObjectData">
             <Size X="842.0000" Y="441.0000" />
             <AnchorPoint ScaleY="1.0000" />
-            <Position X="212.8546" Y="619.9572" />
+            <Position X="218.8546" Y="619.9572" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.1874" Y="0.8072" />
+            <PrePosition X="0.1927" Y="0.8072" />
             <PreSize X="0.7412" Y="0.5742" />
             <SingleColor A="255" R="255" G="150" B="100" />
             <FirstColor A="255" R="255" G="150" B="100" />

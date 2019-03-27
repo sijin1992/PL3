@@ -622,8 +622,8 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ShipsScene/ui/break_bg.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="break" ActionTag="-1230824962" Tag="1229" IconVisible="False" LeftMargin="56.6259" RightMargin="-103.6259" TopMargin="327.8100" BottomMargin="-360.8100" FontSize="22" LabelText="突破" ShadowOffsetX="1.0000" ShadowOffsetY="-1.0000" ctype="TextObjectData">
-            <Size X="47.0000" Y="33.0000" />
+          <AbstractNodeData Name="break" ActionTag="-1230824962" Tag="1229" IconVisible="False" LeftMargin="56.6259" RightMargin="-205.6259" TopMargin="327.8100" BottomMargin="-360.8100" FontSize="22" LabelText="Breakthrough" ShadowOffsetX="1.0000" ShadowOffsetY="-1.0000" ctype="TextObjectData">
+            <Size X="149.0000" Y="33.0000" />
             <AnchorPoint ScaleY="0.5000" />
             <Position X="56.6259" Y="-344.3100" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -634,10 +634,10 @@
             <OutlineColor A="255" R="0" G="0" B="0" />
             <ShadowColor A="255" R="226" G="239" B="242" />
           </AbstractNodeData>
-          <AbstractNodeData Name="text_des1" ActionTag="717299029" Tag="1230" IconVisible="False" LeftMargin="135.6114" RightMargin="-203.6114" TopMargin="337.6407" BottomMargin="-358.6407" FontSize="14" LabelText="需要等级：" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+          <AbstractNodeData Name="text_des1" ActionTag="717299029" Tag="1230" IconVisible="False" LeftMargin="214.6132" RightMargin="-282.6132" TopMargin="337.6407" BottomMargin="-358.6407" FontSize="14" LabelText="需要等级：" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
             <Size X="68.0000" Y="21.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="135.6114" Y="-348.1407" />
+            <Position X="214.6132" Y="-348.1407" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="230" G="230" B="250" />
             <PrePosition />
@@ -646,10 +646,10 @@
             <OutlineColor A="255" R="0" G="0" B="0" />
             <ShadowColor A="255" R="226" G="239" B="242" />
           </AbstractNodeData>
-          <AbstractNodeData Name="break_num" ActionTag="-558952058" Tag="1232" IconVisible="False" LeftMargin="202.8511" RightMargin="-221.8511" TopMargin="337.7256" BottomMargin="-358.7256" TouchEnable="True" FontSize="14" LabelText="60" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="break_num" ActionTag="-558952058" Tag="1232" IconVisible="False" LeftMargin="281.8533" RightMargin="-300.8533" TopMargin="337.7256" BottomMargin="-358.7256" TouchEnable="True" FontSize="14" LabelText="60" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="19.0000" Y="21.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="202.8511" Y="-348.2256" />
+            <Position X="281.8533" Y="-348.2256" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="33" G="255" B="70" />
             <PrePosition />
@@ -688,17 +688,17 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ShipsScene/ship/BreakNode.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="break_btn" ActionTag="-240327551" Tag="1275" IconVisible="False" LeftMargin="374.3387" RightMargin="-485.3387" TopMargin="408.3741" BottomMargin="-456.3741" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="14" RightEage="9" TopEage="11" BottomEage="9" Scale9OriginX="14" Scale9OriginY="11" Scale9Width="88" Scale9Height="28" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-            <Size X="111.0000" Y="48.0000" />
+          <AbstractNodeData Name="break_btn" ActionTag="-240327551" Tag="1275" IconVisible="False" LeftMargin="367.3387" RightMargin="-492.3387" TopMargin="408.3741" BottomMargin="-456.3741" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="14" RightEage="9" TopEage="11" BottomEage="9" Scale9OriginX="14" Scale9OriginY="11" Scale9Width="88" Scale9Height="28" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+            <Size X="125.0000" Y="48.0000" />
             <Children>
-              <AbstractNodeData Name="text" ActionTag="-1017260887" Tag="1276" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="24.9672" RightMargin="26.0328" TopMargin="9.9193" BottomMargin="2.0807" FontSize="24" LabelText="突  破" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
-                <Size X="60.0000" Y="36.0000" />
+              <AbstractNodeData Name="text" ActionTag="-1017260887" Tag="1276" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="2.4000" RightMargin="3.6000" TopMargin="14.4193" BottomMargin="6.5807" FontSize="18" LabelText="Breakthrough" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+                <Size X="119.0000" Y="27.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="54.9672" Y="20.0807" />
+                <Position X="61.9000" Y="20.0807" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="226" G="239" B="242" />
                 <PrePosition X="0.4952" Y="0.4183" />
-                <PreSize X="0.5405" Y="0.7500" />
+                <PreSize X="0.9520" Y="0.5625" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="226" G="239" B="242" />

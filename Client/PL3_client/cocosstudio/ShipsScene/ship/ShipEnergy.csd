@@ -16,7 +16,7 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ShipsScene/ui/info_bg.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="blood" ActionTag="1975294827" Tag="426" IconVisible="True" LeftMargin="-8.2180" RightMargin="8.2180" TopMargin="18.9997" BottomMargin="-18.9997" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="blood" ActionTag="1975294827" Tag="426" IconVisible="True" LeftMargin="-11.2180" RightMargin="11.2180" TopMargin="18.9996" BottomMargin="-18.9996" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
               <AbstractNodeData Name="Image_41_3" ActionTag="-1428478583" Tag="427" IconVisible="False" LeftMargin="-2.6322" RightMargin="-78.3678" TopMargin="-17.8337" BottomMargin="-54.1663" LeftEage="26" RightEage="26" TopEage="23" BottomEage="23" Scale9OriginX="26" Scale9OriginY="23" Scale9Width="29" Scale9Height="26" ctype="ImageViewObjectData">
@@ -78,13 +78,13 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint />
-            <Position X="-8.2180" Y="-18.9997" />
+            <Position X="-11.2180" Y="-18.9996" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="atk" ActionTag="1753345620" Tag="421" IconVisible="True" LeftMargin="-6.4067" RightMargin="6.4067" TopMargin="52.8157" BottomMargin="-52.8157" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="atk" ActionTag="1753345620" Tag="421" IconVisible="True" LeftMargin="-9.4067" RightMargin="9.4067" TopMargin="52.8157" BottomMargin="-52.8157" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
               <AbstractNodeData Name="Image_41_3" ActionTag="-704754456" Tag="422" IconVisible="False" LeftMargin="-2.6322" RightMargin="-78.3678" TopMargin="-17.8337" BottomMargin="-54.1663" LeftEage="26" RightEage="26" TopEage="23" BottomEage="23" Scale9OriginX="26" Scale9OriginY="23" Scale9Width="29" Scale9Height="26" ctype="ImageViewObjectData">
@@ -146,13 +146,13 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint />
-            <Position X="-6.4067" Y="-52.8157" />
+            <Position X="-9.4067" Y="-52.8157" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="crit" ActionTag="-620334780" Tag="416" IconVisible="True" LeftMargin="-7.4155" RightMargin="7.4155" TopMargin="120.5213" BottomMargin="-120.5213" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="crit" ActionTag="-620334780" Tag="416" IconVisible="True" LeftMargin="-10.4155" RightMargin="10.4155" TopMargin="120.5212" BottomMargin="-120.5212" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
               <AbstractNodeData Name="Image_41_3" ActionTag="-738449309" Tag="417" IconVisible="False" LeftMargin="-2.6322" RightMargin="-78.3678" TopMargin="-17.8337" BottomMargin="-54.1663" LeftEage="26" RightEage="26" TopEage="23" BottomEage="23" Scale9OriginX="26" Scale9OriginY="23" Scale9Width="29" Scale9Height="26" ctype="ImageViewObjectData">
@@ -214,13 +214,13 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint />
-            <Position X="-7.4155" Y="-120.5213" />
+            <Position X="-10.4155" Y="-120.5212" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="target" ActionTag="-1860485475" Tag="411" IconVisible="True" LeftMargin="-6.8244" RightMargin="6.8244" TopMargin="86.6133" BottomMargin="-86.6133" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="target" ActionTag="-1860485475" Tag="411" IconVisible="True" LeftMargin="-9.8244" RightMargin="9.8244" TopMargin="86.6132" BottomMargin="-86.6132" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
               <AbstractNodeData Name="Image_41_3" ActionTag="730578658" Tag="412" IconVisible="False" LeftMargin="-2.6322" RightMargin="-78.3678" TopMargin="-17.8337" BottomMargin="-54.1663" LeftEage="26" RightEage="26" TopEage="23" BottomEage="23" Scale9OriginX="26" Scale9OriginY="23" Scale9Width="29" Scale9Height="26" ctype="ImageViewObjectData">
@@ -282,7 +282,7 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint />
-            <Position X="-6.8244" Y="-86.6133" />
+            <Position X="-9.8244" Y="-86.6132" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -560,7 +560,7 @@
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="speed" ActionTag="1709086258" Tag="386" IconVisible="True" LeftMargin="-6.5514" RightMargin="6.5514" TopMargin="154.1348" BottomMargin="-154.1348" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="speed" ActionTag="1709086258" Tag="386" IconVisible="True" LeftMargin="-9.5514" RightMargin="9.5514" TopMargin="154.1347" BottomMargin="-154.1347" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
               <AbstractNodeData Name="Image_41_3" ActionTag="2017911508" Tag="387" IconVisible="False" LeftMargin="-2.6322" RightMargin="-78.3678" TopMargin="-17.8337" BottomMargin="-54.1663" LeftEage="26" RightEage="26" TopEage="23" BottomEage="23" Scale9OriginX="26" Scale9OriginY="23" Scale9Width="29" Scale9Height="26" ctype="ImageViewObjectData">
@@ -622,7 +622,7 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint />
-            <Position X="-6.5514" Y="-154.1348" />
+            <Position X="-9.5514" Y="-154.1347" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -661,7 +661,7 @@
             <FileData Type="Normal" Path="ShipsScene/ui/name_bg.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="res1_node" ActionTag="656171924" Tag="463" IconVisible="True" LeftMargin="-6.5514" RightMargin="6.5514" TopMargin="223.5781" BottomMargin="-223.5781" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="res1_node" ActionTag="656171924" Tag="463" IconVisible="True" LeftMargin="-9.5514" RightMargin="9.5514" TopMargin="223.5780" BottomMargin="-223.5780" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
               <AbstractNodeData Name="icon" ActionTag="-645100088" Tag="510" IconVisible="False" LeftMargin="0.1979" RightMargin="-72.1979" TopMargin="-25.3849" BottomMargin="-46.6151" ctype="SpriteObjectData">
@@ -761,10 +761,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="33" G="255" B="70" />
               </AbstractNodeData>
-              <AbstractNodeData Name="energy_bg" ActionTag="-791520335" Tag="516" IconVisible="False" LeftMargin="119.7450" RightMargin="-147.7450" TopMargin="-8.7612" BottomMargin="-46.2388" ctype="SpriteObjectData">
+              <AbstractNodeData Name="energy_bg" ActionTag="-791520335" Tag="516" IconVisible="False" LeftMargin="124.7446" RightMargin="-152.7446" TopMargin="-8.7612" BottomMargin="-46.2388" ctype="SpriteObjectData">
                 <Size X="28.0000" Y="55.0000" />
                 <AnchorPoint ScaleY="0.5018" />
-                <Position X="119.7450" Y="-18.6398" />
+                <Position X="124.7446" Y="-18.6398" />
                 <Scale ScaleX="10.2351" ScaleY="0.2613" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -772,20 +772,20 @@
                 <FileData Type="Normal" Path="Common/newUI/energy_bg.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="energy_line" ActionTag="-596676420" Tag="285" IconVisible="False" LeftMargin="120.5554" RightMargin="-405.5554" TopMargin="12.0912" BottomMargin="-25.0912" LeftEage="76" RightEage="76" TopEage="4" BottomEage="4" Scale9OriginX="76" Scale9OriginY="4" Scale9Width="81" Scale9Height="5" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="energy_line" ActionTag="-596676420" Tag="285" IconVisible="False" LeftMargin="125.5552" RightMargin="-410.5552" TopMargin="12.0912" BottomMargin="-25.0912" LeftEage="76" RightEage="76" TopEage="4" BottomEage="4" Scale9OriginX="76" Scale9OriginY="4" Scale9Width="81" Scale9Height="5" ctype="ImageViewObjectData">
                 <Size X="285.0000" Y="13.0000" />
                 <AnchorPoint ScaleY="0.5082" />
-                <Position X="120.5554" Y="-18.4846" />
+                <Position X="125.5552" Y="-18.4846" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Normal" Path="Common/newUI/energy_line.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="energy_hd" ActionTag="-1889095928" VisibleForFrame="False" Tag="217" IconVisible="False" LeftMargin="353.2078" RightMargin="-375.2078" TopMargin="11.6819" BottomMargin="-36.6819" LeftEage="7" RightEage="7" TopEage="8" BottomEage="8" Scale9OriginX="7" Scale9OriginY="8" Scale9Width="8" Scale9Height="9" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="energy_hd" ActionTag="-1889095928" VisibleForFrame="False" Tag="217" IconVisible="False" LeftMargin="358.2075" RightMargin="-380.2075" TopMargin="11.6819" BottomMargin="-36.6819" LeftEage="7" RightEage="7" TopEage="8" BottomEage="8" Scale9OriginX="7" Scale9OriginY="8" Scale9Width="8" Scale9Height="9" ctype="ImageViewObjectData">
                 <Size X="22.0000" Y="25.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="364.2078" Y="-24.1819" />
+                <Position X="369.2075" Y="-24.1819" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -794,13 +794,13 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint />
-            <Position X="-6.5514" Y="-223.5781" />
+            <Position X="-9.5514" Y="-223.5780" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="res2_node" ActionTag="-422402410" Tag="519" IconVisible="True" LeftMargin="-6.3951" RightMargin="6.3951" TopMargin="277.8726" BottomMargin="-277.8726" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="res2_node" ActionTag="-422402410" Tag="519" IconVisible="True" LeftMargin="-9.3951" RightMargin="9.3951" TopMargin="277.8725" BottomMargin="-277.8725" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
               <AbstractNodeData Name="icon" ActionTag="998862644" Tag="520" IconVisible="False" LeftMargin="6.1979" RightMargin="-66.1979" TopMargin="-29.8849" BottomMargin="-51.1151" ctype="SpriteObjectData">
@@ -900,10 +900,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="33" G="255" B="70" />
               </AbstractNodeData>
-              <AbstractNodeData Name="energy_bg" ActionTag="1076210963" Tag="526" IconVisible="False" LeftMargin="119.7448" RightMargin="-147.7448" TopMargin="-8.7626" BottomMargin="-46.2374" ctype="SpriteObjectData">
+              <AbstractNodeData Name="energy_bg" ActionTag="1076210963" Tag="526" IconVisible="False" LeftMargin="124.7446" RightMargin="-152.7446" TopMargin="-8.7626" BottomMargin="-46.2374" ctype="SpriteObjectData">
                 <Size X="28.0000" Y="55.0000" />
                 <AnchorPoint ScaleY="0.5018" />
-                <Position X="119.7448" Y="-18.6384" />
+                <Position X="124.7446" Y="-18.6384" />
                 <Scale ScaleX="10.2351" ScaleY="0.2613" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -911,20 +911,20 @@
                 <FileData Type="Normal" Path="Common/newUI/energy_bg.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="energy_line" ActionTag="1317291412" Tag="285" IconVisible="False" LeftMargin="120.5552" RightMargin="-405.5552" TopMargin="12.0898" BottomMargin="-25.0898" LeftEage="76" RightEage="76" TopEage="4" BottomEage="4" Scale9OriginX="76" Scale9OriginY="4" Scale9Width="81" Scale9Height="5" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="energy_line" ActionTag="1317291412" Tag="285" IconVisible="False" LeftMargin="125.5551" RightMargin="-410.5551" TopMargin="12.0898" BottomMargin="-25.0898" LeftEage="76" RightEage="76" TopEage="4" BottomEage="4" Scale9OriginX="76" Scale9OriginY="4" Scale9Width="81" Scale9Height="5" ctype="ImageViewObjectData">
                 <Size X="285.0000" Y="13.0000" />
                 <AnchorPoint ScaleY="0.5082" />
-                <Position X="120.5552" Y="-18.4832" />
+                <Position X="125.5551" Y="-18.4832" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Normal" Path="Common/newUI/energy_line.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="energy_hd" ActionTag="782169376" VisibleForFrame="False" Tag="218" IconVisible="False" LeftMargin="353.9354" RightMargin="-375.9354" TopMargin="11.3276" BottomMargin="-36.3276" LeftEage="7" RightEage="7" TopEage="8" BottomEage="8" Scale9OriginX="7" Scale9OriginY="8" Scale9Width="8" Scale9Height="9" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="energy_hd" ActionTag="782169376" VisibleForFrame="False" Tag="218" IconVisible="False" LeftMargin="358.9351" RightMargin="-380.9351" TopMargin="11.3276" BottomMargin="-36.3276" LeftEage="7" RightEage="7" TopEage="8" BottomEage="8" Scale9OriginX="7" Scale9OriginY="8" Scale9Width="8" Scale9Height="9" ctype="ImageViewObjectData">
                 <Size X="22.0000" Y="25.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="364.9354" Y="-23.8276" />
+                <Position X="369.9351" Y="-23.8276" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -933,13 +933,13 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint />
-            <Position X="-6.3951" Y="-277.8726" />
+            <Position X="-9.3951" Y="-277.8725" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="res3_node" ActionTag="-679771542" Tag="529" IconVisible="True" LeftMargin="-6.5685" RightMargin="6.5685" TopMargin="333.6470" BottomMargin="-333.6470" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="res3_node" ActionTag="-679771542" Tag="529" IconVisible="True" LeftMargin="-9.5685" RightMargin="9.5685" TopMargin="333.6469" BottomMargin="-333.6469" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
               <AbstractNodeData Name="icon" ActionTag="-2108398490" Tag="530" IconVisible="False" LeftMargin="-1.8021" RightMargin="-74.1979" TopMargin="-28.3849" BottomMargin="-49.6151" ctype="SpriteObjectData">
@@ -1039,10 +1039,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="33" G="255" B="70" />
               </AbstractNodeData>
-              <AbstractNodeData Name="energy_bg" ActionTag="-2136476368" Tag="536" IconVisible="False" LeftMargin="119.7448" RightMargin="-147.7448" TopMargin="-8.7626" BottomMargin="-46.2374" ctype="SpriteObjectData">
+              <AbstractNodeData Name="energy_bg" ActionTag="-2136476368" Tag="536" IconVisible="False" LeftMargin="124.7444" RightMargin="-152.7444" TopMargin="-8.7626" BottomMargin="-46.2374" ctype="SpriteObjectData">
                 <Size X="28.0000" Y="55.0000" />
                 <AnchorPoint ScaleY="0.5018" />
-                <Position X="119.7448" Y="-18.6384" />
+                <Position X="124.7444" Y="-18.6384" />
                 <Scale ScaleX="10.2351" ScaleY="0.2613" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -1050,20 +1050,20 @@
                 <FileData Type="Normal" Path="Common/newUI/energy_bg.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="energy_line" ActionTag="1581812347" Tag="285" IconVisible="False" LeftMargin="120.5553" RightMargin="-405.5553" TopMargin="12.0898" BottomMargin="-25.0898" LeftEage="76" RightEage="76" TopEage="4" BottomEage="4" Scale9OriginX="76" Scale9OriginY="4" Scale9Width="81" Scale9Height="5" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="energy_line" ActionTag="1581812347" Tag="285" IconVisible="False" LeftMargin="125.5549" RightMargin="-410.5549" TopMargin="12.0898" BottomMargin="-25.0898" LeftEage="76" RightEage="76" TopEage="4" BottomEage="4" Scale9OriginX="76" Scale9OriginY="4" Scale9Width="81" Scale9Height="5" ctype="ImageViewObjectData">
                 <Size X="285.0000" Y="13.0000" />
                 <AnchorPoint ScaleY="0.5082" />
-                <Position X="120.5553" Y="-18.4832" />
+                <Position X="125.5549" Y="-18.4832" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Normal" Path="Common/newUI/energy_line.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="energy_hd" ActionTag="774316229" VisibleForFrame="False" Tag="219" IconVisible="False" LeftMargin="353.8506" RightMargin="-375.8506" TopMargin="11.5916" BottomMargin="-36.5916" LeftEage="7" RightEage="7" TopEage="8" BottomEage="8" Scale9OriginX="7" Scale9OriginY="8" Scale9Width="8" Scale9Height="9" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="energy_hd" ActionTag="774316229" VisibleForFrame="False" Tag="219" IconVisible="False" LeftMargin="358.8501" RightMargin="-380.8501" TopMargin="11.5916" BottomMargin="-36.5916" LeftEage="7" RightEage="7" TopEage="8" BottomEage="8" Scale9OriginX="7" Scale9OriginY="8" Scale9Width="8" Scale9Height="9" ctype="ImageViewObjectData">
                 <Size X="22.0000" Y="25.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="364.8506" Y="-24.0916" />
+                <Position X="369.8501" Y="-24.0916" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -1072,7 +1072,7 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint />
-            <Position X="-6.5685" Y="-333.6470" />
+            <Position X="-9.5685" Y="-333.6469" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

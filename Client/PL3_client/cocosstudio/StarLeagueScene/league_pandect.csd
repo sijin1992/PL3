@@ -150,26 +150,26 @@
                 <FileData Type="Normal" Path="Common/ui/spherical_red.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="rank_num" ActionTag="1026171120" Tag="563" IconVisible="False" LeftMargin="88.0522" RightMargin="20.9478" TopMargin="7.6719" BottomMargin="-0.6719" FontSize="22" LabelText="999" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="41.0000" Y="33.0000" />
+              <AbstractNodeData Name="rank_num" ActionTag="1026171120" Tag="563" IconVisible="False" LeftMargin="80.0522" RightMargin="33.9478" TopMargin="9.1719" BottomMargin="0.8281" FontSize="20" LabelText="999" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="36.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="88.0522" Y="15.8281" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Position X="80.0522" Y="15.8281" />
+                <Scale ScaleX="0.9000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.5870" Y="0.3957" />
-                <PreSize X="0.2733" Y="0.8250" />
+                <PrePosition X="0.5337" Y="0.3957" />
+                <PreSize X="0.2400" Y="0.7500" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
               </AbstractNodeData>
-              <AbstractNodeData Name="rank" ActionTag="296103735" Tag="562" IconVisible="False" LeftMargin="29.0202" RightMargin="58.9798" TopMargin="7.6719" BottomMargin="-0.6719" FontSize="22" LabelText="Rank:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="62.0000" Y="33.0000" />
+              <AbstractNodeData Name="rank" ActionTag="296103735" Tag="562" IconVisible="False" LeftMargin="21.0202" RightMargin="71.9798" TopMargin="9.1719" BottomMargin="0.8281" FontSize="20" LabelText="Rank:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="57.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="29.0202" Y="15.8281" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Position X="21.0202" Y="15.8281" />
+                <Scale ScaleX="0.9000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.1935" Y="0.3957" />
-                <PreSize X="0.4133" Y="0.8250" />
+                <PrePosition X="0.1401" Y="0.3957" />
+                <PreSize X="0.3800" Y="0.7500" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
@@ -284,24 +284,24 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="140" G="155" B="159" />
           </AbstractNodeData>
-          <AbstractNodeData Name="btn_exit" ActionTag="1806959264" Tag="574" IconVisible="False" LeftMargin="92.2789" RightMargin="-210.2789" TopMargin="-331.9391" BottomMargin="297.9391" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="100" Scale9Height="18" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-            <Size X="118.0000" Y="34.0000" />
+          <AbstractNodeData Name="btn_exit" ActionTag="1806959264" Tag="574" IconVisible="False" LeftMargin="103.2789" RightMargin="-233.2789" TopMargin="-331.9391" BottomMargin="297.9391" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="100" Scale9Height="18" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+            <Size X="130.0000" Y="34.0000" />
             <Children>
-              <AbstractNodeData Name="text" ActionTag="807418810" Tag="575" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="40.4026" RightMargin="42.5974" TopMargin="7.1346" BottomMargin="-0.1346" FontSize="18" LabelText="Exit" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ShadowEnabled="True" ctype="TextObjectData">
-                <Size X="35.0000" Y="27.0000" />
+              <AbstractNodeData Name="text" ActionTag="807418810" Tag="575" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="47.2910" RightMargin="49.7090" TopMargin="8.6346" BottomMargin="1.3654" FontSize="16" LabelText="Exit" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ShadowEnabled="True" ctype="TextObjectData">
+                <Size X="33.0000" Y="24.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="57.9026" Y="13.3654" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Position X="63.7910" Y="13.3654" />
+                <Scale ScaleX="0.9000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.4907" Y="0.3931" />
-                <PreSize X="0.2966" Y="0.7941" />
+                <PreSize X="0.2538" Y="0.7059" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="151.2789" Y="314.9391" />
+            <Position X="168.2789" Y="314.9391" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -350,14 +350,14 @@
                 <FileData Type="Normal" Path="Common/ui/spherical_red.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text" ActionTag="457062610" Tag="585" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="45.8400" RightMargin="47.1600" TopMargin="7.7880" BottomMargin="-0.7880" FontSize="22" LabelText="Shop" OutlineSize="2" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="57.0000" Y="33.0000" />
+              <AbstractNodeData Name="text" ActionTag="457062610" Tag="585" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="48.8400" RightMargin="50.1600" TopMargin="9.2880" BottomMargin="0.7120" FontSize="20" LabelText="Shop" OutlineSize="2" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="51.0000" Y="30.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="74.3400" Y="15.7120" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Scale ScaleX="0.9000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.4956" Y="0.3928" />
-                <PreSize X="0.3800" Y="0.8250" />
+                <PreSize X="0.3400" Y="0.7500" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="255" B="255" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
@@ -390,14 +390,14 @@
                 <FileData Type="Normal" Path="Common/ui/spherical_red.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text" ActionTag="-766018666" Tag="589" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="44.3950" RightMargin="47.6050" TopMargin="7.3600" BottomMargin="-0.3600" FontSize="22" LabelText="Diary" OutlineSize="2" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="58.0000" Y="33.0000" />
+              <AbstractNodeData Name="text" ActionTag="-766018666" Tag="589" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="46.3950" RightMargin="49.6050" TopMargin="8.8600" BottomMargin="1.1400" FontSize="20" LabelText="Diary" OutlineSize="2" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="54.0000" Y="30.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="73.3950" Y="16.1400" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Scale ScaleX="0.9000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.4893" Y="0.4035" />
-                <PreSize X="0.3867" Y="0.8250" />
+                <PreSize X="0.3600" Y="0.7500" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="255" B="255" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
@@ -430,14 +430,14 @@
                 <FileData Type="Normal" Path="Common/ui/spherical_red.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text" ActionTag="-2023327333" Tag="593" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="30.0000" RightMargin="30.0000" TopMargin="6.5080" BottomMargin="0.4920" FontSize="22" LabelText="Worship" OutlineSize="2" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="90.0000" Y="33.0000" />
+              <AbstractNodeData Name="text" ActionTag="-2023327333" Tag="593" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="29.5000" RightMargin="39.5000" TopMargin="8.0080" BottomMargin="1.9920" FontSize="20" LabelText="Worship" OutlineSize="2" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="81.0000" Y="30.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="75.0000" Y="16.9920" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Position X="70.0000" Y="16.9920" />
+                <Scale ScaleX="0.9000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.5000" Y="0.4248" />
-                <PreSize X="0.6000" Y="0.8250" />
+                <PrePosition X="0.4667" Y="0.4248" />
+                <PreSize X="0.5400" Y="0.7500" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="255" B="255" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
@@ -470,14 +470,14 @@
                 <FileData Type="Normal" Path="Common/ui/spherical_red.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text" ActionTag="1569490646" Tag="597" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="49.5000" RightMargin="49.5000" TopMargin="6.8400" BottomMargin="0.1600" FontSize="22" LabelText="Help" OutlineSize="2" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="51.0000" Y="33.0000" />
+              <AbstractNodeData Name="text" ActionTag="1569490646" Tag="597" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="51.5000" RightMargin="51.5000" TopMargin="8.3400" BottomMargin="1.6600" FontSize="20" LabelText="Help" OutlineSize="2" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="47.0000" Y="30.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="75.0000" Y="16.6600" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Scale ScaleX="0.9000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.4165" />
-                <PreSize X="0.3400" Y="0.8250" />
+                <PreSize X="0.3133" Y="0.7500" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="255" B="255" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
@@ -510,14 +510,14 @@
                 <FileData Type="Normal" Path="Common/ui/spherical_red.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text" ActionTag="-1956968741" Tag="601" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="53.5000" RightMargin="53.5000" TopMargin="6.8400" BottomMargin="0.1600" FontSize="22" LabelText="Site" OutlineSize="2" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="43.0000" Y="33.0000" />
+              <AbstractNodeData Name="text" ActionTag="-1956968741" Tag="601" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="55.0000" RightMargin="55.0000" TopMargin="8.3400" BottomMargin="1.6600" FontSize="20" LabelText="Site" OutlineSize="2" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="40.0000" Y="30.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="75.0000" Y="16.6600" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Scale ScaleX="0.9000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.4165" />
-                <PreSize X="0.2867" Y="0.8250" />
+                <PreSize X="0.2667" Y="0.7500" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="255" B="255" />
                 <ShadowColor A="255" R="255" G="255" B="255" />

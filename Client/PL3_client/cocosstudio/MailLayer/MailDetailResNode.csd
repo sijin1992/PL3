@@ -128,11 +128,11 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Text_huode" ActionTag="-1983124936" Tag="896" IconVisible="False" LeftMargin="231.9462" RightMargin="-283.9462" TopMargin="-103.0623" BottomMargin="65.0623" FontSize="25" LabelText="获得" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="52.0000" Y="38.0000" />
+              <AbstractNodeData Name="Text_huode" ActionTag="-1983124936" Tag="896" IconVisible="False" LeftMargin="231.9462" RightMargin="-281.9462" TopMargin="-102.0623" BottomMargin="66.0623" FontSize="24" LabelText="获得" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="50.0000" Y="36.0000" />
                 <AnchorPoint ScaleY="0.5000" />
                 <Position X="231.9462" Y="84.0623" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Scale ScaleX="0.9000" ScaleY="1.0000" />
                 <CColor A="255" R="7" G="255" B="43" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
@@ -140,11 +140,11 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="7" G="255" B="43" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Text_huode2" ActionTag="1018085365" Tag="897" IconVisible="False" LeftMargin="232.6647" RightMargin="-334.6647" TopMargin="-32.5504" BottomMargin="-5.4496" FontSize="25" LabelText="掠夺获得" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="102.0000" Y="38.0000" />
+              <AbstractNodeData Name="Text_huode2" ActionTag="1018085365" Tag="897" IconVisible="False" LeftMargin="232.6647" RightMargin="-330.6647" TopMargin="-31.5504" BottomMargin="-4.4496" FontSize="24" LabelText="掠夺获得" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="98.0000" Y="36.0000" />
                 <AnchorPoint ScaleY="0.5000" />
                 <Position X="232.6647" Y="13.5504" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Scale ScaleX="0.9000" ScaleY="1.0000" />
                 <CColor A="255" R="7" G="255" B="43" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
