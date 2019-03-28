@@ -90,8 +90,8 @@
             <FileData Type="Normal" Path="ShipType/1.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="power" ActionTag="1170110138" Tag="357" IconVisible="False" LeftMargin="83.1049" RightMargin="-152.1049" TopMargin="-70.5349" BottomMargin="40.5349" FontSize="20" LabelText="666666" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
-            <Size X="69.0000" Y="30.0000" />
+          <AbstractNodeData Name="power" ActionTag="1170110138" Tag="357" IconVisible="False" LeftMargin="83.1049" RightMargin="-146.1049" TopMargin="-69.0349" BottomMargin="42.0349" FontSize="18" LabelText="666666" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+            <Size X="63.0000" Y="27.0000" />
             <AnchorPoint ScaleY="0.5000" />
             <Position X="83.1049" Y="55.5349" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -605,11 +605,11 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="226" G="239" B="242" />
           </AbstractNodeData>
-          <AbstractNodeData Name="power_des" ActionTag="1679536511" Tag="367" IconVisible="False" LeftMargin="24.8642" RightMargin="-79.8642" TopMargin="-71.9077" BottomMargin="41.9077" FontSize="20" LabelText="战力：" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
-            <Size X="55.0000" Y="30.0000" />
+          <AbstractNodeData Name="power_des" ActionTag="1679536511" Tag="367" IconVisible="False" LeftMargin="29.8642" RightMargin="-79.8642" TopMargin="-70.4077" BottomMargin="43.4077" FontSize="18" LabelText="战力：" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+            <Size X="50.0000" Y="27.0000" />
             <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
             <Position X="79.8642" Y="56.9077" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Scale ScaleX="0.9000" ScaleY="1.0000" />
             <CColor A="255" R="226" G="239" B="242" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
@@ -683,11 +683,11 @@
             <FileData Type="Normal" Path="Common/ui/ui_star_light.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="break" ActionTag="-1169731944" Tag="405" IconVisible="False" LeftMargin="-233.6289" RightMargin="178.6289" TopMargin="-72.6208" BottomMargin="42.6208" FontSize="20" LabelText="突破：" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
-            <Size X="55.0000" Y="30.0000" />
+          <AbstractNodeData Name="break" ActionTag="-1169731944" Tag="405" IconVisible="False" LeftMargin="-233.6289" RightMargin="183.6289" TopMargin="-71.1208" BottomMargin="44.1208" FontSize="18" LabelText="突破：" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+            <Size X="50.0000" Y="27.0000" />
             <AnchorPoint ScaleY="0.5000" />
             <Position X="-233.6289" Y="57.6208" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Scale ScaleX="0.9000" ScaleY="1.0000" />
             <CColor A="255" R="226" G="239" B="242" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />

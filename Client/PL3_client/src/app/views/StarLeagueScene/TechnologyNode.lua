@@ -729,15 +729,15 @@ function TechnologyNode:resetInfo( ... )
     rn:getChildByName("contributes_num"):setString(self.group_list.contribute)
     rn:getChildByName("my_contributes_num"):setString(player:getGroupData().contribute)
 
-    rn:getChildByName("technology_num"):setPositionX(rn:getChildByName("Text_2"):getPositionX() + rn:getChildByName("Text_2"):getContentSize().width + 5)
-    rn:getChildByName("Text_2_0"):setPositionX(rn:getChildByName("technology_num"):getPositionX() + rn:getChildByName("technology_num"):getContentSize().width + 26)
+--    rn:getChildByName("technology_num"):setPositionX(rn:getChildByName("Text_2"):getPositionX() + rn:getChildByName("Text_2"):getContentSize().width + 5)
+--    rn:getChildByName("Text_2_0"):setPositionX(rn:getChildByName("technology_num"):getPositionX() + rn:getChildByName("technology_num"):getContentSize().width + 26)
 
-    rn:getChildByName("contributes_num"):setPositionX(rn:getChildByName("Text_2_0"):getPositionX() + rn:getChildByName("Text_2_0"):getContentSize().width + 5)
-    rn:getChildByName("contribution_1"):setPositionX(rn:getChildByName("contributes_num"):getPositionX() + rn:getChildByName("contributes_num"):getContentSize().width + rn:getChildByName("contribution_1"):getContentSize().width/2 + 4)
+--    rn:getChildByName("contributes_num"):setPositionX(rn:getChildByName("Text_2_0"):getPositionX() + rn:getChildByName("Text_2_0"):getContentSize().width + 5)
+--    rn:getChildByName("contribution_1"):setPositionX(rn:getChildByName("contributes_num"):getPositionX() + rn:getChildByName("contributes_num"):getContentSize().width + rn:getChildByName("contribution_1"):getContentSize().width/2 + 4)
 
-    rn:getChildByName("Text_2_0_0"):setPositionX(rn:getChildByName("contribution_1"):getPositionX() + rn:getChildByName("contribution_1"):getContentSize().width + 10)
-    rn:getChildByName("my_contributes_num"):setPositionX(rn:getChildByName("Text_2_0_0"):getPositionX() + rn:getChildByName("Text_2_0_0"):getContentSize().width + 5)
-    rn:getChildByName("contribution_2"):setPositionX(rn:getChildByName("my_contributes_num"):getPositionX() + rn:getChildByName("my_contributes_num"):getContentSize().width + rn:getChildByName("contribution_2"):getContentSize().width/2 + 2)
+--    rn:getChildByName("Text_2_0_0"):setPositionX(rn:getChildByName("contribution_1"):getPositionX() + rn:getChildByName("contribution_1"):getContentSize().width + 10)
+--    rn:getChildByName("my_contributes_num"):setPositionX(rn:getChildByName("Text_2_0_0"):getPositionX() + rn:getChildByName("Text_2_0_0"):getContentSize().width + 5)
+--    rn:getChildByName("contribution_2"):setPositionX(rn:getChildByName("my_contributes_num"):getPositionX() + rn:getChildByName("my_contributes_num"):getContentSize().width + rn:getChildByName("contribution_2"):getContentSize().width/2 + 2)
 end
 
 function TechnologyNode:createTechItem( id )

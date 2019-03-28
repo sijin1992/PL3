@@ -62,8 +62,8 @@
           </AbstractNodeData>
           <AbstractNodeData Name="text_0" ActionTag="1989809121" Tag="665" RotationSkewX="8.0000" IconVisible="False" LeftMargin="120.6600" RightMargin="-207.6600" TopMargin="-116.6357" BottomMargin="77.6357" FontSize="26" LabelText="成员数:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="87.0000" Y="39.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="164.1600" Y="97.1357" />
+            <AnchorPoint ScaleY="0.5000" />
+            <Position X="120.6600" Y="97.1357" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="209" G="209" B="209" />
             <PrePosition />
@@ -83,10 +83,10 @@
             <FileData Type="Normal" Path="Common/ui/spherical_red.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="member_now" ActionTag="-210580401" Tag="666" RotationSkewX="8.0000" IconVisible="False" LeftMargin="266.9994" RightMargin="-298.9994" TopMargin="-115.6359" BottomMargin="76.6359" FontSize="26" LabelText="30" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="member_now" ActionTag="-210580401" Tag="666" RotationSkewX="8.0000" IconVisible="False" LeftMargin="471.9983" RightMargin="-503.9983" TopMargin="-115.6359" BottomMargin="76.6359" FontSize="26" LabelText="30" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="32.0000" Y="39.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="266.9994" Y="96.1359" />
+            <Position X="471.9983" Y="96.1359" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -95,10 +95,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="member_max" ActionTag="-946771238" Tag="667" RotationSkewX="8.0000" IconVisible="False" LeftMargin="294.0004" RightMargin="-351.0004" TopMargin="-116.6401" BottomMargin="77.6401" FontSize="26" LabelText="/100" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="member_max" ActionTag="-946771238" Tag="667" RotationSkewX="8.0000" IconVisible="False" LeftMargin="498.9994" RightMargin="-555.9994" TopMargin="-116.6401" BottomMargin="77.6401" FontSize="26" LabelText="/100" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="57.0000" Y="39.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="294.0004" Y="97.1401" />
+            <Position X="498.9994" Y="97.1401" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="209" G="209" B="209" />
             <PrePosition />
@@ -107,10 +107,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="209" G="209" B="209" />
           </AbstractNodeData>
-          <AbstractNodeData Name="btn_chat" ActionTag="315109690" Tag="183" IconVisible="False" LeftMargin="385.2504" RightMargin="-429.2504" TopMargin="-121.6459" BottomMargin="77.6459" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="14" Scale9Height="22" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="btn_chat" ActionTag="315109690" Tag="183" IconVisible="False" LeftMargin="590.2504" RightMargin="-634.2504" TopMargin="-121.6459" BottomMargin="77.6459" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="14" Scale9Height="22" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="44.0000" Y="44.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="407.2504" Y="99.6459" />
+            <Position X="612.2504" Y="99.6459" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

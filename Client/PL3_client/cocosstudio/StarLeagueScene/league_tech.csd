@@ -16,11 +16,11 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="Common/newUI/cj_bottom_line.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_2" ActionTag="921908677" Tag="385" IconVisible="False" LeftMargin="80.9005" RightMargin="-208.9005" TopMargin="-120.1841" BottomMargin="90.1841" FontSize="20" LabelText="研究科技总数:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="128.0000" Y="30.0000" />
-            <AnchorPoint ScaleY="0.5000" />
-            <Position X="80.9005" Y="105.1841" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+          <AbstractNodeData Name="Text_2" ActionTag="921908677" Tag="385" IconVisible="False" LeftMargin="160.5054" RightMargin="-276.5054" TopMargin="-113.5000" BottomMargin="86.5000" FontSize="18" LabelText="研究科技总数:" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="116.0000" Y="27.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="218.5054" Y="100.0000" />
+            <Scale ScaleX="0.9000" ScaleY="1.0000" />
             <CColor A="255" R="209" G="209" B="209" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
@@ -28,10 +28,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="209" G="209" B="209" />
           </AbstractNodeData>
-          <AbstractNodeData Name="technology_num" ActionTag="590167568" Tag="386" IconVisible="False" LeftMargin="232.9232" RightMargin="-246.9232" TopMargin="-120.1544" BottomMargin="90.1544" FontSize="20" LabelText="0" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="technology_num" ActionTag="590167568" Tag="386" IconVisible="False" LeftMargin="210.1129" RightMargin="-224.1129" TopMargin="-65.0000" BottomMargin="35.0000" FontSize="20" LabelText="0" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="14.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="232.9232" Y="105.1544" />
+            <Position X="210.1129" Y="50.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -40,11 +40,11 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_2_0" ActionTag="2102603633" Tag="387" IconVisible="False" LeftMargin="367.8182" RightMargin="-475.8182" TopMargin="-120.6201" BottomMargin="90.6201" FontSize="20" LabelText="星盟总贡献:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="108.0000" Y="30.0000" />
-            <AnchorPoint ScaleY="0.5000" />
-            <Position X="367.8182" Y="105.6201" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+          <AbstractNodeData Name="Text_2_0" ActionTag="2102603633" Tag="387" IconVisible="False" LeftMargin="568.9162" RightMargin="-666.9162" TopMargin="-113.5000" BottomMargin="86.5000" FontSize="18" LabelText="星盟总贡献:" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="98.0000" Y="27.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="617.9162" Y="100.0000" />
+            <Scale ScaleX="0.9000" ScaleY="1.0000" />
             <CColor A="255" R="209" G="209" B="209" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
@@ -52,10 +52,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="209" G="209" B="209" />
           </AbstractNodeData>
-          <AbstractNodeData Name="contributes_num" ActionTag="36899959" Tag="388" IconVisible="False" LeftMargin="498.9980" RightMargin="-512.9980" TopMargin="-119.7047" BottomMargin="89.7047" FontSize="20" LabelText="0" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="contributes_num" ActionTag="36899959" Tag="388" IconVisible="False" LeftMargin="583.4700" RightMargin="-597.4700" TopMargin="-65.0000" BottomMargin="35.0000" FontSize="20" LabelText="0" HorizontalAlignmentType="HT_Right" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="14.0000" Y="30.0000" />
-            <AnchorPoint ScaleY="0.5000" />
-            <Position X="498.9980" Y="104.7047" />
+            <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
+            <Position X="597.4700" Y="50.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -64,10 +64,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="contribution_1" ActionTag="-881029506" Tag="389" IconVisible="False" LeftMargin="522.2814" RightMargin="-566.2814" TopMargin="-121.3929" BottomMargin="94.3929" ctype="SpriteObjectData">
+          <AbstractNodeData Name="contribution_1" ActionTag="-881029506" Tag="389" IconVisible="False" LeftMargin="606.7512" RightMargin="-650.7512" TopMargin="-63.5000" BottomMargin="36.5000" ctype="SpriteObjectData">
             <Size X="44.0000" Y="27.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="544.2814" Y="107.8929" />
+            <Position X="628.7512" Y="50.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -75,11 +75,11 @@
             <FileData Type="Normal" Path="StarLeagueScene/ui/contribution.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_2_0_0" ActionTag="1606599323" Tag="390" IconVisible="False" LeftMargin="631.6215" RightMargin="-719.6215" TopMargin="-120.3527" BottomMargin="90.3527" FontSize="20" LabelText="个人贡献:" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="88.0000" Y="30.0000" />
-            <AnchorPoint ScaleY="0.5000" />
-            <Position X="631.6215" Y="105.3527" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+          <AbstractNodeData Name="Text_2_0_0" ActionTag="1606599323" Tag="390" IconVisible="False" LeftMargin="900.6254" RightMargin="-980.6254" TopMargin="-113.5002" BottomMargin="86.5002" FontSize="18" LabelText="个人贡献:" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="80.0000" Y="27.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="940.6254" Y="100.0002" />
+            <Scale ScaleX="0.9000" ScaleY="1.0000" />
             <CColor A="255" R="209" G="209" B="209" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
@@ -87,10 +87,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="209" G="209" B="209" />
           </AbstractNodeData>
-          <AbstractNodeData Name="my_contributes_num" ActionTag="73447650" Tag="391" IconVisible="False" LeftMargin="744.0453" RightMargin="-758.0453" TopMargin="-120.2491" BottomMargin="90.2491" FontSize="20" LabelText="0" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="my_contributes_num" ActionTag="73447650" Tag="391" IconVisible="False" LeftMargin="914.0146" RightMargin="-928.0146" TopMargin="-65.0002" BottomMargin="35.0002" FontSize="20" LabelText="0" HorizontalAlignmentType="HT_Right" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="14.0000" Y="30.0000" />
-            <AnchorPoint ScaleY="0.5000" />
-            <Position X="744.0453" Y="105.2491" />
+            <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
+            <Position X="928.0146" Y="50.0002" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -99,10 +99,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="contribution_2" ActionTag="-1268999124" Tag="392" IconVisible="False" LeftMargin="765.7087" RightMargin="-805.7087" TopMargin="-121.5708" BottomMargin="94.5708" ctype="SpriteObjectData">
+          <AbstractNodeData Name="contribution_2" ActionTag="-1268999124" Tag="392" IconVisible="False" LeftMargin="935.6749" RightMargin="-975.6749" TopMargin="-63.5003" BottomMargin="36.5003" ctype="SpriteObjectData">
             <Size X="40.0000" Y="27.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="785.7087" Y="108.0708" />
+            <Position X="955.6749" Y="50.0003" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
