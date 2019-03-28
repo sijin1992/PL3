@@ -181,8 +181,9 @@ function CityScene:onCreate(data)
 			if( data and data.sfx ) then
 				data.sfx = false
 			end
-			local view = self:getApp():createView("CityScene/TransferScene",{from = "planet" ,state = "enter"})
-			self:addChild(view,100)
+			-- local view = self:getApp():createView("CityScene/TransferScene",{from = "planet" ,state = "enter"})
+			-- self:addChild(view,100)
+			self:getApp():addView2Top("CityScene/TransferScene",{from = "planet" ,state = "enter"})
 		end
 
 
