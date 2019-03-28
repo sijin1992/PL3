@@ -46,8 +46,9 @@ function PlanetScene:onCreate( data )
 	self.data_ = data
 	if data and data.sfx then
 		data.sfx = false
-		local node = self:getApp():createView("CityScene/TransferScene",{from = "planet",state = "enter"})
-		self:addChild(node,100)
+		-- local node = self:getApp():createView("CityScene/TransferScene",{from = "planet",state = "enter"})
+		-- self:addChild(node,100)
+		self:getApp():addView2Top("CityScene/TransferScene",{from = "planet",state = "enter"})
 	end
 end
 

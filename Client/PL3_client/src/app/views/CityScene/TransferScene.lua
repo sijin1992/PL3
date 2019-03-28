@@ -90,19 +90,20 @@ function TransferScene:BeginEffect()
 	print( " @@@@ BeginEffect "  )
 	print( string.format( " @@@@ before BeginEffect now: %s " , tostring(os.clock()) ) )
 
-	animManager:runAnimOnceByCSB(self:getResourceNode(),"PlanetScene/sfx/TransferEffect/transfer.csb", "intro",function()
-		local _self = require("app.views.CityScene.TransferScene")
-		-- local _self = TransferScene
+	-- animManager:runAnimOnceByCSB(self:getResourceNode(),"PlanetScene/sfx/TransferEffect/transfer.csb", "intro",function()
+	-- 	local _self = require("app.views.CityScene.TransferScene")
+	-- 	-- local _self = TransferScene
 
-		-- release memory after remove child all.. do not release too late
-		cc.exports.isTotalReleaseMemoryOnce = true
+	-- 	-- release memory after remove child all.. do not release too late
+	-- 	cc.exports.isTotalReleaseMemoryOnce = true
 
-		_self:ToNextScene()
+	-- 	_self:ToNextScene()
 
-		print( string.format( " @@@@ after BeginEffect now: %s " , tostring(os.clock()) ) )
-	end)
-
-
+	-- 	print( string.format( " @@@@ after BeginEffect now: %s " , tostring(os.clock()) ) )
+	-- end)
+	local _self = require("app.views.CityScene.TransferScene")
+	cc.exports.isTotalReleaseMemoryOnce = true
+	_self:ToNextScene()
 end
 
 function TransferScene:onEnterTransitionFinish()
@@ -143,12 +144,12 @@ function TransferScene:onEnterTransitionFinish()
 
 	elseif self.data_.state == "enter" then
 		print( string.format( " @@@@ play EndEffect now: %s " , tostring(os.clock()) ) )
-		local isOK, action = animManager:runAnimOnceByCSB(self:getResourceNode(),"PlanetScene/sfx/TransferEffect/transfer.csb", "intro2",function()
-			print( string.format( " @@@@ anim end EndEffect now: %s " , tostring(os.clock()) ) )
-		end)
+		-- local isOK, action = animManager:runAnimOnceByCSB(self:getResourceNode(),"PlanetScene/sfx/TransferEffect/transfer.csb", "intro2",function()
+		-- 	print( string.format( " @@@@ anim end EndEffect now: %s " , tostring(os.clock()) ) )
+		-- end)
 
-		action:pause()
-		self.fadeOutAction = action
+		-- action:pause()
+		-- self.fadeOutAction = action
 		
 
 		-- ADD WJJ 20180629
@@ -170,17 +171,29 @@ function TransferScene:onEnterTransitionFinish()
 
 		local delay_time_over = self.DELAY_TIME
 
+		-- _node:runAction(cc.Sequence:create(cc.DelayTime:create(delay_time), cc.CallFunc:create(function ( ... )
+		-- 		if( self.fadeOutAction ~= nil ) then
+		-- 			if( cc.exports.memoryReleaseAsync ~= nil ) then
+		-- 				cc.exports.memoryReleaseAsync:ResetUpdateInterval()
+		-- 			else
+		-- 				cc.exports.memoryReleaseAsync = require("util.ExMemoryReleaseAsync"):getInstance()
+		-- 				cc.exports.memoryReleaseAsync:onCreate()
+		-- 			end
+		-- 			self.fadeOutAction:resume()
+		-- 			print( string.format( " @@@@ remove Begin Fadeout now: %s " , tostring(os.clock()) ) )
+		-- 		end
+		-- end)))
 		_node:runAction(cc.Sequence:create(cc.DelayTime:create(delay_time), cc.CallFunc:create(function ( ... )
-				if( self.fadeOutAction ~= nil ) then
+				-- if( self.fadeOutAction ~= nil ) then
 					if( cc.exports.memoryReleaseAsync ~= nil ) then
 						cc.exports.memoryReleaseAsync:ResetUpdateInterval()
 					else
 						cc.exports.memoryReleaseAsync = require("util.ExMemoryReleaseAsync"):getInstance()
 						cc.exports.memoryReleaseAsync:onCreate()
 					end
-					self.fadeOutAction:resume()
+					-- self.fadeOutAction:resume()
 					print( string.format( " @@@@ remove Begin Fadeout now: %s " , tostring(os.clock()) ) )
-				end
+				-- end
 		end)))
 
 
