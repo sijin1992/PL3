@@ -182,8 +182,8 @@ end
 function PlanetScene:onEnterTransitionFinish()
 	printInfo("PlanetScene:onEnterTransitionFinish()")
 
-	cc.SpriteFrameCache:getInstance():addSpriteFrames("PlanetScene/Bg_Plist.plist")  
-	cc.SpriteFrameCache:getInstance():addSpriteFrames("PlanetScene/Bg_Plist2.plist")  
+--	cc.SpriteFrameCache:getInstance():addSpriteFrames("PlanetScene/Bg_Plist.plist")  
+--	cc.SpriteFrameCache:getInstance():addSpriteFrames("PlanetScene/Bg_Plist2.plist")  
 
 	guideManager:checkInterface(13)
 

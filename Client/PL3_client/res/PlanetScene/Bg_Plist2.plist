@@ -3,63 +3,7 @@
 <plist version="1.0">
 	<dict>
 		<key>frames</key>
-		<dict>
-			<key>PlanetScene/ui/bg_star_yun_3.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{0,0},{944,1022}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{944,1022}</string>
-			</dict>
-			<key>PlanetScene/ui/bg_star_yun_4.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{0,1022},{578,648}}</string>
-				<key>offset</key>
-				<string>{-37,5}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{659,659}</string>
-			</dict>
-			<key>PlanetScene/ui/bg_star_yun_5.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{578,1022},{415,395}}</string>
-				<key>offset</key>
-				<string>{-1,10}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{418,419}</string>
-			</dict>
-			<key>PlanetScene/ui/bg_qiu_4.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{0,1670},{97,97}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{97,97}</string>
-			</dict>
-			<key>PlanetScene/ui/bg_qiu_5.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{0,1767},{97,97}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{97,97}</string>
-			</dict>
-		</dict>
+		<dict />
 		<key>metadata</key>
 		<dict>
 			<key>format</key>
@@ -69,14 +13,14 @@
 			<key>realTextureFileName</key>
 			<string>Bg_Plist2.png</string>
 			<key>size</key>
-			<string>{973,1864}</string>
+			<string>{1,1}</string>
 		</dict>
 		<key>texture</key>
 		<dict>
 			<key>width</key>
-			<integer>973</integer>
+			<integer>1</integer>
 			<key>height</key>
-			<integer>1864</integer>
+			<integer>1</integer>
 		</dict>
 	</dict>
 </plist>

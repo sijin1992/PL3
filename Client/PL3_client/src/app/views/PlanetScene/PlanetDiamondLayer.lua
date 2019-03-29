@@ -3713,9 +3713,9 @@ function PlanetDiamondLayer:onEnterTransitionFinish()
 			local indexx = math.random(1,6)
 			local yun 
 			if indexx <= 5 then
-				 yun = cc.Sprite:createWithSpriteFrameName("PlanetScene/ui/bg_star_yun_"..indexx..".png")
+				 yun = cc.Sprite:create("PlanetScene/ui/bg_star_yun_"..indexx..".png")
 			else
-				 yun = cc.Sprite:createWithSpriteFrameName("PlanetScene/ui/yun.png")
+				 yun = cc.Sprite:create("PlanetScene/ui/yun.png")
 			end
 			for i=1,3 do
 				x_d = math.random(16)
@@ -3736,9 +3736,9 @@ function PlanetDiamondLayer:onEnterTransitionFinish()
 			local inde = math.random(1,6)
 			local qiu 
 			if inde <= 5 then
-				qiu = cc.Sprite:createWithSpriteFrameName("PlanetScene/ui/bg_qiu_"..inde..".png")
+				qiu = cc.Sprite:create("PlanetScene/ui/bg_qiu_"..inde..".png")
 			else
-				qiu = cc.Sprite:createWithSpriteFrameName("PlanetScene/ui/light_star.png")
+				qiu = cc.Sprite:create("PlanetScene/ui/light_star.png")
 			end
 			for i=1,3 do
 				x_d = math.random(16)
@@ -3760,7 +3760,7 @@ function PlanetDiamondLayer:onEnterTransitionFinish()
 			if rn:getChildByName("bg_node_1"):getChildByName(index.."add_bg_stone_1") then
 				rn:getChildByName("bg_node_1"):getChildByName(index.."add_bg_stone_1"):removeFromParent()
 			end
-			local bg_stone_1 = cc.Sprite:createWithSpriteFrameName("PlanetScene/ui/bg_stone_1.png")
+			local bg_stone_1 = cc.Sprite:create("PlanetScene/ui/bg_stone_1.png")
 			bg_stone_1:setPosition(cc.p(x + cube_w*x_d/2 + cube_w*y_d/2 , y - x_d*cube_h/2 + y_d*cube_h/2))
 			bg_stone_1:setLocalZOrder(node_tag.kStone)
 			bg_stone_1:setName(index.."add_bg_stone_1")
@@ -3776,7 +3776,7 @@ function PlanetDiamondLayer:onEnterTransitionFinish()
 			if rn:getChildByName("bg_node_1"):getChildByName(index.."add_bg_stone_2") then
 				rn:getChildByName("bg_node_1"):getChildByName(index.."add_bg_stone_2"):removeFromParent()
 			end
-			local bg_stone_2 = cc.Sprite:createWithSpriteFrameName("PlanetScene/ui/bg_stone_2.png")
+			local bg_stone_2 = cc.Sprite:create("PlanetScene/ui/bg_stone_2.png")
 			bg_stone_2:setPosition(cc.p(x + cube_w*x_d/2 + cube_w*y_d/2 , y - x_d*cube_h/2 + y_d*cube_h/2))
 			bg_stone_2:setLocalZOrder(node_tag.kStone)
 			bg_stone_2:setName(index.."add_bg_stone_2")
@@ -3820,9 +3820,9 @@ function PlanetDiamondLayer:onEnterTransitionFinish()
 			local indexx = math.random(1,6)
 			local yun 
 			if indexx <= 5 then
-				 yun = cc.Sprite:createWithSpriteFrameName("PlanetScene/ui/bg_star_yun_"..indexx..".png")
+				 yun = cc.Sprite:create("PlanetScene/ui/bg_star_yun_"..indexx..".png")
 			else
-				 yun = cc.Sprite:createWithSpriteFrameName("PlanetScene/ui/yun.png")
+				 yun = cc.Sprite:create("PlanetScene/ui/yun.png")
 			end
 			for i=1,3 do
 				x_d = math.random(16)
@@ -3843,9 +3843,9 @@ function PlanetDiamondLayer:onEnterTransitionFinish()
 			local inde = math.random(1,6)
 			local qiu 
 			if inde <= 5 then
-				qiu = cc.Sprite:createWithSpriteFrameName("PlanetScene/ui/bg_qiu_"..inde..".png")
+				qiu = cc.Sprite:create("PlanetScene/ui/bg_qiu_"..inde..".png")
 			else
-				qiu = cc.Sprite:createWithSpriteFrameName("PlanetScene/ui/light_star.png")
+				qiu = cc.Sprite:create("PlanetScene/ui/light_star.png")
 			end
 			for i=1,3 do
 				x_d = math.random(16)
@@ -3867,7 +3867,7 @@ function PlanetDiamondLayer:onEnterTransitionFinish()
 			if rn:getChildByName("bg_node_1"):getChildByName(index.."add_bg_stone_1") then
 				rn:getChildByName("bg_node_1"):getChildByName(index.."add_bg_stone_1"):removeFromParent()
 			end
-			local bg_stone_1 = cc.Sprite:createWithSpriteFrameName("PlanetScene/ui/bg_stone_1.png")
+			local bg_stone_1 = cc.Sprite:create("PlanetScene/ui/bg_stone_1.png")
 			bg_stone_1:setPosition(cc.p(x + cube_w*x_d/2 + cube_w*y_d/2 , y - x_d*cube_h/2 + y_d*cube_h/2))
 			bg_stone_1:setLocalZOrder(node_tag.kStone)
 			bg_stone_1:setName(index.."add_bg_stone_1")
@@ -3883,7 +3883,7 @@ function PlanetDiamondLayer:onEnterTransitionFinish()
 			if rn:getChildByName("bg_node_1"):getChildByName(index.."add_bg_stone_2") then
 				rn:getChildByName("bg_node_1"):getChildByName(index.."add_bg_stone_2"):removeFromParent()
 			end
-			local bg_stone_2 = cc.Sprite:createWithSpriteFrameName("PlanetScene/ui/bg_stone_2.png")
+			local bg_stone_2 = cc.Sprite:create("PlanetScene/ui/bg_stone_2.png")
 			bg_stone_2:setPosition(cc.p(x + cube_w*x_d/2 + cube_w*y_d/2 , y - x_d*cube_h/2 + y_d*cube_h/2))
 			bg_stone_2:setLocalZOrder(node_tag.kStone)
 			bg_stone_2:setName(index.."add_bg_stone_2")
