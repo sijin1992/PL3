@@ -5044,7 +5044,6 @@
           <Image Name="11002.png" />
           <Image Name="12001.png" />
           <Image Name="13001.png" />
-          <Image Name="throne.png" />
         </Folder>
         <Folder Name="PlanetScene">
           <Folder Name="detailNode">
@@ -5151,22 +5150,6 @@
               <Image Name="20077.png" />
               <Image Name="20079.png" />
               <Project Name="zhankai.csd" Type="Node" />
-            </Folder>
-            <Folder Name="enteranim">
-              <Image Name="0.jpg" />
-              <Image Name="1.jpg" />
-              <Image Name="10.jpg" />
-              <Image Name="11.jpg" />
-              <Image Name="12.jpg" />
-              <Image Name="2.jpg" />
-              <Image Name="3.jpg" />
-              <Image Name="4.jpg" />
-              <Image Name="5.jpg" />
-              <Image Name="6.jpg" />
-              <Image Name="7.jpg" />
-              <Image Name="8.jpg" />
-              <Image Name="9.jpg" />
-              <Project Name="enteranim.csd" Type="Node" />
             </Folder>
             <Folder Name="fangyuta">
               <Folder Name="chixu">
@@ -13150,7 +13133,6 @@
           <Image Name="40800.png" />
           <Image Name="40900.png" />
         </Folder>
-        <Image Name="gn_case.png" />
         <Image Name="ui_backpage.jpg" />
       </RootFolder>
     </Group>
