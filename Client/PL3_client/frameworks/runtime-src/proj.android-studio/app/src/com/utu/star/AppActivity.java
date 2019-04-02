@@ -59,6 +59,8 @@ import com.adjust.sdk.OnAttributionChangedListener;
 import com.flurry.android.FlurryAgent;
 // import com.gameanalytics.sdk.*;
 
+import com.tendcloud.tenddata.TalkingDataGA;
+
 public class AppActivity extends Cocos2dxActivity{
     protected static final String TAG = "AppActivity";
     private PowerManager.WakeLock mWakeLock;
@@ -114,9 +116,9 @@ public class AppActivity extends Cocos2dxActivity{
         mWakeLock.acquire();
 
         //flurry
-        FlurryAgent.setLogEnabled(true);
-        FlurryAgent.setLogLevel(Log.ERROR);
-        FlurryAgent.init(this,  "TFY62MZDJ3T3CXGQ9M5Q");
+        //FlurryAgent.setLogEnabled(true);
+        //FlurryAgent.setLogLevel(Log.ERROR);
+        //FlurryAgent.init(this,  "TFY62MZDJ3T3CXGQ9M5Q");
 
         //GA
 
@@ -127,6 +129,9 @@ public class AppActivity extends Cocos2dxActivity{
         GameAnalytics.setEnabledInfoLog(true);
         GameAnalytics.setEnabledVerboseLog(true);
 		*/
+        //TD
+        TalkingDataGA.init(this, "8BBCC0586EB448159D0922294706E2F8", "001");
+        TalkingDataGA.setVerboseLogDisabled();
     }
 
     @Override
@@ -161,6 +166,7 @@ public class AppActivity extends Cocos2dxActivity{
         }
 
         Adjust.onPause();
+        TalkingDataGA.onPause(this);
     }
     @Override
     public void onResume()
@@ -171,6 +177,7 @@ public class AppActivity extends Cocos2dxActivity{
         mWakeLock.acquire();
 
         Adjust.onResume();
+        TalkingDataGA.onResume(this);
     }
     @Override
     protected void onDestroy()
@@ -257,33 +264,33 @@ public class AppActivity extends Cocos2dxActivity{
     
      public class FlurryUtil     {
         public void onStartSession(Context context){
-            FlurryAgent.setLogEvents(true);
-            FlurryAgent.onStartSession(context,"TFY62MZDJ3T3CXGQ9M5Q" );
+            //FlurryAgent.setLogEvents(true);
+            //FlurryAgent.onStartSession(context,"TFY62MZDJ3T3CXGQ9M5Q" );
         }
 
         public void onEndSession(Context context){
-            FlurryAgent.onEndSession(context);
+            //FlurryAgent.onEndSession(context);
         }
 
         public void onEvent(String eventID){
             Map<String, String> params = new HashMap<String, String>();
-            FlurryAgent.logEvent(eventID, params);
+            //FlurryAgent.logEvent(eventID, params);
         }
 
         public void onEvent(String eventId, String paramValue) {
             HashMap<String, String> params = new HashMap<String, String>();
             params.put(eventId, paramValue);
-            FlurryAgent.logEvent(eventId, params);
+            //FlurryAgent.logEvent(eventId, params);
         }
 
         public  void onEvent(String eventId, String paramKey, String paramValue) {
             Map<String, String> params = new HashMap<String, String>();
             params.put(paramKey, paramValue);
-            FlurryAgent.logEvent(eventId, params);
+            //FlurryAgent.logEvent(eventId, params);
         }
 
         public  void onEventUseMap(String eventId, Map<String, String> map) {
-            FlurryAgent.logEvent(eventId, map);
+            //FlurryAgent.logEvent(eventId, map);
         }
 
     }
@@ -317,7 +324,7 @@ public class AppActivity extends Cocos2dxActivity{
             params.put(kk.get(i), vv.get(i));
         }
 
-        FlurryAgent.logEvent(eventId,params);
+        //FlurryAgent.logEvent(eventId,params);
     }
 
 

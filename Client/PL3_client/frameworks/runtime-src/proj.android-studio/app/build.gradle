@@ -49,6 +49,7 @@ dependencies {
     compile project(':adjust')
     compile files('libs/flurryAnalytics_7.2.3.jar')
     compile files('libs/gameanalytics.jar')
+    compile files('libs/SaaS_GameAnalytics_Android_SDK_V4.0.26.jar')
 
     //compile 'com.google.android.gms:play-services-basement:8.4.0'
     //compile 'com.google.android.gms:play-services-ads:8.4.0'

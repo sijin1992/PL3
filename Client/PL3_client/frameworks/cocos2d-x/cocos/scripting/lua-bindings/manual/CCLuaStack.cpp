@@ -54,6 +54,13 @@ extern "C" {
 #include "scripting/lua-bindings/auto/lua_cocos2dx_experimental_auto.hpp"
 #include "scripting/lua-bindings/manual/cocos2d/lua_cocos2dx_experimental_manual.hpp"
 
+#if (CC_TARGET_PLATFORM == CC_PLATFORM_IOS || CC_TARGET_PLATFORM == CC_PLATFORM_ANDROID)
+#include "scripting/lua-bindings/auto/lua_cocos2dx_TalkingDataGA_auto.hpp"
+#include "scripting/lua-bindings/auto/lua_cocos2dx_TDGAAccount_auto.hpp"
+#include "scripting/lua-bindings/auto/lua_cocos2dx_TDGAMission_auto.hpp"
+#include "scripting/lua-bindings/auto/lua_cocos2dx_TDGAVirtualCurrency_auto.hpp"
+#include "scripting/lua-bindings/auto/lua_cocos2dx_TDGAItem_auto.hpp"
+#endif
 
 namespace {
 int lua_print(lua_State * luastate)
@@ -207,6 +214,14 @@ bool LuaStack::init(void)
     register_all_cocos2dx_manual_deprecated(_state);
     
     tolua_script_handler_mgr_open(_state);
+	
+#if (CC_TARGET_PLATFORM == CC_PLATFORM_IOS || CC_TARGET_PLATFORM == CC_PLATFORM_ANDROID)
+	register_all_cocos2dx_TalkingDataGA(_state);
+	register_all_cocos2dx_TDGAAccount(_state);
+	register_all_cocos2dx_TDGAMission(_state);
+	register_all_cocos2dx_TDGAVirtualCurrency(_state);
+	register_all_cocos2dx_TDGAItem(_state);
+#endif
 
     // add cocos2dx loader
     addLuaLoader(cocos2dx_lua_loader);
