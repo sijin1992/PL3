@@ -96,6 +96,9 @@ LOCAL_C_INCLUDES += $(LOCAL_PATH)/../../../Classes/purchase
 LOCAL_C_INCLUDES += $(LOCAL_PATH)/../../../Classes/utilities
 LOCAL_C_INCLUDES += $(LOCAL_PATH)/../../../../cocos2d-x/cocos/scripting/lua-bindings/auto/
 
+LOCAL_WHOLE_STATIC_LIBRARIES := cocos2dx_static
+LOCAL_WHOLE_STATIC_LIBRARIES += cocos2dx-talkingdata
+
 # _COCOS_HEADER_ANDROID_BEGIN
 # _COCOS_HEADER_ANDROID_END
 
@@ -109,6 +112,7 @@ include $(BUILD_SHARED_LIBRARY)
 
 $(call import-module,scripting/lua-bindings/proj.android)
 $(call import-module,tools/simulator/libsimulator/proj.android)
+$(call import-module,TalkingDataGameAnalytics/android)
 
 # _COCOS_LIB_IMPORT_ANDROID_BEGIN
 # _COCOS_LIB_IMPORT_ANDROID_END
