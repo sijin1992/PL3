@@ -300,7 +300,7 @@ function BattleScene:onEnter()
 	printInfo("BattleScene:onEnter()")
 
 	-- ADD WJJ 20180705
-	require("app.ExMemoryInterface"):getInstance():OnDisableMemoryReleaseAsync()
+	-- require("app.ExMemoryInterface"):getInstance():OnDisableMemoryReleaseAsync()
 end
 
 function BattleScene:onExit()
