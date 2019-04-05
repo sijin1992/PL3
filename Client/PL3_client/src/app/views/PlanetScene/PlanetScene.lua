@@ -55,7 +55,7 @@ end
 function PlanetScene:onEnter()
 	printInfo("PlanetScene:onEnter()")
 	-- ADD WJJ 20180705
-	require("app.ExMemoryInterface"):getInstance():OnDisableMemoryReleaseAsync()
+	-- require("app.ExMemoryInterface"):getInstance():OnDisableMemoryReleaseAsync()
 
 end
 
