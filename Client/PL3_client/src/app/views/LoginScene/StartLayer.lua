@@ -44,22 +44,17 @@ function StartLayer:FlurryLog_Login()
 end
 
 function StartLayer:TDLogin()
---    local i = cc.TalkingDataGA.setVerboseLogDisabled()
---    local GA = cc.TalkingDataGA.onStart("8BBCC0586EB448159D0922294706E2F8","001")
     print("-----------------------------------TD1")
     local deviceId = TalkingDataGA:getDeviceId()
     local serverId = ud:getIntegerForKey("server_id")
     local userId = ud:getIntegerForKey("user_id")
     local _self = require("app.views.LoginScene.StartLayer")
---    local player = require("app.Player"):getInstance()
     if deviceId and deviceId ~= nil then
         TDGAAccount:setAccount(tostring(deviceId))
     else
         TDGAAccount:setAccount(tostring(userId))
     end
---    TDGAAccount:setAccountName(player:getName())
     TDGAAccount:setAccountType(TDGAAccount.kAccountRegistered)
---    TDGAAccount:setLevel(player:getLevel())
     TDGAAccount:setGender(TDGAAccount.kGenderFemale)
     TDGAAccount:setGameServer(tostring(serverId))
     print("-----------------------------------TD2",deviceId,serverId,userId)

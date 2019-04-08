@@ -275,6 +275,10 @@ end
 function RegisterShipScene:onEnterTransitionFinish()
     printInfo("RegisterShipScene:onEnterTransitionFinish()")
 
+    if device.platform == "ios" or device.platform == "android" then
+        TDGAMission:onBegin("RegisterShip")
+    end
+
     local rn = self:getResourceNode()
 
     animManager:runAnimOnceByCSB(rn, "RegisterScene/RegisterShipScene.csb", "intro", function ( ... )
@@ -333,6 +337,10 @@ function RegisterShipScene:onEnterTransitionFinish()
 
             if proto.result == 0 then
 
+                if device.platform == "ios" or device.platform == "android" then
+                    TDGAMission:onCompleted("RegisterShip")
+                    TDGAMission:onBegin("GreenHand")
+                end
                 -- if self.type == "reg" then
                 --     self.type = "log"
                 --     GameHandler.handler_c.connect()

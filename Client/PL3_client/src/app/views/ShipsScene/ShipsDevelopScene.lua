@@ -522,6 +522,9 @@ function ShipsDevelopScene:onEnterTransitionFinish()
 				end
 
 				flurryLogEvent("get_new_ship", {ship_num = tostring(player:getShipListSize()), ship_id = ship_str}, 2)
+                if device.platform == "ios" or device.platform == "android" then
+                    TDGAVirtualCurrency:onReward(proto.ship_id, "GetNewShip")
+                end
 				-- flurryLogEvent("get_new_ship", {ship_type = tostring(v.quality), ship_id = tostring(v.id)}, 2)
 
 				local layer = self:getApp():createView("ShipDevelopScene/DevelopSucessLayer", {data = CONF.AIRSHIP.get(proto.ship_id)})

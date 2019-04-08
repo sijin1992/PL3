@@ -132,6 +132,9 @@ function AddStrengthLayer:onEnterTransitionFinish()
 		
 				local credit_num = CONF.ITEM.get(self.s_item_id).BUY_VALUE
 				flurryLogEvent("use_credit_add_strength", {potion_id = tostring(self.s_item_id), credit_num = credit_num}, 1, credit_num)
+                if device.platform == "ios" or device.platform == "android" then
+                    TDGAItem:onUse(tostring(self.s_item_id), 1)
+                end
 			end
 		end
 	end

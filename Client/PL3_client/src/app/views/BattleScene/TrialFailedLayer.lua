@@ -112,6 +112,9 @@ function TrialFailedLayer:onEnterTransitionFinish()
 				printInfo("proto error")     
 			else
 				flurryLogEvent("trial", {result = "lose", copy_id = tostring(self.id)}, 2)           
+                if device.platform == "ios" or device.platform == "android" then
+                    TDGAMission:onFailed(tostring(self.id), "TrialFailed")
+                end
 			end
 
 		end

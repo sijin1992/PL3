@@ -101,6 +101,10 @@ end
 function RegisterPlayerScene:onEnterTransitionFinish()
 	printInfo("RegisterPlayerScene:onEnterTransitionFinish()")
 
+    if device.platform == "ios" or device.platform == "android" then
+        TDGAMission:onBegin("RegisterPlayer")
+    end
+
 	playMusic("sound/main.mp3", true)
 
 	self.headIcon = {}
@@ -365,6 +369,11 @@ function RegisterPlayerScene:onEnterTransitionFinish()
 								-- Added by Wei Jingjun 20180601 for Dangle SDK bug
 								Call_C_setQuickUserInfo()
 							end
+                            if device.platform == "ios" or device.platform == "android" then
+                                TDGAMission:onCompleted("RegisterPlayer")
+                                TDGAAccount:setAccountName(username)
+                                TDGAAccount:setLevel(0)
+                            end
 
 						else
 							print("create error:",output.result)

@@ -1461,6 +1461,9 @@ function BuildingUpgradeScene:onEnterTransitionFinish()
 				flurryLogEvent(CONF:getStringValue("BuildingName_"..self.data_.building_num).."_upgrade", {build_type = "speed_up" , data = player:getServerDateString().."-before_level"..(player:getBuildingInfo(self.data_.building_num).level-1).."-after_level"..player:getBuildingInfo(self.data_.building_num).level}, 2)
 
 				flurryLogEvent("use_credit_speed_up_build", {building_name = CONF:getStringValue("BuildingName_"..self.data_.building_num), credit_info = "before_use:"..(player:getMoney() + self.cdNum)..",after_use:"..player:getMoney()}, 1, self.cdNum)
+                if device.platform == "ios" or device.platform == "android" then
+                    TDGAItem:onPurchase("speed_up_buildBuildingName_"..self.data_.building_num, 1, tonumber(self.cdNum))
+                end
 
 				local node = require("util.UpgradeOverNode"):createNode(CONF:getStringValue("BuildingName_"..self.data_.building_num).."Lv."..proto.info.level..CONF:getStringValue("UpgradeSucess"))
 				node:setPosition(cc.exports.VisibleRect:center())

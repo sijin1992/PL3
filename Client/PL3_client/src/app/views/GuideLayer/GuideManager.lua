@@ -310,6 +310,13 @@ function GuideManager:createGuideLayer( id )
 		app:removeTopView()
 	end
 
+    if device.platform == "ios" or device.platform == "android" then
+        if id == CONF.GUIDANCE.count() then
+            TDGAMission:onCompleted("GreenHand")
+            TDGAAccount:setLevel(player:getLevel())
+        end
+    end
+
 	app:addView2Top("GuideLayer/GuideLayer", {id = id})
 	print("###LUA createGuideLayer END >>>>>>>>>>>>>>>>>>>")
 end

@@ -196,6 +196,9 @@ function FailedLayer:onEnterTransitionFinish()
 				printInfo("proto error")
 			else
 				flurryLogEvent("pve", {result = "lose", copy_id = tostring(self.id)}, 2)
+                if device.platform == "ios" or device.platform == "android" then
+                    TDGAMission:onFailed(tostring(self.id), "PVEFailed")
+                end
 
 				if proto.type == 0 then
 					
