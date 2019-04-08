@@ -662,7 +662,7 @@ function CityScene:onEnterTransitionFinish()
 	-- ADD WJJ 20180703
 	-- self:KeepLoading()
 
-	require("app.ExMemoryInterface"):getInstance():OnDisableMemoryReleaseAsync()
+	-- require("app.ExMemoryInterface"):getInstance():OnDisableMemoryReleaseAsync()
 
 	if cc.exports.g_background_music_name ~= "sound/main.mp3" then
 		playMusic("sound/main.mp3", true)
