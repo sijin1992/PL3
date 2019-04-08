@@ -381,6 +381,9 @@ function NormalTaskNode:init()
 			else
 				if proto.task_id > 0 then
 					flurryLogEvent("task", {task_id = tostring(proto.task_id)}, 2)
+                    if device.platform == "ios" or device.platform == "android" then
+                        TDGAMission:onCompleted("Task:"..proto.task_id)
+                    end
 				end
 
 				if guideManager:getShowGuide() then

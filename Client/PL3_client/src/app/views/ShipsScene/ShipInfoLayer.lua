@@ -514,7 +514,10 @@ function ShipInfoLayer:onEnterTransitionFinish()
 			if ship.level ~= player:getShipByGUID(guid).level then
 				self:createShipLevelUpNode(self.data_.shipId, player:calShipByInfo(ship), player:calShipByInfo(player:getShipByGUID(guid)))
 				flurryLogEvent("ship_level_up", {ship_id = tostring(self.data_.shipId), info = "before_level:"..ship.level.."-after_level:"..player:getShipByGUID(guid).level}, 2)
-			end
+			    if device.platform == "ios" or device.platform == "android" then
+                    TDGAMission:onCompleted("ShipLevelUP:"..self.data_.shipId.."("..ship.level.."-"..player:getShipByGUID(guid).level..")")
+                end
+            end
 
 			local ship_info = player:getShipByGUID(guid)
 			local exp_node = rn:getChildByName("exp_node")
@@ -607,6 +610,9 @@ function ShipInfoLayer:onEnterTransitionFinish()
 					break_num_2 = player:calShipByInfo(player:getShipByGUID(self.data_.guid)).ship_break
 				end
 				flurryLogEvent("ship_break_up", {ship_id = string.format("id:%d",before_ship_info.id), info = "before_break:"..break_num_1..",after_break:"..break_num_2}, 2)
+                if device.platform == "ios" or device.platform == "android" then
+                    TDGAMission:onCompleted("ShipBreakUP:"..before_ship_info.id.."("..break_num_1.."-"..break_num_2..")")
+                end
 				for i,v in ipairs(CONF.SHIP_BREAK.get(ship.quality)["ITEM_ID"..(ship.ship_break+1)]) do
 					if v == 3001 then
 						flurryLogEvent("use_gold_break_ship", {ship_id = string.format("id:%d",before_ship_info.id), info = "before_use:"..player:getResByIndex(1)..",after_use:"..(player:getResByIndex(1) + CONF.SHIP_BREAK.get(ship.quality)["ITEM_NUM"..(ship.ship_break+1)][i])}, 1,  CONF.SHIP_BREAK.get(ship.quality)["ITEM_NUM"..(ship.ship_break+1)][i])

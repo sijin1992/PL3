@@ -656,7 +656,9 @@ function CityScene:onEnterTransitionFinish()
     if cc.exports.FirstTouchlist == nil then
         cc.exports.FirstTouchlist = {1,3,4,5,7,10,11,12,13,14,16}
     end
-
+    if device.platform == "ios" or device.platform == "android" then
+        TDGAAccount:setLevel(player:getLevel())
+    end
 	-- ADD WJJ 20180703
 	-- self:KeepLoading()
 

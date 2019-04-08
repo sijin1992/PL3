@@ -2060,6 +2060,10 @@ function createLevelUpNode( level,level_now )
 	local player =  require("app.Player"):getInstance()
 	local animManager = require("app.AnimManager"):getInstance()
 
+    if device.platform == "ios" or device.platform == "android" then
+        TDGAAccount:setLevel(player:getLevel())
+    end
+
 	flurryLogEvent("player_level_up", {lineup_id =  player:getForms(), lineup_power = player:getLineupPower(), res = player:getUserInfo().res})
 	
 	local conf = CONF.PLAYERLEVEL.get(level)

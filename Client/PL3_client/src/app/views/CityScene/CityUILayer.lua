@@ -1673,6 +1673,9 @@ function CityUILayer:receiveMessage(  )
 					self:createTaskBar()
 					if proto.task_id > 0 then
 						flurryLogEvent("task", {task_id = tostring(proto.task_id)}, 2)
+                        if device.platform == "ios" or device.platform == "android" then
+                            TDGAMission:onCompleted("Task:"..proto.task_id)
+                        end
 						local gold_num = 0
 						local credit_num = 0
 						for i,v in ipairs(CONF.TASK.get(proto.task_id).ITEM_ID) do

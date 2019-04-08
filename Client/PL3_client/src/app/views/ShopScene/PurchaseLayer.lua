@@ -311,6 +311,10 @@ function PurchaseLayer:onEnterTransitionFinish()
 					self.maxNum = self.maxNum - proto.req.num                   
 				end
 
+                if device.platform == "ios" or device.platform == "android" then
+                    TDGAItem:onPurchase(tostring(proto.req.id), tonumber(proto.req.num), tonumber(self.conf.COST))
+                end
+
 				flurryLogEvent("shop_buy", {item_id = tostring(proto.req.id), buy_num = tostring(proto.req.num)}, 2)
 
 				if self.conf.COST_TYPE == 2 then
