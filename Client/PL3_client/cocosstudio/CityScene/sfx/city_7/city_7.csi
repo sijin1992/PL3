@@ -1,44 +1,6 @@
 <PlistInfoProjectFile>
   <PropertyGroup Name="city_7" Type="Plist" ID="26e574bc-d6bf-4082-85d4-60d079a4baa2" Version="3.10.0.0" />
   <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
-    <ImageFiles>
-      <FilePathData Path="CityScene/sfx/city_7/344433333.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0001.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0003.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0005.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0007.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0009.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0011.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0013.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0015.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0017.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0019.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0021.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0023.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0025.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0027.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0029.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0031.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0033.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0035.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0037.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0039.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0041.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0043.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0045.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0047.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0049.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0051.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0053.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0055.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0057.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0059.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0061.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0063.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0065.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0067.png" />
-      <FilePathData Path="CityScene/sfx/city_7/ccif0069.png" />
-    </ImageFiles>
-    <MaxSize Width="1024" Height="1024" />
+    <MaxSize Width="32" Height="32" />
   </Content>
 </PlistInfoProjectFile>

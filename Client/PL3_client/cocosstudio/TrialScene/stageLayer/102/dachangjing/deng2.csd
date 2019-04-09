@@ -379,7 +379,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
-                <FileData Type="MarkedSubImage" Path="CityScene/sfx/city_1/hongdeng.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+                <FileData Type="Normal" Path="CityScene/sfx/city_1/hongdeng.png" Plist="" />
                 <BlendFunc Src="770" Dst="1" />
               </AbstractNodeData>
             </Children>
