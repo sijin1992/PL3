@@ -49,8 +49,8 @@ function ExViewInterface:ShowActivityUI(_param)
 end
 
 function ExViewInterface:ShowShopUI(_param)
-	-- self:getApp():addView2Top("ShopScene/ShopLayer")
-	self:ShowUI("ShopScene/ShopLayer", _param)
+	self:getApp():addView2Top("ShopScene/ShopLayer")
+--	self:ShowUI("ShopScene/ShopLayer", _param)
 end
 
 ------------------------------------------------
