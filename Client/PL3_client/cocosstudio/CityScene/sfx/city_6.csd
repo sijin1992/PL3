@@ -2,7 +2,7 @@
   <PropertyGroup Name="city_6" Type="Node" ID="8b857780-8ec7-4eb0-a96f-a4d51357ec59" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
-      <Animation Duration="386" Speed="1.0000">
+      <Animation Duration="386" Speed="1.0000" ActivedAnimationName="1">
         <Timeline ActionTag="-765886690" Property="Position">
           <PointFrame FrameIndex="0" X="-105.7700" Y="48.3308">
             <EasingData Type="0" />
@@ -180,43 +180,43 @@
         </Timeline>
         <Timeline ActionTag="310556319" Property="FileData">
           <TextureFrame FrameIndex="65" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_1_0002.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_1_0002.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="69" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_1_0003.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_1_0003.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="73" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_1_0004.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_1_0004.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="77" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_1_0005.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_1_0005.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="81" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_1_0006.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_1_0006.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="85" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_1_0007.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_1_0007.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="89" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_1_0008.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_1_0008.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="93" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_1_0009.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_1_0009.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="97" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_1_0010.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_1_0010.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="101" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_1_0011.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_1_0011.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="105" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_1_0012.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_1_0012.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="109" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_1_0013.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_1_0013.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="113" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_1_0014.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_1_0014.png" Plist="" />
           </TextureFrame>
         </Timeline>
         <Timeline ActionTag="310556319" Property="Position">
@@ -252,49 +252,49 @@
         </Timeline>
         <Timeline ActionTag="-1666880919" Property="FileData">
           <TextureFrame FrameIndex="15" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_2_0013.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_2_0013.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="16" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_2_0013.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_2_0013.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="20" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_2_0014.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_2_0014.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="24" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_2_0015.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_2_0015.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="28" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_2_0001.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_2_0001.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="32" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_2_0002.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_2_0002.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="36" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_2_0003.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_2_0003.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="40" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_2_0004.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_2_0004.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="44" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_2_0005.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_2_0005.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="48" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_2_0006.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_2_0006.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="52" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_2_0007.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_2_0007.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="56" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_2_0008.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_2_0008.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="60" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_2_0009.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_2_0009.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="64" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_2_0010.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_2_0010.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="68" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_2_0011.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_2_0011.png" Plist="" />
           </TextureFrame>
         </Timeline>
         <Timeline ActionTag="-1666880919" Property="Alpha">
@@ -307,40 +307,40 @@
         </Timeline>
         <Timeline ActionTag="-1797971845" Property="FileData">
           <TextureFrame FrameIndex="0" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuanrao_0001.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuanrao_0001.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="10" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuanrao_0002.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuanrao_0002.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="20" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuanrao_0003.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuanrao_0003.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="30" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuanrao_0004.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuanrao_0004.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="40" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuanrao_0005.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuanrao_0005.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="50" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuanrao_0006.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuanrao_0006.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="60" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuanrao_0001.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuanrao_0001.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="80" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuanrao_0001.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuanrao_0001.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="90" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuanrao_0002.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuanrao_0002.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="100" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuanrao_0003.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuanrao_0003.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="110" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuanrao_0004.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuanrao_0004.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="115" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuanrao_0005.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_1/lansexuanrao_0005.png" Plist="" />
           </TextureFrame>
         </Timeline>
         <Timeline ActionTag="-1797971845" Property="Alpha">
@@ -642,10 +642,10 @@
           <AbstractNodeData Name="Node_15" ActionTag="2068343858" Tag="3406" IconVisible="True" LeftMargin="173.5384" RightMargin="-173.5384" TopMargin="67.5047" BottomMargin="-67.5047" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
-              <AbstractNodeData Name="lansesheguangdeng_18" Visible="False" ActionTag="-765886690" VisibleForFrame="False" Tag="21" RotationSkewX="6.4528" RotationSkewY="6.4524" IconVisible="False" LeftMargin="-148.7700" RightMargin="62.7700" TopMargin="-207.3300" BottomMargin="48.3300" ctype="SpriteObjectData">
+              <AbstractNodeData Name="lansesheguangdeng_18" Visible="False" ActionTag="-765886690" VisibleForFrame="False" Tag="21" RotationSkewX="-3.3780" RotationSkewY="-3.3783" IconVisible="False" LeftMargin="-148.5193" RightMargin="62.5193" TopMargin="-207.3300" BottomMargin="48.3300" ctype="SpriteObjectData">
                 <Size X="86.0000" Y="159.0000" />
                 <AnchorPoint ScaleX="0.5000" />
-                <Position X="-105.7700" Y="48.3300" />
+                <Position X="-105.5193" Y="48.3300" />
                 <Scale ScaleX="0.6606" ScaleY="1.0803" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -664,7 +664,7 @@
           <AbstractNodeData Name="juguangdeng" ActionTag="2083287091" Tag="23" RotationSkewX="-22.2220" RotationSkewY="-22.2220" IconVisible="True" LeftMargin="-25.8414" RightMargin="25.8414" TopMargin="-6.1880" BottomMargin="6.1880" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
-              <AbstractNodeData Name="lansesheguangdeng_19" ActionTag="-1742225949" VisibleForFrame="False" Tag="22" RotationSkewX="20.7987" RotationSkewY="20.7980" IconVisible="False" LeftMargin="-108.4135" RightMargin="22.4135" TopMargin="-107.9517" BottomMargin="-51.0483" ctype="SpriteObjectData">
+              <AbstractNodeData Name="lansesheguangdeng_19" ActionTag="-1742225949" VisibleForFrame="False" Tag="22" RotationSkewX="13.1781" RotationSkewY="13.1780" IconVisible="False" LeftMargin="-108.4135" RightMargin="22.4135" TopMargin="-107.9517" BottomMargin="-51.0483" ctype="SpriteObjectData">
                 <Size X="86.0000" Y="159.0000" />
                 <AnchorPoint ScaleX="0.5000" />
                 <Position X="-65.4135" Y="-51.0483" />
@@ -702,7 +702,7 @@
             <CColor A="255" R="42" G="151" B="254" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_1_0002.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <FileData Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_1_0014.png" Plist="" />
             <BlendFunc Src="770" Dst="1" />
           </AbstractNodeData>
           <AbstractNodeData Name="languang_2" ActionTag="-1666880919" VisibleForFrame="False" Tag="5" IconVisible="False" LeftMargin="81.8619" RightMargin="-162.8619" TopMargin="72.8240" BottomMargin="-111.8240" ctype="SpriteObjectData">
@@ -713,7 +713,7 @@
             <CColor A="255" R="42" G="151" B="254" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuliedeng_2_0011.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <FileData Type="Normal" Path="CityScene/sfx/city_1/lansexuliedeng_2_0011.png" Plist="" />
             <BlendFunc Src="770" Dst="1" />
           </AbstractNodeData>
           <AbstractNodeData Name="Sprite_5" ActionTag="-1797971845" VisibleForFrame="False" Tag="6" RotationSkewX="-1.0858" RotationSkewY="-1.0858" IconVisible="False" LeftMargin="6.6167" RightMargin="-64.6167" TopMargin="41.2252" BottomMargin="-80.2252" ctype="SpriteObjectData">
@@ -724,7 +724,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="MarkedSubImage" Path="CityScene/sfx/city_1/lansexuanrao_0001.png" Plist="CityScene/sfx/city_1/city_1.plist" />
+            <FileData Type="Normal" Path="CityScene/sfx/city_1/lansexuanrao_0005.png" Plist="" />
             <BlendFunc Src="770" Dst="1" />
           </AbstractNodeData>
           <AbstractNodeData Name="icon_suo" ActionTag="-230887610" Alpha="0" Tag="137" IconVisible="False" LeftMargin="-78.5006" RightMargin="-90.4994" TopMargin="-32.9993" BottomMargin="-117.0007" ctype="SpriteObjectData">
@@ -746,7 +746,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="CityScene/sfx/city_1/zishen/10002.png" Plist="" />
+            <FileData Type="Normal" Path="CityScene/sfx/city_1/zishen/10012.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
         </Children>

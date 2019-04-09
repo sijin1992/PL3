@@ -181,448 +181,448 @@
         </Timeline>
         <Timeline ActionTag="-845126818" Property="FileData">
           <TextureFrame FrameIndex="0" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0001.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0001.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="2" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0003.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0003.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="4" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0005.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0005.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="6" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0007.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0007.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="8" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0009.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0009.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="10" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0011.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0011.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="12" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0013.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0013.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="14" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0015.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0015.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="16" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0017.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0017.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="18" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0019.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0019.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="20" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0021.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0021.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="22" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0023.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0023.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="24" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0025.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0025.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="26" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0027.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0027.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="28" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0029.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0029.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="30" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0031.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0031.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="32" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0033.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0033.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="34" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0035.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0035.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="36" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0037.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0037.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="38" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0039.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0039.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="40" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0041.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0041.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="42" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0043.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0043.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="44" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0045.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0045.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="46" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0047.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0047.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="48" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0049.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0049.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="50" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0051.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0051.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="52" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0053.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0053.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="54" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0055.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0055.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="56" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0057.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0057.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="58" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0059.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0059.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="60" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0061.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0061.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="62" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0063.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0063.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="64" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0065.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0065.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="66" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0067.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0067.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="68" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0069.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0069.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="69" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0069.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0069.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="115" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0069.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0069.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="116" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0001.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0001.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="118" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0003.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0003.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="120" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0005.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0005.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="122" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0007.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0007.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="124" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0009.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0009.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="126" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0011.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0011.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="128" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0013.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0013.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="130" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0015.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0015.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="132" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0017.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0017.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="134" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0019.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0019.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="136" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0021.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0021.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="138" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0023.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0023.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="140" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0025.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0025.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="142" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0027.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0027.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="144" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0029.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0029.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="146" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0031.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0031.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="148" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0033.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0033.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="150" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0035.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0035.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="152" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0037.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0037.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="154" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0039.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0039.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="156" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0041.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0041.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="158" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0043.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0043.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="160" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0045.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0045.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="162" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0047.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0047.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="164" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0049.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0049.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="166" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0051.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0051.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="168" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0053.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0053.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="170" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0055.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0055.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="172" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0057.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0057.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="174" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0059.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0059.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="176" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0061.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0061.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="178" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0063.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0063.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="180" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0065.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0065.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="182" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0067.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0067.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="184" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0069.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0069.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="185" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0069.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0069.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="231" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0069.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0069.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="245" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0001.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0001.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="247" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0003.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0003.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="249" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0005.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0005.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="251" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0007.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0007.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="253" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0009.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0009.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="255" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0011.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0011.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="257" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0013.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0013.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="259" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0015.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0015.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="261" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0017.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0017.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="263" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0019.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0019.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="265" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0021.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0021.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="267" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0023.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0023.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="269" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0025.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0025.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="271" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0027.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0027.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="273" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0029.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0029.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="275" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0031.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0031.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="277" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0033.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0033.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="279" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0035.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0035.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="281" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0037.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0037.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="283" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0039.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0039.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="285" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0041.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0041.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="287" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0043.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0043.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="289" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0045.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0045.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="291" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0047.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0047.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="293" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0049.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0049.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="295" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0051.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0051.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="297" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0053.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0053.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="299" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0055.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0055.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="301" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0057.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0057.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="303" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0059.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0059.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="305" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0061.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0061.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="307" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0063.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0063.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="309" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0065.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0065.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="311" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0067.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0067.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="313" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0069.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0069.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="314" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0069.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0069.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="360" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0069.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0069.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="361" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0001.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0001.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="363" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0003.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0003.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="365" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0005.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0005.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="367" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0007.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0007.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="369" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0009.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0009.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="371" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0011.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0011.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="373" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0013.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0013.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="375" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0015.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0015.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="377" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0017.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0017.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="379" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0019.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0019.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="381" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0021.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0021.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="383" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0023.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0023.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="385" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0025.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0025.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="387" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0027.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0027.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="389" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0029.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0029.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="391" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0031.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0031.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="393" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0033.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0033.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="395" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0035.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0035.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="397" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0037.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0037.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="399" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0039.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0039.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="401" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0041.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0041.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="403" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0043.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0043.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="405" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0045.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0045.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="407" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0047.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0047.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="409" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0049.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0049.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="411" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0051.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0051.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="413" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0053.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0053.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="415" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0055.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0055.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="417" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0057.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0057.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="419" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0059.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0059.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="421" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0061.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0061.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="423" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0063.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0063.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="425" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0065.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0065.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="427" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0067.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0067.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="429" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0069.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0069.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="430" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0069.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0069.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="476" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0069.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0069.png" Plist="" />
           </TextureFrame>
         </Timeline>
         <Timeline ActionTag="-845126818" Property="Alpha">
@@ -788,463 +788,463 @@
         </Timeline>
         <Timeline ActionTag="1483819975" Property="FileData">
           <TextureFrame FrameIndex="0" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0001.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0001.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="44" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0001.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0001.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="45" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0001.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0001.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="47" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0003.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0003.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="49" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0005.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0005.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="51" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0007.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0007.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="53" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0009.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0009.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="55" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0011.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0011.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="57" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0013.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0013.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="59" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0015.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0015.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="61" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0017.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0017.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="63" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0019.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0019.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="65" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0021.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0021.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="67" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0023.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0023.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="69" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0025.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0025.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="71" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0027.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0027.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="73" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0029.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0029.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="75" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0031.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0031.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="77" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0033.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0033.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="79" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0035.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0035.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="81" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0037.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0037.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="83" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0039.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0039.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="85" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0041.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0041.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="87" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0043.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0043.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="89" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0045.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0045.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="91" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0047.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0047.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="93" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0049.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0049.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="95" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0051.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0051.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="97" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0053.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0053.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="99" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0055.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0055.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="101" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0057.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0057.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="103" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0059.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0059.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="105" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0061.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0061.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="107" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0063.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0063.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="109" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0065.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0065.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="111" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0067.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0067.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="113" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0069.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0069.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="114" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0069.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0069.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="116" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0001.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0001.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="160" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0001.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0001.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="161" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0001.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0001.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="163" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0003.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0003.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="165" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0005.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0005.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="167" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0007.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0007.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="169" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0009.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0009.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="171" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0011.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0011.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="173" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0013.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0013.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="175" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0015.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0015.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="177" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0017.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0017.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="179" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0019.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0019.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="181" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0021.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0021.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="183" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0023.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0023.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="185" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0025.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0025.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="187" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0027.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0027.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="189" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0029.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0029.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="191" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0031.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0031.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="193" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0033.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0033.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="195" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0035.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0035.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="197" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0037.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0037.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="199" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0039.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0039.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="201" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0041.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0041.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="203" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0043.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0043.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="205" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0045.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0045.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="207" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0047.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0047.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="209" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0049.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0049.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="211" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0051.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0051.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="213" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0053.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0053.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="215" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0055.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0055.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="217" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0057.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0057.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="219" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0059.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0059.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="221" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0061.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0061.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="223" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0063.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0063.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="225" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0065.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0065.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="227" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0067.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0067.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="229" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0069.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0069.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="230" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0069.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0069.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="245" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0001.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0001.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="289" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0001.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0001.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="290" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0001.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0001.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="292" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0003.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0003.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="294" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0005.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0005.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="296" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0007.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0007.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="298" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0009.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0009.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="300" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0011.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0011.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="302" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0013.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0013.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="304" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0015.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0015.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="306" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0017.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0017.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="308" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0019.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0019.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="310" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0021.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0021.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="312" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0023.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0023.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="314" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0025.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0025.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="316" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0027.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0027.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="318" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0029.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0029.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="320" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0031.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0031.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="322" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0033.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0033.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="324" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0035.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0035.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="326" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0037.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0037.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="328" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0039.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0039.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="330" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0041.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0041.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="332" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0043.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0043.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="334" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0045.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0045.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="336" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0047.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0047.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="338" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0049.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0049.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="340" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0051.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0051.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="342" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0053.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0053.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="344" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0055.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0055.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="346" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0057.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0057.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="348" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0059.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0059.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="350" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0061.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0061.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="352" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0063.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0063.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="354" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0065.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0065.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="356" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0067.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0067.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="358" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0069.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0069.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="359" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0069.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0069.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="361" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0001.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0001.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="405" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0001.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0001.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="406" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0001.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0001.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="408" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0003.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0003.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="410" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0005.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0005.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="412" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0007.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0007.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="414" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0009.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0009.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="416" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0011.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0011.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="418" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0013.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0013.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="420" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0015.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0015.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="422" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0017.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0017.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="424" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0019.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0019.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="426" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0021.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0021.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="428" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0023.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0023.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="430" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0025.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0025.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="432" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0027.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0027.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="434" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0029.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0029.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="436" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0031.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0031.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="438" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0033.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0033.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="440" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0035.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0035.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="442" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0037.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0037.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="444" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0039.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0039.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="446" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0041.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0041.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="448" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0043.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0043.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="450" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0045.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0045.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="452" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0047.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0047.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="454" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0049.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0049.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="456" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0051.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0051.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="458" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0053.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0053.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="460" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0055.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0055.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="462" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0057.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0057.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="464" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0059.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0059.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="466" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0061.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0061.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="468" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0063.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0063.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="470" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0065.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0065.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="472" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0067.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0067.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="474" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0069.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0069.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="475" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0069.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0069.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="570" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0001.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_7/ccif0001.png" Plist="" />
           </TextureFrame>
         </Timeline>
         <Timeline ActionTag="1483819975" Property="Alpha">
@@ -1356,247 +1356,247 @@
         </Timeline>
         <Timeline ActionTag="1462131043" Property="FileData">
           <TextureFrame FrameIndex="0" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540002.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540002.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="6" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540004.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540004.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="12" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540006.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540006.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="18" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540008.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540008.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="24" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540010.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540010.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="30" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540012.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540012.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="36" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540014.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540014.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="42" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540016.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540016.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="48" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540018.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540018.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="54" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540020.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540020.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="61" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540022.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540022.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="67" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540024.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540024.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="73" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540026.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540026.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="79" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540028.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540028.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="85" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540030.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540030.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="91" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540032.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540032.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="97" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540034.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540034.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="103" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540036.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540036.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="109" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540038.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540038.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="112" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540038.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540038.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="116" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540002.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540002.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="122" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540004.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540004.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="128" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540006.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540006.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="134" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540008.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540008.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="140" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540010.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540010.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="146" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540012.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540012.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="152" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540014.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540014.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="158" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540016.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540016.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="164" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540018.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540018.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="170" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540020.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540020.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="177" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540022.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540022.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="183" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540024.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540024.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="189" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540026.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540026.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="195" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540028.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540028.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="201" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540030.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540030.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="207" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540032.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540032.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="213" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540034.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540034.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="219" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540036.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540036.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="225" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540038.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540038.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="228" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540038.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540038.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="245" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540002.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540002.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="251" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540004.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540004.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="257" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540006.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540006.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="263" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540008.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540008.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="269" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540010.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540010.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="275" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540012.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540012.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="281" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540014.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540014.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="287" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540016.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540016.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="293" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540018.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540018.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="299" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540020.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540020.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="306" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540022.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540022.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="312" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540024.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540024.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="318" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540026.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540026.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="324" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540028.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540028.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="330" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540030.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540030.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="336" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540032.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540032.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="342" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540034.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540034.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="348" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540036.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540036.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="354" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540038.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540038.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="357" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540038.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540038.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="361" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540002.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540002.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="367" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540004.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540004.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="373" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540006.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540006.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="379" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540008.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540008.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="385" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540010.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540010.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="391" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540012.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540012.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="397" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540014.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540014.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="403" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540016.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540016.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="409" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540018.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540018.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="415" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540020.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540020.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="422" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540022.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540022.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="428" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540024.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540024.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="434" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540026.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540026.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="440" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540028.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540028.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="446" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540030.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540030.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="452" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540032.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540032.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="458" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540034.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540034.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="464" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540036.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540036.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="470" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540038.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540038.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="473" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540038.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540038.png" Plist="" />
           </TextureFrame>
           <TextureFrame FrameIndex="570" Tween="False">
-            <TextureFile Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540002.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+            <TextureFile Type="Normal" Path="CityScene/sfx/city_6/xulie234540002.png" Plist="" />
           </TextureFrame>
         </Timeline>
         <Timeline ActionTag="1462131043" Property="Alpha">
@@ -4727,7 +4727,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FileData Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0049.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+                    <FileData Type="Normal" Path="CityScene/sfx/city_7/ccif0049.png" Plist="" />
                     <BlendFunc Src="770" Dst="1" />
                   </AbstractNodeData>
                 </Children>
@@ -4749,7 +4749,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FileData Type="MarkedSubImage" Path="CityScene/sfx/city_7/ccif0005.png" Plist="CityScene/sfx/city_7/city_7.plist" />
+                    <FileData Type="Normal" Path="CityScene/sfx/city_7/ccif0005.png" Plist="" />
                     <BlendFunc Src="770" Dst="1" />
                   </AbstractNodeData>
                 </Children>
@@ -4768,7 +4768,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
-                <FileData Type="MarkedSubImage" Path="CityScene/sfx/city_6/xulie234540018.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+                <FileData Type="Normal" Path="CityScene/sfx/city_6/xulie234540018.png" Plist="" />
                 <BlendFunc Src="770" Dst="1" />
               </AbstractNodeData>
               <AbstractNodeData Name="pinmu1_2" ActionTag="1749151520" Tag="229" IconVisible="False" LeftMargin="-35.6278" RightMargin="-3.3722" TopMargin="-29.3977" BottomMargin="5.3977" ctype="SpriteObjectData">
@@ -4779,7 +4779,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
-                <FileData Type="MarkedSubImage" Path="CityScene/sfx/city_6/pinmu1.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+                <FileData Type="Normal" Path="CityScene/sfx/city_6/pinmu1.png" Plist="" />
                 <BlendFunc Src="770" Dst="1" />
               </AbstractNodeData>
               <AbstractNodeData Name="pinmu4_3" ActionTag="670224310" Alpha="0" Tag="230" IconVisible="False" LeftMargin="-35.1058" RightMargin="-2.8942" TopMargin="-27.0770" BottomMargin="10.0770" ctype="SpriteObjectData">
@@ -4790,7 +4790,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
-                <FileData Type="MarkedSubImage" Path="CityScene/sfx/city_6/pinmu4.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+                <FileData Type="Normal" Path="CityScene/sfx/city_6/pinmu4.png" Plist="" />
                 <BlendFunc Src="770" Dst="1" />
               </AbstractNodeData>
               <AbstractNodeData Name="pinmu2_4" ActionTag="-131124259" Tag="231" RotationSkewX="-8.9963" RotationSkewY="-8.9964" IconVisible="False" LeftMargin="-59.3397" RightMargin="36.3397" TopMargin="-38.2419" BottomMargin="12.2419" FlipX="True" ctype="SpriteObjectData">
@@ -4801,7 +4801,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
-                <FileData Type="MarkedSubImage" Path="CityScene/sfx/city_6/pinmu2.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+                <FileData Type="Normal" Path="CityScene/sfx/city_6/pinmu2.png" Plist="" />
                 <BlendFunc Src="770" Dst="1" />
               </AbstractNodeData>
               <AbstractNodeData Name="pinmu3_5" ActionTag="-1961245143" Tag="232" RotationSkewX="8.6076" RotationSkewY="8.6077" IconVisible="False" LeftMargin="6.7540" RightMargin="-57.7540" TopMargin="-39.6616" BottomMargin="-3.3384" FlipX="True" ctype="SpriteObjectData">
@@ -4812,7 +4812,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
-                <FileData Type="MarkedSubImage" Path="CityScene/sfx/city_6/pinmu3.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+                <FileData Type="Normal" Path="CityScene/sfx/city_6/pinmu3.png" Plist="" />
                 <BlendFunc Src="770" Dst="1" />
               </AbstractNodeData>
               <AbstractNodeData Name="pinmu4_6" ActionTag="-956622859" Alpha="0" Tag="233" RotationSkewX="9.0534" RotationSkewY="9.0533" IconVisible="False" LeftMargin="12.5470" RightMargin="-50.5470" TopMargin="-34.4400" BottomMargin="17.4400" ctype="SpriteObjectData">
@@ -4823,7 +4823,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
-                <FileData Type="MarkedSubImage" Path="CityScene/sfx/city_6/pinmu4.png" Plist="CityScene/sfx/city_6/city_6.plist" />
+                <FileData Type="Normal" Path="CityScene/sfx/city_6/pinmu4.png" Plist="" />
                 <BlendFunc Src="770" Dst="1" />
               </AbstractNodeData>
               <AbstractNodeData Name="jian2" ActionTag="-326224549" Tag="439" IconVisible="True" ctype="SingleNodeObjectData">
