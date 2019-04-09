@@ -55,12 +55,12 @@ function ShopLayer:OnBtnClick(event)
 			-- self:getApp():pushToRootView("CityScene/CityScene", {pos = g_city_scene_pos})
 
 			-- EDIT BY WJJ 20180625
-			-- self:getApp():removeTopView()
-			if( self.IS_SCENE_TRANSFER_EFFECT ) then
-				self.lagHelper:BeginTransferEffect("city")
-			else
-				self:getApp():popView()
-			end
+			 self:getApp():removeTopView()
+--			if( self.IS_SCENE_TRANSFER_EFFECT ) then
+--				self.lagHelper:BeginTransferEffect("city")
+--			else
+--				self:getApp():popView()
+--			end
 		end
 	end
 end
@@ -173,10 +173,10 @@ function ShopLayer:onEnterTransitionFinish()
 			local proto = Tools.decode("CmdClientGMResp",strData)
 			print("CMD_CLIENT_GM_RESP result",proto.result)
 
-			gl:releaseLoading()
+--			gl:releaseLoading()
 		elseif cmd == Tools.enum_id("CMD_DEFINE","CMD_SHOP_TIME_ITEM_LIST_RESP") then
 
-			gl:releaseLoading()
+--			gl:releaseLoading()
 
 			local proto = Tools.decode("ShopTimeItemListResp",strData)
 			print("ShopTimeItemListResp, proto result",proto.result)
@@ -236,7 +236,7 @@ function ShopLayer:sendMsg(  )
 	print("CMD_SHOP_TIME_ITEM_LIST_REQ")
 	GameHandler.handler_c.send(Tools.enum_id("CMD_DEFINE","CMD_SHOP_TIME_ITEM_LIST_REQ"),"1")
 
-	gl:retainLoading()
+--	gl:retainLoading()
 end
 
 function ShopLayer:updateRes(  )

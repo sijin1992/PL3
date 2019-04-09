@@ -156,14 +156,6 @@
             <EasingData Type="0" />
           </IntFrame>
         </Timeline>
-        <Timeline ActionTag="310996937" Property="Alpha">
-          <IntFrame FrameIndex="43" Value="0">
-            <EasingData Type="0" />
-          </IntFrame>
-          <IntFrame FrameIndex="50" Value="255">
-            <EasingData Type="0" />
-          </IntFrame>
-        </Timeline>
       </Animation>
       <AnimationList>
         <AnimationInfo Name="intro" StartIndex="0" EndIndex="50">
@@ -193,18 +185,18 @@
             <PreSize X="1.5845" Y="1.0260" />
             <FileData Type="Normal" Path="ShopScene/ui/line_bt2.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="background" ActionTag="-1652349035" Tag="1922" IconVisible="False" LeftMargin="0.9137" RightMargin="1.0863" TopMargin="96.8187" BottomMargin="110.1813" ctype="SpriteObjectData">
+          <AbstractNodeData Name="background" ActionTag="-1652349035" Alpha="45" Tag="1922" IconVisible="False" LeftMargin="0.9137" RightMargin="1.0863" TopMargin="96.8187" BottomMargin="110.1813" ctype="SpriteObjectData">
             <Size X="1134.0000" Y="561.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="567.9137" Y="390.6813" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Scale ScaleX="0.2280" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.4999" Y="0.5087" />
             <PreSize X="0.9982" Y="0.7305" />
             <FileData Type="Normal" Path="Common/newUI/common_bj.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="shop" ActionTag="-707125660" Tag="1916" IconVisible="False" LeftMargin="534.9100" RightMargin="535.0900" TopMargin="119.6200" BottomMargin="617.3800" LeftEage="21" RightEage="21" TopEage="10" BottomEage="10" Scale9OriginX="21" Scale9OriginY="10" Scale9Width="24" Scale9Height="11" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="shop" ActionTag="-707125660" Tag="1916" IconVisible="False" LeftMargin="534.9100" RightMargin="535.0900" TopMargin="119.6200" BottomMargin="617.3800" LeftEage="21" RightEage="21" TopEage="10" BottomEage="10" Scale9OriginX="21" Scale9OriginY="10" Scale9Width="36" Scale9Height="11" ctype="ImageViewObjectData">
             <Size X="66.0000" Y="31.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="567.9100" Y="632.8800" />
@@ -214,11 +206,11 @@
             <PreSize X="0.0581" Y="0.0404" />
             <FileData Type="Normal" Path="ShopScene/ui/shop.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="close" ActionTag="955337237" Tag="1917" IconVisible="False" LeftMargin="1000.5161" RightMargin="83.4839" TopMargin="112.1238" BottomMargin="603.8762" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="22" Scale9Height="30" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="close" ActionTag="955337237" Alpha="0" Tag="1917" IconVisible="False" LeftMargin="1000.5161" RightMargin="83.4839" TopMargin="112.1238" BottomMargin="603.8762" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="22" Scale9Height="30" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="52.0000" Y="52.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="1026.5161" Y="629.8762" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Scale ScaleX="0.0100" ScaleY="0.0100" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.9036" Y="0.8202" />
             <PreSize X="0.0458" Y="0.0677" />
@@ -229,17 +221,17 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Image_125" ActionTag="265777379" Tag="1953" IconVisible="False" LeftMargin="137.9833" RightMargin="139.0167" TopMargin="68.1979" BottomMargin="664.8021" LeftEage="283" RightEage="283" TopEage="11" BottomEage="11" Scale9OriginX="283" Scale9OriginY="11" Scale9Width="292" Scale9Height="13" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="Image_125" ActionTag="265777379" Alpha="0" Tag="1953" IconVisible="False" LeftMargin="137.9833" RightMargin="139.0167" TopMargin="68.1979" BottomMargin="664.8021" LeftEage="283" RightEage="283" TopEage="11" BottomEage="11" Scale9OriginX="283" Scale9OriginY="11" Scale9Width="292" Scale9Height="13" ctype="ImageViewObjectData">
             <Size X="859.0000" Y="35.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="567.4833" Y="682.3021" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Scale ScaleX="0.0100" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.4995" Y="0.8884" />
             <PreSize X="0.7562" Y="0.0456" />
             <FileData Type="Normal" Path="ShopScene/ui/bottom_bg5.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="res_1" ActionTag="1994577927" Tag="1732" IconVisible="False" LeftMargin="294.7803" RightMargin="741.2197" TopMargin="66.9950" BottomMargin="676.0050" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+          <AbstractNodeData Name="res_1" ActionTag="1994577927" Alpha="0" Tag="1732" IconVisible="False" LeftMargin="294.7803" RightMargin="741.2197" TopMargin="66.9950" BottomMargin="676.0050" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
             <Size X="100.0000" Y="25.0000" />
             <Children>
               <AbstractNodeData Name="icon" ActionTag="-282156783" UserData="righttop" Tag="1733" IconVisible="False" LeftMargin="-30.6873" RightMargin="58.6873" TopMargin="-17.1803" BottomMargin="-29.8197" ctype="SpriteObjectData">
@@ -277,7 +269,7 @@
             <EndColor A="255" R="255" G="255" B="255" />
             <ColorVector ScaleY="1.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="res_2" ActionTag="1439859636" Tag="1735" IconVisible="False" LeftMargin="409.2083" RightMargin="626.7917" TopMargin="68.0573" BottomMargin="674.9427" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+          <AbstractNodeData Name="res_2" ActionTag="1439859636" Alpha="0" Tag="1735" IconVisible="False" LeftMargin="409.2083" RightMargin="626.7917" TopMargin="68.0573" BottomMargin="674.9427" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
             <Size X="100.0000" Y="25.0000" />
             <Children>
               <AbstractNodeData Name="icon" ActionTag="1786760209" UserData="righttop" Tag="1736" IconVisible="False" LeftMargin="-27.9707" RightMargin="55.9707" TopMargin="-18.2419" BottomMargin="-28.7581" ctype="SpriteObjectData">
@@ -315,7 +307,7 @@
             <EndColor A="255" R="255" G="255" B="255" />
             <ColorVector ScaleY="1.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="res_3" ActionTag="-1205245523" Tag="1738" IconVisible="False" LeftMargin="521.5110" RightMargin="514.4890" TopMargin="69.5385" BottomMargin="673.4615" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+          <AbstractNodeData Name="res_3" ActionTag="-1205245523" Alpha="0" Tag="1738" IconVisible="False" LeftMargin="521.5110" RightMargin="514.4890" TopMargin="69.5385" BottomMargin="673.4615" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
             <Size X="100.0000" Y="25.0000" />
             <Children>
               <AbstractNodeData Name="icon" ActionTag="1486415087" UserData="righttop" Tag="1739" IconVisible="False" LeftMargin="-17.8467" RightMargin="57.8467" TopMargin="-24.2233" BottomMargin="-31.7767" ctype="SpriteObjectData">
@@ -353,7 +345,7 @@
             <EndColor A="255" R="255" G="255" B="255" />
             <ColorVector ScaleY="1.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="res_4" ActionTag="1453559077" Tag="1741" IconVisible="False" LeftMargin="643.8624" RightMargin="392.1376" TopMargin="68.6884" BottomMargin="674.3116" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+          <AbstractNodeData Name="res_4" ActionTag="1453559077" Alpha="0" Tag="1741" IconVisible="False" LeftMargin="643.8624" RightMargin="392.1376" TopMargin="68.6884" BottomMargin="674.3116" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
             <Size X="100.0000" Y="25.0000" />
             <Children>
               <AbstractNodeData Name="icon" ActionTag="-1281569227" UserData="righttop" Tag="1742" IconVisible="False" LeftMargin="-31.6888" RightMargin="55.6888" TopMargin="-21.8738" BottomMargin="-31.1262" ctype="SpriteObjectData">
@@ -391,7 +383,7 @@
             <EndColor A="255" R="255" G="255" B="255" />
             <ColorVector ScaleY="1.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="res_5" ActionTag="1577172681" Tag="1744" IconVisible="False" LeftMargin="727.2045" RightMargin="308.7955" TopMargin="73.4943" BottomMargin="644.5057" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+          <AbstractNodeData Name="res_5" ActionTag="1577172681" Alpha="0" Tag="1744" IconVisible="False" LeftMargin="727.2045" RightMargin="308.7955" TopMargin="73.4943" BottomMargin="644.5057" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
             <Size X="100.0000" Y="50.0000" />
             <Children>
               <AbstractNodeData Name="money_touch" ActionTag="-1335284220" Alpha="0" Tag="1745" IconVisible="False" LeftMargin="26.2014" RightMargin="-82.0214" TopMargin="-6.3328" BottomMargin="20.3328" TouchEnable="True" Scale9Width="46" Scale9Height="46" ctype="ImageViewObjectData">
@@ -467,7 +459,7 @@
             <EndColor A="255" R="255" G="255" B="255" />
             <ColorVector ScaleY="1.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="pointNode" ActionTag="-466187935" Tag="537" IconVisible="True" LeftMargin="648.0638" RightMargin="487.9362" TopMargin="632.7885" BottomMargin="135.2115" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="pointNode" ActionTag="-466187935" Alpha="0" Tag="537" IconVisible="True" LeftMargin="648.0638" RightMargin="487.9362" TopMargin="632.7885" BottomMargin="135.2115" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
             <Position X="648.0638" Y="135.2115" />
@@ -479,7 +471,7 @@
           <AbstractNodeData Name="leftBg" ActionTag="815257104" Tag="2045" IconVisible="False" LeftMargin="111.5400" RightMargin="844.4600" TopMargin="168.4300" BottomMargin="139.5700" Scale9Enable="True" LeftEage="3" RightEage="3" Scale9OriginX="3" Scale9Width="4" Scale9Height="469" ctype="ImageViewObjectData">
             <Size X="180.0000" Y="460.0000" />
             <Children>
-              <AbstractNodeData Name="mode_1" ActionTag="-618702085" Tag="1" IconVisible="True" LeftMargin="96.8434" RightMargin="83.1566" TopMargin="40.1435" BottomMargin="419.8565" ctype="SingleNodeObjectData">
+              <AbstractNodeData Name="mode_1" ActionTag="-618702085" Alpha="0" Tag="1" IconVisible="True" LeftMargin="96.8434" RightMargin="83.1566" TopMargin="40.1435" BottomMargin="419.8565" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
                   <AbstractNodeData Name="selected" ActionTag="1836576317" VisibleForFrame="False" Tag="2047" IconVisible="False" LeftMargin="-101.9997" RightMargin="-88.0003" TopMargin="-32.0000" BottomMargin="-26.0000" TouchEnable="True" LeftEage="102" RightEage="102" TopEage="22" BottomEage="22" Scale9OriginX="102" Scale9OriginY="22" Scale9Width="4" Scale9Height="18" ctype="ImageViewObjectData">
@@ -555,7 +547,7 @@
                 <PrePosition X="0.5380" Y="0.9127" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="mode_2" ActionTag="1929146599" Tag="2" IconVisible="True" LeftMargin="96.8434" RightMargin="83.1566" TopMargin="107.8715" BottomMargin="352.1285" ctype="SingleNodeObjectData">
+              <AbstractNodeData Name="mode_2" ActionTag="1929146599" Alpha="0" Tag="2" IconVisible="True" LeftMargin="96.8434" RightMargin="83.1566" TopMargin="107.8715" BottomMargin="352.1285" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
                   <AbstractNodeData Name="selected" ActionTag="256252051" VisibleForFrame="False" Tag="2053" IconVisible="False" LeftMargin="-102.0000" RightMargin="-88.0000" TopMargin="-32.0001" BottomMargin="-25.9999" TouchEnable="True" LeftEage="102" RightEage="102" TopEage="22" BottomEage="22" Scale9OriginX="102" Scale9OriginY="22" Scale9Width="4" Scale9Height="18" ctype="ImageViewObjectData">
@@ -631,7 +623,7 @@
                 <PrePosition X="0.5380" Y="0.7655" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="mode_3" ActionTag="1301209162" VisibleForFrame="False" Tag="3" IconVisible="True" LeftMargin="93.0000" RightMargin="87.0000" TopMargin="431.1487" BottomMargin="28.8513" ctype="SingleNodeObjectData">
+              <AbstractNodeData Name="mode_3" ActionTag="1301209162" VisibleForFrame="False" Alpha="0" Tag="3" IconVisible="True" LeftMargin="93.0000" RightMargin="87.0000" TopMargin="431.1487" BottomMargin="28.8513" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
                   <AbstractNodeData Name="selected" ActionTag="1396444262" VisibleForFrame="False" Tag="2059" IconVisible="False" LeftMargin="-102.0000" RightMargin="-88.0000" TopMargin="-32.0006" BottomMargin="-25.9994" TouchEnable="True" LeftEage="102" RightEage="102" TopEage="22" BottomEage="22" Scale9OriginX="102" Scale9OriginY="22" Scale9Width="4" Scale9Height="18" ctype="ImageViewObjectData">
@@ -707,7 +699,7 @@
                 <PrePosition X="0.5167" Y="0.0627" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="mode_4" ActionTag="360322038" Tag="4" IconVisible="True" LeftMargin="96.8434" RightMargin="83.1566" TopMargin="175.3865" BottomMargin="284.6135" ctype="SingleNodeObjectData">
+              <AbstractNodeData Name="mode_4" ActionTag="360322038" Alpha="0" Tag="4" IconVisible="True" LeftMargin="96.8434" RightMargin="83.1566" TopMargin="175.3865" BottomMargin="284.6135" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
                   <AbstractNodeData Name="selected" ActionTag="741890410" VisibleForFrame="False" Tag="2065" IconVisible="False" LeftMargin="-102.0000" RightMargin="-88.0000" TopMargin="-32.0000" BottomMargin="-26.0000" TouchEnable="True" LeftEage="102" RightEage="102" TopEage="22" BottomEage="22" Scale9OriginX="102" Scale9OriginY="22" Scale9Width="4" Scale9Height="18" ctype="ImageViewObjectData">
@@ -783,7 +775,7 @@
                 <PrePosition X="0.5380" Y="0.6187" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="mode_5" ActionTag="-2120411948" Tag="5" IconVisible="True" LeftMargin="96.8435" RightMargin="83.1565" TopMargin="246.3878" BottomMargin="213.6122" ctype="SingleNodeObjectData">
+              <AbstractNodeData Name="mode_5" ActionTag="-2120411948" Alpha="0" Tag="5" IconVisible="True" LeftMargin="96.8435" RightMargin="83.1565" TopMargin="246.3878" BottomMargin="213.6122" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
                   <AbstractNodeData Name="selected" ActionTag="-1236938334" VisibleForFrame="False" Tag="252" IconVisible="False" LeftMargin="-102.0000" RightMargin="-88.0000" TopMargin="-32.0000" BottomMargin="-26.0000" TouchEnable="True" LeftEage="102" RightEage="102" TopEage="22" BottomEage="22" Scale9OriginX="102" Scale9OriginY="22" Scale9Width="4" Scale9Height="18" ctype="ImageViewObjectData">
