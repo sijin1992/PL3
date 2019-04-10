@@ -47058,7 +47058,7 @@ STRING_EN["index"][6723] = 6723
 STRING_EN[6723] = {}
 	STRING_EN[6723]["ID"] = 6723
 	STRING_EN[6723]["KEY"] = "exploit"
-	STRING_EN[6723]["VALUE"] = "Research and Development"
+	STRING_EN[6723]["VALUE"] = "R&D"
 	STRING_EN[6723]["real_idx"] = 6723
 
 STRING_EN["index"][6724] = 6724
@@ -47387,7 +47387,7 @@ STRING_EN["index"][6770] = 6770
 STRING_EN[6770] = {}
 	STRING_EN[6770]["ID"] = 6770
 	STRING_EN[6770]["KEY"] = "clicking_synthesis"
-	STRING_EN[6770]["VALUE"] = "Tap to synthesize"
+	STRING_EN[6770]["VALUE"] = "Synthesize"
 	STRING_EN[6770]["real_idx"] = 6770
 
 STRING_EN["index"][6771] = 6771
