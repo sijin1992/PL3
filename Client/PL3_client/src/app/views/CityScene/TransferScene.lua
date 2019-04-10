@@ -58,7 +58,10 @@ function TransferScene:ToNextScene()
 	local _app = require("app.MyApp"):getInstance()
 
 	if ( old_scene == "planet" ) then
-		_app:pushToRootView("PlanetScene/PlanetScene", {come_in_type = 1,sfx = true})
+		local _node = display.getRunningScene()
+		_node:runAction(cc.Sequence:create(cc.DelayTime:create(0.1), cc.CallFunc:create(function ( ... )
+			_app:pushToRootView("PlanetScene/PlanetScene", {come_in_type = 1,sfx = true})
+		end)))
 	elseif ( old_scene == "city" ) then
 		_app:pushToRootView("CityScene/CityScene", {pos = g_city_scene_pos,sfx = true})
 	elseif ( old_scene == "city2" ) then
