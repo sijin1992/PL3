@@ -954,13 +954,10 @@
               <Folder Name="City">
                 <Image Name="10.png" />
                 <Image Name="11.png" />
-                <Image Name="12.png" />
                 <Image Name="13.png" />
                 <Image Name="14.png" />
                 <Image Name="15.png" />
                 <Image Name="16.png" />
-                <Image Name="BG2.png" />
-                <Image Name="BG3.png" />
                 <Image Name="BG4.png" />
                 <Image Name="L1.png" />
                 <Image Name="L2.png" />
@@ -1555,7 +1552,6 @@
             <Folder Name="gaoliang">
               <Image Name="10.png" />
               <Image Name="11.png" />
-              <Image Name="12.png" />
               <Image Name="13.png" />
               <Image Name="14.png" />
               <Image Name="15.png" />
@@ -1632,32 +1628,6 @@
               <Image Name="2.png" />
               <Image Name="3.png" />
               <Project Name="leida.csd" Type="Node" />
-            </Folder>
-            <Folder Name="light cross">
-              <Image Name="1_00000.png" />
-              <Image Name="1_00002.png" />
-              <Image Name="1_00004.png" />
-              <Image Name="1_00006.png" />
-              <Image Name="1_00008.png" />
-              <Image Name="1_00010.png" />
-              <Image Name="1_00012.png" />
-              <Image Name="1_00014.png" />
-              <Image Name="1_00016.png" />
-              <Image Name="1_00018.png" />
-              <Image Name="1_00020.png" />
-              <Image Name="1_00022.png" />
-              <Image Name="1_00024.png" />
-              <Image Name="1_00026.png" />
-              <Image Name="1_00028.png" />
-              <Image Name="1_00030.png" />
-              <Image Name="1_00032.png" />
-              <Image Name="1_00034.png" />
-              <Image Name="1_00036.png" />
-              <Image Name="1_00038.png" />
-              <Image Name="1_00040.png" />
-              <Image Name="1_00042.png" />
-              <Image Name="1_00044.png" />
-              <Image Name="1_00046.png" />
             </Folder>
             <Folder Name="lingqu">
               <Folder Name="chengjiu">
@@ -4238,8 +4208,6 @@
           <Project Name="fight_all.csd" Type="Node" />
           <Image Name="G1.jpg" />
           <Image Name="G1mo.jpg" />
-          <Image Name="G2.jpg" />
-          <Image Name="G2mo.jpg" />
           <Image Name="G3.jpg" />
           <Image Name="G3mo.jpg" />
           <Image Name="G4.jpg" />
@@ -4434,7 +4402,6 @@
             <Image Name="bg_texture3.png" />
             <Image Name="bg_title.png" />
             <Image Name="bg_user.png" />
-            <Image Name="biaoti_cn.png" />
             <Image Name="biaoti_en.png" />
             <Image Name="botton_blue3.png" />
             <Image Name="botton_blue3_gray.png" />
