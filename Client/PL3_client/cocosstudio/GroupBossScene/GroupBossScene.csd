@@ -28,7 +28,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.3059" Y="0.5433" />
                 <PreSize X="1.1450" Y="1.0971" />
-                <FileData Type="Normal" Path="LevelScene/G2mo.jpg" Plist="" />
+                <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                 <BlendFunc Src="770" Dst="771" />
               </AbstractNodeData>
             </Children>
@@ -101,7 +101,7 @@
             <Position X="-0.0095" Y="697.0754" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.0000" Y="0.9077" />
+            <PrePosition Y="0.9077" />
             <PreSize X="0.1769" Y="0.7747" />
             <SingleColor A="255" R="255" G="150" B="100" />
             <FirstColor A="255" R="255" G="150" B="100" />

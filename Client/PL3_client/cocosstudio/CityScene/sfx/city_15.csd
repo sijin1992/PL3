@@ -467,7 +467,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="CityScene/sfx/changj/City/12.png" Plist="" />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="Sprite_3" ActionTag="10871064" Alpha="226" Tag="19" IconVisible="False" LeftMargin="-122.5000" RightMargin="-122.5000" TopMargin="-86.5000" BottomMargin="-86.5000" ctype="SpriteObjectData">
@@ -522,7 +522,7 @@
             <CColor A="255" R="84" G="84" B="84" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="CityScene/sfx/changj/City/12.png" Plist="" />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="icon_suo" ActionTag="-1553652960" Alpha="0" Tag="121" IconVisible="False" LeftMargin="-80.5857" RightMargin="-88.4143" TopMargin="-52.9271" BottomMargin="-97.0729" ctype="SpriteObjectData">

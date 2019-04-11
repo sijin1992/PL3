@@ -1416,438 +1416,150 @@
           </IntFrame>
         </Timeline>
         <Timeline ActionTag="1351566121" Property="FileData">
-          <TextureFrame FrameIndex="0" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00000.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="4" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00002.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="8" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00004.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="12" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00006.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="16" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00008.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="20" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00010.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="24" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00012.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="28" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00014.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="32" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00016.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="36" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00018.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="40" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00020.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="44" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00022.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="48" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00024.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="52" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00026.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="56" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00028.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="60" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00030.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="64" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00032.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="68" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00034.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="72" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00036.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="76" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00038.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="80" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00040.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="84" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00042.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="88" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00044.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="92" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00046.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="96" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00000.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="100" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00002.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="104" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00004.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="108" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00006.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="112" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00008.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="116" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00010.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="120" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00012.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="124" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00014.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="128" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00016.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="132" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00018.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="136" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00020.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="140" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00022.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="144" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00024.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="148" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00026.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="152" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00028.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="156" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00030.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="160" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00032.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="164" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00034.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="169" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00036.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="174" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00038.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="179" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00040.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="184" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00042.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="189" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00044.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="194" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00046.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="199" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00000.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="204" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00002.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="209" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00004.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="214" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00006.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="219" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00008.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="224" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00010.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="229" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00012.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="234" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00014.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="239" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00016.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="244" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00018.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="249" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00020.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="254" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00022.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="259" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00024.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="264" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00026.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="269" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00028.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="274" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00030.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="279" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00032.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="284" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00034.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="289" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00036.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="294" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00038.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="299" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00040.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="304" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00042.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="309" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00044.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="314" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00046.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="320" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00000.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="324" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00002.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="328" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00004.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="332" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00006.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="336" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00008.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="340" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00010.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="344" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00012.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="348" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00014.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="352" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00016.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="356" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00018.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="360" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00020.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="364" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00022.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="368" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00024.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="372" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00026.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="376" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00028.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="380" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00030.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="384" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00032.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="388" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00034.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="392" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00036.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="396" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00038.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="400" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00040.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="404" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00042.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="408" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00044.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="412" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00046.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="416" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00000.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="420" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00002.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="424" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00004.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="428" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00006.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="432" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00008.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="436" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00010.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="440" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00012.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="444" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00014.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="448" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00016.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="452" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00018.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="456" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00020.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="460" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00022.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="464" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00024.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="468" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00026.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="472" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00028.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="476" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00030.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="480" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00032.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="484" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00034.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="489" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00036.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="494" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00038.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="499" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00040.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="504" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00042.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="509" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00044.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="514" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00046.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="519" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00000.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="524" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00002.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="529" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00004.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="534" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00006.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="539" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00008.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="544" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00010.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="549" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00012.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="554" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00014.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="559" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00016.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="564" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00018.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="569" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00020.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="574" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00022.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="579" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00024.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="584" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00026.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="589" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00028.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="594" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00030.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="599" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00032.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="604" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00034.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="609" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00036.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="614" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00038.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="619" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00040.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="624" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00042.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="629" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00044.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="634" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00046.png" Plist="" />
-          </TextureFrame>
+          <TextureFrame FrameIndex="0" Tween="False" />
+          <TextureFrame FrameIndex="4" Tween="False" />
+          <TextureFrame FrameIndex="8" Tween="False" />
+          <TextureFrame FrameIndex="12" Tween="False" />
+          <TextureFrame FrameIndex="16" Tween="False" />
+          <TextureFrame FrameIndex="20" Tween="False" />
+          <TextureFrame FrameIndex="24" Tween="False" />
+          <TextureFrame FrameIndex="28" Tween="False" />
+          <TextureFrame FrameIndex="32" Tween="False" />
+          <TextureFrame FrameIndex="36" Tween="False" />
+          <TextureFrame FrameIndex="40" Tween="False" />
+          <TextureFrame FrameIndex="44" Tween="False" />
+          <TextureFrame FrameIndex="48" Tween="False" />
+          <TextureFrame FrameIndex="52" Tween="False" />
+          <TextureFrame FrameIndex="56" Tween="False" />
+          <TextureFrame FrameIndex="60" Tween="False" />
+          <TextureFrame FrameIndex="64" Tween="False" />
+          <TextureFrame FrameIndex="68" Tween="False" />
+          <TextureFrame FrameIndex="72" Tween="False" />
+          <TextureFrame FrameIndex="76" Tween="False" />
+          <TextureFrame FrameIndex="80" Tween="False" />
+          <TextureFrame FrameIndex="84" Tween="False" />
+          <TextureFrame FrameIndex="88" Tween="False" />
+          <TextureFrame FrameIndex="92" Tween="False" />
+          <TextureFrame FrameIndex="96" Tween="False" />
+          <TextureFrame FrameIndex="100" Tween="False" />
+          <TextureFrame FrameIndex="104" Tween="False" />
+          <TextureFrame FrameIndex="108" Tween="False" />
+          <TextureFrame FrameIndex="112" Tween="False" />
+          <TextureFrame FrameIndex="116" Tween="False" />
+          <TextureFrame FrameIndex="120" Tween="False" />
+          <TextureFrame FrameIndex="124" Tween="False" />
+          <TextureFrame FrameIndex="128" Tween="False" />
+          <TextureFrame FrameIndex="132" Tween="False" />
+          <TextureFrame FrameIndex="136" Tween="False" />
+          <TextureFrame FrameIndex="140" Tween="False" />
+          <TextureFrame FrameIndex="144" Tween="False" />
+          <TextureFrame FrameIndex="148" Tween="False" />
+          <TextureFrame FrameIndex="152" Tween="False" />
+          <TextureFrame FrameIndex="156" Tween="False" />
+          <TextureFrame FrameIndex="160" Tween="False" />
+          <TextureFrame FrameIndex="164" Tween="False" />
+          <TextureFrame FrameIndex="169" Tween="False" />
+          <TextureFrame FrameIndex="174" Tween="False" />
+          <TextureFrame FrameIndex="179" Tween="False" />
+          <TextureFrame FrameIndex="184" Tween="False" />
+          <TextureFrame FrameIndex="189" Tween="False" />
+          <TextureFrame FrameIndex="194" Tween="False" />
+          <TextureFrame FrameIndex="199" Tween="False" />
+          <TextureFrame FrameIndex="204" Tween="False" />
+          <TextureFrame FrameIndex="209" Tween="False" />
+          <TextureFrame FrameIndex="214" Tween="False" />
+          <TextureFrame FrameIndex="219" Tween="False" />
+          <TextureFrame FrameIndex="224" Tween="False" />
+          <TextureFrame FrameIndex="229" Tween="False" />
+          <TextureFrame FrameIndex="234" Tween="False" />
+          <TextureFrame FrameIndex="239" Tween="False" />
+          <TextureFrame FrameIndex="244" Tween="False" />
+          <TextureFrame FrameIndex="249" Tween="False" />
+          <TextureFrame FrameIndex="254" Tween="False" />
+          <TextureFrame FrameIndex="259" Tween="False" />
+          <TextureFrame FrameIndex="264" Tween="False" />
+          <TextureFrame FrameIndex="269" Tween="False" />
+          <TextureFrame FrameIndex="274" Tween="False" />
+          <TextureFrame FrameIndex="279" Tween="False" />
+          <TextureFrame FrameIndex="284" Tween="False" />
+          <TextureFrame FrameIndex="289" Tween="False" />
+          <TextureFrame FrameIndex="294" Tween="False" />
+          <TextureFrame FrameIndex="299" Tween="False" />
+          <TextureFrame FrameIndex="304" Tween="False" />
+          <TextureFrame FrameIndex="309" Tween="False" />
+          <TextureFrame FrameIndex="314" Tween="False" />
+          <TextureFrame FrameIndex="320" Tween="False" />
+          <TextureFrame FrameIndex="324" Tween="False" />
+          <TextureFrame FrameIndex="328" Tween="False" />
+          <TextureFrame FrameIndex="332" Tween="False" />
+          <TextureFrame FrameIndex="336" Tween="False" />
+          <TextureFrame FrameIndex="340" Tween="False" />
+          <TextureFrame FrameIndex="344" Tween="False" />
+          <TextureFrame FrameIndex="348" Tween="False" />
+          <TextureFrame FrameIndex="352" Tween="False" />
+          <TextureFrame FrameIndex="356" Tween="False" />
+          <TextureFrame FrameIndex="360" Tween="False" />
+          <TextureFrame FrameIndex="364" Tween="False" />
+          <TextureFrame FrameIndex="368" Tween="False" />
+          <TextureFrame FrameIndex="372" Tween="False" />
+          <TextureFrame FrameIndex="376" Tween="False" />
+          <TextureFrame FrameIndex="380" Tween="False" />
+          <TextureFrame FrameIndex="384" Tween="False" />
+          <TextureFrame FrameIndex="388" Tween="False" />
+          <TextureFrame FrameIndex="392" Tween="False" />
+          <TextureFrame FrameIndex="396" Tween="False" />
+          <TextureFrame FrameIndex="400" Tween="False" />
+          <TextureFrame FrameIndex="404" Tween="False" />
+          <TextureFrame FrameIndex="408" Tween="False" />
+          <TextureFrame FrameIndex="412" Tween="False" />
+          <TextureFrame FrameIndex="416" Tween="False" />
+          <TextureFrame FrameIndex="420" Tween="False" />
+          <TextureFrame FrameIndex="424" Tween="False" />
+          <TextureFrame FrameIndex="428" Tween="False" />
+          <TextureFrame FrameIndex="432" Tween="False" />
+          <TextureFrame FrameIndex="436" Tween="False" />
+          <TextureFrame FrameIndex="440" Tween="False" />
+          <TextureFrame FrameIndex="444" Tween="False" />
+          <TextureFrame FrameIndex="448" Tween="False" />
+          <TextureFrame FrameIndex="452" Tween="False" />
+          <TextureFrame FrameIndex="456" Tween="False" />
+          <TextureFrame FrameIndex="460" Tween="False" />
+          <TextureFrame FrameIndex="464" Tween="False" />
+          <TextureFrame FrameIndex="468" Tween="False" />
+          <TextureFrame FrameIndex="472" Tween="False" />
+          <TextureFrame FrameIndex="476" Tween="False" />
+          <TextureFrame FrameIndex="480" Tween="False" />
+          <TextureFrame FrameIndex="484" Tween="False" />
+          <TextureFrame FrameIndex="489" Tween="False" />
+          <TextureFrame FrameIndex="494" Tween="False" />
+          <TextureFrame FrameIndex="499" Tween="False" />
+          <TextureFrame FrameIndex="504" Tween="False" />
+          <TextureFrame FrameIndex="509" Tween="False" />
+          <TextureFrame FrameIndex="514" Tween="False" />
+          <TextureFrame FrameIndex="519" Tween="False" />
+          <TextureFrame FrameIndex="524" Tween="False" />
+          <TextureFrame FrameIndex="529" Tween="False" />
+          <TextureFrame FrameIndex="534" Tween="False" />
+          <TextureFrame FrameIndex="539" Tween="False" />
+          <TextureFrame FrameIndex="544" Tween="False" />
+          <TextureFrame FrameIndex="549" Tween="False" />
+          <TextureFrame FrameIndex="554" Tween="False" />
+          <TextureFrame FrameIndex="559" Tween="False" />
+          <TextureFrame FrameIndex="564" Tween="False" />
+          <TextureFrame FrameIndex="569" Tween="False" />
+          <TextureFrame FrameIndex="574" Tween="False" />
+          <TextureFrame FrameIndex="579" Tween="False" />
+          <TextureFrame FrameIndex="584" Tween="False" />
+          <TextureFrame FrameIndex="589" Tween="False" />
+          <TextureFrame FrameIndex="594" Tween="False" />
+          <TextureFrame FrameIndex="599" Tween="False" />
+          <TextureFrame FrameIndex="604" Tween="False" />
+          <TextureFrame FrameIndex="609" Tween="False" />
+          <TextureFrame FrameIndex="614" Tween="False" />
+          <TextureFrame FrameIndex="619" Tween="False" />
+          <TextureFrame FrameIndex="624" Tween="False" />
+          <TextureFrame FrameIndex="629" Tween="False" />
+          <TextureFrame FrameIndex="634" Tween="False" />
         </Timeline>
         <Timeline ActionTag="1351566121" Property="Alpha">
           <IntFrame FrameIndex="868" Value="0">
@@ -1858,438 +1570,150 @@
           </IntFrame>
         </Timeline>
         <Timeline ActionTag="1451545089" Property="FileData">
-          <TextureFrame FrameIndex="0" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00000.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="4" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00002.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="8" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00004.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="12" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00006.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="16" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00008.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="20" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00010.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="24" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00012.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="28" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00014.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="32" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00016.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="36" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00018.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="40" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00020.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="44" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00022.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="48" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00024.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="52" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00026.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="56" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00028.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="60" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00030.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="64" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00032.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="68" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00034.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="72" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00036.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="76" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00038.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="80" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00040.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="84" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00042.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="88" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00044.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="92" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00046.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="96" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00000.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="100" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00002.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="104" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00004.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="108" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00006.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="112" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00008.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="116" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00010.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="120" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00012.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="124" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00014.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="128" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00016.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="132" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00018.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="136" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00020.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="140" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00022.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="144" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00024.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="148" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00026.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="152" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00028.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="156" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00030.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="160" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00032.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="164" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00034.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="169" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00036.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="174" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00038.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="179" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00040.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="184" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00042.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="189" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00044.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="194" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00046.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="199" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00000.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="204" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00002.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="209" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00004.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="214" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00006.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="219" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00008.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="224" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00010.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="229" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00012.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="234" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00014.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="239" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00016.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="244" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00018.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="249" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00020.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="254" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00022.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="259" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00024.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="264" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00026.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="269" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00028.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="274" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00030.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="279" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00032.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="284" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00034.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="289" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00036.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="294" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00038.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="299" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00040.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="304" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00042.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="309" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00044.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="314" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00046.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="320" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00000.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="324" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00002.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="328" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00004.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="332" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00006.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="336" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00008.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="340" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00010.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="344" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00012.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="348" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00014.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="352" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00016.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="356" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00018.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="360" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00020.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="364" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00022.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="368" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00024.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="372" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00026.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="376" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00028.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="380" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00030.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="384" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00032.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="388" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00034.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="392" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00036.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="396" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00038.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="400" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00040.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="404" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00042.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="408" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00044.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="412" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00046.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="416" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00000.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="420" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00002.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="424" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00004.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="428" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00006.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="432" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00008.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="436" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00010.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="440" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00012.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="444" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00014.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="448" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00016.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="452" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00018.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="456" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00020.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="460" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00022.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="464" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00024.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="468" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00026.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="472" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00028.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="476" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00030.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="480" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00032.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="484" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00034.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="489" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00036.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="494" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00038.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="499" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00040.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="504" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00042.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="509" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00044.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="514" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00046.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="519" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00000.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="524" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00002.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="529" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00004.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="534" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00006.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="539" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00008.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="544" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00010.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="549" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00012.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="554" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00014.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="559" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00016.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="564" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00018.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="569" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00020.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="574" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00022.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="579" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00024.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="584" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00026.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="589" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00028.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="594" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00030.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="599" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00032.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="604" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00034.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="609" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00036.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="614" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00038.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="619" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00040.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="624" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00042.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="629" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00044.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="634" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00046.png" Plist="" />
-          </TextureFrame>
+          <TextureFrame FrameIndex="0" Tween="False" />
+          <TextureFrame FrameIndex="4" Tween="False" />
+          <TextureFrame FrameIndex="8" Tween="False" />
+          <TextureFrame FrameIndex="12" Tween="False" />
+          <TextureFrame FrameIndex="16" Tween="False" />
+          <TextureFrame FrameIndex="20" Tween="False" />
+          <TextureFrame FrameIndex="24" Tween="False" />
+          <TextureFrame FrameIndex="28" Tween="False" />
+          <TextureFrame FrameIndex="32" Tween="False" />
+          <TextureFrame FrameIndex="36" Tween="False" />
+          <TextureFrame FrameIndex="40" Tween="False" />
+          <TextureFrame FrameIndex="44" Tween="False" />
+          <TextureFrame FrameIndex="48" Tween="False" />
+          <TextureFrame FrameIndex="52" Tween="False" />
+          <TextureFrame FrameIndex="56" Tween="False" />
+          <TextureFrame FrameIndex="60" Tween="False" />
+          <TextureFrame FrameIndex="64" Tween="False" />
+          <TextureFrame FrameIndex="68" Tween="False" />
+          <TextureFrame FrameIndex="72" Tween="False" />
+          <TextureFrame FrameIndex="76" Tween="False" />
+          <TextureFrame FrameIndex="80" Tween="False" />
+          <TextureFrame FrameIndex="84" Tween="False" />
+          <TextureFrame FrameIndex="88" Tween="False" />
+          <TextureFrame FrameIndex="92" Tween="False" />
+          <TextureFrame FrameIndex="96" Tween="False" />
+          <TextureFrame FrameIndex="100" Tween="False" />
+          <TextureFrame FrameIndex="104" Tween="False" />
+          <TextureFrame FrameIndex="108" Tween="False" />
+          <TextureFrame FrameIndex="112" Tween="False" />
+          <TextureFrame FrameIndex="116" Tween="False" />
+          <TextureFrame FrameIndex="120" Tween="False" />
+          <TextureFrame FrameIndex="124" Tween="False" />
+          <TextureFrame FrameIndex="128" Tween="False" />
+          <TextureFrame FrameIndex="132" Tween="False" />
+          <TextureFrame FrameIndex="136" Tween="False" />
+          <TextureFrame FrameIndex="140" Tween="False" />
+          <TextureFrame FrameIndex="144" Tween="False" />
+          <TextureFrame FrameIndex="148" Tween="False" />
+          <TextureFrame FrameIndex="152" Tween="False" />
+          <TextureFrame FrameIndex="156" Tween="False" />
+          <TextureFrame FrameIndex="160" Tween="False" />
+          <TextureFrame FrameIndex="164" Tween="False" />
+          <TextureFrame FrameIndex="169" Tween="False" />
+          <TextureFrame FrameIndex="174" Tween="False" />
+          <TextureFrame FrameIndex="179" Tween="False" />
+          <TextureFrame FrameIndex="184" Tween="False" />
+          <TextureFrame FrameIndex="189" Tween="False" />
+          <TextureFrame FrameIndex="194" Tween="False" />
+          <TextureFrame FrameIndex="199" Tween="False" />
+          <TextureFrame FrameIndex="204" Tween="False" />
+          <TextureFrame FrameIndex="209" Tween="False" />
+          <TextureFrame FrameIndex="214" Tween="False" />
+          <TextureFrame FrameIndex="219" Tween="False" />
+          <TextureFrame FrameIndex="224" Tween="False" />
+          <TextureFrame FrameIndex="229" Tween="False" />
+          <TextureFrame FrameIndex="234" Tween="False" />
+          <TextureFrame FrameIndex="239" Tween="False" />
+          <TextureFrame FrameIndex="244" Tween="False" />
+          <TextureFrame FrameIndex="249" Tween="False" />
+          <TextureFrame FrameIndex="254" Tween="False" />
+          <TextureFrame FrameIndex="259" Tween="False" />
+          <TextureFrame FrameIndex="264" Tween="False" />
+          <TextureFrame FrameIndex="269" Tween="False" />
+          <TextureFrame FrameIndex="274" Tween="False" />
+          <TextureFrame FrameIndex="279" Tween="False" />
+          <TextureFrame FrameIndex="284" Tween="False" />
+          <TextureFrame FrameIndex="289" Tween="False" />
+          <TextureFrame FrameIndex="294" Tween="False" />
+          <TextureFrame FrameIndex="299" Tween="False" />
+          <TextureFrame FrameIndex="304" Tween="False" />
+          <TextureFrame FrameIndex="309" Tween="False" />
+          <TextureFrame FrameIndex="314" Tween="False" />
+          <TextureFrame FrameIndex="320" Tween="False" />
+          <TextureFrame FrameIndex="324" Tween="False" />
+          <TextureFrame FrameIndex="328" Tween="False" />
+          <TextureFrame FrameIndex="332" Tween="False" />
+          <TextureFrame FrameIndex="336" Tween="False" />
+          <TextureFrame FrameIndex="340" Tween="False" />
+          <TextureFrame FrameIndex="344" Tween="False" />
+          <TextureFrame FrameIndex="348" Tween="False" />
+          <TextureFrame FrameIndex="352" Tween="False" />
+          <TextureFrame FrameIndex="356" Tween="False" />
+          <TextureFrame FrameIndex="360" Tween="False" />
+          <TextureFrame FrameIndex="364" Tween="False" />
+          <TextureFrame FrameIndex="368" Tween="False" />
+          <TextureFrame FrameIndex="372" Tween="False" />
+          <TextureFrame FrameIndex="376" Tween="False" />
+          <TextureFrame FrameIndex="380" Tween="False" />
+          <TextureFrame FrameIndex="384" Tween="False" />
+          <TextureFrame FrameIndex="388" Tween="False" />
+          <TextureFrame FrameIndex="392" Tween="False" />
+          <TextureFrame FrameIndex="396" Tween="False" />
+          <TextureFrame FrameIndex="400" Tween="False" />
+          <TextureFrame FrameIndex="404" Tween="False" />
+          <TextureFrame FrameIndex="408" Tween="False" />
+          <TextureFrame FrameIndex="412" Tween="False" />
+          <TextureFrame FrameIndex="416" Tween="False" />
+          <TextureFrame FrameIndex="420" Tween="False" />
+          <TextureFrame FrameIndex="424" Tween="False" />
+          <TextureFrame FrameIndex="428" Tween="False" />
+          <TextureFrame FrameIndex="432" Tween="False" />
+          <TextureFrame FrameIndex="436" Tween="False" />
+          <TextureFrame FrameIndex="440" Tween="False" />
+          <TextureFrame FrameIndex="444" Tween="False" />
+          <TextureFrame FrameIndex="448" Tween="False" />
+          <TextureFrame FrameIndex="452" Tween="False" />
+          <TextureFrame FrameIndex="456" Tween="False" />
+          <TextureFrame FrameIndex="460" Tween="False" />
+          <TextureFrame FrameIndex="464" Tween="False" />
+          <TextureFrame FrameIndex="468" Tween="False" />
+          <TextureFrame FrameIndex="472" Tween="False" />
+          <TextureFrame FrameIndex="476" Tween="False" />
+          <TextureFrame FrameIndex="480" Tween="False" />
+          <TextureFrame FrameIndex="484" Tween="False" />
+          <TextureFrame FrameIndex="489" Tween="False" />
+          <TextureFrame FrameIndex="494" Tween="False" />
+          <TextureFrame FrameIndex="499" Tween="False" />
+          <TextureFrame FrameIndex="504" Tween="False" />
+          <TextureFrame FrameIndex="509" Tween="False" />
+          <TextureFrame FrameIndex="514" Tween="False" />
+          <TextureFrame FrameIndex="519" Tween="False" />
+          <TextureFrame FrameIndex="524" Tween="False" />
+          <TextureFrame FrameIndex="529" Tween="False" />
+          <TextureFrame FrameIndex="534" Tween="False" />
+          <TextureFrame FrameIndex="539" Tween="False" />
+          <TextureFrame FrameIndex="544" Tween="False" />
+          <TextureFrame FrameIndex="549" Tween="False" />
+          <TextureFrame FrameIndex="554" Tween="False" />
+          <TextureFrame FrameIndex="559" Tween="False" />
+          <TextureFrame FrameIndex="564" Tween="False" />
+          <TextureFrame FrameIndex="569" Tween="False" />
+          <TextureFrame FrameIndex="574" Tween="False" />
+          <TextureFrame FrameIndex="579" Tween="False" />
+          <TextureFrame FrameIndex="584" Tween="False" />
+          <TextureFrame FrameIndex="589" Tween="False" />
+          <TextureFrame FrameIndex="594" Tween="False" />
+          <TextureFrame FrameIndex="599" Tween="False" />
+          <TextureFrame FrameIndex="604" Tween="False" />
+          <TextureFrame FrameIndex="609" Tween="False" />
+          <TextureFrame FrameIndex="614" Tween="False" />
+          <TextureFrame FrameIndex="619" Tween="False" />
+          <TextureFrame FrameIndex="624" Tween="False" />
+          <TextureFrame FrameIndex="629" Tween="False" />
+          <TextureFrame FrameIndex="634" Tween="False" />
         </Timeline>
         <Timeline ActionTag="1451545089" Property="Alpha">
           <IntFrame FrameIndex="868" Value="0">
@@ -2300,438 +1724,150 @@
           </IntFrame>
         </Timeline>
         <Timeline ActionTag="-1454675394" Property="FileData">
-          <TextureFrame FrameIndex="0" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00000.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="4" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00002.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="8" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00004.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="12" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00006.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="16" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00008.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="20" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00010.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="24" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00012.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="28" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00014.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="32" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00016.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="36" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00018.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="40" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00020.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="44" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00022.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="48" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00024.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="52" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00026.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="56" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00028.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="60" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00030.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="64" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00032.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="68" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00034.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="72" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00036.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="76" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00038.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="80" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00040.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="84" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00042.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="88" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00044.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="92" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00046.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="96" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00000.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="100" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00002.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="104" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00004.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="108" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00006.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="112" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00008.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="116" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00010.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="120" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00012.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="124" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00014.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="128" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00016.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="132" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00018.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="136" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00020.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="140" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00022.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="144" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00024.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="148" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00026.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="152" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00028.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="156" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00030.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="160" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00032.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="164" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00034.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="169" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00036.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="174" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00038.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="179" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00040.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="184" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00042.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="189" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00044.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="194" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00046.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="199" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00000.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="204" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00002.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="209" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00004.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="214" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00006.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="219" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00008.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="224" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00010.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="229" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00012.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="234" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00014.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="239" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00016.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="244" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00018.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="249" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00020.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="254" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00022.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="259" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00024.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="264" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00026.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="269" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00028.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="274" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00030.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="279" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00032.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="284" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00034.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="289" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00036.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="294" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00038.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="299" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00040.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="304" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00042.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="309" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00044.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="314" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00046.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="320" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00000.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="324" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00002.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="328" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00004.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="332" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00006.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="336" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00008.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="340" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00010.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="344" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00012.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="348" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00014.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="352" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00016.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="356" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00018.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="360" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00020.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="364" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00022.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="368" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00024.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="372" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00026.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="376" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00028.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="380" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00030.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="384" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00032.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="388" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00034.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="392" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00036.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="396" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00038.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="400" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00040.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="404" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00042.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="408" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00044.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="412" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00046.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="416" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00000.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="420" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00002.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="424" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00004.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="428" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00006.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="432" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00008.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="436" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00010.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="440" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00012.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="444" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00014.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="448" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00016.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="452" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00018.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="456" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00020.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="460" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00022.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="464" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00024.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="468" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00026.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="472" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00028.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="476" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00030.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="480" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00032.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="484" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00034.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="489" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00036.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="494" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00038.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="499" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00040.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="504" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00042.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="509" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00044.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="514" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00046.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="519" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00000.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="524" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00002.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="529" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00004.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="534" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00006.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="539" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00008.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="544" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00010.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="549" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00012.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="554" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00014.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="559" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00016.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="564" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00018.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="569" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00020.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="574" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00022.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="579" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00024.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="584" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00026.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="589" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00028.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="594" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00030.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="599" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00032.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="604" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00034.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="609" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00036.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="614" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00038.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="619" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00040.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="624" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00042.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="629" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00044.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="634" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/light cross/1_00046.png" Plist="" />
-          </TextureFrame>
+          <TextureFrame FrameIndex="0" Tween="False" />
+          <TextureFrame FrameIndex="4" Tween="False" />
+          <TextureFrame FrameIndex="8" Tween="False" />
+          <TextureFrame FrameIndex="12" Tween="False" />
+          <TextureFrame FrameIndex="16" Tween="False" />
+          <TextureFrame FrameIndex="20" Tween="False" />
+          <TextureFrame FrameIndex="24" Tween="False" />
+          <TextureFrame FrameIndex="28" Tween="False" />
+          <TextureFrame FrameIndex="32" Tween="False" />
+          <TextureFrame FrameIndex="36" Tween="False" />
+          <TextureFrame FrameIndex="40" Tween="False" />
+          <TextureFrame FrameIndex="44" Tween="False" />
+          <TextureFrame FrameIndex="48" Tween="False" />
+          <TextureFrame FrameIndex="52" Tween="False" />
+          <TextureFrame FrameIndex="56" Tween="False" />
+          <TextureFrame FrameIndex="60" Tween="False" />
+          <TextureFrame FrameIndex="64" Tween="False" />
+          <TextureFrame FrameIndex="68" Tween="False" />
+          <TextureFrame FrameIndex="72" Tween="False" />
+          <TextureFrame FrameIndex="76" Tween="False" />
+          <TextureFrame FrameIndex="80" Tween="False" />
+          <TextureFrame FrameIndex="84" Tween="False" />
+          <TextureFrame FrameIndex="88" Tween="False" />
+          <TextureFrame FrameIndex="92" Tween="False" />
+          <TextureFrame FrameIndex="96" Tween="False" />
+          <TextureFrame FrameIndex="100" Tween="False" />
+          <TextureFrame FrameIndex="104" Tween="False" />
+          <TextureFrame FrameIndex="108" Tween="False" />
+          <TextureFrame FrameIndex="112" Tween="False" />
+          <TextureFrame FrameIndex="116" Tween="False" />
+          <TextureFrame FrameIndex="120" Tween="False" />
+          <TextureFrame FrameIndex="124" Tween="False" />
+          <TextureFrame FrameIndex="128" Tween="False" />
+          <TextureFrame FrameIndex="132" Tween="False" />
+          <TextureFrame FrameIndex="136" Tween="False" />
+          <TextureFrame FrameIndex="140" Tween="False" />
+          <TextureFrame FrameIndex="144" Tween="False" />
+          <TextureFrame FrameIndex="148" Tween="False" />
+          <TextureFrame FrameIndex="152" Tween="False" />
+          <TextureFrame FrameIndex="156" Tween="False" />
+          <TextureFrame FrameIndex="160" Tween="False" />
+          <TextureFrame FrameIndex="164" Tween="False" />
+          <TextureFrame FrameIndex="169" Tween="False" />
+          <TextureFrame FrameIndex="174" Tween="False" />
+          <TextureFrame FrameIndex="179" Tween="False" />
+          <TextureFrame FrameIndex="184" Tween="False" />
+          <TextureFrame FrameIndex="189" Tween="False" />
+          <TextureFrame FrameIndex="194" Tween="False" />
+          <TextureFrame FrameIndex="199" Tween="False" />
+          <TextureFrame FrameIndex="204" Tween="False" />
+          <TextureFrame FrameIndex="209" Tween="False" />
+          <TextureFrame FrameIndex="214" Tween="False" />
+          <TextureFrame FrameIndex="219" Tween="False" />
+          <TextureFrame FrameIndex="224" Tween="False" />
+          <TextureFrame FrameIndex="229" Tween="False" />
+          <TextureFrame FrameIndex="234" Tween="False" />
+          <TextureFrame FrameIndex="239" Tween="False" />
+          <TextureFrame FrameIndex="244" Tween="False" />
+          <TextureFrame FrameIndex="249" Tween="False" />
+          <TextureFrame FrameIndex="254" Tween="False" />
+          <TextureFrame FrameIndex="259" Tween="False" />
+          <TextureFrame FrameIndex="264" Tween="False" />
+          <TextureFrame FrameIndex="269" Tween="False" />
+          <TextureFrame FrameIndex="274" Tween="False" />
+          <TextureFrame FrameIndex="279" Tween="False" />
+          <TextureFrame FrameIndex="284" Tween="False" />
+          <TextureFrame FrameIndex="289" Tween="False" />
+          <TextureFrame FrameIndex="294" Tween="False" />
+          <TextureFrame FrameIndex="299" Tween="False" />
+          <TextureFrame FrameIndex="304" Tween="False" />
+          <TextureFrame FrameIndex="309" Tween="False" />
+          <TextureFrame FrameIndex="314" Tween="False" />
+          <TextureFrame FrameIndex="320" Tween="False" />
+          <TextureFrame FrameIndex="324" Tween="False" />
+          <TextureFrame FrameIndex="328" Tween="False" />
+          <TextureFrame FrameIndex="332" Tween="False" />
+          <TextureFrame FrameIndex="336" Tween="False" />
+          <TextureFrame FrameIndex="340" Tween="False" />
+          <TextureFrame FrameIndex="344" Tween="False" />
+          <TextureFrame FrameIndex="348" Tween="False" />
+          <TextureFrame FrameIndex="352" Tween="False" />
+          <TextureFrame FrameIndex="356" Tween="False" />
+          <TextureFrame FrameIndex="360" Tween="False" />
+          <TextureFrame FrameIndex="364" Tween="False" />
+          <TextureFrame FrameIndex="368" Tween="False" />
+          <TextureFrame FrameIndex="372" Tween="False" />
+          <TextureFrame FrameIndex="376" Tween="False" />
+          <TextureFrame FrameIndex="380" Tween="False" />
+          <TextureFrame FrameIndex="384" Tween="False" />
+          <TextureFrame FrameIndex="388" Tween="False" />
+          <TextureFrame FrameIndex="392" Tween="False" />
+          <TextureFrame FrameIndex="396" Tween="False" />
+          <TextureFrame FrameIndex="400" Tween="False" />
+          <TextureFrame FrameIndex="404" Tween="False" />
+          <TextureFrame FrameIndex="408" Tween="False" />
+          <TextureFrame FrameIndex="412" Tween="False" />
+          <TextureFrame FrameIndex="416" Tween="False" />
+          <TextureFrame FrameIndex="420" Tween="False" />
+          <TextureFrame FrameIndex="424" Tween="False" />
+          <TextureFrame FrameIndex="428" Tween="False" />
+          <TextureFrame FrameIndex="432" Tween="False" />
+          <TextureFrame FrameIndex="436" Tween="False" />
+          <TextureFrame FrameIndex="440" Tween="False" />
+          <TextureFrame FrameIndex="444" Tween="False" />
+          <TextureFrame FrameIndex="448" Tween="False" />
+          <TextureFrame FrameIndex="452" Tween="False" />
+          <TextureFrame FrameIndex="456" Tween="False" />
+          <TextureFrame FrameIndex="460" Tween="False" />
+          <TextureFrame FrameIndex="464" Tween="False" />
+          <TextureFrame FrameIndex="468" Tween="False" />
+          <TextureFrame FrameIndex="472" Tween="False" />
+          <TextureFrame FrameIndex="476" Tween="False" />
+          <TextureFrame FrameIndex="480" Tween="False" />
+          <TextureFrame FrameIndex="484" Tween="False" />
+          <TextureFrame FrameIndex="489" Tween="False" />
+          <TextureFrame FrameIndex="494" Tween="False" />
+          <TextureFrame FrameIndex="499" Tween="False" />
+          <TextureFrame FrameIndex="504" Tween="False" />
+          <TextureFrame FrameIndex="509" Tween="False" />
+          <TextureFrame FrameIndex="514" Tween="False" />
+          <TextureFrame FrameIndex="519" Tween="False" />
+          <TextureFrame FrameIndex="524" Tween="False" />
+          <TextureFrame FrameIndex="529" Tween="False" />
+          <TextureFrame FrameIndex="534" Tween="False" />
+          <TextureFrame FrameIndex="539" Tween="False" />
+          <TextureFrame FrameIndex="544" Tween="False" />
+          <TextureFrame FrameIndex="549" Tween="False" />
+          <TextureFrame FrameIndex="554" Tween="False" />
+          <TextureFrame FrameIndex="559" Tween="False" />
+          <TextureFrame FrameIndex="564" Tween="False" />
+          <TextureFrame FrameIndex="569" Tween="False" />
+          <TextureFrame FrameIndex="574" Tween="False" />
+          <TextureFrame FrameIndex="579" Tween="False" />
+          <TextureFrame FrameIndex="584" Tween="False" />
+          <TextureFrame FrameIndex="589" Tween="False" />
+          <TextureFrame FrameIndex="594" Tween="False" />
+          <TextureFrame FrameIndex="599" Tween="False" />
+          <TextureFrame FrameIndex="604" Tween="False" />
+          <TextureFrame FrameIndex="609" Tween="False" />
+          <TextureFrame FrameIndex="614" Tween="False" />
+          <TextureFrame FrameIndex="619" Tween="False" />
+          <TextureFrame FrameIndex="624" Tween="False" />
+          <TextureFrame FrameIndex="629" Tween="False" />
+          <TextureFrame FrameIndex="634" Tween="False" />
         </Timeline>
         <Timeline ActionTag="-1454675394" Property="Alpha">
           <IntFrame FrameIndex="868" Value="0">
@@ -3150,7 +2286,7 @@
             <CColor A="255" R="250" G="223" B="145" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="CityScene/sfx/light cross/1_00000.png" Plist="" />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="1" Dst="1" />
           </AbstractNodeData>
           <AbstractNodeData Name="Sprite_171_0" ActionTag="1451545089" VisibleForFrame="False" Alpha="0" Tag="2494" RotationSkewX="89.0611" RotationSkewY="88.9359" IconVisible="False" LeftMargin="-398.1300" RightMargin="-401.8700" TopMargin="-429.3000" BottomMargin="-370.7000" ctype="SpriteObjectData">
@@ -3161,7 +2297,7 @@
             <CColor A="255" R="247" G="237" B="166" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="CityScene/sfx/light cross/1_00000.png" Plist="" />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="770" Dst="1" />
           </AbstractNodeData>
           <AbstractNodeData Name="Sprite_171_0_0" ActionTag="-1454675394" VisibleForFrame="False" Alpha="0" Tag="330" RotationSkewX="89.0682" RotationSkewY="88.9371" IconVisible="False" LeftMargin="-420.7534" RightMargin="-379.2466" TopMargin="-426.5085" BottomMargin="-373.4915" ctype="SpriteObjectData">
@@ -3172,7 +2308,7 @@
             <CColor A="255" R="247" G="237" B="166" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="CityScene/sfx/light cross/1_00000.png" Plist="" />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="1" Dst="1" />
           </AbstractNodeData>
           <AbstractNodeData Name="Panel_1" ActionTag="-1640848481" Tag="377" IconVisible="False" LeftMargin="-218.0461" RightMargin="18.0461" TopMargin="-157.3223" BottomMargin="-42.6777" ClipAble="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">

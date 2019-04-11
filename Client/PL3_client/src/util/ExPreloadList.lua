@@ -5,7 +5,7 @@ local ExPreloadList = {}
 -- ExPreloadList.IMAGE_LIST_BIG_ONLY_MAX = 81
 ExPreloadList.IMAGE_LIST_BIG_ONLY_MAX = 0
 ExPreloadList.IMAGE_LIST_BIG_ONLY = { 
-[1]="CityScene/sfx/changj/City/BG2.png"
+[1]="PlanetScene/ui/bg_star_yun_2.png"
 ,[2]="CityScene/sfx/changj/City/BG4.png"
 ,[3]="CityScene/sfx/city_17/BG20001.png"
 ,[4]="CityScene/sfx/city_17/BG20002.png"
@@ -85,7 +85,7 @@ ExPreloadList.IMAGE_LIST_BIG_ONLY = {
 ,[78]="PlanetScene/sfx/xing/xing_00036.png"
 ,[79]="PlanetScene/sfx/xing/xing_00037.png"
 ,[80]="PlanetScene/ui/bg_star_yun_1.png"
-,[81]="PlanetScene/ui/bg_star_yun_2.png"
+--,[81]="PlanetScene/ui/bg_star_yun_2.png"
 }
 
 ExPreloadList.IMAGE_LIST_ZHUCHENG_MAX = 3346
