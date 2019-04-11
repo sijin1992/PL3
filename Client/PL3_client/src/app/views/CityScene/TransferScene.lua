@@ -56,30 +56,45 @@ function TransferScene:ToNextScene()
 
 	local old_scene = _self:GetOldSceneName()
 	local _app = require("app.MyApp"):getInstance()
-
+    local _node = display.getRunningScene()
 	if ( old_scene == "planet" ) then
-		local _node = display.getRunningScene()
 		_node:runAction(cc.Sequence:create(cc.DelayTime:create(0.1), cc.CallFunc:create(function ( ... )
 			_app:pushToRootView("PlanetScene/PlanetScene", {come_in_type = 1,sfx = true})
 		end)))
 	elseif ( old_scene == "city" ) then
-		_app:pushToRootView("CityScene/CityScene", {pos = g_city_scene_pos,sfx = true})
+        _node:runAction(cc.Sequence:create(cc.DelayTime:create(0.1), cc.CallFunc:create(function ( ... )
+			_app:pushToRootView("CityScene/CityScene", {pos = g_city_scene_pos,sfx = true})
+		end)))
 	elseif ( old_scene == "city2" ) then
-		_app:pushToRootView("CityScene/CityScene", {pos = -1350,sfx = true})
+        _node:runAction(cc.Sequence:create(cc.DelayTime:create(0.1), cc.CallFunc:create(function ( ... )
+		    _app:pushToRootView("CityScene/CityScene", {pos = -1350,sfx = true})
+		end)))
 	elseif ( old_scene == "home" ) then
-		_app:pushToRootView("HomeScene/HomeScene",{sfx = true})
+        _node:runAction(cc.Sequence:create(cc.DelayTime:create(0.1), cc.CallFunc:create(function ( ... )
+		    _app:pushToRootView("HomeScene/HomeScene",{sfx = true})
+		end)))
 	elseif ( old_scene == "ChapterScene" ) then
-		_app:pushToRootView("ChapterScene",{sfx = true})
+        _node:runAction(cc.Sequence:create(cc.DelayTime:create(0.1), cc.CallFunc:create(function ( ... )
+		    _app:pushToRootView("ChapterScene",{sfx = true})
+		end)))
 	elseif ( old_scene == "LoginScene" ) then
-		_app:pushToRootView("UpdateScene",{sfx = true})
+        _node:runAction(cc.Sequence:create(cc.DelayTime:create(0.1), cc.CallFunc:create(function ( ... )
+		    _app:pushToRootView("UpdateScene",{sfx = true})
+		end)))
 	elseif ( (old_scene == "UpdateScene") or ( old_scene == "RegisterScene/RegisterShipScene" ) or ( old_scene == "BattleScene/WinLayer" )  ) then
-		_app:pushToRootView("CityScene/CityScene", {pos = -1350})
+        _node:runAction(cc.Sequence:create(cc.DelayTime:create(0.1), cc.CallFunc:create(function ( ... )
+		    _app:pushToRootView("CityScene/CityScene", {pos = -1350})
+		end)))
 	elseif ( (old_scene == "BlueprintScene/BlueprintScene") or (old_scene == "ShipsScene/ShipsDevelopScene") or (old_scene == "BuildingUpgradeScene/BuildingUpgradeScene") ) then
 		-- _app:popView()
-		_app:pushToRootView("CityScene/CityScene", {pos = g_city_scene_pos})
+        _node:runAction(cc.Sequence:create(cc.DelayTime:create(0.1), cc.CallFunc:create(function ( ... )
+		    _app:pushToRootView("CityScene/CityScene", {pos = g_city_scene_pos})
+		end)))
 	elseif ( old_scene == "CitySceneGoShipsForm" ) then
 		-- _app:pushView("ShipsScene/ShipsDevelopScene",{type = player:getTypeToShipsScene(), go = "form"})
-		_app:pushToRootView("ShipsScene/ShipsDevelopScene",{type = require("app.Player"):getInstance():getTypeToShipsScene(), go = "form"})
+        _node:runAction(cc.Sequence:create(cc.DelayTime:create(0.1), cc.CallFunc:create(function ( ... )
+		    _app:pushToRootView("ShipsScene/ShipsDevelopScene",{type = require("app.Player"):getInstance():getTypeToShipsScene(), go = "form"})
+		end)))
 
 	elseif ( (old_scene == "ShopScene/ShopLayer") or (old_scene == "ActivityScene/ActivityScene") ) then
 		local params = self.lagHelper.oldSceneParams[old_scene]
