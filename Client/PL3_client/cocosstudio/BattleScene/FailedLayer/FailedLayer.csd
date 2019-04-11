@@ -803,14 +803,14 @@
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="575.0362" Y="189.6383" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Scale ScaleX="1.2000" ScaleY="1.2000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5062" Y="0.2469" />
             <PreSize X="0.4507" Y="0.1667" />
             <FileData Type="Normal" Path="Common/newUI/sb_bq_bottom.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="go_1" ActionTag="431668661" Alpha="191" Tag="35" IconVisible="False" LeftMargin="326.8192" RightMargin="717.1808" TopMargin="521.1176" BottomMargin="154.8824" TouchEnable="True" LeftEage="30" RightEage="30" TopEage="30" BottomEage="30" Scale9OriginX="30" Scale9OriginY="30" Scale9Width="32" Scale9Height="32" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="go_1" ActionTag="431668661" Alpha="191" Tag="35" IconVisible="False" LeftMargin="315.8201" RightMargin="728.1799" TopMargin="521.1171" BottomMargin="154.8829" TouchEnable="True" LeftEage="30" RightEage="30" TopEage="30" BottomEage="30" Scale9OriginX="30" Scale9OriginY="30" Scale9Width="32" Scale9Height="32" ctype="ImageViewObjectData">
             <Size X="92.0000" Y="92.0000" />
             <Children>
               <AbstractNodeData Name="icon" ActionTag="-598016382" Tag="40" IconVisible="False" LeftMargin="10.7755" RightMargin="5.2245" TopMargin="8.7778" BottomMargin="7.2222" ctype="SpriteObjectData">
@@ -826,14 +826,14 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="372.8192" Y="200.8824" />
+            <Position X="361.8201" Y="200.8829" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.3282" Y="0.2616" />
+            <PrePosition X="0.3185" Y="0.2616" />
             <PreSize X="0.0810" Y="0.1198" />
             <FileData Type="Normal" Path="Common/newUI/ui_avatar_mask.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="go_2" ActionTag="-706883598" Alpha="191" Tag="36" IconVisible="False" LeftMargin="456.8240" RightMargin="587.1760" TopMargin="521.1176" BottomMargin="154.8824" TouchEnable="True" LeftEage="30" RightEage="30" TopEage="30" BottomEage="30" Scale9OriginX="30" Scale9OriginY="30" Scale9Width="32" Scale9Height="32" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="go_2" ActionTag="-706883598" Alpha="191" Tag="36" IconVisible="False" LeftMargin="465.8226" RightMargin="578.1774" TopMargin="521.1172" BottomMargin="154.8828" TouchEnable="True" LeftEage="30" RightEage="30" TopEage="30" BottomEage="30" Scale9OriginX="30" Scale9OriginY="30" Scale9Width="32" Scale9Height="32" ctype="ImageViewObjectData">
             <Size X="92.0000" Y="92.0000" />
             <Children>
               <AbstractNodeData Name="icon" ActionTag="-1769856741" Tag="41" IconVisible="False" LeftMargin="9.4681" RightMargin="6.5319" TopMargin="6.8562" BottomMargin="9.1438" ctype="SpriteObjectData">
@@ -849,14 +849,14 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="502.8240" Y="200.8824" />
+            <Position X="511.8226" Y="200.8828" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.4426" Y="0.2616" />
+            <PrePosition X="0.4505" Y="0.2616" />
             <PreSize X="0.0810" Y="0.1198" />
             <FileData Type="Normal" Path="Common/newUI/ui_avatar_mask.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="go_3" ActionTag="516067527" Alpha="191" Tag="37" IconVisible="False" LeftMargin="594.8289" RightMargin="449.1711" TopMargin="521.1176" BottomMargin="154.8824" TouchEnable="True" LeftEage="30" RightEage="30" TopEage="30" BottomEage="30" Scale9OriginX="30" Scale9OriginY="30" Scale9Width="32" Scale9Height="32" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="go_3" ActionTag="516067527" Alpha="191" Tag="37" IconVisible="False" LeftMargin="606.8289" RightMargin="437.1711" TopMargin="521.1172" BottomMargin="154.8828" TouchEnable="True" LeftEage="30" RightEage="30" TopEage="30" BottomEage="30" Scale9OriginX="30" Scale9OriginY="30" Scale9Width="32" Scale9Height="32" ctype="ImageViewObjectData">
             <Size X="92.0000" Y="92.0000" />
             <Children>
               <AbstractNodeData Name="icon" ActionTag="-1741544380" Tag="42" IconVisible="False" LeftMargin="10.7758" RightMargin="5.2242" TopMargin="8.4709" BottomMargin="7.5291" ctype="SpriteObjectData">
@@ -872,14 +872,14 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="640.8289" Y="200.8824" />
+            <Position X="652.8289" Y="200.8828" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5641" Y="0.2616" />
+            <PrePosition X="0.5747" Y="0.2616" />
             <PreSize X="0.0810" Y="0.1198" />
             <FileData Type="Normal" Path="Common/newUI/ui_avatar_mask.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="go_4" ActionTag="2118998280" Alpha="191" Tag="38" IconVisible="False" LeftMargin="726.8339" RightMargin="317.1661" TopMargin="518.8900" BottomMargin="157.1100" TouchEnable="True" LeftEage="30" RightEage="30" TopEage="30" BottomEage="30" Scale9OriginX="30" Scale9OriginY="30" Scale9Width="32" Scale9Height="32" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="go_4" ActionTag="2118998280" Alpha="191" Tag="38" IconVisible="False" LeftMargin="747.8334" RightMargin="296.1666" TopMargin="518.8895" BottomMargin="157.1105" TouchEnable="True" LeftEage="30" RightEage="30" TopEage="30" BottomEage="30" Scale9OriginX="30" Scale9OriginY="30" Scale9Width="32" Scale9Height="32" ctype="ImageViewObjectData">
             <Size X="92.0000" Y="92.0000" />
             <Children>
               <AbstractNodeData Name="icon" ActionTag="-1070499572" Tag="43" IconVisible="False" LeftMargin="21.7753" RightMargin="16.2247" TopMargin="15.3564" BottomMargin="13.6436" ctype="SpriteObjectData">
@@ -895,56 +895,56 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="772.8339" Y="203.1100" />
+            <Position X="793.8334" Y="203.1105" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.6803" Y="0.2645" />
+            <PrePosition X="0.6988" Y="0.2645" />
             <PreSize X="0.0810" Y="0.1198" />
             <FileData Type="Normal" Path="Common/newUI/ui_avatar_mask.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="go_text_1" ActionTag="-1060072049" Tag="44" IconVisible="False" LeftMargin="332.9414" RightMargin="722.0586" TopMargin="615.4442" BottomMargin="128.5558" FontSize="16" LabelText="Text Label" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="go_text_1" ActionTag="-1060072049" Tag="44" IconVisible="False" LeftMargin="321.9414" RightMargin="733.0586" TopMargin="615.4441" BottomMargin="128.5559" FontSize="16" LabelText="Text Label" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="81.0000" Y="24.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="373.4414" Y="140.5558" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="362.4414" Y="140.5559" />
+            <Scale ScaleX="0.9000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.3287" Y="0.1830" />
+            <PrePosition X="0.3191" Y="0.1830" />
             <PreSize X="0.0713" Y="0.0313" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="go_text_2" ActionTag="-428138342" Tag="45" IconVisible="False" LeftMargin="464.2126" RightMargin="590.7874" TopMargin="615.4442" BottomMargin="128.5558" FontSize="16" LabelText="Text Label" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="go_text_2" ActionTag="-428138342" Tag="45" IconVisible="False" LeftMargin="473.2128" RightMargin="581.7872" TopMargin="615.4442" BottomMargin="128.5558" FontSize="16" LabelText="Text Label" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="81.0000" Y="24.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="504.7126" Y="140.5558" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="513.7128" Y="140.5558" />
+            <Scale ScaleX="0.9000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.4443" Y="0.1830" />
+            <PrePosition X="0.4522" Y="0.1830" />
             <PreSize X="0.0713" Y="0.0313" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="go_text_3" ActionTag="1475230516" Tag="46" IconVisible="False" LeftMargin="603.4828" RightMargin="451.5172" TopMargin="615.4442" BottomMargin="128.5558" FontSize="16" LabelText="Text Label" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="go_text_3" ActionTag="1475230516" Tag="46" IconVisible="False" LeftMargin="615.4828" RightMargin="439.5172" TopMargin="615.4442" BottomMargin="128.5558" FontSize="16" LabelText="Text Label" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="81.0000" Y="24.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="643.9828" Y="140.5558" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="655.9828" Y="140.5558" />
+            <Scale ScaleX="0.9000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5669" Y="0.1830" />
+            <PrePosition X="0.5774" Y="0.1830" />
             <PreSize X="0.0713" Y="0.0313" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="go_text_4" ActionTag="1486546936" Tag="47" IconVisible="False" LeftMargin="736.7523" RightMargin="318.2477" TopMargin="615.4442" BottomMargin="128.5558" FontSize="16" LabelText="Text Label" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="go_text_4" ActionTag="1486546936" Tag="47" IconVisible="False" LeftMargin="757.7528" RightMargin="297.2472" TopMargin="615.4441" BottomMargin="128.5559" FontSize="16" LabelText="Text Label" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="81.0000" Y="24.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="777.2523" Y="140.5558" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="798.2528" Y="140.5559" />
+            <Scale ScaleX="0.9000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.6842" Y="0.1830" />
+            <PrePosition X="0.7027" Y="0.1830" />
             <PreSize X="0.0713" Y="0.0313" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
