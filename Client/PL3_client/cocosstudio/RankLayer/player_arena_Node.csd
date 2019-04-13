@@ -108,11 +108,11 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="leagueName" ActionTag="970057035" Tag="87" IconVisible="False" LeftMargin="147.9412" RightMargin="-234.9412" TopMargin="50.5443" BottomMargin="-71.5443" FontSize="14" LabelText="leagueNmae" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="87.0000" Y="21.0000" />
+          <AbstractNodeData Name="leagueName" ActionTag="970057035" Tag="87" IconVisible="False" LeftMargin="147.9412" RightMargin="-256.9412" TopMargin="47.5443" BottomMargin="-74.5443" FontSize="18" LabelText="leagueNmae" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="109.0000" Y="27.0000" />
             <AnchorPoint ScaleY="0.5000" />
             <Position X="147.9412" Y="-61.0443" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Scale ScaleX="0.8000" ScaleY="1.0000" />
             <CColor A="255" R="189" G="198" B="208" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
@@ -129,11 +129,11 @@
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="leagueName_0" ActionTag="1369906983" Tag="183" IconVisible="False" LeftMargin="109.6594" RightMargin="-149.6594" TopMargin="51.0563" BottomMargin="-72.0563" FontSize="14" LabelText="星盟：" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="40.0000" Y="21.0000" />
+          <AbstractNodeData Name="leagueName_0" ActionTag="1369906983" Tag="183" IconVisible="False" LeftMargin="109.6594" RightMargin="-159.6594" TopMargin="48.1487" BottomMargin="-75.1487" FontSize="18" LabelText="星盟：" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="50.0000" Y="27.0000" />
             <AnchorPoint ScaleY="0.5154" />
             <Position X="109.6594" Y="-61.2329" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Scale ScaleX="0.8000" ScaleY="1.0000" />
             <CColor A="255" R="189" G="198" B="208" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />

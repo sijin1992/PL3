@@ -66,17 +66,17 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="CityScene/StrengthItem.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="xydBtn" ActionTag="-846743744" Tag="4393" IconVisible="False" LeftMargin="621.2596" RightMargin="378.7404" TopMargin="476.3086" BottomMargin="251.6914" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="64" RightEage="59" TopEage="20" BottomEage="18" Scale9OriginX="64" Scale9OriginY="20" Scale9Width="7" Scale9Height="2" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-            <Size X="136.0000" Y="40.0000" />
+          <AbstractNodeData Name="xydBtn" ActionTag="-846743744" Tag="4393" IconVisible="False" LeftMargin="609.2596" RightMargin="366.7404" TopMargin="476.3086" BottomMargin="251.6914" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="64" RightEage="59" TopEage="20" BottomEage="18" Scale9OriginX="64" Scale9OriginY="20" Scale9Width="7" Scale9Height="2" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+            <Size X="160.0000" Y="40.0000" />
             <Children>
-              <AbstractNodeData Name="text" ActionTag="1135094248" Tag="590" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="17.5000" RightMargin="17.5000" TopMargin="9.0840" BottomMargin="-2.0840" FontSize="22" LabelText="Purchase" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="101.0000" Y="33.0000" />
+              <AbstractNodeData Name="text" ActionTag="1135094248" Tag="590" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="34.5000" RightMargin="34.5000" TopMargin="10.5840" BottomMargin="-0.5840" FontSize="20" LabelText="Purchase" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="91.0000" Y="30.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="68.0000" Y="14.4160" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Position X="80.0000" Y="14.4160" />
+                <Scale ScaleX="0.8000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.3604" />
-                <PreSize X="0.7426" Y="0.8250" />
+                <PreSize X="0.5688" Y="0.7500" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
@@ -87,7 +87,7 @@
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.6067" Y="0.3538" />
-            <PreSize X="0.1197" Y="0.0521" />
+            <PreSize X="0.1408" Y="0.0521" />
             <TextColor A="255" R="65" G="65" B="70" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
             <PressedFileData Type="Normal" Path="Common/newUI/button_yellow_light.png" Plist="" />
@@ -95,17 +95,17 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="use" ActionTag="-981646546" Tag="4394" IconVisible="False" LeftMargin="369.2308" RightMargin="628.7692" TopMargin="476.3086" BottomMargin="251.6914" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="66" RightEage="57" TopEage="19" BottomEage="19" Scale9OriginX="66" Scale9OriginY="19" Scale9Width="7" Scale9Height="2" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-            <Size X="138.0000" Y="40.0000" />
+          <AbstractNodeData Name="use" ActionTag="-981646546" Tag="4394" IconVisible="False" LeftMargin="358.2308" RightMargin="617.7692" TopMargin="476.3086" BottomMargin="251.6914" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="66" RightEage="57" TopEage="19" BottomEage="19" Scale9OriginX="66" Scale9OriginY="19" Scale9Width="7" Scale9Height="2" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+            <Size X="160.0000" Y="40.0000" />
             <Children>
-              <AbstractNodeData Name="text" ActionTag="-1578137886" Tag="591" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="47.4425" RightMargin="48.5575" TopMargin="9.0840" BottomMargin="-2.0840" FontSize="22" LabelText="Use" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="42.0000" Y="33.0000" />
+              <AbstractNodeData Name="text" ActionTag="-1578137886" Tag="591" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="60.9425" RightMargin="60.0575" TopMargin="10.5840" BottomMargin="-0.5840" FontSize="20" LabelText="Use" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="39.0000" Y="30.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="68.4425" Y="14.4160" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Position X="80.4425" Y="14.4160" />
+                <Scale ScaleX="0.8000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.4960" Y="0.3604" />
-                <PreSize X="0.3043" Y="0.8250" />
+                <PrePosition X="0.5028" Y="0.3604" />
+                <PreSize X="0.2438" Y="0.7500" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
@@ -116,7 +116,7 @@
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.3858" Y="0.3538" />
-            <PreSize X="0.1215" Y="0.0521" />
+            <PreSize X="0.1408" Y="0.0521" />
             <TextColor A="255" R="65" G="65" B="70" />
             <DisabledFileData Type="Normal" Path="Common/newUI/button_blue_grray.png" Plist="" />
             <PressedFileData Type="Normal" Path="Common/newUI/button_blue_light.png" Plist="" />
