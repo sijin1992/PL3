@@ -206,6 +206,7 @@ function AppBase:pushView(name, data)
 	
 	-- ADD WJJ 180705
 	local memoryInterface = require("app.ExMemoryInterface"):getInstance()
+	memoryInterface:OnEnableAnimationReleaseAsync()
 	memoryInterface:OnEnableMemoryReleaseAsync()
 
 	local view = self:createView(name, data)
@@ -292,6 +293,7 @@ function AppBase:pushToRootView(name, data)
 	if( self.IS_FORCE_RELEASE ) then
 		-- ADD WJJ 180705
 		local memoryInterface = require("app.ExMemoryInterface"):getInstance()
+		memoryInterface:OnEnableAnimationReleaseAsync()
 		memoryInterface:OnEnableMemoryReleaseAsync()
 		-- self.memoryTools:DebugCachedTexture(" AppBase createView BEGIN time: " .. tostring(os.clock()))
 		if ( cc.exports.isTotalReleaseMemoryOnce  ) then
@@ -300,6 +302,9 @@ function AppBase:pushToRootView(name, data)
 			memoryInterface:OnTransitionScene(true)
 			print( string.format( " @@@@ Appbase after remove all children, memory released! now: %s ", tostring(os.clock()))  )
 		end
+
+		cc.SpriteFrameCache:getInstance():removeUnusedSpriteFrames()
+		cc.Director:getInstance():getTextureCache():removeUnusedTextures()
 
 	end
 	--display.removeUnusedSpriteFrames()
