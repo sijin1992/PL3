@@ -3734,68 +3734,6 @@
           </Folder>
           <Folder Name="sfx">
             <Folder Name="home">
-              <Folder Name="1">
-                <Image Name="1_00000.png" />
-                <Image Name="1_00001.png" />
-                <Image Name="1_00002.png" />
-                <Image Name="1_00003.png" />
-                <Image Name="1_00004.png" />
-                <Image Name="1_00005.png" />
-                <Image Name="1_00006.png" />
-                <Image Name="1_00007.png" />
-                <Image Name="1_00008.png" />
-                <Image Name="1_00009.png" />
-                <Image Name="1_00010.png" />
-                <Image Name="1_00011.png" />
-                <Image Name="1_00012.png" />
-                <Image Name="1_00013.png" />
-                <Image Name="1_00014.png" />
-                <Image Name="1_00015.png" />
-                <Image Name="1_00016.png" />
-                <Image Name="1_00017.png" />
-                <Image Name="1_00018.png" />
-                <Image Name="1_00019.png" />
-                <Image Name="1_00020.png" />
-                <Image Name="1_00021.png" />
-                <Image Name="1_00022.png" />
-                <Image Name="1_00023.png" />
-                <Image Name="1_00024.png" />
-                <Image Name="1_00025.png" />
-                <Image Name="1_00026.png" />
-                <Image Name="1_00027.png" />
-                <Image Name="1_00028.png" />
-                <Image Name="1_00029.png" />
-                <Image Name="1_00030.png" />
-                <Image Name="1_00031.png" />
-                <Image Name="1_00032.png" />
-                <Image Name="1_00033.png" />
-                <Image Name="1_00034.png" />
-                <Image Name="1_00035.png" />
-                <Image Name="1_00036.png" />
-                <Image Name="1_00037.png" />
-                <Image Name="1_00038.png" />
-                <Image Name="1_00039.png" />
-                <Image Name="1_00040.png" />
-                <Image Name="1_00041.png" />
-                <Image Name="1_00042.png" />
-                <Image Name="1_00043.png" />
-                <Image Name="1_00044.png" />
-                <Image Name="1_00045.png" />
-                <Image Name="1_00046.png" />
-                <Image Name="1_00047.png" />
-                <Image Name="1_00048.png" />
-                <Image Name="1_00049.png" />
-                <Image Name="1_00050.png" />
-                <Image Name="1_00051.png" />
-                <Image Name="1_00052.png" />
-                <Image Name="1_00053.png" />
-                <Image Name="1_00054.png" />
-                <Image Name="1_00055.png" />
-                <Image Name="1_00056.png" />
-                <Image Name="1_00057.png" />
-                <Image Name="1_00058.png" />
-                <Image Name="1_00059.png" />
-              </Folder>
               <Image Name="6 -fu.png" />
               <Image Name="bj.jpg" />
               <Image Name="guang.png" />
@@ -3872,7 +3810,6 @@
             <Image Name="youxichangjingzhong.png" />
             <Image Name="youxijichangjing32.jpg" />
           </Folder>
-          <Image Name="bg.jpg" />
           <Project Name="diancijixie.csd" Type="Node" />
           <Project Name="HomeBuild.csd" Type="Node" />
           <Project Name="HomeBuildInfo.csd" Type="Node" />
@@ -3885,7 +3822,6 @@
           <Project Name="HomeWarning.csd" Type="Node" />
           <Project Name="hongseguangdian.csd" Type="Node" />
           <Project Name="item_need.csd" Type="Node" />
-          <Project Name="liuguang.csd" Type="Node" />
           <Project Name="liuxingguang.csd" Type="Node" />
           <Project Name="NEWjianzhu.csd" Type="Node" />
           <Project Name="qiu.csd" Type="Node" />
