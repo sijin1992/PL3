@@ -628,16 +628,6 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="HomeScene/shanguang.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="liuguang" ActionTag="598664159" Tag="310" IconVisible="True" LeftMargin="569.3528" RightMargin="566.6472" TopMargin="384.9970" BottomMargin="383.0030" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
-            <Size X="0.0000" Y="0.0000" />
-            <AnchorPoint />
-            <Position X="569.3528" Y="383.0030" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5012" Y="0.4987" />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="HomeScene/liuguang.csd" Plist="" />
-          </AbstractNodeData>
           <AbstractNodeData Name="suo" ActionTag="-583618179" Tag="240" IconVisible="True" LeftMargin="230.0173" RightMargin="905.9827" TopMargin="535.5679" BottomMargin="232.4321" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
