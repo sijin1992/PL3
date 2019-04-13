@@ -129,6 +129,9 @@ function ExMemoryTools:PurgeCache(is_empty_scene, is_pause_director)
 		require("app.ExMemoryInterface"):getInstance():OnEnableAnimationReleaseAsync()
 		require("app.ExMemoryInterface"):getInstance():OnEnableMemoryReleaseAsync()
 		self:_print("**** ExMemoryTools PurgeCache 131 "  )
+		cc.SpriteFrameCache:getInstance():removeUnusedSpriteFrames()
+		cc.Director:getInstance():getTextureCache():removeUnusedTextures()
+
 		-- cc.SpriteFrameCache:getInstance():removeSpriteFrames()
 		-- cc.Director:getInstance():getTextureCache():removeAllTextures()
 
