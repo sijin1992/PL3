@@ -293,10 +293,10 @@
                 <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Normal" Path="CityScene/ui3/itemdown.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="fight" ActionTag="-1128960678" Tag="1074" IconVisible="False" LeftMargin="399.1754" RightMargin="-488.1754" TopMargin="-446.3790" BottomMargin="413.3790" FontSize="22" LabelText="星盟战力" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="fight" ActionTag="-1128960678" Tag="1074" IconVisible="False" LeftMargin="377.1758" RightMargin="-466.1758" TopMargin="-446.3790" BottomMargin="413.3790" FontSize="22" LabelText="星盟战力" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="89.0000" Y="33.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="399.1754" Y="429.8790" />
+                <Position X="377.1758" Y="429.8790" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="244" B="121" />
                 <PrePosition />
@@ -305,10 +305,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="244" B="121" />
               </AbstractNodeData>
-              <AbstractNodeData Name="fightNum" ActionTag="1399240317" Tag="1075" IconVisible="False" LeftMargin="510.8345" RightMargin="-564.8345" TopMargin="-445.5001" BottomMargin="412.5001" FontSize="22" LabelText="6666" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="fightNum" ActionTag="1399240317" Tag="1075" IconVisible="False" LeftMargin="492.8350" RightMargin="-546.8350" TopMargin="-445.5001" BottomMargin="412.5001" FontSize="22" LabelText="6666" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="54.0000" Y="33.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="510.8345" Y="429.0001" />
+                <Position X="492.8350" Y="429.0001" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -317,11 +317,11 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
               </AbstractNodeData>
-              <AbstractNodeData Name="total" ActionTag="442168677" Tag="1076" IconVisible="False" LeftMargin="397.7928" RightMargin="-508.7928" TopMargin="-409.5348" BottomMargin="382.5348" FontSize="18" LabelText="星盟科技总数" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
-                <Size X="111.0000" Y="27.0000" />
+              <AbstractNodeData Name="total" ActionTag="442168677" Tag="1076" IconVisible="False" LeftMargin="379.7930" RightMargin="-502.7930" TopMargin="-411.0347" BottomMargin="381.0347" FontSize="20" LabelText="星盟科技总数" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+                <Size X="123.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="397.7928" Y="396.0348" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Position X="379.7930" Y="396.0347" />
+                <Scale ScaleX="0.8000" ScaleY="1.0000" />
                 <CColor A="255" R="216" G="231" B="247" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
@@ -329,11 +329,11 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="216" G="231" B="247" />
               </AbstractNodeData>
-              <AbstractNodeData Name="totalnum" ActionTag="914068255" Tag="1077" IconVisible="False" LeftMargin="528.7219" RightMargin="-541.7219" TopMargin="-408.9446" BottomMargin="381.9446" FontSize="18" LabelText="6" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="totalnum" ActionTag="914068255" Tag="1077" IconVisible="False" LeftMargin="496.7226" RightMargin="-509.7226" TopMargin="-408.9448" BottomMargin="381.9448" FontSize="18" LabelText="6" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="13.0000" Y="27.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="528.7219" Y="395.4446" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Position X="496.7226" Y="395.4448" />
+                <Scale ScaleX="0.8000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
@@ -341,11 +341,11 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
               </AbstractNodeData>
-              <AbstractNodeData Name="ranking" ActionTag="-480289140" Tag="1078" IconVisible="False" LeftMargin="598.9370" RightMargin="-637.9370" TopMargin="-409.5348" BottomMargin="382.5348" FontSize="18" LabelText="排行" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="ranking" ActionTag="-480289140" Tag="1078" IconVisible="False" LeftMargin="698.9373" RightMargin="-737.9373" TopMargin="-441.5350" BottomMargin="414.5350" FontSize="18" LabelText="排行" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="39.0000" Y="27.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="598.9370" Y="396.0348" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Position X="698.9373" Y="428.0350" />
+                <Scale ScaleX="0.8000" ScaleY="1.0000" />
                 <CColor A="255" R="216" G="231" B="247" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
@@ -353,11 +353,11 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="216" G="231" B="247" />
               </AbstractNodeData>
-              <AbstractNodeData Name="rankingnum" ActionTag="-620572239" Tag="1079" IconVisible="False" LeftMargin="651.4310" RightMargin="-664.4310" TopMargin="-408.9446" BottomMargin="381.9446" FontSize="18" LabelText="6" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="rankingnum" ActionTag="-620572239" Tag="1079" IconVisible="False" LeftMargin="776.4324" RightMargin="-789.4324" TopMargin="-440.9459" BottomMargin="413.9459" FontSize="18" LabelText="6" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="13.0000" Y="27.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="651.4310" Y="395.4446" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Position X="776.4324" Y="427.4459" />
+                <Scale ScaleX="0.8000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
@@ -365,11 +365,11 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
               </AbstractNodeData>
-              <AbstractNodeData Name="contribute" ActionTag="-752557057" Tag="1080" IconVisible="False" LeftMargin="715.9271" RightMargin="-790.9271" TopMargin="-409.5348" BottomMargin="382.5348" FontSize="18" LabelText="个人贡献" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="contribute" ActionTag="-752557057" Tag="1080" IconVisible="False" LeftMargin="699.9271" RightMargin="-774.9271" TopMargin="-409.5352" BottomMargin="382.5352" FontSize="18" LabelText="个人贡献" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="75.0000" Y="27.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="715.9271" Y="396.0348" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Position X="699.9271" Y="396.0352" />
+                <Scale ScaleX="0.8000" ScaleY="1.0000" />
                 <CColor A="255" R="216" G="231" B="247" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
@@ -377,11 +377,11 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="216" G="231" B="247" />
               </AbstractNodeData>
-              <AbstractNodeData Name="contributenum" ActionTag="969916001" Tag="1081" IconVisible="False" LeftMargin="828.2599" RightMargin="-901.2599" TopMargin="-408.9446" BottomMargin="381.9446" FontSize="18" LabelText="6666666" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="contributenum" ActionTag="969916001" Tag="1081" IconVisible="False" LeftMargin="772.2597" RightMargin="-845.2597" TopMargin="-408.9456" BottomMargin="381.9456" FontSize="18" LabelText="6666666" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="73.0000" Y="27.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="828.2599" Y="395.4446" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Position X="772.2597" Y="395.4456" />
+                <Scale ScaleX="0.8000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />

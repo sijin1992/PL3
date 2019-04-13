@@ -16,11 +16,11 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="Common/newUI/rw_tiao.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="taskName" ActionTag="-171087610" Tag="118" IconVisible="False" LeftMargin="107.5686" RightMargin="-174.5686" TopMargin="13.0639" BottomMargin="-37.0639" FontSize="16" LabelText="主角升级" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="67.0000" Y="24.0000" />
+          <AbstractNodeData Name="taskName" ActionTag="-171087610" Tag="118" IconVisible="False" LeftMargin="107.5686" RightMargin="-182.5686" TopMargin="7.5640" BottomMargin="-34.5640" FontSize="18" LabelText="主角升级" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="75.0000" Y="27.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="107.5686" Y="-25.0639" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="107.5686" Y="-21.0640" />
+            <Scale ScaleX="0.8000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="186" B="75" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
@@ -49,11 +49,11 @@
             <FileData Type="Normal" Path="TaskScene/achievement/207.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="introduction" ActionTag="-853591516" Tag="121" IconVisible="False" LeftMargin="107.5686" RightMargin="-359.5686" TopMargin="33.1655" BottomMargin="-111.1655" IsCustomSize="True" FontSize="14" LabelText="英雄等级&#xA;英雄等级&#xA;英雄等级" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="introduction" ActionTag="-853591516" Tag="121" IconVisible="False" LeftMargin="107.5686" RightMargin="-359.5686" TopMargin="29.1655" BottomMargin="-107.1655" IsCustomSize="True" FontSize="18" LabelText="英雄等级&#xA;英雄等级&#xA;英雄等级" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="252.0000" Y="78.0000" />
             <AnchorPoint ScaleY="1.0000" />
-            <Position X="107.5686" Y="-33.1655" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="107.5686" Y="-29.1655" />
+            <Scale ScaleX="0.8000" ScaleY="1.0000" />
             <CColor A="255" R="209" G="209" B="209" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
