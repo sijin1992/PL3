@@ -81,10 +81,10 @@
           <AbstractNodeData Name="node_price" ActionTag="149042703" Tag="112" IconVisible="True" LeftMargin="7.9988" RightMargin="-7.9988" TopMargin="63.9995" BottomMargin="-63.9995" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
-              <AbstractNodeData Name="Text_12" ActionTag="-162800448" Tag="94" IconVisible="False" LeftMargin="22.8684" RightMargin="-62.8684" TopMargin="9.8107" BottomMargin="-30.8107" FontSize="14" LabelText="原价：" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+              <AbstractNodeData Name="Text_12" ActionTag="-162800448" Tag="94" IconVisible="False" LeftMargin="10.6777" RightMargin="-50.6777" TopMargin="9.8107" BottomMargin="-30.8107" FontSize="14" LabelText="原价：" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                 <Size X="40.0000" Y="21.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="22.8684" Y="-20.3107" />
+                <Position X="10.6777" Y="-20.3107" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="204" G="240" B="236" />
                 <PrePosition />
@@ -93,30 +93,30 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Image_15" ActionTag="-1557306139" Tag="107" IconVisible="False" LeftMargin="69.6194" RightMargin="-92.6194" TopMargin="5.4048" BottomMargin="-28.4048" LeftEage="17" RightEage="17" TopEage="17" BottomEage="17" Scale9OriginX="17" Scale9OriginY="17" Scale9Width="19" Scale9Height="19" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="Image_15" ActionTag="-1557306139" Tag="107" IconVisible="False" LeftMargin="105.4455" RightMargin="-128.4455" TopMargin="5.4047" BottomMargin="-28.4047" LeftEage="17" RightEage="17" TopEage="17" BottomEage="17" Scale9OriginX="17" Scale9OriginY="17" Scale9Width="19" Scale9Height="19" ctype="ImageViewObjectData">
                 <Size X="23.0000" Y="23.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="81.1194" Y="-16.9048" />
+                <Position X="116.9455" Y="-16.9047" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Normal" Path="Common/ui/ui_icon_money.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Image_36" ActionTag="634657396" Tag="1503" IconVisible="False" LeftMargin="24.4293" RightMargin="-144.4293" TopMargin="9.4143" BottomMargin="-24.4143" LeftEage="21" RightEage="21" TopEage="6" BottomEage="6" Scale9OriginX="21" Scale9OriginY="6" Scale9Width="22" Scale9Height="8" ctype="ImageViewObjectData">
-                <Size X="120.0000" Y="15.0000" />
+              <AbstractNodeData Name="Image_36" ActionTag="634657396" Tag="1503" IconVisible="False" LeftMargin="12.4293" RightMargin="-162.4293" TopMargin="9.4143" BottomMargin="-24.4143" LeftEage="21" RightEage="21" TopEage="6" BottomEage="6" Scale9OriginX="21" Scale9OriginY="6" Scale9Width="22" Scale9Height="8" ctype="ImageViewObjectData">
+                <Size X="150.0000" Y="15.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="84.4293" Y="-16.9143" />
+                <Position X="87.4293" Y="-16.9143" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Normal" Path="AdventureLayer/ui/X.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="original" ActionTag="-2109050168" Tag="110" IconVisible="False" LeftMargin="91.5168" RightMargin="-142.5168" TopMargin="9.8107" BottomMargin="-30.8107" FontSize="14" LabelText="666666" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+              <AbstractNodeData Name="original" ActionTag="-2109050168" Tag="110" IconVisible="False" LeftMargin="120.1366" RightMargin="-171.1366" TopMargin="9.8107" BottomMargin="-30.8107" FontSize="14" LabelText="666666" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                 <Size X="51.0000" Y="21.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="91.5168" Y="-20.3107" />
+                <Position X="120.1366" Y="-20.3107" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="204" G="240" B="236" />
                 <PrePosition />
@@ -125,10 +125,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Text_20" ActionTag="74308538" Tag="108" IconVisible="False" LeftMargin="170.1997" RightMargin="-210.1997" TopMargin="9.8107" BottomMargin="-30.8107" FontSize="14" LabelText="现价：" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+              <AbstractNodeData Name="Text_20" ActionTag="74308538" Tag="108" IconVisible="False" LeftMargin="173.1996" RightMargin="-213.1996" TopMargin="9.8107" BottomMargin="-30.8107" FontSize="14" LabelText="现价：" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                 <Size X="40.0000" Y="21.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="170.1997" Y="-20.3107" />
+                <Position X="173.1996" Y="-20.3107" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="234" G="209" B="55" />
                 <PrePosition />
@@ -137,20 +137,20 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Image_15_0" ActionTag="1559286737" Tag="109" IconVisible="False" LeftMargin="212.4301" RightMargin="-235.4301" TopMargin="5.4048" BottomMargin="-28.4048" LeftEage="17" RightEage="17" TopEage="17" BottomEage="17" Scale9OriginX="17" Scale9OriginY="17" Scale9Width="19" Scale9Height="19" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="Image_15_0" ActionTag="1559286737" Tag="109" IconVisible="False" LeftMargin="264.7142" RightMargin="-287.7142" TopMargin="5.4047" BottomMargin="-28.4047" LeftEage="17" RightEage="17" TopEage="17" BottomEage="17" Scale9OriginX="17" Scale9OriginY="17" Scale9Width="19" Scale9Height="19" ctype="ImageViewObjectData">
                 <Size X="23.0000" Y="23.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="223.9301" Y="-16.9048" />
+                <Position X="276.2142" Y="-16.9047" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Normal" Path="Common/ui/ui_icon_money.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="current" ActionTag="-424974437" Tag="111" IconVisible="False" LeftMargin="233.1851" RightMargin="-284.1851" TopMargin="9.8107" BottomMargin="-30.8107" FontSize="14" LabelText="666666" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+              <AbstractNodeData Name="current" ActionTag="-424974437" Tag="111" IconVisible="False" LeftMargin="280.1863" RightMargin="-331.1863" TopMargin="9.8107" BottomMargin="-30.8107" FontSize="14" LabelText="666666" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                 <Size X="51.0000" Y="21.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="233.1851" Y="-20.3107" />
+                <Position X="280.1863" Y="-20.3107" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="234" G="209" B="55" />
                 <PrePosition />

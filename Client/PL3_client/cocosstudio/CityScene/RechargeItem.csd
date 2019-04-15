@@ -50,11 +50,23 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="song_num" ActionTag="-930610633" Tag="550" IconVisible="False" LeftMargin="8.9707" RightMargin="-156.9707" TopMargin="160.2994" BottomMargin="-186.2994" IsCustomSize="True" FontSize="16" LabelText="消费不超过九个字哦" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="148.0000" Y="26.0000" />
+          <AbstractNodeData Name="song_text" ActionTag="-930610633" Tag="550" IconVisible="False" LeftMargin="8.9707" RightMargin="-156.9707" TopMargin="150.2990" BottomMargin="-168.2990" IsCustomSize="True" FontSize="15" LabelText="消费不超过九个字哦" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="148.0000" Y="18.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="8.9707" Y="-173.2994" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="8.9707" Y="-159.2990" />
+            <Scale ScaleX="1.0000" ScaleY="0.9000" />
+            <CColor A="255" R="243" G="255" B="207" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
+            <OutlineColor A="255" R="77" G="77" B="77" />
+            <ShadowColor A="255" R="33" G="255" B="70" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="song_num" ActionTag="-608332288" Tag="576" IconVisible="False" LeftMargin="8.9700" RightMargin="-156.9700" TopMargin="169.9790" BottomMargin="-187.9790" IsCustomSize="True" FontSize="15" LabelText="消费不超过九个字哦" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="148.0000" Y="18.0000" />
+            <AnchorPoint ScaleY="0.5000" />
+            <Position X="8.9700" Y="-178.9790" />
+            <Scale ScaleX="1.0000" ScaleY="0.9000" />
             <CColor A="255" R="243" G="255" B="207" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />

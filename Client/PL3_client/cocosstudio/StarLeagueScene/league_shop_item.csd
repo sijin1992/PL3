@@ -117,21 +117,21 @@
             <OutlineColor A="255" R="77" G="77" B="77" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="itemIcon" ActionTag="-770797786" Tag="230" IconVisible="False" LeftMargin="34.8964" RightMargin="-134.8964" TopMargin="43.2572" BottomMargin="-143.2572" LeftEage="33" RightEage="33" TopEage="33" BottomEage="33" Scale9OriginX="13" Scale9OriginY="13" Scale9Width="20" Scale9Height="20" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="itemIcon" ActionTag="-770797786" Tag="230" IconVisible="False" LeftMargin="34.8964" RightMargin="-134.8964" TopMargin="34.2571" BottomMargin="-134.2571" LeftEage="33" RightEage="33" TopEage="33" BottomEage="33" Scale9OriginX="13" Scale9OriginY="13" Scale9Width="20" Scale9Height="20" ctype="ImageViewObjectData">
             <Size X="100.0000" Y="100.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="84.8964" Y="-93.2572" />
+            <Position X="84.8964" Y="-84.2571" />
             <Scale ScaleX="0.7592" ScaleY="0.7592" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Default" Path="Default/ImageFile.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="itemName" ActionTag="1901418636" Tag="297" IconVisible="False" LeftMargin="19.8209" RightMargin="-149.8209" TopMargin="165.6849" BottomMargin="-188.6849" IsCustomSize="True" FontSize="14" LabelText="幻影级稳固型传感器" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="130.0000" Y="23.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
-            <Position X="84.8209" Y="-165.6849" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+          <AbstractNodeData Name="itemName" ActionTag="1901418636" Tag="297" IconVisible="False" LeftMargin="19.8209" RightMargin="-149.8209" TopMargin="145.1849" BottomMargin="-209.1849" IsCustomSize="True" FontSize="14" LabelText="幻影级稳固型传感器幻影级稳固型传感器幻影级稳固型传感器" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="130.0000" Y="64.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="84.8209" Y="-177.1849" />
+            <Scale ScaleX="1.0000" ScaleY="0.8500" />
             <CColor A="255" R="252" G="245" B="165" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
@@ -139,10 +139,10 @@
             <OutlineColor A="255" R="77" G="77" B="77" />
             <ShadowColor A="255" R="252" G="245" B="165" />
           </AbstractNodeData>
-          <AbstractNodeData Name="itemNum" ActionTag="78400110" Tag="231" IconVisible="False" LeftMargin="72.3658" RightMargin="-98.3658" TopMargin="134.3876" BottomMargin="-155.3876" FontSize="14" LabelText="*20" HorizontalAlignmentType="HT_Center" ShadowOffsetX="1.0000" ShadowOffsetY="-1.0000" ctype="TextObjectData">
-            <Size X="26.0000" Y="21.0000" />
+          <AbstractNodeData Name="itemNum" ActionTag="78400110" Tag="231" IconVisible="False" LeftMargin="70.8658" RightMargin="-99.8658" TopMargin="126.8875" BottomMargin="-150.8875" FontSize="16" LabelText="*20" HorizontalAlignmentType="HT_Center" ShadowOffsetX="1.0000" ShadowOffsetY="-1.0000" ctype="TextObjectData">
+            <Size X="29.0000" Y="24.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="85.3658" Y="-144.8876" />
+            <Position X="85.3658" Y="-138.8875" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
