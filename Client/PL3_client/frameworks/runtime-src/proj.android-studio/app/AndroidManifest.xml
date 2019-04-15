@@ -3,7 +3,7 @@
     package="com.utu.star"
     android:installLocation="auto"
     android:versionCode="1"
-    android:versionName="1.0" >
+    android:versionName="1.1.1" >
     <!-- WJJ: edit versionName every build! -->
 
     <uses-feature android:glEsVersion="0x00020000" />
