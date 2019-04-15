@@ -4,11 +4,11 @@ android {
     compileSdkVersion 25
     buildToolsVersion '25.0.2'
     defaultConfig {
-        applicationId "com.utu.star"
+        applicationId "com.haomiao.star"
         minSdkVersion 10
         targetSdkVersion 25
-        versionCode 5
-        versionName "1.0.5 201807181451"
+        versionCode 1
+        versionName "1.1.1"
 	// WJJ: edit versionName every build!
     }
     sourceSets.main {
