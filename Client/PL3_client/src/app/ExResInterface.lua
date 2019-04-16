@@ -12,8 +12,8 @@ ExResInterface.EX_OptimizedLoader = require("app.ExResPreloader"):getInstance()
 function ExResInterface:FastLoad(file)
 	--print("###LUA                                         ")
 	--print("###LUA INTERFACE FastLoad: " .. tostring(file))
-	local res = self.EX_OptimizedLoader:CacheLoad(file)
-	-- local res = cc.CSLoader:createNode(file)
+	-- local res = self.EX_OptimizedLoader:CacheLoad(file)
+	local res = cc.CSLoader:createNode(file)
 	return res
 end
 
