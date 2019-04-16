@@ -17,7 +17,7 @@ ExMemoryReleaseAsync.strategy = require("util.ExMemoryStrategy"):getInstance()
 ExMemoryReleaseAsync.exSchedulerHelper_single = require("util.ExSchedulerHelper")
 ExMemoryReleaseAsync.exSchedulerHelper = {}
 ExMemoryReleaseAsync.UPDATE_INTERVAL_ORIGIN = 0.013
-ExMemoryReleaseAsync.TimesReleaseOnce = 20
+ExMemoryReleaseAsync.TimesReleaseOnce = 200
 ExMemoryReleaseAsync.UPDATE_INTERVAL = 0.5 --ExMemoryReleaseAsync.UPDATE_INTERVAL_ORIGIN
 ExMemoryReleaseAsync.UPDATE_INIT = 0
 ExMemoryReleaseAsync.UPDATE_MAX = 1
@@ -30,11 +30,11 @@ ExMemoryReleaseAsync.isAnimationFrameReleaseEnabled = false
 ------------------------------------------------
 
 function ExMemoryReleaseAsync:ResetUpdateInterval()
-	self.TimesReleaseOnce = 20
+	self.TimesReleaseOnce = 200
 end
 
 function ExMemoryReleaseAsync:SetUpdateFastOnTransfer()
-	self.TimesReleaseOnce = 30
+	self.TimesReleaseOnce = 300
 end
 
 

@@ -8,7 +8,7 @@ ViewBase.EX_OptimizedLoader = require("app.ExResPreloader"):getInstance()
 ViewBase.IS_DEBUG_LOG_VERBOSE_VIEWBASE = false
 ViewBase.IS_DEBUG_LOG_NODE = false
 -- ADD BY WJJ 20180619
-ViewBase.IS_OPTIMIZE = true
+ViewBase.IS_OPTIMIZE = false
 ViewBase.VB_DELAY_INIT_LOAD_ANIMATION = 1
 
 function ViewBase:_print_viewbase(_log)
