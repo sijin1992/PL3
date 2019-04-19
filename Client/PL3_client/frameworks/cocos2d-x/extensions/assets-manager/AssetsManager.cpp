@@ -24,7 +24,6 @@
 #include "AssetsManager.h"
 
 #include <thread>
-
 #include "base/CCDirector.h"
 #include "base/CCScheduler.h"
 #include "base/CCUserDefault.h"
@@ -50,7 +49,8 @@ using namespace cocos2d::network;
 #define MAX_FILENAME   512
 
 // Implementation of AssetsManager
-
+static int __percent = 0;
+static bool __inuncompress = false;
 AssetsManager::AssetsManager(const char* packageUrl/* =nullptr */, const char* versionFileUrl/* =nullptr */, const char* storagePath/* =nullptr */)
 :  _storagePath(storagePath ? storagePath : "")
 , _version("")
@@ -153,6 +153,9 @@ AssetsManager::AssetsManager(const char* packageUrl/* =nullptr */, const char* v
     {
         downloadAndUncompress();
     };
+	__percent = 0;
+	__inuncompress = false;
+	Director::sharedDirector()->getScheduler()->scheduleSelector(schedule_selector(AssetsManager::updateExt), this, 0.1f, false);
 }
 
 AssetsManager::~AssetsManager()
@@ -203,10 +206,15 @@ bool AssetsManager::checkUpdate()
     return true;
 }
 
+
 void AssetsManager::downloadAndUncompress()
 {
+	//TODO
+	//Director::sharedDirector()->getScheduler()->scheduleUpdateForTarget(this, 0, false);
+	
     std::thread([this]()
     {
+		__inuncompress = true;
         do
         {
             // Uncompress zip file.
@@ -246,12 +254,23 @@ void AssetsManager::downloadAndUncompress()
         } while (0);
         
         _isDownloading = false;
-
+		__inuncompress = false;
     }).detach();
-}
 
+
+}
+void AssetsManager::updateExt(float dt)
+{
+	if (nullptr != _delegate && __inuncompress)
+	{
+		//__percent = 10000 + (i * 100 / global_info.number_entry);
+		//int percent = 10000 + (i * 100 / global_info.number_entry);
+		_delegate->onProgress(__percent);
+	}
+}
 void AssetsManager::update()
 {
+	
     // all operation in checkUpdate, nothing need to do
     // keep this function for compatibility
 }
@@ -404,8 +423,9 @@ bool AssetsManager::uncompress()
 
 		if (nullptr != _delegate)
 		{
-			int percent = 10000 + (i * 100 / global_info.number_entry);
-			_delegate->onProgress(percent);
+			__percent = 10000 + (i * 100 / global_info.number_entry);
+			//int percent = 10000 + (i * 100 / global_info.number_entry);
+			//_delegate->onProgress(percent);
 		}
         // Goto next entry listed in the zip file.
         if ((i+1) < global_info.number_entry)
