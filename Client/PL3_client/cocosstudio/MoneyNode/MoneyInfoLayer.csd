@@ -78,7 +78,7 @@
             <PreSize X="0.5854" Y="0.0013" />
             <FileData Type="Normal" Path="Common/newUI/gk_line_gray.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Node_res6" ActionTag="-524698067" Tag="628" IconVisible="True" LeftMargin="227.5209" RightMargin="908.4791" TopMargin="461.2163" BottomMargin="306.7837" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="Node_res6" ActionTag="-524698067" Tag="628" IconVisible="True" LeftMargin="208.5211" RightMargin="927.4789" TopMargin="461.2162" BottomMargin="306.7838" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
               <AbstractNodeData Name="Sprite_9" ActionTag="-1568744902" Tag="629" IconVisible="False" LeftMargin="22.2881" RightMargin="-94.2881" TopMargin="5.8084" BottomMargin="-77.8084" ctype="SpriteObjectData">
@@ -92,10 +92,10 @@
                 <FileData Type="Normal" Path="ItemIcon/10001.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="name" ActionTag="-1014088409" Tag="630" IconVisible="False" LeftMargin="103.3715" RightMargin="-145.3715" TopMargin="6.3751" BottomMargin="-36.3751" FontSize="20" LabelText="金币" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="name" ActionTag="-1014088409" Tag="630" IconVisible="False" LeftMargin="91.3714" RightMargin="-133.3714" TopMargin="6.3751" BottomMargin="-36.3751" FontSize="20" LabelText="金币" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
                 <Size X="42.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="103.3715" Y="-21.3751" />
+                <Position X="91.3714" Y="-21.3751" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="159" G="240" B="255" />
                 <PrePosition />
@@ -104,10 +104,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="159" G="240" B="255" />
               </AbstractNodeData>
-              <AbstractNodeData Name="name_des" ActionTag="-269121439" Tag="631" IconVisible="False" LeftMargin="137.3842" RightMargin="-290.3842" TopMargin="9.9749" BottomMargin="-33.9749" FontSize="16" LabelText="（游戏中的基础货币）" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="name_des" ActionTag="-269121439" Tag="631" IconVisible="False" LeftMargin="125.3843" RightMargin="-278.3843" TopMargin="9.9748" BottomMargin="-33.9748" FontSize="16" LabelText="（游戏中的基础货币）" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="153.0000" Y="24.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="137.3842" Y="-21.9749" />
+                <Position X="125.3843" Y="-21.9748" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -116,10 +116,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
               </AbstractNodeData>
-              <AbstractNodeData Name="have" ActionTag="-2066771949" Tag="632" IconVisible="False" LeftMargin="103.9794" RightMargin="-231.9794" TopMargin="30.7386" BottomMargin="-60.7386" FontSize="20" LabelText="拥有产量：6K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="have" ActionTag="-2066771949" Tag="632" IconVisible="False" LeftMargin="91.9794" RightMargin="-219.9794" TopMargin="30.7386" BottomMargin="-60.7386" FontSize="20" LabelText="拥有产量：6K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="128.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="103.9794" Y="-45.7386" />
+                <Position X="91.9794" Y="-45.7386" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -128,10 +128,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
               </AbstractNodeData>
-              <AbstractNodeData Name="have_max" ActionTag="1278760461" Tag="633" IconVisible="False" LeftMargin="104.3293" RightMargin="-276.3293" TopMargin="54.3666" BottomMargin="-84.3666" FontSize="20" LabelText="资源上限：99999K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="have_max" ActionTag="1278760461" Tag="633" IconVisible="False" LeftMargin="92.3293" RightMargin="-264.3293" TopMargin="54.3666" BottomMargin="-84.3666" FontSize="20" LabelText="资源上限：99999K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="172.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="104.3293" Y="-69.3666" />
+                <Position X="92.3293" Y="-69.3666" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -140,10 +140,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
               </AbstractNodeData>
-              <AbstractNodeData Name="make_hour" ActionTag="987100081" Tag="634" IconVisible="False" LeftMargin="387.5087" RightMargin="-579.5087" TopMargin="54.3666" BottomMargin="-84.3666" FontSize="20" LabelText="基地每小时：99999K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="make_hour" ActionTag="987100081" Tag="634" IconVisible="False" LeftMargin="375.5090" RightMargin="-567.5090" TopMargin="54.3666" BottomMargin="-84.3666" FontSize="20" LabelText="基地每小时：99999K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="192.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="387.5087" Y="-69.3666" />
+                <Position X="375.5090" Y="-69.3666" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -152,10 +152,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
               </AbstractNodeData>
-              <AbstractNodeData Name="protect_text" ActionTag="-1969462231" Tag="635" IconVisible="False" LeftMargin="386.3735" RightMargin="-558.3735" TopMargin="30.7386" BottomMargin="-60.7386" FontSize="20" LabelText="保护资源：99999K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="protect_text" ActionTag="-1969462231" Tag="635" IconVisible="False" LeftMargin="374.3736" RightMargin="-546.3736" TopMargin="30.7386" BottomMargin="-60.7386" FontSize="20" LabelText="保护资源：99999K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="172.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="386.3735" Y="-45.7386" />
+                <Position X="374.3736" Y="-45.7386" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -166,13 +166,13 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint />
-            <Position X="227.5209" Y="306.7837" />
+            <Position X="208.5211" Y="306.7838" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.2003" Y="0.3995" />
+            <PrePosition X="0.1836" Y="0.3995" />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Node_res5" ActionTag="-245595905" Tag="636" IconVisible="True" LeftMargin="227.5179" RightMargin="908.4821" TopMargin="374.5746" BottomMargin="393.4254" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="Node_res5" ActionTag="-245595905" Tag="636" IconVisible="True" LeftMargin="208.5181" RightMargin="927.4819" TopMargin="374.5746" BottomMargin="393.4254" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
               <AbstractNodeData Name="Sprite_9" ActionTag="129220421" Tag="637" IconVisible="False" LeftMargin="22.2912" RightMargin="-94.2912" TopMargin="2.7180" BottomMargin="-74.7180" ctype="SpriteObjectData">
@@ -186,10 +186,10 @@
                 <FileData Type="Normal" Path="ItemIcon/10001.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="name" ActionTag="393616282" Tag="638" IconVisible="False" LeftMargin="103.3715" RightMargin="-145.3715" TopMargin="1.3750" BottomMargin="-31.3750" FontSize="20" LabelText="金币" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="name" ActionTag="393616282" Tag="638" IconVisible="False" LeftMargin="91.3714" RightMargin="-133.3714" TopMargin="1.3741" BottomMargin="-31.3741" FontSize="20" LabelText="金币" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
                 <Size X="42.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="103.3715" Y="-16.3750" />
+                <Position X="91.3714" Y="-16.3741" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="163" G="255" B="190" />
                 <PrePosition />
@@ -198,10 +198,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="163" G="255" B="190" />
               </AbstractNodeData>
-              <AbstractNodeData Name="name_des" ActionTag="-1934019276" Tag="639" IconVisible="False" LeftMargin="137.3843" RightMargin="-290.3843" TopMargin="4.9748" BottomMargin="-28.9748" FontSize="16" LabelText="（游戏中的基础货币）" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="name_des" ActionTag="-1934019276" Tag="639" IconVisible="False" LeftMargin="125.3846" RightMargin="-278.3846" TopMargin="4.9738" BottomMargin="-28.9738" FontSize="16" LabelText="（游戏中的基础货币）" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="153.0000" Y="24.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="137.3843" Y="-16.9748" />
+                <Position X="125.3846" Y="-16.9738" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -210,10 +210,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
               </AbstractNodeData>
-              <AbstractNodeData Name="have" ActionTag="-827317641" Tag="640" IconVisible="False" LeftMargin="103.9794" RightMargin="-231.9794" TopMargin="25.7385" BottomMargin="-55.7385" FontSize="20" LabelText="拥有产量：6K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="have" ActionTag="-827317641" Tag="640" IconVisible="False" LeftMargin="91.9794" RightMargin="-219.9794" TopMargin="25.7375" BottomMargin="-55.7375" FontSize="20" LabelText="拥有产量：6K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="128.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="103.9794" Y="-40.7385" />
+                <Position X="91.9794" Y="-40.7375" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -222,10 +222,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
               </AbstractNodeData>
-              <AbstractNodeData Name="have_max" ActionTag="1764919013" Tag="641" IconVisible="False" LeftMargin="104.3293" RightMargin="-276.3293" TopMargin="49.3666" BottomMargin="-79.3666" FontSize="20" LabelText="资源上限：99999K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="have_max" ActionTag="1764919013" Tag="641" IconVisible="False" LeftMargin="92.3292" RightMargin="-264.3292" TopMargin="49.3656" BottomMargin="-79.3656" FontSize="20" LabelText="资源上限：99999K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="172.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="104.3293" Y="-64.3666" />
+                <Position X="92.3292" Y="-64.3656" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -234,10 +234,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
               </AbstractNodeData>
-              <AbstractNodeData Name="make_hour" ActionTag="-1799019324" Tag="642" IconVisible="False" LeftMargin="387.5085" RightMargin="-579.5085" TopMargin="49.3666" BottomMargin="-79.3666" FontSize="20" LabelText="基地每小时：99999K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="make_hour" ActionTag="-1799019324" Tag="642" IconVisible="False" LeftMargin="375.5090" RightMargin="-567.5090" TopMargin="49.3656" BottomMargin="-79.3656" FontSize="20" LabelText="基地每小时：99999K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="192.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="387.5085" Y="-64.3666" />
+                <Position X="375.5090" Y="-64.3656" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -246,10 +246,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
               </AbstractNodeData>
-              <AbstractNodeData Name="protect_text" ActionTag="704769526" Tag="643" IconVisible="False" LeftMargin="386.3734" RightMargin="-558.3734" TopMargin="25.7386" BottomMargin="-55.7386" FontSize="20" LabelText="保护资源：99999K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="protect_text" ActionTag="704769526" Tag="643" IconVisible="False" LeftMargin="374.3736" RightMargin="-546.3736" TopMargin="25.7375" BottomMargin="-55.7375" FontSize="20" LabelText="保护资源：99999K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="172.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="386.3734" Y="-40.7386" />
+                <Position X="374.3736" Y="-40.7375" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -260,13 +260,13 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint />
-            <Position X="227.5179" Y="393.4254" />
+            <Position X="208.5181" Y="393.4254" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.2003" Y="0.5123" />
+            <PrePosition X="0.1836" Y="0.5123" />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Node_res4" ActionTag="-68012491" Tag="644" IconVisible="True" LeftMargin="225.6842" RightMargin="910.3158" TopMargin="282.9152" BottomMargin="485.0848" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="Node_res4" ActionTag="-68012491" Tag="644" IconVisible="True" LeftMargin="206.6844" RightMargin="929.3156" TopMargin="282.9150" BottomMargin="485.0850" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
               <AbstractNodeData Name="Sprite_9" ActionTag="827815392" Tag="645" IconVisible="False" LeftMargin="24.1249" RightMargin="-96.1249" TopMargin="4.6454" BottomMargin="-76.6454" ctype="SpriteObjectData">
@@ -280,10 +280,10 @@
                 <FileData Type="Normal" Path="ItemIcon/10001.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="name" ActionTag="-2117844931" Tag="646" IconVisible="False" LeftMargin="103.3715" RightMargin="-145.3715" TopMargin="1.3751" BottomMargin="-31.3751" FontSize="20" LabelText="金币" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="name" ActionTag="-2117844931" Tag="646" IconVisible="False" LeftMargin="91.3721" RightMargin="-133.3721" TopMargin="1.3750" BottomMargin="-31.3750" FontSize="20" LabelText="金币" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
                 <Size X="42.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="103.3715" Y="-16.3751" />
+                <Position X="91.3721" Y="-16.3750" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="144" />
                 <PrePosition />
@@ -292,10 +292,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="144" />
               </AbstractNodeData>
-              <AbstractNodeData Name="name_des" ActionTag="1031444528" Tag="647" IconVisible="False" LeftMargin="137.3843" RightMargin="-290.3843" TopMargin="4.9749" BottomMargin="-28.9749" FontSize="16" LabelText="（游戏中的基础货币）" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="name_des" ActionTag="1031444528" Tag="647" IconVisible="False" LeftMargin="125.3846" RightMargin="-278.3846" TopMargin="4.9748" BottomMargin="-28.9748" FontSize="16" LabelText="（游戏中的基础货币）" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="153.0000" Y="24.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="137.3843" Y="-16.9749" />
+                <Position X="125.3846" Y="-16.9748" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -304,10 +304,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
               </AbstractNodeData>
-              <AbstractNodeData Name="have" ActionTag="698455291" Tag="648" IconVisible="False" LeftMargin="103.9794" RightMargin="-231.9794" TopMargin="25.7388" BottomMargin="-55.7388" FontSize="20" LabelText="拥有产量：6K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="have" ActionTag="698455291" Tag="648" IconVisible="False" LeftMargin="91.9798" RightMargin="-219.9798" TopMargin="25.7387" BottomMargin="-55.7387" FontSize="20" LabelText="拥有产量：6K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="128.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="103.9794" Y="-40.7388" />
+                <Position X="91.9798" Y="-40.7387" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -316,10 +316,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
               </AbstractNodeData>
-              <AbstractNodeData Name="have_max" ActionTag="1053085600" Tag="649" IconVisible="False" LeftMargin="104.3293" RightMargin="-276.3293" TopMargin="49.3668" BottomMargin="-79.3668" FontSize="20" LabelText="资源上限：99999K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="have_max" ActionTag="1053085600" Tag="649" IconVisible="False" LeftMargin="92.3296" RightMargin="-264.3296" TopMargin="49.3667" BottomMargin="-79.3667" FontSize="20" LabelText="资源上限：99999K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="172.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="104.3293" Y="-64.3668" />
+                <Position X="92.3296" Y="-64.3667" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -328,10 +328,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
               </AbstractNodeData>
-              <AbstractNodeData Name="make_hour" ActionTag="-1410562544" Tag="650" IconVisible="False" LeftMargin="387.5085" RightMargin="-579.5085" TopMargin="49.3668" BottomMargin="-79.3668" FontSize="20" LabelText="基地每小时：99999K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="make_hour" ActionTag="-1410562544" Tag="650" IconVisible="False" LeftMargin="375.5092" RightMargin="-567.5092" TopMargin="49.3667" BottomMargin="-79.3667" FontSize="20" LabelText="基地每小时：99999K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="192.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="387.5085" Y="-64.3668" />
+                <Position X="375.5092" Y="-64.3667" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -340,10 +340,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
               </AbstractNodeData>
-              <AbstractNodeData Name="protect_text" ActionTag="-458631863" Tag="651" IconVisible="False" LeftMargin="386.3734" RightMargin="-558.3734" TopMargin="25.7388" BottomMargin="-55.7388" FontSize="20" LabelText="保护资源：99999K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="protect_text" ActionTag="-458631863" Tag="651" IconVisible="False" LeftMargin="374.3740" RightMargin="-546.3740" TopMargin="25.7387" BottomMargin="-55.7387" FontSize="20" LabelText="保护资源：99999K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="172.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="386.3734" Y="-40.7388" />
+                <Position X="374.3740" Y="-40.7387" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -354,13 +354,13 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint />
-            <Position X="225.6842" Y="485.0848" />
+            <Position X="206.6844" Y="485.0850" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.1987" Y="0.6316" />
+            <PrePosition X="0.1819" Y="0.6316" />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Node_res3" ActionTag="1364755030" Tag="652" IconVisible="True" LeftMargin="228.3048" RightMargin="907.6952" TopMargin="202.0201" BottomMargin="565.9799" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="Node_res3" ActionTag="1364755030" Tag="652" IconVisible="True" LeftMargin="209.3051" RightMargin="926.6949" TopMargin="202.0200" BottomMargin="565.9800" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
               <AbstractNodeData Name="Sprite_9" ActionTag="570111985" Tag="653" IconVisible="False" LeftMargin="21.5044" RightMargin="-93.5044" TopMargin="1.8082" BottomMargin="-73.8082" ctype="SpriteObjectData">
@@ -374,10 +374,10 @@
                 <FileData Type="Normal" Path="ItemIcon/10001.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="name" ActionTag="-1932406689" Tag="654" IconVisible="False" LeftMargin="103.3714" RightMargin="-145.3714" TopMargin="11.3751" BottomMargin="-41.3751" FontSize="20" LabelText="金币" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="name" ActionTag="-1932406689" Tag="654" IconVisible="False" LeftMargin="91.3718" RightMargin="-133.3718" TopMargin="11.3751" BottomMargin="-41.3751" FontSize="20" LabelText="金币" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
                 <Size X="42.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="103.3714" Y="-26.3751" />
+                <Position X="91.3718" Y="-26.3751" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="165" B="0" />
                 <PrePosition />
@@ -386,10 +386,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="165" B="0" />
               </AbstractNodeData>
-              <AbstractNodeData Name="name_des" ActionTag="366321295" Tag="655" IconVisible="False" LeftMargin="137.3842" RightMargin="-290.3842" TopMargin="14.9748" BottomMargin="-38.9748" FontSize="16" LabelText="（游戏中的基础货币）" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="name_des" ActionTag="366321295" Tag="655" IconVisible="False" LeftMargin="125.3845" RightMargin="-278.3845" TopMargin="14.9748" BottomMargin="-38.9748" FontSize="16" LabelText="（游戏中的基础货币）" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="153.0000" Y="24.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="137.3842" Y="-26.9748" />
+                <Position X="125.3845" Y="-26.9748" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -398,10 +398,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
               </AbstractNodeData>
-              <AbstractNodeData Name="have" ActionTag="2026558077" Tag="656" IconVisible="False" LeftMargin="103.9792" RightMargin="-231.9792" TopMargin="35.7387" BottomMargin="-65.7387" FontSize="20" LabelText="拥有产量：6K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="have" ActionTag="2026558077" Tag="656" IconVisible="False" LeftMargin="91.9795" RightMargin="-219.9795" TopMargin="35.7387" BottomMargin="-65.7387" FontSize="20" LabelText="拥有产量：6K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="128.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="103.9792" Y="-50.7387" />
+                <Position X="91.9795" Y="-50.7387" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -410,10 +410,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
               </AbstractNodeData>
-              <AbstractNodeData Name="have_max" ActionTag="2087697932" VisibleForFrame="False" Tag="657" IconVisible="False" LeftMargin="104.3293" RightMargin="-276.3293" TopMargin="52.3668" BottomMargin="-82.3668" FontSize="20" LabelText="资源上限：99999K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="have_max" ActionTag="2087697932" VisibleForFrame="False" Tag="657" IconVisible="False" LeftMargin="92.3297" RightMargin="-264.3297" TopMargin="52.3667" BottomMargin="-82.3667" FontSize="20" LabelText="资源上限：99999K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="172.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="104.3293" Y="-67.3668" />
+                <Position X="92.3297" Y="-67.3667" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -422,10 +422,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
               </AbstractNodeData>
-              <AbstractNodeData Name="make_hour" ActionTag="-930273665" VisibleForFrame="False" Tag="658" IconVisible="False" LeftMargin="387.5086" RightMargin="-579.5086" TopMargin="52.3668" BottomMargin="-82.3668" FontSize="20" LabelText="基地每小时：99999K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="make_hour" ActionTag="-930273665" VisibleForFrame="False" Tag="658" IconVisible="False" LeftMargin="375.5095" RightMargin="-567.5095" TopMargin="52.3667" BottomMargin="-82.3667" FontSize="20" LabelText="基地每小时：99999K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="192.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="387.5086" Y="-67.3668" />
+                <Position X="375.5095" Y="-67.3667" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -434,10 +434,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
               </AbstractNodeData>
-              <AbstractNodeData Name="protect_text" ActionTag="-493988361" VisibleForFrame="False" Tag="659" IconVisible="False" LeftMargin="386.3735" RightMargin="-558.3735" TopMargin="28.7388" BottomMargin="-58.7388" FontSize="20" LabelText="保护资源：99999K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+              <AbstractNodeData Name="protect_text" ActionTag="-493988361" VisibleForFrame="False" Tag="659" IconVisible="False" LeftMargin="374.3746" RightMargin="-546.3746" TopMargin="28.7387" BottomMargin="-58.7387" FontSize="20" LabelText="保护资源：99999K" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
                 <Size X="172.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="386.3735" Y="-43.7388" />
+                <Position X="374.3746" Y="-43.7387" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -448,10 +448,10 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint />
-            <Position X="228.3048" Y="565.9799" />
+            <Position X="209.3051" Y="565.9800" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.2010" Y="0.7370" />
+            <PrePosition X="0.1842" Y="0.7370" />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
         </Children>

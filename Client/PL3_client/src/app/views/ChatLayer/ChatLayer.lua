@@ -106,13 +106,13 @@ function ChatLayer:resetNode(typename,data)
 	if self.typename_ ~= "" then
 		rn:getChildByName(self.typename_.."_text"):setTextColor(cc.c4b(209,209,209,255))
 		-- rn:getChildByName(self.typename_.."_text"):enableShadow(cc.c4b(209,209,209,255),cc.size(0.5,0.5))
-		rn:getChildByName(self.typename_.."_text"):setFontSize(23)
+		rn:getChildByName(self.typename_.."_text"):setFontSize(20)
 	end
 
 	-- num = getTypeNum(typename)
 	rn:getChildByName(typename.."_text"):setTextColor(cc.c4b(255,244,198,255))
 	-- rn:getChildByName(typename.."_text"):enableShadow(cc.c4b(255,244,198,255),cc.size(0.5,0.5))
-	rn:getChildByName(typename.."_text"):setFontSize(27)
+	rn:getChildByName(typename.."_text"):setFontSize(20)
 
 	self.typename_ = typename
 

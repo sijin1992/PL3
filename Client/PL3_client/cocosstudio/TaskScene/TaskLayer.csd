@@ -108,22 +108,22 @@
             <PreSize X="4.9982" Y="3.5757" />
             <FileData Type="Normal" Path="ShopScene/ui/line_bt2.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="background" ActionTag="961944226" Alpha="0" Tag="164" IconVisible="False" LeftMargin="0.9137" RightMargin="1.0863" TopMargin="96.8187" BottomMargin="110.1813" ctype="SpriteObjectData">
+          <AbstractNodeData Name="background" ActionTag="961944226" Tag="164" IconVisible="False" LeftMargin="0.9137" RightMargin="1.0863" TopMargin="96.8187" BottomMargin="110.1813" ctype="SpriteObjectData">
             <Size X="1134.0000" Y="561.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="567.9137" Y="390.6813" />
-            <Scale ScaleX="0.0100" ScaleY="1.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.4999" Y="0.5087" />
             <PreSize X="0.9982" Y="0.7305" />
             <FileData Type="Normal" Path="Common/newUI/common_bj.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="close" ActionTag="595546724" Alpha="0" Tag="159" IconVisible="False" LeftMargin="1000.6577" RightMargin="83.3423" TopMargin="108.6066" BottomMargin="607.3934" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="22" Scale9Height="30" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="close" ActionTag="595546724" Tag="159" IconVisible="False" LeftMargin="1000.6577" RightMargin="83.3423" TopMargin="108.6066" BottomMargin="607.3934" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="22" Scale9Height="30" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="52.0000" Y="52.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="1026.6577" Y="633.3934" />
-            <Scale ScaleX="0.0100" ScaleY="0.0100" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.9037" Y="0.8247" />
             <PreSize X="0.0458" Y="0.0677" />
@@ -134,7 +134,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="title" ActionTag="686826451" Tag="160" IconVisible="False" LeftMargin="534.8260" RightMargin="535.1740" TopMargin="119.4144" BottomMargin="617.5856" LeftEage="21" RightEage="21" TopEage="10" BottomEage="10" Scale9OriginX="21" Scale9OriginY="10" Scale9Width="24" Scale9Height="11" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="title" ActionTag="686826451" Tag="160" IconVisible="False" LeftMargin="534.8260" RightMargin="535.1740" TopMargin="119.4144" BottomMargin="617.5856" LeftEage="21" RightEage="21" TopEage="10" BottomEage="10" Scale9OriginX="21" Scale9OriginY="10" Scale9Width="80" Scale9Height="11" ctype="ImageViewObjectData">
             <Size X="66.0000" Y="31.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="567.8260" Y="633.0856" />
@@ -147,7 +147,7 @@
           <AbstractNodeData Name="leftBg" ActionTag="-1975515991" Tag="110" IconVisible="False" LeftMargin="113.6900" RightMargin="843.3100" TopMargin="168.4301" BottomMargin="139.5699" Scale9Enable="True" LeftEage="3" RightEage="3" TopEage="154" BottomEage="154" Scale9OriginX="3" Scale9OriginY="154" Scale9Width="4" Scale9Height="161" ctype="ImageViewObjectData">
             <Size X="179.0000" Y="460.0000" />
             <Children>
-              <AbstractNodeData Name="mode_1" ActionTag="1692637724" Alpha="0" Tag="1" IconVisible="True" LeftMargin="85.8429" RightMargin="93.1571" TopMargin="38.1432" BottomMargin="421.8568" ctype="SingleNodeObjectData">
+              <AbstractNodeData Name="mode_1" ActionTag="1692637724" Tag="1" IconVisible="True" LeftMargin="85.8429" RightMargin="93.1571" TopMargin="38.1432" BottomMargin="421.8568" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
                   <AbstractNodeData Name="selected" ActionTag="210814924" VisibleForFrame="False" Tag="112" IconVisible="False" LeftMargin="-86.8028" RightMargin="-100.1972" TopMargin="-34.5256" BottomMargin="-29.4744" TouchEnable="True" LeftEage="102" RightEage="102" TopEage="22" BottomEage="22" Scale9OriginX="102" Scale9OriginY="22" Scale9Width="4" Scale9Height="18" ctype="ImageViewObjectData">
@@ -181,11 +181,11 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="text" ActionTag="204549755" Tag="114" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-21.5000" RightMargin="-21.5000" TopMargin="-17.5000" BottomMargin="-17.5000" FontSize="23" LabelText="Hot" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                    <Size X="43.0000" Y="35.0000" />
+                  <AbstractNodeData Name="text" ActionTag="204549755" Tag="114" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-19.0000" RightMargin="-19.0000" TopMargin="-15.0000" BottomMargin="-15.0000" FontSize="20" LabelText="Hot" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                    <Size X="38.0000" Y="30.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position />
-                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <Scale ScaleX="0.9000" ScaleY="1.0000" />
                     <CColor A="255" R="86" G="108" B="119" />
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
@@ -203,11 +203,11 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/line_fg01.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="text_0" ActionTag="-1988589763" VisibleForFrame="False" Tag="117" IconVisible="False" LeftMargin="-10.5000" RightMargin="-34.5000" TopMargin="-17.9998" BottomMargin="-18.0002" FontSize="24" LabelText="Hot" ShadowOffsetX="1.5000" ShadowOffsetY="-2.5000" ctype="TextObjectData">
-                    <Size X="45.0000" Y="36.0000" />
+                  <AbstractNodeData Name="text_0" ActionTag="-1988589763" VisibleForFrame="False" Tag="117" IconVisible="False" LeftMargin="-9.0000" RightMargin="-33.0000" TopMargin="-16.4998" BottomMargin="-16.5002" FontSize="22" LabelText="Hot" ShadowOffsetX="1.5000" ShadowOffsetY="-2.5000" ctype="TextObjectData">
+                    <Size X="42.0000" Y="33.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="12.0000" Y="-0.0002" />
-                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <Scale ScaleX="0.9000" ScaleY="1.0000" />
                     <CColor A="255" R="254" G="255" B="254" />
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
@@ -223,7 +223,7 @@
                 <PrePosition X="0.4796" Y="0.9171" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="mode_2" ActionTag="-1741698017" Alpha="0" Tag="2" IconVisible="True" LeftMargin="85.8429" RightMargin="93.1571" TopMargin="105.8714" BottomMargin="354.1286" ctype="SingleNodeObjectData">
+              <AbstractNodeData Name="mode_2" ActionTag="-1741698017" Tag="2" IconVisible="True" LeftMargin="85.8429" RightMargin="93.1571" TopMargin="105.8714" BottomMargin="354.1286" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
                   <AbstractNodeData Name="selected" ActionTag="958584669" Tag="119" IconVisible="False" LeftMargin="-86.8028" RightMargin="-100.1972" TopMargin="-34.5261" BottomMargin="-29.4739" TouchEnable="True" LeftEage="102" RightEage="102" TopEage="22" BottomEage="22" Scale9OriginX="102" Scale9OriginY="22" Scale9Width="4" Scale9Height="18" ctype="ImageViewObjectData">
@@ -257,11 +257,11 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="text" ActionTag="751325446" Tag="121" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-21.0000" RightMargin="-21.0000" TopMargin="-17.5000" BottomMargin="-17.5000" FontSize="23" LabelText="Res" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                    <Size X="42.0000" Y="35.0000" />
+                  <AbstractNodeData Name="text" ActionTag="751325446" Tag="121" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-18.0000" RightMargin="-18.0000" TopMargin="-15.0000" BottomMargin="-15.0000" FontSize="20" LabelText="Res" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                    <Size X="36.0000" Y="30.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position />
-                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <Scale ScaleX="0.9000" ScaleY="1.0000" />
                     <CColor A="255" R="86" G="108" B="119" />
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
@@ -279,11 +279,11 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/line_fg01.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="text_0" ActionTag="-1339598555" VisibleForFrame="False" Tag="124" IconVisible="False" LeftMargin="-10.0000" RightMargin="-34.0000" TopMargin="-18.0000" BottomMargin="-18.0000" FontSize="24" LabelText="Res" ShadowOffsetX="1.5000" ShadowOffsetY="-2.5000" ctype="TextObjectData">
-                    <Size X="44.0000" Y="36.0000" />
+                  <AbstractNodeData Name="text_0" ActionTag="-1339598555" VisibleForFrame="False" Tag="124" IconVisible="False" LeftMargin="-7.5000" RightMargin="-31.5000" TopMargin="-16.5000" BottomMargin="-16.5000" FontSize="22" LabelText="Res" ShadowOffsetX="1.5000" ShadowOffsetY="-2.5000" ctype="TextObjectData">
+                    <Size X="39.0000" Y="33.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="12.0000" />
-                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <Scale ScaleX="0.9000" ScaleY="1.0000" />
                     <CColor A="255" R="254" G="255" B="254" />
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
@@ -299,7 +299,7 @@
                 <PrePosition X="0.4796" Y="0.7698" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="mode_3" ActionTag="-1999463409" Alpha="0" Tag="3" IconVisible="True" LeftMargin="85.8429" RightMargin="93.1571" TopMargin="173.5991" BottomMargin="286.4009" ctype="SingleNodeObjectData">
+              <AbstractNodeData Name="mode_3" ActionTag="-1999463409" Tag="3" IconVisible="True" LeftMargin="85.8429" RightMargin="93.1571" TopMargin="173.5991" BottomMargin="286.4009" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
                   <AbstractNodeData Name="selected" ActionTag="1802590886" VisibleForFrame="False" Tag="126" IconVisible="False" LeftMargin="-86.8028" RightMargin="-100.1972" TopMargin="-34.5261" BottomMargin="-29.4739" TouchEnable="True" LeftEage="102" RightEage="102" TopEage="22" BottomEage="22" Scale9OriginX="102" Scale9OriginY="22" Scale9Width="4" Scale9Height="18" ctype="ImageViewObjectData">
@@ -333,11 +333,11 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="text" ActionTag="1455480076" Tag="128" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-33.0000" RightMargin="-33.0000" TopMargin="-17.5000" BottomMargin="-17.5000" FontSize="23" LabelText="Eqiup" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                    <Size X="66.0000" Y="35.0000" />
+                  <AbstractNodeData Name="text" ActionTag="1455480076" Tag="128" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-29.0000" RightMargin="-29.0000" TopMargin="-15.0000" BottomMargin="-15.0000" FontSize="20" LabelText="Eqiup" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                    <Size X="58.0000" Y="30.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position />
-                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <Scale ScaleX="0.9000" ScaleY="1.0000" />
                     <CColor A="255" R="86" G="108" B="119" />
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
@@ -355,11 +355,11 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/line_fg01.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="text_0" ActionTag="-74241593" VisibleForFrame="False" Tag="131" IconVisible="False" LeftMargin="-22.0000" RightMargin="-46.0000" TopMargin="-18.0003" BottomMargin="-17.9997" FontSize="24" LabelText="Eqiup" ShadowOffsetX="1.5000" ShadowOffsetY="-2.5000" ctype="TextObjectData">
-                    <Size X="68.0000" Y="36.0000" />
+                  <AbstractNodeData Name="text_0" ActionTag="-74241593" VisibleForFrame="False" Tag="131" IconVisible="False" LeftMargin="-19.5000" RightMargin="-43.5000" TopMargin="-16.5003" BottomMargin="-16.4997" FontSize="22" LabelText="Eqiup" ShadowOffsetX="1.5000" ShadowOffsetY="-2.5000" ctype="TextObjectData">
+                    <Size X="63.0000" Y="33.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="12.0000" Y="0.0003" />
-                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <Scale ScaleX="0.9000" ScaleY="1.0000" />
                     <CColor A="255" R="254" G="255" B="254" />
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
@@ -384,7 +384,7 @@
             <PreSize X="0.1576" Y="0.5990" />
             <FileData Type="Normal" Path="Common/newUI/rw_bottom.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="second_node" ActionTag="-1100449371" Alpha="0" Tag="109" IconVisible="True" LeftMargin="314.5634" RightMargin="821.4366" TopMargin="180.8201" BottomMargin="587.1799" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="second_node" ActionTag="-1100449371" Tag="109" IconVisible="True" LeftMargin="314.5634" RightMargin="821.4366" TopMargin="180.8201" BottomMargin="587.1799" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
             <Position X="314.5634" Y="587.1799" />

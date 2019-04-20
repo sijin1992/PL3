@@ -47,8 +47,8 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="AdventureLayer/ui/bg3.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="name_img" ActionTag="-1126348031" Tag="1755" IconVisible="False" LeftMargin="135.7650" RightMargin="-243.7650" TopMargin="-510.9506" BottomMargin="480.9506" ctype="SpriteObjectData">
-            <Size X="108.0000" Y="30.0000" />
+          <AbstractNodeData Name="name_img" ActionTag="-1126348031" Tag="1755" IconVisible="False" LeftMargin="100.2650" RightMargin="-279.2650" TopMargin="-510.9506" BottomMargin="480.9506" ctype="SpriteObjectData">
+            <Size X="179.0000" Y="30.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="189.7650" Y="495.9506" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -58,20 +58,20 @@
             <FileData Type="Normal" Path="GiftScene/ui/name1.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Image_2" ActionTag="1338329787" Tag="1760" IconVisible="False" LeftMargin="162.3942" RightMargin="-359.3942" TopMargin="-359.6245" BottomMargin="332.6245" Scale9Enable="True" RightEage="30" TopEage="8" BottomEage="9" Scale9OriginY="8" Scale9Width="11" Scale9Height="10" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="Image_2" Visible="False" ActionTag="1338329787" VisibleForFrame="False" Tag="1760" IconVisible="False" LeftMargin="80.3919" RightMargin="-277.3919" TopMargin="-359.6246" BottomMargin="332.6246" Scale9Enable="True" RightEage="30" TopEage="8" BottomEage="9" Scale9OriginY="8" Scale9Width="11" Scale9Height="10" ctype="ImageViewObjectData">
             <Size X="197.0000" Y="27.0000" />
             <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
-            <Position X="359.3942" Y="346.1245" />
+            <Position X="277.3919" Y="346.1246" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="AdventureLayer/ui/bg5.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="time_des" ActionTag="402266927" Tag="1758" IconVisible="False" LeftMargin="206.5272" RightMargin="-283.5272" TopMargin="-352.3785" BottomMargin="331.3785" FontSize="14" LabelText="购买倒计时:" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
+          <AbstractNodeData Name="time_des" ActionTag="402266927" Tag="1758" IconVisible="False" LeftMargin="155.5237" RightMargin="-232.5237" TopMargin="-352.3787" BottomMargin="331.3787" FontSize="14" LabelText="购买倒计时:" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ctype="TextObjectData">
             <Size X="77.0000" Y="21.0000" />
             <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
-            <Position X="283.5272" Y="341.8785" />
+            <Position X="232.5237" Y="341.8787" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -80,10 +80,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="time_num" ActionTag="-1213894244" Tag="1761" IconVisible="False" LeftMargin="283.9195" RightMargin="-342.9195" TopMargin="-352.1281" BottomMargin="331.1281" FontSize="14" LabelText="24:59:59" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="time_num" ActionTag="-1213894244" Tag="1761" IconVisible="False" LeftMargin="232.9170" RightMargin="-291.9170" TopMargin="-352.1282" BottomMargin="331.1282" FontSize="14" LabelText="24:59:59" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="59.0000" Y="21.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="283.9195" Y="341.6281" />
+            <Position X="232.9170" Y="341.6282" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="16" G="182" B="71" />
             <PrePosition />

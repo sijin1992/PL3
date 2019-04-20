@@ -140,11 +140,11 @@
             <OutlineColor A="255" R="77" G="77" B="77" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="hot" ActionTag="1657724154" Tag="232" IconVisible="False" LeftMargin="7.9091" RightMargin="-113.9091" TopMargin="6.3001" BottomMargin="-30.3001" ctype="SpriteObjectData">
+          <AbstractNodeData Name="hot" ActionTag="1657724154" Tag="232" IconVisible="False" LeftMargin="-3.0909" RightMargin="-102.9091" TopMargin="6.3001" BottomMargin="-30.3001" ctype="SpriteObjectData">
             <Size X="106.0000" Y="24.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="60.9091" Y="-18.3001" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="49.9091" Y="-18.3001" />
+            <Scale ScaleX="0.8000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />

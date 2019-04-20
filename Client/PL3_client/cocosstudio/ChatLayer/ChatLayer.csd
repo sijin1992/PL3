@@ -116,11 +116,11 @@
             <PreSize X="0.1338" Y="0.0833" />
             <FileData Type="Normal" Path="Common/newUI/tc_click.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="world_text" ActionTag="384185418" Tag="155" IconVisible="False" LeftMargin="199.2866" RightMargin="836.7134" TopMargin="126.7955" BottomMargin="578.2045" IsCustomSize="True" FontSize="27" LabelText="世界&#xA;世界" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="world_text" ActionTag="384185418" Tag="155" IconVisible="False" LeftMargin="199.2866" RightMargin="836.7134" TopMargin="126.7955" BottomMargin="578.2045" IsCustomSize="True" FontSize="20" LabelText="世界&#xA;世界" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="100.0000" Y="63.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="249.2866" Y="609.7045" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Scale ScaleX="1.0000" ScaleY="0.9000" />
             <CColor A="255" R="209" G="209" B="209" />
             <PrePosition X="0.2194" Y="0.7939" />
             <PreSize X="0.0880" Y="0.0820" />
@@ -138,11 +138,11 @@
             <PreSize X="0.1338" Y="0.0820" />
             <FileData Type="Normal" Path="Common/newUI/tc_click.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="chat_text" ActionTag="95343181" Tag="159" IconVisible="False" LeftMargin="331.0659" RightMargin="674.9341" TopMargin="130.0348" BottomMargin="581.9652" IsCustomSize="True" FontSize="23" LabelText="私聊" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="chat_text" ActionTag="95343181" Tag="159" IconVisible="False" LeftMargin="331.0659" RightMargin="674.9341" TopMargin="130.0348" BottomMargin="581.9652" IsCustomSize="True" FontSize="20" LabelText="私聊" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="130.0000" Y="56.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="396.0659" Y="609.9652" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Scale ScaleX="1.0000" ScaleY="0.9000" />
             <CColor A="255" R="209" G="209" B="209" />
             <PrePosition X="0.3486" Y="0.7942" />
             <PreSize X="0.1144" Y="0.0729" />
@@ -160,11 +160,11 @@
             <PreSize X="0.1338" Y="0.0820" />
             <FileData Type="Normal" Path="Common/newUI/tc_click.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="star_text" ActionTag="-1834451552" Tag="160" IconVisible="False" LeftMargin="480.7905" RightMargin="525.2095" TopMargin="130.0348" BottomMargin="581.9652" IsCustomSize="True" FontSize="23" LabelText="星盟&#xA;星盟" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="star_text" ActionTag="-1834451552" Tag="160" IconVisible="False" LeftMargin="480.7905" RightMargin="525.2095" TopMargin="130.0348" BottomMargin="581.9652" IsCustomSize="True" FontSize="20" LabelText="星盟&#xA;星盟" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="130.0000" Y="56.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="545.7905" Y="609.9652" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Scale ScaleX="1.0000" ScaleY="0.9000" />
             <CColor A="255" R="209" G="209" B="209" />
             <PrePosition X="0.4804" Y="0.7942" />
             <PreSize X="0.1144" Y="0.0729" />

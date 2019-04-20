@@ -169,11 +169,11 @@
             <FileData Type="Normal" Path="ActivityScene/ui/hd_okgouzi_icon.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="text" ActionTag="-19218891" VisibleForFrame="False" Tag="64" IconVisible="False" LeftMargin="3.6051" RightMargin="-74.6051" TopMargin="47.3605" BottomMargin="-73.3605" FontSize="17" LabelText="点击领取" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="71.0000" Y="26.0000" />
+          <AbstractNodeData Name="text" ActionTag="-19218891" VisibleForFrame="False" Tag="64" IconVisible="False" LeftMargin="5.6051" RightMargin="-72.6051" TopMargin="48.3605" BottomMargin="-72.3605" FontSize="16" LabelText="点击领取" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="67.0000" Y="24.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="39.1051" Y="-60.3605" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Scale ScaleX="0.9000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
