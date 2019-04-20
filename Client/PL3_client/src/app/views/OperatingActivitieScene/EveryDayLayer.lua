@@ -81,13 +81,13 @@ function EveryDayLayer:onEnterTransitionFinish()
 
 	local start_time = 0
 	local end_time = 0
+    local confa = CONF.ACTIVITY.get(self.data_)
 	if info ~= nil then
         if confa.START_TIME ~= 0 then
 		    start_time = info.start_time
 		    end_time = info.end_time
         end
 	else
-		local confa = CONF.ACTIVITY.get(self.data_)
 		if confa ~= nil then
             if confa.START_TIME ~= 0 then 
                 start_time = getTime(confa.START_TIME)
