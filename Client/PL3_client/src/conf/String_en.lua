@@ -49368,14 +49368,14 @@ STRING_EN["index"][7053] = 7053
 STRING_EN[7053] = {}
 	STRING_EN[7053]["ID"] = 7053
 	STRING_EN[7053]["KEY"] = "buchong_5"
-	STRING_EN[7053]["VALUE"] = "Drivers in four different professions have responded to recruitment， but we can only accommodate one..."
+	STRING_EN[7053]["VALUE"] = "Drivers in four different professions have responded to recruitment， but currently we can only accommodate one..."
 	STRING_EN[7053]["real_idx"] = 7053
 
 STRING_EN["index"][7054] = 7054
 STRING_EN[7054] = {}
 	STRING_EN[7054]["ID"] = 7054
 	STRING_EN[7054]["KEY"] = "buchong_6"
-	STRING_EN[7054]["VALUE"] = "Each driver is only good at driving their own own ship， where you can view the properties， the different types of ship properties will be different!"
+	STRING_EN[7054]["VALUE"] = "Each driver is only good at driving their own ship， here you can view the attributes， and the attributes varies for different types of spaceships!"
 	STRING_EN[7054]["real_idx"] = 7054
 
 STRING_EN["index"][7055] = 7055
@@ -49389,84 +49389,84 @@ STRING_EN["index"][7056] = 7056
 STRING_EN[7056] = {}
 	STRING_EN[7056]["ID"] = 7056
 	STRING_EN[7056]["KEY"] = "buchong_8"
-	STRING_EN[7056]["VALUE"] = "Found that the enemy fleet is coming， we must immediately dispatch a ship to enter the city defense turret to defend against enemy ship attacks!"
+	STRING_EN[7056]["VALUE"] = "The enemy fleet is coming， we must immediately dispatch our ships to enter the city turret to defend against enemy ship attacks!"
 	STRING_EN[7056]["real_idx"] = 7056
 
 STRING_EN["index"][7057] = 7057
 STRING_EN[7057] = {}
 	STRING_EN[7057]["ID"] = 7057
 	STRING_EN[7057]["KEY"] = "buchong_9"
-	STRING_EN[7057]["VALUE"] = "The ship is as simple as that! On the left is the driver's avatar， hold it down and drag it onto the formation..."
+	STRING_EN[7057]["VALUE"] = "Deploying spaceships is as simple as that! On the left side is the driver's profile picture， press on and drag it into the formation..."
 	STRING_EN[7057]["real_idx"] = 7057
 
 STRING_EN["index"][7058] = 7058
 STRING_EN[7058] = {}
 	STRING_EN[7058]["ID"] = 7058
 	STRING_EN[7058]["KEY"] = "buchong_10"
-	STRING_EN[7058]["VALUE"] = "When the remaining time of the building upgrade is less than 5 minutes， the free function is triggered and the upgrade can be completed quickly!"
+	STRING_EN[7058]["VALUE"] = "When the remaining time of the building upgrade is less than 5 minutes， the free upgrade function is triggered and the upgrade can be completed immediately!"
 	STRING_EN[7058]["real_idx"] = 7058
 
 STRING_EN["index"][7059] = 7059
 STRING_EN[7059] = {}
 	STRING_EN[7059]["ID"] = 7059
 	STRING_EN[7059]["KEY"] = "buchong_11"
-	STRING_EN[7059]["VALUE"] = "Increase the level of the command center， you can increase the level of resources and mines to raise the upper limit， and unlock more resources and resources and open space!"
+	STRING_EN[7059]["VALUE"] = "Upgrade the level of the command center can increase the Max level of resource mines， and unlock more resource mines and resource fields!"
 	STRING_EN[7059]["real_idx"] = 7059
 
 STRING_EN["index"][7060] = 7060
 STRING_EN[7060] = {}
 	STRING_EN[7060]["ID"] = 7060
 	STRING_EN[7060]["KEY"] = "buchong_12"
-	STRING_EN[7060]["VALUE"] = "The galaxy is full of rich resource mines， mysterious wrecked planetary belts， powerful artificial intelligence， and the stronghold with the supreme glory and the star nucleus waiting for you to conquer!"
+	STRING_EN[7060]["VALUE"] = "The galaxy is full of rich resource mines， mysterious astroid belts， powerful Artificial Intelligence， strongholds and star cores with the supreme glory waiting for you to conquer!"
 	STRING_EN[7060]["real_idx"] = 7060
 
 STRING_EN["index"][7061] = 7061
 STRING_EN[7061] = {}
 	STRING_EN[7061]["ID"] = 7061
 	STRING_EN[7061]["KEY"] = "buchong_13"
-	STRING_EN[7061]["VALUE"] = "When the aperture of the ship driver's avatar turns， it means that we can release the nirvana of the ship. The release of the ship must kill the energy value. Below the driver's head is our energy tank. The energy value in the energy tank is the amount used by all the ships."
+	STRING_EN[7061]["VALUE"] = "When there's a light ring spinning around the driver's profile picture， it means that we can release the nirvana of the ship. Releasing nirvana requires energy. Below the driver's profile picture is our energy slot. The energy value of the energy slot is the total amount that can be used by all the ships."
 	STRING_EN[7061]["real_idx"] = 7061
 
 STRING_EN["index"][7062] = 7062
 STRING_EN[7062] = {}
 	STRING_EN[7062]["ID"] = 7062
 	STRING_EN[7062]["KEY"] = "race"
-	STRING_EN[7062]["VALUE"] = "(contention)"
+	STRING_EN[7062]["VALUE"] = "(In scrambling)"
 	STRING_EN[7062]["real_idx"] = 7062
 
 STRING_EN["index"][7063] = 7063
 STRING_EN[7063] = {}
 	STRING_EN[7063]["ID"] = 7063
 	STRING_EN[7063]["KEY"] = "protect"
-	STRING_EN[7063]["VALUE"] = "(protected)"
+	STRING_EN[7063]["VALUE"] = "(Under protection)"
 	STRING_EN[7063]["real_idx"] = 7063
 
 STRING_EN["index"][7064] = 7064
 STRING_EN[7064] = {}
 	STRING_EN[7064]["ID"] = 7064
 	STRING_EN[7064]["KEY"] = "starport open"
-	STRING_EN[7064]["VALUE"] = "Starport# level open"
+	STRING_EN[7064]["VALUE"] = "Activate at Starport level #"
 	STRING_EN[7064]["real_idx"] = 7064
 
 STRING_EN["index"][7065] = 7065
 STRING_EN[7065] = {}
 	STRING_EN[7065]["ID"] = 7065
 	STRING_EN[7065]["KEY"] = "skill open"
-	STRING_EN[7065]["VALUE"] = "Activate Weapons Institute to open ship skills"
+	STRING_EN[7065]["VALUE"] = "Activate Weapon Institute to activate spaceship skills"
 	STRING_EN[7065]["real_idx"] = 7065
 
 STRING_EN["index"][7066] = 7066
 STRING_EN[7066] = {}
 	STRING_EN[7066]["ID"] = 7066
 	STRING_EN[7066]["KEY"] = "equip open"
-	STRING_EN[7066]["VALUE"] = "Activate the forging workshop to open the ship equipment"
+	STRING_EN[7066]["VALUE"] = "Activate Forging Workshop to activate spaceship equipments"
 	STRING_EN[7066]["real_idx"] = 7066
 
 STRING_EN["index"][7067] = 7067
 STRING_EN[7067] = {}
 	STRING_EN[7067]["ID"] = 7067
 	STRING_EN[7067]["KEY"] = "shop text"
-	STRING_EN[7067]["VALUE"] = "Credits---can be used for construction， technology acceleration， purchase of mall props， etc."
+	STRING_EN[7067]["VALUE"] = "Diamonds---can be used for construction， technology acceleration， purchase items from shop etc.， mainly from top-up."
 	STRING_EN[7067]["real_idx"] = 7067
 
 STRING_EN["index"][7068] = 7068
@@ -49487,14 +49487,14 @@ STRING_EN["index"][7070] = 7070
 STRING_EN[7070] = {}
 	STRING_EN[7070]["ID"] = 7070
 	STRING_EN[7070]["KEY"] = "level_open"
-	STRING_EN[7070]["VALUE"] = "Commander level #levelopen"
+	STRING_EN[7070]["VALUE"] = "Activate at Commander level #"
 	STRING_EN[7070]["real_idx"] = 7070
 
 STRING_EN["index"][7071] = 7071
 STRING_EN[7071] = {}
 	STRING_EN[7071]["ID"] = 7071
 	STRING_EN[7071]["KEY"] = "repair_open"
-	STRING_EN[7071]["VALUE"] = "Ship repair shop is not open"
+	STRING_EN[7071]["VALUE"] = "Spaceship Workshop is not activated"
 	STRING_EN[7071]["real_idx"] = 7071
 
 STRING_EN["index"][7072] = 7072
@@ -49508,7 +49508,7 @@ STRING_EN["index"][7073] = 7073
 STRING_EN[7073] = {}
 	STRING_EN[7073]["ID"] = 7073
 	STRING_EN[7073]["KEY"] = "throne migration"
-	STRING_EN[7073]["VALUE"] = "Non-migratory space station within the scope of the star core"
+	STRING_EN[7073]["VALUE"] = "You can not transit your space station within the scope of the star core"
 	STRING_EN[7073]["real_idx"] = 7073
 
 STRING_EN["index"][7074] = 7074
@@ -49522,175 +49522,175 @@ STRING_EN["index"][7075] = 7075
 STRING_EN[7075] = {}
 	STRING_EN[7075]["ID"] = 7075
 	STRING_EN[7075]["KEY"] = "smelt open"
-	STRING_EN[7075]["VALUE"] = "Activate the forging workshop to open the sheet metal smelting"
+	STRING_EN[7075]["VALUE"] = "Activate Forging Workshop to activate Krypton Crystal fusion"
 	STRING_EN[7075]["real_idx"] = 7075
 
 STRING_EN["index"][7076] = 7076
 STRING_EN[7076] = {}
 	STRING_EN[7076]["ID"] = 7076
 	STRING_EN[7076]["KEY"] = "resolve open"
-	STRING_EN[7076]["VALUE"] = "Activate the forging workshop to open the equipment breakdown"
+	STRING_EN[7076]["VALUE"] = "Activate Forging Workshop to activate Krypton Crystal disassembly"
 	STRING_EN[7076]["real_idx"] = 7076
 
 STRING_EN["index"][7077] = 7077
 STRING_EN[7077] = {}
 	STRING_EN[7077]["ID"] = 7077
 	STRING_EN[7077]["KEY"] = "strong name 1"
-	STRING_EN[7077]["VALUE"] = "Increase the upper limit of the ship"
+	STRING_EN[7077]["VALUE"] = "Increase the upper limit of the ships that can participate in the battle"
 	STRING_EN[7077]["real_idx"] = 7077
 
 STRING_EN["index"][7078] = 7078
 STRING_EN[7078] = {}
 	STRING_EN[7078]["ID"] = 7078
 	STRING_EN[7078]["KEY"] = "strong name 2"
-	STRING_EN[7078]["VALUE"] = "Get a new ship"
+	STRING_EN[7078]["VALUE"] = "Get new spaceship"
 	STRING_EN[7078]["real_idx"] = 7078
 
 STRING_EN["index"][7079] = 7079
 STRING_EN[7079] = {}
 	STRING_EN[7079]["ID"] = 7079
 	STRING_EN[7079]["KEY"] = "strong memo 2"
-	STRING_EN[7079]["VALUE"] = "Ship matching， enhance fleet strength"
+	STRING_EN[7079]["VALUE"] = "Spaceship matching， improve the power of your fleet"
 	STRING_EN[7079]["real_idx"] = 7079
 
 STRING_EN["index"][7080] = 7080
 STRING_EN[7080] = {}
 	STRING_EN[7080]["ID"] = 7080
 	STRING_EN[7080]["KEY"] = "strong name 3"
-	STRING_EN[7080]["VALUE"] = "Ship breakthrough"
+	STRING_EN[7080]["VALUE"] = "Spaceship breakthrough"
 	STRING_EN[7080]["real_idx"] = 7080
 
 STRING_EN["index"][7081] = 7081
 STRING_EN[7081] = {}
 	STRING_EN[7081]["ID"] = 7081
 	STRING_EN[7081]["KEY"] = "strong memo 3"
-	STRING_EN[7081]["VALUE"] = "Breaking the ship can improve the basic value of the ship"
+	STRING_EN[7081]["VALUE"] = "Spaceship breakthrough can improve the basic value of the spaceship attributes"
 	STRING_EN[7081]["real_idx"] = 7081
 
 STRING_EN["index"][7082] = 7082
 STRING_EN[7082] = {}
 	STRING_EN[7082]["ID"] = 7082
 	STRING_EN[7082]["KEY"] = "strong name 4"
-	STRING_EN[7082]["VALUE"] = "Increase the level of the ship"
+	STRING_EN[7082]["VALUE"] = "Upgrade spaceship level"
 	STRING_EN[7082]["real_idx"] = 7082
 
 STRING_EN["index"][7083] = 7083
 STRING_EN[7083] = {}
 	STRING_EN[7083]["ID"] = 7083
 	STRING_EN[7083]["KEY"] = "strong memo 4"
-	STRING_EN[7083]["VALUE"] = "Upgrade the level so that the ship can carry more configurations"
+	STRING_EN[7083]["VALUE"] = "Upgrade the level so that the spaceship can equip more equipments and skills"
 	STRING_EN[7083]["real_idx"] = 7083
 
 STRING_EN["index"][7084] = 7084
 STRING_EN[7084] = {}
 	STRING_EN[7084]["ID"] = 7084
 	STRING_EN[7084]["KEY"] = "strong name 5"
-	STRING_EN[7084]["VALUE"] = "Ship wear and reinforcement equipment"
+	STRING_EN[7084]["VALUE"] = "Spaceship equipments and equipments strengthening"
 	STRING_EN[7084]["real_idx"] = 7084
 
 STRING_EN["index"][7085] = 7085
 STRING_EN[7085] = {}
 	STRING_EN[7085]["ID"] = 7085
 	STRING_EN[7085]["KEY"] = "strong memo 5"
-	STRING_EN[7085]["VALUE"] = "Wear， strengthen equipment can greatly improve the combat strength of the ship"
+	STRING_EN[7085]["VALUE"] = "Equip equipments and strengthen equipments can greatly improve the combat power of the spaceship"
 	STRING_EN[7085]["real_idx"] = 7085
 
 STRING_EN["index"][7086] = 7086
 STRING_EN[7086] = {}
 	STRING_EN[7086]["ID"] = 7086
 	STRING_EN[7086]["KEY"] = "strong name 6"
-	STRING_EN[7086]["VALUE"] = "Ship equipped with skills"
+	STRING_EN[7086]["VALUE"] = "Spaceship skills"
 	STRING_EN[7086]["real_idx"] = 7086
 
 STRING_EN["index"][7087] = 7087
 STRING_EN[7087] = {}
 	STRING_EN[7087]["ID"] = 7087
 	STRING_EN[7087]["KEY"] = "strong memo 6"
-	STRING_EN[7087]["VALUE"] = "Carry skills and increase the combat strength of the ship"
+	STRING_EN[7087]["VALUE"] = "Equip skills to increase the combat power of the ship"
 	STRING_EN[7087]["real_idx"] = 7087
 
 STRING_EN["index"][7088] = 7088
 STRING_EN[7088] = {}
 	STRING_EN[7088]["ID"] = 7088
 	STRING_EN[7088]["KEY"] = "strong name 7"
-	STRING_EN[7088]["VALUE"] = "Improve skills"
+	STRING_EN[7088]["VALUE"] = "Upgrade skills"
 	STRING_EN[7088]["real_idx"] = 7088
 
 STRING_EN["index"][7089] = 7089
 STRING_EN[7089] = {}
 	STRING_EN[7089]["ID"] = 7089
 	STRING_EN[7089]["KEY"] = "strong memo 7"
-	STRING_EN[7089]["VALUE"] = "Enhance skill attributes to make skills more powerful"
+	STRING_EN[7089]["VALUE"] = "Improve attributes of the skill to make it more powerful"
 	STRING_EN[7089]["real_idx"] = 7089
 
 STRING_EN["index"][7090] = 7090
 STRING_EN[7090] = {}
 	STRING_EN[7090]["ID"] = 7090
 	STRING_EN[7090]["KEY"] = "strong name 8"
-	STRING_EN[7090]["VALUE"] = "Ship inlaid sheet metal"
+	STRING_EN[7090]["VALUE"] = "Inlay Krypton Crystal"
 	STRING_EN[7090]["real_idx"] = 7090
 
 STRING_EN["index"][7091] = 7091
 STRING_EN[7091] = {}
 	STRING_EN[7091]["ID"] = 7091
 	STRING_EN[7091]["KEY"] = "strong memo 8"
-	STRING_EN[7091]["VALUE"] = "Inlaid sheet metal adds extra ship properties"
+	STRING_EN[7091]["VALUE"] = "Inlay Krypton Crystal to increase extra spaceship attributes"
 	STRING_EN[7091]["real_idx"] = 7091
 
 STRING_EN["index"][7092] = 7092
 STRING_EN[7092] = {}
 	STRING_EN[7092]["ID"] = 7092
 	STRING_EN[7092]["KEY"] = "strong name 9"
-	STRING_EN[7092]["VALUE"] = "Ship energy value increase"
+	STRING_EN[7092]["VALUE"] = "Increase energy for spaceships"
 	STRING_EN[7092]["real_idx"] = 7092
 
 STRING_EN["index"][7093] = 7093
 STRING_EN[7093] = {}
 	STRING_EN[7093]["ID"] = 7093
 	STRING_EN[7093]["KEY"] = "strong memo 9"
-	STRING_EN[7093]["VALUE"] = "Give the ship additional attributes to greatly increase the ship's combat effectiveness"
+	STRING_EN[7093]["VALUE"] = "Add additional attributes for the ship to greatly improve the combat power of the spaceship"
 	STRING_EN[7093]["real_idx"] = 7093
 
 STRING_EN["index"][7094] = 7094
 STRING_EN[7094] = {}
 	STRING_EN[7094]["ID"] = 7094
 	STRING_EN[7094]["KEY"] = "strong name 10"
-	STRING_EN[7094]["VALUE"] = "Collecting common resource mines"
+	STRING_EN[7094]["VALUE"] = "Exploiting standard resource mines"
 	STRING_EN[7094]["real_idx"] = 7094
 
 STRING_EN["index"][7095] = 7095
 STRING_EN[7095] = {}
 	STRING_EN[7095]["ID"] = 7095
 	STRING_EN[7095]["KEY"] = "strong memo 10"
-	STRING_EN[7095]["VALUE"] = "Galaxy acquisition is the main way to obtain resources"
+	STRING_EN[7095]["VALUE"] = "The main way to obtain resources"
 	STRING_EN[7095]["real_idx"] = 7095
 
 STRING_EN["index"][7096] = 7096
 STRING_EN[7096] = {}
 	STRING_EN[7096]["ID"] = 7096
 	STRING_EN[7096]["KEY"] = "strong name 11"
-	STRING_EN[7096]["VALUE"] = "Collecting bases"
+	STRING_EN[7096]["VALUE"] = "Exploiting stronghold resource mines"
 	STRING_EN[7096]["real_idx"] = 7096
 
 STRING_EN["index"][7097] = 7097
 STRING_EN[7097] = {}
 	STRING_EN[7097]["ID"] = 7097
 	STRING_EN[7097]["KEY"] = "strong memo 11"
-	STRING_EN[7097]["VALUE"] = "Have faster acquisition speed"
+	STRING_EN[7097]["VALUE"] = "Have faster exploiting speed"
 	STRING_EN[7097]["real_idx"] = 7097
 
 STRING_EN["index"][7098] = 7098
 STRING_EN[7098] = {}
 	STRING_EN[7098]["ID"] = 7098
 	STRING_EN[7098]["KEY"] = "strong memo 12"
-	STRING_EN[7098]["VALUE"] = "Building resources， mines， production resources"
+	STRING_EN[7098]["VALUE"] = "Build resource mines， produce required resources"
 	STRING_EN[7098]["real_idx"] = 7098
 
 STRING_EN["index"][7099] = 7099
 STRING_EN[7099] = {}
 	STRING_EN[7099]["ID"] = 7099
 	STRING_EN[7099]["KEY"] = "strong memo 13"
-	STRING_EN[7099]["VALUE"] = "Get the resource reward when you complete the task"
+	STRING_EN[7099]["VALUE"] = "Complete missions to get resources rewards"
 	STRING_EN[7099]["real_idx"] = 7099
 
 STRING_EN["index"][7100] = 7100
@@ -49704,49 +49704,49 @@ STRING_EN["index"][7101] = 7101
 STRING_EN[7101] = {}
 	STRING_EN[7101]["ID"] = 7101
 	STRING_EN[7101]["KEY"] = "strong memo 15"
-	STRING_EN[7101]["VALUE"] = "Pass instance to get resources"
+	STRING_EN[7101]["VALUE"] = "Pass Instances to get resources"
 	STRING_EN[7101]["real_idx"] = 7101
 
 STRING_EN["index"][7102] = 7102
 STRING_EN[7102] = {}
 	STRING_EN[7102]["ID"] = 7102
 	STRING_EN[7102]["KEY"] = "strong memo 16"
-	STRING_EN[7102]["VALUE"] = "Pass trial， you can receive resource rewards"
+	STRING_EN[7102]["VALUE"] = "Pass Trials to receive resources rewards"
 	STRING_EN[7102]["real_idx"] = 7102
 
 STRING_EN["index"][7103] = 7103
 STRING_EN[7103] = {}
 	STRING_EN[7103]["ID"] = 7103
 	STRING_EN[7103]["KEY"] = "strong name 17"
-	STRING_EN[7103]["VALUE"] = "Enhance scientific research strength"
+	STRING_EN[7103]["VALUE"] = "Improve Tech R&D"
 	STRING_EN[7103]["real_idx"] = 7103
 
 STRING_EN["index"][7104] = 7104
 STRING_EN[7104] = {}
 	STRING_EN[7104]["ID"] = 7104
 	STRING_EN[7104]["KEY"] = "strong memo 17"
-	STRING_EN[7104]["VALUE"] = "Improve scientific research and accelerate development"
+	STRING_EN[7104]["VALUE"] = "Improve Tech R&D to accelerate development"
 	STRING_EN[7104]["real_idx"] = 7104
 
 STRING_EN["index"][7105] = 7105
 STRING_EN[7105] = {}
 	STRING_EN[7105]["ID"] = 7105
 	STRING_EN[7105]["KEY"] = "strong name 18"
-	STRING_EN[7105]["VALUE"] = "Enhance covenant Technology"
+	STRING_EN[7105]["VALUE"] = "Improve Alliance technologies"
 	STRING_EN[7105]["real_idx"] = 7105
 
 STRING_EN["index"][7106] = 7106
 STRING_EN[7106] = {}
 	STRING_EN[7106]["ID"] = 7106
 	STRING_EN[7106]["KEY"] = "strong memo 18"
-	STRING_EN[7106]["VALUE"] = "Develop covenant Technology to achieve common development"
+	STRING_EN[7106]["VALUE"] = "Develop Alliance technologies to achieve mutual development"
 	STRING_EN[7106]["real_idx"] = 7106
 
 STRING_EN["index"][7107] = 7107
 STRING_EN[7107] = {}
 	STRING_EN[7107]["ID"] = 7107
 	STRING_EN[7107]["KEY"] = "strong name 19"
-	STRING_EN[7107]["VALUE"] = "Upgrade base building"
+	STRING_EN[7107]["VALUE"] = "Upgrade homebase buildings"
 	STRING_EN[7107]["real_idx"] = 7107
 
 STRING_EN["index"][7108] = 7108
@@ -49760,42 +49760,42 @@ STRING_EN["index"][7109] = 7109
 STRING_EN[7109] = {}
 	STRING_EN[7109]["ID"] = 7109
 	STRING_EN[7109]["KEY"] = "strong name 20"
-	STRING_EN[7109]["VALUE"] = "Title promotion"
+	STRING_EN[7109]["VALUE"] = "Title Upgrade"
 	STRING_EN[7109]["real_idx"] = 7109
 
 STRING_EN["index"][7110] = 7110
 STRING_EN[7110] = {}
 	STRING_EN[7110]["ID"] = 7110
 	STRING_EN[7110]["KEY"] = "strong name 21"
-	STRING_EN[7110]["VALUE"] = "Financial cooperation"
+	STRING_EN[7110]["VALUE"] = "Fuse Krypton Crystals"
 	STRING_EN[7110]["real_idx"] = 7110
 
 STRING_EN["index"][7111] = 7111
 STRING_EN[7111] = {}
 	STRING_EN[7111]["ID"] = 7111
 	STRING_EN[7111]["KEY"] = "strong memo 21"
-	STRING_EN[7111]["VALUE"] = "Increase the sheet metal base attribute value"
+	STRING_EN[7111]["VALUE"] = "Increase the Krypton Crystal base attribute values"
 	STRING_EN[7111]["real_idx"] = 7111
 
 STRING_EN["index"][7112] = 7112
 STRING_EN[7112] = {}
 	STRING_EN[7112]["ID"] = 7112
 	STRING_EN[7112]["KEY"] = "strong name 22"
-	STRING_EN[7112]["VALUE"] = "Equipment building"
+	STRING_EN[7112]["VALUE"] = "Equipment Forging"
 	STRING_EN[7112]["real_idx"] = 7112
 
 STRING_EN["index"][7113] = 7113
 STRING_EN[7113] = {}
 	STRING_EN[7113]["ID"] = 7113
 	STRING_EN[7113]["KEY"] = "strong memo 22"
-	STRING_EN[7113]["VALUE"] = "High quality equipment available"
+	STRING_EN[7113]["VALUE"] = "The way to obtain advanced equipments"
 	STRING_EN[7113]["real_idx"] = 7113
 
 STRING_EN["index"][7114] = 7114
 STRING_EN[7114] = {}
 	STRING_EN[7114]["ID"] = 7114
 	STRING_EN[7114]["KEY"] = "strong name 23"
-	STRING_EN[7114]["VALUE"] = "Occupation base"
+	STRING_EN[7114]["VALUE"] = "Occupy strongholds"
 	STRING_EN[7114]["real_idx"] = 7114
 
 STRING_EN["index"][7115] = 7115
@@ -49809,112 +49809,112 @@ STRING_EN["index"][7116] = 7116
 STRING_EN[7116] = {}
 	STRING_EN[7116]["ID"] = 7116
 	STRING_EN[7116]["KEY"] = "activation"
-	STRING_EN[7116]["VALUE"] = "Activate#"
+	STRING_EN[7116]["VALUE"] = "Activate #"
 	STRING_EN[7116]["real_idx"] = 7116
 
 STRING_EN["index"][7117] = 7117
 STRING_EN[7117] = {}
 	STRING_EN[7117]["ID"] = 7117
 	STRING_EN[7117]["KEY"] = "IN_19001"
-	STRING_EN[7117]["VALUE"] = "Level 10 package"
+	STRING_EN[7117]["VALUE"] = "Level 10 Gift Pack"
 	STRING_EN[7117]["real_idx"] = 7117
 
 STRING_EN["index"][7118] = 7118
 STRING_EN[7118] = {}
 	STRING_EN[7118]["ID"] = 7118
 	STRING_EN[7118]["KEY"] = "IN_19002"
-	STRING_EN[7118]["VALUE"] = "20 level package"
+	STRING_EN[7118]["VALUE"] = "Level 20 Gift Pack"
 	STRING_EN[7118]["real_idx"] = 7118
 
 STRING_EN["index"][7119] = 7119
 STRING_EN[7119] = {}
 	STRING_EN[7119]["ID"] = 7119
 	STRING_EN[7119]["KEY"] = "IN_19003"
-	STRING_EN[7119]["VALUE"] = "30 level package"
+	STRING_EN[7119]["VALUE"] = "Level 30 Gift Pack"
 	STRING_EN[7119]["real_idx"] = 7119
 
 STRING_EN["index"][7120] = 7120
 STRING_EN[7120] = {}
 	STRING_EN[7120]["ID"] = 7120
 	STRING_EN[7120]["KEY"] = "IN_19004"
-	STRING_EN[7120]["VALUE"] = "40 level package"
+	STRING_EN[7120]["VALUE"] = "Level 40 Gift Pack"
 	STRING_EN[7120]["real_idx"] = 7120
 
 STRING_EN["index"][7121] = 7121
 STRING_EN[7121] = {}
 	STRING_EN[7121]["ID"] = 7121
 	STRING_EN[7121]["KEY"] = "IN_19005"
-	STRING_EN[7121]["VALUE"] = "Level 50 package"
+	STRING_EN[7121]["VALUE"] = "Level 50 Gift Pack"
 	STRING_EN[7121]["real_idx"] = 7121
 
 STRING_EN["index"][7122] = 7122
 STRING_EN[7122] = {}
 	STRING_EN[7122]["ID"] = 7122
 	STRING_EN[7122]["KEY"] = "IM_19001"
-	STRING_EN[7122]["VALUE"] = "When the level reaches # level， you can get it. When you open it， you can get the following items:\n"
+	STRING_EN[7122]["VALUE"] = "You can receive it when your level reaches level #. Open it and get the following items:\n"
 	STRING_EN[7122]["real_idx"] = 7122
 
 STRING_EN["index"][7123] = 7123
 STRING_EN[7123] = {}
 	STRING_EN[7123]["ID"] = 7123
 	STRING_EN[7123]["KEY"] = "join covenant"
-	STRING_EN[7123]["VALUE"] = "Join the Covenant"
+	STRING_EN[7123]["VALUE"] = "Join the Alliance"
 	STRING_EN[7123]["real_idx"] = 7123
 
 STRING_EN["index"][7124] = 7124
 STRING_EN[7124] = {}
 	STRING_EN[7124]["ID"] = 7124
 	STRING_EN[7124]["KEY"] = "not activate"
-	STRING_EN[7124]["VALUE"] = "Please activate #"
+	STRING_EN[7124]["VALUE"] = "Please activate # first"
 	STRING_EN[7124]["real_idx"] = 7124
 
 STRING_EN["index"][7125] = 7125
 STRING_EN[7125] = {}
 	STRING_EN[7125]["ID"] = 7125
 	STRING_EN[7125]["KEY"] = "STRENGTHEN_TEXT_1"
-	STRING_EN[7125]["VALUE"] = "Ship development"
+	STRING_EN[7125]["VALUE"] = "Spaceship Development"
 	STRING_EN[7125]["real_idx"] = 7125
 
 STRING_EN["index"][7126] = 7126
 STRING_EN[7126] = {}
 	STRING_EN[7126]["ID"] = 7126
 	STRING_EN[7126]["KEY"] = "STRENGTHEN_TEXT_2"
-	STRING_EN[7126]["VALUE"] = "Train"
+	STRING_EN[7126]["VALUE"] = "Spaceship Training"
 	STRING_EN[7126]["real_idx"] = 7126
 
 STRING_EN["index"][7127] = 7127
 STRING_EN[7127] = {}
 	STRING_EN[7127]["ID"] = 7127
 	STRING_EN[7127]["KEY"] = "STRENGTHEN_TEXT_3"
-	STRING_EN[7127]["VALUE"] = "Technological advancement"
+	STRING_EN[7127]["VALUE"] = "Technology Development"
 	STRING_EN[7127]["real_idx"] = 7127
 
 STRING_EN["index"][7128] = 7128
 STRING_EN[7128] = {}
 	STRING_EN[7128]["ID"] = 7128
 	STRING_EN[7128]["KEY"] = "STRENGTHEN_TEXT_4"
-	STRING_EN[7128]["VALUE"] = "Other ways"
+	STRING_EN[7128]["VALUE"] = "Others"
 	STRING_EN[7128]["real_idx"] = 7128
 
 STRING_EN["index"][7129] = 7129
 STRING_EN[7129] = {}
 	STRING_EN[7129]["ID"] = 7129
 	STRING_EN[7129]["KEY"] = "STRENGTHEN_TEXT_6"
-	STRING_EN[7129]["VALUE"] = "Increase the upper limit of the ship"
+	STRING_EN[7129]["VALUE"] = "Increase the upper limit of the ships that can participate in the battle"
 	STRING_EN[7129]["real_idx"] = 7129
 
 STRING_EN["index"][7130] = 7130
 STRING_EN[7130] = {}
 	STRING_EN[7130]["ID"] = 7130
 	STRING_EN[7130]["KEY"] = "STRENGTHEN_TEXT_7"
-	STRING_EN[7130]["VALUE"] = "Increase the ship"
+	STRING_EN[7130]["VALUE"] = "Increase the number of the ships participating in the battle"
 	STRING_EN[7130]["real_idx"] = 7130
 
 STRING_EN["index"][7131] = 7131
 STRING_EN[7131] = {}
 	STRING_EN[7131]["ID"] = 7131
 	STRING_EN[7131]["KEY"] = "STRENGTHEN_TEXT_8"
-	STRING_EN[7131]["VALUE"] = "Get a new ship"
+	STRING_EN[7131]["VALUE"] = "Get new spaceship"
 	STRING_EN[7131]["real_idx"] = 7131
 
 STRING_EN["index"][7132] = 7132
@@ -49928,21 +49928,21 @@ STRING_EN["index"][7133] = 7133
 STRING_EN[7133] = {}
 	STRING_EN[7133]["ID"] = 7133
 	STRING_EN[7133]["KEY"] = "STRENGTHEN_TEXT_10"
-	STRING_EN[7133]["VALUE"] = "Breakthrough ship"
+	STRING_EN[7133]["VALUE"] = "Breakthrough spaceship"
 	STRING_EN[7133]["real_idx"] = 7133
 
 STRING_EN["index"][7134] = 7134
 STRING_EN[7134] = {}
 	STRING_EN[7134]["ID"] = 7134
 	STRING_EN[7134]["KEY"] = "STRENGTHEN_TEXT_11"
-	STRING_EN[7134]["VALUE"] = "Equip"
+	STRING_EN[7134]["VALUE"] = "Equip Equipment"
 	STRING_EN[7134]["real_idx"] = 7134
 
 STRING_EN["index"][7135] = 7135
 STRING_EN[7135] = {}
 	STRING_EN[7135]["ID"] = 7135
 	STRING_EN[7135]["KEY"] = "STRENGTHEN_TEXT_12"
-	STRING_EN[7135]["VALUE"] = "Reinforce"
+	STRING_EN[7135]["VALUE"] = "Strengthen Equipment"
 	STRING_EN[7135]["real_idx"] = 7135
 
 STRING_EN["index"][7136] = 7136
@@ -49956,49 +49956,49 @@ STRING_EN["index"][7137] = 7137
 STRING_EN[7137] = {}
 	STRING_EN[7137]["ID"] = 7137
 	STRING_EN[7137]["KEY"] = "STRENGTHEN_TEXT_14"
-	STRING_EN[7137]["VALUE"] = "Skill reinforcement"
+	STRING_EN[7137]["VALUE"] = "Strengthen Skill"
 	STRING_EN[7137]["real_idx"] = 7137
 
 STRING_EN["index"][7138] = 7138
 STRING_EN[7138] = {}
 	STRING_EN[7138]["ID"] = 7138
 	STRING_EN[7138]["KEY"] = "STRENGTHEN_TEXT_15"
-	STRING_EN[7138]["VALUE"] = "Crystal mosaic"
+	STRING_EN[7138]["VALUE"] = "Inlay Krypton Crystal "
 	STRING_EN[7138]["real_idx"] = 7138
 
 STRING_EN["index"][7139] = 7139
 STRING_EN[7139] = {}
 	STRING_EN[7139]["ID"] = 7139
 	STRING_EN[7139]["KEY"] = "STRENGTHEN_TEXT_16"
-	STRING_EN[7139]["VALUE"] = "Crystal upgrade"
+	STRING_EN[7139]["VALUE"] = "Krypton Crystal Upgrade"
 	STRING_EN[7139]["real_idx"] = 7139
 
 STRING_EN["index"][7140] = 7140
 STRING_EN[7140] = {}
 	STRING_EN[7140]["ID"] = 7140
 	STRING_EN[7140]["KEY"] = "STRENGTHEN_TEXT_17"
-	STRING_EN[7140]["VALUE"] = "Upgrade base building"
+	STRING_EN[7140]["VALUE"] = "Homebase Building Upgrade"
 	STRING_EN[7140]["real_idx"] = 7140
 
 STRING_EN["index"][7141] = 7141
 STRING_EN[7141] = {}
 	STRING_EN[7141]["ID"] = 7141
 	STRING_EN[7141]["KEY"] = "STRENGTHEN_TEXT_18"
-	STRING_EN[7141]["VALUE"] = "Enhance technology"
+	STRING_EN[7141]["VALUE"] = "Improve technologies"
 	STRING_EN[7141]["real_idx"] = 7141
 
 STRING_EN["index"][7142] = 7142
 STRING_EN[7142] = {}
 	STRING_EN[7142]["ID"] = 7142
 	STRING_EN[7142]["KEY"] = "STRENGTHEN_TEXT_19"
-	STRING_EN[7142]["VALUE"] = "Enhance covenant Technology"
+	STRING_EN[7142]["VALUE"] = "Improve Alliance technologies"
 	STRING_EN[7142]["real_idx"] = 7142
 
 STRING_EN["index"][7143] = 7143
 STRING_EN[7143] = {}
 	STRING_EN[7143]["ID"] = 7143
 	STRING_EN[7143]["KEY"] = "STRENGTHEN_TEXT_20"
-	STRING_EN[7143]["VALUE"] = "Title promotion"
+	STRING_EN[7143]["VALUE"] = "Title Upgrade"
 	STRING_EN[7143]["real_idx"] = 7143
 
 STRING_EN["index"][7144] = 7144
@@ -50313,924 +50313,924 @@ STRING_EN["index"][7188] = 7188
 STRING_EN[7188] = {}
 	STRING_EN[7188]["ID"] = 7188
 	STRING_EN[7188]["KEY"] = "SCOUTTOWER_UP2"
-	STRING_EN[7188]["VALUE"] = "Scouting Tower I"
+	STRING_EN[7188]["VALUE"] = "Scout Tower I"
 	STRING_EN[7188]["real_idx"] = 7188
 
 STRING_EN["index"][7189] = 7189
 STRING_EN[7189] = {}
 	STRING_EN[7189]["ID"] = 7189
 	STRING_EN[7189]["KEY"] = "SCOUTTOWER_UP3"
-	STRING_EN[7189]["VALUE"] = "Scouting Tower II"
+	STRING_EN[7189]["VALUE"] = "Scout Tower II"
 	STRING_EN[7189]["real_idx"] = 7189
 
 STRING_EN["index"][7190] = 7190
 STRING_EN[7190] = {}
 	STRING_EN[7190]["ID"] = 7190
 	STRING_EN[7190]["KEY"] = "SCOUTTOWER_UP4"
-	STRING_EN[7190]["VALUE"] = "Scouting Tower III"
+	STRING_EN[7190]["VALUE"] = "Scout Tower III"
 	STRING_EN[7190]["real_idx"] = 7190
 
 STRING_EN["index"][7191] = 7191
 STRING_EN[7191] = {}
 	STRING_EN[7191]["ID"] = 7191
 	STRING_EN[7191]["KEY"] = "SCOUTTOWER_UP5"
-	STRING_EN[7191]["VALUE"] = "Scouting Tower IV"
+	STRING_EN[7191]["VALUE"] = "Scout Tower IV"
 	STRING_EN[7191]["real_idx"] = 7191
 
 STRING_EN["index"][7192] = 7192
 STRING_EN[7192] = {}
 	STRING_EN[7192]["ID"] = 7192
 	STRING_EN[7192]["KEY"] = "SCOUTTOWER_UP6"
-	STRING_EN[7192]["VALUE"] = "Scouting Tower V"
+	STRING_EN[7192]["VALUE"] = "Scout Tower V"
 	STRING_EN[7192]["real_idx"] = 7192
 
 STRING_EN["index"][7193] = 7193
 STRING_EN[7193] = {}
 	STRING_EN[7193]["ID"] = 7193
 	STRING_EN[7193]["KEY"] = "SCOUTTOWER_UP7"
-	STRING_EN[7193]["VALUE"] = "Scouting Tower VI"
+	STRING_EN[7193]["VALUE"] = "Scout Tower VI"
 	STRING_EN[7193]["real_idx"] = 7193
 
 STRING_EN["index"][7194] = 7194
 STRING_EN[7194] = {}
 	STRING_EN[7194]["ID"] = 7194
 	STRING_EN[7194]["KEY"] = "SCOUTTOWER_UP8"
-	STRING_EN[7194]["VALUE"] = "Scouting Tower VII"
+	STRING_EN[7194]["VALUE"] = "Scout Tower VII"
 	STRING_EN[7194]["real_idx"] = 7194
 
 STRING_EN["index"][7195] = 7195
 STRING_EN[7195] = {}
 	STRING_EN[7195]["ID"] = 7195
 	STRING_EN[7195]["KEY"] = "SCOUTTOWER_UP9"
-	STRING_EN[7195]["VALUE"] = "Scouting Tower VIII"
+	STRING_EN[7195]["VALUE"] = "Scout Tower VIII"
 	STRING_EN[7195]["real_idx"] = 7195
 
 STRING_EN["index"][7196] = 7196
 STRING_EN[7196] = {}
 	STRING_EN[7196]["ID"] = 7196
 	STRING_EN[7196]["KEY"] = "SCOUTTOWER_UP10"
-	STRING_EN[7196]["VALUE"] = "Scouting Tower IX"
+	STRING_EN[7196]["VALUE"] = "Scout Tower IX"
 	STRING_EN[7196]["real_idx"] = 7196
 
 STRING_EN["index"][7197] = 7197
 STRING_EN[7197] = {}
 	STRING_EN[7197]["ID"] = 7197
 	STRING_EN[7197]["KEY"] = "SCOUTTOWER_UP11"
-	STRING_EN[7197]["VALUE"] = "Scouting Tower X"
+	STRING_EN[7197]["VALUE"] = "Scout Tower X"
 	STRING_EN[7197]["real_idx"] = 7197
 
 STRING_EN["index"][7198] = 7198
 STRING_EN[7198] = {}
 	STRING_EN[7198]["ID"] = 7198
 	STRING_EN[7198]["KEY"] = "SCOUTTOWER_UP12"
-	STRING_EN[7198]["VALUE"] = "Scouting Tower XI"
+	STRING_EN[7198]["VALUE"] = "Scout Tower XI"
 	STRING_EN[7198]["real_idx"] = 7198
 
 STRING_EN["index"][7199] = 7199
 STRING_EN[7199] = {}
 	STRING_EN[7199]["ID"] = 7199
 	STRING_EN[7199]["KEY"] = "SCOUTTOWER_UP13"
-	STRING_EN[7199]["VALUE"] = "Scouting Tower XII"
+	STRING_EN[7199]["VALUE"] = "Scout Tower XII"
 	STRING_EN[7199]["real_idx"] = 7199
 
 STRING_EN["index"][7200] = 7200
 STRING_EN[7200] = {}
 	STRING_EN[7200]["ID"] = 7200
 	STRING_EN[7200]["KEY"] = "SCOUTTOWER_UP14"
-	STRING_EN[7200]["VALUE"] = "Scouting Tower XIII"
+	STRING_EN[7200]["VALUE"] = "Scout Tower XIII"
 	STRING_EN[7200]["real_idx"] = 7200
 
 STRING_EN["index"][7201] = 7201
 STRING_EN[7201] = {}
 	STRING_EN[7201]["ID"] = 7201
 	STRING_EN[7201]["KEY"] = "SCOUTTOWER_UP15"
-	STRING_EN[7201]["VALUE"] = "Scouting Tower XIV"
+	STRING_EN[7201]["VALUE"] = "Scout Tower XIV"
 	STRING_EN[7201]["real_idx"] = 7201
 
 STRING_EN["index"][7202] = 7202
 STRING_EN[7202] = {}
 	STRING_EN[7202]["ID"] = 7202
 	STRING_EN[7202]["KEY"] = "SCOUTTOWER_UP16"
-	STRING_EN[7202]["VALUE"] = "Scouting Tower XV"
+	STRING_EN[7202]["VALUE"] = "Scout Tower XV"
 	STRING_EN[7202]["real_idx"] = 7202
 
 STRING_EN["index"][7203] = 7203
 STRING_EN[7203] = {}
 	STRING_EN[7203]["ID"] = 7203
 	STRING_EN[7203]["KEY"] = "SCOUTTOWER_UP17"
-	STRING_EN[7203]["VALUE"] = "Scouting Tower XVI"
+	STRING_EN[7203]["VALUE"] = "Scout Tower XVI"
 	STRING_EN[7203]["real_idx"] = 7203
 
 STRING_EN["index"][7204] = 7204
 STRING_EN[7204] = {}
 	STRING_EN[7204]["ID"] = 7204
 	STRING_EN[7204]["KEY"] = "SCOUTTOWER_UP18"
-	STRING_EN[7204]["VALUE"] = "Scouting Tower XVII"
+	STRING_EN[7204]["VALUE"] = "Scout Tower XVII"
 	STRING_EN[7204]["real_idx"] = 7204
 
 STRING_EN["index"][7205] = 7205
 STRING_EN[7205] = {}
 	STRING_EN[7205]["ID"] = 7205
 	STRING_EN[7205]["KEY"] = "SCOUTTOWER_UP19"
-	STRING_EN[7205]["VALUE"] = "Scouting Tower XVIII"
+	STRING_EN[7205]["VALUE"] = "Scout Tower XVIII"
 	STRING_EN[7205]["real_idx"] = 7205
 
 STRING_EN["index"][7206] = 7206
 STRING_EN[7206] = {}
 	STRING_EN[7206]["ID"] = 7206
 	STRING_EN[7206]["KEY"] = "SCOUTTOWER_UP20"
-	STRING_EN[7206]["VALUE"] = "Scouting Tower XIX"
+	STRING_EN[7206]["VALUE"] = "Scout Tower XIX"
 	STRING_EN[7206]["real_idx"] = 7206
 
 STRING_EN["index"][7207] = 7207
 STRING_EN[7207] = {}
 	STRING_EN[7207]["ID"] = 7207
 	STRING_EN[7207]["KEY"] = "SCOUTTOWER_UP21"
-	STRING_EN[7207]["VALUE"] = "Scouting Tower XX"
+	STRING_EN[7207]["VALUE"] = "Scout Tower XX"
 	STRING_EN[7207]["real_idx"] = 7207
 
 STRING_EN["index"][7208] = 7208
 STRING_EN[7208] = {}
 	STRING_EN[7208]["ID"] = 7208
 	STRING_EN[7208]["KEY"] = "SCOUTTOWER_UP22"
-	STRING_EN[7208]["VALUE"] = "Scouting Tower XXI"
+	STRING_EN[7208]["VALUE"] = "Scout Tower XXI"
 	STRING_EN[7208]["real_idx"] = 7208
 
 STRING_EN["index"][7209] = 7209
 STRING_EN[7209] = {}
 	STRING_EN[7209]["ID"] = 7209
 	STRING_EN[7209]["KEY"] = "SCOUTTOWER_UP23"
-	STRING_EN[7209]["VALUE"] = "Scouting Tower XXII"
+	STRING_EN[7209]["VALUE"] = "Scout Tower XXII"
 	STRING_EN[7209]["real_idx"] = 7209
 
 STRING_EN["index"][7210] = 7210
 STRING_EN[7210] = {}
 	STRING_EN[7210]["ID"] = 7210
 	STRING_EN[7210]["KEY"] = "SCOUTTOWER_UP24"
-	STRING_EN[7210]["VALUE"] = "Scouting Tower XXIII"
+	STRING_EN[7210]["VALUE"] = "Scout Tower XXIII"
 	STRING_EN[7210]["real_idx"] = 7210
 
 STRING_EN["index"][7211] = 7211
 STRING_EN[7211] = {}
 	STRING_EN[7211]["ID"] = 7211
 	STRING_EN[7211]["KEY"] = "SCOUTTOWER_UP25"
-	STRING_EN[7211]["VALUE"] = "Scouting Tower XXIV"
+	STRING_EN[7211]["VALUE"] = "Scout Tower XXIV"
 	STRING_EN[7211]["real_idx"] = 7211
 
 STRING_EN["index"][7212] = 7212
 STRING_EN[7212] = {}
 	STRING_EN[7212]["ID"] = 7212
 	STRING_EN[7212]["KEY"] = "SCOUTTOWER_UP26"
-	STRING_EN[7212]["VALUE"] = "Scouting Tower XXV"
+	STRING_EN[7212]["VALUE"] = "Scout Tower XXV"
 	STRING_EN[7212]["real_idx"] = 7212
 
 STRING_EN["index"][7213] = 7213
 STRING_EN[7213] = {}
 	STRING_EN[7213]["ID"] = 7213
 	STRING_EN[7213]["KEY"] = "SCOUTTOWER_UP27"
-	STRING_EN[7213]["VALUE"] = "Scouting Tower XXVI"
+	STRING_EN[7213]["VALUE"] = "Scout Tower XXVI"
 	STRING_EN[7213]["real_idx"] = 7213
 
 STRING_EN["index"][7214] = 7214
 STRING_EN[7214] = {}
 	STRING_EN[7214]["ID"] = 7214
 	STRING_EN[7214]["KEY"] = "SCOUTTOWER_UP28"
-	STRING_EN[7214]["VALUE"] = "Scouting Tower XXVII"
+	STRING_EN[7214]["VALUE"] = "Scout Tower XXVII"
 	STRING_EN[7214]["real_idx"] = 7214
 
 STRING_EN["index"][7215] = 7215
 STRING_EN[7215] = {}
 	STRING_EN[7215]["ID"] = 7215
 	STRING_EN[7215]["KEY"] = "SCOUTTOWER_UP29"
-	STRING_EN[7215]["VALUE"] = "Scouting Tower XXVIII"
+	STRING_EN[7215]["VALUE"] = "Scout Tower XXVIII"
 	STRING_EN[7215]["real_idx"] = 7215
 
 STRING_EN["index"][7216] = 7216
 STRING_EN[7216] = {}
 	STRING_EN[7216]["ID"] = 7216
 	STRING_EN[7216]["KEY"] = "SCOUTTOWER_UP30"
-	STRING_EN[7216]["VALUE"] = "Scouting Tower XXIX"
+	STRING_EN[7216]["VALUE"] = "Scout Tower XXIX"
 	STRING_EN[7216]["real_idx"] = 7216
 
 STRING_EN["index"][7217] = 7217
 STRING_EN[7217] = {}
 	STRING_EN[7217]["ID"] = 7217
 	STRING_EN[7217]["KEY"] = "SCOUTTOWER_UP31"
-	STRING_EN[7217]["VALUE"] = "Scouting Tower XXX"
+	STRING_EN[7217]["VALUE"] = "Scout Tower XXX"
 	STRING_EN[7217]["real_idx"] = 7217
 
 STRING_EN["index"][7218] = 7218
 STRING_EN[7218] = {}
 	STRING_EN[7218]["ID"] = 7218
 	STRING_EN[7218]["KEY"] = "SCOUTTOWER_UP32"
-	STRING_EN[7218]["VALUE"] = "Scouting Tower XXXI"
+	STRING_EN[7218]["VALUE"] = "Scout Tower XXXI"
 	STRING_EN[7218]["real_idx"] = 7218
 
 STRING_EN["index"][7219] = 7219
 STRING_EN[7219] = {}
 	STRING_EN[7219]["ID"] = 7219
 	STRING_EN[7219]["KEY"] = "SCOUTTOWER_UP33"
-	STRING_EN[7219]["VALUE"] = "Scouting Tower XXXII"
+	STRING_EN[7219]["VALUE"] = "Scout Tower XXXII"
 	STRING_EN[7219]["real_idx"] = 7219
 
 STRING_EN["index"][7220] = 7220
 STRING_EN[7220] = {}
 	STRING_EN[7220]["ID"] = 7220
 	STRING_EN[7220]["KEY"] = "SCOUTTOWER_UP34"
-	STRING_EN[7220]["VALUE"] = "Scouting Tower XXXIII"
+	STRING_EN[7220]["VALUE"] = "Scout Tower XXXIII"
 	STRING_EN[7220]["real_idx"] = 7220
 
 STRING_EN["index"][7221] = 7221
 STRING_EN[7221] = {}
 	STRING_EN[7221]["ID"] = 7221
 	STRING_EN[7221]["KEY"] = "SCOUTTOWER_UP35"
-	STRING_EN[7221]["VALUE"] = "Scouting Tower XXXIV"
+	STRING_EN[7221]["VALUE"] = "Scout Tower XXXIV"
 	STRING_EN[7221]["real_idx"] = 7221
 
 STRING_EN["index"][7222] = 7222
 STRING_EN[7222] = {}
 	STRING_EN[7222]["ID"] = 7222
 	STRING_EN[7222]["KEY"] = "SCOUTTOWER_UP36"
-	STRING_EN[7222]["VALUE"] = "Scouting Tower XXXV"
+	STRING_EN[7222]["VALUE"] = "Scout Tower XXXV"
 	STRING_EN[7222]["real_idx"] = 7222
 
 STRING_EN["index"][7223] = 7223
 STRING_EN[7223] = {}
 	STRING_EN[7223]["ID"] = 7223
 	STRING_EN[7223]["KEY"] = "SCOUTTOWER_UP37"
-	STRING_EN[7223]["VALUE"] = "Scouting Tower XXXVI"
+	STRING_EN[7223]["VALUE"] = "Scout Tower XXXVI"
 	STRING_EN[7223]["real_idx"] = 7223
 
 STRING_EN["index"][7224] = 7224
 STRING_EN[7224] = {}
 	STRING_EN[7224]["ID"] = 7224
 	STRING_EN[7224]["KEY"] = "SCOUTTOWER_UP38"
-	STRING_EN[7224]["VALUE"] = "Scouting Tower XXXVII"
+	STRING_EN[7224]["VALUE"] = "Scout Tower XXXVII"
 	STRING_EN[7224]["real_idx"] = 7224
 
 STRING_EN["index"][7225] = 7225
 STRING_EN[7225] = {}
 	STRING_EN[7225]["ID"] = 7225
 	STRING_EN[7225]["KEY"] = "SCOUTTOWER_UP39"
-	STRING_EN[7225]["VALUE"] = "Scouting Tower XXXVIII"
+	STRING_EN[7225]["VALUE"] = "Scout Tower XXXVIII"
 	STRING_EN[7225]["real_idx"] = 7225
 
 STRING_EN["index"][7226] = 7226
 STRING_EN[7226] = {}
 	STRING_EN[7226]["ID"] = 7226
 	STRING_EN[7226]["KEY"] = "SCOUTTOWER_UP40"
-	STRING_EN[7226]["VALUE"] = "Scouting Tower XXXIX"
+	STRING_EN[7226]["VALUE"] = "Scout Tower XXXIX"
 	STRING_EN[7226]["real_idx"] = 7226
 
 STRING_EN["index"][7227] = 7227
 STRING_EN[7227] = {}
 	STRING_EN[7227]["ID"] = 7227
 	STRING_EN[7227]["KEY"] = "SCOUTTOWER_UP41"
-	STRING_EN[7227]["VALUE"] = "Scouting Tower XL"
+	STRING_EN[7227]["VALUE"] = "Scout Tower XL"
 	STRING_EN[7227]["real_idx"] = 7227
 
 STRING_EN["index"][7228] = 7228
 STRING_EN[7228] = {}
 	STRING_EN[7228]["ID"] = 7228
 	STRING_EN[7228]["KEY"] = "SCOUTTOWER_UP42"
-	STRING_EN[7228]["VALUE"] = "Scouting Tower XLI"
+	STRING_EN[7228]["VALUE"] = "Scout Tower XLI"
 	STRING_EN[7228]["real_idx"] = 7228
 
 STRING_EN["index"][7229] = 7229
 STRING_EN[7229] = {}
 	STRING_EN[7229]["ID"] = 7229
 	STRING_EN[7229]["KEY"] = "SCOUTTOWER_UP43"
-	STRING_EN[7229]["VALUE"] = "Scouting Tower XLII"
+	STRING_EN[7229]["VALUE"] = "Scout Tower XLII"
 	STRING_EN[7229]["real_idx"] = 7229
 
 STRING_EN["index"][7230] = 7230
 STRING_EN[7230] = {}
 	STRING_EN[7230]["ID"] = 7230
 	STRING_EN[7230]["KEY"] = "SCOUTTOWER_UP44"
-	STRING_EN[7230]["VALUE"] = "Scouting Tower XLIII"
+	STRING_EN[7230]["VALUE"] = "Scout Tower XLIII"
 	STRING_EN[7230]["real_idx"] = 7230
 
 STRING_EN["index"][7231] = 7231
 STRING_EN[7231] = {}
 	STRING_EN[7231]["ID"] = 7231
 	STRING_EN[7231]["KEY"] = "SCOUTTOWER_UP45"
-	STRING_EN[7231]["VALUE"] = "Scouting Tower XLIV"
+	STRING_EN[7231]["VALUE"] = "Scout Tower XLIV"
 	STRING_EN[7231]["real_idx"] = 7231
 
 STRING_EN["index"][7232] = 7232
 STRING_EN[7232] = {}
 	STRING_EN[7232]["ID"] = 7232
 	STRING_EN[7232]["KEY"] = "BATTERY_UP2"
-	STRING_EN[7232]["VALUE"] = "Shoucheng Fort I"
+	STRING_EN[7232]["VALUE"] = "City Turret I"
 	STRING_EN[7232]["real_idx"] = 7232
 
 STRING_EN["index"][7233] = 7233
 STRING_EN[7233] = {}
 	STRING_EN[7233]["ID"] = 7233
 	STRING_EN[7233]["KEY"] = "BATTERY_UP3"
-	STRING_EN[7233]["VALUE"] = "Shoucheng Fort II"
+	STRING_EN[7233]["VALUE"] = "City Turret II"
 	STRING_EN[7233]["real_idx"] = 7233
 
 STRING_EN["index"][7234] = 7234
 STRING_EN[7234] = {}
 	STRING_EN[7234]["ID"] = 7234
 	STRING_EN[7234]["KEY"] = "BATTERY_UP4"
-	STRING_EN[7234]["VALUE"] = "Shoucheng Fort III"
+	STRING_EN[7234]["VALUE"] = "City Turret III"
 	STRING_EN[7234]["real_idx"] = 7234
 
 STRING_EN["index"][7235] = 7235
 STRING_EN[7235] = {}
 	STRING_EN[7235]["ID"] = 7235
 	STRING_EN[7235]["KEY"] = "BATTERY_UP5"
-	STRING_EN[7235]["VALUE"] = "Shoucheng Fort 4"
+	STRING_EN[7235]["VALUE"] = "City Turret IV"
 	STRING_EN[7235]["real_idx"] = 7235
 
 STRING_EN["index"][7236] = 7236
 STRING_EN[7236] = {}
 	STRING_EN[7236]["ID"] = 7236
 	STRING_EN[7236]["KEY"] = "BATTERY_UP6"
-	STRING_EN[7236]["VALUE"] = "Shoucheng Fort V"
+	STRING_EN[7236]["VALUE"] = "City Turret V"
 	STRING_EN[7236]["real_idx"] = 7236
 
 STRING_EN["index"][7237] = 7237
 STRING_EN[7237] = {}
 	STRING_EN[7237]["ID"] = 7237
 	STRING_EN[7237]["KEY"] = "BATTERY_UP7"
-	STRING_EN[7237]["VALUE"] = "Shoucheng Fortress VI"
+	STRING_EN[7237]["VALUE"] = "City Turret VI"
 	STRING_EN[7237]["real_idx"] = 7237
 
 STRING_EN["index"][7238] = 7238
 STRING_EN[7238] = {}
 	STRING_EN[7238]["ID"] = 7238
 	STRING_EN[7238]["KEY"] = "BATTERY_UP8"
-	STRING_EN[7238]["VALUE"] = "Shoucheng Fort VII"
+	STRING_EN[7238]["VALUE"] = "City Turret VII"
 	STRING_EN[7238]["real_idx"] = 7238
 
 STRING_EN["index"][7239] = 7239
 STRING_EN[7239] = {}
 	STRING_EN[7239]["ID"] = 7239
 	STRING_EN[7239]["KEY"] = "BATTERY_UP9"
-	STRING_EN[7239]["VALUE"] = "Shoucheng Fort VIII"
+	STRING_EN[7239]["VALUE"] = "City Turret VIII"
 	STRING_EN[7239]["real_idx"] = 7239
 
 STRING_EN["index"][7240] = 7240
 STRING_EN[7240] = {}
 	STRING_EN[7240]["ID"] = 7240
 	STRING_EN[7240]["KEY"] = "BATTERY_UP10"
-	STRING_EN[7240]["VALUE"] = "Shoucheng Fort IX"
+	STRING_EN[7240]["VALUE"] = "City Turret IX"
 	STRING_EN[7240]["real_idx"] = 7240
 
 STRING_EN["index"][7241] = 7241
 STRING_EN[7241] = {}
 	STRING_EN[7241]["ID"] = 7241
 	STRING_EN[7241]["KEY"] = "BATTERY_UP11"
-	STRING_EN[7241]["VALUE"] = "Shoucheng Fort X"
+	STRING_EN[7241]["VALUE"] = "City Turret X"
 	STRING_EN[7241]["real_idx"] = 7241
 
 STRING_EN["index"][7242] = 7242
 STRING_EN[7242] = {}
 	STRING_EN[7242]["ID"] = 7242
 	STRING_EN[7242]["KEY"] = "BATTERY_UP12"
-	STRING_EN[7242]["VALUE"] = "Shoucheng Fort XI"
+	STRING_EN[7242]["VALUE"] = "City Turret XI"
 	STRING_EN[7242]["real_idx"] = 7242
 
 STRING_EN["index"][7243] = 7243
 STRING_EN[7243] = {}
 	STRING_EN[7243]["ID"] = 7243
 	STRING_EN[7243]["KEY"] = "BATTERY_UP13"
-	STRING_EN[7243]["VALUE"] = "Shoucheng Fort XII"
+	STRING_EN[7243]["VALUE"] = "City Turret XII"
 	STRING_EN[7243]["real_idx"] = 7243
 
 STRING_EN["index"][7244] = 7244
 STRING_EN[7244] = {}
 	STRING_EN[7244]["ID"] = 7244
 	STRING_EN[7244]["KEY"] = "BATTERY_UP14"
-	STRING_EN[7244]["VALUE"] = "Shoucheng Fort XIII"
+	STRING_EN[7244]["VALUE"] = "City Turret XIII"
 	STRING_EN[7244]["real_idx"] = 7244
 
 STRING_EN["index"][7245] = 7245
 STRING_EN[7245] = {}
 	STRING_EN[7245]["ID"] = 7245
 	STRING_EN[7245]["KEY"] = "BATTERY_UP15"
-	STRING_EN[7245]["VALUE"] = "Shoucheng Fortress XIV"
+	STRING_EN[7245]["VALUE"] = "City Turret XIV"
 	STRING_EN[7245]["real_idx"] = 7245
 
 STRING_EN["index"][7246] = 7246
 STRING_EN[7246] = {}
 	STRING_EN[7246]["ID"] = 7246
 	STRING_EN[7246]["KEY"] = "BATTERY_UP16"
-	STRING_EN[7246]["VALUE"] = "Shoucheng Fort XV"
+	STRING_EN[7246]["VALUE"] = "City Turret XV"
 	STRING_EN[7246]["real_idx"] = 7246
 
 STRING_EN["index"][7247] = 7247
 STRING_EN[7247] = {}
 	STRING_EN[7247]["ID"] = 7247
 	STRING_EN[7247]["KEY"] = "BATTERY_UP17"
-	STRING_EN[7247]["VALUE"] = "Shoucheng Fort XVI"
+	STRING_EN[7247]["VALUE"] = "City Turret XVI"
 	STRING_EN[7247]["real_idx"] = 7247
 
 STRING_EN["index"][7248] = 7248
 STRING_EN[7248] = {}
 	STRING_EN[7248]["ID"] = 7248
 	STRING_EN[7248]["KEY"] = "BATTERY_UP18"
-	STRING_EN[7248]["VALUE"] = "Shoucheng Fort XVII"
+	STRING_EN[7248]["VALUE"] = "City Turret XVII"
 	STRING_EN[7248]["real_idx"] = 7248
 
 STRING_EN["index"][7249] = 7249
 STRING_EN[7249] = {}
 	STRING_EN[7249]["ID"] = 7249
 	STRING_EN[7249]["KEY"] = "BATTERY_UP19"
-	STRING_EN[7249]["VALUE"] = "Shoucheng Fort XVIII"
+	STRING_EN[7249]["VALUE"] = "City Turret XVIII"
 	STRING_EN[7249]["real_idx"] = 7249
 
 STRING_EN["index"][7250] = 7250
 STRING_EN[7250] = {}
 	STRING_EN[7250]["ID"] = 7250
 	STRING_EN[7250]["KEY"] = "BATTERY_UP20"
-	STRING_EN[7250]["VALUE"] = "Shoucheng Fort XIX"
+	STRING_EN[7250]["VALUE"] = "City Turret XIX"
 	STRING_EN[7250]["real_idx"] = 7250
 
 STRING_EN["index"][7251] = 7251
 STRING_EN[7251] = {}
 	STRING_EN[7251]["ID"] = 7251
 	STRING_EN[7251]["KEY"] = "BATTERY_UP21"
-	STRING_EN[7251]["VALUE"] = "Shoucheng Fort XX"
+	STRING_EN[7251]["VALUE"] = "City Turret XX"
 	STRING_EN[7251]["real_idx"] = 7251
 
 STRING_EN["index"][7252] = 7252
 STRING_EN[7252] = {}
 	STRING_EN[7252]["ID"] = 7252
 	STRING_EN[7252]["KEY"] = "BATTERY_UP22"
-	STRING_EN[7252]["VALUE"] = "Shoucheng Fort XXI"
+	STRING_EN[7252]["VALUE"] = "City Turret XXI"
 	STRING_EN[7252]["real_idx"] = 7252
 
 STRING_EN["index"][7253] = 7253
 STRING_EN[7253] = {}
 	STRING_EN[7253]["ID"] = 7253
 	STRING_EN[7253]["KEY"] = "BATTERY_UP23"
-	STRING_EN[7253]["VALUE"] = "Shoucheng Fort XXII"
+	STRING_EN[7253]["VALUE"] = "City Turret XXII"
 	STRING_EN[7253]["real_idx"] = 7253
 
 STRING_EN["index"][7254] = 7254
 STRING_EN[7254] = {}
 	STRING_EN[7254]["ID"] = 7254
 	STRING_EN[7254]["KEY"] = "BATTERY_UP24"
-	STRING_EN[7254]["VALUE"] = "Shoucheng Fort XXIII"
+	STRING_EN[7254]["VALUE"] = "City Turret XXIII"
 	STRING_EN[7254]["real_idx"] = 7254
 
 STRING_EN["index"][7255] = 7255
 STRING_EN[7255] = {}
 	STRING_EN[7255]["ID"] = 7255
 	STRING_EN[7255]["KEY"] = "BATTERY_UP25"
-	STRING_EN[7255]["VALUE"] = "Shoucheng Fort XXIV"
+	STRING_EN[7255]["VALUE"] = "City Turret XXIV"
 	STRING_EN[7255]["real_idx"] = 7255
 
 STRING_EN["index"][7256] = 7256
 STRING_EN[7256] = {}
 	STRING_EN[7256]["ID"] = 7256
 	STRING_EN[7256]["KEY"] = "BATTERY_UP26"
-	STRING_EN[7256]["VALUE"] = "Shoucheng Fort XXV"
+	STRING_EN[7256]["VALUE"] = "City Turret XXV"
 	STRING_EN[7256]["real_idx"] = 7256
 
 STRING_EN["index"][7257] = 7257
 STRING_EN[7257] = {}
 	STRING_EN[7257]["ID"] = 7257
 	STRING_EN[7257]["KEY"] = "BATTERY_UP27"
-	STRING_EN[7257]["VALUE"] = "Shoucheng Fort XXVI"
+	STRING_EN[7257]["VALUE"] = "City Turret XXVI"
 	STRING_EN[7257]["real_idx"] = 7257
 
 STRING_EN["index"][7258] = 7258
 STRING_EN[7258] = {}
 	STRING_EN[7258]["ID"] = 7258
 	STRING_EN[7258]["KEY"] = "BATTERY_UP28"
-	STRING_EN[7258]["VALUE"] = "Shoucheng Fort XXVII"
+	STRING_EN[7258]["VALUE"] = "City Turret XXVII"
 	STRING_EN[7258]["real_idx"] = 7258
 
 STRING_EN["index"][7259] = 7259
 STRING_EN[7259] = {}
 	STRING_EN[7259]["ID"] = 7259
 	STRING_EN[7259]["KEY"] = "BATTERY_UP29"
-	STRING_EN[7259]["VALUE"] = "Shoucheng Fort XXVIII"
+	STRING_EN[7259]["VALUE"] = "City Turret XXVIII"
 	STRING_EN[7259]["real_idx"] = 7259
 
 STRING_EN["index"][7260] = 7260
 STRING_EN[7260] = {}
 	STRING_EN[7260]["ID"] = 7260
 	STRING_EN[7260]["KEY"] = "BATTERY_UP30"
-	STRING_EN[7260]["VALUE"] = "Shoucheng Fort XXIX"
+	STRING_EN[7260]["VALUE"] = "City Turret XXIX"
 	STRING_EN[7260]["real_idx"] = 7260
 
 STRING_EN["index"][7261] = 7261
 STRING_EN[7261] = {}
 	STRING_EN[7261]["ID"] = 7261
 	STRING_EN[7261]["KEY"] = "BATTERY_UP31"
-	STRING_EN[7261]["VALUE"] = "Shoucheng Fort XXX"
+	STRING_EN[7261]["VALUE"] = "City Turret XXX"
 	STRING_EN[7261]["real_idx"] = 7261
 
 STRING_EN["index"][7262] = 7262
 STRING_EN[7262] = {}
 	STRING_EN[7262]["ID"] = 7262
 	STRING_EN[7262]["KEY"] = "BATTERY_UP32"
-	STRING_EN[7262]["VALUE"] = "Shoucheng Fort XXXI"
+	STRING_EN[7262]["VALUE"] = "City Turret XXXI"
 	STRING_EN[7262]["real_idx"] = 7262
 
 STRING_EN["index"][7263] = 7263
 STRING_EN[7263] = {}
 	STRING_EN[7263]["ID"] = 7263
 	STRING_EN[7263]["KEY"] = "BATTERY_UP33"
-	STRING_EN[7263]["VALUE"] = "Shoucheng Fort XXXII"
+	STRING_EN[7263]["VALUE"] = "City Turret XXXII"
 	STRING_EN[7263]["real_idx"] = 7263
 
 STRING_EN["index"][7264] = 7264
 STRING_EN[7264] = {}
 	STRING_EN[7264]["ID"] = 7264
 	STRING_EN[7264]["KEY"] = "BATTERY_UP34"
-	STRING_EN[7264]["VALUE"] = "Shoucheng Fort XXXIII"
+	STRING_EN[7264]["VALUE"] = "City Turret XXXIII"
 	STRING_EN[7264]["real_idx"] = 7264
 
 STRING_EN["index"][7265] = 7265
 STRING_EN[7265] = {}
 	STRING_EN[7265]["ID"] = 7265
 	STRING_EN[7265]["KEY"] = "BATTERY_UP35"
-	STRING_EN[7265]["VALUE"] = "Shoucheng Fort XXXIV"
+	STRING_EN[7265]["VALUE"] = "City Turret XXXIV"
 	STRING_EN[7265]["real_idx"] = 7265
 
 STRING_EN["index"][7266] = 7266
 STRING_EN[7266] = {}
 	STRING_EN[7266]["ID"] = 7266
 	STRING_EN[7266]["KEY"] = "BATTERY_UP36"
-	STRING_EN[7266]["VALUE"] = "Shoucheng Fort XXXV"
+	STRING_EN[7266]["VALUE"] = "City Turret XXXV"
 	STRING_EN[7266]["real_idx"] = 7266
 
 STRING_EN["index"][7267] = 7267
 STRING_EN[7267] = {}
 	STRING_EN[7267]["ID"] = 7267
 	STRING_EN[7267]["KEY"] = "BATTERY_UP37"
-	STRING_EN[7267]["VALUE"] = "Shoucheng Fort XXXVI"
+	STRING_EN[7267]["VALUE"] = "City Turret XXXVI"
 	STRING_EN[7267]["real_idx"] = 7267
 
 STRING_EN["index"][7268] = 7268
 STRING_EN[7268] = {}
 	STRING_EN[7268]["ID"] = 7268
 	STRING_EN[7268]["KEY"] = "BATTERY_UP38"
-	STRING_EN[7268]["VALUE"] = "Shoucheng Fort XXXVII"
+	STRING_EN[7268]["VALUE"] = "City Turret XXXVII"
 	STRING_EN[7268]["real_idx"] = 7268
 
 STRING_EN["index"][7269] = 7269
 STRING_EN[7269] = {}
 	STRING_EN[7269]["ID"] = 7269
 	STRING_EN[7269]["KEY"] = "BATTERY_UP39"
-	STRING_EN[7269]["VALUE"] = "Shoucheng Fort XXXVIII"
+	STRING_EN[7269]["VALUE"] = "City Turret XXXVIII"
 	STRING_EN[7269]["real_idx"] = 7269
 
 STRING_EN["index"][7270] = 7270
 STRING_EN[7270] = {}
 	STRING_EN[7270]["ID"] = 7270
 	STRING_EN[7270]["KEY"] = "BATTERY_UP40"
-	STRING_EN[7270]["VALUE"] = "Shoucheng Fort XXXIX"
+	STRING_EN[7270]["VALUE"] = "City Turret XXXIX"
 	STRING_EN[7270]["real_idx"] = 7270
 
 STRING_EN["index"][7271] = 7271
 STRING_EN[7271] = {}
 	STRING_EN[7271]["ID"] = 7271
 	STRING_EN[7271]["KEY"] = "BATTERY_UP41"
-	STRING_EN[7271]["VALUE"] = "Shoucheng Fort XL"
+	STRING_EN[7271]["VALUE"] = "City Turret XL"
 	STRING_EN[7271]["real_idx"] = 7271
 
 STRING_EN["index"][7272] = 7272
 STRING_EN[7272] = {}
 	STRING_EN[7272]["ID"] = 7272
 	STRING_EN[7272]["KEY"] = "BATTERY_UP42"
-	STRING_EN[7272]["VALUE"] = "Shoucheng Fort XLI"
+	STRING_EN[7272]["VALUE"] = "City Turret XLI"
 	STRING_EN[7272]["real_idx"] = 7272
 
 STRING_EN["index"][7273] = 7273
 STRING_EN[7273] = {}
 	STRING_EN[7273]["ID"] = 7273
 	STRING_EN[7273]["KEY"] = "BATTERY_UP43"
-	STRING_EN[7273]["VALUE"] = "Shoucheng Fort XLII"
+	STRING_EN[7273]["VALUE"] = "City Turret XLII"
 	STRING_EN[7273]["real_idx"] = 7273
 
 STRING_EN["index"][7274] = 7274
 STRING_EN[7274] = {}
 	STRING_EN[7274]["ID"] = 7274
 	STRING_EN[7274]["KEY"] = "BATTERY_UP44"
-	STRING_EN[7274]["VALUE"] = "Shoucheng Fort XLIII"
+	STRING_EN[7274]["VALUE"] = "City Turret XLIII"
 	STRING_EN[7274]["real_idx"] = 7274
 
 STRING_EN["index"][7275] = 7275
 STRING_EN[7275] = {}
 	STRING_EN[7275]["ID"] = 7275
 	STRING_EN[7275]["KEY"] = "BATTERY_UP45"
-	STRING_EN[7275]["VALUE"] = "Shoucheng Fort XLIV"
+	STRING_EN[7275]["VALUE"] = "City Turret XLIV"
 	STRING_EN[7275]["real_idx"] = 7275
 
 STRING_EN["index"][7276] = 7276
 STRING_EN[7276] = {}
 	STRING_EN[7276]["ID"] = 7276
 	STRING_EN[7276]["KEY"] = "FOREIGN_BURRAU_UP2"
-	STRING_EN[7276]["VALUE"] = "Foreign Bureau I"
+	STRING_EN[7276]["VALUE"] = "Foreign Affairs Bureau I"
 	STRING_EN[7276]["real_idx"] = 7276
 
 STRING_EN["index"][7277] = 7277
 STRING_EN[7277] = {}
 	STRING_EN[7277]["ID"] = 7277
 	STRING_EN[7277]["KEY"] = "FOREIGN_BURRAU_UP3"
-	STRING_EN[7277]["VALUE"] = "Foreign Bureau II"
+	STRING_EN[7277]["VALUE"] = "Foreign Affairs Bureau II"
 	STRING_EN[7277]["real_idx"] = 7277
 
 STRING_EN["index"][7278] = 7278
 STRING_EN[7278] = {}
 	STRING_EN[7278]["ID"] = 7278
 	STRING_EN[7278]["KEY"] = "FOREIGN_BURRAU_UP4"
-	STRING_EN[7278]["VALUE"] = "Foreign Bureau III"
+	STRING_EN[7278]["VALUE"] = "Foreign Affairs Bureau III"
 	STRING_EN[7278]["real_idx"] = 7278
 
 STRING_EN["index"][7279] = 7279
 STRING_EN[7279] = {}
 	STRING_EN[7279]["ID"] = 7279
 	STRING_EN[7279]["KEY"] = "FOREIGN_BURRAU_UP5"
-	STRING_EN[7279]["VALUE"] = "Foreign Bureau IV"
+	STRING_EN[7279]["VALUE"] = "Foreign Affairs Bureau IV"
 	STRING_EN[7279]["real_idx"] = 7279
 
 STRING_EN["index"][7280] = 7280
 STRING_EN[7280] = {}
 	STRING_EN[7280]["ID"] = 7280
 	STRING_EN[7280]["KEY"] = "FOREIGN_BURRAU_UP6"
-	STRING_EN[7280]["VALUE"] = "Foreign Bureau V"
+	STRING_EN[7280]["VALUE"] = "Foreign Affairs Bureau V"
 	STRING_EN[7280]["real_idx"] = 7280
 
 STRING_EN["index"][7281] = 7281
 STRING_EN[7281] = {}
 	STRING_EN[7281]["ID"] = 7281
 	STRING_EN[7281]["KEY"] = "FOREIGN_BURRAU_UP7"
-	STRING_EN[7281]["VALUE"] = "Foreign Bureau VI"
+	STRING_EN[7281]["VALUE"] = "Foreign Affairs Bureau VI"
 	STRING_EN[7281]["real_idx"] = 7281
 
 STRING_EN["index"][7282] = 7282
 STRING_EN[7282] = {}
 	STRING_EN[7282]["ID"] = 7282
 	STRING_EN[7282]["KEY"] = "FOREIGN_BURRAU_UP8"
-	STRING_EN[7282]["VALUE"] = "Foreign Bureau VII"
+	STRING_EN[7282]["VALUE"] = "Foreign Affairs Bureau VII"
 	STRING_EN[7282]["real_idx"] = 7282
 
 STRING_EN["index"][7283] = 7283
 STRING_EN[7283] = {}
 	STRING_EN[7283]["ID"] = 7283
 	STRING_EN[7283]["KEY"] = "FOREIGN_BURRAU_UP9"
-	STRING_EN[7283]["VALUE"] = "Foreign Bureau VIII"
+	STRING_EN[7283]["VALUE"] = "Foreign Affairs Bureau VIII"
 	STRING_EN[7283]["real_idx"] = 7283
 
 STRING_EN["index"][7284] = 7284
 STRING_EN[7284] = {}
 	STRING_EN[7284]["ID"] = 7284
 	STRING_EN[7284]["KEY"] = "FOREIGN_BURRAU_UP10"
-	STRING_EN[7284]["VALUE"] = "Foreign Bureau IX"
+	STRING_EN[7284]["VALUE"] = "Foreign Affairs Bureau IX"
 	STRING_EN[7284]["real_idx"] = 7284
 
 STRING_EN["index"][7285] = 7285
 STRING_EN[7285] = {}
 	STRING_EN[7285]["ID"] = 7285
 	STRING_EN[7285]["KEY"] = "FOREIGN_BURRAU_UP11"
-	STRING_EN[7285]["VALUE"] = "Foreign Bureau X"
+	STRING_EN[7285]["VALUE"] = "Foreign Affairs Bureau X"
 	STRING_EN[7285]["real_idx"] = 7285
 
 STRING_EN["index"][7286] = 7286
 STRING_EN[7286] = {}
 	STRING_EN[7286]["ID"] = 7286
 	STRING_EN[7286]["KEY"] = "FOREIGN_BURRAU_UP12"
-	STRING_EN[7286]["VALUE"] = "Foreign Bureau XI"
+	STRING_EN[7286]["VALUE"] = "Foreign Affairs Bureau XI"
 	STRING_EN[7286]["real_idx"] = 7286
 
 STRING_EN["index"][7287] = 7287
 STRING_EN[7287] = {}
 	STRING_EN[7287]["ID"] = 7287
 	STRING_EN[7287]["KEY"] = "FOREIGN_BURRAU_UP13"
-	STRING_EN[7287]["VALUE"] = "Foreign Bureau XII"
+	STRING_EN[7287]["VALUE"] = "Foreign Affairs Bureau XII"
 	STRING_EN[7287]["real_idx"] = 7287
 
 STRING_EN["index"][7288] = 7288
 STRING_EN[7288] = {}
 	STRING_EN[7288]["ID"] = 7288
 	STRING_EN[7288]["KEY"] = "FOREIGN_BURRAU_UP14"
-	STRING_EN[7288]["VALUE"] = "Foreign Bureau XIII"
+	STRING_EN[7288]["VALUE"] = "Foreign Affairs Bureau XIII"
 	STRING_EN[7288]["real_idx"] = 7288
 
 STRING_EN["index"][7289] = 7289
 STRING_EN[7289] = {}
 	STRING_EN[7289]["ID"] = 7289
 	STRING_EN[7289]["KEY"] = "FOREIGN_BURRAU_UP15"
-	STRING_EN[7289]["VALUE"] = "Foreign Bureau XIV"
+	STRING_EN[7289]["VALUE"] = "Foreign Affairs Bureau XIV"
 	STRING_EN[7289]["real_idx"] = 7289
 
 STRING_EN["index"][7290] = 7290
 STRING_EN[7290] = {}
 	STRING_EN[7290]["ID"] = 7290
 	STRING_EN[7290]["KEY"] = "FOREIGN_BURRAU_UP16"
-	STRING_EN[7290]["VALUE"] = "Foreign Bureau XV"
+	STRING_EN[7290]["VALUE"] = "Foreign Affairs Bureau XV"
 	STRING_EN[7290]["real_idx"] = 7290
 
 STRING_EN["index"][7291] = 7291
 STRING_EN[7291] = {}
 	STRING_EN[7291]["ID"] = 7291
 	STRING_EN[7291]["KEY"] = "FOREIGN_BURRAU_UP17"
-	STRING_EN[7291]["VALUE"] = "Foreign Bureau XVI"
+	STRING_EN[7291]["VALUE"] = "Foreign Affairs Bureau XVI"
 	STRING_EN[7291]["real_idx"] = 7291
 
 STRING_EN["index"][7292] = 7292
 STRING_EN[7292] = {}
 	STRING_EN[7292]["ID"] = 7292
 	STRING_EN[7292]["KEY"] = "FOREIGN_BURRAU_UP18"
-	STRING_EN[7292]["VALUE"] = "Foreign Bureau XVII"
+	STRING_EN[7292]["VALUE"] = "Foreign Affairs Bureau XVII"
 	STRING_EN[7292]["real_idx"] = 7292
 
 STRING_EN["index"][7293] = 7293
 STRING_EN[7293] = {}
 	STRING_EN[7293]["ID"] = 7293
 	STRING_EN[7293]["KEY"] = "FOREIGN_BURRAU_UP19"
-	STRING_EN[7293]["VALUE"] = "Foreign Bureau XVIII"
+	STRING_EN[7293]["VALUE"] = "Foreign Affairs Bureau XVIII"
 	STRING_EN[7293]["real_idx"] = 7293
 
 STRING_EN["index"][7294] = 7294
 STRING_EN[7294] = {}
 	STRING_EN[7294]["ID"] = 7294
 	STRING_EN[7294]["KEY"] = "FOREIGN_BURRAU_UP20"
-	STRING_EN[7294]["VALUE"] = "Foreign Bureau XIX"
+	STRING_EN[7294]["VALUE"] = "Foreign Affairs Bureau XIX"
 	STRING_EN[7294]["real_idx"] = 7294
 
 STRING_EN["index"][7295] = 7295
 STRING_EN[7295] = {}
 	STRING_EN[7295]["ID"] = 7295
 	STRING_EN[7295]["KEY"] = "FOREIGN_BURRAU_UP21"
-	STRING_EN[7295]["VALUE"] = "Foreign Bureau XX"
+	STRING_EN[7295]["VALUE"] = "Foreign Affairs Bureau XX"
 	STRING_EN[7295]["real_idx"] = 7295
 
 STRING_EN["index"][7296] = 7296
 STRING_EN[7296] = {}
 	STRING_EN[7296]["ID"] = 7296
 	STRING_EN[7296]["KEY"] = "FOREIGN_BURRAU_UP22"
-	STRING_EN[7296]["VALUE"] = "Foreign Bureau XXI"
+	STRING_EN[7296]["VALUE"] = "Foreign Affairs Bureau XXI"
 	STRING_EN[7296]["real_idx"] = 7296
 
 STRING_EN["index"][7297] = 7297
 STRING_EN[7297] = {}
 	STRING_EN[7297]["ID"] = 7297
 	STRING_EN[7297]["KEY"] = "FOREIGN_BURRAU_UP23"
-	STRING_EN[7297]["VALUE"] = "Foreign Bureau XXII"
+	STRING_EN[7297]["VALUE"] = "Foreign Affairs Bureau XXII"
 	STRING_EN[7297]["real_idx"] = 7297
 
 STRING_EN["index"][7298] = 7298
 STRING_EN[7298] = {}
 	STRING_EN[7298]["ID"] = 7298
 	STRING_EN[7298]["KEY"] = "FOREIGN_BURRAU_UP24"
-	STRING_EN[7298]["VALUE"] = "Foreign Bureau XXIII"
+	STRING_EN[7298]["VALUE"] = "Foreign Affairs Bureau XXIII"
 	STRING_EN[7298]["real_idx"] = 7298
 
 STRING_EN["index"][7299] = 7299
 STRING_EN[7299] = {}
 	STRING_EN[7299]["ID"] = 7299
 	STRING_EN[7299]["KEY"] = "FOREIGN_BURRAU_UP25"
-	STRING_EN[7299]["VALUE"] = "Foreign Bureau XXIV"
+	STRING_EN[7299]["VALUE"] = "Foreign Affairs Bureau XXIV"
 	STRING_EN[7299]["real_idx"] = 7299
 
 STRING_EN["index"][7300] = 7300
 STRING_EN[7300] = {}
 	STRING_EN[7300]["ID"] = 7300
 	STRING_EN[7300]["KEY"] = "FOREIGN_BURRAU_UP26"
-	STRING_EN[7300]["VALUE"] = "Foreign Bureau XXV"
+	STRING_EN[7300]["VALUE"] = "Foreign Affairs Bureau XXV"
 	STRING_EN[7300]["real_idx"] = 7300
 
 STRING_EN["index"][7301] = 7301
 STRING_EN[7301] = {}
 	STRING_EN[7301]["ID"] = 7301
 	STRING_EN[7301]["KEY"] = "FOREIGN_BURRAU_UP27"
-	STRING_EN[7301]["VALUE"] = "Foreign Bureau XXVI"
+	STRING_EN[7301]["VALUE"] = "Foreign Affairs Bureau XXVI"
 	STRING_EN[7301]["real_idx"] = 7301
 
 STRING_EN["index"][7302] = 7302
 STRING_EN[7302] = {}
 	STRING_EN[7302]["ID"] = 7302
 	STRING_EN[7302]["KEY"] = "FOREIGN_BURRAU_UP28"
-	STRING_EN[7302]["VALUE"] = "Foreign Bureau XXVII"
+	STRING_EN[7302]["VALUE"] = "Foreign Affairs Bureau XXVII"
 	STRING_EN[7302]["real_idx"] = 7302
 
 STRING_EN["index"][7303] = 7303
 STRING_EN[7303] = {}
 	STRING_EN[7303]["ID"] = 7303
 	STRING_EN[7303]["KEY"] = "FOREIGN_BURRAU_UP29"
-	STRING_EN[7303]["VALUE"] = "Foreign Bureau XXVIII"
+	STRING_EN[7303]["VALUE"] = "Foreign Affairs Bureau XXVIII"
 	STRING_EN[7303]["real_idx"] = 7303
 
 STRING_EN["index"][7304] = 7304
 STRING_EN[7304] = {}
 	STRING_EN[7304]["ID"] = 7304
 	STRING_EN[7304]["KEY"] = "FOREIGN_BURRAU_UP30"
-	STRING_EN[7304]["VALUE"] = "Foreign Bureau XXIX"
+	STRING_EN[7304]["VALUE"] = "Foreign Affairs Bureau XXIX"
 	STRING_EN[7304]["real_idx"] = 7304
 
 STRING_EN["index"][7305] = 7305
 STRING_EN[7305] = {}
 	STRING_EN[7305]["ID"] = 7305
 	STRING_EN[7305]["KEY"] = "FOREIGN_BURRAU_UP31"
-	STRING_EN[7305]["VALUE"] = "Foreign Bureau XXX"
+	STRING_EN[7305]["VALUE"] = "Foreign Affairs Bureau XXX"
 	STRING_EN[7305]["real_idx"] = 7305
 
 STRING_EN["index"][7306] = 7306
 STRING_EN[7306] = {}
 	STRING_EN[7306]["ID"] = 7306
 	STRING_EN[7306]["KEY"] = "FOREIGN_BURRAU_UP32"
-	STRING_EN[7306]["VALUE"] = "Foreign Bureau XXXI"
+	STRING_EN[7306]["VALUE"] = "Foreign Affairs Bureau XXXI"
 	STRING_EN[7306]["real_idx"] = 7306
 
 STRING_EN["index"][7307] = 7307
 STRING_EN[7307] = {}
 	STRING_EN[7307]["ID"] = 7307
 	STRING_EN[7307]["KEY"] = "FOREIGN_BURRAU_UP33"
-	STRING_EN[7307]["VALUE"] = "Foreign Bureau XXXII"
+	STRING_EN[7307]["VALUE"] = "Foreign Affairs Bureau XXXII"
 	STRING_EN[7307]["real_idx"] = 7307
 
 STRING_EN["index"][7308] = 7308
 STRING_EN[7308] = {}
 	STRING_EN[7308]["ID"] = 7308
 	STRING_EN[7308]["KEY"] = "FOREIGN_BURRAU_UP34"
-	STRING_EN[7308]["VALUE"] = "Foreign Bureau XXXIII"
+	STRING_EN[7308]["VALUE"] = "Foreign Affairs Bureau XXXIII"
 	STRING_EN[7308]["real_idx"] = 7308
 
 STRING_EN["index"][7309] = 7309
 STRING_EN[7309] = {}
 	STRING_EN[7309]["ID"] = 7309
 	STRING_EN[7309]["KEY"] = "FOREIGN_BURRAU_UP35"
-	STRING_EN[7309]["VALUE"] = "Foreign Bureau XXXIV"
+	STRING_EN[7309]["VALUE"] = "Foreign Affairs Bureau XXXIV"
 	STRING_EN[7309]["real_idx"] = 7309
 
 STRING_EN["index"][7310] = 7310
 STRING_EN[7310] = {}
 	STRING_EN[7310]["ID"] = 7310
 	STRING_EN[7310]["KEY"] = "FOREIGN_BURRAU_UP36"
-	STRING_EN[7310]["VALUE"] = "Foreign Bureau XXXV"
+	STRING_EN[7310]["VALUE"] = "Foreign Affairs Bureau XXXV"
 	STRING_EN[7310]["real_idx"] = 7310
 
 STRING_EN["index"][7311] = 7311
 STRING_EN[7311] = {}
 	STRING_EN[7311]["ID"] = 7311
 	STRING_EN[7311]["KEY"] = "FOREIGN_BURRAU_UP37"
-	STRING_EN[7311]["VALUE"] = "Foreign Bureau XXXVI"
+	STRING_EN[7311]["VALUE"] = "Foreign Affairs Bureau XXXVI"
 	STRING_EN[7311]["real_idx"] = 7311
 
 STRING_EN["index"][7312] = 7312
 STRING_EN[7312] = {}
 	STRING_EN[7312]["ID"] = 7312
 	STRING_EN[7312]["KEY"] = "FOREIGN_BURRAU_UP38"
-	STRING_EN[7312]["VALUE"] = "Foreign Bureau XXXVII"
+	STRING_EN[7312]["VALUE"] = "Foreign Affairs Bureau XXXVII"
 	STRING_EN[7312]["real_idx"] = 7312
 
 STRING_EN["index"][7313] = 7313
 STRING_EN[7313] = {}
 	STRING_EN[7313]["ID"] = 7313
 	STRING_EN[7313]["KEY"] = "FOREIGN_BURRAU_UP39"
-	STRING_EN[7313]["VALUE"] = "Foreign Bureau XXXVIII"
+	STRING_EN[7313]["VALUE"] = "Foreign Affairs Bureau XXXVIII"
 	STRING_EN[7313]["real_idx"] = 7313
 
 STRING_EN["index"][7314] = 7314
 STRING_EN[7314] = {}
 	STRING_EN[7314]["ID"] = 7314
 	STRING_EN[7314]["KEY"] = "FOREIGN_BURRAU_UP40"
-	STRING_EN[7314]["VALUE"] = "Foreign Bureau XXXIX"
+	STRING_EN[7314]["VALUE"] = "Foreign Affairs Bureau XXXIX"
 	STRING_EN[7314]["real_idx"] = 7314
 
 STRING_EN["index"][7315] = 7315
 STRING_EN[7315] = {}
 	STRING_EN[7315]["ID"] = 7315
 	STRING_EN[7315]["KEY"] = "FOREIGN_BURRAU_UP41"
-	STRING_EN[7315]["VALUE"] = "Foreign Bureau XL"
+	STRING_EN[7315]["VALUE"] = "Foreign Affairs Bureau XL"
 	STRING_EN[7315]["real_idx"] = 7315
 
 STRING_EN["index"][7316] = 7316
 STRING_EN[7316] = {}
 	STRING_EN[7316]["ID"] = 7316
 	STRING_EN[7316]["KEY"] = "FOREIGN_BURRAU_UP42"
-	STRING_EN[7316]["VALUE"] = "Foreign Bureau XLI"
+	STRING_EN[7316]["VALUE"] = "Foreign Affairs Bureau XLI"
 	STRING_EN[7316]["real_idx"] = 7316
 
 STRING_EN["index"][7317] = 7317
 STRING_EN[7317] = {}
 	STRING_EN[7317]["ID"] = 7317
 	STRING_EN[7317]["KEY"] = "FOREIGN_BURRAU_UP43"
-	STRING_EN[7317]["VALUE"] = "Foreign Bureau XLII"
+	STRING_EN[7317]["VALUE"] = "Foreign Affairs Bureau XLII"
 	STRING_EN[7317]["real_idx"] = 7317
 
 STRING_EN["index"][7318] = 7318
 STRING_EN[7318] = {}
 	STRING_EN[7318]["ID"] = 7318
 	STRING_EN[7318]["KEY"] = "FOREIGN_BURRAU_UP44"
-	STRING_EN[7318]["VALUE"] = "Foreign Bureau XLIII"
+	STRING_EN[7318]["VALUE"] = "Foreign Affairs Bureau XLIII"
 	STRING_EN[7318]["real_idx"] = 7318
 
 STRING_EN["index"][7319] = 7319
 STRING_EN[7319] = {}
 	STRING_EN[7319]["ID"] = 7319
 	STRING_EN[7319]["KEY"] = "FOREIGN_BURRAU_UP45"
-	STRING_EN[7319]["VALUE"] = "Foreign Bureau XLIV"
+	STRING_EN[7319]["VALUE"] = "Foreign Affairs Bureau XLIV"
 	STRING_EN[7319]["real_idx"] = 7319
 
 STRING_EN["index"][7320] = 7320
@@ -51853,1239 +51853,1239 @@ STRING_EN["index"][7408] = 7408
 STRING_EN[7408] = {}
 	STRING_EN[7408]["ID"] = 7408
 	STRING_EN[7408]["KEY"] = "FORGE_UP2"
-	STRING_EN[7408]["VALUE"] = "Forging Center I"
+	STRING_EN[7408]["VALUE"] = "Forging Workshop I"
 	STRING_EN[7408]["real_idx"] = 7408
 
 STRING_EN["index"][7409] = 7409
 STRING_EN[7409] = {}
 	STRING_EN[7409]["ID"] = 7409
 	STRING_EN[7409]["KEY"] = "FORGE_UP3"
-	STRING_EN[7409]["VALUE"] = "Forging Center II"
+	STRING_EN[7409]["VALUE"] = "Forging Workshop II"
 	STRING_EN[7409]["real_idx"] = 7409
 
 STRING_EN["index"][7410] = 7410
 STRING_EN[7410] = {}
 	STRING_EN[7410]["ID"] = 7410
 	STRING_EN[7410]["KEY"] = "FORGE_UP4"
-	STRING_EN[7410]["VALUE"] = "Forging Center III"
+	STRING_EN[7410]["VALUE"] = "Forging Workshop III"
 	STRING_EN[7410]["real_idx"] = 7410
 
 STRING_EN["index"][7411] = 7411
 STRING_EN[7411] = {}
 	STRING_EN[7411]["ID"] = 7411
 	STRING_EN[7411]["KEY"] = "FORGE_UP5"
-	STRING_EN[7411]["VALUE"] = "Forging Center IV"
+	STRING_EN[7411]["VALUE"] = "Forging Workshop IV"
 	STRING_EN[7411]["real_idx"] = 7411
 
 STRING_EN["index"][7412] = 7412
 STRING_EN[7412] = {}
 	STRING_EN[7412]["ID"] = 7412
 	STRING_EN[7412]["KEY"] = "FORGE_UP6"
-	STRING_EN[7412]["VALUE"] = "Forging Center V"
+	STRING_EN[7412]["VALUE"] = "Forging Workshop V"
 	STRING_EN[7412]["real_idx"] = 7412
 
 STRING_EN["index"][7413] = 7413
 STRING_EN[7413] = {}
 	STRING_EN[7413]["ID"] = 7413
 	STRING_EN[7413]["KEY"] = "FORGE_UP7"
-	STRING_EN[7413]["VALUE"] = "Forging Center VI"
+	STRING_EN[7413]["VALUE"] = "Forging Workshop VI"
 	STRING_EN[7413]["real_idx"] = 7413
 
 STRING_EN["index"][7414] = 7414
 STRING_EN[7414] = {}
 	STRING_EN[7414]["ID"] = 7414
 	STRING_EN[7414]["KEY"] = "FORGE_UP8"
-	STRING_EN[7414]["VALUE"] = "Forging Center VII"
+	STRING_EN[7414]["VALUE"] = "Forging Workshop VII"
 	STRING_EN[7414]["real_idx"] = 7414
 
 STRING_EN["index"][7415] = 7415
 STRING_EN[7415] = {}
 	STRING_EN[7415]["ID"] = 7415
 	STRING_EN[7415]["KEY"] = "FORGE_UP9"
-	STRING_EN[7415]["VALUE"] = "Forging Center VIII"
+	STRING_EN[7415]["VALUE"] = "Forging Workshop VIII"
 	STRING_EN[7415]["real_idx"] = 7415
 
 STRING_EN["index"][7416] = 7416
 STRING_EN[7416] = {}
 	STRING_EN[7416]["ID"] = 7416
 	STRING_EN[7416]["KEY"] = "FORGE_UP10"
-	STRING_EN[7416]["VALUE"] = "Forging Center IX"
+	STRING_EN[7416]["VALUE"] = "Forging Workshop IX"
 	STRING_EN[7416]["real_idx"] = 7416
 
 STRING_EN["index"][7417] = 7417
 STRING_EN[7417] = {}
 	STRING_EN[7417]["ID"] = 7417
 	STRING_EN[7417]["KEY"] = "FORGE_UP11"
-	STRING_EN[7417]["VALUE"] = "Forging Center X"
+	STRING_EN[7417]["VALUE"] = "Forging Workshop X"
 	STRING_EN[7417]["real_idx"] = 7417
 
 STRING_EN["index"][7418] = 7418
 STRING_EN[7418] = {}
 	STRING_EN[7418]["ID"] = 7418
 	STRING_EN[7418]["KEY"] = "FORGE_UP12"
-	STRING_EN[7418]["VALUE"] = "Forging Center XI"
+	STRING_EN[7418]["VALUE"] = "Forging Workshop XI"
 	STRING_EN[7418]["real_idx"] = 7418
 
 STRING_EN["index"][7419] = 7419
 STRING_EN[7419] = {}
 	STRING_EN[7419]["ID"] = 7419
 	STRING_EN[7419]["KEY"] = "FORGE_UP13"
-	STRING_EN[7419]["VALUE"] = "Forging Center XII"
+	STRING_EN[7419]["VALUE"] = "Forging Workshop XII"
 	STRING_EN[7419]["real_idx"] = 7419
 
 STRING_EN["index"][7420] = 7420
 STRING_EN[7420] = {}
 	STRING_EN[7420]["ID"] = 7420
 	STRING_EN[7420]["KEY"] = "FORGE_UP14"
-	STRING_EN[7420]["VALUE"] = "Forging Center XIII"
+	STRING_EN[7420]["VALUE"] = "Forging Workshop XIII"
 	STRING_EN[7420]["real_idx"] = 7420
 
 STRING_EN["index"][7421] = 7421
 STRING_EN[7421] = {}
 	STRING_EN[7421]["ID"] = 7421
 	STRING_EN[7421]["KEY"] = "FORGE_UP15"
-	STRING_EN[7421]["VALUE"] = "Forging Center XIV"
+	STRING_EN[7421]["VALUE"] = "Forging Workshop XIV"
 	STRING_EN[7421]["real_idx"] = 7421
 
 STRING_EN["index"][7422] = 7422
 STRING_EN[7422] = {}
 	STRING_EN[7422]["ID"] = 7422
 	STRING_EN[7422]["KEY"] = "FORGE_UP16"
-	STRING_EN[7422]["VALUE"] = "Forging Center XV"
+	STRING_EN[7422]["VALUE"] = "Forging Workshop XV"
 	STRING_EN[7422]["real_idx"] = 7422
 
 STRING_EN["index"][7423] = 7423
 STRING_EN[7423] = {}
 	STRING_EN[7423]["ID"] = 7423
 	STRING_EN[7423]["KEY"] = "FORGE_UP17"
-	STRING_EN[7423]["VALUE"] = "Forging Center XVI"
+	STRING_EN[7423]["VALUE"] = "Forging Workshop XVI"
 	STRING_EN[7423]["real_idx"] = 7423
 
 STRING_EN["index"][7424] = 7424
 STRING_EN[7424] = {}
 	STRING_EN[7424]["ID"] = 7424
 	STRING_EN[7424]["KEY"] = "FORGE_UP18"
-	STRING_EN[7424]["VALUE"] = "Forging Center XVII"
+	STRING_EN[7424]["VALUE"] = "Forging Workshop XVII"
 	STRING_EN[7424]["real_idx"] = 7424
 
 STRING_EN["index"][7425] = 7425
 STRING_EN[7425] = {}
 	STRING_EN[7425]["ID"] = 7425
 	STRING_EN[7425]["KEY"] = "FORGE_UP19"
-	STRING_EN[7425]["VALUE"] = "Forging Center XVIII"
+	STRING_EN[7425]["VALUE"] = "Forging Workshop XVIII"
 	STRING_EN[7425]["real_idx"] = 7425
 
 STRING_EN["index"][7426] = 7426
 STRING_EN[7426] = {}
 	STRING_EN[7426]["ID"] = 7426
 	STRING_EN[7426]["KEY"] = "FORGE_UP20"
-	STRING_EN[7426]["VALUE"] = "Forging Center XIX"
+	STRING_EN[7426]["VALUE"] = "Forging Workshop XIX"
 	STRING_EN[7426]["real_idx"] = 7426
 
 STRING_EN["index"][7427] = 7427
 STRING_EN[7427] = {}
 	STRING_EN[7427]["ID"] = 7427
 	STRING_EN[7427]["KEY"] = "FORGE_UP21"
-	STRING_EN[7427]["VALUE"] = "Forging Center XX"
+	STRING_EN[7427]["VALUE"] = "Forging Workshop XX"
 	STRING_EN[7427]["real_idx"] = 7427
 
 STRING_EN["index"][7428] = 7428
 STRING_EN[7428] = {}
 	STRING_EN[7428]["ID"] = 7428
 	STRING_EN[7428]["KEY"] = "FORGE_UP22"
-	STRING_EN[7428]["VALUE"] = "Forging Center XXI"
+	STRING_EN[7428]["VALUE"] = "Forging Workshop XXI"
 	STRING_EN[7428]["real_idx"] = 7428
 
 STRING_EN["index"][7429] = 7429
 STRING_EN[7429] = {}
 	STRING_EN[7429]["ID"] = 7429
 	STRING_EN[7429]["KEY"] = "FORGE_UP23"
-	STRING_EN[7429]["VALUE"] = "Forging Center XXII"
+	STRING_EN[7429]["VALUE"] = "Forging Workshop XXII"
 	STRING_EN[7429]["real_idx"] = 7429
 
 STRING_EN["index"][7430] = 7430
 STRING_EN[7430] = {}
 	STRING_EN[7430]["ID"] = 7430
 	STRING_EN[7430]["KEY"] = "FORGE_UP24"
-	STRING_EN[7430]["VALUE"] = "Forging Center XXIII"
+	STRING_EN[7430]["VALUE"] = "Forging Workshop XXIII"
 	STRING_EN[7430]["real_idx"] = 7430
 
 STRING_EN["index"][7431] = 7431
 STRING_EN[7431] = {}
 	STRING_EN[7431]["ID"] = 7431
 	STRING_EN[7431]["KEY"] = "FORGE_UP25"
-	STRING_EN[7431]["VALUE"] = "Forging Center XXIV"
+	STRING_EN[7431]["VALUE"] = "Forging Workshop XXIV"
 	STRING_EN[7431]["real_idx"] = 7431
 
 STRING_EN["index"][7432] = 7432
 STRING_EN[7432] = {}
 	STRING_EN[7432]["ID"] = 7432
 	STRING_EN[7432]["KEY"] = "FORGE_UP26"
-	STRING_EN[7432]["VALUE"] = "Forging Center XXV"
+	STRING_EN[7432]["VALUE"] = "Forging Workshop XXV"
 	STRING_EN[7432]["real_idx"] = 7432
 
 STRING_EN["index"][7433] = 7433
 STRING_EN[7433] = {}
 	STRING_EN[7433]["ID"] = 7433
 	STRING_EN[7433]["KEY"] = "FORGE_UP27"
-	STRING_EN[7433]["VALUE"] = "Forging Center XXVI"
+	STRING_EN[7433]["VALUE"] = "Forging Workshop XXVI"
 	STRING_EN[7433]["real_idx"] = 7433
 
 STRING_EN["index"][7434] = 7434
 STRING_EN[7434] = {}
 	STRING_EN[7434]["ID"] = 7434
 	STRING_EN[7434]["KEY"] = "FORGE_UP28"
-	STRING_EN[7434]["VALUE"] = "Forging Center XXVII"
+	STRING_EN[7434]["VALUE"] = "Forging Workshop XXVII"
 	STRING_EN[7434]["real_idx"] = 7434
 
 STRING_EN["index"][7435] = 7435
 STRING_EN[7435] = {}
 	STRING_EN[7435]["ID"] = 7435
 	STRING_EN[7435]["KEY"] = "FORGE_UP29"
-	STRING_EN[7435]["VALUE"] = "Forging Center XXVIII"
+	STRING_EN[7435]["VALUE"] = "Forging Workshop XXVIII"
 	STRING_EN[7435]["real_idx"] = 7435
 
 STRING_EN["index"][7436] = 7436
 STRING_EN[7436] = {}
 	STRING_EN[7436]["ID"] = 7436
 	STRING_EN[7436]["KEY"] = "FORGE_UP30"
-	STRING_EN[7436]["VALUE"] = "Forging Center XXIX"
+	STRING_EN[7436]["VALUE"] = "Forging Workshop XXIX"
 	STRING_EN[7436]["real_idx"] = 7436
 
 STRING_EN["index"][7437] = 7437
 STRING_EN[7437] = {}
 	STRING_EN[7437]["ID"] = 7437
 	STRING_EN[7437]["KEY"] = "FORGE_UP31"
-	STRING_EN[7437]["VALUE"] = "Forging Center XXX"
+	STRING_EN[7437]["VALUE"] = "Forging Workshop XXX"
 	STRING_EN[7437]["real_idx"] = 7437
 
 STRING_EN["index"][7438] = 7438
 STRING_EN[7438] = {}
 	STRING_EN[7438]["ID"] = 7438
 	STRING_EN[7438]["KEY"] = "FORGE_UP32"
-	STRING_EN[7438]["VALUE"] = "Forging Center XXXI"
+	STRING_EN[7438]["VALUE"] = "Forging Workshop XXXI"
 	STRING_EN[7438]["real_idx"] = 7438
 
 STRING_EN["index"][7439] = 7439
 STRING_EN[7439] = {}
 	STRING_EN[7439]["ID"] = 7439
 	STRING_EN[7439]["KEY"] = "FORGE_UP33"
-	STRING_EN[7439]["VALUE"] = "Forging Center XXXII"
+	STRING_EN[7439]["VALUE"] = "Forging Workshop XXXII"
 	STRING_EN[7439]["real_idx"] = 7439
 
 STRING_EN["index"][7440] = 7440
 STRING_EN[7440] = {}
 	STRING_EN[7440]["ID"] = 7440
 	STRING_EN[7440]["KEY"] = "FORGE_UP34"
-	STRING_EN[7440]["VALUE"] = "Forging Center XXXIII"
+	STRING_EN[7440]["VALUE"] = "Forging Workshop XXXIII"
 	STRING_EN[7440]["real_idx"] = 7440
 
 STRING_EN["index"][7441] = 7441
 STRING_EN[7441] = {}
 	STRING_EN[7441]["ID"] = 7441
 	STRING_EN[7441]["KEY"] = "FORGE_UP35"
-	STRING_EN[7441]["VALUE"] = "Forging Center XXXIV"
+	STRING_EN[7441]["VALUE"] = "Forging Workshop XXXIV"
 	STRING_EN[7441]["real_idx"] = 7441
 
 STRING_EN["index"][7442] = 7442
 STRING_EN[7442] = {}
 	STRING_EN[7442]["ID"] = 7442
 	STRING_EN[7442]["KEY"] = "FORGE_UP36"
-	STRING_EN[7442]["VALUE"] = "Forging Center XXXV"
+	STRING_EN[7442]["VALUE"] = "Forging Workshop XXXV"
 	STRING_EN[7442]["real_idx"] = 7442
 
 STRING_EN["index"][7443] = 7443
 STRING_EN[7443] = {}
 	STRING_EN[7443]["ID"] = 7443
 	STRING_EN[7443]["KEY"] = "FORGE_UP37"
-	STRING_EN[7443]["VALUE"] = "Forging Center XXXVI"
+	STRING_EN[7443]["VALUE"] = "Forging Workshop XXXVI"
 	STRING_EN[7443]["real_idx"] = 7443
 
 STRING_EN["index"][7444] = 7444
 STRING_EN[7444] = {}
 	STRING_EN[7444]["ID"] = 7444
 	STRING_EN[7444]["KEY"] = "FORGE_UP38"
-	STRING_EN[7444]["VALUE"] = "Forging Center XXXVII"
+	STRING_EN[7444]["VALUE"] = "Forging Workshop XXXVII"
 	STRING_EN[7444]["real_idx"] = 7444
 
 STRING_EN["index"][7445] = 7445
 STRING_EN[7445] = {}
 	STRING_EN[7445]["ID"] = 7445
 	STRING_EN[7445]["KEY"] = "FORGE_UP39"
-	STRING_EN[7445]["VALUE"] = "Forging Center XXXVIII"
+	STRING_EN[7445]["VALUE"] = "Forging Workshop XXXVIII"
 	STRING_EN[7445]["real_idx"] = 7445
 
 STRING_EN["index"][7446] = 7446
 STRING_EN[7446] = {}
 	STRING_EN[7446]["ID"] = 7446
 	STRING_EN[7446]["KEY"] = "FORGE_UP40"
-	STRING_EN[7446]["VALUE"] = "Forging Center XXXIX"
+	STRING_EN[7446]["VALUE"] = "Forging Workshop XXXIX"
 	STRING_EN[7446]["real_idx"] = 7446
 
 STRING_EN["index"][7447] = 7447
 STRING_EN[7447] = {}
 	STRING_EN[7447]["ID"] = 7447
 	STRING_EN[7447]["KEY"] = "FORGE_UP41"
-	STRING_EN[7447]["VALUE"] = "Forging Center XL"
+	STRING_EN[7447]["VALUE"] = "Forging Workshop XL"
 	STRING_EN[7447]["real_idx"] = 7447
 
 STRING_EN["index"][7448] = 7448
 STRING_EN[7448] = {}
 	STRING_EN[7448]["ID"] = 7448
 	STRING_EN[7448]["KEY"] = "FORGE_UP42"
-	STRING_EN[7448]["VALUE"] = "Forging Center XLI"
+	STRING_EN[7448]["VALUE"] = "Forging Workshop XLI"
 	STRING_EN[7448]["real_idx"] = 7448
 
 STRING_EN["index"][7449] = 7449
 STRING_EN[7449] = {}
 	STRING_EN[7449]["ID"] = 7449
 	STRING_EN[7449]["KEY"] = "FORGE_UP43"
-	STRING_EN[7449]["VALUE"] = "Forging Center XLII"
+	STRING_EN[7449]["VALUE"] = "Forging Workshop XLII"
 	STRING_EN[7449]["real_idx"] = 7449
 
 STRING_EN["index"][7450] = 7450
 STRING_EN[7450] = {}
 	STRING_EN[7450]["ID"] = 7450
 	STRING_EN[7450]["KEY"] = "FORGE_UP44"
-	STRING_EN[7450]["VALUE"] = "Forging Center XLIII"
+	STRING_EN[7450]["VALUE"] = "Forging Workshop XLIII"
 	STRING_EN[7450]["real_idx"] = 7450
 
 STRING_EN["index"][7451] = 7451
 STRING_EN[7451] = {}
 	STRING_EN[7451]["ID"] = 7451
 	STRING_EN[7451]["KEY"] = "FORGE_UP45"
-	STRING_EN[7451]["VALUE"] = "Forging Center XLIV"
+	STRING_EN[7451]["VALUE"] = "Forging Workshop XLIV"
 	STRING_EN[7451]["real_idx"] = 7451
 
 STRING_EN["index"][7452] = 7452
 STRING_EN[7452] = {}
 	STRING_EN[7452]["ID"] = 7452
 	STRING_EN[7452]["KEY"] = "COLLECTION_COUNT2"
-	STRING_EN[7452]["VALUE"] = "Acquisition I"
+	STRING_EN[7452]["VALUE"] = "Exploiting I"
 	STRING_EN[7452]["real_idx"] = 7452
 
 STRING_EN["index"][7453] = 7453
 STRING_EN[7453] = {}
 	STRING_EN[7453]["ID"] = 7453
 	STRING_EN[7453]["KEY"] = "COLLECTION_COUNT3"
-	STRING_EN[7453]["VALUE"] = "Acquisition II"
+	STRING_EN[7453]["VALUE"] = "Exploiting II"
 	STRING_EN[7453]["real_idx"] = 7453
 
 STRING_EN["index"][7454] = 7454
 STRING_EN[7454] = {}
 	STRING_EN[7454]["ID"] = 7454
 	STRING_EN[7454]["KEY"] = "COLLECTION_COUNT4"
-	STRING_EN[7454]["VALUE"] = "Acquisition III"
+	STRING_EN[7454]["VALUE"] = "Exploiting III"
 	STRING_EN[7454]["real_idx"] = 7454
 
 STRING_EN["index"][7455] = 7455
 STRING_EN[7455] = {}
 	STRING_EN[7455]["ID"] = 7455
 	STRING_EN[7455]["KEY"] = "COLLECTION_COUNT5"
-	STRING_EN[7455]["VALUE"] = "Acquisition IV"
+	STRING_EN[7455]["VALUE"] = "Exploiting IV"
 	STRING_EN[7455]["real_idx"] = 7455
 
 STRING_EN["index"][7456] = 7456
 STRING_EN[7456] = {}
 	STRING_EN[7456]["ID"] = 7456
 	STRING_EN[7456]["KEY"] = "COLLECTION_COUNT6"
-	STRING_EN[7456]["VALUE"] = "Acquisition V"
+	STRING_EN[7456]["VALUE"] = "Exploiting V"
 	STRING_EN[7456]["real_idx"] = 7456
 
 STRING_EN["index"][7457] = 7457
 STRING_EN[7457] = {}
 	STRING_EN[7457]["ID"] = 7457
 	STRING_EN[7457]["KEY"] = "COLLECTION_COUNT7"
-	STRING_EN[7457]["VALUE"] = "Acquisition VI"
+	STRING_EN[7457]["VALUE"] = "Exploiting VI"
 	STRING_EN[7457]["real_idx"] = 7457
 
 STRING_EN["index"][7458] = 7458
 STRING_EN[7458] = {}
 	STRING_EN[7458]["ID"] = 7458
 	STRING_EN[7458]["KEY"] = "COLLECTION_COUNT8"
-	STRING_EN[7458]["VALUE"] = "Acquisition VII"
+	STRING_EN[7458]["VALUE"] = "Exploiting VII"
 	STRING_EN[7458]["real_idx"] = 7458
 
 STRING_EN["index"][7459] = 7459
 STRING_EN[7459] = {}
 	STRING_EN[7459]["ID"] = 7459
 	STRING_EN[7459]["KEY"] = "COLLECTION_COUNT9"
-	STRING_EN[7459]["VALUE"] = "Acquisition VIII"
+	STRING_EN[7459]["VALUE"] = "Exploiting VIII"
 	STRING_EN[7459]["real_idx"] = 7459
 
 STRING_EN["index"][7460] = 7460
 STRING_EN[7460] = {}
 	STRING_EN[7460]["ID"] = 7460
 	STRING_EN[7460]["KEY"] = "COLLECTION_COUNT10"
-	STRING_EN[7460]["VALUE"] = "Acquisition IX"
+	STRING_EN[7460]["VALUE"] = "Exploiting IX"
 	STRING_EN[7460]["real_idx"] = 7460
 
 STRING_EN["index"][7461] = 7461
 STRING_EN[7461] = {}
 	STRING_EN[7461]["ID"] = 7461
 	STRING_EN[7461]["KEY"] = "COLLECTION_COUNT11"
-	STRING_EN[7461]["VALUE"] = "Acquisition X"
+	STRING_EN[7461]["VALUE"] = "Exploiting X"
 	STRING_EN[7461]["real_idx"] = 7461
 
 STRING_EN["index"][7462] = 7462
 STRING_EN[7462] = {}
 	STRING_EN[7462]["ID"] = 7462
 	STRING_EN[7462]["KEY"] = "COLLECTION_COUNT12"
-	STRING_EN[7462]["VALUE"] = "Acquisition XI"
+	STRING_EN[7462]["VALUE"] = "Exploiting XI"
 	STRING_EN[7462]["real_idx"] = 7462
 
 STRING_EN["index"][7463] = 7463
 STRING_EN[7463] = {}
 	STRING_EN[7463]["ID"] = 7463
 	STRING_EN[7463]["KEY"] = "COLLECTION_COUNT13"
-	STRING_EN[7463]["VALUE"] = "Acquisition XII"
+	STRING_EN[7463]["VALUE"] = "Exploiting XII"
 	STRING_EN[7463]["real_idx"] = 7463
 
 STRING_EN["index"][7464] = 7464
 STRING_EN[7464] = {}
 	STRING_EN[7464]["ID"] = 7464
 	STRING_EN[7464]["KEY"] = "COLLECTION_COUNT14"
-	STRING_EN[7464]["VALUE"] = "Acquisition XIII"
+	STRING_EN[7464]["VALUE"] = "Exploiting XIII"
 	STRING_EN[7464]["real_idx"] = 7464
 
 STRING_EN["index"][7465] = 7465
 STRING_EN[7465] = {}
 	STRING_EN[7465]["ID"] = 7465
 	STRING_EN[7465]["KEY"] = "COLLECTION_COUNT15"
-	STRING_EN[7465]["VALUE"] = "Acquisition XIV"
+	STRING_EN[7465]["VALUE"] = "Exploiting XIV"
 	STRING_EN[7465]["real_idx"] = 7465
 
 STRING_EN["index"][7466] = 7466
 STRING_EN[7466] = {}
 	STRING_EN[7466]["ID"] = 7466
 	STRING_EN[7466]["KEY"] = "COLLECTION_COUNT16"
-	STRING_EN[7466]["VALUE"] = "Acquisition XV"
+	STRING_EN[7466]["VALUE"] = "Exploiting XV"
 	STRING_EN[7466]["real_idx"] = 7466
 
 STRING_EN["index"][7467] = 7467
 STRING_EN[7467] = {}
 	STRING_EN[7467]["ID"] = 7467
 	STRING_EN[7467]["KEY"] = "COLLECTION_COUNT17"
-	STRING_EN[7467]["VALUE"] = "Acquisition XVI"
+	STRING_EN[7467]["VALUE"] = "Exploiting XVI"
 	STRING_EN[7467]["real_idx"] = 7467
 
 STRING_EN["index"][7468] = 7468
 STRING_EN[7468] = {}
 	STRING_EN[7468]["ID"] = 7468
 	STRING_EN[7468]["KEY"] = "COLLECTION_COUNT18"
-	STRING_EN[7468]["VALUE"] = "Acquisition XVII"
+	STRING_EN[7468]["VALUE"] = "Exploiting XVII"
 	STRING_EN[7468]["real_idx"] = 7468
 
 STRING_EN["index"][7469] = 7469
 STRING_EN[7469] = {}
 	STRING_EN[7469]["ID"] = 7469
 	STRING_EN[7469]["KEY"] = "COLLECTION_COUNT19"
-	STRING_EN[7469]["VALUE"] = "Acquisition XVIII"
+	STRING_EN[7469]["VALUE"] = "Exploiting XVIII"
 	STRING_EN[7469]["real_idx"] = 7469
 
 STRING_EN["index"][7470] = 7470
 STRING_EN[7470] = {}
 	STRING_EN[7470]["ID"] = 7470
 	STRING_EN[7470]["KEY"] = "COLLECTION_COUNT20"
-	STRING_EN[7470]["VALUE"] = "Acquisition XIX"
+	STRING_EN[7470]["VALUE"] = "Exploiting XIX"
 	STRING_EN[7470]["real_idx"] = 7470
 
 STRING_EN["index"][7471] = 7471
 STRING_EN[7471] = {}
 	STRING_EN[7471]["ID"] = 7471
 	STRING_EN[7471]["KEY"] = "COLLECTION_COUNT21"
-	STRING_EN[7471]["VALUE"] = "Acquisition XX"
+	STRING_EN[7471]["VALUE"] = "Exploiting XX"
 	STRING_EN[7471]["real_idx"] = 7471
 
 STRING_EN["index"][7472] = 7472
 STRING_EN[7472] = {}
 	STRING_EN[7472]["ID"] = 7472
 	STRING_EN[7472]["KEY"] = "COLLECTION_COUNT22"
-	STRING_EN[7472]["VALUE"] = "Acquisition XXI"
+	STRING_EN[7472]["VALUE"] = "Exploiting XXI"
 	STRING_EN[7472]["real_idx"] = 7472
 
 STRING_EN["index"][7473] = 7473
 STRING_EN[7473] = {}
 	STRING_EN[7473]["ID"] = 7473
 	STRING_EN[7473]["KEY"] = "COLLECTION_COUNT23"
-	STRING_EN[7473]["VALUE"] = "Acquisition XXII"
+	STRING_EN[7473]["VALUE"] = "Exploiting XXII"
 	STRING_EN[7473]["real_idx"] = 7473
 
 STRING_EN["index"][7474] = 7474
 STRING_EN[7474] = {}
 	STRING_EN[7474]["ID"] = 7474
 	STRING_EN[7474]["KEY"] = "COLLECTION_COUNT24"
-	STRING_EN[7474]["VALUE"] = "Acquisition XXIII"
+	STRING_EN[7474]["VALUE"] = "Exploiting XXIII"
 	STRING_EN[7474]["real_idx"] = 7474
 
 STRING_EN["index"][7475] = 7475
 STRING_EN[7475] = {}
 	STRING_EN[7475]["ID"] = 7475
 	STRING_EN[7475]["KEY"] = "COLLECTION_COUNT25"
-	STRING_EN[7475]["VALUE"] = "Acquisition XXIV"
+	STRING_EN[7475]["VALUE"] = "Exploiting XXIV"
 	STRING_EN[7475]["real_idx"] = 7475
 
 STRING_EN["index"][7476] = 7476
 STRING_EN[7476] = {}
 	STRING_EN[7476]["ID"] = 7476
 	STRING_EN[7476]["KEY"] = "COLLECTION_COUNT26"
-	STRING_EN[7476]["VALUE"] = "Acquisition XXV"
+	STRING_EN[7476]["VALUE"] = "Exploiting XXV"
 	STRING_EN[7476]["real_idx"] = 7476
 
 STRING_EN["index"][7477] = 7477
 STRING_EN[7477] = {}
 	STRING_EN[7477]["ID"] = 7477
 	STRING_EN[7477]["KEY"] = "COLLECTION_COUNT27"
-	STRING_EN[7477]["VALUE"] = "Acquisition XXVI"
+	STRING_EN[7477]["VALUE"] = "Exploiting XXVI"
 	STRING_EN[7477]["real_idx"] = 7477
 
 STRING_EN["index"][7478] = 7478
 STRING_EN[7478] = {}
 	STRING_EN[7478]["ID"] = 7478
 	STRING_EN[7478]["KEY"] = "COLLECTION_COUNT28"
-	STRING_EN[7478]["VALUE"] = "Acquisition XXVII"
+	STRING_EN[7478]["VALUE"] = "Exploiting XXVII"
 	STRING_EN[7478]["real_idx"] = 7478
 
 STRING_EN["index"][7479] = 7479
 STRING_EN[7479] = {}
 	STRING_EN[7479]["ID"] = 7479
 	STRING_EN[7479]["KEY"] = "COLLECTION_COUNT29"
-	STRING_EN[7479]["VALUE"] = "Acquisition XXVIII"
+	STRING_EN[7479]["VALUE"] = "Exploiting XXVIII"
 	STRING_EN[7479]["real_idx"] = 7479
 
 STRING_EN["index"][7480] = 7480
 STRING_EN[7480] = {}
 	STRING_EN[7480]["ID"] = 7480
 	STRING_EN[7480]["KEY"] = "COLLECTION_COUNT30"
-	STRING_EN[7480]["VALUE"] = "Acquisition XXIX"
+	STRING_EN[7480]["VALUE"] = "Exploiting XXIX"
 	STRING_EN[7480]["real_idx"] = 7480
 
 STRING_EN["index"][7481] = 7481
 STRING_EN[7481] = {}
 	STRING_EN[7481]["ID"] = 7481
 	STRING_EN[7481]["KEY"] = "COLLECTION_COUNT31"
-	STRING_EN[7481]["VALUE"] = "Acquisition XXX"
+	STRING_EN[7481]["VALUE"] = "Exploiting XXX"
 	STRING_EN[7481]["real_idx"] = 7481
 
 STRING_EN["index"][7482] = 7482
 STRING_EN[7482] = {}
 	STRING_EN[7482]["ID"] = 7482
 	STRING_EN[7482]["KEY"] = "COLLECTION_COUNT32"
-	STRING_EN[7482]["VALUE"] = "Acquisition XXXI"
+	STRING_EN[7482]["VALUE"] = "Exploiting XXXI"
 	STRING_EN[7482]["real_idx"] = 7482
 
 STRING_EN["index"][7483] = 7483
 STRING_EN[7483] = {}
 	STRING_EN[7483]["ID"] = 7483
 	STRING_EN[7483]["KEY"] = "COLLECTION_COUNT33"
-	STRING_EN[7483]["VALUE"] = "Acquisition XXXII"
+	STRING_EN[7483]["VALUE"] = "Exploiting XXXII"
 	STRING_EN[7483]["real_idx"] = 7483
 
 STRING_EN["index"][7484] = 7484
 STRING_EN[7484] = {}
 	STRING_EN[7484]["ID"] = 7484
 	STRING_EN[7484]["KEY"] = "COLLECTION_COUNT34"
-	STRING_EN[7484]["VALUE"] = "Acquisition XXXIII"
+	STRING_EN[7484]["VALUE"] = "Exploiting XXXIII"
 	STRING_EN[7484]["real_idx"] = 7484
 
 STRING_EN["index"][7485] = 7485
 STRING_EN[7485] = {}
 	STRING_EN[7485]["ID"] = 7485
 	STRING_EN[7485]["KEY"] = "COLLECTION_COUNT35"
-	STRING_EN[7485]["VALUE"] = "Acquisition XXXIV"
+	STRING_EN[7485]["VALUE"] = "Exploiting XXXIV"
 	STRING_EN[7485]["real_idx"] = 7485
 
 STRING_EN["index"][7486] = 7486
 STRING_EN[7486] = {}
 	STRING_EN[7486]["ID"] = 7486
 	STRING_EN[7486]["KEY"] = "COLLECTION_COUNT36"
-	STRING_EN[7486]["VALUE"] = "Acquisition XXXV"
+	STRING_EN[7486]["VALUE"] = "Exploiting XXXV"
 	STRING_EN[7486]["real_idx"] = 7486
 
 STRING_EN["index"][7487] = 7487
 STRING_EN[7487] = {}
 	STRING_EN[7487]["ID"] = 7487
 	STRING_EN[7487]["KEY"] = "COLLECTION_COUNT37"
-	STRING_EN[7487]["VALUE"] = "Acquisition XXXVI"
+	STRING_EN[7487]["VALUE"] = "Exploiting XXXVI"
 	STRING_EN[7487]["real_idx"] = 7487
 
 STRING_EN["index"][7488] = 7488
 STRING_EN[7488] = {}
 	STRING_EN[7488]["ID"] = 7488
 	STRING_EN[7488]["KEY"] = "COLLECTION_COUNT38"
-	STRING_EN[7488]["VALUE"] = "Acquisition XXXVII"
+	STRING_EN[7488]["VALUE"] = "Exploiting XXXVII"
 	STRING_EN[7488]["real_idx"] = 7488
 
 STRING_EN["index"][7489] = 7489
 STRING_EN[7489] = {}
 	STRING_EN[7489]["ID"] = 7489
 	STRING_EN[7489]["KEY"] = "COLLECTION_COUNT39"
-	STRING_EN[7489]["VALUE"] = "Acquisition XXXVIII"
+	STRING_EN[7489]["VALUE"] = "Exploiting XXXVIII"
 	STRING_EN[7489]["real_idx"] = 7489
 
 STRING_EN["index"][7490] = 7490
 STRING_EN[7490] = {}
 	STRING_EN[7490]["ID"] = 7490
 	STRING_EN[7490]["KEY"] = "COLLECTION_COUNT40"
-	STRING_EN[7490]["VALUE"] = "Acquisition XXXIX"
+	STRING_EN[7490]["VALUE"] = "Exploiting XXXIX"
 	STRING_EN[7490]["real_idx"] = 7490
 
 STRING_EN["index"][7491] = 7491
 STRING_EN[7491] = {}
 	STRING_EN[7491]["ID"] = 7491
 	STRING_EN[7491]["KEY"] = "COLLECTION_COUNT41"
-	STRING_EN[7491]["VALUE"] = "Acquisition XL"
+	STRING_EN[7491]["VALUE"] = "Exploiting XL"
 	STRING_EN[7491]["real_idx"] = 7491
 
 STRING_EN["index"][7492] = 7492
 STRING_EN[7492] = {}
 	STRING_EN[7492]["ID"] = 7492
 	STRING_EN[7492]["KEY"] = "COLLECTION_COUNT42"
-	STRING_EN[7492]["VALUE"] = "Acquisition XLI"
+	STRING_EN[7492]["VALUE"] = "Exploiting XLI"
 	STRING_EN[7492]["real_idx"] = 7492
 
 STRING_EN["index"][7493] = 7493
 STRING_EN[7493] = {}
 	STRING_EN[7493]["ID"] = 7493
 	STRING_EN[7493]["KEY"] = "COLLECTION_COUNT43"
-	STRING_EN[7493]["VALUE"] = "Acquisition XLII"
+	STRING_EN[7493]["VALUE"] = "Exploiting XLII"
 	STRING_EN[7493]["real_idx"] = 7493
 
 STRING_EN["index"][7494] = 7494
 STRING_EN[7494] = {}
 	STRING_EN[7494]["ID"] = 7494
 	STRING_EN[7494]["KEY"] = "COLLECTION_COUNT44"
-	STRING_EN[7494]["VALUE"] = "Acquisition XLIII"
+	STRING_EN[7494]["VALUE"] = "Exploiting XLIII"
 	STRING_EN[7494]["real_idx"] = 7494
 
 STRING_EN["index"][7495] = 7495
 STRING_EN[7495] = {}
 	STRING_EN[7495]["ID"] = 7495
 	STRING_EN[7495]["KEY"] = "COLLECTION_COUNT45"
-	STRING_EN[7495]["VALUE"] = "Acquisition XLIV"
+	STRING_EN[7495]["VALUE"] = "Exploiting XLIV"
 	STRING_EN[7495]["real_idx"] = 7495
 
 STRING_EN["index"][7496] = 7496
 STRING_EN[7496] = {}
 	STRING_EN[7496]["ID"] = 7496
 	STRING_EN[7496]["KEY"] = "DESTROY_COUNT2"
-	STRING_EN[7496]["VALUE"] = "Destroy the planet belt I"
+	STRING_EN[7496]["VALUE"] = "Destroy Astroid Belt I"
 	STRING_EN[7496]["real_idx"] = 7496
 
 STRING_EN["index"][7497] = 7497
 STRING_EN[7497] = {}
 	STRING_EN[7497]["ID"] = 7497
 	STRING_EN[7497]["KEY"] = "DESTROY_COUNT3"
-	STRING_EN[7497]["VALUE"] = "Destroy the planet belt II"
+	STRING_EN[7497]["VALUE"] = "Destroy Astroid Belt II"
 	STRING_EN[7497]["real_idx"] = 7497
 
 STRING_EN["index"][7498] = 7498
 STRING_EN[7498] = {}
 	STRING_EN[7498]["ID"] = 7498
 	STRING_EN[7498]["KEY"] = "DESTROY_COUNT4"
-	STRING_EN[7498]["VALUE"] = "Destroy the planet belt III"
+	STRING_EN[7498]["VALUE"] = "Destroy Astroid Belt III"
 	STRING_EN[7498]["real_idx"] = 7498
 
 STRING_EN["index"][7499] = 7499
 STRING_EN[7499] = {}
 	STRING_EN[7499]["ID"] = 7499
 	STRING_EN[7499]["KEY"] = "DESTROY_COUNT5"
-	STRING_EN[7499]["VALUE"] = "Destroy the planet belt IV"
+	STRING_EN[7499]["VALUE"] = "Destroy Astroid Belt IV"
 	STRING_EN[7499]["real_idx"] = 7499
 
 STRING_EN["index"][7500] = 7500
 STRING_EN[7500] = {}
 	STRING_EN[7500]["ID"] = 7500
 	STRING_EN[7500]["KEY"] = "DESTROY_COUNT6"
-	STRING_EN[7500]["VALUE"] = "Destroy the planet belt V"
+	STRING_EN[7500]["VALUE"] = "Destroy Astroid Belt V"
 	STRING_EN[7500]["real_idx"] = 7500
 
 STRING_EN["index"][7501] = 7501
 STRING_EN[7501] = {}
 	STRING_EN[7501]["ID"] = 7501
 	STRING_EN[7501]["KEY"] = "DESTROY_COUNT7"
-	STRING_EN[7501]["VALUE"] = "Destroy the planet belt VI"
+	STRING_EN[7501]["VALUE"] = "Destroy Astroid Belt VI"
 	STRING_EN[7501]["real_idx"] = 7501
 
 STRING_EN["index"][7502] = 7502
 STRING_EN[7502] = {}
 	STRING_EN[7502]["ID"] = 7502
 	STRING_EN[7502]["KEY"] = "DESTROY_COUNT8"
-	STRING_EN[7502]["VALUE"] = "Destroy the planet belt VII"
+	STRING_EN[7502]["VALUE"] = "Destroy Astroid Belt VII"
 	STRING_EN[7502]["real_idx"] = 7502
 
 STRING_EN["index"][7503] = 7503
 STRING_EN[7503] = {}
 	STRING_EN[7503]["ID"] = 7503
 	STRING_EN[7503]["KEY"] = "DESTROY_COUNT9"
-	STRING_EN[7503]["VALUE"] = "Destroy the planet belt VIII"
+	STRING_EN[7503]["VALUE"] = "Destroy Astroid Belt VIII"
 	STRING_EN[7503]["real_idx"] = 7503
 
 STRING_EN["index"][7504] = 7504
 STRING_EN[7504] = {}
 	STRING_EN[7504]["ID"] = 7504
 	STRING_EN[7504]["KEY"] = "DESTROY_COUNT10"
-	STRING_EN[7504]["VALUE"] = "Destroy the planet belt IX"
+	STRING_EN[7504]["VALUE"] = "Destroy Astroid Belt IX"
 	STRING_EN[7504]["real_idx"] = 7504
 
 STRING_EN["index"][7505] = 7505
 STRING_EN[7505] = {}
 	STRING_EN[7505]["ID"] = 7505
 	STRING_EN[7505]["KEY"] = "DESTROY_COUNT11"
-	STRING_EN[7505]["VALUE"] = "Destroy the planet belt X"
+	STRING_EN[7505]["VALUE"] = "Destroy Astroid Belt X"
 	STRING_EN[7505]["real_idx"] = 7505
 
 STRING_EN["index"][7506] = 7506
 STRING_EN[7506] = {}
 	STRING_EN[7506]["ID"] = 7506
 	STRING_EN[7506]["KEY"] = "DESTROY_COUNT12"
-	STRING_EN[7506]["VALUE"] = "Destroy the planet belt XI"
+	STRING_EN[7506]["VALUE"] = "Destroy Astroid Belt XI"
 	STRING_EN[7506]["real_idx"] = 7506
 
 STRING_EN["index"][7507] = 7507
 STRING_EN[7507] = {}
 	STRING_EN[7507]["ID"] = 7507
 	STRING_EN[7507]["KEY"] = "DESTROY_COUNT13"
-	STRING_EN[7507]["VALUE"] = "Destroy the planet belt XII"
+	STRING_EN[7507]["VALUE"] = "Destroy Astroid Belt XII"
 	STRING_EN[7507]["real_idx"] = 7507
 
 STRING_EN["index"][7508] = 7508
 STRING_EN[7508] = {}
 	STRING_EN[7508]["ID"] = 7508
 	STRING_EN[7508]["KEY"] = "DESTROY_COUNT14"
-	STRING_EN[7508]["VALUE"] = "Destroy the planet belt XIII"
+	STRING_EN[7508]["VALUE"] = "Destroy Astroid Belt XIII"
 	STRING_EN[7508]["real_idx"] = 7508
 
 STRING_EN["index"][7509] = 7509
 STRING_EN[7509] = {}
 	STRING_EN[7509]["ID"] = 7509
 	STRING_EN[7509]["KEY"] = "DESTROY_COUNT15"
-	STRING_EN[7509]["VALUE"] = "Destroy the planet belt XIV"
+	STRING_EN[7509]["VALUE"] = "Destroy Astroid Belt XIV"
 	STRING_EN[7509]["real_idx"] = 7509
 
 STRING_EN["index"][7510] = 7510
 STRING_EN[7510] = {}
 	STRING_EN[7510]["ID"] = 7510
 	STRING_EN[7510]["KEY"] = "DESTROY_COUNT16"
-	STRING_EN[7510]["VALUE"] = "Destroy the planet belt XV"
+	STRING_EN[7510]["VALUE"] = "Destroy Astroid Belt XV"
 	STRING_EN[7510]["real_idx"] = 7510
 
 STRING_EN["index"][7511] = 7511
 STRING_EN[7511] = {}
 	STRING_EN[7511]["ID"] = 7511
 	STRING_EN[7511]["KEY"] = "DESTROY_COUNT17"
-	STRING_EN[7511]["VALUE"] = "Destroy the planet belt XVI"
+	STRING_EN[7511]["VALUE"] = "Destroy Astroid Belt XVI"
 	STRING_EN[7511]["real_idx"] = 7511
 
 STRING_EN["index"][7512] = 7512
 STRING_EN[7512] = {}
 	STRING_EN[7512]["ID"] = 7512
 	STRING_EN[7512]["KEY"] = "DESTROY_COUNT18"
-	STRING_EN[7512]["VALUE"] = "Destroy the planet belt XVII"
+	STRING_EN[7512]["VALUE"] = "Destroy Astroid Belt XVII"
 	STRING_EN[7512]["real_idx"] = 7512
 
 STRING_EN["index"][7513] = 7513
 STRING_EN[7513] = {}
 	STRING_EN[7513]["ID"] = 7513
 	STRING_EN[7513]["KEY"] = "DESTROY_COUNT19"
-	STRING_EN[7513]["VALUE"] = "Destroy the planet belt XVIII"
+	STRING_EN[7513]["VALUE"] = "Destroy Astroid Belt XVIII"
 	STRING_EN[7513]["real_idx"] = 7513
 
 STRING_EN["index"][7514] = 7514
 STRING_EN[7514] = {}
 	STRING_EN[7514]["ID"] = 7514
 	STRING_EN[7514]["KEY"] = "DESTROY_COUNT20"
-	STRING_EN[7514]["VALUE"] = "Destroy the planet belt XIX"
+	STRING_EN[7514]["VALUE"] = "Destroy Astroid Belt XIX"
 	STRING_EN[7514]["real_idx"] = 7514
 
 STRING_EN["index"][7515] = 7515
 STRING_EN[7515] = {}
 	STRING_EN[7515]["ID"] = 7515
 	STRING_EN[7515]["KEY"] = "DESTROY_COUNT21"
-	STRING_EN[7515]["VALUE"] = "Destroy the planet belt XX"
+	STRING_EN[7515]["VALUE"] = "Destroy Astroid Belt XX"
 	STRING_EN[7515]["real_idx"] = 7515
 
 STRING_EN["index"][7516] = 7516
 STRING_EN[7516] = {}
 	STRING_EN[7516]["ID"] = 7516
 	STRING_EN[7516]["KEY"] = "DESTROY_COUNT22"
-	STRING_EN[7516]["VALUE"] = "Destroy the planet belt XXI"
+	STRING_EN[7516]["VALUE"] = "Destroy Astroid Belt XXI"
 	STRING_EN[7516]["real_idx"] = 7516
 
 STRING_EN["index"][7517] = 7517
 STRING_EN[7517] = {}
 	STRING_EN[7517]["ID"] = 7517
 	STRING_EN[7517]["KEY"] = "DESTROY_COUNT23"
-	STRING_EN[7517]["VALUE"] = "Destroy the planet belt XXII"
+	STRING_EN[7517]["VALUE"] = "Destroy Astroid Belt XXII"
 	STRING_EN[7517]["real_idx"] = 7517
 
 STRING_EN["index"][7518] = 7518
 STRING_EN[7518] = {}
 	STRING_EN[7518]["ID"] = 7518
 	STRING_EN[7518]["KEY"] = "DESTROY_COUNT24"
-	STRING_EN[7518]["VALUE"] = "Destroy the planet belt XXIII"
+	STRING_EN[7518]["VALUE"] = "Destroy Astroid Belt XXIII"
 	STRING_EN[7518]["real_idx"] = 7518
 
 STRING_EN["index"][7519] = 7519
 STRING_EN[7519] = {}
 	STRING_EN[7519]["ID"] = 7519
 	STRING_EN[7519]["KEY"] = "DESTROY_COUNT25"
-	STRING_EN[7519]["VALUE"] = "Destroy the planet belt XXIV"
+	STRING_EN[7519]["VALUE"] = "Destroy Astroid Belt XXIV"
 	STRING_EN[7519]["real_idx"] = 7519
 
 STRING_EN["index"][7520] = 7520
 STRING_EN[7520] = {}
 	STRING_EN[7520]["ID"] = 7520
 	STRING_EN[7520]["KEY"] = "DESTROY_COUNT26"
-	STRING_EN[7520]["VALUE"] = "Destroy the planet belt XXV"
+	STRING_EN[7520]["VALUE"] = "Destroy Astroid Belt XXV"
 	STRING_EN[7520]["real_idx"] = 7520
 
 STRING_EN["index"][7521] = 7521
 STRING_EN[7521] = {}
 	STRING_EN[7521]["ID"] = 7521
 	STRING_EN[7521]["KEY"] = "DESTROY_COUNT27"
-	STRING_EN[7521]["VALUE"] = "Destroy the planet belt XXVI"
+	STRING_EN[7521]["VALUE"] = "Destroy Astroid Belt XXVI"
 	STRING_EN[7521]["real_idx"] = 7521
 
 STRING_EN["index"][7522] = 7522
 STRING_EN[7522] = {}
 	STRING_EN[7522]["ID"] = 7522
 	STRING_EN[7522]["KEY"] = "DESTROY_COUNT28"
-	STRING_EN[7522]["VALUE"] = "Destroy the planet belt XXVII"
+	STRING_EN[7522]["VALUE"] = "Destroy Astroid Belt XXVII"
 	STRING_EN[7522]["real_idx"] = 7522
 
 STRING_EN["index"][7523] = 7523
 STRING_EN[7523] = {}
 	STRING_EN[7523]["ID"] = 7523
 	STRING_EN[7523]["KEY"] = "DESTROY_COUNT29"
-	STRING_EN[7523]["VALUE"] = "Destroy the planet belt XXVIII"
+	STRING_EN[7523]["VALUE"] = "Destroy Astroid Belt XXVIII"
 	STRING_EN[7523]["real_idx"] = 7523
 
 STRING_EN["index"][7524] = 7524
 STRING_EN[7524] = {}
 	STRING_EN[7524]["ID"] = 7524
 	STRING_EN[7524]["KEY"] = "DESTROY_COUNT30"
-	STRING_EN[7524]["VALUE"] = "Destroy the planet belt XXIX"
+	STRING_EN[7524]["VALUE"] = "Destroy Astroid Belt XXIX"
 	STRING_EN[7524]["real_idx"] = 7524
 
 STRING_EN["index"][7525] = 7525
 STRING_EN[7525] = {}
 	STRING_EN[7525]["ID"] = 7525
 	STRING_EN[7525]["KEY"] = "DESTROY_COUNT31"
-	STRING_EN[7525]["VALUE"] = "Destroy the planet belt XXX"
+	STRING_EN[7525]["VALUE"] = "Destroy Astroid Belt XXX"
 	STRING_EN[7525]["real_idx"] = 7525
 
 STRING_EN["index"][7526] = 7526
 STRING_EN[7526] = {}
 	STRING_EN[7526]["ID"] = 7526
 	STRING_EN[7526]["KEY"] = "DESTROY_COUNT32"
-	STRING_EN[7526]["VALUE"] = "Destroy the planet belt XXXI"
+	STRING_EN[7526]["VALUE"] = "Destroy Astroid Belt XXXI"
 	STRING_EN[7526]["real_idx"] = 7526
 
 STRING_EN["index"][7527] = 7527
 STRING_EN[7527] = {}
 	STRING_EN[7527]["ID"] = 7527
 	STRING_EN[7527]["KEY"] = "DESTROY_COUNT33"
-	STRING_EN[7527]["VALUE"] = "Destroy the planet belt XXXII"
+	STRING_EN[7527]["VALUE"] = "Destroy Astroid Belt XXXII"
 	STRING_EN[7527]["real_idx"] = 7527
 
 STRING_EN["index"][7528] = 7528
 STRING_EN[7528] = {}
 	STRING_EN[7528]["ID"] = 7528
 	STRING_EN[7528]["KEY"] = "DESTROY_COUNT34"
-	STRING_EN[7528]["VALUE"] = "Destroy the planet belt XXXIII"
+	STRING_EN[7528]["VALUE"] = "Destroy Astroid Belt XXXIII"
 	STRING_EN[7528]["real_idx"] = 7528
 
 STRING_EN["index"][7529] = 7529
 STRING_EN[7529] = {}
 	STRING_EN[7529]["ID"] = 7529
 	STRING_EN[7529]["KEY"] = "DESTROY_COUNT35"
-	STRING_EN[7529]["VALUE"] = "Destroy the planet belt XXXIV"
+	STRING_EN[7529]["VALUE"] = "Destroy Astroid Belt XXXIV"
 	STRING_EN[7529]["real_idx"] = 7529
 
 STRING_EN["index"][7530] = 7530
 STRING_EN[7530] = {}
 	STRING_EN[7530]["ID"] = 7530
 	STRING_EN[7530]["KEY"] = "DESTROY_COUNT36"
-	STRING_EN[7530]["VALUE"] = "Destroy the planet belt XXXV"
+	STRING_EN[7530]["VALUE"] = "Destroy Astroid Belt XXXV"
 	STRING_EN[7530]["real_idx"] = 7530
 
 STRING_EN["index"][7531] = 7531
 STRING_EN[7531] = {}
 	STRING_EN[7531]["ID"] = 7531
 	STRING_EN[7531]["KEY"] = "DESTROY_COUNT37"
-	STRING_EN[7531]["VALUE"] = "Destroy the planet belt XXXVI"
+	STRING_EN[7531]["VALUE"] = "Destroy Astroid Belt XXXVI"
 	STRING_EN[7531]["real_idx"] = 7531
 
 STRING_EN["index"][7532] = 7532
 STRING_EN[7532] = {}
 	STRING_EN[7532]["ID"] = 7532
 	STRING_EN[7532]["KEY"] = "DESTROY_COUNT38"
-	STRING_EN[7532]["VALUE"] = "Destroy the planet belt XXXVII"
+	STRING_EN[7532]["VALUE"] = "Destroy Astroid Belt XXXVII"
 	STRING_EN[7532]["real_idx"] = 7532
 
 STRING_EN["index"][7533] = 7533
 STRING_EN[7533] = {}
 	STRING_EN[7533]["ID"] = 7533
 	STRING_EN[7533]["KEY"] = "DESTROY_COUNT39"
-	STRING_EN[7533]["VALUE"] = "Destroy the planet belt XXXVIII"
+	STRING_EN[7533]["VALUE"] = "Destroy Astroid Belt XXXVIII"
 	STRING_EN[7533]["real_idx"] = 7533
 
 STRING_EN["index"][7534] = 7534
 STRING_EN[7534] = {}
 	STRING_EN[7534]["ID"] = 7534
 	STRING_EN[7534]["KEY"] = "DESTROY_COUNT40"
-	STRING_EN[7534]["VALUE"] = "Destroy the planet belt XXXIX"
+	STRING_EN[7534]["VALUE"] = "Destroy Astroid Belt XXXIX"
 	STRING_EN[7534]["real_idx"] = 7534
 
 STRING_EN["index"][7535] = 7535
 STRING_EN[7535] = {}
 	STRING_EN[7535]["ID"] = 7535
 	STRING_EN[7535]["KEY"] = "DESTROY_COUNT41"
-	STRING_EN[7535]["VALUE"] = "Destroy the planet belt XL"
+	STRING_EN[7535]["VALUE"] = "Destroy Astroid Belt XL"
 	STRING_EN[7535]["real_idx"] = 7535
 
 STRING_EN["index"][7536] = 7536
 STRING_EN[7536] = {}
 	STRING_EN[7536]["ID"] = 7536
 	STRING_EN[7536]["KEY"] = "DESTROY_COUNT42"
-	STRING_EN[7536]["VALUE"] = "Destroy the planet belt XLI"
+	STRING_EN[7536]["VALUE"] = "Destroy Astroid Belt XLI"
 	STRING_EN[7536]["real_idx"] = 7536
 
 STRING_EN["index"][7537] = 7537
 STRING_EN[7537] = {}
 	STRING_EN[7537]["ID"] = 7537
 	STRING_EN[7537]["KEY"] = "DESTROY_COUNT43"
-	STRING_EN[7537]["VALUE"] = "Destroy the planet belt XLII"
+	STRING_EN[7537]["VALUE"] = "Destroy Astroid Belt XLII"
 	STRING_EN[7537]["real_idx"] = 7537
 
 STRING_EN["index"][7538] = 7538
 STRING_EN[7538] = {}
 	STRING_EN[7538]["ID"] = 7538
 	STRING_EN[7538]["KEY"] = "DESTROY_COUNT44"
-	STRING_EN[7538]["VALUE"] = "Destroy the planet belt XLIII"
+	STRING_EN[7538]["VALUE"] = "Destroy Astroid Belt XLIII"
 	STRING_EN[7538]["real_idx"] = 7538
 
 STRING_EN["index"][7539] = 7539
 STRING_EN[7539] = {}
 	STRING_EN[7539]["ID"] = 7539
 	STRING_EN[7539]["KEY"] = "DESTROY_COUNT45"
-	STRING_EN[7539]["VALUE"] = "Destroy the planet belt XLIV"
+	STRING_EN[7539]["VALUE"] = "Destroy Astroid Belt XLIV"
 	STRING_EN[7539]["real_idx"] = 7539
 
 STRING_EN["index"][7540] = 7540
 STRING_EN[7540] = {}
 	STRING_EN[7540]["ID"] = 7540
 	STRING_EN[7540]["KEY"] = "SALVAGE_COUNT2"
-	STRING_EN[7540]["VALUE"] = "Salvage wreckage I"
+	STRING_EN[7540]["VALUE"] = "Salvage Wreckage I"
 	STRING_EN[7540]["real_idx"] = 7540
 
 STRING_EN["index"][7541] = 7541
 STRING_EN[7541] = {}
 	STRING_EN[7541]["ID"] = 7541
 	STRING_EN[7541]["KEY"] = "SALVAGE_COUNT3"
-	STRING_EN[7541]["VALUE"] = "Salvage wreckage II"
+	STRING_EN[7541]["VALUE"] = "Salvage Wreckage II"
 	STRING_EN[7541]["real_idx"] = 7541
 
 STRING_EN["index"][7542] = 7542
 STRING_EN[7542] = {}
 	STRING_EN[7542]["ID"] = 7542
 	STRING_EN[7542]["KEY"] = "SALVAGE_COUNT4"
-	STRING_EN[7542]["VALUE"] = "Salvage wreckage III"
+	STRING_EN[7542]["VALUE"] = "Salvage Wreckage III"
 	STRING_EN[7542]["real_idx"] = 7542
 
 STRING_EN["index"][7543] = 7543
 STRING_EN[7543] = {}
 	STRING_EN[7543]["ID"] = 7543
 	STRING_EN[7543]["KEY"] = "SALVAGE_COUNT5"
-	STRING_EN[7543]["VALUE"] = "Salvage wreckage IV"
+	STRING_EN[7543]["VALUE"] = "Salvage Wreckage IV"
 	STRING_EN[7543]["real_idx"] = 7543
 
 STRING_EN["index"][7544] = 7544
 STRING_EN[7544] = {}
 	STRING_EN[7544]["ID"] = 7544
 	STRING_EN[7544]["KEY"] = "SALVAGE_COUNT6"
-	STRING_EN[7544]["VALUE"] = "Salvage wreckage V"
+	STRING_EN[7544]["VALUE"] = "Salvage Wreckage V"
 	STRING_EN[7544]["real_idx"] = 7544
 
 STRING_EN["index"][7545] = 7545
 STRING_EN[7545] = {}
 	STRING_EN[7545]["ID"] = 7545
 	STRING_EN[7545]["KEY"] = "SALVAGE_COUNT7"
-	STRING_EN[7545]["VALUE"] = "Salvage wreckage VI"
+	STRING_EN[7545]["VALUE"] = "Salvage Wreckage VI"
 	STRING_EN[7545]["real_idx"] = 7545
 
 STRING_EN["index"][7546] = 7546
 STRING_EN[7546] = {}
 	STRING_EN[7546]["ID"] = 7546
 	STRING_EN[7546]["KEY"] = "SALVAGE_COUNT8"
-	STRING_EN[7546]["VALUE"] = "Salvage wreckage VII"
+	STRING_EN[7546]["VALUE"] = "Salvage Wreckage VII"
 	STRING_EN[7546]["real_idx"] = 7546
 
 STRING_EN["index"][7547] = 7547
 STRING_EN[7547] = {}
 	STRING_EN[7547]["ID"] = 7547
 	STRING_EN[7547]["KEY"] = "SALVAGE_COUNT9"
-	STRING_EN[7547]["VALUE"] = "Salvage wreckage VIII"
+	STRING_EN[7547]["VALUE"] = "Salvage Wreckage VIII"
 	STRING_EN[7547]["real_idx"] = 7547
 
 STRING_EN["index"][7548] = 7548
 STRING_EN[7548] = {}
 	STRING_EN[7548]["ID"] = 7548
 	STRING_EN[7548]["KEY"] = "SALVAGE_COUNT10"
-	STRING_EN[7548]["VALUE"] = "Salvage wreckage IX"
+	STRING_EN[7548]["VALUE"] = "Salvage Wreckage IX"
 	STRING_EN[7548]["real_idx"] = 7548
 
 STRING_EN["index"][7549] = 7549
 STRING_EN[7549] = {}
 	STRING_EN[7549]["ID"] = 7549
 	STRING_EN[7549]["KEY"] = "SALVAGE_COUNT11"
-	STRING_EN[7549]["VALUE"] = "Salvage wreckage X"
+	STRING_EN[7549]["VALUE"] = "Salvage Wreckage X"
 	STRING_EN[7549]["real_idx"] = 7549
 
 STRING_EN["index"][7550] = 7550
 STRING_EN[7550] = {}
 	STRING_EN[7550]["ID"] = 7550
 	STRING_EN[7550]["KEY"] = "SALVAGE_COUNT12"
-	STRING_EN[7550]["VALUE"] = "Salvage wreckage XI"
+	STRING_EN[7550]["VALUE"] = "Salvage Wreckage XI"
 	STRING_EN[7550]["real_idx"] = 7550
 
 STRING_EN["index"][7551] = 7551
 STRING_EN[7551] = {}
 	STRING_EN[7551]["ID"] = 7551
 	STRING_EN[7551]["KEY"] = "SALVAGE_COUNT13"
-	STRING_EN[7551]["VALUE"] = "Salvage wreckage XII"
+	STRING_EN[7551]["VALUE"] = "Salvage Wreckage XII"
 	STRING_EN[7551]["real_idx"] = 7551
 
 STRING_EN["index"][7552] = 7552
 STRING_EN[7552] = {}
 	STRING_EN[7552]["ID"] = 7552
 	STRING_EN[7552]["KEY"] = "SALVAGE_COUNT14"
-	STRING_EN[7552]["VALUE"] = "Salvage wreckage XIII"
+	STRING_EN[7552]["VALUE"] = "Salvage Wreckage XIII"
 	STRING_EN[7552]["real_idx"] = 7552
 
 STRING_EN["index"][7553] = 7553
 STRING_EN[7553] = {}
 	STRING_EN[7553]["ID"] = 7553
 	STRING_EN[7553]["KEY"] = "SALVAGE_COUNT15"
-	STRING_EN[7553]["VALUE"] = "Salvage wreckage XIV"
+	STRING_EN[7553]["VALUE"] = "Salvage Wreckage XIV"
 	STRING_EN[7553]["real_idx"] = 7553
 
 STRING_EN["index"][7554] = 7554
 STRING_EN[7554] = {}
 	STRING_EN[7554]["ID"] = 7554
 	STRING_EN[7554]["KEY"] = "SALVAGE_COUNT16"
-	STRING_EN[7554]["VALUE"] = "Salvage wreckage XV"
+	STRING_EN[7554]["VALUE"] = "Salvage Wreckage XV"
 	STRING_EN[7554]["real_idx"] = 7554
 
 STRING_EN["index"][7555] = 7555
 STRING_EN[7555] = {}
 	STRING_EN[7555]["ID"] = 7555
 	STRING_EN[7555]["KEY"] = "SALVAGE_COUNT17"
-	STRING_EN[7555]["VALUE"] = "Salvage wreckage XVI"
+	STRING_EN[7555]["VALUE"] = "Salvage Wreckage XVI"
 	STRING_EN[7555]["real_idx"] = 7555
 
 STRING_EN["index"][7556] = 7556
 STRING_EN[7556] = {}
 	STRING_EN[7556]["ID"] = 7556
 	STRING_EN[7556]["KEY"] = "SALVAGE_COUNT18"
-	STRING_EN[7556]["VALUE"] = "Salvage wreckage XVII"
+	STRING_EN[7556]["VALUE"] = "Salvage Wreckage XVII"
 	STRING_EN[7556]["real_idx"] = 7556
 
 STRING_EN["index"][7557] = 7557
 STRING_EN[7557] = {}
 	STRING_EN[7557]["ID"] = 7557
 	STRING_EN[7557]["KEY"] = "SALVAGE_COUNT19"
-	STRING_EN[7557]["VALUE"] = "Salvage wreckage XVIII"
+	STRING_EN[7557]["VALUE"] = "Salvage Wreckage XVIII"
 	STRING_EN[7557]["real_idx"] = 7557
 
 STRING_EN["index"][7558] = 7558
 STRING_EN[7558] = {}
 	STRING_EN[7558]["ID"] = 7558
 	STRING_EN[7558]["KEY"] = "SALVAGE_COUNT20"
-	STRING_EN[7558]["VALUE"] = "Salvage wreckage XIX"
+	STRING_EN[7558]["VALUE"] = "Salvage Wreckage XIX"
 	STRING_EN[7558]["real_idx"] = 7558
 
 STRING_EN["index"][7559] = 7559
 STRING_EN[7559] = {}
 	STRING_EN[7559]["ID"] = 7559
 	STRING_EN[7559]["KEY"] = "SALVAGE_COUNT21"
-	STRING_EN[7559]["VALUE"] = "Salvage wreckage XX"
+	STRING_EN[7559]["VALUE"] = "Salvage Wreckage XX"
 	STRING_EN[7559]["real_idx"] = 7559
 
 STRING_EN["index"][7560] = 7560
 STRING_EN[7560] = {}
 	STRING_EN[7560]["ID"] = 7560
 	STRING_EN[7560]["KEY"] = "SALVAGE_COUNT22"
-	STRING_EN[7560]["VALUE"] = "Salvage wreckage XXI"
+	STRING_EN[7560]["VALUE"] = "Salvage Wreckage XXI"
 	STRING_EN[7560]["real_idx"] = 7560
 
 STRING_EN["index"][7561] = 7561
 STRING_EN[7561] = {}
 	STRING_EN[7561]["ID"] = 7561
 	STRING_EN[7561]["KEY"] = "SALVAGE_COUNT23"
-	STRING_EN[7561]["VALUE"] = "Salvage wreckage XXII"
+	STRING_EN[7561]["VALUE"] = "Salvage Wreckage XXII"
 	STRING_EN[7561]["real_idx"] = 7561
 
 STRING_EN["index"][7562] = 7562
 STRING_EN[7562] = {}
 	STRING_EN[7562]["ID"] = 7562
 	STRING_EN[7562]["KEY"] = "SALVAGE_COUNT24"
-	STRING_EN[7562]["VALUE"] = "Salvage wreckage XXIII"
+	STRING_EN[7562]["VALUE"] = "Salvage Wreckage XXIII"
 	STRING_EN[7562]["real_idx"] = 7562
 
 STRING_EN["index"][7563] = 7563
 STRING_EN[7563] = {}
 	STRING_EN[7563]["ID"] = 7563
 	STRING_EN[7563]["KEY"] = "SALVAGE_COUNT25"
-	STRING_EN[7563]["VALUE"] = "Salvage wreckage XXIV"
+	STRING_EN[7563]["VALUE"] = "Salvage Wreckage XXIV"
 	STRING_EN[7563]["real_idx"] = 7563
 
 STRING_EN["index"][7564] = 7564
 STRING_EN[7564] = {}
 	STRING_EN[7564]["ID"] = 7564
 	STRING_EN[7564]["KEY"] = "SALVAGE_COUNT26"
-	STRING_EN[7564]["VALUE"] = "Salvage wreckage XXV"
+	STRING_EN[7564]["VALUE"] = "Salvage Wreckage XXV"
 	STRING_EN[7564]["real_idx"] = 7564
 
 STRING_EN["index"][7565] = 7565
 STRING_EN[7565] = {}
 	STRING_EN[7565]["ID"] = 7565
 	STRING_EN[7565]["KEY"] = "SALVAGE_COUNT27"
-	STRING_EN[7565]["VALUE"] = "Salvage wreckage XXVI"
+	STRING_EN[7565]["VALUE"] = "Salvage Wreckage XXVI"
 	STRING_EN[7565]["real_idx"] = 7565
 
 STRING_EN["index"][7566] = 7566
 STRING_EN[7566] = {}
 	STRING_EN[7566]["ID"] = 7566
 	STRING_EN[7566]["KEY"] = "SALVAGE_COUNT28"
-	STRING_EN[7566]["VALUE"] = "Salvage wreckage XXVII"
+	STRING_EN[7566]["VALUE"] = "Salvage Wreckage XXVII"
 	STRING_EN[7566]["real_idx"] = 7566
 
 STRING_EN["index"][7567] = 7567
 STRING_EN[7567] = {}
 	STRING_EN[7567]["ID"] = 7567
 	STRING_EN[7567]["KEY"] = "SALVAGE_COUNT29"
-	STRING_EN[7567]["VALUE"] = "Salvage wreckage XXVIII"
+	STRING_EN[7567]["VALUE"] = "Salvage Wreckage XXVIII"
 	STRING_EN[7567]["real_idx"] = 7567
 
 STRING_EN["index"][7568] = 7568
 STRING_EN[7568] = {}
 	STRING_EN[7568]["ID"] = 7568
 	STRING_EN[7568]["KEY"] = "SALVAGE_COUNT30"
-	STRING_EN[7568]["VALUE"] = "Salvage wreckage XXIX"
+	STRING_EN[7568]["VALUE"] = "Salvage Wreckage XXIX"
 	STRING_EN[7568]["real_idx"] = 7568
 
 STRING_EN["index"][7569] = 7569
 STRING_EN[7569] = {}
 	STRING_EN[7569]["ID"] = 7569
 	STRING_EN[7569]["KEY"] = "SALVAGE_COUNT31"
-	STRING_EN[7569]["VALUE"] = "Salvage wreckage XXX"
+	STRING_EN[7569]["VALUE"] = "Salvage Wreckage XXX"
 	STRING_EN[7569]["real_idx"] = 7569
 
 STRING_EN["index"][7570] = 7570
 STRING_EN[7570] = {}
 	STRING_EN[7570]["ID"] = 7570
 	STRING_EN[7570]["KEY"] = "SALVAGE_COUNT32"
-	STRING_EN[7570]["VALUE"] = "Salvage wreckage XXXI"
+	STRING_EN[7570]["VALUE"] = "Salvage Wreckage XXXI"
 	STRING_EN[7570]["real_idx"] = 7570
 
 STRING_EN["index"][7571] = 7571
 STRING_EN[7571] = {}
 	STRING_EN[7571]["ID"] = 7571
 	STRING_EN[7571]["KEY"] = "SALVAGE_COUNT33"
-	STRING_EN[7571]["VALUE"] = "Salvage wreckage XXXII"
+	STRING_EN[7571]["VALUE"] = "Salvage Wreckage XXXII"
 	STRING_EN[7571]["real_idx"] = 7571
 
 STRING_EN["index"][7572] = 7572
 STRING_EN[7572] = {}
 	STRING_EN[7572]["ID"] = 7572
 	STRING_EN[7572]["KEY"] = "SALVAGE_COUNT34"
-	STRING_EN[7572]["VALUE"] = "Salvage wreckage XXXIII"
+	STRING_EN[7572]["VALUE"] = "Salvage Wreckage XXXIII"
 	STRING_EN[7572]["real_idx"] = 7572
 
 STRING_EN["index"][7573] = 7573
 STRING_EN[7573] = {}
 	STRING_EN[7573]["ID"] = 7573
 	STRING_EN[7573]["KEY"] = "SALVAGE_COUNT35"
-	STRING_EN[7573]["VALUE"] = "Salvage wreckage XXXIV"
+	STRING_EN[7573]["VALUE"] = "Salvage Wreckage XXXIV"
 	STRING_EN[7573]["real_idx"] = 7573
 
 STRING_EN["index"][7574] = 7574
 STRING_EN[7574] = {}
 	STRING_EN[7574]["ID"] = 7574
 	STRING_EN[7574]["KEY"] = "SALVAGE_COUNT36"
-	STRING_EN[7574]["VALUE"] = "Salvage wreckage XXXV"
+	STRING_EN[7574]["VALUE"] = "Salvage Wreckage XXXV"
 	STRING_EN[7574]["real_idx"] = 7574
 
 STRING_EN["index"][7575] = 7575
 STRING_EN[7575] = {}
 	STRING_EN[7575]["ID"] = 7575
 	STRING_EN[7575]["KEY"] = "SALVAGE_COUNT37"
-	STRING_EN[7575]["VALUE"] = "Salvage wreckage XXXVI"
+	STRING_EN[7575]["VALUE"] = "Salvage Wreckage XXXVI"
 	STRING_EN[7575]["real_idx"] = 7575
 
 STRING_EN["index"][7576] = 7576
 STRING_EN[7576] = {}
 	STRING_EN[7576]["ID"] = 7576
 	STRING_EN[7576]["KEY"] = "SALVAGE_COUNT38"
-	STRING_EN[7576]["VALUE"] = "Salvage wreckage XXXVII"
+	STRING_EN[7576]["VALUE"] = "Salvage Wreckage XXXVII"
 	STRING_EN[7576]["real_idx"] = 7576
 
 STRING_EN["index"][7577] = 7577
 STRING_EN[7577] = {}
 	STRING_EN[7577]["ID"] = 7577
 	STRING_EN[7577]["KEY"] = "SALVAGE_COUNT39"
-	STRING_EN[7577]["VALUE"] = "Salvage wreckage XXXVIII"
+	STRING_EN[7577]["VALUE"] = "Salvage Wreckage XXXVIII"
 	STRING_EN[7577]["real_idx"] = 7577
 
 STRING_EN["index"][7578] = 7578
 STRING_EN[7578] = {}
 	STRING_EN[7578]["ID"] = 7578
 	STRING_EN[7578]["KEY"] = "SALVAGE_COUNT40"
-	STRING_EN[7578]["VALUE"] = "Salvage wreckage XXXIX"
+	STRING_EN[7578]["VALUE"] = "Salvage Wreckage XXXIX"
 	STRING_EN[7578]["real_idx"] = 7578
 
 STRING_EN["index"][7579] = 7579
 STRING_EN[7579] = {}
 	STRING_EN[7579]["ID"] = 7579
 	STRING_EN[7579]["KEY"] = "SALVAGE_COUNT41"
-	STRING_EN[7579]["VALUE"] = "Salvage wreckage XL"
+	STRING_EN[7579]["VALUE"] = "Salvage Wreckage XL"
 	STRING_EN[7579]["real_idx"] = 7579
 
 STRING_EN["index"][7580] = 7580
 STRING_EN[7580] = {}
 	STRING_EN[7580]["ID"] = 7580
 	STRING_EN[7580]["KEY"] = "SALVAGE_COUNT42"
-	STRING_EN[7580]["VALUE"] = "Salvage wreckage XLI"
+	STRING_EN[7580]["VALUE"] = "Salvage Wreckage XLI"
 	STRING_EN[7580]["real_idx"] = 7580
 
 STRING_EN["index"][7581] = 7581
 STRING_EN[7581] = {}
 	STRING_EN[7581]["ID"] = 7581
 	STRING_EN[7581]["KEY"] = "SALVAGE_COUNT43"
-	STRING_EN[7581]["VALUE"] = "Salvage wreckage XLII"
+	STRING_EN[7581]["VALUE"] = "Salvage Wreckage XLII"
 	STRING_EN[7581]["real_idx"] = 7581
 
 STRING_EN["index"][7582] = 7582
 STRING_EN[7582] = {}
 	STRING_EN[7582]["ID"] = 7582
 	STRING_EN[7582]["KEY"] = "SALVAGE_COUNT44"
-	STRING_EN[7582]["VALUE"] = "Salvage wreckage XLIII"
+	STRING_EN[7582]["VALUE"] = "Salvage Wreckage XLIII"
 	STRING_EN[7582]["real_idx"] = 7582
 
 STRING_EN["index"][7583] = 7583
 STRING_EN[7583] = {}
 	STRING_EN[7583]["ID"] = 7583
 	STRING_EN[7583]["KEY"] = "SALVAGE_COUNT45"
-	STRING_EN[7583]["VALUE"] = "Salvage wreckage XLIV"
+	STRING_EN[7583]["VALUE"] = "Salvage Wreckage XLIV"
 	STRING_EN[7583]["real_idx"] = 7583
 
 STRING_EN["index"][7584] = 7584
 STRING_EN[7584] = {}
 	STRING_EN[7584]["ID"] = 7584
 	STRING_EN[7584]["KEY"] = "ATTACK_COUNT2"
-	STRING_EN[7584]["VALUE"] = "Artificial intelligence I"
+	STRING_EN[7584]["VALUE"] = "Artificial Intelligence I"
 	STRING_EN[7584]["real_idx"] = 7584
 
 STRING_EN["index"][7585] = 7585
@@ -53113,7 +53113,7 @@ STRING_EN["index"][7588] = 7588
 STRING_EN[7588] = {}
 	STRING_EN[7588]["ID"] = 7588
 	STRING_EN[7588]["KEY"] = "ATTACK_COUNT6"
-	STRING_EN[7588]["VALUE"] = "Artificial intelligence V"
+	STRING_EN[7588]["VALUE"] = "Artificial Intelligence V"
 	STRING_EN[7588]["real_idx"] = 7588
 
 STRING_EN["index"][7589] = 7589
@@ -53183,7 +53183,7 @@ STRING_EN["index"][7598] = 7598
 STRING_EN[7598] = {}
 	STRING_EN[7598]["ID"] = 7598
 	STRING_EN[7598]["KEY"] = "ATTACK_COUNT16"
-	STRING_EN[7598]["VALUE"] = "Artificial intelligence XV"
+	STRING_EN[7598]["VALUE"] = "Artificial Intelligence XV"
 	STRING_EN[7598]["real_idx"] = 7598
 
 STRING_EN["index"][7599] = 7599
@@ -53218,7 +53218,7 @@ STRING_EN["index"][7603] = 7603
 STRING_EN[7603] = {}
 	STRING_EN[7603]["ID"] = 7603
 	STRING_EN[7603]["KEY"] = "ATTACK_COUNT21"
-	STRING_EN[7603]["VALUE"] = "Artificial intelligence XX"
+	STRING_EN[7603]["VALUE"] = "Artificial Intelligence XX"
 	STRING_EN[7603]["real_idx"] = 7603
 
 STRING_EN["index"][7604] = 7604
@@ -53365,7 +53365,7 @@ STRING_EN["index"][7624] = 7624
 STRING_EN[7624] = {}
 	STRING_EN[7624]["ID"] = 7624
 	STRING_EN[7624]["KEY"] = "ATTACK_COUNT42"
-	STRING_EN[7624]["VALUE"] = "Artificial intelligence XLI"
+	STRING_EN[7624]["VALUE"] = "Artificial Intelligence XLI"
 	STRING_EN[7624]["real_idx"] = 7624
 
 STRING_EN["index"][7625] = 7625
@@ -53701,3570 +53701,3570 @@ STRING_EN["index"][7672] = 7672
 STRING_EN[7672] = {}
 	STRING_EN[7672]["ID"] = 7672
 	STRING_EN[7672]["KEY"] = "M_SCOUTTOWER_UP2"
-	STRING_EN[7672]["VALUE"] = "The scout tower rose to level 2"
+	STRING_EN[7672]["VALUE"] = "Scout Tower upgraded to level 2"
 	STRING_EN[7672]["real_idx"] = 7672
 
 STRING_EN["index"][7673] = 7673
 STRING_EN[7673] = {}
 	STRING_EN[7673]["ID"] = 7673
 	STRING_EN[7673]["KEY"] = "M_SCOUTTOWER_UP3"
-	STRING_EN[7673]["VALUE"] = "The scout tower rose to level 3"
+	STRING_EN[7673]["VALUE"] = "Scout Tower upgraded to level 3"
 	STRING_EN[7673]["real_idx"] = 7673
 
 STRING_EN["index"][7674] = 7674
 STRING_EN[7674] = {}
 	STRING_EN[7674]["ID"] = 7674
 	STRING_EN[7674]["KEY"] = "M_SCOUTTOWER_UP4"
-	STRING_EN[7674]["VALUE"] = "The scout tower rose to level 4"
+	STRING_EN[7674]["VALUE"] = "Scout Tower upgraded to level 4"
 	STRING_EN[7674]["real_idx"] = 7674
 
 STRING_EN["index"][7675] = 7675
 STRING_EN[7675] = {}
 	STRING_EN[7675]["ID"] = 7675
 	STRING_EN[7675]["KEY"] = "M_SCOUTTOWER_UP5"
-	STRING_EN[7675]["VALUE"] = "The scout tower rose to level 5"
+	STRING_EN[7675]["VALUE"] = "Scout Tower upgraded to level 5"
 	STRING_EN[7675]["real_idx"] = 7675
 
 STRING_EN["index"][7676] = 7676
 STRING_EN[7676] = {}
 	STRING_EN[7676]["ID"] = 7676
 	STRING_EN[7676]["KEY"] = "M_SCOUTTOWER_UP6"
-	STRING_EN[7676]["VALUE"] = "The scout tower rose to level 6"
+	STRING_EN[7676]["VALUE"] = "Scout Tower upgraded to level 6"
 	STRING_EN[7676]["real_idx"] = 7676
 
 STRING_EN["index"][7677] = 7677
 STRING_EN[7677] = {}
 	STRING_EN[7677]["ID"] = 7677
 	STRING_EN[7677]["KEY"] = "M_SCOUTTOWER_UP7"
-	STRING_EN[7677]["VALUE"] = "The scout tower rose to level 7"
+	STRING_EN[7677]["VALUE"] = "Scout Tower upgraded to level 7"
 	STRING_EN[7677]["real_idx"] = 7677
 
 STRING_EN["index"][7678] = 7678
 STRING_EN[7678] = {}
 	STRING_EN[7678]["ID"] = 7678
 	STRING_EN[7678]["KEY"] = "M_SCOUTTOWER_UP8"
-	STRING_EN[7678]["VALUE"] = "The scout tower rose to level 8"
+	STRING_EN[7678]["VALUE"] = "Scout Tower upgraded to level 8"
 	STRING_EN[7678]["real_idx"] = 7678
 
 STRING_EN["index"][7679] = 7679
 STRING_EN[7679] = {}
 	STRING_EN[7679]["ID"] = 7679
 	STRING_EN[7679]["KEY"] = "M_SCOUTTOWER_UP9"
-	STRING_EN[7679]["VALUE"] = "The scout tower rose to level 9"
+	STRING_EN[7679]["VALUE"] = "Scout Tower upgraded to level 9"
 	STRING_EN[7679]["real_idx"] = 7679
 
 STRING_EN["index"][7680] = 7680
 STRING_EN[7680] = {}
 	STRING_EN[7680]["ID"] = 7680
 	STRING_EN[7680]["KEY"] = "M_SCOUTTOWER_UP10"
-	STRING_EN[7680]["VALUE"] = "The scout tower rose to level 10"
+	STRING_EN[7680]["VALUE"] = "Scout Tower upgraded to level 10"
 	STRING_EN[7680]["real_idx"] = 7680
 
 STRING_EN["index"][7681] = 7681
 STRING_EN[7681] = {}
 	STRING_EN[7681]["ID"] = 7681
 	STRING_EN[7681]["KEY"] = "M_SCOUTTOWER_UP11"
-	STRING_EN[7681]["VALUE"] = "The scout tower rose to level 11"
+	STRING_EN[7681]["VALUE"] = "Scout Tower upgraded to level 11"
 	STRING_EN[7681]["real_idx"] = 7681
 
 STRING_EN["index"][7682] = 7682
 STRING_EN[7682] = {}
 	STRING_EN[7682]["ID"] = 7682
 	STRING_EN[7682]["KEY"] = "M_SCOUTTOWER_UP12"
-	STRING_EN[7682]["VALUE"] = "The scout tower rose to level 12"
+	STRING_EN[7682]["VALUE"] = "Scout Tower upgraded to level 12"
 	STRING_EN[7682]["real_idx"] = 7682
 
 STRING_EN["index"][7683] = 7683
 STRING_EN[7683] = {}
 	STRING_EN[7683]["ID"] = 7683
 	STRING_EN[7683]["KEY"] = "M_SCOUTTOWER_UP13"
-	STRING_EN[7683]["VALUE"] = "The scout tower rose to level 13"
+	STRING_EN[7683]["VALUE"] = "Scout Tower upgraded to level 13"
 	STRING_EN[7683]["real_idx"] = 7683
 
 STRING_EN["index"][7684] = 7684
 STRING_EN[7684] = {}
 	STRING_EN[7684]["ID"] = 7684
 	STRING_EN[7684]["KEY"] = "M_SCOUTTOWER_UP14"
-	STRING_EN[7684]["VALUE"] = "The scout tower rose to level 14"
+	STRING_EN[7684]["VALUE"] = "Scout Tower upgraded to level 14"
 	STRING_EN[7684]["real_idx"] = 7684
 
 STRING_EN["index"][7685] = 7685
 STRING_EN[7685] = {}
 	STRING_EN[7685]["ID"] = 7685
 	STRING_EN[7685]["KEY"] = "M_SCOUTTOWER_UP15"
-	STRING_EN[7685]["VALUE"] = "The scout tower rose to level 15"
+	STRING_EN[7685]["VALUE"] = "Scout Tower upgraded to level 15"
 	STRING_EN[7685]["real_idx"] = 7685
 
 STRING_EN["index"][7686] = 7686
 STRING_EN[7686] = {}
 	STRING_EN[7686]["ID"] = 7686
 	STRING_EN[7686]["KEY"] = "M_SCOUTTOWER_UP16"
-	STRING_EN[7686]["VALUE"] = "The scout tower rose to level 16"
+	STRING_EN[7686]["VALUE"] = "Scout Tower upgraded to level 16"
 	STRING_EN[7686]["real_idx"] = 7686
 
 STRING_EN["index"][7687] = 7687
 STRING_EN[7687] = {}
 	STRING_EN[7687]["ID"] = 7687
 	STRING_EN[7687]["KEY"] = "M_SCOUTTOWER_UP17"
-	STRING_EN[7687]["VALUE"] = "The scout tower rose to level 17"
+	STRING_EN[7687]["VALUE"] = "Scout Tower upgraded to level 17"
 	STRING_EN[7687]["real_idx"] = 7687
 
 STRING_EN["index"][7688] = 7688
 STRING_EN[7688] = {}
 	STRING_EN[7688]["ID"] = 7688
 	STRING_EN[7688]["KEY"] = "M_SCOUTTOWER_UP18"
-	STRING_EN[7688]["VALUE"] = "The scout tower rose to level 18"
+	STRING_EN[7688]["VALUE"] = "Scout Tower upgraded to level 18"
 	STRING_EN[7688]["real_idx"] = 7688
 
 STRING_EN["index"][7689] = 7689
 STRING_EN[7689] = {}
 	STRING_EN[7689]["ID"] = 7689
 	STRING_EN[7689]["KEY"] = "M_SCOUTTOWER_UP19"
-	STRING_EN[7689]["VALUE"] = "The scout tower rose to level 19"
+	STRING_EN[7689]["VALUE"] = "Scout Tower upgraded to level 19"
 	STRING_EN[7689]["real_idx"] = 7689
 
 STRING_EN["index"][7690] = 7690
 STRING_EN[7690] = {}
 	STRING_EN[7690]["ID"] = 7690
 	STRING_EN[7690]["KEY"] = "M_SCOUTTOWER_UP20"
-	STRING_EN[7690]["VALUE"] = "The scout tower rose to level 20"
+	STRING_EN[7690]["VALUE"] = "Scout Tower upgraded to level 20"
 	STRING_EN[7690]["real_idx"] = 7690
 
 STRING_EN["index"][7691] = 7691
 STRING_EN[7691] = {}
 	STRING_EN[7691]["ID"] = 7691
 	STRING_EN[7691]["KEY"] = "M_SCOUTTOWER_UP21"
-	STRING_EN[7691]["VALUE"] = "The scout tower rose to level 21"
+	STRING_EN[7691]["VALUE"] = "Scout Tower upgraded to level 21"
 	STRING_EN[7691]["real_idx"] = 7691
 
 STRING_EN["index"][7692] = 7692
 STRING_EN[7692] = {}
 	STRING_EN[7692]["ID"] = 7692
 	STRING_EN[7692]["KEY"] = "M_SCOUTTOWER_UP22"
-	STRING_EN[7692]["VALUE"] = "The scout tower rose to level 22"
+	STRING_EN[7692]["VALUE"] = "Scout Tower upgraded to level 22"
 	STRING_EN[7692]["real_idx"] = 7692
 
 STRING_EN["index"][7693] = 7693
 STRING_EN[7693] = {}
 	STRING_EN[7693]["ID"] = 7693
 	STRING_EN[7693]["KEY"] = "M_SCOUTTOWER_UP23"
-	STRING_EN[7693]["VALUE"] = "The scout tower rose to level 23"
+	STRING_EN[7693]["VALUE"] = "Scout Tower upgraded to level 23"
 	STRING_EN[7693]["real_idx"] = 7693
 
 STRING_EN["index"][7694] = 7694
 STRING_EN[7694] = {}
 	STRING_EN[7694]["ID"] = 7694
 	STRING_EN[7694]["KEY"] = "M_SCOUTTOWER_UP24"
-	STRING_EN[7694]["VALUE"] = "The scout tower rose to level 24"
+	STRING_EN[7694]["VALUE"] = "Scout Tower upgraded to level 24"
 	STRING_EN[7694]["real_idx"] = 7694
 
 STRING_EN["index"][7695] = 7695
 STRING_EN[7695] = {}
 	STRING_EN[7695]["ID"] = 7695
 	STRING_EN[7695]["KEY"] = "M_SCOUTTOWER_UP25"
-	STRING_EN[7695]["VALUE"] = "The scout tower rose to level 25"
+	STRING_EN[7695]["VALUE"] = "Scout Tower upgraded to level 25"
 	STRING_EN[7695]["real_idx"] = 7695
 
 STRING_EN["index"][7696] = 7696
 STRING_EN[7696] = {}
 	STRING_EN[7696]["ID"] = 7696
 	STRING_EN[7696]["KEY"] = "M_SCOUTTOWER_UP26"
-	STRING_EN[7696]["VALUE"] = "The scout tower rose to level 26"
+	STRING_EN[7696]["VALUE"] = "Scout Tower upgraded to level 26"
 	STRING_EN[7696]["real_idx"] = 7696
 
 STRING_EN["index"][7697] = 7697
 STRING_EN[7697] = {}
 	STRING_EN[7697]["ID"] = 7697
 	STRING_EN[7697]["KEY"] = "M_SCOUTTOWER_UP27"
-	STRING_EN[7697]["VALUE"] = "The scout tower rose to level 27"
+	STRING_EN[7697]["VALUE"] = "Scout Tower upgraded to level 27"
 	STRING_EN[7697]["real_idx"] = 7697
 
 STRING_EN["index"][7698] = 7698
 STRING_EN[7698] = {}
 	STRING_EN[7698]["ID"] = 7698
 	STRING_EN[7698]["KEY"] = "M_SCOUTTOWER_UP28"
-	STRING_EN[7698]["VALUE"] = "The scout tower rose to level 28"
+	STRING_EN[7698]["VALUE"] = "Scout Tower upgraded to level 28"
 	STRING_EN[7698]["real_idx"] = 7698
 
 STRING_EN["index"][7699] = 7699
 STRING_EN[7699] = {}
 	STRING_EN[7699]["ID"] = 7699
 	STRING_EN[7699]["KEY"] = "M_SCOUTTOWER_UP29"
-	STRING_EN[7699]["VALUE"] = "The scout tower rose to level 29"
+	STRING_EN[7699]["VALUE"] = "Scout Tower upgraded to level 29"
 	STRING_EN[7699]["real_idx"] = 7699
 
 STRING_EN["index"][7700] = 7700
 STRING_EN[7700] = {}
 	STRING_EN[7700]["ID"] = 7700
 	STRING_EN[7700]["KEY"] = "M_SCOUTTOWER_UP30"
-	STRING_EN[7700]["VALUE"] = "The scout tower rose to level 30"
+	STRING_EN[7700]["VALUE"] = "Scout Tower upgraded to level 30"
 	STRING_EN[7700]["real_idx"] = 7700
 
 STRING_EN["index"][7701] = 7701
 STRING_EN[7701] = {}
 	STRING_EN[7701]["ID"] = 7701
 	STRING_EN[7701]["KEY"] = "M_SCOUTTOWER_UP31"
-	STRING_EN[7701]["VALUE"] = "The scout tower rose to level 31"
+	STRING_EN[7701]["VALUE"] = "Scout Tower upgraded to level 31"
 	STRING_EN[7701]["real_idx"] = 7701
 
 STRING_EN["index"][7702] = 7702
 STRING_EN[7702] = {}
 	STRING_EN[7702]["ID"] = 7702
 	STRING_EN[7702]["KEY"] = "M_SCOUTTOWER_UP32"
-	STRING_EN[7702]["VALUE"] = "The scout tower rose to level 32"
+	STRING_EN[7702]["VALUE"] = "Scout Tower upgraded to level 32"
 	STRING_EN[7702]["real_idx"] = 7702
 
 STRING_EN["index"][7703] = 7703
 STRING_EN[7703] = {}
 	STRING_EN[7703]["ID"] = 7703
 	STRING_EN[7703]["KEY"] = "M_SCOUTTOWER_UP33"
-	STRING_EN[7703]["VALUE"] = "The scout tower rose to level 33"
+	STRING_EN[7703]["VALUE"] = "Scout Tower upgraded to level 33"
 	STRING_EN[7703]["real_idx"] = 7703
 
 STRING_EN["index"][7704] = 7704
 STRING_EN[7704] = {}
 	STRING_EN[7704]["ID"] = 7704
 	STRING_EN[7704]["KEY"] = "M_SCOUTTOWER_UP34"
-	STRING_EN[7704]["VALUE"] = "The scout tower rose to level 34"
+	STRING_EN[7704]["VALUE"] = "Scout Tower upgraded to level 34"
 	STRING_EN[7704]["real_idx"] = 7704
 
 STRING_EN["index"][7705] = 7705
 STRING_EN[7705] = {}
 	STRING_EN[7705]["ID"] = 7705
 	STRING_EN[7705]["KEY"] = "M_SCOUTTOWER_UP35"
-	STRING_EN[7705]["VALUE"] = "The scout tower rose to level 35"
+	STRING_EN[7705]["VALUE"] = "Scout Tower upgraded to level 35"
 	STRING_EN[7705]["real_idx"] = 7705
 
 STRING_EN["index"][7706] = 7706
 STRING_EN[7706] = {}
 	STRING_EN[7706]["ID"] = 7706
 	STRING_EN[7706]["KEY"] = "M_SCOUTTOWER_UP36"
-	STRING_EN[7706]["VALUE"] = "The scout tower rose to level 36"
+	STRING_EN[7706]["VALUE"] = "Scout Tower upgraded to level 36"
 	STRING_EN[7706]["real_idx"] = 7706
 
 STRING_EN["index"][7707] = 7707
 STRING_EN[7707] = {}
 	STRING_EN[7707]["ID"] = 7707
 	STRING_EN[7707]["KEY"] = "M_SCOUTTOWER_UP37"
-	STRING_EN[7707]["VALUE"] = "The scout tower rose to level 37"
+	STRING_EN[7707]["VALUE"] = "Scout Tower upgraded to level 37"
 	STRING_EN[7707]["real_idx"] = 7707
 
 STRING_EN["index"][7708] = 7708
 STRING_EN[7708] = {}
 	STRING_EN[7708]["ID"] = 7708
 	STRING_EN[7708]["KEY"] = "M_SCOUTTOWER_UP38"
-	STRING_EN[7708]["VALUE"] = "The scout tower rose to level 38"
+	STRING_EN[7708]["VALUE"] = "Scout Tower upgraded to level 38"
 	STRING_EN[7708]["real_idx"] = 7708
 
 STRING_EN["index"][7709] = 7709
 STRING_EN[7709] = {}
 	STRING_EN[7709]["ID"] = 7709
 	STRING_EN[7709]["KEY"] = "M_SCOUTTOWER_UP39"
-	STRING_EN[7709]["VALUE"] = "The scout tower rose to level 39"
+	STRING_EN[7709]["VALUE"] = "Scout Tower upgraded to level 39"
 	STRING_EN[7709]["real_idx"] = 7709
 
 STRING_EN["index"][7710] = 7710
 STRING_EN[7710] = {}
 	STRING_EN[7710]["ID"] = 7710
 	STRING_EN[7710]["KEY"] = "M_SCOUTTOWER_UP40"
-	STRING_EN[7710]["VALUE"] = "The scout tower rose to level 40"
+	STRING_EN[7710]["VALUE"] = "Scout Tower upgraded to level 40"
 	STRING_EN[7710]["real_idx"] = 7710
 
 STRING_EN["index"][7711] = 7711
 STRING_EN[7711] = {}
 	STRING_EN[7711]["ID"] = 7711
 	STRING_EN[7711]["KEY"] = "M_SCOUTTOWER_UP41"
-	STRING_EN[7711]["VALUE"] = "The scout tower rose to level 41"
+	STRING_EN[7711]["VALUE"] = "Scout Tower upgraded to level 41"
 	STRING_EN[7711]["real_idx"] = 7711
 
 STRING_EN["index"][7712] = 7712
 STRING_EN[7712] = {}
 	STRING_EN[7712]["ID"] = 7712
 	STRING_EN[7712]["KEY"] = "M_SCOUTTOWER_UP42"
-	STRING_EN[7712]["VALUE"] = "The scout tower rose to level 42"
+	STRING_EN[7712]["VALUE"] = "Scout Tower upgraded to level 42"
 	STRING_EN[7712]["real_idx"] = 7712
 
 STRING_EN["index"][7713] = 7713
 STRING_EN[7713] = {}
 	STRING_EN[7713]["ID"] = 7713
 	STRING_EN[7713]["KEY"] = "M_SCOUTTOWER_UP43"
-	STRING_EN[7713]["VALUE"] = "The scout tower rose to level 43"
+	STRING_EN[7713]["VALUE"] = "Scout Tower upgraded to level 43"
 	STRING_EN[7713]["real_idx"] = 7713
 
 STRING_EN["index"][7714] = 7714
 STRING_EN[7714] = {}
 	STRING_EN[7714]["ID"] = 7714
 	STRING_EN[7714]["KEY"] = "M_SCOUTTOWER_UP44"
-	STRING_EN[7714]["VALUE"] = "The scout tower rose to level 44"
+	STRING_EN[7714]["VALUE"] = "Scout Tower upgraded to level 44"
 	STRING_EN[7714]["real_idx"] = 7714
 
 STRING_EN["index"][7715] = 7715
 STRING_EN[7715] = {}
 	STRING_EN[7715]["ID"] = 7715
 	STRING_EN[7715]["KEY"] = "M_SCOUTTOWER_UP45"
-	STRING_EN[7715]["VALUE"] = "The scout tower rose to level 45"
+	STRING_EN[7715]["VALUE"] = "Scout Tower upgraded to level 45"
 	STRING_EN[7715]["real_idx"] = 7715
 
 STRING_EN["index"][7716] = 7716
 STRING_EN[7716] = {}
 	STRING_EN[7716]["ID"] = 7716
 	STRING_EN[7716]["KEY"] = "M_BATTERY_UP2"
-	STRING_EN[7716]["VALUE"] = "Shoucheng Fortress rose to level 2"
+	STRING_EN[7716]["VALUE"] = "City Turret upgraded to level 2"
 	STRING_EN[7716]["real_idx"] = 7716
 
 STRING_EN["index"][7717] = 7717
 STRING_EN[7717] = {}
 	STRING_EN[7717]["ID"] = 7717
 	STRING_EN[7717]["KEY"] = "M_BATTERY_UP3"
-	STRING_EN[7717]["VALUE"] = "Shoucheng Fortress rose to level 3"
+	STRING_EN[7717]["VALUE"] = "City Turret upgraded to level 3"
 	STRING_EN[7717]["real_idx"] = 7717
 
 STRING_EN["index"][7718] = 7718
 STRING_EN[7718] = {}
 	STRING_EN[7718]["ID"] = 7718
 	STRING_EN[7718]["KEY"] = "M_BATTERY_UP4"
-	STRING_EN[7718]["VALUE"] = "Shoucheng Fortress rose to level 4"
+	STRING_EN[7718]["VALUE"] = "City Turret upgraded to level 4"
 	STRING_EN[7718]["real_idx"] = 7718
 
 STRING_EN["index"][7719] = 7719
 STRING_EN[7719] = {}
 	STRING_EN[7719]["ID"] = 7719
 	STRING_EN[7719]["KEY"] = "M_BATTERY_UP5"
-	STRING_EN[7719]["VALUE"] = "Shoucheng Fortress rose to level 5"
+	STRING_EN[7719]["VALUE"] = "City Turret upgraded to level 5"
 	STRING_EN[7719]["real_idx"] = 7719
 
 STRING_EN["index"][7720] = 7720
 STRING_EN[7720] = {}
 	STRING_EN[7720]["ID"] = 7720
 	STRING_EN[7720]["KEY"] = "M_BATTERY_UP6"
-	STRING_EN[7720]["VALUE"] = "Shoucheng Fortress rose to level 6"
+	STRING_EN[7720]["VALUE"] = "City Turret upgraded to level 6"
 	STRING_EN[7720]["real_idx"] = 7720
 
 STRING_EN["index"][7721] = 7721
 STRING_EN[7721] = {}
 	STRING_EN[7721]["ID"] = 7721
 	STRING_EN[7721]["KEY"] = "M_BATTERY_UP7"
-	STRING_EN[7721]["VALUE"] = "Shoucheng Fortress rose to level 7"
+	STRING_EN[7721]["VALUE"] = "City Turret upgraded to level 7"
 	STRING_EN[7721]["real_idx"] = 7721
 
 STRING_EN["index"][7722] = 7722
 STRING_EN[7722] = {}
 	STRING_EN[7722]["ID"] = 7722
 	STRING_EN[7722]["KEY"] = "M_BATTERY_UP8"
-	STRING_EN[7722]["VALUE"] = "Shoucheng Fortress rose to level 8"
+	STRING_EN[7722]["VALUE"] = "City Turret upgraded to level 8"
 	STRING_EN[7722]["real_idx"] = 7722
 
 STRING_EN["index"][7723] = 7723
 STRING_EN[7723] = {}
 	STRING_EN[7723]["ID"] = 7723
 	STRING_EN[7723]["KEY"] = "M_BATTERY_UP9"
-	STRING_EN[7723]["VALUE"] = "Shoucheng Fortress rose to level 9"
+	STRING_EN[7723]["VALUE"] = "City Turret upgraded to level 9"
 	STRING_EN[7723]["real_idx"] = 7723
 
 STRING_EN["index"][7724] = 7724
 STRING_EN[7724] = {}
 	STRING_EN[7724]["ID"] = 7724
 	STRING_EN[7724]["KEY"] = "M_BATTERY_UP10"
-	STRING_EN[7724]["VALUE"] = "Shoucheng Fortress rose to level 10"
+	STRING_EN[7724]["VALUE"] = "City Turret upgraded to level 10"
 	STRING_EN[7724]["real_idx"] = 7724
 
 STRING_EN["index"][7725] = 7725
 STRING_EN[7725] = {}
 	STRING_EN[7725]["ID"] = 7725
 	STRING_EN[7725]["KEY"] = "M_BATTERY_UP11"
-	STRING_EN[7725]["VALUE"] = "Shoucheng Fortress rose to level 11"
+	STRING_EN[7725]["VALUE"] = "City Turret upgraded to level 11"
 	STRING_EN[7725]["real_idx"] = 7725
 
 STRING_EN["index"][7726] = 7726
 STRING_EN[7726] = {}
 	STRING_EN[7726]["ID"] = 7726
 	STRING_EN[7726]["KEY"] = "M_BATTERY_UP12"
-	STRING_EN[7726]["VALUE"] = "Shoucheng Fortress rose to level 12"
+	STRING_EN[7726]["VALUE"] = "City Turret upgraded to level 12"
 	STRING_EN[7726]["real_idx"] = 7726
 
 STRING_EN["index"][7727] = 7727
 STRING_EN[7727] = {}
 	STRING_EN[7727]["ID"] = 7727
 	STRING_EN[7727]["KEY"] = "M_BATTERY_UP13"
-	STRING_EN[7727]["VALUE"] = "Shoucheng Fortress rose to level 13"
+	STRING_EN[7727]["VALUE"] = "City Turret upgraded to level 13"
 	STRING_EN[7727]["real_idx"] = 7727
 
 STRING_EN["index"][7728] = 7728
 STRING_EN[7728] = {}
 	STRING_EN[7728]["ID"] = 7728
 	STRING_EN[7728]["KEY"] = "M_BATTERY_UP14"
-	STRING_EN[7728]["VALUE"] = "Shoucheng Fortress rose to level 14"
+	STRING_EN[7728]["VALUE"] = "City Turret upgraded to level 14"
 	STRING_EN[7728]["real_idx"] = 7728
 
 STRING_EN["index"][7729] = 7729
 STRING_EN[7729] = {}
 	STRING_EN[7729]["ID"] = 7729
 	STRING_EN[7729]["KEY"] = "M_BATTERY_UP15"
-	STRING_EN[7729]["VALUE"] = "Shoucheng Fortress rose to level 15"
+	STRING_EN[7729]["VALUE"] = "City Turret upgraded to level 15"
 	STRING_EN[7729]["real_idx"] = 7729
 
 STRING_EN["index"][7730] = 7730
 STRING_EN[7730] = {}
 	STRING_EN[7730]["ID"] = 7730
 	STRING_EN[7730]["KEY"] = "M_BATTERY_UP16"
-	STRING_EN[7730]["VALUE"] = "Shoucheng Fortress rose to level 16"
+	STRING_EN[7730]["VALUE"] = "City Turret upgraded to level 16"
 	STRING_EN[7730]["real_idx"] = 7730
 
 STRING_EN["index"][7731] = 7731
 STRING_EN[7731] = {}
 	STRING_EN[7731]["ID"] = 7731
 	STRING_EN[7731]["KEY"] = "M_BATTERY_UP17"
-	STRING_EN[7731]["VALUE"] = "Shoucheng Fortress rose to level 17"
+	STRING_EN[7731]["VALUE"] = "City Turret upgraded to level 17"
 	STRING_EN[7731]["real_idx"] = 7731
 
 STRING_EN["index"][7732] = 7732
 STRING_EN[7732] = {}
 	STRING_EN[7732]["ID"] = 7732
 	STRING_EN[7732]["KEY"] = "M_BATTERY_UP18"
-	STRING_EN[7732]["VALUE"] = "Shoucheng Fortress rose to level 18"
+	STRING_EN[7732]["VALUE"] = "City Turret upgraded to level 18"
 	STRING_EN[7732]["real_idx"] = 7732
 
 STRING_EN["index"][7733] = 7733
 STRING_EN[7733] = {}
 	STRING_EN[7733]["ID"] = 7733
 	STRING_EN[7733]["KEY"] = "M_BATTERY_UP19"
-	STRING_EN[7733]["VALUE"] = "Shoucheng Fortress rose to level 19"
+	STRING_EN[7733]["VALUE"] = "City Turret upgraded to level 19"
 	STRING_EN[7733]["real_idx"] = 7733
 
 STRING_EN["index"][7734] = 7734
 STRING_EN[7734] = {}
 	STRING_EN[7734]["ID"] = 7734
 	STRING_EN[7734]["KEY"] = "M_BATTERY_UP20"
-	STRING_EN[7734]["VALUE"] = "Shoucheng Fortress rose to level 20"
+	STRING_EN[7734]["VALUE"] = "City Turret upgraded to level 20"
 	STRING_EN[7734]["real_idx"] = 7734
 
 STRING_EN["index"][7735] = 7735
 STRING_EN[7735] = {}
 	STRING_EN[7735]["ID"] = 7735
 	STRING_EN[7735]["KEY"] = "M_BATTERY_UP21"
-	STRING_EN[7735]["VALUE"] = "Shoucheng Fortress rose to level 21"
+	STRING_EN[7735]["VALUE"] = "City Turret upgraded to level 21"
 	STRING_EN[7735]["real_idx"] = 7735
 
 STRING_EN["index"][7736] = 7736
 STRING_EN[7736] = {}
 	STRING_EN[7736]["ID"] = 7736
 	STRING_EN[7736]["KEY"] = "M_BATTERY_UP22"
-	STRING_EN[7736]["VALUE"] = "Shoucheng Fortress rose to level 22"
+	STRING_EN[7736]["VALUE"] = "City Turret upgraded to level 22"
 	STRING_EN[7736]["real_idx"] = 7736
 
 STRING_EN["index"][7737] = 7737
 STRING_EN[7737] = {}
 	STRING_EN[7737]["ID"] = 7737
 	STRING_EN[7737]["KEY"] = "M_BATTERY_UP23"
-	STRING_EN[7737]["VALUE"] = "Shoucheng Fortress rose to level 23"
+	STRING_EN[7737]["VALUE"] = "City Turret upgraded to level 23"
 	STRING_EN[7737]["real_idx"] = 7737
 
 STRING_EN["index"][7738] = 7738
 STRING_EN[7738] = {}
 	STRING_EN[7738]["ID"] = 7738
 	STRING_EN[7738]["KEY"] = "M_BATTERY_UP24"
-	STRING_EN[7738]["VALUE"] = "Shoucheng Fortress rose to level 24"
+	STRING_EN[7738]["VALUE"] = "City Turret upgraded to level 24"
 	STRING_EN[7738]["real_idx"] = 7738
 
 STRING_EN["index"][7739] = 7739
 STRING_EN[7739] = {}
 	STRING_EN[7739]["ID"] = 7739
 	STRING_EN[7739]["KEY"] = "M_BATTERY_UP25"
-	STRING_EN[7739]["VALUE"] = "Shoucheng Fortress rose to level 25"
+	STRING_EN[7739]["VALUE"] = "City Turret upgraded to level 25"
 	STRING_EN[7739]["real_idx"] = 7739
 
 STRING_EN["index"][7740] = 7740
 STRING_EN[7740] = {}
 	STRING_EN[7740]["ID"] = 7740
 	STRING_EN[7740]["KEY"] = "M_BATTERY_UP26"
-	STRING_EN[7740]["VALUE"] = "Shoucheng Fortress rose to level 26"
+	STRING_EN[7740]["VALUE"] = "City Turret upgraded to level 26"
 	STRING_EN[7740]["real_idx"] = 7740
 
 STRING_EN["index"][7741] = 7741
 STRING_EN[7741] = {}
 	STRING_EN[7741]["ID"] = 7741
 	STRING_EN[7741]["KEY"] = "M_BATTERY_UP27"
-	STRING_EN[7741]["VALUE"] = "Shoucheng Fortress rose to level 27"
+	STRING_EN[7741]["VALUE"] = "City Turret upgraded to level 27"
 	STRING_EN[7741]["real_idx"] = 7741
 
 STRING_EN["index"][7742] = 7742
 STRING_EN[7742] = {}
 	STRING_EN[7742]["ID"] = 7742
 	STRING_EN[7742]["KEY"] = "M_BATTERY_UP28"
-	STRING_EN[7742]["VALUE"] = "Shoucheng Fortress rose to level 28"
+	STRING_EN[7742]["VALUE"] = "City Turret upgraded to level 28"
 	STRING_EN[7742]["real_idx"] = 7742
 
 STRING_EN["index"][7743] = 7743
 STRING_EN[7743] = {}
 	STRING_EN[7743]["ID"] = 7743
 	STRING_EN[7743]["KEY"] = "M_BATTERY_UP29"
-	STRING_EN[7743]["VALUE"] = "Shoucheng Fortress rose to level 29"
+	STRING_EN[7743]["VALUE"] = "City Turret upgraded to level 29"
 	STRING_EN[7743]["real_idx"] = 7743
 
 STRING_EN["index"][7744] = 7744
 STRING_EN[7744] = {}
 	STRING_EN[7744]["ID"] = 7744
 	STRING_EN[7744]["KEY"] = "M_BATTERY_UP30"
-	STRING_EN[7744]["VALUE"] = "Shoucheng Fortress rose to level 30"
+	STRING_EN[7744]["VALUE"] = "City Turret upgraded to level 30"
 	STRING_EN[7744]["real_idx"] = 7744
 
 STRING_EN["index"][7745] = 7745
 STRING_EN[7745] = {}
 	STRING_EN[7745]["ID"] = 7745
 	STRING_EN[7745]["KEY"] = "M_BATTERY_UP31"
-	STRING_EN[7745]["VALUE"] = "Shoucheng Fortress rose to level 31"
+	STRING_EN[7745]["VALUE"] = "City Turret upgraded to level 31"
 	STRING_EN[7745]["real_idx"] = 7745
 
 STRING_EN["index"][7746] = 7746
 STRING_EN[7746] = {}
 	STRING_EN[7746]["ID"] = 7746
 	STRING_EN[7746]["KEY"] = "M_BATTERY_UP32"
-	STRING_EN[7746]["VALUE"] = "Shoucheng Fortress rose to level 32"
+	STRING_EN[7746]["VALUE"] = "City Turret upgraded to level 32"
 	STRING_EN[7746]["real_idx"] = 7746
 
 STRING_EN["index"][7747] = 7747
 STRING_EN[7747] = {}
 	STRING_EN[7747]["ID"] = 7747
 	STRING_EN[7747]["KEY"] = "M_BATTERY_UP33"
-	STRING_EN[7747]["VALUE"] = "Shoucheng Fortress rose to level 33"
+	STRING_EN[7747]["VALUE"] = "City Turret upgraded to level 33"
 	STRING_EN[7747]["real_idx"] = 7747
 
 STRING_EN["index"][7748] = 7748
 STRING_EN[7748] = {}
 	STRING_EN[7748]["ID"] = 7748
 	STRING_EN[7748]["KEY"] = "M_BATTERY_UP34"
-	STRING_EN[7748]["VALUE"] = "Shoucheng Fortress rose to level 34"
+	STRING_EN[7748]["VALUE"] = "City Turret upgraded to level 34"
 	STRING_EN[7748]["real_idx"] = 7748
 
 STRING_EN["index"][7749] = 7749
 STRING_EN[7749] = {}
 	STRING_EN[7749]["ID"] = 7749
 	STRING_EN[7749]["KEY"] = "M_BATTERY_UP35"
-	STRING_EN[7749]["VALUE"] = "Shoucheng Fortress rose to level 35"
+	STRING_EN[7749]["VALUE"] = "City Turret upgraded to level 35"
 	STRING_EN[7749]["real_idx"] = 7749
 
 STRING_EN["index"][7750] = 7750
 STRING_EN[7750] = {}
 	STRING_EN[7750]["ID"] = 7750
 	STRING_EN[7750]["KEY"] = "M_BATTERY_UP36"
-	STRING_EN[7750]["VALUE"] = "Shoucheng Fortress rose to level 36"
+	STRING_EN[7750]["VALUE"] = "City Turret upgraded to level 36"
 	STRING_EN[7750]["real_idx"] = 7750
 
 STRING_EN["index"][7751] = 7751
 STRING_EN[7751] = {}
 	STRING_EN[7751]["ID"] = 7751
 	STRING_EN[7751]["KEY"] = "M_BATTERY_UP37"
-	STRING_EN[7751]["VALUE"] = "Shoucheng Fortress rose to level 37"
+	STRING_EN[7751]["VALUE"] = "City Turret upgraded to level 37"
 	STRING_EN[7751]["real_idx"] = 7751
 
 STRING_EN["index"][7752] = 7752
 STRING_EN[7752] = {}
 	STRING_EN[7752]["ID"] = 7752
 	STRING_EN[7752]["KEY"] = "M_BATTERY_UP38"
-	STRING_EN[7752]["VALUE"] = "Shoucheng Fortress rose to level 38"
+	STRING_EN[7752]["VALUE"] = "City Turret upgraded to level 38"
 	STRING_EN[7752]["real_idx"] = 7752
 
 STRING_EN["index"][7753] = 7753
 STRING_EN[7753] = {}
 	STRING_EN[7753]["ID"] = 7753
 	STRING_EN[7753]["KEY"] = "M_BATTERY_UP39"
-	STRING_EN[7753]["VALUE"] = "Shoucheng Fortress rose to level 39"
+	STRING_EN[7753]["VALUE"] = "City Turret upgraded to level 39"
 	STRING_EN[7753]["real_idx"] = 7753
 
 STRING_EN["index"][7754] = 7754
 STRING_EN[7754] = {}
 	STRING_EN[7754]["ID"] = 7754
 	STRING_EN[7754]["KEY"] = "M_BATTERY_UP40"
-	STRING_EN[7754]["VALUE"] = "Shoucheng Fortress rose to level 40"
+	STRING_EN[7754]["VALUE"] = "City Turret upgraded to level 40"
 	STRING_EN[7754]["real_idx"] = 7754
 
 STRING_EN["index"][7755] = 7755
 STRING_EN[7755] = {}
 	STRING_EN[7755]["ID"] = 7755
 	STRING_EN[7755]["KEY"] = "M_BATTERY_UP41"
-	STRING_EN[7755]["VALUE"] = "Shoucheng Fortress rose to level 41"
+	STRING_EN[7755]["VALUE"] = "City Turret upgraded to level 41"
 	STRING_EN[7755]["real_idx"] = 7755
 
 STRING_EN["index"][7756] = 7756
 STRING_EN[7756] = {}
 	STRING_EN[7756]["ID"] = 7756
 	STRING_EN[7756]["KEY"] = "M_BATTERY_UP42"
-	STRING_EN[7756]["VALUE"] = "Shoucheng Fortress rose to level 42"
+	STRING_EN[7756]["VALUE"] = "City Turret upgraded to level 42"
 	STRING_EN[7756]["real_idx"] = 7756
 
 STRING_EN["index"][7757] = 7757
 STRING_EN[7757] = {}
 	STRING_EN[7757]["ID"] = 7757
 	STRING_EN[7757]["KEY"] = "M_BATTERY_UP43"
-	STRING_EN[7757]["VALUE"] = "Shoucheng Fortress rose to level 43"
+	STRING_EN[7757]["VALUE"] = "City Turret upgraded to level 43"
 	STRING_EN[7757]["real_idx"] = 7757
 
 STRING_EN["index"][7758] = 7758
 STRING_EN[7758] = {}
 	STRING_EN[7758]["ID"] = 7758
 	STRING_EN[7758]["KEY"] = "M_BATTERY_UP44"
-	STRING_EN[7758]["VALUE"] = "Shoucheng Fortress rose to level 44"
+	STRING_EN[7758]["VALUE"] = "City Turret upgraded to level 44"
 	STRING_EN[7758]["real_idx"] = 7758
 
 STRING_EN["index"][7759] = 7759
 STRING_EN[7759] = {}
 	STRING_EN[7759]["ID"] = 7759
 	STRING_EN[7759]["KEY"] = "M_BATTERY_UP45"
-	STRING_EN[7759]["VALUE"] = "Shoucheng Fortress rose to level 45"
+	STRING_EN[7759]["VALUE"] = "City Turret upgraded to level 45"
 	STRING_EN[7759]["real_idx"] = 7759
 
 STRING_EN["index"][7760] = 7760
 STRING_EN[7760] = {}
 	STRING_EN[7760]["ID"] = 7760
 	STRING_EN[7760]["KEY"] = "M_FOREIGN_BURRAU_UP2"
-	STRING_EN[7760]["VALUE"] = "The Foreign Bureau rose to level 2"
+	STRING_EN[7760]["VALUE"] = "Foreign Affairs Bureau upgraded to level 2"
 	STRING_EN[7760]["real_idx"] = 7760
 
 STRING_EN["index"][7761] = 7761
 STRING_EN[7761] = {}
 	STRING_EN[7761]["ID"] = 7761
 	STRING_EN[7761]["KEY"] = "M_FOREIGN_BURRAU_UP3"
-	STRING_EN[7761]["VALUE"] = "The Foreign Bureau rose to level 3"
+	STRING_EN[7761]["VALUE"] = "Foreign Affairs Bureau upgraded to level 3"
 	STRING_EN[7761]["real_idx"] = 7761
 
 STRING_EN["index"][7762] = 7762
 STRING_EN[7762] = {}
 	STRING_EN[7762]["ID"] = 7762
 	STRING_EN[7762]["KEY"] = "M_FOREIGN_BURRAU_UP4"
-	STRING_EN[7762]["VALUE"] = "The Foreign Bureau rose to level 4"
+	STRING_EN[7762]["VALUE"] = "Foreign Affairs Bureau upgraded to level 4"
 	STRING_EN[7762]["real_idx"] = 7762
 
 STRING_EN["index"][7763] = 7763
 STRING_EN[7763] = {}
 	STRING_EN[7763]["ID"] = 7763
 	STRING_EN[7763]["KEY"] = "M_FOREIGN_BURRAU_UP5"
-	STRING_EN[7763]["VALUE"] = "The Foreign Bureau rose to level 5"
+	STRING_EN[7763]["VALUE"] = "Foreign Affairs Bureau upgraded to level 5"
 	STRING_EN[7763]["real_idx"] = 7763
 
 STRING_EN["index"][7764] = 7764
 STRING_EN[7764] = {}
 	STRING_EN[7764]["ID"] = 7764
 	STRING_EN[7764]["KEY"] = "M_FOREIGN_BURRAU_UP6"
-	STRING_EN[7764]["VALUE"] = "The Foreign Bureau rose to level 6"
+	STRING_EN[7764]["VALUE"] = "Foreign Affairs Bureau upgraded to level 6"
 	STRING_EN[7764]["real_idx"] = 7764
 
 STRING_EN["index"][7765] = 7765
 STRING_EN[7765] = {}
 	STRING_EN[7765]["ID"] = 7765
 	STRING_EN[7765]["KEY"] = "M_FOREIGN_BURRAU_UP7"
-	STRING_EN[7765]["VALUE"] = "The Foreign Bureau rose to level 7"
+	STRING_EN[7765]["VALUE"] = "Foreign Affairs Bureau upgraded to level 7"
 	STRING_EN[7765]["real_idx"] = 7765
 
 STRING_EN["index"][7766] = 7766
 STRING_EN[7766] = {}
 	STRING_EN[7766]["ID"] = 7766
 	STRING_EN[7766]["KEY"] = "M_FOREIGN_BURRAU_UP8"
-	STRING_EN[7766]["VALUE"] = "The Foreign Bureau rose to level 8"
+	STRING_EN[7766]["VALUE"] = "Foreign Affairs Bureau upgraded to level 8"
 	STRING_EN[7766]["real_idx"] = 7766
 
 STRING_EN["index"][7767] = 7767
 STRING_EN[7767] = {}
 	STRING_EN[7767]["ID"] = 7767
 	STRING_EN[7767]["KEY"] = "M_FOREIGN_BURRAU_UP9"
-	STRING_EN[7767]["VALUE"] = "The Foreign Bureau rose to level 9"
+	STRING_EN[7767]["VALUE"] = "Foreign Affairs Bureau upgraded to level 9"
 	STRING_EN[7767]["real_idx"] = 7767
 
 STRING_EN["index"][7768] = 7768
 STRING_EN[7768] = {}
 	STRING_EN[7768]["ID"] = 7768
 	STRING_EN[7768]["KEY"] = "M_FOREIGN_BURRAU_UP10"
-	STRING_EN[7768]["VALUE"] = "The Foreign Bureau rose to level 10"
+	STRING_EN[7768]["VALUE"] = "Foreign Affairs Bureau upgraded to level 10"
 	STRING_EN[7768]["real_idx"] = 7768
 
 STRING_EN["index"][7769] = 7769
 STRING_EN[7769] = {}
 	STRING_EN[7769]["ID"] = 7769
 	STRING_EN[7769]["KEY"] = "M_FOREIGN_BURRAU_UP11"
-	STRING_EN[7769]["VALUE"] = "The Foreign Bureau rose to level 11"
+	STRING_EN[7769]["VALUE"] = "Foreign Affairs Bureau upgraded to level 11"
 	STRING_EN[7769]["real_idx"] = 7769
 
 STRING_EN["index"][7770] = 7770
 STRING_EN[7770] = {}
 	STRING_EN[7770]["ID"] = 7770
 	STRING_EN[7770]["KEY"] = "M_FOREIGN_BURRAU_UP12"
-	STRING_EN[7770]["VALUE"] = "The Foreign Bureau rose to level 12"
+	STRING_EN[7770]["VALUE"] = "Foreign Affairs Bureau upgraded to level 12"
 	STRING_EN[7770]["real_idx"] = 7770
 
 STRING_EN["index"][7771] = 7771
 STRING_EN[7771] = {}
 	STRING_EN[7771]["ID"] = 7771
 	STRING_EN[7771]["KEY"] = "M_FOREIGN_BURRAU_UP13"
-	STRING_EN[7771]["VALUE"] = "The Foreign Bureau rose to level 13"
+	STRING_EN[7771]["VALUE"] = "Foreign Affairs Bureau upgraded to level 13"
 	STRING_EN[7771]["real_idx"] = 7771
 
 STRING_EN["index"][7772] = 7772
 STRING_EN[7772] = {}
 	STRING_EN[7772]["ID"] = 7772
 	STRING_EN[7772]["KEY"] = "M_FOREIGN_BURRAU_UP14"
-	STRING_EN[7772]["VALUE"] = "The Foreign Bureau rose to level 14"
+	STRING_EN[7772]["VALUE"] = "Foreign Affairs Bureau upgraded to level 14"
 	STRING_EN[7772]["real_idx"] = 7772
 
 STRING_EN["index"][7773] = 7773
 STRING_EN[7773] = {}
 	STRING_EN[7773]["ID"] = 7773
 	STRING_EN[7773]["KEY"] = "M_FOREIGN_BURRAU_UP15"
-	STRING_EN[7773]["VALUE"] = "The Foreign Bureau rose to level 15"
+	STRING_EN[7773]["VALUE"] = "Foreign Affairs Bureau upgraded to level 15"
 	STRING_EN[7773]["real_idx"] = 7773
 
 STRING_EN["index"][7774] = 7774
 STRING_EN[7774] = {}
 	STRING_EN[7774]["ID"] = 7774
 	STRING_EN[7774]["KEY"] = "M_FOREIGN_BURRAU_UP16"
-	STRING_EN[7774]["VALUE"] = "The Foreign Bureau rose to level 16"
+	STRING_EN[7774]["VALUE"] = "Foreign Affairs Bureau upgraded to level 16"
 	STRING_EN[7774]["real_idx"] = 7774
 
 STRING_EN["index"][7775] = 7775
 STRING_EN[7775] = {}
 	STRING_EN[7775]["ID"] = 7775
 	STRING_EN[7775]["KEY"] = "M_FOREIGN_BURRAU_UP17"
-	STRING_EN[7775]["VALUE"] = "The Foreign Bureau rose to level 17"
+	STRING_EN[7775]["VALUE"] = "Foreign Affairs Bureau upgraded to level 17"
 	STRING_EN[7775]["real_idx"] = 7775
 
 STRING_EN["index"][7776] = 7776
 STRING_EN[7776] = {}
 	STRING_EN[7776]["ID"] = 7776
 	STRING_EN[7776]["KEY"] = "M_FOREIGN_BURRAU_UP18"
-	STRING_EN[7776]["VALUE"] = "The Foreign Bureau rose to level 18"
+	STRING_EN[7776]["VALUE"] = "Foreign Affairs Bureau upgraded to level 18"
 	STRING_EN[7776]["real_idx"] = 7776
 
 STRING_EN["index"][7777] = 7777
 STRING_EN[7777] = {}
 	STRING_EN[7777]["ID"] = 7777
 	STRING_EN[7777]["KEY"] = "M_FOREIGN_BURRAU_UP19"
-	STRING_EN[7777]["VALUE"] = "The Foreign Bureau rose to level 19"
+	STRING_EN[7777]["VALUE"] = "Foreign Affairs Bureau upgraded to level 19"
 	STRING_EN[7777]["real_idx"] = 7777
 
 STRING_EN["index"][7778] = 7778
 STRING_EN[7778] = {}
 	STRING_EN[7778]["ID"] = 7778
 	STRING_EN[7778]["KEY"] = "M_FOREIGN_BURRAU_UP20"
-	STRING_EN[7778]["VALUE"] = "The Foreign Bureau rose to level 20"
+	STRING_EN[7778]["VALUE"] = "Foreign Affairs Bureau upgraded to level 20"
 	STRING_EN[7778]["real_idx"] = 7778
 
 STRING_EN["index"][7779] = 7779
 STRING_EN[7779] = {}
 	STRING_EN[7779]["ID"] = 7779
 	STRING_EN[7779]["KEY"] = "M_FOREIGN_BURRAU_UP21"
-	STRING_EN[7779]["VALUE"] = "The Foreign Bureau rose to level 21"
+	STRING_EN[7779]["VALUE"] = "Foreign Affairs Bureau upgraded to level 21"
 	STRING_EN[7779]["real_idx"] = 7779
 
 STRING_EN["index"][7780] = 7780
 STRING_EN[7780] = {}
 	STRING_EN[7780]["ID"] = 7780
 	STRING_EN[7780]["KEY"] = "M_FOREIGN_BURRAU_UP22"
-	STRING_EN[7780]["VALUE"] = "The Foreign Bureau rose to level 22"
+	STRING_EN[7780]["VALUE"] = "Foreign Affairs Bureau upgraded to level 22"
 	STRING_EN[7780]["real_idx"] = 7780
 
 STRING_EN["index"][7781] = 7781
 STRING_EN[7781] = {}
 	STRING_EN[7781]["ID"] = 7781
 	STRING_EN[7781]["KEY"] = "M_FOREIGN_BURRAU_UP23"
-	STRING_EN[7781]["VALUE"] = "The Foreign Bureau rose to level 23"
+	STRING_EN[7781]["VALUE"] = "Foreign Affairs Bureau upgraded to level 23"
 	STRING_EN[7781]["real_idx"] = 7781
 
 STRING_EN["index"][7782] = 7782
 STRING_EN[7782] = {}
 	STRING_EN[7782]["ID"] = 7782
 	STRING_EN[7782]["KEY"] = "M_FOREIGN_BURRAU_UP24"
-	STRING_EN[7782]["VALUE"] = "The Foreign Bureau rose to level 24"
+	STRING_EN[7782]["VALUE"] = "Foreign Affairs Bureau upgraded to level 24"
 	STRING_EN[7782]["real_idx"] = 7782
 
 STRING_EN["index"][7783] = 7783
 STRING_EN[7783] = {}
 	STRING_EN[7783]["ID"] = 7783
 	STRING_EN[7783]["KEY"] = "M_FOREIGN_BURRAU_UP25"
-	STRING_EN[7783]["VALUE"] = "The Foreign Bureau rose to level 25"
+	STRING_EN[7783]["VALUE"] = "Foreign Affairs Bureau upgraded to level 25"
 	STRING_EN[7783]["real_idx"] = 7783
 
 STRING_EN["index"][7784] = 7784
 STRING_EN[7784] = {}
 	STRING_EN[7784]["ID"] = 7784
 	STRING_EN[7784]["KEY"] = "M_FOREIGN_BURRAU_UP26"
-	STRING_EN[7784]["VALUE"] = "The Foreign Bureau rose to level 26"
+	STRING_EN[7784]["VALUE"] = "Foreign Affairs Bureau upgraded to level 26"
 	STRING_EN[7784]["real_idx"] = 7784
 
 STRING_EN["index"][7785] = 7785
 STRING_EN[7785] = {}
 	STRING_EN[7785]["ID"] = 7785
 	STRING_EN[7785]["KEY"] = "M_FOREIGN_BURRAU_UP27"
-	STRING_EN[7785]["VALUE"] = "The Foreign Bureau rose to level 27"
+	STRING_EN[7785]["VALUE"] = "Foreign Affairs Bureau upgraded to level 27"
 	STRING_EN[7785]["real_idx"] = 7785
 
 STRING_EN["index"][7786] = 7786
 STRING_EN[7786] = {}
 	STRING_EN[7786]["ID"] = 7786
 	STRING_EN[7786]["KEY"] = "M_FOREIGN_BURRAU_UP28"
-	STRING_EN[7786]["VALUE"] = "The Foreign Bureau rose to level 28"
+	STRING_EN[7786]["VALUE"] = "Foreign Affairs Bureau upgraded to level 28"
 	STRING_EN[7786]["real_idx"] = 7786
 
 STRING_EN["index"][7787] = 7787
 STRING_EN[7787] = {}
 	STRING_EN[7787]["ID"] = 7787
 	STRING_EN[7787]["KEY"] = "M_FOREIGN_BURRAU_UP29"
-	STRING_EN[7787]["VALUE"] = "The Foreign Bureau rose to level 29"
+	STRING_EN[7787]["VALUE"] = "Foreign Affairs Bureau upgraded to level 29"
 	STRING_EN[7787]["real_idx"] = 7787
 
 STRING_EN["index"][7788] = 7788
 STRING_EN[7788] = {}
 	STRING_EN[7788]["ID"] = 7788
 	STRING_EN[7788]["KEY"] = "M_FOREIGN_BURRAU_UP30"
-	STRING_EN[7788]["VALUE"] = "The Foreign Bureau rose to level 30"
+	STRING_EN[7788]["VALUE"] = "Foreign Affairs Bureau upgraded to level 30"
 	STRING_EN[7788]["real_idx"] = 7788
 
 STRING_EN["index"][7789] = 7789
 STRING_EN[7789] = {}
 	STRING_EN[7789]["ID"] = 7789
 	STRING_EN[7789]["KEY"] = "M_FOREIGN_BURRAU_UP31"
-	STRING_EN[7789]["VALUE"] = "The Foreign Bureau rose to level 31"
+	STRING_EN[7789]["VALUE"] = "Foreign Affairs Bureau upgraded to level 31"
 	STRING_EN[7789]["real_idx"] = 7789
 
 STRING_EN["index"][7790] = 7790
 STRING_EN[7790] = {}
 	STRING_EN[7790]["ID"] = 7790
 	STRING_EN[7790]["KEY"] = "M_FOREIGN_BURRAU_UP32"
-	STRING_EN[7790]["VALUE"] = "The Foreign Bureau rose to level 32"
+	STRING_EN[7790]["VALUE"] = "Foreign Affairs Bureau upgraded to level 32"
 	STRING_EN[7790]["real_idx"] = 7790
 
 STRING_EN["index"][7791] = 7791
 STRING_EN[7791] = {}
 	STRING_EN[7791]["ID"] = 7791
 	STRING_EN[7791]["KEY"] = "M_FOREIGN_BURRAU_UP33"
-	STRING_EN[7791]["VALUE"] = "The Foreign Bureau rose to level 33"
+	STRING_EN[7791]["VALUE"] = "Foreign Affairs Bureau upgraded to level 33"
 	STRING_EN[7791]["real_idx"] = 7791
 
 STRING_EN["index"][7792] = 7792
 STRING_EN[7792] = {}
 	STRING_EN[7792]["ID"] = 7792
 	STRING_EN[7792]["KEY"] = "M_FOREIGN_BURRAU_UP34"
-	STRING_EN[7792]["VALUE"] = "The Foreign Bureau rose to level 34"
+	STRING_EN[7792]["VALUE"] = "Foreign Affairs Bureau upgraded to level 34"
 	STRING_EN[7792]["real_idx"] = 7792
 
 STRING_EN["index"][7793] = 7793
 STRING_EN[7793] = {}
 	STRING_EN[7793]["ID"] = 7793
 	STRING_EN[7793]["KEY"] = "M_FOREIGN_BURRAU_UP35"
-	STRING_EN[7793]["VALUE"] = "The Foreign Bureau rose to level 35"
+	STRING_EN[7793]["VALUE"] = "Foreign Affairs Bureau upgraded to level 35"
 	STRING_EN[7793]["real_idx"] = 7793
 
 STRING_EN["index"][7794] = 7794
 STRING_EN[7794] = {}
 	STRING_EN[7794]["ID"] = 7794
 	STRING_EN[7794]["KEY"] = "M_FOREIGN_BURRAU_UP36"
-	STRING_EN[7794]["VALUE"] = "The Foreign Bureau rose to level 36"
+	STRING_EN[7794]["VALUE"] = "Foreign Affairs Bureau upgraded to level 36"
 	STRING_EN[7794]["real_idx"] = 7794
 
 STRING_EN["index"][7795] = 7795
 STRING_EN[7795] = {}
 	STRING_EN[7795]["ID"] = 7795
 	STRING_EN[7795]["KEY"] = "M_FOREIGN_BURRAU_UP37"
-	STRING_EN[7795]["VALUE"] = "The Foreign Bureau rose to level 37"
+	STRING_EN[7795]["VALUE"] = "Foreign Affairs Bureau upgraded to level 37"
 	STRING_EN[7795]["real_idx"] = 7795
 
 STRING_EN["index"][7796] = 7796
 STRING_EN[7796] = {}
 	STRING_EN[7796]["ID"] = 7796
 	STRING_EN[7796]["KEY"] = "M_FOREIGN_BURRAU_UP38"
-	STRING_EN[7796]["VALUE"] = "The Foreign Bureau rose to level 38"
+	STRING_EN[7796]["VALUE"] = "Foreign Affairs Bureau upgraded to level 38"
 	STRING_EN[7796]["real_idx"] = 7796
 
 STRING_EN["index"][7797] = 7797
 STRING_EN[7797] = {}
 	STRING_EN[7797]["ID"] = 7797
 	STRING_EN[7797]["KEY"] = "M_FOREIGN_BURRAU_UP39"
-	STRING_EN[7797]["VALUE"] = "The Foreign Bureau rose to level 39"
+	STRING_EN[7797]["VALUE"] = "Foreign Affairs Bureau upgraded to level 39"
 	STRING_EN[7797]["real_idx"] = 7797
 
 STRING_EN["index"][7798] = 7798
 STRING_EN[7798] = {}
 	STRING_EN[7798]["ID"] = 7798
 	STRING_EN[7798]["KEY"] = "M_FOREIGN_BURRAU_UP40"
-	STRING_EN[7798]["VALUE"] = "The Foreign Bureau rose to level 40"
+	STRING_EN[7798]["VALUE"] = "Foreign Affairs Bureau upgraded to level 40"
 	STRING_EN[7798]["real_idx"] = 7798
 
 STRING_EN["index"][7799] = 7799
 STRING_EN[7799] = {}
 	STRING_EN[7799]["ID"] = 7799
 	STRING_EN[7799]["KEY"] = "M_FOREIGN_BURRAU_UP41"
-	STRING_EN[7799]["VALUE"] = "The Foreign Bureau rose to level 41"
+	STRING_EN[7799]["VALUE"] = "Foreign Affairs Bureau upgraded to level 41"
 	STRING_EN[7799]["real_idx"] = 7799
 
 STRING_EN["index"][7800] = 7800
 STRING_EN[7800] = {}
 	STRING_EN[7800]["ID"] = 7800
 	STRING_EN[7800]["KEY"] = "M_FOREIGN_BURRAU_UP42"
-	STRING_EN[7800]["VALUE"] = "The Foreign Bureau rose to level 42"
+	STRING_EN[7800]["VALUE"] = "Foreign Affairs Bureau upgraded to level 42"
 	STRING_EN[7800]["real_idx"] = 7800
 
 STRING_EN["index"][7801] = 7801
 STRING_EN[7801] = {}
 	STRING_EN[7801]["ID"] = 7801
 	STRING_EN[7801]["KEY"] = "M_FOREIGN_BURRAU_UP43"
-	STRING_EN[7801]["VALUE"] = "The Foreign Bureau rose to level 43"
+	STRING_EN[7801]["VALUE"] = "Foreign Affairs Bureau upgraded to level 43"
 	STRING_EN[7801]["real_idx"] = 7801
 
 STRING_EN["index"][7802] = 7802
 STRING_EN[7802] = {}
 	STRING_EN[7802]["ID"] = 7802
 	STRING_EN[7802]["KEY"] = "M_FOREIGN_BURRAU_UP44"
-	STRING_EN[7802]["VALUE"] = "The Foreign Bureau rose to level 44"
+	STRING_EN[7802]["VALUE"] = "Foreign Affairs Bureau upgraded to level 44"
 	STRING_EN[7802]["real_idx"] = 7802
 
 STRING_EN["index"][7803] = 7803
 STRING_EN[7803] = {}
 	STRING_EN[7803]["ID"] = 7803
 	STRING_EN[7803]["KEY"] = "M_FOREIGN_BURRAU_UP45"
-	STRING_EN[7803]["VALUE"] = "The Foreign Bureau rose to level 45"
+	STRING_EN[7803]["VALUE"] = "Foreign Affairs Bureau upgraded to level 45"
 	STRING_EN[7803]["real_idx"] = 7803
 
 STRING_EN["index"][7804] = 7804
 STRING_EN[7804] = {}
 	STRING_EN[7804]["ID"] = 7804
 	STRING_EN[7804]["KEY"] = "M_WARFARE_UP2"
-	STRING_EN[7804]["VALUE"] = "War Workshop rose to level 2"
+	STRING_EN[7804]["VALUE"] = "War Workshop upgraded to level 2"
 	STRING_EN[7804]["real_idx"] = 7804
 
 STRING_EN["index"][7805] = 7805
 STRING_EN[7805] = {}
 	STRING_EN[7805]["ID"] = 7805
 	STRING_EN[7805]["KEY"] = "M_WARFARE_UP3"
-	STRING_EN[7805]["VALUE"] = "War workshop rose to level 3"
+	STRING_EN[7805]["VALUE"] = "War Workshop upgraded to level 3"
 	STRING_EN[7805]["real_idx"] = 7805
 
 STRING_EN["index"][7806] = 7806
 STRING_EN[7806] = {}
 	STRING_EN[7806]["ID"] = 7806
 	STRING_EN[7806]["KEY"] = "M_WARFARE_UP4"
-	STRING_EN[7806]["VALUE"] = "War Workshop rose to level 4"
+	STRING_EN[7806]["VALUE"] = "War Workshop upgraded to level 4"
 	STRING_EN[7806]["real_idx"] = 7806
 
 STRING_EN["index"][7807] = 7807
 STRING_EN[7807] = {}
 	STRING_EN[7807]["ID"] = 7807
 	STRING_EN[7807]["KEY"] = "M_WARFARE_UP5"
-	STRING_EN[7807]["VALUE"] = "War Workshop rose to level 5"
+	STRING_EN[7807]["VALUE"] = "War Workshop upgraded to level 5"
 	STRING_EN[7807]["real_idx"] = 7807
 
 STRING_EN["index"][7808] = 7808
 STRING_EN[7808] = {}
 	STRING_EN[7808]["ID"] = 7808
 	STRING_EN[7808]["KEY"] = "M_WARFARE_UP6"
-	STRING_EN[7808]["VALUE"] = "War workshop rose to level 6"
+	STRING_EN[7808]["VALUE"] = "War Workshop upgraded to level 6"
 	STRING_EN[7808]["real_idx"] = 7808
 
 STRING_EN["index"][7809] = 7809
 STRING_EN[7809] = {}
 	STRING_EN[7809]["ID"] = 7809
 	STRING_EN[7809]["KEY"] = "M_WARFARE_UP7"
-	STRING_EN[7809]["VALUE"] = "War Workshop rose to level 7"
+	STRING_EN[7809]["VALUE"] = "War Workshop upgraded to level 7"
 	STRING_EN[7809]["real_idx"] = 7809
 
 STRING_EN["index"][7810] = 7810
 STRING_EN[7810] = {}
 	STRING_EN[7810]["ID"] = 7810
 	STRING_EN[7810]["KEY"] = "M_WARFARE_UP8"
-	STRING_EN[7810]["VALUE"] = "War Workshop rose to level 8"
+	STRING_EN[7810]["VALUE"] = "War Workshop upgraded to level 8"
 	STRING_EN[7810]["real_idx"] = 7810
 
 STRING_EN["index"][7811] = 7811
 STRING_EN[7811] = {}
 	STRING_EN[7811]["ID"] = 7811
 	STRING_EN[7811]["KEY"] = "M_WARFARE_UP9"
-	STRING_EN[7811]["VALUE"] = "War Workshop rose to level 9"
+	STRING_EN[7811]["VALUE"] = "War Workshop upgraded to level 9"
 	STRING_EN[7811]["real_idx"] = 7811
 
 STRING_EN["index"][7812] = 7812
 STRING_EN[7812] = {}
 	STRING_EN[7812]["ID"] = 7812
 	STRING_EN[7812]["KEY"] = "M_WARFARE_UP10"
-	STRING_EN[7812]["VALUE"] = "War Workshop rose to level 10"
+	STRING_EN[7812]["VALUE"] = "War Workshop upgraded to level 10"
 	STRING_EN[7812]["real_idx"] = 7812
 
 STRING_EN["index"][7813] = 7813
 STRING_EN[7813] = {}
 	STRING_EN[7813]["ID"] = 7813
 	STRING_EN[7813]["KEY"] = "M_WARFARE_UP11"
-	STRING_EN[7813]["VALUE"] = "War workshop rose to level 11"
+	STRING_EN[7813]["VALUE"] = "War Workshop upgraded to level 11"
 	STRING_EN[7813]["real_idx"] = 7813
 
 STRING_EN["index"][7814] = 7814
 STRING_EN[7814] = {}
 	STRING_EN[7814]["ID"] = 7814
 	STRING_EN[7814]["KEY"] = "M_WARFARE_UP12"
-	STRING_EN[7814]["VALUE"] = "War Workshop rose to level 12"
+	STRING_EN[7814]["VALUE"] = "War Workshop upgraded to level 12"
 	STRING_EN[7814]["real_idx"] = 7814
 
 STRING_EN["index"][7815] = 7815
 STRING_EN[7815] = {}
 	STRING_EN[7815]["ID"] = 7815
 	STRING_EN[7815]["KEY"] = "M_WARFARE_UP13"
-	STRING_EN[7815]["VALUE"] = "War Workshop rose to level 13"
+	STRING_EN[7815]["VALUE"] = "War Workshop upgraded to level 13"
 	STRING_EN[7815]["real_idx"] = 7815
 
 STRING_EN["index"][7816] = 7816
 STRING_EN[7816] = {}
 	STRING_EN[7816]["ID"] = 7816
 	STRING_EN[7816]["KEY"] = "M_WARFARE_UP14"
-	STRING_EN[7816]["VALUE"] = "War workshop rose to level 14"
+	STRING_EN[7816]["VALUE"] = "War Workshop upgraded to level 14"
 	STRING_EN[7816]["real_idx"] = 7816
 
 STRING_EN["index"][7817] = 7817
 STRING_EN[7817] = {}
 	STRING_EN[7817]["ID"] = 7817
 	STRING_EN[7817]["KEY"] = "M_WARFARE_UP15"
-	STRING_EN[7817]["VALUE"] = "War Workshop rose to level 15"
+	STRING_EN[7817]["VALUE"] = "War Workshop upgraded to level 15"
 	STRING_EN[7817]["real_idx"] = 7817
 
 STRING_EN["index"][7818] = 7818
 STRING_EN[7818] = {}
 	STRING_EN[7818]["ID"] = 7818
 	STRING_EN[7818]["KEY"] = "M_WARFARE_UP16"
-	STRING_EN[7818]["VALUE"] = "War workshop rose to level 16"
+	STRING_EN[7818]["VALUE"] = "War Workshop upgraded to level 16"
 	STRING_EN[7818]["real_idx"] = 7818
 
 STRING_EN["index"][7819] = 7819
 STRING_EN[7819] = {}
 	STRING_EN[7819]["ID"] = 7819
 	STRING_EN[7819]["KEY"] = "M_WARFARE_UP17"
-	STRING_EN[7819]["VALUE"] = "War Workshop rose to level 17"
+	STRING_EN[7819]["VALUE"] = "War Workshop upgraded to level 17"
 	STRING_EN[7819]["real_idx"] = 7819
 
 STRING_EN["index"][7820] = 7820
 STRING_EN[7820] = {}
 	STRING_EN[7820]["ID"] = 7820
 	STRING_EN[7820]["KEY"] = "M_WARFARE_UP18"
-	STRING_EN[7820]["VALUE"] = "War Workshop rose to level 18"
+	STRING_EN[7820]["VALUE"] = "War Workshop upgraded to level 18"
 	STRING_EN[7820]["real_idx"] = 7820
 
 STRING_EN["index"][7821] = 7821
 STRING_EN[7821] = {}
 	STRING_EN[7821]["ID"] = 7821
 	STRING_EN[7821]["KEY"] = "M_WARFARE_UP19"
-	STRING_EN[7821]["VALUE"] = "War workshop rose to level 19"
+	STRING_EN[7821]["VALUE"] = "War Workshop upgraded to level 19"
 	STRING_EN[7821]["real_idx"] = 7821
 
 STRING_EN["index"][7822] = 7822
 STRING_EN[7822] = {}
 	STRING_EN[7822]["ID"] = 7822
 	STRING_EN[7822]["KEY"] = "M_WARFARE_UP20"
-	STRING_EN[7822]["VALUE"] = "War workshop rose to level 20"
+	STRING_EN[7822]["VALUE"] = "War Workshop upgraded to level 20"
 	STRING_EN[7822]["real_idx"] = 7822
 
 STRING_EN["index"][7823] = 7823
 STRING_EN[7823] = {}
 	STRING_EN[7823]["ID"] = 7823
 	STRING_EN[7823]["KEY"] = "M_WARFARE_UP21"
-	STRING_EN[7823]["VALUE"] = "War workshop rose to level 21"
+	STRING_EN[7823]["VALUE"] = "War Workshop upgraded to level 21"
 	STRING_EN[7823]["real_idx"] = 7823
 
 STRING_EN["index"][7824] = 7824
 STRING_EN[7824] = {}
 	STRING_EN[7824]["ID"] = 7824
 	STRING_EN[7824]["KEY"] = "M_WARFARE_UP22"
-	STRING_EN[7824]["VALUE"] = "War Workshop rose to level 22"
+	STRING_EN[7824]["VALUE"] = "War Workshop upgraded to level 22"
 	STRING_EN[7824]["real_idx"] = 7824
 
 STRING_EN["index"][7825] = 7825
 STRING_EN[7825] = {}
 	STRING_EN[7825]["ID"] = 7825
 	STRING_EN[7825]["KEY"] = "M_WARFARE_UP23"
-	STRING_EN[7825]["VALUE"] = "War workshop rose to level 23"
+	STRING_EN[7825]["VALUE"] = "War Workshop upgraded to level 23"
 	STRING_EN[7825]["real_idx"] = 7825
 
 STRING_EN["index"][7826] = 7826
 STRING_EN[7826] = {}
 	STRING_EN[7826]["ID"] = 7826
 	STRING_EN[7826]["KEY"] = "M_WARFARE_UP24"
-	STRING_EN[7826]["VALUE"] = "War Workshop rose to level 24"
+	STRING_EN[7826]["VALUE"] = "War Workshop upgraded to level 24"
 	STRING_EN[7826]["real_idx"] = 7826
 
 STRING_EN["index"][7827] = 7827
 STRING_EN[7827] = {}
 	STRING_EN[7827]["ID"] = 7827
 	STRING_EN[7827]["KEY"] = "M_WARFARE_UP25"
-	STRING_EN[7827]["VALUE"] = "War Workshop rose to level 25"
+	STRING_EN[7827]["VALUE"] = "War Workshop upgraded to level 25"
 	STRING_EN[7827]["real_idx"] = 7827
 
 STRING_EN["index"][7828] = 7828
 STRING_EN[7828] = {}
 	STRING_EN[7828]["ID"] = 7828
 	STRING_EN[7828]["KEY"] = "M_WARFARE_UP26"
-	STRING_EN[7828]["VALUE"] = "War Workshop rose to level 26"
+	STRING_EN[7828]["VALUE"] = "War Workshop upgraded to level 26"
 	STRING_EN[7828]["real_idx"] = 7828
 
 STRING_EN["index"][7829] = 7829
 STRING_EN[7829] = {}
 	STRING_EN[7829]["ID"] = 7829
 	STRING_EN[7829]["KEY"] = "M_WARFARE_UP27"
-	STRING_EN[7829]["VALUE"] = "War Workshop rose to level 27"
+	STRING_EN[7829]["VALUE"] = "War Workshop upgraded to level 27"
 	STRING_EN[7829]["real_idx"] = 7829
 
 STRING_EN["index"][7830] = 7830
 STRING_EN[7830] = {}
 	STRING_EN[7830]["ID"] = 7830
 	STRING_EN[7830]["KEY"] = "M_WARFARE_UP28"
-	STRING_EN[7830]["VALUE"] = "War Workshop rose to level 28"
+	STRING_EN[7830]["VALUE"] = "War Workshop upgraded to level 28"
 	STRING_EN[7830]["real_idx"] = 7830
 
 STRING_EN["index"][7831] = 7831
 STRING_EN[7831] = {}
 	STRING_EN[7831]["ID"] = 7831
 	STRING_EN[7831]["KEY"] = "M_WARFARE_UP29"
-	STRING_EN[7831]["VALUE"] = "War Workshop rose to level 29"
+	STRING_EN[7831]["VALUE"] = "War Workshop upgraded to level 29"
 	STRING_EN[7831]["real_idx"] = 7831
 
 STRING_EN["index"][7832] = 7832
 STRING_EN[7832] = {}
 	STRING_EN[7832]["ID"] = 7832
 	STRING_EN[7832]["KEY"] = "M_WARFARE_UP30"
-	STRING_EN[7832]["VALUE"] = "War Workshop rose to level 30"
+	STRING_EN[7832]["VALUE"] = "War Workshop upgraded to level 30"
 	STRING_EN[7832]["real_idx"] = 7832
 
 STRING_EN["index"][7833] = 7833
 STRING_EN[7833] = {}
 	STRING_EN[7833]["ID"] = 7833
 	STRING_EN[7833]["KEY"] = "M_WARFARE_UP31"
-	STRING_EN[7833]["VALUE"] = "War Workshop rose to level 31"
+	STRING_EN[7833]["VALUE"] = "War Workshop upgraded to level 31"
 	STRING_EN[7833]["real_idx"] = 7833
 
 STRING_EN["index"][7834] = 7834
 STRING_EN[7834] = {}
 	STRING_EN[7834]["ID"] = 7834
 	STRING_EN[7834]["KEY"] = "M_WARFARE_UP32"
-	STRING_EN[7834]["VALUE"] = "War Workshop rose to level 32"
+	STRING_EN[7834]["VALUE"] = "War Workshop upgraded to level 32"
 	STRING_EN[7834]["real_idx"] = 7834
 
 STRING_EN["index"][7835] = 7835
 STRING_EN[7835] = {}
 	STRING_EN[7835]["ID"] = 7835
 	STRING_EN[7835]["KEY"] = "M_WARFARE_UP33"
-	STRING_EN[7835]["VALUE"] = "War Workshop rose to level 33"
+	STRING_EN[7835]["VALUE"] = "War Workshop upgraded to level 33"
 	STRING_EN[7835]["real_idx"] = 7835
 
 STRING_EN["index"][7836] = 7836
 STRING_EN[7836] = {}
 	STRING_EN[7836]["ID"] = 7836
 	STRING_EN[7836]["KEY"] = "M_WARFARE_UP34"
-	STRING_EN[7836]["VALUE"] = "War Workshop rose to level 34"
+	STRING_EN[7836]["VALUE"] = "War Workshop upgraded to level 34"
 	STRING_EN[7836]["real_idx"] = 7836
 
 STRING_EN["index"][7837] = 7837
 STRING_EN[7837] = {}
 	STRING_EN[7837]["ID"] = 7837
 	STRING_EN[7837]["KEY"] = "M_WARFARE_UP35"
-	STRING_EN[7837]["VALUE"] = "War Workshop rose to level 35"
+	STRING_EN[7837]["VALUE"] = "War Workshop upgraded to level 35"
 	STRING_EN[7837]["real_idx"] = 7837
 
 STRING_EN["index"][7838] = 7838
 STRING_EN[7838] = {}
 	STRING_EN[7838]["ID"] = 7838
 	STRING_EN[7838]["KEY"] = "M_WARFARE_UP36"
-	STRING_EN[7838]["VALUE"] = "War workshop rose to level 36"
+	STRING_EN[7838]["VALUE"] = "War Workshop upgraded to level 36"
 	STRING_EN[7838]["real_idx"] = 7838
 
 STRING_EN["index"][7839] = 7839
 STRING_EN[7839] = {}
 	STRING_EN[7839]["ID"] = 7839
 	STRING_EN[7839]["KEY"] = "M_WARFARE_UP37"
-	STRING_EN[7839]["VALUE"] = "War Workshop rose to level 37"
+	STRING_EN[7839]["VALUE"] = "War Workshop upgraded to level 37"
 	STRING_EN[7839]["real_idx"] = 7839
 
 STRING_EN["index"][7840] = 7840
 STRING_EN[7840] = {}
 	STRING_EN[7840]["ID"] = 7840
 	STRING_EN[7840]["KEY"] = "M_WARFARE_UP38"
-	STRING_EN[7840]["VALUE"] = "War Workshop rose to level 38"
+	STRING_EN[7840]["VALUE"] = "War Workshop upgraded to level 38"
 	STRING_EN[7840]["real_idx"] = 7840
 
 STRING_EN["index"][7841] = 7841
 STRING_EN[7841] = {}
 	STRING_EN[7841]["ID"] = 7841
 	STRING_EN[7841]["KEY"] = "M_WARFARE_UP39"
-	STRING_EN[7841]["VALUE"] = "War Workshop rose to level 39"
+	STRING_EN[7841]["VALUE"] = "War Workshop upgraded to level 39"
 	STRING_EN[7841]["real_idx"] = 7841
 
 STRING_EN["index"][7842] = 7842
 STRING_EN[7842] = {}
 	STRING_EN[7842]["ID"] = 7842
 	STRING_EN[7842]["KEY"] = "M_WARFARE_UP40"
-	STRING_EN[7842]["VALUE"] = "War workshop rose to level 40"
+	STRING_EN[7842]["VALUE"] = "War Workshop upgraded to level 40"
 	STRING_EN[7842]["real_idx"] = 7842
 
 STRING_EN["index"][7843] = 7843
 STRING_EN[7843] = {}
 	STRING_EN[7843]["ID"] = 7843
 	STRING_EN[7843]["KEY"] = "M_WARFARE_UP41"
-	STRING_EN[7843]["VALUE"] = "War Workshop rose to level 41"
+	STRING_EN[7843]["VALUE"] = "War Workshop upgraded to level 41"
 	STRING_EN[7843]["real_idx"] = 7843
 
 STRING_EN["index"][7844] = 7844
 STRING_EN[7844] = {}
 	STRING_EN[7844]["ID"] = 7844
 	STRING_EN[7844]["KEY"] = "M_WARFARE_UP42"
-	STRING_EN[7844]["VALUE"] = "War workshop rose to level 42"
+	STRING_EN[7844]["VALUE"] = "War Workshop upgraded to level 42"
 	STRING_EN[7844]["real_idx"] = 7844
 
 STRING_EN["index"][7845] = 7845
 STRING_EN[7845] = {}
 	STRING_EN[7845]["ID"] = 7845
 	STRING_EN[7845]["KEY"] = "M_WARFARE_UP43"
-	STRING_EN[7845]["VALUE"] = "War workshop rose to level 43"
+	STRING_EN[7845]["VALUE"] = "War Workshop upgraded to level 43"
 	STRING_EN[7845]["real_idx"] = 7845
 
 STRING_EN["index"][7846] = 7846
 STRING_EN[7846] = {}
 	STRING_EN[7846]["ID"] = 7846
 	STRING_EN[7846]["KEY"] = "M_WARFARE_UP44"
-	STRING_EN[7846]["VALUE"] = "War Workshop rose to level 44"
+	STRING_EN[7846]["VALUE"] = "War Workshop upgraded to level 44"
 	STRING_EN[7846]["real_idx"] = 7846
 
 STRING_EN["index"][7847] = 7847
 STRING_EN[7847] = {}
 	STRING_EN[7847]["ID"] = 7847
 	STRING_EN[7847]["KEY"] = "M_WARFARE_UP45"
-	STRING_EN[7847]["VALUE"] = "War workshop rose to level 45"
+	STRING_EN[7847]["VALUE"] = "War Workshop upgraded to level 45"
 	STRING_EN[7847]["real_idx"] = 7847
 
 STRING_EN["index"][7848] = 7848
 STRING_EN[7848] = {}
 	STRING_EN[7848]["ID"] = 7848
 	STRING_EN[7848]["KEY"] = "M_TRADE_CENTRE_UP2"
-	STRING_EN[7848]["VALUE"] = "Trade Center rose to level 2"
+	STRING_EN[7848]["VALUE"] = "Trade Center upgraded to level 2"
 	STRING_EN[7848]["real_idx"] = 7848
 
 STRING_EN["index"][7849] = 7849
 STRING_EN[7849] = {}
 	STRING_EN[7849]["ID"] = 7849
 	STRING_EN[7849]["KEY"] = "M_TRADE_CENTRE_UP3"
-	STRING_EN[7849]["VALUE"] = "Trade Center rose to level 3"
+	STRING_EN[7849]["VALUE"] = "Trade Center upgraded to level 3"
 	STRING_EN[7849]["real_idx"] = 7849
 
 STRING_EN["index"][7850] = 7850
 STRING_EN[7850] = {}
 	STRING_EN[7850]["ID"] = 7850
 	STRING_EN[7850]["KEY"] = "M_TRADE_CENTRE_UP4"
-	STRING_EN[7850]["VALUE"] = "Trade Center rose to level 4"
+	STRING_EN[7850]["VALUE"] = "Trade Center upgraded to level 4"
 	STRING_EN[7850]["real_idx"] = 7850
 
 STRING_EN["index"][7851] = 7851
 STRING_EN[7851] = {}
 	STRING_EN[7851]["ID"] = 7851
 	STRING_EN[7851]["KEY"] = "M_TRADE_CENTRE_UP5"
-	STRING_EN[7851]["VALUE"] = "Trade Center rose to level 5"
+	STRING_EN[7851]["VALUE"] = "Trade Center upgraded to level 5"
 	STRING_EN[7851]["real_idx"] = 7851
 
 STRING_EN["index"][7852] = 7852
 STRING_EN[7852] = {}
 	STRING_EN[7852]["ID"] = 7852
 	STRING_EN[7852]["KEY"] = "M_TRADE_CENTRE_UP6"
-	STRING_EN[7852]["VALUE"] = "Trade Center rose to level 6"
+	STRING_EN[7852]["VALUE"] = "Trade Center upgraded to level 6"
 	STRING_EN[7852]["real_idx"] = 7852
 
 STRING_EN["index"][7853] = 7853
 STRING_EN[7853] = {}
 	STRING_EN[7853]["ID"] = 7853
 	STRING_EN[7853]["KEY"] = "M_TRADE_CENTRE_UP7"
-	STRING_EN[7853]["VALUE"] = "Trade Center rose to level 7"
+	STRING_EN[7853]["VALUE"] = "Trade Center upgraded to level 7"
 	STRING_EN[7853]["real_idx"] = 7853
 
 STRING_EN["index"][7854] = 7854
 STRING_EN[7854] = {}
 	STRING_EN[7854]["ID"] = 7854
 	STRING_EN[7854]["KEY"] = "M_TRADE_CENTRE_UP8"
-	STRING_EN[7854]["VALUE"] = "Trade Center rose to level 8"
+	STRING_EN[7854]["VALUE"] = "Trade Center upgraded to level 8"
 	STRING_EN[7854]["real_idx"] = 7854
 
 STRING_EN["index"][7855] = 7855
 STRING_EN[7855] = {}
 	STRING_EN[7855]["ID"] = 7855
 	STRING_EN[7855]["KEY"] = "M_TRADE_CENTRE_UP9"
-	STRING_EN[7855]["VALUE"] = "Trade Center rose to level 9"
+	STRING_EN[7855]["VALUE"] = "Trade Center upgraded to level 9"
 	STRING_EN[7855]["real_idx"] = 7855
 
 STRING_EN["index"][7856] = 7856
 STRING_EN[7856] = {}
 	STRING_EN[7856]["ID"] = 7856
 	STRING_EN[7856]["KEY"] = "M_TRADE_CENTRE_UP10"
-	STRING_EN[7856]["VALUE"] = "Trade Center rose to level 10"
+	STRING_EN[7856]["VALUE"] = "Trade Center upgraded to level 10"
 	STRING_EN[7856]["real_idx"] = 7856
 
 STRING_EN["index"][7857] = 7857
 STRING_EN[7857] = {}
 	STRING_EN[7857]["ID"] = 7857
 	STRING_EN[7857]["KEY"] = "M_TRADE_CENTRE_UP11"
-	STRING_EN[7857]["VALUE"] = "Trade Center rose to level 11"
+	STRING_EN[7857]["VALUE"] = "Trade Center upgraded to level 11"
 	STRING_EN[7857]["real_idx"] = 7857
 
 STRING_EN["index"][7858] = 7858
 STRING_EN[7858] = {}
 	STRING_EN[7858]["ID"] = 7858
 	STRING_EN[7858]["KEY"] = "M_TRADE_CENTRE_UP12"
-	STRING_EN[7858]["VALUE"] = "Trade Center rose to level 12"
+	STRING_EN[7858]["VALUE"] = "Trade Center upgraded to level 12"
 	STRING_EN[7858]["real_idx"] = 7858
 
 STRING_EN["index"][7859] = 7859
 STRING_EN[7859] = {}
 	STRING_EN[7859]["ID"] = 7859
 	STRING_EN[7859]["KEY"] = "M_TRADE_CENTRE_UP13"
-	STRING_EN[7859]["VALUE"] = "Trade Center rose to level 13"
+	STRING_EN[7859]["VALUE"] = "Trade Center upgraded to level 13"
 	STRING_EN[7859]["real_idx"] = 7859
 
 STRING_EN["index"][7860] = 7860
 STRING_EN[7860] = {}
 	STRING_EN[7860]["ID"] = 7860
 	STRING_EN[7860]["KEY"] = "M_TRADE_CENTRE_UP14"
-	STRING_EN[7860]["VALUE"] = "Trade Center rose to level 14"
+	STRING_EN[7860]["VALUE"] = "Trade Center upgraded to level 14"
 	STRING_EN[7860]["real_idx"] = 7860
 
 STRING_EN["index"][7861] = 7861
 STRING_EN[7861] = {}
 	STRING_EN[7861]["ID"] = 7861
 	STRING_EN[7861]["KEY"] = "M_TRADE_CENTRE_UP15"
-	STRING_EN[7861]["VALUE"] = "Trade Center rose to level 15"
+	STRING_EN[7861]["VALUE"] = "Trade Center upgraded to level 15"
 	STRING_EN[7861]["real_idx"] = 7861
 
 STRING_EN["index"][7862] = 7862
 STRING_EN[7862] = {}
 	STRING_EN[7862]["ID"] = 7862
 	STRING_EN[7862]["KEY"] = "M_TRADE_CENTRE_UP16"
-	STRING_EN[7862]["VALUE"] = "Trade Center rose to level 16"
+	STRING_EN[7862]["VALUE"] = "Trade Center upgraded to level 16"
 	STRING_EN[7862]["real_idx"] = 7862
 
 STRING_EN["index"][7863] = 7863
 STRING_EN[7863] = {}
 	STRING_EN[7863]["ID"] = 7863
 	STRING_EN[7863]["KEY"] = "M_TRADE_CENTRE_UP17"
-	STRING_EN[7863]["VALUE"] = "Trade Center rose to level 17"
+	STRING_EN[7863]["VALUE"] = "Trade Center upgraded to level 17"
 	STRING_EN[7863]["real_idx"] = 7863
 
 STRING_EN["index"][7864] = 7864
 STRING_EN[7864] = {}
 	STRING_EN[7864]["ID"] = 7864
 	STRING_EN[7864]["KEY"] = "M_TRADE_CENTRE_UP18"
-	STRING_EN[7864]["VALUE"] = "Trade Center rose to level 18"
+	STRING_EN[7864]["VALUE"] = "Trade Center upgraded to level 18"
 	STRING_EN[7864]["real_idx"] = 7864
 
 STRING_EN["index"][7865] = 7865
 STRING_EN[7865] = {}
 	STRING_EN[7865]["ID"] = 7865
 	STRING_EN[7865]["KEY"] = "M_TRADE_CENTRE_UP19"
-	STRING_EN[7865]["VALUE"] = "Trade Center rose to level 19"
+	STRING_EN[7865]["VALUE"] = "Trade Center upgraded to level 19"
 	STRING_EN[7865]["real_idx"] = 7865
 
 STRING_EN["index"][7866] = 7866
 STRING_EN[7866] = {}
 	STRING_EN[7866]["ID"] = 7866
 	STRING_EN[7866]["KEY"] = "M_TRADE_CENTRE_UP20"
-	STRING_EN[7866]["VALUE"] = "Trade Center rose to level 20"
+	STRING_EN[7866]["VALUE"] = "Trade Center upgraded to level 20"
 	STRING_EN[7866]["real_idx"] = 7866
 
 STRING_EN["index"][7867] = 7867
 STRING_EN[7867] = {}
 	STRING_EN[7867]["ID"] = 7867
 	STRING_EN[7867]["KEY"] = "M_TRADE_CENTRE_UP21"
-	STRING_EN[7867]["VALUE"] = "Trade Center rose to level 21"
+	STRING_EN[7867]["VALUE"] = "Trade Center upgraded to level 21"
 	STRING_EN[7867]["real_idx"] = 7867
 
 STRING_EN["index"][7868] = 7868
 STRING_EN[7868] = {}
 	STRING_EN[7868]["ID"] = 7868
 	STRING_EN[7868]["KEY"] = "M_TRADE_CENTRE_UP22"
-	STRING_EN[7868]["VALUE"] = "Trade Center rose to level 22"
+	STRING_EN[7868]["VALUE"] = "Trade Center upgraded to level 22"
 	STRING_EN[7868]["real_idx"] = 7868
 
 STRING_EN["index"][7869] = 7869
 STRING_EN[7869] = {}
 	STRING_EN[7869]["ID"] = 7869
 	STRING_EN[7869]["KEY"] = "M_TRADE_CENTRE_UP23"
-	STRING_EN[7869]["VALUE"] = "Trade Center rose to level 23"
+	STRING_EN[7869]["VALUE"] = "Trade Center upgraded to level 23"
 	STRING_EN[7869]["real_idx"] = 7869
 
 STRING_EN["index"][7870] = 7870
 STRING_EN[7870] = {}
 	STRING_EN[7870]["ID"] = 7870
 	STRING_EN[7870]["KEY"] = "M_TRADE_CENTRE_UP24"
-	STRING_EN[7870]["VALUE"] = "Trade Center rose to level 24"
+	STRING_EN[7870]["VALUE"] = "Trade Center upgraded to level 24"
 	STRING_EN[7870]["real_idx"] = 7870
 
 STRING_EN["index"][7871] = 7871
 STRING_EN[7871] = {}
 	STRING_EN[7871]["ID"] = 7871
 	STRING_EN[7871]["KEY"] = "M_TRADE_CENTRE_UP25"
-	STRING_EN[7871]["VALUE"] = "Trade Center rose to level 25"
+	STRING_EN[7871]["VALUE"] = "Trade Center upgraded to level 25"
 	STRING_EN[7871]["real_idx"] = 7871
 
 STRING_EN["index"][7872] = 7872
 STRING_EN[7872] = {}
 	STRING_EN[7872]["ID"] = 7872
 	STRING_EN[7872]["KEY"] = "M_TRADE_CENTRE_UP26"
-	STRING_EN[7872]["VALUE"] = "Trade Center rose to level 26"
+	STRING_EN[7872]["VALUE"] = "Trade Center upgraded to level 26"
 	STRING_EN[7872]["real_idx"] = 7872
 
 STRING_EN["index"][7873] = 7873
 STRING_EN[7873] = {}
 	STRING_EN[7873]["ID"] = 7873
 	STRING_EN[7873]["KEY"] = "M_TRADE_CENTRE_UP27"
-	STRING_EN[7873]["VALUE"] = "Trade Center rose to level 27"
+	STRING_EN[7873]["VALUE"] = "Trade Center upgraded to level 27"
 	STRING_EN[7873]["real_idx"] = 7873
 
 STRING_EN["index"][7874] = 7874
 STRING_EN[7874] = {}
 	STRING_EN[7874]["ID"] = 7874
 	STRING_EN[7874]["KEY"] = "M_TRADE_CENTRE_UP28"
-	STRING_EN[7874]["VALUE"] = "Trade Center rose to level 28"
+	STRING_EN[7874]["VALUE"] = "Trade Center upgraded to level 28"
 	STRING_EN[7874]["real_idx"] = 7874
 
 STRING_EN["index"][7875] = 7875
 STRING_EN[7875] = {}
 	STRING_EN[7875]["ID"] = 7875
 	STRING_EN[7875]["KEY"] = "M_TRADE_CENTRE_UP29"
-	STRING_EN[7875]["VALUE"] = "Trade Center rose to level 29"
+	STRING_EN[7875]["VALUE"] = "Trade Center upgraded to level 29"
 	STRING_EN[7875]["real_idx"] = 7875
 
 STRING_EN["index"][7876] = 7876
 STRING_EN[7876] = {}
 	STRING_EN[7876]["ID"] = 7876
 	STRING_EN[7876]["KEY"] = "M_TRADE_CENTRE_UP30"
-	STRING_EN[7876]["VALUE"] = "Trade Center rose to level 30"
+	STRING_EN[7876]["VALUE"] = "Trade Center upgraded to level 30"
 	STRING_EN[7876]["real_idx"] = 7876
 
 STRING_EN["index"][7877] = 7877
 STRING_EN[7877] = {}
 	STRING_EN[7877]["ID"] = 7877
 	STRING_EN[7877]["KEY"] = "M_TRADE_CENTRE_UP31"
-	STRING_EN[7877]["VALUE"] = "Trade Center rose to level 31"
+	STRING_EN[7877]["VALUE"] = "Trade Center upgraded to level 31"
 	STRING_EN[7877]["real_idx"] = 7877
 
 STRING_EN["index"][7878] = 7878
 STRING_EN[7878] = {}
 	STRING_EN[7878]["ID"] = 7878
 	STRING_EN[7878]["KEY"] = "M_TRADE_CENTRE_UP32"
-	STRING_EN[7878]["VALUE"] = "Trade Center rose to level 32"
+	STRING_EN[7878]["VALUE"] = "Trade Center upgraded to level 32"
 	STRING_EN[7878]["real_idx"] = 7878
 
 STRING_EN["index"][7879] = 7879
 STRING_EN[7879] = {}
 	STRING_EN[7879]["ID"] = 7879
 	STRING_EN[7879]["KEY"] = "M_TRADE_CENTRE_UP33"
-	STRING_EN[7879]["VALUE"] = "Trade Center rose to level 33"
+	STRING_EN[7879]["VALUE"] = "Trade Center upgraded to level 33"
 	STRING_EN[7879]["real_idx"] = 7879
 
 STRING_EN["index"][7880] = 7880
 STRING_EN[7880] = {}
 	STRING_EN[7880]["ID"] = 7880
 	STRING_EN[7880]["KEY"] = "M_TRADE_CENTRE_UP34"
-	STRING_EN[7880]["VALUE"] = "Trade Center rose to level 34"
+	STRING_EN[7880]["VALUE"] = "Trade Center upgraded to level 34"
 	STRING_EN[7880]["real_idx"] = 7880
 
 STRING_EN["index"][7881] = 7881
 STRING_EN[7881] = {}
 	STRING_EN[7881]["ID"] = 7881
 	STRING_EN[7881]["KEY"] = "M_TRADE_CENTRE_UP35"
-	STRING_EN[7881]["VALUE"] = "Trade Center rose to level 35"
+	STRING_EN[7881]["VALUE"] = "Trade Center upgraded to level 35"
 	STRING_EN[7881]["real_idx"] = 7881
 
 STRING_EN["index"][7882] = 7882
 STRING_EN[7882] = {}
 	STRING_EN[7882]["ID"] = 7882
 	STRING_EN[7882]["KEY"] = "M_TRADE_CENTRE_UP36"
-	STRING_EN[7882]["VALUE"] = "Trade Center rose to level 36"
+	STRING_EN[7882]["VALUE"] = "Trade Center upgraded to level 36"
 	STRING_EN[7882]["real_idx"] = 7882
 
 STRING_EN["index"][7883] = 7883
 STRING_EN[7883] = {}
 	STRING_EN[7883]["ID"] = 7883
 	STRING_EN[7883]["KEY"] = "M_TRADE_CENTRE_UP37"
-	STRING_EN[7883]["VALUE"] = "Trade Center rose to level 37"
+	STRING_EN[7883]["VALUE"] = "Trade Center upgraded to level 37"
 	STRING_EN[7883]["real_idx"] = 7883
 
 STRING_EN["index"][7884] = 7884
 STRING_EN[7884] = {}
 	STRING_EN[7884]["ID"] = 7884
 	STRING_EN[7884]["KEY"] = "M_TRADE_CENTRE_UP38"
-	STRING_EN[7884]["VALUE"] = "Trade Center rose to level 38"
+	STRING_EN[7884]["VALUE"] = "Trade Center upgraded to level 38"
 	STRING_EN[7884]["real_idx"] = 7884
 
 STRING_EN["index"][7885] = 7885
 STRING_EN[7885] = {}
 	STRING_EN[7885]["ID"] = 7885
 	STRING_EN[7885]["KEY"] = "M_TRADE_CENTRE_UP39"
-	STRING_EN[7885]["VALUE"] = "Trade Center rose to level 39"
+	STRING_EN[7885]["VALUE"] = "Trade Center upgraded to level 39"
 	STRING_EN[7885]["real_idx"] = 7885
 
 STRING_EN["index"][7886] = 7886
 STRING_EN[7886] = {}
 	STRING_EN[7886]["ID"] = 7886
 	STRING_EN[7886]["KEY"] = "M_TRADE_CENTRE_UP40"
-	STRING_EN[7886]["VALUE"] = "Trade Center rose to level 40"
+	STRING_EN[7886]["VALUE"] = "Trade Center upgraded to level 40"
 	STRING_EN[7886]["real_idx"] = 7886
 
 STRING_EN["index"][7887] = 7887
 STRING_EN[7887] = {}
 	STRING_EN[7887]["ID"] = 7887
 	STRING_EN[7887]["KEY"] = "M_TRADE_CENTRE_UP41"
-	STRING_EN[7887]["VALUE"] = "Trade Center rose to level 41"
+	STRING_EN[7887]["VALUE"] = "Trade Center upgraded to level 41"
 	STRING_EN[7887]["real_idx"] = 7887
 
 STRING_EN["index"][7888] = 7888
 STRING_EN[7888] = {}
 	STRING_EN[7888]["ID"] = 7888
 	STRING_EN[7888]["KEY"] = "M_TRADE_CENTRE_UP42"
-	STRING_EN[7888]["VALUE"] = "Trade Center rose to level 42"
+	STRING_EN[7888]["VALUE"] = "Trade Center upgraded to level 42"
 	STRING_EN[7888]["real_idx"] = 7888
 
 STRING_EN["index"][7889] = 7889
 STRING_EN[7889] = {}
 	STRING_EN[7889]["ID"] = 7889
 	STRING_EN[7889]["KEY"] = "M_TRADE_CENTRE_UP43"
-	STRING_EN[7889]["VALUE"] = "Trade Center rose to level 43"
+	STRING_EN[7889]["VALUE"] = "Trade Center upgraded to level 43"
 	STRING_EN[7889]["real_idx"] = 7889
 
 STRING_EN["index"][7890] = 7890
 STRING_EN[7890] = {}
 	STRING_EN[7890]["ID"] = 7890
 	STRING_EN[7890]["KEY"] = "M_TRADE_CENTRE_UP44"
-	STRING_EN[7890]["VALUE"] = "Trade Center rose to level 44"
+	STRING_EN[7890]["VALUE"] = "Trade Center upgraded to level 44"
 	STRING_EN[7890]["real_idx"] = 7890
 
 STRING_EN["index"][7891] = 7891
 STRING_EN[7891] = {}
 	STRING_EN[7891]["ID"] = 7891
 	STRING_EN[7891]["KEY"] = "M_TRADE_CENTRE_UP45"
-	STRING_EN[7891]["VALUE"] = "Trade Center rose to level 45"
+	STRING_EN[7891]["VALUE"] = "Trade Center upgraded to level 45"
 	STRING_EN[7891]["real_idx"] = 7891
 
 STRING_EN["index"][7892] = 7892
 STRING_EN[7892] = {}
 	STRING_EN[7892]["ID"] = 7892
 	STRING_EN[7892]["KEY"] = "M_FORGE_UP2"
-	STRING_EN[7892]["VALUE"] = "Forging Center rose to level 2"
+	STRING_EN[7892]["VALUE"] = "Forging Workshop upgraded to level 2"
 	STRING_EN[7892]["real_idx"] = 7892
 
 STRING_EN["index"][7893] = 7893
 STRING_EN[7893] = {}
 	STRING_EN[7893]["ID"] = 7893
 	STRING_EN[7893]["KEY"] = "M_FORGE_UP3"
-	STRING_EN[7893]["VALUE"] = "Forging center rose to level 3"
+	STRING_EN[7893]["VALUE"] = "Forging Workshop upgraded to level 3"
 	STRING_EN[7893]["real_idx"] = 7893
 
 STRING_EN["index"][7894] = 7894
 STRING_EN[7894] = {}
 	STRING_EN[7894]["ID"] = 7894
 	STRING_EN[7894]["KEY"] = "M_FORGE_UP4"
-	STRING_EN[7894]["VALUE"] = "Forging Center rose to level 4"
+	STRING_EN[7894]["VALUE"] = "Forging Workshop upgraded to level 4"
 	STRING_EN[7894]["real_idx"] = 7894
 
 STRING_EN["index"][7895] = 7895
 STRING_EN[7895] = {}
 	STRING_EN[7895]["ID"] = 7895
 	STRING_EN[7895]["KEY"] = "M_FORGE_UP5"
-	STRING_EN[7895]["VALUE"] = "Forging center rose to level 5"
+	STRING_EN[7895]["VALUE"] = "Forging Workshop upgraded to level 5"
 	STRING_EN[7895]["real_idx"] = 7895
 
 STRING_EN["index"][7896] = 7896
 STRING_EN[7896] = {}
 	STRING_EN[7896]["ID"] = 7896
 	STRING_EN[7896]["KEY"] = "M_FORGE_UP6"
-	STRING_EN[7896]["VALUE"] = "Forging center rose to level 6"
+	STRING_EN[7896]["VALUE"] = "Forging Workshop upgraded to level 6"
 	STRING_EN[7896]["real_idx"] = 7896
 
 STRING_EN["index"][7897] = 7897
 STRING_EN[7897] = {}
 	STRING_EN[7897]["ID"] = 7897
 	STRING_EN[7897]["KEY"] = "M_FORGE_UP7"
-	STRING_EN[7897]["VALUE"] = "Forging center rose to level 7"
+	STRING_EN[7897]["VALUE"] = "Forging Workshop upgraded to level 7"
 	STRING_EN[7897]["real_idx"] = 7897
 
 STRING_EN["index"][7898] = 7898
 STRING_EN[7898] = {}
 	STRING_EN[7898]["ID"] = 7898
 	STRING_EN[7898]["KEY"] = "M_FORGE_UP8"
-	STRING_EN[7898]["VALUE"] = "Forging center rose to level 8"
+	STRING_EN[7898]["VALUE"] = "Forging Workshop upgraded to level 8"
 	STRING_EN[7898]["real_idx"] = 7898
 
 STRING_EN["index"][7899] = 7899
 STRING_EN[7899] = {}
 	STRING_EN[7899]["ID"] = 7899
 	STRING_EN[7899]["KEY"] = "M_FORGE_UP9"
-	STRING_EN[7899]["VALUE"] = "Forging center rose to level 9"
+	STRING_EN[7899]["VALUE"] = "Forging Workshop upgraded to level 9"
 	STRING_EN[7899]["real_idx"] = 7899
 
 STRING_EN["index"][7900] = 7900
 STRING_EN[7900] = {}
 	STRING_EN[7900]["ID"] = 7900
 	STRING_EN[7900]["KEY"] = "M_FORGE_UP10"
-	STRING_EN[7900]["VALUE"] = "Forging center rose to level 10"
+	STRING_EN[7900]["VALUE"] = "Forging Workshop upgraded to level 10"
 	STRING_EN[7900]["real_idx"] = 7900
 
 STRING_EN["index"][7901] = 7901
 STRING_EN[7901] = {}
 	STRING_EN[7901]["ID"] = 7901
 	STRING_EN[7901]["KEY"] = "M_FORGE_UP11"
-	STRING_EN[7901]["VALUE"] = "Forging center rose to level 11"
+	STRING_EN[7901]["VALUE"] = "Forging Workshop upgraded to level 11"
 	STRING_EN[7901]["real_idx"] = 7901
 
 STRING_EN["index"][7902] = 7902
 STRING_EN[7902] = {}
 	STRING_EN[7902]["ID"] = 7902
 	STRING_EN[7902]["KEY"] = "M_FORGE_UP12"
-	STRING_EN[7902]["VALUE"] = "Forging center rose to level 12"
+	STRING_EN[7902]["VALUE"] = "Forging Workshop upgraded to level 12"
 	STRING_EN[7902]["real_idx"] = 7902
 
 STRING_EN["index"][7903] = 7903
 STRING_EN[7903] = {}
 	STRING_EN[7903]["ID"] = 7903
 	STRING_EN[7903]["KEY"] = "M_FORGE_UP13"
-	STRING_EN[7903]["VALUE"] = "Forging center rose to level 13"
+	STRING_EN[7903]["VALUE"] = "Forging Workshop upgraded to level 13"
 	STRING_EN[7903]["real_idx"] = 7903
 
 STRING_EN["index"][7904] = 7904
 STRING_EN[7904] = {}
 	STRING_EN[7904]["ID"] = 7904
 	STRING_EN[7904]["KEY"] = "M_FORGE_UP14"
-	STRING_EN[7904]["VALUE"] = "Forging center rose to level 14"
+	STRING_EN[7904]["VALUE"] = "Forging Workshop upgraded to level 14"
 	STRING_EN[7904]["real_idx"] = 7904
 
 STRING_EN["index"][7905] = 7905
 STRING_EN[7905] = {}
 	STRING_EN[7905]["ID"] = 7905
 	STRING_EN[7905]["KEY"] = "M_FORGE_UP15"
-	STRING_EN[7905]["VALUE"] = "Forging center rose to level 15"
+	STRING_EN[7905]["VALUE"] = "Forging Workshop upgraded to level 15"
 	STRING_EN[7905]["real_idx"] = 7905
 
 STRING_EN["index"][7906] = 7906
 STRING_EN[7906] = {}
 	STRING_EN[7906]["ID"] = 7906
 	STRING_EN[7906]["KEY"] = "M_FORGE_UP16"
-	STRING_EN[7906]["VALUE"] = "Forging center rose to level 16"
+	STRING_EN[7906]["VALUE"] = "Forging Workshop upgraded to level 16"
 	STRING_EN[7906]["real_idx"] = 7906
 
 STRING_EN["index"][7907] = 7907
 STRING_EN[7907] = {}
 	STRING_EN[7907]["ID"] = 7907
 	STRING_EN[7907]["KEY"] = "M_FORGE_UP17"
-	STRING_EN[7907]["VALUE"] = "Forging center rose to level 17"
+	STRING_EN[7907]["VALUE"] = "Forging Workshop upgraded to level 17"
 	STRING_EN[7907]["real_idx"] = 7907
 
 STRING_EN["index"][7908] = 7908
 STRING_EN[7908] = {}
 	STRING_EN[7908]["ID"] = 7908
 	STRING_EN[7908]["KEY"] = "M_FORGE_UP18"
-	STRING_EN[7908]["VALUE"] = "Forging center rose to level 18"
+	STRING_EN[7908]["VALUE"] = "Forging Workshop upgraded to level 18"
 	STRING_EN[7908]["real_idx"] = 7908
 
 STRING_EN["index"][7909] = 7909
 STRING_EN[7909] = {}
 	STRING_EN[7909]["ID"] = 7909
 	STRING_EN[7909]["KEY"] = "M_FORGE_UP19"
-	STRING_EN[7909]["VALUE"] = "Forging Center rose to level 19"
+	STRING_EN[7909]["VALUE"] = "Forging Workshop upgraded to level 19"
 	STRING_EN[7909]["real_idx"] = 7909
 
 STRING_EN["index"][7910] = 7910
 STRING_EN[7910] = {}
 	STRING_EN[7910]["ID"] = 7910
 	STRING_EN[7910]["KEY"] = "M_FORGE_UP20"
-	STRING_EN[7910]["VALUE"] = "Forging center rose to level 20"
+	STRING_EN[7910]["VALUE"] = "Forging Workshop upgraded to level 20"
 	STRING_EN[7910]["real_idx"] = 7910
 
 STRING_EN["index"][7911] = 7911
 STRING_EN[7911] = {}
 	STRING_EN[7911]["ID"] = 7911
 	STRING_EN[7911]["KEY"] = "M_FORGE_UP21"
-	STRING_EN[7911]["VALUE"] = "Forging center rose to level 21"
+	STRING_EN[7911]["VALUE"] = "Forging Workshop upgraded to level 21"
 	STRING_EN[7911]["real_idx"] = 7911
 
 STRING_EN["index"][7912] = 7912
 STRING_EN[7912] = {}
 	STRING_EN[7912]["ID"] = 7912
 	STRING_EN[7912]["KEY"] = "M_FORGE_UP22"
-	STRING_EN[7912]["VALUE"] = "Forging center rose to level 22"
+	STRING_EN[7912]["VALUE"] = "Forging Workshop upgraded to level 22"
 	STRING_EN[7912]["real_idx"] = 7912
 
 STRING_EN["index"][7913] = 7913
 STRING_EN[7913] = {}
 	STRING_EN[7913]["ID"] = 7913
 	STRING_EN[7913]["KEY"] = "M_FORGE_UP23"
-	STRING_EN[7913]["VALUE"] = "Forging center rose to level 23"
+	STRING_EN[7913]["VALUE"] = "Forging Workshop upgraded to level 23"
 	STRING_EN[7913]["real_idx"] = 7913
 
 STRING_EN["index"][7914] = 7914
 STRING_EN[7914] = {}
 	STRING_EN[7914]["ID"] = 7914
 	STRING_EN[7914]["KEY"] = "M_FORGE_UP24"
-	STRING_EN[7914]["VALUE"] = "Forging center rose to level 24"
+	STRING_EN[7914]["VALUE"] = "Forging Workshop upgraded to level 24"
 	STRING_EN[7914]["real_idx"] = 7914
 
 STRING_EN["index"][7915] = 7915
 STRING_EN[7915] = {}
 	STRING_EN[7915]["ID"] = 7915
 	STRING_EN[7915]["KEY"] = "M_FORGE_UP25"
-	STRING_EN[7915]["VALUE"] = "Forging center rose to level 25"
+	STRING_EN[7915]["VALUE"] = "Forging Workshop upgraded to level 25"
 	STRING_EN[7915]["real_idx"] = 7915
 
 STRING_EN["index"][7916] = 7916
 STRING_EN[7916] = {}
 	STRING_EN[7916]["ID"] = 7916
 	STRING_EN[7916]["KEY"] = "M_FORGE_UP26"
-	STRING_EN[7916]["VALUE"] = "Forging center rose to level 26"
+	STRING_EN[7916]["VALUE"] = "Forging Workshop upgraded to level 26"
 	STRING_EN[7916]["real_idx"] = 7916
 
 STRING_EN["index"][7917] = 7917
 STRING_EN[7917] = {}
 	STRING_EN[7917]["ID"] = 7917
 	STRING_EN[7917]["KEY"] = "M_FORGE_UP27"
-	STRING_EN[7917]["VALUE"] = "Forging center rose to level 27"
+	STRING_EN[7917]["VALUE"] = "Forging Workshop upgraded to level 27"
 	STRING_EN[7917]["real_idx"] = 7917
 
 STRING_EN["index"][7918] = 7918
 STRING_EN[7918] = {}
 	STRING_EN[7918]["ID"] = 7918
 	STRING_EN[7918]["KEY"] = "M_FORGE_UP28"
-	STRING_EN[7918]["VALUE"] = "Forging center rose to level 28"
+	STRING_EN[7918]["VALUE"] = "Forging Workshop upgraded to level 28"
 	STRING_EN[7918]["real_idx"] = 7918
 
 STRING_EN["index"][7919] = 7919
 STRING_EN[7919] = {}
 	STRING_EN[7919]["ID"] = 7919
 	STRING_EN[7919]["KEY"] = "M_FORGE_UP29"
-	STRING_EN[7919]["VALUE"] = "Forging center rose to level 29"
+	STRING_EN[7919]["VALUE"] = "Forging Workshop upgraded to level 29"
 	STRING_EN[7919]["real_idx"] = 7919
 
 STRING_EN["index"][7920] = 7920
 STRING_EN[7920] = {}
 	STRING_EN[7920]["ID"] = 7920
 	STRING_EN[7920]["KEY"] = "M_FORGE_UP30"
-	STRING_EN[7920]["VALUE"] = "Forging center rose to level 30"
+	STRING_EN[7920]["VALUE"] = "Forging Workshop upgraded to level 30"
 	STRING_EN[7920]["real_idx"] = 7920
 
 STRING_EN["index"][7921] = 7921
 STRING_EN[7921] = {}
 	STRING_EN[7921]["ID"] = 7921
 	STRING_EN[7921]["KEY"] = "M_FORGE_UP31"
-	STRING_EN[7921]["VALUE"] = "Forging center rose to level 31"
+	STRING_EN[7921]["VALUE"] = "Forging Workshop upgraded to level 31"
 	STRING_EN[7921]["real_idx"] = 7921
 
 STRING_EN["index"][7922] = 7922
 STRING_EN[7922] = {}
 	STRING_EN[7922]["ID"] = 7922
 	STRING_EN[7922]["KEY"] = "M_FORGE_UP32"
-	STRING_EN[7922]["VALUE"] = "Forging center rose to level 32"
+	STRING_EN[7922]["VALUE"] = "Forging Workshop upgraded to level 32"
 	STRING_EN[7922]["real_idx"] = 7922
 
 STRING_EN["index"][7923] = 7923
 STRING_EN[7923] = {}
 	STRING_EN[7923]["ID"] = 7923
 	STRING_EN[7923]["KEY"] = "M_FORGE_UP33"
-	STRING_EN[7923]["VALUE"] = "Forging center rose to level 33"
+	STRING_EN[7923]["VALUE"] = "Forging Workshop upgraded to level 33"
 	STRING_EN[7923]["real_idx"] = 7923
 
 STRING_EN["index"][7924] = 7924
 STRING_EN[7924] = {}
 	STRING_EN[7924]["ID"] = 7924
 	STRING_EN[7924]["KEY"] = "M_FORGE_UP34"
-	STRING_EN[7924]["VALUE"] = "Forging center rose to level 34"
+	STRING_EN[7924]["VALUE"] = "Forging Workshop upgraded to level 34"
 	STRING_EN[7924]["real_idx"] = 7924
 
 STRING_EN["index"][7925] = 7925
 STRING_EN[7925] = {}
 	STRING_EN[7925]["ID"] = 7925
 	STRING_EN[7925]["KEY"] = "M_FORGE_UP35"
-	STRING_EN[7925]["VALUE"] = "Forging center rose to level 35"
+	STRING_EN[7925]["VALUE"] = "Forging Workshop upgraded to level 35"
 	STRING_EN[7925]["real_idx"] = 7925
 
 STRING_EN["index"][7926] = 7926
 STRING_EN[7926] = {}
 	STRING_EN[7926]["ID"] = 7926
 	STRING_EN[7926]["KEY"] = "M_FORGE_UP36"
-	STRING_EN[7926]["VALUE"] = "Forging center rose to level 36"
+	STRING_EN[7926]["VALUE"] = "Forging Workshop upgraded to level 36"
 	STRING_EN[7926]["real_idx"] = 7926
 
 STRING_EN["index"][7927] = 7927
 STRING_EN[7927] = {}
 	STRING_EN[7927]["ID"] = 7927
 	STRING_EN[7927]["KEY"] = "M_FORGE_UP37"
-	STRING_EN[7927]["VALUE"] = "Forging center rose to level 37"
+	STRING_EN[7927]["VALUE"] = "Forging Workshop upgraded to level 37"
 	STRING_EN[7927]["real_idx"] = 7927
 
 STRING_EN["index"][7928] = 7928
 STRING_EN[7928] = {}
 	STRING_EN[7928]["ID"] = 7928
 	STRING_EN[7928]["KEY"] = "M_FORGE_UP38"
-	STRING_EN[7928]["VALUE"] = "Forging center rose to level 38"
+	STRING_EN[7928]["VALUE"] = "Forging Workshop upgraded to level 38"
 	STRING_EN[7928]["real_idx"] = 7928
 
 STRING_EN["index"][7929] = 7929
 STRING_EN[7929] = {}
 	STRING_EN[7929]["ID"] = 7929
 	STRING_EN[7929]["KEY"] = "M_FORGE_UP39"
-	STRING_EN[7929]["VALUE"] = "Forging center rose to level 39"
+	STRING_EN[7929]["VALUE"] = "Forging Workshop upgraded to level 39"
 	STRING_EN[7929]["real_idx"] = 7929
 
 STRING_EN["index"][7930] = 7930
 STRING_EN[7930] = {}
 	STRING_EN[7930]["ID"] = 7930
 	STRING_EN[7930]["KEY"] = "M_FORGE_UP40"
-	STRING_EN[7930]["VALUE"] = "Forging center rose to level 40"
+	STRING_EN[7930]["VALUE"] = "Forging Workshop upgraded to level 40"
 	STRING_EN[7930]["real_idx"] = 7930
 
 STRING_EN["index"][7931] = 7931
 STRING_EN[7931] = {}
 	STRING_EN[7931]["ID"] = 7931
 	STRING_EN[7931]["KEY"] = "M_FORGE_UP41"
-	STRING_EN[7931]["VALUE"] = "Forging center rose to level 41"
+	STRING_EN[7931]["VALUE"] = "Forging Workshop upgraded to level 41"
 	STRING_EN[7931]["real_idx"] = 7931
 
 STRING_EN["index"][7932] = 7932
 STRING_EN[7932] = {}
 	STRING_EN[7932]["ID"] = 7932
 	STRING_EN[7932]["KEY"] = "M_FORGE_UP42"
-	STRING_EN[7932]["VALUE"] = "Forging center rose to level 42"
+	STRING_EN[7932]["VALUE"] = "Forging Workshop upgraded to level 42"
 	STRING_EN[7932]["real_idx"] = 7932
 
 STRING_EN["index"][7933] = 7933
 STRING_EN[7933] = {}
 	STRING_EN[7933]["ID"] = 7933
 	STRING_EN[7933]["KEY"] = "M_FORGE_UP43"
-	STRING_EN[7933]["VALUE"] = "Forging center rose to level 43"
+	STRING_EN[7933]["VALUE"] = "Forging Workshop upgraded to level 43"
 	STRING_EN[7933]["real_idx"] = 7933
 
 STRING_EN["index"][7934] = 7934
 STRING_EN[7934] = {}
 	STRING_EN[7934]["ID"] = 7934
 	STRING_EN[7934]["KEY"] = "M_FORGE_UP44"
-	STRING_EN[7934]["VALUE"] = "Forging center rose to level 44"
+	STRING_EN[7934]["VALUE"] = "Forging Workshop upgraded to level 44"
 	STRING_EN[7934]["real_idx"] = 7934
 
 STRING_EN["index"][7935] = 7935
 STRING_EN[7935] = {}
 	STRING_EN[7935]["ID"] = 7935
 	STRING_EN[7935]["KEY"] = "M_FORGE_UP45"
-	STRING_EN[7935]["VALUE"] = "Forging center rose to level 45"
+	STRING_EN[7935]["VALUE"] = "Forging Workshop upgraded to level 45"
 	STRING_EN[7935]["real_idx"] = 7935
 
 STRING_EN["index"][7936] = 7936
 STRING_EN[7936] = {}
 	STRING_EN[7936]["ID"] = 7936
 	STRING_EN[7936]["KEY"] = "M_COLLECTION_COUNT2"
-	STRING_EN[7936]["VALUE"] = "Collect resource mines 1 times"
+	STRING_EN[7936]["VALUE"] = "Exploit resource mine 1 time"
 	STRING_EN[7936]["real_idx"] = 7936
 
 STRING_EN["index"][7937] = 7937
 STRING_EN[7937] = {}
 	STRING_EN[7937]["ID"] = 7937
 	STRING_EN[7937]["KEY"] = "M_COLLECTION_COUNT3"
-	STRING_EN[7937]["VALUE"] = "Collect resource mines 2 times"
+	STRING_EN[7937]["VALUE"] = "Exploit resource mine 2 times"
 	STRING_EN[7937]["real_idx"] = 7937
 
 STRING_EN["index"][7938] = 7938
 STRING_EN[7938] = {}
 	STRING_EN[7938]["ID"] = 7938
 	STRING_EN[7938]["KEY"] = "M_COLLECTION_COUNT4"
-	STRING_EN[7938]["VALUE"] = "Collect resource mines 3 times"
+	STRING_EN[7938]["VALUE"] = "Exploit resource mine 3 times"
 	STRING_EN[7938]["real_idx"] = 7938
 
 STRING_EN["index"][7939] = 7939
 STRING_EN[7939] = {}
 	STRING_EN[7939]["ID"] = 7939
 	STRING_EN[7939]["KEY"] = "M_COLLECTION_COUNT5"
-	STRING_EN[7939]["VALUE"] = "Collect resource mines 5 times"
+	STRING_EN[7939]["VALUE"] = "Exploit resource mine 5 times"
 	STRING_EN[7939]["real_idx"] = 7939
 
 STRING_EN["index"][7940] = 7940
 STRING_EN[7940] = {}
 	STRING_EN[7940]["ID"] = 7940
 	STRING_EN[7940]["KEY"] = "M_COLLECTION_COUNT6"
-	STRING_EN[7940]["VALUE"] = "Collect resource mines 10 times"
+	STRING_EN[7940]["VALUE"] = "Exploit resource mine 10 times"
 	STRING_EN[7940]["real_idx"] = 7940
 
 STRING_EN["index"][7941] = 7941
 STRING_EN[7941] = {}
 	STRING_EN[7941]["ID"] = 7941
 	STRING_EN[7941]["KEY"] = "M_COLLECTION_COUNT7"
-	STRING_EN[7941]["VALUE"] = "Collect resource mines 20 times"
+	STRING_EN[7941]["VALUE"] = "Exploit resource mine 20 times"
 	STRING_EN[7941]["real_idx"] = 7941
 
 STRING_EN["index"][7942] = 7942
 STRING_EN[7942] = {}
 	STRING_EN[7942]["ID"] = 7942
 	STRING_EN[7942]["KEY"] = "M_COLLECTION_COUNT8"
-	STRING_EN[7942]["VALUE"] = "Collect resource mines 30 times"
+	STRING_EN[7942]["VALUE"] = "Exploit resource mine 30 times"
 	STRING_EN[7942]["real_idx"] = 7942
 
 STRING_EN["index"][7943] = 7943
 STRING_EN[7943] = {}
 	STRING_EN[7943]["ID"] = 7943
 	STRING_EN[7943]["KEY"] = "M_COLLECTION_COUNT9"
-	STRING_EN[7943]["VALUE"] = "Collect resource mines 40 times"
+	STRING_EN[7943]["VALUE"] = "Exploit resource mine 40 times"
 	STRING_EN[7943]["real_idx"] = 7943
 
 STRING_EN["index"][7944] = 7944
 STRING_EN[7944] = {}
 	STRING_EN[7944]["ID"] = 7944
 	STRING_EN[7944]["KEY"] = "M_COLLECTION_COUNT10"
-	STRING_EN[7944]["VALUE"] = "Collect resource mines 50 times"
+	STRING_EN[7944]["VALUE"] = "Exploit resource mine 50 times"
 	STRING_EN[7944]["real_idx"] = 7944
 
 STRING_EN["index"][7945] = 7945
 STRING_EN[7945] = {}
 	STRING_EN[7945]["ID"] = 7945
 	STRING_EN[7945]["KEY"] = "M_COLLECTION_COUNT11"
-	STRING_EN[7945]["VALUE"] = "Collect resource mines 60 times"
+	STRING_EN[7945]["VALUE"] = "Exploit resource mine 60 times"
 	STRING_EN[7945]["real_idx"] = 7945
 
 STRING_EN["index"][7946] = 7946
 STRING_EN[7946] = {}
 	STRING_EN[7946]["ID"] = 7946
 	STRING_EN[7946]["KEY"] = "M_COLLECTION_COUNT12"
-	STRING_EN[7946]["VALUE"] = "Collect resource mines 70 times"
+	STRING_EN[7946]["VALUE"] = "Exploit resource mine 70 times"
 	STRING_EN[7946]["real_idx"] = 7946
 
 STRING_EN["index"][7947] = 7947
 STRING_EN[7947] = {}
 	STRING_EN[7947]["ID"] = 7947
 	STRING_EN[7947]["KEY"] = "M_COLLECTION_COUNT13"
-	STRING_EN[7947]["VALUE"] = "Collect resource mines 80 times"
+	STRING_EN[7947]["VALUE"] = "Exploit resource mine 80 times"
 	STRING_EN[7947]["real_idx"] = 7947
 
 STRING_EN["index"][7948] = 7948
 STRING_EN[7948] = {}
 	STRING_EN[7948]["ID"] = 7948
 	STRING_EN[7948]["KEY"] = "M_COLLECTION_COUNT14"
-	STRING_EN[7948]["VALUE"] = "Collect resource mines 90 times"
+	STRING_EN[7948]["VALUE"] = "Exploit resource mine 90 times"
 	STRING_EN[7948]["real_idx"] = 7948
 
 STRING_EN["index"][7949] = 7949
 STRING_EN[7949] = {}
 	STRING_EN[7949]["ID"] = 7949
 	STRING_EN[7949]["KEY"] = "M_COLLECTION_COUNT15"
-	STRING_EN[7949]["VALUE"] = "Collect resource mines 100 times"
+	STRING_EN[7949]["VALUE"] = "Exploit resource mine 100 times"
 	STRING_EN[7949]["real_idx"] = 7949
 
 STRING_EN["index"][7950] = 7950
 STRING_EN[7950] = {}
 	STRING_EN[7950]["ID"] = 7950
 	STRING_EN[7950]["KEY"] = "M_COLLECTION_COUNT16"
-	STRING_EN[7950]["VALUE"] = "Collect resource mines 110 times"
+	STRING_EN[7950]["VALUE"] = "Exploit resource mine 110 times"
 	STRING_EN[7950]["real_idx"] = 7950
 
 STRING_EN["index"][7951] = 7951
 STRING_EN[7951] = {}
 	STRING_EN[7951]["ID"] = 7951
 	STRING_EN[7951]["KEY"] = "M_COLLECTION_COUNT17"
-	STRING_EN[7951]["VALUE"] = "Collect resource mines 120 times"
+	STRING_EN[7951]["VALUE"] = "Exploit resource mine 120 times"
 	STRING_EN[7951]["real_idx"] = 7951
 
 STRING_EN["index"][7952] = 7952
 STRING_EN[7952] = {}
 	STRING_EN[7952]["ID"] = 7952
 	STRING_EN[7952]["KEY"] = "M_COLLECTION_COUNT18"
-	STRING_EN[7952]["VALUE"] = "Collect resource mines 130 times"
+	STRING_EN[7952]["VALUE"] = "Exploit resource mine 130 times"
 	STRING_EN[7952]["real_idx"] = 7952
 
 STRING_EN["index"][7953] = 7953
 STRING_EN[7953] = {}
 	STRING_EN[7953]["ID"] = 7953
 	STRING_EN[7953]["KEY"] = "M_COLLECTION_COUNT19"
-	STRING_EN[7953]["VALUE"] = "Collect resource mines 140 times"
+	STRING_EN[7953]["VALUE"] = "Exploit resource mine 140 times"
 	STRING_EN[7953]["real_idx"] = 7953
 
 STRING_EN["index"][7954] = 7954
 STRING_EN[7954] = {}
 	STRING_EN[7954]["ID"] = 7954
 	STRING_EN[7954]["KEY"] = "M_COLLECTION_COUNT20"
-	STRING_EN[7954]["VALUE"] = "Collect resource mines 150 times"
+	STRING_EN[7954]["VALUE"] = "Exploit resource mine 150 times"
 	STRING_EN[7954]["real_idx"] = 7954
 
 STRING_EN["index"][7955] = 7955
 STRING_EN[7955] = {}
 	STRING_EN[7955]["ID"] = 7955
 	STRING_EN[7955]["KEY"] = "M_COLLECTION_COUNT21"
-	STRING_EN[7955]["VALUE"] = "Collect resource mines 160 times"
+	STRING_EN[7955]["VALUE"] = "Exploit resource mine 160 times"
 	STRING_EN[7955]["real_idx"] = 7955
 
 STRING_EN["index"][7956] = 7956
 STRING_EN[7956] = {}
 	STRING_EN[7956]["ID"] = 7956
 	STRING_EN[7956]["KEY"] = "M_COLLECTION_COUNT22"
-	STRING_EN[7956]["VALUE"] = "Collect resource mines 170 times"
+	STRING_EN[7956]["VALUE"] = "Exploit resource mine 170 times"
 	STRING_EN[7956]["real_idx"] = 7956
 
 STRING_EN["index"][7957] = 7957
 STRING_EN[7957] = {}
 	STRING_EN[7957]["ID"] = 7957
 	STRING_EN[7957]["KEY"] = "M_COLLECTION_COUNT23"
-	STRING_EN[7957]["VALUE"] = "Collect resource mines 180 times"
+	STRING_EN[7957]["VALUE"] = "Exploit resource mine 180 times"
 	STRING_EN[7957]["real_idx"] = 7957
 
 STRING_EN["index"][7958] = 7958
 STRING_EN[7958] = {}
 	STRING_EN[7958]["ID"] = 7958
 	STRING_EN[7958]["KEY"] = "M_COLLECTION_COUNT24"
-	STRING_EN[7958]["VALUE"] = "Collect resource mines 190 times"
+	STRING_EN[7958]["VALUE"] = "Exploit resource mine 190 times"
 	STRING_EN[7958]["real_idx"] = 7958
 
 STRING_EN["index"][7959] = 7959
 STRING_EN[7959] = {}
 	STRING_EN[7959]["ID"] = 7959
 	STRING_EN[7959]["KEY"] = "M_COLLECTION_COUNT25"
-	STRING_EN[7959]["VALUE"] = "Collect resource mines 200 times"
+	STRING_EN[7959]["VALUE"] = "Exploit resource mine 200 times"
 	STRING_EN[7959]["real_idx"] = 7959
 
 STRING_EN["index"][7960] = 7960
 STRING_EN[7960] = {}
 	STRING_EN[7960]["ID"] = 7960
 	STRING_EN[7960]["KEY"] = "M_COLLECTION_COUNT26"
-	STRING_EN[7960]["VALUE"] = "Collect resource mines 210 times"
+	STRING_EN[7960]["VALUE"] = "Exploit resource mine 210 times"
 	STRING_EN[7960]["real_idx"] = 7960
 
 STRING_EN["index"][7961] = 7961
 STRING_EN[7961] = {}
 	STRING_EN[7961]["ID"] = 7961
 	STRING_EN[7961]["KEY"] = "M_COLLECTION_COUNT27"
-	STRING_EN[7961]["VALUE"] = "Collect resource mines 220 times"
+	STRING_EN[7961]["VALUE"] = "Exploit resource mine 220 times"
 	STRING_EN[7961]["real_idx"] = 7961
 
 STRING_EN["index"][7962] = 7962
 STRING_EN[7962] = {}
 	STRING_EN[7962]["ID"] = 7962
 	STRING_EN[7962]["KEY"] = "M_COLLECTION_COUNT28"
-	STRING_EN[7962]["VALUE"] = "Collect resource mines 230 times"
+	STRING_EN[7962]["VALUE"] = "Exploit resource mine 230 times"
 	STRING_EN[7962]["real_idx"] = 7962
 
 STRING_EN["index"][7963] = 7963
 STRING_EN[7963] = {}
 	STRING_EN[7963]["ID"] = 7963
 	STRING_EN[7963]["KEY"] = "M_COLLECTION_COUNT29"
-	STRING_EN[7963]["VALUE"] = "Collect resource mines 240 times"
+	STRING_EN[7963]["VALUE"] = "Exploit resource mine 240 times"
 	STRING_EN[7963]["real_idx"] = 7963
 
 STRING_EN["index"][7964] = 7964
 STRING_EN[7964] = {}
 	STRING_EN[7964]["ID"] = 7964
 	STRING_EN[7964]["KEY"] = "M_COLLECTION_COUNT30"
-	STRING_EN[7964]["VALUE"] = "Collect resource mines 250 times"
+	STRING_EN[7964]["VALUE"] = "Exploit resource mine 250 times"
 	STRING_EN[7964]["real_idx"] = 7964
 
 STRING_EN["index"][7965] = 7965
 STRING_EN[7965] = {}
 	STRING_EN[7965]["ID"] = 7965
 	STRING_EN[7965]["KEY"] = "M_COLLECTION_COUNT31"
-	STRING_EN[7965]["VALUE"] = "Collect resource mines 260 times"
+	STRING_EN[7965]["VALUE"] = "Exploit resource mine 260 times"
 	STRING_EN[7965]["real_idx"] = 7965
 
 STRING_EN["index"][7966] = 7966
 STRING_EN[7966] = {}
 	STRING_EN[7966]["ID"] = 7966
 	STRING_EN[7966]["KEY"] = "M_COLLECTION_COUNT32"
-	STRING_EN[7966]["VALUE"] = "Collect resource mines 270 times"
+	STRING_EN[7966]["VALUE"] = "Exploit resource mine 270 times"
 	STRING_EN[7966]["real_idx"] = 7966
 
 STRING_EN["index"][7967] = 7967
 STRING_EN[7967] = {}
 	STRING_EN[7967]["ID"] = 7967
 	STRING_EN[7967]["KEY"] = "M_COLLECTION_COUNT33"
-	STRING_EN[7967]["VALUE"] = "Collect resource mines 280 times"
+	STRING_EN[7967]["VALUE"] = "Exploit resource mine 280 times"
 	STRING_EN[7967]["real_idx"] = 7967
 
 STRING_EN["index"][7968] = 7968
 STRING_EN[7968] = {}
 	STRING_EN[7968]["ID"] = 7968
 	STRING_EN[7968]["KEY"] = "M_COLLECTION_COUNT34"
-	STRING_EN[7968]["VALUE"] = "Collect resource mines 290 times"
+	STRING_EN[7968]["VALUE"] = "Exploit resource mine 290 times"
 	STRING_EN[7968]["real_idx"] = 7968
 
 STRING_EN["index"][7969] = 7969
 STRING_EN[7969] = {}
 	STRING_EN[7969]["ID"] = 7969
 	STRING_EN[7969]["KEY"] = "M_COLLECTION_COUNT35"
-	STRING_EN[7969]["VALUE"] = "Collect resource mines 300 times"
+	STRING_EN[7969]["VALUE"] = "Exploit resource mine 300 times"
 	STRING_EN[7969]["real_idx"] = 7969
 
 STRING_EN["index"][7970] = 7970
 STRING_EN[7970] = {}
 	STRING_EN[7970]["ID"] = 7970
 	STRING_EN[7970]["KEY"] = "M_COLLECTION_COUNT36"
-	STRING_EN[7970]["VALUE"] = "Collect resource mines 310 times"
+	STRING_EN[7970]["VALUE"] = "Exploit resource mine 310 times"
 	STRING_EN[7970]["real_idx"] = 7970
 
 STRING_EN["index"][7971] = 7971
 STRING_EN[7971] = {}
 	STRING_EN[7971]["ID"] = 7971
 	STRING_EN[7971]["KEY"] = "M_COLLECTION_COUNT37"
-	STRING_EN[7971]["VALUE"] = "Collect resource mines 320 times"
+	STRING_EN[7971]["VALUE"] = "Exploit resource mine 320 times"
 	STRING_EN[7971]["real_idx"] = 7971
 
 STRING_EN["index"][7972] = 7972
 STRING_EN[7972] = {}
 	STRING_EN[7972]["ID"] = 7972
 	STRING_EN[7972]["KEY"] = "M_COLLECTION_COUNT38"
-	STRING_EN[7972]["VALUE"] = "Collect resource mines 330 times"
+	STRING_EN[7972]["VALUE"] = "Exploit resource mine 330 times"
 	STRING_EN[7972]["real_idx"] = 7972
 
 STRING_EN["index"][7973] = 7973
 STRING_EN[7973] = {}
 	STRING_EN[7973]["ID"] = 7973
 	STRING_EN[7973]["KEY"] = "M_COLLECTION_COUNT39"
-	STRING_EN[7973]["VALUE"] = "Collect resource mines 340 times"
+	STRING_EN[7973]["VALUE"] = "Exploit resource mine 340 times"
 	STRING_EN[7973]["real_idx"] = 7973
 
 STRING_EN["index"][7974] = 7974
 STRING_EN[7974] = {}
 	STRING_EN[7974]["ID"] = 7974
 	STRING_EN[7974]["KEY"] = "M_COLLECTION_COUNT40"
-	STRING_EN[7974]["VALUE"] = "Collect resource mines 350 times"
+	STRING_EN[7974]["VALUE"] = "Exploit resource mine 350 times"
 	STRING_EN[7974]["real_idx"] = 7974
 
 STRING_EN["index"][7975] = 7975
 STRING_EN[7975] = {}
 	STRING_EN[7975]["ID"] = 7975
 	STRING_EN[7975]["KEY"] = "M_COLLECTION_COUNT41"
-	STRING_EN[7975]["VALUE"] = "Collect resource mines 360 times"
+	STRING_EN[7975]["VALUE"] = "Exploit resource mine 360 times"
 	STRING_EN[7975]["real_idx"] = 7975
 
 STRING_EN["index"][7976] = 7976
 STRING_EN[7976] = {}
 	STRING_EN[7976]["ID"] = 7976
 	STRING_EN[7976]["KEY"] = "M_COLLECTION_COUNT42"
-	STRING_EN[7976]["VALUE"] = "Collect resource mines 370 times"
+	STRING_EN[7976]["VALUE"] = "Exploit resource mine 370 times"
 	STRING_EN[7976]["real_idx"] = 7976
 
 STRING_EN["index"][7977] = 7977
 STRING_EN[7977] = {}
 	STRING_EN[7977]["ID"] = 7977
 	STRING_EN[7977]["KEY"] = "M_COLLECTION_COUNT43"
-	STRING_EN[7977]["VALUE"] = "Collect resource mines 380 times"
+	STRING_EN[7977]["VALUE"] = "Exploit resource mine 380 times"
 	STRING_EN[7977]["real_idx"] = 7977
 
 STRING_EN["index"][7978] = 7978
 STRING_EN[7978] = {}
 	STRING_EN[7978]["ID"] = 7978
 	STRING_EN[7978]["KEY"] = "M_COLLECTION_COUNT44"
-	STRING_EN[7978]["VALUE"] = "Collect resource mines 390 times"
+	STRING_EN[7978]["VALUE"] = "Exploit resource mine 390 times"
 	STRING_EN[7978]["real_idx"] = 7978
 
 STRING_EN["index"][7979] = 7979
 STRING_EN[7979] = {}
 	STRING_EN[7979]["ID"] = 7979
 	STRING_EN[7979]["KEY"] = "M_COLLECTION_COUNT45"
-	STRING_EN[7979]["VALUE"] = "Collect resource mines 400 times"
+	STRING_EN[7979]["VALUE"] = "Exploit resource mine 400 times"
 	STRING_EN[7979]["real_idx"] = 7979
 
 STRING_EN["index"][7980] = 7980
 STRING_EN[7980] = {}
 	STRING_EN[7980]["ID"] = 7980
 	STRING_EN[7980]["KEY"] = "M_DESTROY_COUNT2"
-	STRING_EN[7980]["VALUE"] = "Destroy the planet belt 1 times"
+	STRING_EN[7980]["VALUE"] = "Destroy astroid belt 1 time"
 	STRING_EN[7980]["real_idx"] = 7980
 
 STRING_EN["index"][7981] = 7981
 STRING_EN[7981] = {}
 	STRING_EN[7981]["ID"] = 7981
 	STRING_EN[7981]["KEY"] = "M_DESTROY_COUNT3"
-	STRING_EN[7981]["VALUE"] = "Destroy the planet belt 2 times"
+	STRING_EN[7981]["VALUE"] = "Destroy astroid belt 2 times"
 	STRING_EN[7981]["real_idx"] = 7981
 
 STRING_EN["index"][7982] = 7982
 STRING_EN[7982] = {}
 	STRING_EN[7982]["ID"] = 7982
 	STRING_EN[7982]["KEY"] = "M_DESTROY_COUNT4"
-	STRING_EN[7982]["VALUE"] = "Destroy the planet belt 3 times"
+	STRING_EN[7982]["VALUE"] = "Destroy astroid belt 3 times"
 	STRING_EN[7982]["real_idx"] = 7982
 
 STRING_EN["index"][7983] = 7983
 STRING_EN[7983] = {}
 	STRING_EN[7983]["ID"] = 7983
 	STRING_EN[7983]["KEY"] = "M_DESTROY_COUNT5"
-	STRING_EN[7983]["VALUE"] = "Destroy the planet belt 5 times"
+	STRING_EN[7983]["VALUE"] = "Destroy astroid belt 5 times"
 	STRING_EN[7983]["real_idx"] = 7983
 
 STRING_EN["index"][7984] = 7984
 STRING_EN[7984] = {}
 	STRING_EN[7984]["ID"] = 7984
 	STRING_EN[7984]["KEY"] = "M_DESTROY_COUNT6"
-	STRING_EN[7984]["VALUE"] = "Destroy the planet belt 8 times"
+	STRING_EN[7984]["VALUE"] = "Destroy astroid belt 8 times"
 	STRING_EN[7984]["real_idx"] = 7984
 
 STRING_EN["index"][7985] = 7985
 STRING_EN[7985] = {}
 	STRING_EN[7985]["ID"] = 7985
 	STRING_EN[7985]["KEY"] = "M_DESTROY_COUNT7"
-	STRING_EN[7985]["VALUE"] = "Destroy the planet belt 10 times"
+	STRING_EN[7985]["VALUE"] = "Destroy astroid belt 10 times"
 	STRING_EN[7985]["real_idx"] = 7985
 
 STRING_EN["index"][7986] = 7986
 STRING_EN[7986] = {}
 	STRING_EN[7986]["ID"] = 7986
 	STRING_EN[7986]["KEY"] = "M_DESTROY_COUNT8"
-	STRING_EN[7986]["VALUE"] = "Destroy the planet belt 15 times"
+	STRING_EN[7986]["VALUE"] = "Destroy astroid belt 15 times"
 	STRING_EN[7986]["real_idx"] = 7986
 
 STRING_EN["index"][7987] = 7987
 STRING_EN[7987] = {}
 	STRING_EN[7987]["ID"] = 7987
 	STRING_EN[7987]["KEY"] = "M_DESTROY_COUNT9"
-	STRING_EN[7987]["VALUE"] = "Destroy the planet belt 20 times"
+	STRING_EN[7987]["VALUE"] = "Destroy astroid belt 20 times"
 	STRING_EN[7987]["real_idx"] = 7987
 
 STRING_EN["index"][7988] = 7988
 STRING_EN[7988] = {}
 	STRING_EN[7988]["ID"] = 7988
 	STRING_EN[7988]["KEY"] = "M_DESTROY_COUNT10"
-	STRING_EN[7988]["VALUE"] = "Destroy the planet belt 25 times"
+	STRING_EN[7988]["VALUE"] = "Destroy astroid belt 25 times"
 	STRING_EN[7988]["real_idx"] = 7988
 
 STRING_EN["index"][7989] = 7989
 STRING_EN[7989] = {}
 	STRING_EN[7989]["ID"] = 7989
 	STRING_EN[7989]["KEY"] = "M_DESTROY_COUNT11"
-	STRING_EN[7989]["VALUE"] = "Destroy the planet belt 30 times"
+	STRING_EN[7989]["VALUE"] = "Destroy astroid belt 30 times"
 	STRING_EN[7989]["real_idx"] = 7989
 
 STRING_EN["index"][7990] = 7990
 STRING_EN[7990] = {}
 	STRING_EN[7990]["ID"] = 7990
 	STRING_EN[7990]["KEY"] = "M_DESTROY_COUNT12"
-	STRING_EN[7990]["VALUE"] = "Destroy the planet belt 35 times"
+	STRING_EN[7990]["VALUE"] = "Destroy astroid belt 35 times"
 	STRING_EN[7990]["real_idx"] = 7990
 
 STRING_EN["index"][7991] = 7991
 STRING_EN[7991] = {}
 	STRING_EN[7991]["ID"] = 7991
 	STRING_EN[7991]["KEY"] = "M_DESTROY_COUNT13"
-	STRING_EN[7991]["VALUE"] = "Destroy the planet belt 40 times"
+	STRING_EN[7991]["VALUE"] = "Destroy astroid belt 40 times"
 	STRING_EN[7991]["real_idx"] = 7991
 
 STRING_EN["index"][7992] = 7992
 STRING_EN[7992] = {}
 	STRING_EN[7992]["ID"] = 7992
 	STRING_EN[7992]["KEY"] = "M_DESTROY_COUNT14"
-	STRING_EN[7992]["VALUE"] = "Destroy the planet belt 45 times"
+	STRING_EN[7992]["VALUE"] = "Destroy astroid belt 45 times"
 	STRING_EN[7992]["real_idx"] = 7992
 
 STRING_EN["index"][7993] = 7993
 STRING_EN[7993] = {}
 	STRING_EN[7993]["ID"] = 7993
 	STRING_EN[7993]["KEY"] = "M_DESTROY_COUNT15"
-	STRING_EN[7993]["VALUE"] = "Destroy the planet belt 50 times"
+	STRING_EN[7993]["VALUE"] = "Destroy astroid belt 50 times"
 	STRING_EN[7993]["real_idx"] = 7993
 
 STRING_EN["index"][7994] = 7994
 STRING_EN[7994] = {}
 	STRING_EN[7994]["ID"] = 7994
 	STRING_EN[7994]["KEY"] = "M_DESTROY_COUNT16"
-	STRING_EN[7994]["VALUE"] = "Destroy the planet belt 55 times"
+	STRING_EN[7994]["VALUE"] = "Destroy astroid belt 55 times"
 	STRING_EN[7994]["real_idx"] = 7994
 
 STRING_EN["index"][7995] = 7995
 STRING_EN[7995] = {}
 	STRING_EN[7995]["ID"] = 7995
 	STRING_EN[7995]["KEY"] = "M_DESTROY_COUNT17"
-	STRING_EN[7995]["VALUE"] = "Destroy the planet belt 60 times"
+	STRING_EN[7995]["VALUE"] = "Destroy astroid belt 60 times"
 	STRING_EN[7995]["real_idx"] = 7995
 
 STRING_EN["index"][7996] = 7996
 STRING_EN[7996] = {}
 	STRING_EN[7996]["ID"] = 7996
 	STRING_EN[7996]["KEY"] = "M_DESTROY_COUNT18"
-	STRING_EN[7996]["VALUE"] = "Destroy the planet belt 65 times"
+	STRING_EN[7996]["VALUE"] = "Destroy astroid belt 65 times"
 	STRING_EN[7996]["real_idx"] = 7996
 
 STRING_EN["index"][7997] = 7997
 STRING_EN[7997] = {}
 	STRING_EN[7997]["ID"] = 7997
 	STRING_EN[7997]["KEY"] = "M_DESTROY_COUNT19"
-	STRING_EN[7997]["VALUE"] = "Destroy the planet belt 70 times"
+	STRING_EN[7997]["VALUE"] = "Destroy astroid belt 70 times"
 	STRING_EN[7997]["real_idx"] = 7997
 
 STRING_EN["index"][7998] = 7998
 STRING_EN[7998] = {}
 	STRING_EN[7998]["ID"] = 7998
 	STRING_EN[7998]["KEY"] = "M_DESTROY_COUNT20"
-	STRING_EN[7998]["VALUE"] = "Destroy the planet belt 75 times"
+	STRING_EN[7998]["VALUE"] = "Destroy astroid belt 75 times"
 	STRING_EN[7998]["real_idx"] = 7998
 
 STRING_EN["index"][7999] = 7999
 STRING_EN[7999] = {}
 	STRING_EN[7999]["ID"] = 7999
 	STRING_EN[7999]["KEY"] = "M_DESTROY_COUNT21"
-	STRING_EN[7999]["VALUE"] = "Destroy the planet belt 80 times"
+	STRING_EN[7999]["VALUE"] = "Destroy astroid belt 80 times"
 	STRING_EN[7999]["real_idx"] = 7999
 
 STRING_EN["index"][8000] = 8000
 STRING_EN[8000] = {}
 	STRING_EN[8000]["ID"] = 8000
 	STRING_EN[8000]["KEY"] = "M_DESTROY_COUNT22"
-	STRING_EN[8000]["VALUE"] = "Destroy the planet belt 85 times"
+	STRING_EN[8000]["VALUE"] = "Destroy astroid belt 85 times"
 	STRING_EN[8000]["real_idx"] = 8000
 
 STRING_EN["index"][8001] = 8001
 STRING_EN[8001] = {}
 	STRING_EN[8001]["ID"] = 8001
 	STRING_EN[8001]["KEY"] = "M_DESTROY_COUNT23"
-	STRING_EN[8001]["VALUE"] = "Destroy the planet belt 90 times"
+	STRING_EN[8001]["VALUE"] = "Destroy astroid belt 90 times"
 	STRING_EN[8001]["real_idx"] = 8001
 
 STRING_EN["index"][8002] = 8002
 STRING_EN[8002] = {}
 	STRING_EN[8002]["ID"] = 8002
 	STRING_EN[8002]["KEY"] = "M_DESTROY_COUNT24"
-	STRING_EN[8002]["VALUE"] = "Destroy the planet belt 95 times"
+	STRING_EN[8002]["VALUE"] = "Destroy astroid belt 95 times"
 	STRING_EN[8002]["real_idx"] = 8002
 
 STRING_EN["index"][8003] = 8003
 STRING_EN[8003] = {}
 	STRING_EN[8003]["ID"] = 8003
 	STRING_EN[8003]["KEY"] = "M_DESTROY_COUNT25"
-	STRING_EN[8003]["VALUE"] = "Destroy the planet belt 100 times"
+	STRING_EN[8003]["VALUE"] = "Destroy astroid belt 100 times"
 	STRING_EN[8003]["real_idx"] = 8003
 
 STRING_EN["index"][8004] = 8004
 STRING_EN[8004] = {}
 	STRING_EN[8004]["ID"] = 8004
 	STRING_EN[8004]["KEY"] = "M_DESTROY_COUNT26"
-	STRING_EN[8004]["VALUE"] = "Destroy the planet belt 105 times"
+	STRING_EN[8004]["VALUE"] = "Destroy astroid belt 105 times"
 	STRING_EN[8004]["real_idx"] = 8004
 
 STRING_EN["index"][8005] = 8005
 STRING_EN[8005] = {}
 	STRING_EN[8005]["ID"] = 8005
 	STRING_EN[8005]["KEY"] = "M_DESTROY_COUNT27"
-	STRING_EN[8005]["VALUE"] = "Destroy the planet belt 110 times"
+	STRING_EN[8005]["VALUE"] = "Destroy astroid belt 110 times"
 	STRING_EN[8005]["real_idx"] = 8005
 
 STRING_EN["index"][8006] = 8006
 STRING_EN[8006] = {}
 	STRING_EN[8006]["ID"] = 8006
 	STRING_EN[8006]["KEY"] = "M_DESTROY_COUNT28"
-	STRING_EN[8006]["VALUE"] = "Destroy the planet belt 115 times"
+	STRING_EN[8006]["VALUE"] = "Destroy astroid belt 115 times"
 	STRING_EN[8006]["real_idx"] = 8006
 
 STRING_EN["index"][8007] = 8007
 STRING_EN[8007] = {}
 	STRING_EN[8007]["ID"] = 8007
 	STRING_EN[8007]["KEY"] = "M_DESTROY_COUNT29"
-	STRING_EN[8007]["VALUE"] = "Destroy the planet belt 120 times"
+	STRING_EN[8007]["VALUE"] = "Destroy astroid belt 120 times"
 	STRING_EN[8007]["real_idx"] = 8007
 
 STRING_EN["index"][8008] = 8008
 STRING_EN[8008] = {}
 	STRING_EN[8008]["ID"] = 8008
 	STRING_EN[8008]["KEY"] = "M_DESTROY_COUNT30"
-	STRING_EN[8008]["VALUE"] = "Destroy the planet belt 125 times"
+	STRING_EN[8008]["VALUE"] = "Destroy astroid belt 125 times"
 	STRING_EN[8008]["real_idx"] = 8008
 
 STRING_EN["index"][8009] = 8009
 STRING_EN[8009] = {}
 	STRING_EN[8009]["ID"] = 8009
 	STRING_EN[8009]["KEY"] = "M_DESTROY_COUNT31"
-	STRING_EN[8009]["VALUE"] = "Destroy the planet belt 130 times"
+	STRING_EN[8009]["VALUE"] = "Destroy astroid belt 130 times"
 	STRING_EN[8009]["real_idx"] = 8009
 
 STRING_EN["index"][8010] = 8010
 STRING_EN[8010] = {}
 	STRING_EN[8010]["ID"] = 8010
 	STRING_EN[8010]["KEY"] = "M_DESTROY_COUNT32"
-	STRING_EN[8010]["VALUE"] = "Destroy the planet belt 135 times"
+	STRING_EN[8010]["VALUE"] = "Destroy astroid belt 135 times"
 	STRING_EN[8010]["real_idx"] = 8010
 
 STRING_EN["index"][8011] = 8011
 STRING_EN[8011] = {}
 	STRING_EN[8011]["ID"] = 8011
 	STRING_EN[8011]["KEY"] = "M_DESTROY_COUNT33"
-	STRING_EN[8011]["VALUE"] = "Destroy the planet belt 140 times"
+	STRING_EN[8011]["VALUE"] = "Destroy astroid belt 140 times"
 	STRING_EN[8011]["real_idx"] = 8011
 
 STRING_EN["index"][8012] = 8012
 STRING_EN[8012] = {}
 	STRING_EN[8012]["ID"] = 8012
 	STRING_EN[8012]["KEY"] = "M_DESTROY_COUNT34"
-	STRING_EN[8012]["VALUE"] = "Destroy the planet belt 145 times"
+	STRING_EN[8012]["VALUE"] = "Destroy astroid belt 145 times"
 	STRING_EN[8012]["real_idx"] = 8012
 
 STRING_EN["index"][8013] = 8013
 STRING_EN[8013] = {}
 	STRING_EN[8013]["ID"] = 8013
 	STRING_EN[8013]["KEY"] = "M_DESTROY_COUNT35"
-	STRING_EN[8013]["VALUE"] = "Destroy the planet belt 150 times"
+	STRING_EN[8013]["VALUE"] = "Destroy astroid belt 150 times"
 	STRING_EN[8013]["real_idx"] = 8013
 
 STRING_EN["index"][8014] = 8014
 STRING_EN[8014] = {}
 	STRING_EN[8014]["ID"] = 8014
 	STRING_EN[8014]["KEY"] = "M_DESTROY_COUNT36"
-	STRING_EN[8014]["VALUE"] = "Destroy the planet belt 155 times"
+	STRING_EN[8014]["VALUE"] = "Destroy astroid belt 155 times"
 	STRING_EN[8014]["real_idx"] = 8014
 
 STRING_EN["index"][8015] = 8015
 STRING_EN[8015] = {}
 	STRING_EN[8015]["ID"] = 8015
 	STRING_EN[8015]["KEY"] = "M_DESTROY_COUNT37"
-	STRING_EN[8015]["VALUE"] = "Destroy the planet belt 160 times"
+	STRING_EN[8015]["VALUE"] = "Destroy astroid belt 160 times"
 	STRING_EN[8015]["real_idx"] = 8015
 
 STRING_EN["index"][8016] = 8016
 STRING_EN[8016] = {}
 	STRING_EN[8016]["ID"] = 8016
 	STRING_EN[8016]["KEY"] = "M_DESTROY_COUNT38"
-	STRING_EN[8016]["VALUE"] = "Destroy the planet belt 165 times"
+	STRING_EN[8016]["VALUE"] = "Destroy astroid belt 165 times"
 	STRING_EN[8016]["real_idx"] = 8016
 
 STRING_EN["index"][8017] = 8017
 STRING_EN[8017] = {}
 	STRING_EN[8017]["ID"] = 8017
 	STRING_EN[8017]["KEY"] = "M_DESTROY_COUNT39"
-	STRING_EN[8017]["VALUE"] = "Destroy the planet belt 170 times"
+	STRING_EN[8017]["VALUE"] = "Destroy astroid belt 170 times"
 	STRING_EN[8017]["real_idx"] = 8017
 
 STRING_EN["index"][8018] = 8018
 STRING_EN[8018] = {}
 	STRING_EN[8018]["ID"] = 8018
 	STRING_EN[8018]["KEY"] = "M_DESTROY_COUNT40"
-	STRING_EN[8018]["VALUE"] = "Destroy the planet belt 175 times"
+	STRING_EN[8018]["VALUE"] = "Destroy astroid belt 175 times"
 	STRING_EN[8018]["real_idx"] = 8018
 
 STRING_EN["index"][8019] = 8019
 STRING_EN[8019] = {}
 	STRING_EN[8019]["ID"] = 8019
 	STRING_EN[8019]["KEY"] = "M_DESTROY_COUNT41"
-	STRING_EN[8019]["VALUE"] = "Destroy the planet belt 180 times"
+	STRING_EN[8019]["VALUE"] = "Destroy astroid belt 180 times"
 	STRING_EN[8019]["real_idx"] = 8019
 
 STRING_EN["index"][8020] = 8020
 STRING_EN[8020] = {}
 	STRING_EN[8020]["ID"] = 8020
 	STRING_EN[8020]["KEY"] = "M_DESTROY_COUNT42"
-	STRING_EN[8020]["VALUE"] = "Destroy the planet belt 185 times"
+	STRING_EN[8020]["VALUE"] = "Destroy astroid belt 185 times"
 	STRING_EN[8020]["real_idx"] = 8020
 
 STRING_EN["index"][8021] = 8021
 STRING_EN[8021] = {}
 	STRING_EN[8021]["ID"] = 8021
 	STRING_EN[8021]["KEY"] = "M_DESTROY_COUNT43"
-	STRING_EN[8021]["VALUE"] = "Destroy the planet belt 190 times"
+	STRING_EN[8021]["VALUE"] = "Destroy astroid belt 190 times"
 	STRING_EN[8021]["real_idx"] = 8021
 
 STRING_EN["index"][8022] = 8022
 STRING_EN[8022] = {}
 	STRING_EN[8022]["ID"] = 8022
 	STRING_EN[8022]["KEY"] = "M_DESTROY_COUNT44"
-	STRING_EN[8022]["VALUE"] = "Destroy the planet belt 195 times"
+	STRING_EN[8022]["VALUE"] = "Destroy astroid belt 195 times"
 	STRING_EN[8022]["real_idx"] = 8022
 
 STRING_EN["index"][8023] = 8023
 STRING_EN[8023] = {}
 	STRING_EN[8023]["ID"] = 8023
 	STRING_EN[8023]["KEY"] = "M_DESTROY_COUNT45"
-	STRING_EN[8023]["VALUE"] = "Destroy the planet belt 200 times"
+	STRING_EN[8023]["VALUE"] = "Destroy astroid belt 200 times"
 	STRING_EN[8023]["real_idx"] = 8023
 
 STRING_EN["index"][8024] = 8024
 STRING_EN[8024] = {}
 	STRING_EN[8024]["ID"] = 8024
 	STRING_EN[8024]["KEY"] = "M_SALVAGE_COUNT2"
-	STRING_EN[8024]["VALUE"] = "Salvage the wreck 1 time"
+	STRING_EN[8024]["VALUE"] = "Salvage wreckage 1 time"
 	STRING_EN[8024]["real_idx"] = 8024
 
 STRING_EN["index"][8025] = 8025
 STRING_EN[8025] = {}
 	STRING_EN[8025]["ID"] = 8025
 	STRING_EN[8025]["KEY"] = "M_SALVAGE_COUNT3"
-	STRING_EN[8025]["VALUE"] = "Salvage the wreck 2 times"
+	STRING_EN[8025]["VALUE"] = "Salvage wreckage 2 times"
 	STRING_EN[8025]["real_idx"] = 8025
 
 STRING_EN["index"][8026] = 8026
 STRING_EN[8026] = {}
 	STRING_EN[8026]["ID"] = 8026
 	STRING_EN[8026]["KEY"] = "M_SALVAGE_COUNT4"
-	STRING_EN[8026]["VALUE"] = "Salvage the wreck 3 times"
+	STRING_EN[8026]["VALUE"] = "Salvage wreckage 3 times"
 	STRING_EN[8026]["real_idx"] = 8026
 
 STRING_EN["index"][8027] = 8027
 STRING_EN[8027] = {}
 	STRING_EN[8027]["ID"] = 8027
 	STRING_EN[8027]["KEY"] = "M_SALVAGE_COUNT5"
-	STRING_EN[8027]["VALUE"] = "Salvage the wreck 4 times"
+	STRING_EN[8027]["VALUE"] = "Salvage wreckage 4 times"
 	STRING_EN[8027]["real_idx"] = 8027
 
 STRING_EN["index"][8028] = 8028
 STRING_EN[8028] = {}
 	STRING_EN[8028]["ID"] = 8028
 	STRING_EN[8028]["KEY"] = "M_SALVAGE_COUNT6"
-	STRING_EN[8028]["VALUE"] = "Salvage the wreck 8 times"
+	STRING_EN[8028]["VALUE"] = "Salvage wreckage 8 times"
 	STRING_EN[8028]["real_idx"] = 8028
 
 STRING_EN["index"][8029] = 8029
 STRING_EN[8029] = {}
 	STRING_EN[8029]["ID"] = 8029
 	STRING_EN[8029]["KEY"] = "M_SALVAGE_COUNT7"
-	STRING_EN[8029]["VALUE"] = "Salvage the wreck 16 times"
+	STRING_EN[8029]["VALUE"] = "Salvage wreckage 16 times"
 	STRING_EN[8029]["real_idx"] = 8029
 
 STRING_EN["index"][8030] = 8030
 STRING_EN[8030] = {}
 	STRING_EN[8030]["ID"] = 8030
 	STRING_EN[8030]["KEY"] = "M_SALVAGE_COUNT8"
-	STRING_EN[8030]["VALUE"] = "Salvage the wreck 24 times"
+	STRING_EN[8030]["VALUE"] = "Salvage wreckage 24 times"
 	STRING_EN[8030]["real_idx"] = 8030
 
 STRING_EN["index"][8031] = 8031
 STRING_EN[8031] = {}
 	STRING_EN[8031]["ID"] = 8031
 	STRING_EN[8031]["KEY"] = "M_SALVAGE_COUNT9"
-	STRING_EN[8031]["VALUE"] = "Salvage the wreck 32 times"
+	STRING_EN[8031]["VALUE"] = "Salvage wreckage 32 times"
 	STRING_EN[8031]["real_idx"] = 8031
 
 STRING_EN["index"][8032] = 8032
 STRING_EN[8032] = {}
 	STRING_EN[8032]["ID"] = 8032
 	STRING_EN[8032]["KEY"] = "M_SALVAGE_COUNT10"
-	STRING_EN[8032]["VALUE"] = "Salvage the wreck 40 times"
+	STRING_EN[8032]["VALUE"] = "Salvage wreckage 40 times"
 	STRING_EN[8032]["real_idx"] = 8032
 
 STRING_EN["index"][8033] = 8033
 STRING_EN[8033] = {}
 	STRING_EN[8033]["ID"] = 8033
 	STRING_EN[8033]["KEY"] = "M_SALVAGE_COUNT11"
-	STRING_EN[8033]["VALUE"] = "Salvage the wreck 48 times"
+	STRING_EN[8033]["VALUE"] = "Salvage wreckage 48 times"
 	STRING_EN[8033]["real_idx"] = 8033
 
 STRING_EN["index"][8034] = 8034
 STRING_EN[8034] = {}
 	STRING_EN[8034]["ID"] = 8034
 	STRING_EN[8034]["KEY"] = "M_SALVAGE_COUNT12"
-	STRING_EN[8034]["VALUE"] = "Salvage the wreck 56 times"
+	STRING_EN[8034]["VALUE"] = "Salvage wreckage 56 times"
 	STRING_EN[8034]["real_idx"] = 8034
 
 STRING_EN["index"][8035] = 8035
 STRING_EN[8035] = {}
 	STRING_EN[8035]["ID"] = 8035
 	STRING_EN[8035]["KEY"] = "M_SALVAGE_COUNT13"
-	STRING_EN[8035]["VALUE"] = "Salvage the wreck 64 times"
+	STRING_EN[8035]["VALUE"] = "Salvage wreckage 64 times"
 	STRING_EN[8035]["real_idx"] = 8035
 
 STRING_EN["index"][8036] = 8036
 STRING_EN[8036] = {}
 	STRING_EN[8036]["ID"] = 8036
 	STRING_EN[8036]["KEY"] = "M_SALVAGE_COUNT14"
-	STRING_EN[8036]["VALUE"] = "Salvage the wreck 72 times"
+	STRING_EN[8036]["VALUE"] = "Salvage wreckage 72 times"
 	STRING_EN[8036]["real_idx"] = 8036
 
 STRING_EN["index"][8037] = 8037
 STRING_EN[8037] = {}
 	STRING_EN[8037]["ID"] = 8037
 	STRING_EN[8037]["KEY"] = "M_SALVAGE_COUNT15"
-	STRING_EN[8037]["VALUE"] = "Salvage the wreck 80 times"
+	STRING_EN[8037]["VALUE"] = "Salvage wreckage 80 times"
 	STRING_EN[8037]["real_idx"] = 8037
 
 STRING_EN["index"][8038] = 8038
 STRING_EN[8038] = {}
 	STRING_EN[8038]["ID"] = 8038
 	STRING_EN[8038]["KEY"] = "M_SALVAGE_COUNT16"
-	STRING_EN[8038]["VALUE"] = "Salvage the wreck 88 times"
+	STRING_EN[8038]["VALUE"] = "Salvage wreckage 88 times"
 	STRING_EN[8038]["real_idx"] = 8038
 
 STRING_EN["index"][8039] = 8039
 STRING_EN[8039] = {}
 	STRING_EN[8039]["ID"] = 8039
 	STRING_EN[8039]["KEY"] = "M_SALVAGE_COUNT17"
-	STRING_EN[8039]["VALUE"] = "Salvage the wreck 96 times"
+	STRING_EN[8039]["VALUE"] = "Salvage wreckage 96 times"
 	STRING_EN[8039]["real_idx"] = 8039
 
 STRING_EN["index"][8040] = 8040
 STRING_EN[8040] = {}
 	STRING_EN[8040]["ID"] = 8040
 	STRING_EN[8040]["KEY"] = "M_SALVAGE_COUNT18"
-	STRING_EN[8040]["VALUE"] = "Salvage the wreck 104 times"
+	STRING_EN[8040]["VALUE"] = "Salvage wreckage 104 times"
 	STRING_EN[8040]["real_idx"] = 8040
 
 STRING_EN["index"][8041] = 8041
 STRING_EN[8041] = {}
 	STRING_EN[8041]["ID"] = 8041
 	STRING_EN[8041]["KEY"] = "M_SALVAGE_COUNT19"
-	STRING_EN[8041]["VALUE"] = "Salvage the wreck 112 times"
+	STRING_EN[8041]["VALUE"] = "Salvage wreckage 112 times"
 	STRING_EN[8041]["real_idx"] = 8041
 
 STRING_EN["index"][8042] = 8042
 STRING_EN[8042] = {}
 	STRING_EN[8042]["ID"] = 8042
 	STRING_EN[8042]["KEY"] = "M_SALVAGE_COUNT20"
-	STRING_EN[8042]["VALUE"] = "Salvage the wreck 120 times"
+	STRING_EN[8042]["VALUE"] = "Salvage wreckage 120 times"
 	STRING_EN[8042]["real_idx"] = 8042
 
 STRING_EN["index"][8043] = 8043
 STRING_EN[8043] = {}
 	STRING_EN[8043]["ID"] = 8043
 	STRING_EN[8043]["KEY"] = "M_SALVAGE_COUNT21"
-	STRING_EN[8043]["VALUE"] = "Salvage the wreck 128 times"
+	STRING_EN[8043]["VALUE"] = "Salvage wreckage 128 times"
 	STRING_EN[8043]["real_idx"] = 8043
 
 STRING_EN["index"][8044] = 8044
 STRING_EN[8044] = {}
 	STRING_EN[8044]["ID"] = 8044
 	STRING_EN[8044]["KEY"] = "M_SALVAGE_COUNT22"
-	STRING_EN[8044]["VALUE"] = "Salvage the wreck 136 times"
+	STRING_EN[8044]["VALUE"] = "Salvage wreckage 136 times"
 	STRING_EN[8044]["real_idx"] = 8044
 
 STRING_EN["index"][8045] = 8045
 STRING_EN[8045] = {}
 	STRING_EN[8045]["ID"] = 8045
 	STRING_EN[8045]["KEY"] = "M_SALVAGE_COUNT23"
-	STRING_EN[8045]["VALUE"] = "Salvage the wreck 144 times"
+	STRING_EN[8045]["VALUE"] = "Salvage wreckage 144 times"
 	STRING_EN[8045]["real_idx"] = 8045
 
 STRING_EN["index"][8046] = 8046
 STRING_EN[8046] = {}
 	STRING_EN[8046]["ID"] = 8046
 	STRING_EN[8046]["KEY"] = "M_SALVAGE_COUNT24"
-	STRING_EN[8046]["VALUE"] = "Salvage the wreck 152 times"
+	STRING_EN[8046]["VALUE"] = "Salvage wreckage 152 times"
 	STRING_EN[8046]["real_idx"] = 8046
 
 STRING_EN["index"][8047] = 8047
 STRING_EN[8047] = {}
 	STRING_EN[8047]["ID"] = 8047
 	STRING_EN[8047]["KEY"] = "M_SALVAGE_COUNT25"
-	STRING_EN[8047]["VALUE"] = "Salvage the wreck 160 times"
+	STRING_EN[8047]["VALUE"] = "Salvage wreckage 160 times"
 	STRING_EN[8047]["real_idx"] = 8047
 
 STRING_EN["index"][8048] = 8048
 STRING_EN[8048] = {}
 	STRING_EN[8048]["ID"] = 8048
 	STRING_EN[8048]["KEY"] = "M_SALVAGE_COUNT26"
-	STRING_EN[8048]["VALUE"] = "Salvage the wreck 168 times"
+	STRING_EN[8048]["VALUE"] = "Salvage wreckage 168 times"
 	STRING_EN[8048]["real_idx"] = 8048
 
 STRING_EN["index"][8049] = 8049
 STRING_EN[8049] = {}
 	STRING_EN[8049]["ID"] = 8049
 	STRING_EN[8049]["KEY"] = "M_SALVAGE_COUNT27"
-	STRING_EN[8049]["VALUE"] = "Salvage the wreck 176 times"
+	STRING_EN[8049]["VALUE"] = "Salvage wreckage 176 times"
 	STRING_EN[8049]["real_idx"] = 8049
 
 STRING_EN["index"][8050] = 8050
 STRING_EN[8050] = {}
 	STRING_EN[8050]["ID"] = 8050
 	STRING_EN[8050]["KEY"] = "M_SALVAGE_COUNT28"
-	STRING_EN[8050]["VALUE"] = "Salvage the wreck 184 times"
+	STRING_EN[8050]["VALUE"] = "Salvage wreckage 184 times"
 	STRING_EN[8050]["real_idx"] = 8050
 
 STRING_EN["index"][8051] = 8051
 STRING_EN[8051] = {}
 	STRING_EN[8051]["ID"] = 8051
 	STRING_EN[8051]["KEY"] = "M_SALVAGE_COUNT29"
-	STRING_EN[8051]["VALUE"] = "Salvage the wreck 192 times"
+	STRING_EN[8051]["VALUE"] = "Salvage wreckage 192 times"
 	STRING_EN[8051]["real_idx"] = 8051
 
 STRING_EN["index"][8052] = 8052
 STRING_EN[8052] = {}
 	STRING_EN[8052]["ID"] = 8052
 	STRING_EN[8052]["KEY"] = "M_SALVAGE_COUNT30"
-	STRING_EN[8052]["VALUE"] = "Salvage the wreck 200 times"
+	STRING_EN[8052]["VALUE"] = "Salvage wreckage 200 times"
 	STRING_EN[8052]["real_idx"] = 8052
 
 STRING_EN["index"][8053] = 8053
 STRING_EN[8053] = {}
 	STRING_EN[8053]["ID"] = 8053
 	STRING_EN[8053]["KEY"] = "M_SALVAGE_COUNT31"
-	STRING_EN[8053]["VALUE"] = "Salvage the wreck 208 times"
+	STRING_EN[8053]["VALUE"] = "Salvage wreckage 208 times"
 	STRING_EN[8053]["real_idx"] = 8053
 
 STRING_EN["index"][8054] = 8054
 STRING_EN[8054] = {}
 	STRING_EN[8054]["ID"] = 8054
 	STRING_EN[8054]["KEY"] = "M_SALVAGE_COUNT32"
-	STRING_EN[8054]["VALUE"] = "Salvage the wreck 216 times"
+	STRING_EN[8054]["VALUE"] = "Salvage wreckage 216 times"
 	STRING_EN[8054]["real_idx"] = 8054
 
 STRING_EN["index"][8055] = 8055
 STRING_EN[8055] = {}
 	STRING_EN[8055]["ID"] = 8055
 	STRING_EN[8055]["KEY"] = "M_SALVAGE_COUNT33"
-	STRING_EN[8055]["VALUE"] = "Salvage the wreck 224 times"
+	STRING_EN[8055]["VALUE"] = "Salvage wreckage 224 times"
 	STRING_EN[8055]["real_idx"] = 8055
 
 STRING_EN["index"][8056] = 8056
 STRING_EN[8056] = {}
 	STRING_EN[8056]["ID"] = 8056
 	STRING_EN[8056]["KEY"] = "M_SALVAGE_COUNT34"
-	STRING_EN[8056]["VALUE"] = "Salvage the wreck 232 times"
+	STRING_EN[8056]["VALUE"] = "Salvage wreckage 232 times"
 	STRING_EN[8056]["real_idx"] = 8056
 
 STRING_EN["index"][8057] = 8057
 STRING_EN[8057] = {}
 	STRING_EN[8057]["ID"] = 8057
 	STRING_EN[8057]["KEY"] = "M_SALVAGE_COUNT35"
-	STRING_EN[8057]["VALUE"] = "Salvage the wreck 240 times"
+	STRING_EN[8057]["VALUE"] = "Salvage wreckage 240 times"
 	STRING_EN[8057]["real_idx"] = 8057
 
 STRING_EN["index"][8058] = 8058
 STRING_EN[8058] = {}
 	STRING_EN[8058]["ID"] = 8058
 	STRING_EN[8058]["KEY"] = "M_SALVAGE_COUNT36"
-	STRING_EN[8058]["VALUE"] = "Salvage the wreck 248 times"
+	STRING_EN[8058]["VALUE"] = "Salvage wreckage 248 times"
 	STRING_EN[8058]["real_idx"] = 8058
 
 STRING_EN["index"][8059] = 8059
 STRING_EN[8059] = {}
 	STRING_EN[8059]["ID"] = 8059
 	STRING_EN[8059]["KEY"] = "M_SALVAGE_COUNT37"
-	STRING_EN[8059]["VALUE"] = "Salvage the wreck 256 times"
+	STRING_EN[8059]["VALUE"] = "Salvage wreckage 256 times"
 	STRING_EN[8059]["real_idx"] = 8059
 
 STRING_EN["index"][8060] = 8060
 STRING_EN[8060] = {}
 	STRING_EN[8060]["ID"] = 8060
 	STRING_EN[8060]["KEY"] = "M_SALVAGE_COUNT38"
-	STRING_EN[8060]["VALUE"] = "Salvage the wreck 264 times"
+	STRING_EN[8060]["VALUE"] = "Salvage wreckage 264 times"
 	STRING_EN[8060]["real_idx"] = 8060
 
 STRING_EN["index"][8061] = 8061
 STRING_EN[8061] = {}
 	STRING_EN[8061]["ID"] = 8061
 	STRING_EN[8061]["KEY"] = "M_SALVAGE_COUNT39"
-	STRING_EN[8061]["VALUE"] = "Salvage the wreck 272 times"
+	STRING_EN[8061]["VALUE"] = "Salvage wreckage 272 times"
 	STRING_EN[8061]["real_idx"] = 8061
 
 STRING_EN["index"][8062] = 8062
 STRING_EN[8062] = {}
 	STRING_EN[8062]["ID"] = 8062
 	STRING_EN[8062]["KEY"] = "M_SALVAGE_COUNT40"
-	STRING_EN[8062]["VALUE"] = "Salvage the wreck 280 times"
+	STRING_EN[8062]["VALUE"] = "Salvage wreckage 280 times"
 	STRING_EN[8062]["real_idx"] = 8062
 
 STRING_EN["index"][8063] = 8063
 STRING_EN[8063] = {}
 	STRING_EN[8063]["ID"] = 8063
 	STRING_EN[8063]["KEY"] = "M_SALVAGE_COUNT41"
-	STRING_EN[8063]["VALUE"] = "Salvage the wreck 288 times"
+	STRING_EN[8063]["VALUE"] = "Salvage wreckage 288 times"
 	STRING_EN[8063]["real_idx"] = 8063
 
 STRING_EN["index"][8064] = 8064
 STRING_EN[8064] = {}
 	STRING_EN[8064]["ID"] = 8064
 	STRING_EN[8064]["KEY"] = "M_SALVAGE_COUNT42"
-	STRING_EN[8064]["VALUE"] = "Salvage the wreck 296 times"
+	STRING_EN[8064]["VALUE"] = "Salvage wreckage 296 times"
 	STRING_EN[8064]["real_idx"] = 8064
 
 STRING_EN["index"][8065] = 8065
 STRING_EN[8065] = {}
 	STRING_EN[8065]["ID"] = 8065
 	STRING_EN[8065]["KEY"] = "M_SALVAGE_COUNT43"
-	STRING_EN[8065]["VALUE"] = "Salvage the wreck 304 times"
+	STRING_EN[8065]["VALUE"] = "Salvage wreckage 304 times"
 	STRING_EN[8065]["real_idx"] = 8065
 
 STRING_EN["index"][8066] = 8066
 STRING_EN[8066] = {}
 	STRING_EN[8066]["ID"] = 8066
 	STRING_EN[8066]["KEY"] = "M_SALVAGE_COUNT44"
-	STRING_EN[8066]["VALUE"] = "Salvage the wreck 312 times"
+	STRING_EN[8066]["VALUE"] = "Salvage wreckage 312 times"
 	STRING_EN[8066]["real_idx"] = 8066
 
 STRING_EN["index"][8067] = 8067
 STRING_EN[8067] = {}
 	STRING_EN[8067]["ID"] = 8067
 	STRING_EN[8067]["KEY"] = "M_SALVAGE_COUNT45"
-	STRING_EN[8067]["VALUE"] = "Salvage the wreck 320 times"
+	STRING_EN[8067]["VALUE"] = "Salvage wreckage 320 times"
 	STRING_EN[8067]["real_idx"] = 8067
 
 STRING_EN["index"][8068] = 8068
 STRING_EN[8068] = {}
 	STRING_EN[8068]["ID"] = 8068
 	STRING_EN[8068]["KEY"] = "M_ATTACK_COUNT2"
-	STRING_EN[8068]["VALUE"] = "Attack artificial intelligence base 1 times"
+	STRING_EN[8068]["VALUE"] = "Attack AI base 1 time"
 	STRING_EN[8068]["real_idx"] = 8068
 
 STRING_EN["index"][8069] = 8069
 STRING_EN[8069] = {}
 	STRING_EN[8069]["ID"] = 8069
 	STRING_EN[8069]["KEY"] = "M_ATTACK_COUNT3"
-	STRING_EN[8069]["VALUE"] = "Attack artificial intelligence base 2 times"
+	STRING_EN[8069]["VALUE"] = "Attack AI base 2 times"
 	STRING_EN[8069]["real_idx"] = 8069
 
 STRING_EN["index"][8070] = 8070
 STRING_EN[8070] = {}
 	STRING_EN[8070]["ID"] = 8070
 	STRING_EN[8070]["KEY"] = "M_ATTACK_COUNT4"
-	STRING_EN[8070]["VALUE"] = "Attack artificial intelligence base 4 times"
+	STRING_EN[8070]["VALUE"] = "Attack AI base 4 times"
 	STRING_EN[8070]["real_idx"] = 8070
 
 STRING_EN["index"][8071] = 8071
 STRING_EN[8071] = {}
 	STRING_EN[8071]["ID"] = 8071
 	STRING_EN[8071]["KEY"] = "M_ATTACK_COUNT5"
-	STRING_EN[8071]["VALUE"] = "Attack artificial intelligence base 6 times"
+	STRING_EN[8071]["VALUE"] = "Attack AI base 6 times"
 	STRING_EN[8071]["real_idx"] = 8071
 
 STRING_EN["index"][8072] = 8072
 STRING_EN[8072] = {}
 	STRING_EN[8072]["ID"] = 8072
 	STRING_EN[8072]["KEY"] = "M_ATTACK_COUNT6"
-	STRING_EN[8072]["VALUE"] = "Attack artificial intelligence base 8 times"
+	STRING_EN[8072]["VALUE"] = "Attack AI base 8 times"
 	STRING_EN[8072]["real_idx"] = 8072
 
 STRING_EN["index"][8073] = 8073
 STRING_EN[8073] = {}
 	STRING_EN[8073]["ID"] = 8073
 	STRING_EN[8073]["KEY"] = "M_ATTACK_COUNT7"
-	STRING_EN[8073]["VALUE"] = "Attack artificial intelligence base 10 times"
+	STRING_EN[8073]["VALUE"] = "Attack AI base 10 times"
 	STRING_EN[8073]["real_idx"] = 8073
 
 STRING_EN["index"][8074] = 8074
 STRING_EN[8074] = {}
 	STRING_EN[8074]["ID"] = 8074
 	STRING_EN[8074]["KEY"] = "M_ATTACK_COUNT8"
-	STRING_EN[8074]["VALUE"] = "Attack artificial intelligence base 15 times"
+	STRING_EN[8074]["VALUE"] = "Attack AI base 15 times"
 	STRING_EN[8074]["real_idx"] = 8074
 
 STRING_EN["index"][8075] = 8075
 STRING_EN[8075] = {}
 	STRING_EN[8075]["ID"] = 8075
 	STRING_EN[8075]["KEY"] = "M_ATTACK_COUNT9"
-	STRING_EN[8075]["VALUE"] = "Attack artificial intelligence base 20 times"
+	STRING_EN[8075]["VALUE"] = "Attack AI base 20 times"
 	STRING_EN[8075]["real_idx"] = 8075
 
 STRING_EN["index"][8076] = 8076
 STRING_EN[8076] = {}
 	STRING_EN[8076]["ID"] = 8076
 	STRING_EN[8076]["KEY"] = "M_ATTACK_COUNT10"
-	STRING_EN[8076]["VALUE"] = "Attack artificial intelligence base 25 times"
+	STRING_EN[8076]["VALUE"] = "Attack AI base 25 times"
 	STRING_EN[8076]["real_idx"] = 8076
 
 STRING_EN["index"][8077] = 8077
 STRING_EN[8077] = {}
 	STRING_EN[8077]["ID"] = 8077
 	STRING_EN[8077]["KEY"] = "M_ATTACK_COUNT11"
-	STRING_EN[8077]["VALUE"] = "Attack artificial intelligence base 30 times"
+	STRING_EN[8077]["VALUE"] = "Attack AI base 30 times"
 	STRING_EN[8077]["real_idx"] = 8077
 
 STRING_EN["index"][8078] = 8078
 STRING_EN[8078] = {}
 	STRING_EN[8078]["ID"] = 8078
 	STRING_EN[8078]["KEY"] = "M_ATTACK_COUNT12"
-	STRING_EN[8078]["VALUE"] = "Attack artificial intelligence base 35 times"
+	STRING_EN[8078]["VALUE"] = "Attack AI base 35 times"
 	STRING_EN[8078]["real_idx"] = 8078
 
 STRING_EN["index"][8079] = 8079
 STRING_EN[8079] = {}
 	STRING_EN[8079]["ID"] = 8079
 	STRING_EN[8079]["KEY"] = "M_ATTACK_COUNT13"
-	STRING_EN[8079]["VALUE"] = "Attack artificial intelligence base 40 times"
+	STRING_EN[8079]["VALUE"] = "Attack AI base 40 times"
 	STRING_EN[8079]["real_idx"] = 8079
 
 STRING_EN["index"][8080] = 8080
 STRING_EN[8080] = {}
 	STRING_EN[8080]["ID"] = 8080
 	STRING_EN[8080]["KEY"] = "M_ATTACK_COUNT14"
-	STRING_EN[8080]["VALUE"] = "Attack artificial intelligence base 45 times"
+	STRING_EN[8080]["VALUE"] = "Attack AI base 45 times"
 	STRING_EN[8080]["real_idx"] = 8080
 
 STRING_EN["index"][8081] = 8081
 STRING_EN[8081] = {}
 	STRING_EN[8081]["ID"] = 8081
 	STRING_EN[8081]["KEY"] = "M_ATTACK_COUNT15"
-	STRING_EN[8081]["VALUE"] = "Attack artificial intelligence base 50 times"
+	STRING_EN[8081]["VALUE"] = "Attack AI base 50 times"
 	STRING_EN[8081]["real_idx"] = 8081
 
 STRING_EN["index"][8082] = 8082
 STRING_EN[8082] = {}
 	STRING_EN[8082]["ID"] = 8082
 	STRING_EN[8082]["KEY"] = "M_ATTACK_COUNT16"
-	STRING_EN[8082]["VALUE"] = "Attack artificial intelligence base 55 times"
+	STRING_EN[8082]["VALUE"] = "Attack AI base 55 times"
 	STRING_EN[8082]["real_idx"] = 8082
 
 STRING_EN["index"][8083] = 8083
 STRING_EN[8083] = {}
 	STRING_EN[8083]["ID"] = 8083
 	STRING_EN[8083]["KEY"] = "M_ATTACK_COUNT17"
-	STRING_EN[8083]["VALUE"] = "Attack artificial intelligence base 60 times"
+	STRING_EN[8083]["VALUE"] = "Attack AI base 60 times"
 	STRING_EN[8083]["real_idx"] = 8083
 
 STRING_EN["index"][8084] = 8084
 STRING_EN[8084] = {}
 	STRING_EN[8084]["ID"] = 8084
 	STRING_EN[8084]["KEY"] = "M_ATTACK_COUNT18"
-	STRING_EN[8084]["VALUE"] = "Attack artificial intelligence base 65 times"
+	STRING_EN[8084]["VALUE"] = "Attack AI base 65 times"
 	STRING_EN[8084]["real_idx"] = 8084
 
 STRING_EN["index"][8085] = 8085
 STRING_EN[8085] = {}
 	STRING_EN[8085]["ID"] = 8085
 	STRING_EN[8085]["KEY"] = "M_ATTACK_COUNT19"
-	STRING_EN[8085]["VALUE"] = "Attack artificial intelligence base 70 times"
+	STRING_EN[8085]["VALUE"] = "Attack AI base 70 times"
 	STRING_EN[8085]["real_idx"] = 8085
 
 STRING_EN["index"][8086] = 8086
 STRING_EN[8086] = {}
 	STRING_EN[8086]["ID"] = 8086
 	STRING_EN[8086]["KEY"] = "M_ATTACK_COUNT20"
-	STRING_EN[8086]["VALUE"] = "Attack artificial intelligence base 75 times"
+	STRING_EN[8086]["VALUE"] = "Attack AI base 75 times"
 	STRING_EN[8086]["real_idx"] = 8086
 
 STRING_EN["index"][8087] = 8087
 STRING_EN[8087] = {}
 	STRING_EN[8087]["ID"] = 8087
 	STRING_EN[8087]["KEY"] = "M_ATTACK_COUNT21"
-	STRING_EN[8087]["VALUE"] = "Attack artificial intelligence base 80 times"
+	STRING_EN[8087]["VALUE"] = "Attack AI base 80 times"
 	STRING_EN[8087]["real_idx"] = 8087
 
 STRING_EN["index"][8088] = 8088
 STRING_EN[8088] = {}
 	STRING_EN[8088]["ID"] = 8088
 	STRING_EN[8088]["KEY"] = "M_ATTACK_COUNT22"
-	STRING_EN[8088]["VALUE"] = "Attack artificial intelligence base 85 times"
+	STRING_EN[8088]["VALUE"] = "Attack AI base 85 times"
 	STRING_EN[8088]["real_idx"] = 8088
 
 STRING_EN["index"][8089] = 8089
 STRING_EN[8089] = {}
 	STRING_EN[8089]["ID"] = 8089
 	STRING_EN[8089]["KEY"] = "M_ATTACK_COUNT23"
-	STRING_EN[8089]["VALUE"] = "Attack artificial intelligence base 90 times"
+	STRING_EN[8089]["VALUE"] = "Attack AI base 90 times"
 	STRING_EN[8089]["real_idx"] = 8089
 
 STRING_EN["index"][8090] = 8090
 STRING_EN[8090] = {}
 	STRING_EN[8090]["ID"] = 8090
 	STRING_EN[8090]["KEY"] = "M_ATTACK_COUNT24"
-	STRING_EN[8090]["VALUE"] = "Attack artificial intelligence base 95 times"
+	STRING_EN[8090]["VALUE"] = "Attack AI base 95 times"
 	STRING_EN[8090]["real_idx"] = 8090
 
 STRING_EN["index"][8091] = 8091
 STRING_EN[8091] = {}
 	STRING_EN[8091]["ID"] = 8091
 	STRING_EN[8091]["KEY"] = "M_ATTACK_COUNT25"
-	STRING_EN[8091]["VALUE"] = "Attack artificial intelligence base 100 times"
+	STRING_EN[8091]["VALUE"] = "Attack AI base 100 times"
 	STRING_EN[8091]["real_idx"] = 8091
 
 STRING_EN["index"][8092] = 8092
 STRING_EN[8092] = {}
 	STRING_EN[8092]["ID"] = 8092
 	STRING_EN[8092]["KEY"] = "M_ATTACK_COUNT26"
-	STRING_EN[8092]["VALUE"] = "Attack artificial intelligence base 105 times"
+	STRING_EN[8092]["VALUE"] = "Attack AI base 105 times"
 	STRING_EN[8092]["real_idx"] = 8092
 
 STRING_EN["index"][8093] = 8093
 STRING_EN[8093] = {}
 	STRING_EN[8093]["ID"] = 8093
 	STRING_EN[8093]["KEY"] = "M_ATTACK_COUNT27"
-	STRING_EN[8093]["VALUE"] = "Attack artificial intelligence base 110 times"
+	STRING_EN[8093]["VALUE"] = "Attack AI base 110 times"
 	STRING_EN[8093]["real_idx"] = 8093
 
 STRING_EN["index"][8094] = 8094
 STRING_EN[8094] = {}
 	STRING_EN[8094]["ID"] = 8094
 	STRING_EN[8094]["KEY"] = "M_ATTACK_COUNT28"
-	STRING_EN[8094]["VALUE"] = "Attack artificial intelligence base 115 times"
+	STRING_EN[8094]["VALUE"] = "Attack AI base 115 times"
 	STRING_EN[8094]["real_idx"] = 8094
 
 STRING_EN["index"][8095] = 8095
 STRING_EN[8095] = {}
 	STRING_EN[8095]["ID"] = 8095
 	STRING_EN[8095]["KEY"] = "M_ATTACK_COUNT29"
-	STRING_EN[8095]["VALUE"] = "Attack artificial intelligence base 120 times"
+	STRING_EN[8095]["VALUE"] = "Attack AI base 120 times"
 	STRING_EN[8095]["real_idx"] = 8095
 
 STRING_EN["index"][8096] = 8096
 STRING_EN[8096] = {}
 	STRING_EN[8096]["ID"] = 8096
 	STRING_EN[8096]["KEY"] = "M_ATTACK_COUNT30"
-	STRING_EN[8096]["VALUE"] = "Attack artificial intelligence base 125 times"
+	STRING_EN[8096]["VALUE"] = "Attack AI base 125 times"
 	STRING_EN[8096]["real_idx"] = 8096
 
 STRING_EN["index"][8097] = 8097
 STRING_EN[8097] = {}
 	STRING_EN[8097]["ID"] = 8097
 	STRING_EN[8097]["KEY"] = "M_ATTACK_COUNT31"
-	STRING_EN[8097]["VALUE"] = "Attack artificial intelligence base 130 times"
+	STRING_EN[8097]["VALUE"] = "Attack AI base 130 times"
 	STRING_EN[8097]["real_idx"] = 8097
 
 STRING_EN["index"][8098] = 8098
 STRING_EN[8098] = {}
 	STRING_EN[8098]["ID"] = 8098
 	STRING_EN[8098]["KEY"] = "M_ATTACK_COUNT32"
-	STRING_EN[8098]["VALUE"] = "Attack artificial intelligence base 135 times"
+	STRING_EN[8098]["VALUE"] = "Attack AI base 135 times"
 	STRING_EN[8098]["real_idx"] = 8098
 
 STRING_EN["index"][8099] = 8099
 STRING_EN[8099] = {}
 	STRING_EN[8099]["ID"] = 8099
 	STRING_EN[8099]["KEY"] = "M_ATTACK_COUNT33"
-	STRING_EN[8099]["VALUE"] = "Attack artificial intelligence base 140 times"
+	STRING_EN[8099]["VALUE"] = "Attack AI base 140 times"
 	STRING_EN[8099]["real_idx"] = 8099
 
 STRING_EN["index"][8100] = 8100
 STRING_EN[8100] = {}
 	STRING_EN[8100]["ID"] = 8100
 	STRING_EN[8100]["KEY"] = "M_ATTACK_COUNT34"
-	STRING_EN[8100]["VALUE"] = "Attack artificial intelligence base 145 times"
+	STRING_EN[8100]["VALUE"] = "Attack AI base 145 times"
 	STRING_EN[8100]["real_idx"] = 8100
 
 STRING_EN["index"][8101] = 8101
 STRING_EN[8101] = {}
 	STRING_EN[8101]["ID"] = 8101
 	STRING_EN[8101]["KEY"] = "M_ATTACK_COUNT35"
-	STRING_EN[8101]["VALUE"] = "Attack artificial intelligence base 150 times"
+	STRING_EN[8101]["VALUE"] = "Attack AI base 150 times"
 	STRING_EN[8101]["real_idx"] = 8101
 
 STRING_EN["index"][8102] = 8102
 STRING_EN[8102] = {}
 	STRING_EN[8102]["ID"] = 8102
 	STRING_EN[8102]["KEY"] = "M_ATTACK_COUNT36"
-	STRING_EN[8102]["VALUE"] = "Attack artificial intelligence base 155 times"
+	STRING_EN[8102]["VALUE"] = "Attack AI base 155 times"
 	STRING_EN[8102]["real_idx"] = 8102
 
 STRING_EN["index"][8103] = 8103
 STRING_EN[8103] = {}
 	STRING_EN[8103]["ID"] = 8103
 	STRING_EN[8103]["KEY"] = "M_ATTACK_COUNT37"
-	STRING_EN[8103]["VALUE"] = "Attack artificial intelligence base 160 times"
+	STRING_EN[8103]["VALUE"] = "Attack AI base 160 times"
 	STRING_EN[8103]["real_idx"] = 8103
 
 STRING_EN["index"][8104] = 8104
 STRING_EN[8104] = {}
 	STRING_EN[8104]["ID"] = 8104
 	STRING_EN[8104]["KEY"] = "M_ATTACK_COUNT38"
-	STRING_EN[8104]["VALUE"] = "Attack artificial intelligence base 165 times"
+	STRING_EN[8104]["VALUE"] = "Attack AI base 165 times"
 	STRING_EN[8104]["real_idx"] = 8104
 
 STRING_EN["index"][8105] = 8105
 STRING_EN[8105] = {}
 	STRING_EN[8105]["ID"] = 8105
 	STRING_EN[8105]["KEY"] = "M_ATTACK_COUNT39"
-	STRING_EN[8105]["VALUE"] = "Attack artificial intelligence base 170 times"
+	STRING_EN[8105]["VALUE"] = "Attack AI base 170 times"
 	STRING_EN[8105]["real_idx"] = 8105
 
 STRING_EN["index"][8106] = 8106
 STRING_EN[8106] = {}
 	STRING_EN[8106]["ID"] = 8106
 	STRING_EN[8106]["KEY"] = "M_ATTACK_COUNT40"
-	STRING_EN[8106]["VALUE"] = "Attack artificial intelligence base 175 times"
+	STRING_EN[8106]["VALUE"] = "Attack AI base 175 times"
 	STRING_EN[8106]["real_idx"] = 8106
 
 STRING_EN["index"][8107] = 8107
 STRING_EN[8107] = {}
 	STRING_EN[8107]["ID"] = 8107
 	STRING_EN[8107]["KEY"] = "M_ATTACK_COUNT41"
-	STRING_EN[8107]["VALUE"] = "Attack artificial intelligence base 180 times"
+	STRING_EN[8107]["VALUE"] = "Attack AI base 180 times"
 	STRING_EN[8107]["real_idx"] = 8107
 
 STRING_EN["index"][8108] = 8108
 STRING_EN[8108] = {}
 	STRING_EN[8108]["ID"] = 8108
 	STRING_EN[8108]["KEY"] = "M_ATTACK_COUNT42"
-	STRING_EN[8108]["VALUE"] = "Attack artificial intelligence base 185 times"
+	STRING_EN[8108]["VALUE"] = "Attack AI base 185 times"
 	STRING_EN[8108]["real_idx"] = 8108
 
 STRING_EN["index"][8109] = 8109
 STRING_EN[8109] = {}
 	STRING_EN[8109]["ID"] = 8109
 	STRING_EN[8109]["KEY"] = "M_ATTACK_COUNT43"
-	STRING_EN[8109]["VALUE"] = "Attack artificial intelligence base 190 times"
+	STRING_EN[8109]["VALUE"] = "Attack AI base 190 times"
 	STRING_EN[8109]["real_idx"] = 8109
 
 STRING_EN["index"][8110] = 8110
 STRING_EN[8110] = {}
 	STRING_EN[8110]["ID"] = 8110
 	STRING_EN[8110]["KEY"] = "M_ATTACK_COUNT44"
-	STRING_EN[8110]["VALUE"] = "Attack artificial intelligence base 195 times"
+	STRING_EN[8110]["VALUE"] = "Attack AI base 195 times"
 	STRING_EN[8110]["real_idx"] = 8110
 
 STRING_EN["index"][8111] = 8111
 STRING_EN[8111] = {}
 	STRING_EN[8111]["ID"] = 8111
 	STRING_EN[8111]["KEY"] = "M_ATTACK_COUNT45"
-	STRING_EN[8111]["VALUE"] = "Attack artificial intelligence base 200 times"
+	STRING_EN[8111]["VALUE"] = "Attack AI base 200 times"
 	STRING_EN[8111]["real_idx"] = 8111
 
 STRING_EN["index"][8112] = 8112
 STRING_EN[8112] = {}
 	STRING_EN[8112]["ID"] = 8112
 	STRING_EN[8112]["KEY"] = "HERO_LEVELUP_12"
-	STRING_EN[8112]["VALUE"] = "Leveling madman XII"
+	STRING_EN[8112]["VALUE"] = "Leveling Maniac XII"
 	STRING_EN[8112]["real_idx"] = 8112
 
 STRING_EN["index"][8113] = 8113
 STRING_EN[8113] = {}
 	STRING_EN[8113]["ID"] = 8113
 	STRING_EN[8113]["KEY"] = "HERO_LEVELUP_15"
-	STRING_EN[8113]["VALUE"] = "Leveling madman XV"
+	STRING_EN[8113]["VALUE"] = "Leveling Maniac XV"
 	STRING_EN[8113]["real_idx"] = 8113
 
 STRING_EN["index"][8114] = 8114
 STRING_EN[8114] = {}
 	STRING_EN[8114]["ID"] = 8114
 	STRING_EN[8114]["KEY"] = "HERO_LEVELUP_20"
-	STRING_EN[8114]["VALUE"] = "Leveling madman XX"
+	STRING_EN[8114]["VALUE"] = "Leveling Maniac XX"
 	STRING_EN[8114]["real_idx"] = 8114
 
 STRING_EN["index"][8115] = 8115
 STRING_EN[8115] = {}
 	STRING_EN[8115]["ID"] = 8115
 	STRING_EN[8115]["KEY"] = "HERO_LEVELUP_25"
-	STRING_EN[8115]["VALUE"] = "Leveling madman XXV"
+	STRING_EN[8115]["VALUE"] = "Leveling Maniac XXV"
 	STRING_EN[8115]["real_idx"] = 8115
 
 STRING_EN["index"][8116] = 8116
 STRING_EN[8116] = {}
 	STRING_EN[8116]["ID"] = 8116
 	STRING_EN[8116]["KEY"] = "HERO_LEVELUP_30"
-	STRING_EN[8116]["VALUE"] = "Leveling madman XXX"
+	STRING_EN[8116]["VALUE"] = "Leveling Maniac XXX"
 	STRING_EN[8116]["real_idx"] = 8116
 
 STRING_EN["index"][8117] = 8117
 STRING_EN[8117] = {}
 	STRING_EN[8117]["ID"] = 8117
 	STRING_EN[8117]["KEY"] = "HERO_LEVELUP_35"
-	STRING_EN[8117]["VALUE"] = "Leveling madman XXXV"
+	STRING_EN[8117]["VALUE"] = "Leveling Maniac XXXV"
 	STRING_EN[8117]["real_idx"] = 8117
 
 STRING_EN["index"][8118] = 8118
 STRING_EN[8118] = {}
 	STRING_EN[8118]["ID"] = 8118
 	STRING_EN[8118]["KEY"] = "HERO_LEVELUP_40"
-	STRING_EN[8118]["VALUE"] = "Leveling madman XL"
+	STRING_EN[8118]["VALUE"] = "Leveling Maniac XL"
 	STRING_EN[8118]["real_idx"] = 8118
 
 STRING_EN["index"][8119] = 8119
 STRING_EN[8119] = {}
 	STRING_EN[8119]["ID"] = 8119
 	STRING_EN[8119]["KEY"] = "HERO_LEVELUP_43"
-	STRING_EN[8119]["VALUE"] = "Leveling madman XLIII"
+	STRING_EN[8119]["VALUE"] = "Leveling Maniac XLIII"
 	STRING_EN[8119]["real_idx"] = 8119
 
 STRING_EN["index"][8120] = 8120
 STRING_EN[8120] = {}
 	STRING_EN[8120]["ID"] = 8120
 	STRING_EN[8120]["KEY"] = "HERO_LEVELUP_45"
-	STRING_EN[8120]["VALUE"] = "Leveling madman XLV"
+	STRING_EN[8120]["VALUE"] = "Leveling Maniac XLV"
 	STRING_EN[8120]["real_idx"] = 8120
 
 STRING_EN["index"][8121] = 8121
 STRING_EN[8121] = {}
 	STRING_EN[8121]["ID"] = 8121
 	STRING_EN[8121]["KEY"] = "HERO_LEVELUP_48"
-	STRING_EN[8121]["VALUE"] = "Leveling madman XLVIII"
+	STRING_EN[8121]["VALUE"] = "Leveling Maniac XLVIII"
 	STRING_EN[8121]["real_idx"] = 8121
 
 STRING_EN["index"][8122] = 8122
 STRING_EN[8122] = {}
 	STRING_EN[8122]["ID"] = 8122
 	STRING_EN[8122]["KEY"] = "HERO_LEVELUP_50"
-	STRING_EN[8122]["VALUE"] = "Leveling madman L"
+	STRING_EN[8122]["VALUE"] = "Leveling Maniac L"
 	STRING_EN[8122]["real_idx"] = 8122
 
 STRING_EN["index"][8123] = 8123
 STRING_EN[8123] = {}
 	STRING_EN[8123]["ID"] = 8123
 	STRING_EN[8123]["KEY"] = "HERO_LEVELUP_53"
-	STRING_EN[8123]["VALUE"] = "Leveling madman LIII"
+	STRING_EN[8123]["VALUE"] = "Leveling Maniac LIII"
 	STRING_EN[8123]["real_idx"] = 8123
 
 STRING_EN["index"][8124] = 8124
 STRING_EN[8124] = {}
 	STRING_EN[8124]["ID"] = 8124
 	STRING_EN[8124]["KEY"] = "HERO_LEVELUP_55"
-	STRING_EN[8124]["VALUE"] = "Leveling madman LV"
+	STRING_EN[8124]["VALUE"] = "Leveling Maniac LV"
 	STRING_EN[8124]["real_idx"] = 8124
 
 STRING_EN["index"][8125] = 8125
 STRING_EN[8125] = {}
 	STRING_EN[8125]["ID"] = 8125
 	STRING_EN[8125]["KEY"] = "HERO_LEVELUP_58"
-	STRING_EN[8125]["VALUE"] = "Leveling madman LVIII"
+	STRING_EN[8125]["VALUE"] = "Leveling Maniac LVIII"
 	STRING_EN[8125]["real_idx"] = 8125
 
 STRING_EN["index"][8126] = 8126
 STRING_EN[8126] = {}
 	STRING_EN[8126]["ID"] = 8126
 	STRING_EN[8126]["KEY"] = "HERO_LEVELUP_60"
-	STRING_EN[8126]["VALUE"] = "Leveling madman LX"
+	STRING_EN[8126]["VALUE"] = "Leveling Maniac LX"
 	STRING_EN[8126]["real_idx"] = 8126
 
 STRING_EN["index"][8127] = 8127
 STRING_EN[8127] = {}
 	STRING_EN[8127]["ID"] = 8127
 	STRING_EN[8127]["KEY"] = "HERO_LEVELUP_62"
-	STRING_EN[8127]["VALUE"] = "Leveling madman LXII"
+	STRING_EN[8127]["VALUE"] = "Leveling Maniac LXII"
 	STRING_EN[8127]["real_idx"] = 8127
 
 STRING_EN["index"][8128] = 8128
 STRING_EN[8128] = {}
 	STRING_EN[8128]["ID"] = 8128
 	STRING_EN[8128]["KEY"] = "HERO_LEVELUP_64"
-	STRING_EN[8128]["VALUE"] = "Leveling madman LXIV"
+	STRING_EN[8128]["VALUE"] = "Leveling Maniac LXIV"
 	STRING_EN[8128]["real_idx"] = 8128
 
 STRING_EN["index"][8129] = 8129
 STRING_EN[8129] = {}
 	STRING_EN[8129]["ID"] = 8129
 	STRING_EN[8129]["KEY"] = "HERO_LEVELUP_66"
-	STRING_EN[8129]["VALUE"] = "Leveling madman LXVI"
+	STRING_EN[8129]["VALUE"] = "Leveling Maniac LXVI"
 	STRING_EN[8129]["real_idx"] = 8129
 
 STRING_EN["index"][8130] = 8130
 STRING_EN[8130] = {}
 	STRING_EN[8130]["ID"] = 8130
 	STRING_EN[8130]["KEY"] = "HERO_LEVELUP_68"
-	STRING_EN[8130]["VALUE"] = "Leveling madman LXVIII"
+	STRING_EN[8130]["VALUE"] = "Leveling Maniac LXVIII"
 	STRING_EN[8130]["real_idx"] = 8130
 
 STRING_EN["index"][8131] = 8131
 STRING_EN[8131] = {}
 	STRING_EN[8131]["ID"] = 8131
 	STRING_EN[8131]["KEY"] = "HERO_LEVELUP_70"
-	STRING_EN[8131]["VALUE"] = "Leveling madman LXX"
+	STRING_EN[8131]["VALUE"] = "Leveling Maniac LXX"
 	STRING_EN[8131]["real_idx"] = 8131
 
 STRING_EN["index"][8132] = 8132
 STRING_EN[8132] = {}
 	STRING_EN[8132]["ID"] = 8132
 	STRING_EN[8132]["KEY"] = "HERO_LEVELUP_72"
-	STRING_EN[8132]["VALUE"] = "Leveling madman LXXII"
+	STRING_EN[8132]["VALUE"] = "Leveling Maniac LXXII"
 	STRING_EN[8132]["real_idx"] = 8132
 
 STRING_EN["index"][8133] = 8133
 STRING_EN[8133] = {}
 	STRING_EN[8133]["ID"] = 8133
 	STRING_EN[8133]["KEY"] = "HERO_LEVELUP_74"
-	STRING_EN[8133]["VALUE"] = "Leveling madman LXXIV"
+	STRING_EN[8133]["VALUE"] = "Leveling Maniac LXXIV"
 	STRING_EN[8133]["real_idx"] = 8133
 
 STRING_EN["index"][8134] = 8134
 STRING_EN[8134] = {}
 	STRING_EN[8134]["ID"] = 8134
 	STRING_EN[8134]["KEY"] = "HERO_LEVELUP_76"
-	STRING_EN[8134]["VALUE"] = "Leveling madman LXXVI"
+	STRING_EN[8134]["VALUE"] = "Leveling Maniac LXXVI"
 	STRING_EN[8134]["real_idx"] = 8134
 
 STRING_EN["index"][8135] = 8135
 STRING_EN[8135] = {}
 	STRING_EN[8135]["ID"] = 8135
 	STRING_EN[8135]["KEY"] = "HERO_LEVELUP_78"
-	STRING_EN[8135]["VALUE"] = "Leveling madman LXXVIII"
+	STRING_EN[8135]["VALUE"] = "Leveling Maniac LXXVIII"
 	STRING_EN[8135]["real_idx"] = 8135
 
 STRING_EN["index"][8136] = 8136
 STRING_EN[8136] = {}
 	STRING_EN[8136]["ID"] = 8136
 	STRING_EN[8136]["KEY"] = "HERO_LEVELUP_80"
-	STRING_EN[8136]["VALUE"] = "Leveling madman LXXX"
+	STRING_EN[8136]["VALUE"] = "Leveling Maniac LXXX"
 	STRING_EN[8136]["real_idx"] = 8136
 
 STRING_EN["index"][8137] = 8137
 STRING_EN[8137] = {}
 	STRING_EN[8137]["ID"] = 8137
 	STRING_EN[8137]["KEY"] = "RECHATRGE_LEV_1"
-	STRING_EN[8137]["VALUE"] = "Dafuhao I"
+	STRING_EN[8137]["VALUE"] = "Millionaire I"
 	STRING_EN[8137]["real_idx"] = 8137
 
 STRING_EN["index"][8138] = 8138
 STRING_EN[8138] = {}
 	STRING_EN[8138]["ID"] = 8138
 	STRING_EN[8138]["KEY"] = "RECHATRGE_LEV_2"
-	STRING_EN[8138]["VALUE"] = "Dafuhao II"
+	STRING_EN[8138]["VALUE"] = "Millionaire II"
 	STRING_EN[8138]["real_idx"] = 8138
 
 STRING_EN["index"][8139] = 8139
 STRING_EN[8139] = {}
 	STRING_EN[8139]["ID"] = 8139
 	STRING_EN[8139]["KEY"] = "RECHATRGE_LEV_3"
-	STRING_EN[8139]["VALUE"] = "Dafuhao III"
+	STRING_EN[8139]["VALUE"] = "Millionaire III"
 	STRING_EN[8139]["real_idx"] = 8139
 
 STRING_EN["index"][8140] = 8140
 STRING_EN[8140] = {}
 	STRING_EN[8140]["ID"] = 8140
 	STRING_EN[8140]["KEY"] = "RECHATRGE_LEV_4"
-	STRING_EN[8140]["VALUE"] = "Dafuhao IV"
+	STRING_EN[8140]["VALUE"] = "Millionaire IV"
 	STRING_EN[8140]["real_idx"] = 8140
 
 STRING_EN["index"][8141] = 8141
 STRING_EN[8141] = {}
 	STRING_EN[8141]["ID"] = 8141
 	STRING_EN[8141]["KEY"] = "RECHATRGE_LEV_5"
-	STRING_EN[8141]["VALUE"] = "Dafuhao V"
+	STRING_EN[8141]["VALUE"] = "Millionaire V"
 	STRING_EN[8141]["real_idx"] = 8141
 
 STRING_EN["index"][8142] = 8142
 STRING_EN[8142] = {}
 	STRING_EN[8142]["ID"] = 8142
 	STRING_EN[8142]["KEY"] = "RECHATRGE_LEV_6"
-	STRING_EN[8142]["VALUE"] = "Dafuhao VI"
+	STRING_EN[8142]["VALUE"] = "Millionaire VI"
 	STRING_EN[8142]["real_idx"] = 8142
 
 STRING_EN["index"][8143] = 8143
 STRING_EN[8143] = {}
 	STRING_EN[8143]["ID"] = 8143
 	STRING_EN[8143]["KEY"] = "RECHATRGE_LEV_7"
-	STRING_EN[8143]["VALUE"] = "Dafuhao VII"
+	STRING_EN[8143]["VALUE"] = "Millionaire VII"
 	STRING_EN[8143]["real_idx"] = 8143
 
 STRING_EN["index"][8144] = 8144
 STRING_EN[8144] = {}
 	STRING_EN[8144]["ID"] = 8144
 	STRING_EN[8144]["KEY"] = "RECHATRGE_LEV_8"
-	STRING_EN[8144]["VALUE"] = "Dafuhao VIII"
+	STRING_EN[8144]["VALUE"] = "Millionaire VIII"
 	STRING_EN[8144]["real_idx"] = 8144
 
 STRING_EN["index"][8145] = 8145
 STRING_EN[8145] = {}
 	STRING_EN[8145]["ID"] = 8145
 	STRING_EN[8145]["KEY"] = "RECHATRGE_LEV_9"
-	STRING_EN[8145]["VALUE"] = "Dafuhao IX"
+	STRING_EN[8145]["VALUE"] = "Millionaire IX"
 	STRING_EN[8145]["real_idx"] = 8145
 
 STRING_EN["index"][8146] = 8146
 STRING_EN[8146] = {}
 	STRING_EN[8146]["ID"] = 8146
 	STRING_EN[8146]["KEY"] = "RECHATRGE_LEV_10"
-	STRING_EN[8146]["VALUE"] = "Dafuhao X"
+	STRING_EN[8146]["VALUE"] = "Millionaire X"
 	STRING_EN[8146]["real_idx"] = 8146
 
 STRING_EN["index"][8147] = 8147
 STRING_EN[8147] = {}
 	STRING_EN[8147]["ID"] = 8147
 	STRING_EN[8147]["KEY"] = "RECHATRGE_LEV_11"
-	STRING_EN[8147]["VALUE"] = "Dafuhao XI"
+	STRING_EN[8147]["VALUE"] = "Millionaire XI"
 	STRING_EN[8147]["real_idx"] = 8147
 
 STRING_EN["index"][8148] = 8148
 STRING_EN[8148] = {}
 	STRING_EN[8148]["ID"] = 8148
 	STRING_EN[8148]["KEY"] = "RECHATRGE_LEV_12"
-	STRING_EN[8148]["VALUE"] = "Dafuhao XII"
+	STRING_EN[8148]["VALUE"] = "Millionaire XII"
 	STRING_EN[8148]["real_idx"] = 8148
 
 STRING_EN["index"][8149] = 8149
 STRING_EN[8149] = {}
 	STRING_EN[8149]["ID"] = 8149
 	STRING_EN[8149]["KEY"] = "RECHATRGE_LEV_13"
-	STRING_EN[8149]["VALUE"] = "Dafuhao XIII"
+	STRING_EN[8149]["VALUE"] = "Millionaire XIII"
 	STRING_EN[8149]["real_idx"] = 8149
 
 STRING_EN["index"][8150] = 8150
 STRING_EN[8150] = {}
 	STRING_EN[8150]["ID"] = 8150
 	STRING_EN[8150]["KEY"] = "RECHATRGE_LEV_14"
-	STRING_EN[8150]["VALUE"] = "Dafuhao XIV"
+	STRING_EN[8150]["VALUE"] = "Millionaire XIV"
 	STRING_EN[8150]["real_idx"] = 8150
 
 STRING_EN["index"][8151] = 8151
 STRING_EN[8151] = {}
 	STRING_EN[8151]["ID"] = 8151
 	STRING_EN[8151]["KEY"] = "RECHATRGE_LEV_15"
-	STRING_EN[8151]["VALUE"] = "Dafuhao XV"
+	STRING_EN[8151]["VALUE"] = "Millionaire XV"
 	STRING_EN[8151]["real_idx"] = 8151
 
 STRING_EN["index"][8152] = 8152
 STRING_EN[8152] = {}
 	STRING_EN[8152]["ID"] = 8152
 	STRING_EN[8152]["KEY"] = "RECHATRGE_LEV_16"
-	STRING_EN[8152]["VALUE"] = "Dafuhao XVI"
+	STRING_EN[8152]["VALUE"] = "Millionaire XVI"
 	STRING_EN[8152]["real_idx"] = 8152
 
 STRING_EN["index"][8153] = 8153
 STRING_EN[8153] = {}
 	STRING_EN[8153]["ID"] = 8153
 	STRING_EN[8153]["KEY"] = "RECHATRGE_LEV_17"
-	STRING_EN[8153]["VALUE"] = "Dafuhao XVII"
+	STRING_EN[8153]["VALUE"] = "Millionaire XVII"
 	STRING_EN[8153]["real_idx"] = 8153
 
 STRING_EN["index"][8154] = 8154
 STRING_EN[8154] = {}
 	STRING_EN[8154]["ID"] = 8154
 	STRING_EN[8154]["KEY"] = "RECHATRGE_LEV_18"
-	STRING_EN[8154]["VALUE"] = "Dafuhao XVIII"
+	STRING_EN[8154]["VALUE"] = "Millionaire XVIII"
 	STRING_EN[8154]["real_idx"] = 8154
 
 STRING_EN["index"][8155] = 8155
 STRING_EN[8155] = {}
 	STRING_EN[8155]["ID"] = 8155
 	STRING_EN[8155]["KEY"] = "RECHATRGE_LEV_19"
-	STRING_EN[8155]["VALUE"] = "Dafuhao XIX"
+	STRING_EN[8155]["VALUE"] = "Millionaire XIX"
 	STRING_EN[8155]["real_idx"] = 8155
 
 STRING_EN["index"][8156] = 8156
 STRING_EN[8156] = {}
 	STRING_EN[8156]["ID"] = 8156
 	STRING_EN[8156]["KEY"] = "RECHATRGE_LEV_20"
-	STRING_EN[8156]["VALUE"] = "Dafuhao XX"
+	STRING_EN[8156]["VALUE"] = "Millionaire XX"
 	STRING_EN[8156]["real_idx"] = 8156
 
 STRING_EN["index"][8157] = 8157
 STRING_EN[8157] = {}
 	STRING_EN[8157]["ID"] = 8157
 	STRING_EN[8157]["KEY"] = "RECHATRGE_LEV_21"
-	STRING_EN[8157]["VALUE"] = "Dafuhao XXI"
+	STRING_EN[8157]["VALUE"] = "Millionaire XXI"
 	STRING_EN[8157]["real_idx"] = 8157
 
 STRING_EN["index"][8158] = 8158
 STRING_EN[8158] = {}
 	STRING_EN[8158]["ID"] = 8158
 	STRING_EN[8158]["KEY"] = "RECHATRGE_LEV_22"
-	STRING_EN[8158]["VALUE"] = "Dafuhao XXII"
+	STRING_EN[8158]["VALUE"] = "Millionaire XXII"
 	STRING_EN[8158]["real_idx"] = 8158
 
 STRING_EN["index"][8159] = 8159
 STRING_EN[8159] = {}
 	STRING_EN[8159]["ID"] = 8159
 	STRING_EN[8159]["KEY"] = "RECHATRGE_LEV_23"
-	STRING_EN[8159]["VALUE"] = "Dafuhao XXIII"
+	STRING_EN[8159]["VALUE"] = "Millionaire XXIII"
 	STRING_EN[8159]["real_idx"] = 8159
 
 STRING_EN["index"][8160] = 8160
 STRING_EN[8160] = {}
 	STRING_EN[8160]["ID"] = 8160
 	STRING_EN[8160]["KEY"] = "RECHATRGE_LEV_24"
-	STRING_EN[8160]["VALUE"] = "Dafuhao XXIV"
+	STRING_EN[8160]["VALUE"] = "Millionaire XXIV"
 	STRING_EN[8160]["real_idx"] = 8160
 
 STRING_EN["index"][8161] = 8161
 STRING_EN[8161] = {}
 	STRING_EN[8161]["ID"] = 8161
 	STRING_EN[8161]["KEY"] = "RECHATRGE_LEV_25"
-	STRING_EN[8161]["VALUE"] = "Dafuhao XXV"
+	STRING_EN[8161]["VALUE"] = "Millionaire XXV"
 	STRING_EN[8161]["real_idx"] = 8161
 
 STRING_EN["index"][8162] = 8162
 STRING_EN[8162] = {}
 	STRING_EN[8162]["ID"] = 8162
 	STRING_EN[8162]["KEY"] = "RECHATRGE_LEV_26"
-	STRING_EN[8162]["VALUE"] = "Dafuhao XXVI"
+	STRING_EN[8162]["VALUE"] = "Millionaire XXVI"
 	STRING_EN[8162]["real_idx"] = 8162
 
 STRING_EN["index"][8163] = 8163
 STRING_EN[8163] = {}
 	STRING_EN[8163]["ID"] = 8163
 	STRING_EN[8163]["KEY"] = "RECHATRGE_LEV_27"
-	STRING_EN[8163]["VALUE"] = "Dafuhao XXVII"
+	STRING_EN[8163]["VALUE"] = "Millionaire XXVII"
 	STRING_EN[8163]["real_idx"] = 8163
 
 STRING_EN["index"][8164] = 8164
 STRING_EN[8164] = {}
 	STRING_EN[8164]["ID"] = 8164
 	STRING_EN[8164]["KEY"] = "RECHATRGE_LEV_28"
-	STRING_EN[8164]["VALUE"] = "Dafuhao XXVIII"
+	STRING_EN[8164]["VALUE"] = "Millionaire XXVIII"
 	STRING_EN[8164]["real_idx"] = 8164
 
 STRING_EN["index"][8165] = 8165
 STRING_EN[8165] = {}
 	STRING_EN[8165]["ID"] = 8165
 	STRING_EN[8165]["KEY"] = "RECHATRGE_LEV_29"
-	STRING_EN[8165]["VALUE"] = "Dafuhao XXIX"
+	STRING_EN[8165]["VALUE"] = "Millionaire XXIX"
 	STRING_EN[8165]["real_idx"] = 8165
 
 STRING_EN["index"][8166] = 8166
 STRING_EN[8166] = {}
 	STRING_EN[8166]["ID"] = 8166
 	STRING_EN[8166]["KEY"] = "RECHATRGE_LEV_30"
-	STRING_EN[8166]["VALUE"] = "Dafuhao XXX"
+	STRING_EN[8166]["VALUE"] = "Millionaire XXX"
 	STRING_EN[8166]["real_idx"] = 8166
 
 STRING_EN["index"][8167] = 8167
 STRING_EN[8167] = {}
 	STRING_EN[8167]["ID"] = 8167
 	STRING_EN[8167]["KEY"] = "RECHATRGE_LEV_31"
-	STRING_EN[8167]["VALUE"] = "Dafuhao XXXI"
+	STRING_EN[8167]["VALUE"] = "Millionaire XXXI"
 	STRING_EN[8167]["real_idx"] = 8167
 
 STRING_EN["index"][8168] = 8168
 STRING_EN[8168] = {}
 	STRING_EN[8168]["ID"] = 8168
 	STRING_EN[8168]["KEY"] = "RECHATRGE_LEV_32"
-	STRING_EN[8168]["VALUE"] = "Dafuhao XXXII"
+	STRING_EN[8168]["VALUE"] = "Millionaire XXXII"
 	STRING_EN[8168]["real_idx"] = 8168
 
 STRING_EN["index"][8169] = 8169
 STRING_EN[8169] = {}
 	STRING_EN[8169]["ID"] = 8169
 	STRING_EN[8169]["KEY"] = "RECHATRGE_LEV_33"
-	STRING_EN[8169]["VALUE"] = "Dafuhao XXXIII"
+	STRING_EN[8169]["VALUE"] = "Millionaire XXXIII"
 	STRING_EN[8169]["real_idx"] = 8169
 
 STRING_EN["index"][8170] = 8170
 STRING_EN[8170] = {}
 	STRING_EN[8170]["ID"] = 8170
 	STRING_EN[8170]["KEY"] = "RECHATRGE_LEV_34"
-	STRING_EN[8170]["VALUE"] = "Dafuhao XXXIV"
+	STRING_EN[8170]["VALUE"] = "Millionaire XXXIV"
 	STRING_EN[8170]["real_idx"] = 8170
 
 STRING_EN["index"][8171] = 8171
 STRING_EN[8171] = {}
 	STRING_EN[8171]["ID"] = 8171
 	STRING_EN[8171]["KEY"] = "RECHATRGE_LEV_35"
-	STRING_EN[8171]["VALUE"] = "Dafuhao XXXV"
+	STRING_EN[8171]["VALUE"] = "Millionaire XXXV"
 	STRING_EN[8171]["real_idx"] = 8171
 
 STRING_EN["index"][8172] = 8172
 STRING_EN[8172] = {}
 	STRING_EN[8172]["ID"] = 8172
 	STRING_EN[8172]["KEY"] = "RECHATRGE_LEV_36"
-	STRING_EN[8172]["VALUE"] = "Dafuhao XXXVI"
+	STRING_EN[8172]["VALUE"] = "Millionaire XXXVI"
 	STRING_EN[8172]["real_idx"] = 8172
 
 STRING_EN["index"][8173] = 8173
 STRING_EN[8173] = {}
 	STRING_EN[8173]["ID"] = 8173
 	STRING_EN[8173]["KEY"] = "RECHATRGE_LEV_37"
-	STRING_EN[8173]["VALUE"] = "Dafuhao XXXVII"
+	STRING_EN[8173]["VALUE"] = "Millionaire XXXVII"
 	STRING_EN[8173]["real_idx"] = 8173
 
 STRING_EN["index"][8174] = 8174
 STRING_EN[8174] = {}
 	STRING_EN[8174]["ID"] = 8174
 	STRING_EN[8174]["KEY"] = "RECHATRGE_LEV_38"
-	STRING_EN[8174]["VALUE"] = "Dafuhao XXXVIII"
+	STRING_EN[8174]["VALUE"] = "Millionaire XXXVIII"
 	STRING_EN[8174]["real_idx"] = 8174
 
 STRING_EN["index"][8175] = 8175
 STRING_EN[8175] = {}
 	STRING_EN[8175]["ID"] = 8175
 	STRING_EN[8175]["KEY"] = "RECHATRGE_LEV_39"
-	STRING_EN[8175]["VALUE"] = "Dafuhao XXXIX"
+	STRING_EN[8175]["VALUE"] = "Millionaire XXXIX"
 	STRING_EN[8175]["real_idx"] = 8175
 
 STRING_EN["index"][8176] = 8176
 STRING_EN[8176] = {}
 	STRING_EN[8176]["ID"] = 8176
 	STRING_EN[8176]["KEY"] = "RECHATRGE_LEV_40"
-	STRING_EN[8176]["VALUE"] = "Dafuhao XL"
+	STRING_EN[8176]["VALUE"] = "Millionaire XL"
 	STRING_EN[8176]["real_idx"] = 8176
 
 STRING_EN["index"][8177] = 8177
 STRING_EN[8177] = {}
 	STRING_EN[8177]["ID"] = 8177
 	STRING_EN[8177]["KEY"] = "RECHATRGE_LEV_41"
-	STRING_EN[8177]["VALUE"] = "Dafuhao XLI"
+	STRING_EN[8177]["VALUE"] = "Millionaire XLI"
 	STRING_EN[8177]["real_idx"] = 8177
 
 STRING_EN["index"][8178] = 8178
 STRING_EN[8178] = {}
 	STRING_EN[8178]["ID"] = 8178
 	STRING_EN[8178]["KEY"] = "RECHATRGE_LEV_42"
-	STRING_EN[8178]["VALUE"] = "Dafuhao XLII"
+	STRING_EN[8178]["VALUE"] = "Millionaire XLII"
 	STRING_EN[8178]["real_idx"] = 8178
 
 STRING_EN["index"][8179] = 8179
 STRING_EN[8179] = {}
 	STRING_EN[8179]["ID"] = 8179
 	STRING_EN[8179]["KEY"] = "RECHATRGE_LEV_43"
-	STRING_EN[8179]["VALUE"] = "Dafuhao XLIII"
+	STRING_EN[8179]["VALUE"] = "Millionaire XLIII"
 	STRING_EN[8179]["real_idx"] = 8179
 
 STRING_EN["index"][8180] = 8180
 STRING_EN[8180] = {}
 	STRING_EN[8180]["ID"] = 8180
 	STRING_EN[8180]["KEY"] = "RECHATRGE_LEV_44"
-	STRING_EN[8180]["VALUE"] = "Dafuhao XLIV"
+	STRING_EN[8180]["VALUE"] = "Millionaire XLIV"
 	STRING_EN[8180]["real_idx"] = 8180
 
 STRING_EN["index"][8181] = 8181
 STRING_EN[8181] = {}
 	STRING_EN[8181]["ID"] = 8181
 	STRING_EN[8181]["KEY"] = "RECHATRGE_LEV_45"
-	STRING_EN[8181]["VALUE"] = "Dafuhao XLV"
+	STRING_EN[8181]["VALUE"] = "Millionaire XLV"
 	STRING_EN[8181]["real_idx"] = 8181
 
 STRING_EN["index"][8182] = 8182
@@ -57586,1260 +57586,1260 @@ STRING_EN["index"][8227] = 8227
 STRING_EN[8227] = {}
 	STRING_EN[8227]["ID"] = 8227
 	STRING_EN[8227]["KEY"] = "ATTACK_STRONGHOLD_1"
-	STRING_EN[8227]["VALUE"] = "The whole army attack I"
+	STRING_EN[8227]["VALUE"] = "Fanatical Attack I"
 	STRING_EN[8227]["real_idx"] = 8227
 
 STRING_EN["index"][8228] = 8228
 STRING_EN[8228] = {}
 	STRING_EN[8228]["ID"] = 8228
 	STRING_EN[8228]["KEY"] = "ATTACK_STRONGHOLD_2"
-	STRING_EN[8228]["VALUE"] = "The whole army attack II"
+	STRING_EN[8228]["VALUE"] = "Fanatical Attack II"
 	STRING_EN[8228]["real_idx"] = 8228
 
 STRING_EN["index"][8229] = 8229
 STRING_EN[8229] = {}
 	STRING_EN[8229]["ID"] = 8229
 	STRING_EN[8229]["KEY"] = "ATTACK_STRONGHOLD_3"
-	STRING_EN[8229]["VALUE"] = "The whole army attack III"
+	STRING_EN[8229]["VALUE"] = "Fanatical Attack III"
 	STRING_EN[8229]["real_idx"] = 8229
 
 STRING_EN["index"][8230] = 8230
 STRING_EN[8230] = {}
 	STRING_EN[8230]["ID"] = 8230
 	STRING_EN[8230]["KEY"] = "ATTACK_STRONGHOLD_4"
-	STRING_EN[8230]["VALUE"] = "The whole army attack IV"
+	STRING_EN[8230]["VALUE"] = "Fanatical Attack IV"
 	STRING_EN[8230]["real_idx"] = 8230
 
 STRING_EN["index"][8231] = 8231
 STRING_EN[8231] = {}
 	STRING_EN[8231]["ID"] = 8231
 	STRING_EN[8231]["KEY"] = "ATTACK_STRONGHOLD_5"
-	STRING_EN[8231]["VALUE"] = "The whole army attack V"
+	STRING_EN[8231]["VALUE"] = "Fanatical Attack V"
 	STRING_EN[8231]["real_idx"] = 8231
 
 STRING_EN["index"][8232] = 8232
 STRING_EN[8232] = {}
 	STRING_EN[8232]["ID"] = 8232
 	STRING_EN[8232]["KEY"] = "ATTACK_STRONGHOLD_6"
-	STRING_EN[8232]["VALUE"] = "The whole army attack VI"
+	STRING_EN[8232]["VALUE"] = "Fanatical Attack VI"
 	STRING_EN[8232]["real_idx"] = 8232
 
 STRING_EN["index"][8233] = 8233
 STRING_EN[8233] = {}
 	STRING_EN[8233]["ID"] = 8233
 	STRING_EN[8233]["KEY"] = "ATTACK_STRONGHOLD_7"
-	STRING_EN[8233]["VALUE"] = "The whole army attack VII"
+	STRING_EN[8233]["VALUE"] = "Fanatical Attack VII"
 	STRING_EN[8233]["real_idx"] = 8233
 
 STRING_EN["index"][8234] = 8234
 STRING_EN[8234] = {}
 	STRING_EN[8234]["ID"] = 8234
 	STRING_EN[8234]["KEY"] = "ATTACK_STRONGHOLD_8"
-	STRING_EN[8234]["VALUE"] = "The whole army attack VIII"
+	STRING_EN[8234]["VALUE"] = "Fanatical Attack VIII"
 	STRING_EN[8234]["real_idx"] = 8234
 
 STRING_EN["index"][8235] = 8235
 STRING_EN[8235] = {}
 	STRING_EN[8235]["ID"] = 8235
 	STRING_EN[8235]["KEY"] = "ATTACK_STRONGHOLD_9"
-	STRING_EN[8235]["VALUE"] = "The whole army attack IX"
+	STRING_EN[8235]["VALUE"] = "Fanatical Attack IX"
 	STRING_EN[8235]["real_idx"] = 8235
 
 STRING_EN["index"][8236] = 8236
 STRING_EN[8236] = {}
 	STRING_EN[8236]["ID"] = 8236
 	STRING_EN[8236]["KEY"] = "ATTACK_STRONGHOLD_10"
-	STRING_EN[8236]["VALUE"] = "The whole army attack X"
+	STRING_EN[8236]["VALUE"] = "Fanatical Attack X"
 	STRING_EN[8236]["real_idx"] = 8236
 
 STRING_EN["index"][8237] = 8237
 STRING_EN[8237] = {}
 	STRING_EN[8237]["ID"] = 8237
 	STRING_EN[8237]["KEY"] = "ATTACK_STRONGHOLD_11"
-	STRING_EN[8237]["VALUE"] = "The whole army attack XI"
+	STRING_EN[8237]["VALUE"] = "Fanatical Attack XI"
 	STRING_EN[8237]["real_idx"] = 8237
 
 STRING_EN["index"][8238] = 8238
 STRING_EN[8238] = {}
 	STRING_EN[8238]["ID"] = 8238
 	STRING_EN[8238]["KEY"] = "ATTACK_STRONGHOLD_12"
-	STRING_EN[8238]["VALUE"] = "The whole army attack XII"
+	STRING_EN[8238]["VALUE"] = "Fanatical Attack XII"
 	STRING_EN[8238]["real_idx"] = 8238
 
 STRING_EN["index"][8239] = 8239
 STRING_EN[8239] = {}
 	STRING_EN[8239]["ID"] = 8239
 	STRING_EN[8239]["KEY"] = "ATTACK_STRONGHOLD_13"
-	STRING_EN[8239]["VALUE"] = "The whole army attack XIII"
+	STRING_EN[8239]["VALUE"] = "Fanatical Attack XIII"
 	STRING_EN[8239]["real_idx"] = 8239
 
 STRING_EN["index"][8240] = 8240
 STRING_EN[8240] = {}
 	STRING_EN[8240]["ID"] = 8240
 	STRING_EN[8240]["KEY"] = "ATTACK_STRONGHOLD_14"
-	STRING_EN[8240]["VALUE"] = "The whole army attack XIV"
+	STRING_EN[8240]["VALUE"] = "Fanatical Attack XIV"
 	STRING_EN[8240]["real_idx"] = 8240
 
 STRING_EN["index"][8241] = 8241
 STRING_EN[8241] = {}
 	STRING_EN[8241]["ID"] = 8241
 	STRING_EN[8241]["KEY"] = "ATTACK_STRONGHOLD_15"
-	STRING_EN[8241]["VALUE"] = "The whole army attack XV"
+	STRING_EN[8241]["VALUE"] = "Fanatical Attack XV"
 	STRING_EN[8241]["real_idx"] = 8241
 
 STRING_EN["index"][8242] = 8242
 STRING_EN[8242] = {}
 	STRING_EN[8242]["ID"] = 8242
 	STRING_EN[8242]["KEY"] = "ATTACK_STRONGHOLD_16"
-	STRING_EN[8242]["VALUE"] = "The whole army attack XVI"
+	STRING_EN[8242]["VALUE"] = "Fanatical Attack XVI"
 	STRING_EN[8242]["real_idx"] = 8242
 
 STRING_EN["index"][8243] = 8243
 STRING_EN[8243] = {}
 	STRING_EN[8243]["ID"] = 8243
 	STRING_EN[8243]["KEY"] = "ATTACK_STRONGHOLD_17"
-	STRING_EN[8243]["VALUE"] = "The whole army attack XVII"
+	STRING_EN[8243]["VALUE"] = "Fanatical Attack XVII"
 	STRING_EN[8243]["real_idx"] = 8243
 
 STRING_EN["index"][8244] = 8244
 STRING_EN[8244] = {}
 	STRING_EN[8244]["ID"] = 8244
 	STRING_EN[8244]["KEY"] = "ATTACK_STRONGHOLD_18"
-	STRING_EN[8244]["VALUE"] = "The whole army attack XVIII"
+	STRING_EN[8244]["VALUE"] = "Fanatical Attack XVIII"
 	STRING_EN[8244]["real_idx"] = 8244
 
 STRING_EN["index"][8245] = 8245
 STRING_EN[8245] = {}
 	STRING_EN[8245]["ID"] = 8245
 	STRING_EN[8245]["KEY"] = "ATTACK_STRONGHOLD_19"
-	STRING_EN[8245]["VALUE"] = "The whole army attack XIX"
+	STRING_EN[8245]["VALUE"] = "Fanatical Attack XIX"
 	STRING_EN[8245]["real_idx"] = 8245
 
 STRING_EN["index"][8246] = 8246
 STRING_EN[8246] = {}
 	STRING_EN[8246]["ID"] = 8246
 	STRING_EN[8246]["KEY"] = "ATTACK_STRONGHOLD_20"
-	STRING_EN[8246]["VALUE"] = "The whole army attack XX"
+	STRING_EN[8246]["VALUE"] = "Fanatical Attack XX"
 	STRING_EN[8246]["real_idx"] = 8246
 
 STRING_EN["index"][8247] = 8247
 STRING_EN[8247] = {}
 	STRING_EN[8247]["ID"] = 8247
 	STRING_EN[8247]["KEY"] = "ATTACK_STRONGHOLD_21"
-	STRING_EN[8247]["VALUE"] = "The whole army attack XXI"
+	STRING_EN[8247]["VALUE"] = "Fanatical Attack XXI"
 	STRING_EN[8247]["real_idx"] = 8247
 
 STRING_EN["index"][8248] = 8248
 STRING_EN[8248] = {}
 	STRING_EN[8248]["ID"] = 8248
 	STRING_EN[8248]["KEY"] = "ATTACK_STRONGHOLD_22"
-	STRING_EN[8248]["VALUE"] = "The whole army attack XXII"
+	STRING_EN[8248]["VALUE"] = "Fanatical Attack XXII"
 	STRING_EN[8248]["real_idx"] = 8248
 
 STRING_EN["index"][8249] = 8249
 STRING_EN[8249] = {}
 	STRING_EN[8249]["ID"] = 8249
 	STRING_EN[8249]["KEY"] = "ATTACK_STRONGHOLD_23"
-	STRING_EN[8249]["VALUE"] = "The whole army attack XXIII"
+	STRING_EN[8249]["VALUE"] = "Fanatical Attack XXIII"
 	STRING_EN[8249]["real_idx"] = 8249
 
 STRING_EN["index"][8250] = 8250
 STRING_EN[8250] = {}
 	STRING_EN[8250]["ID"] = 8250
 	STRING_EN[8250]["KEY"] = "ATTACK_STRONGHOLD_24"
-	STRING_EN[8250]["VALUE"] = "The whole army attack XXIV"
+	STRING_EN[8250]["VALUE"] = "Fanatical Attack XXIV"
 	STRING_EN[8250]["real_idx"] = 8250
 
 STRING_EN["index"][8251] = 8251
 STRING_EN[8251] = {}
 	STRING_EN[8251]["ID"] = 8251
 	STRING_EN[8251]["KEY"] = "ATTACK_STRONGHOLD_25"
-	STRING_EN[8251]["VALUE"] = "The whole army attack XXV"
+	STRING_EN[8251]["VALUE"] = "Fanatical Attack XXV"
 	STRING_EN[8251]["real_idx"] = 8251
 
 STRING_EN["index"][8252] = 8252
 STRING_EN[8252] = {}
 	STRING_EN[8252]["ID"] = 8252
 	STRING_EN[8252]["KEY"] = "ATTACK_STRONGHOLD_26"
-	STRING_EN[8252]["VALUE"] = "The whole army attack XXVI"
+	STRING_EN[8252]["VALUE"] = "Fanatical Attack XXVI"
 	STRING_EN[8252]["real_idx"] = 8252
 
 STRING_EN["index"][8253] = 8253
 STRING_EN[8253] = {}
 	STRING_EN[8253]["ID"] = 8253
 	STRING_EN[8253]["KEY"] = "ATTACK_STRONGHOLD_27"
-	STRING_EN[8253]["VALUE"] = "The whole army attack XXVII"
+	STRING_EN[8253]["VALUE"] = "Fanatical Attack XXVII"
 	STRING_EN[8253]["real_idx"] = 8253
 
 STRING_EN["index"][8254] = 8254
 STRING_EN[8254] = {}
 	STRING_EN[8254]["ID"] = 8254
 	STRING_EN[8254]["KEY"] = "ATTACK_STRONGHOLD_28"
-	STRING_EN[8254]["VALUE"] = "The whole army attack XXVIII"
+	STRING_EN[8254]["VALUE"] = "Fanatical Attack XXVIII"
 	STRING_EN[8254]["real_idx"] = 8254
 
 STRING_EN["index"][8255] = 8255
 STRING_EN[8255] = {}
 	STRING_EN[8255]["ID"] = 8255
 	STRING_EN[8255]["KEY"] = "ATTACK_STRONGHOLD_29"
-	STRING_EN[8255]["VALUE"] = "The whole army attack XXIX"
+	STRING_EN[8255]["VALUE"] = "Fanatical Attack XXIX"
 	STRING_EN[8255]["real_idx"] = 8255
 
 STRING_EN["index"][8256] = 8256
 STRING_EN[8256] = {}
 	STRING_EN[8256]["ID"] = 8256
 	STRING_EN[8256]["KEY"] = "ATTACK_STRONGHOLD_30"
-	STRING_EN[8256]["VALUE"] = "The whole army attack XXX"
+	STRING_EN[8256]["VALUE"] = "Fanatical Attack XXX"
 	STRING_EN[8256]["real_idx"] = 8256
 
 STRING_EN["index"][8257] = 8257
 STRING_EN[8257] = {}
 	STRING_EN[8257]["ID"] = 8257
 	STRING_EN[8257]["KEY"] = "ATTACK_STRONGHOLD_31"
-	STRING_EN[8257]["VALUE"] = "The whole army attack XXXI"
+	STRING_EN[8257]["VALUE"] = "Fanatical Attack XXXI"
 	STRING_EN[8257]["real_idx"] = 8257
 
 STRING_EN["index"][8258] = 8258
 STRING_EN[8258] = {}
 	STRING_EN[8258]["ID"] = 8258
 	STRING_EN[8258]["KEY"] = "ATTACK_STRONGHOLD_32"
-	STRING_EN[8258]["VALUE"] = "The whole army attack XXXII"
+	STRING_EN[8258]["VALUE"] = "Fanatical Attack XXXII"
 	STRING_EN[8258]["real_idx"] = 8258
 
 STRING_EN["index"][8259] = 8259
 STRING_EN[8259] = {}
 	STRING_EN[8259]["ID"] = 8259
 	STRING_EN[8259]["KEY"] = "ATTACK_STRONGHOLD_33"
-	STRING_EN[8259]["VALUE"] = "The whole army attack XXXIII"
+	STRING_EN[8259]["VALUE"] = "Fanatical Attack XXXIII"
 	STRING_EN[8259]["real_idx"] = 8259
 
 STRING_EN["index"][8260] = 8260
 STRING_EN[8260] = {}
 	STRING_EN[8260]["ID"] = 8260
 	STRING_EN[8260]["KEY"] = "ATTACK_STRONGHOLD_34"
-	STRING_EN[8260]["VALUE"] = "The whole army attack XXXIV"
+	STRING_EN[8260]["VALUE"] = "Fanatical Attack XXXIV"
 	STRING_EN[8260]["real_idx"] = 8260
 
 STRING_EN["index"][8261] = 8261
 STRING_EN[8261] = {}
 	STRING_EN[8261]["ID"] = 8261
 	STRING_EN[8261]["KEY"] = "ATTACK_STRONGHOLD_35"
-	STRING_EN[8261]["VALUE"] = "The whole army attack XXXV"
+	STRING_EN[8261]["VALUE"] = "Fanatical Attack XXXV"
 	STRING_EN[8261]["real_idx"] = 8261
 
 STRING_EN["index"][8262] = 8262
 STRING_EN[8262] = {}
 	STRING_EN[8262]["ID"] = 8262
 	STRING_EN[8262]["KEY"] = "ATTACK_STRONGHOLD_36"
-	STRING_EN[8262]["VALUE"] = "The whole army attack XXXVI"
+	STRING_EN[8262]["VALUE"] = "Fanatical Attack XXXVI"
 	STRING_EN[8262]["real_idx"] = 8262
 
 STRING_EN["index"][8263] = 8263
 STRING_EN[8263] = {}
 	STRING_EN[8263]["ID"] = 8263
 	STRING_EN[8263]["KEY"] = "ATTACK_STRONGHOLD_37"
-	STRING_EN[8263]["VALUE"] = "The whole army attack XXXVII"
+	STRING_EN[8263]["VALUE"] = "Fanatical Attack XXXVII"
 	STRING_EN[8263]["real_idx"] = 8263
 
 STRING_EN["index"][8264] = 8264
 STRING_EN[8264] = {}
 	STRING_EN[8264]["ID"] = 8264
 	STRING_EN[8264]["KEY"] = "ATTACK_STRONGHOLD_38"
-	STRING_EN[8264]["VALUE"] = "The whole army attack XXXVIII"
+	STRING_EN[8264]["VALUE"] = "Fanatical Attack XXXVIII"
 	STRING_EN[8264]["real_idx"] = 8264
 
 STRING_EN["index"][8265] = 8265
 STRING_EN[8265] = {}
 	STRING_EN[8265]["ID"] = 8265
 	STRING_EN[8265]["KEY"] = "ATTACK_STRONGHOLD_39"
-	STRING_EN[8265]["VALUE"] = "The whole army attack XXXIX"
+	STRING_EN[8265]["VALUE"] = "Fanatical Attack XXXIX"
 	STRING_EN[8265]["real_idx"] = 8265
 
 STRING_EN["index"][8266] = 8266
 STRING_EN[8266] = {}
 	STRING_EN[8266]["ID"] = 8266
 	STRING_EN[8266]["KEY"] = "ATTACK_STRONGHOLD_40"
-	STRING_EN[8266]["VALUE"] = "The whole army attack XL"
+	STRING_EN[8266]["VALUE"] = "Fanatical Attack XL"
 	STRING_EN[8266]["real_idx"] = 8266
 
 STRING_EN["index"][8267] = 8267
 STRING_EN[8267] = {}
 	STRING_EN[8267]["ID"] = 8267
 	STRING_EN[8267]["KEY"] = "ATTACK_STRONGHOLD_41"
-	STRING_EN[8267]["VALUE"] = "The whole army attack XLI"
+	STRING_EN[8267]["VALUE"] = "Fanatical Attack XLI"
 	STRING_EN[8267]["real_idx"] = 8267
 
 STRING_EN["index"][8268] = 8268
 STRING_EN[8268] = {}
 	STRING_EN[8268]["ID"] = 8268
 	STRING_EN[8268]["KEY"] = "ATTACK_STRONGHOLD_42"
-	STRING_EN[8268]["VALUE"] = "The whole army attack XLII"
+	STRING_EN[8268]["VALUE"] = "Fanatical Attack XLII"
 	STRING_EN[8268]["real_idx"] = 8268
 
 STRING_EN["index"][8269] = 8269
 STRING_EN[8269] = {}
 	STRING_EN[8269]["ID"] = 8269
 	STRING_EN[8269]["KEY"] = "ATTACK_STRONGHOLD_43"
-	STRING_EN[8269]["VALUE"] = "The whole army attack XLIII"
+	STRING_EN[8269]["VALUE"] = "Fanatical Attack XLIII"
 	STRING_EN[8269]["real_idx"] = 8269
 
 STRING_EN["index"][8270] = 8270
 STRING_EN[8270] = {}
 	STRING_EN[8270]["ID"] = 8270
 	STRING_EN[8270]["KEY"] = "ATTACK_STRONGHOLD_44"
-	STRING_EN[8270]["VALUE"] = "The whole army attack XLIV"
+	STRING_EN[8270]["VALUE"] = "Fanatical Attack XLIV"
 	STRING_EN[8270]["real_idx"] = 8270
 
 STRING_EN["index"][8271] = 8271
 STRING_EN[8271] = {}
 	STRING_EN[8271]["ID"] = 8271
 	STRING_EN[8271]["KEY"] = "ATTACK_STRONGHOLD_45"
-	STRING_EN[8271]["VALUE"] = "The whole army attack XLV"
+	STRING_EN[8271]["VALUE"] = "Fanatical Attack XLV"
 	STRING_EN[8271]["real_idx"] = 8271
 
 STRING_EN["index"][8272] = 8272
 STRING_EN[8272] = {}
 	STRING_EN[8272]["ID"] = 8272
 	STRING_EN[8272]["KEY"] = "ATTACK_VICTORY_1"
-	STRING_EN[8272]["VALUE"] = "Challenge limit I"
+	STRING_EN[8272]["VALUE"] = "Challenge Limit I"
 	STRING_EN[8272]["real_idx"] = 8272
 
 STRING_EN["index"][8273] = 8273
 STRING_EN[8273] = {}
 	STRING_EN[8273]["ID"] = 8273
 	STRING_EN[8273]["KEY"] = "ATTACK_VICTORY_2"
-	STRING_EN[8273]["VALUE"] = "Challenge limit II"
+	STRING_EN[8273]["VALUE"] = "Challenge Limit II"
 	STRING_EN[8273]["real_idx"] = 8273
 
 STRING_EN["index"][8274] = 8274
 STRING_EN[8274] = {}
 	STRING_EN[8274]["ID"] = 8274
 	STRING_EN[8274]["KEY"] = "ATTACK_VICTORY_3"
-	STRING_EN[8274]["VALUE"] = "Challenge limit III"
+	STRING_EN[8274]["VALUE"] = "Challenge Limit III"
 	STRING_EN[8274]["real_idx"] = 8274
 
 STRING_EN["index"][8275] = 8275
 STRING_EN[8275] = {}
 	STRING_EN[8275]["ID"] = 8275
 	STRING_EN[8275]["KEY"] = "ATTACK_VICTORY_4"
-	STRING_EN[8275]["VALUE"] = "Challenge limit IV"
+	STRING_EN[8275]["VALUE"] = "Challenge Limit IV"
 	STRING_EN[8275]["real_idx"] = 8275
 
 STRING_EN["index"][8276] = 8276
 STRING_EN[8276] = {}
 	STRING_EN[8276]["ID"] = 8276
 	STRING_EN[8276]["KEY"] = "ATTACK_VICTORY_5"
-	STRING_EN[8276]["VALUE"] = "Challenge limit V"
+	STRING_EN[8276]["VALUE"] = "Challenge Limit V"
 	STRING_EN[8276]["real_idx"] = 8276
 
 STRING_EN["index"][8277] = 8277
 STRING_EN[8277] = {}
 	STRING_EN[8277]["ID"] = 8277
 	STRING_EN[8277]["KEY"] = "ATTACK_VICTORY_6"
-	STRING_EN[8277]["VALUE"] = "Challenge limit VI"
+	STRING_EN[8277]["VALUE"] = "Challenge Limit VI"
 	STRING_EN[8277]["real_idx"] = 8277
 
 STRING_EN["index"][8278] = 8278
 STRING_EN[8278] = {}
 	STRING_EN[8278]["ID"] = 8278
 	STRING_EN[8278]["KEY"] = "ATTACK_VICTORY_7"
-	STRING_EN[8278]["VALUE"] = "Challenge limit VII"
+	STRING_EN[8278]["VALUE"] = "Challenge Limit VII"
 	STRING_EN[8278]["real_idx"] = 8278
 
 STRING_EN["index"][8279] = 8279
 STRING_EN[8279] = {}
 	STRING_EN[8279]["ID"] = 8279
 	STRING_EN[8279]["KEY"] = "ATTACK_VICTORY_8"
-	STRING_EN[8279]["VALUE"] = "Challenge limit VIII"
+	STRING_EN[8279]["VALUE"] = "Challenge Limit VIII"
 	STRING_EN[8279]["real_idx"] = 8279
 
 STRING_EN["index"][8280] = 8280
 STRING_EN[8280] = {}
 	STRING_EN[8280]["ID"] = 8280
 	STRING_EN[8280]["KEY"] = "ATTACK_VICTORY_9"
-	STRING_EN[8280]["VALUE"] = "Challenge limit IX"
+	STRING_EN[8280]["VALUE"] = "Challenge Limit IX"
 	STRING_EN[8280]["real_idx"] = 8280
 
 STRING_EN["index"][8281] = 8281
 STRING_EN[8281] = {}
 	STRING_EN[8281]["ID"] = 8281
 	STRING_EN[8281]["KEY"] = "ATTACK_VICTORY_10"
-	STRING_EN[8281]["VALUE"] = "Challenge limit X"
+	STRING_EN[8281]["VALUE"] = "Challenge Limit X"
 	STRING_EN[8281]["real_idx"] = 8281
 
 STRING_EN["index"][8282] = 8282
 STRING_EN[8282] = {}
 	STRING_EN[8282]["ID"] = 8282
 	STRING_EN[8282]["KEY"] = "ATTACK_VICTORY_11"
-	STRING_EN[8282]["VALUE"] = "Challenge limit XI"
+	STRING_EN[8282]["VALUE"] = "Challenge Limit XI"
 	STRING_EN[8282]["real_idx"] = 8282
 
 STRING_EN["index"][8283] = 8283
 STRING_EN[8283] = {}
 	STRING_EN[8283]["ID"] = 8283
 	STRING_EN[8283]["KEY"] = "ATTACK_VICTORY_12"
-	STRING_EN[8283]["VALUE"] = "Challenge limit XII"
+	STRING_EN[8283]["VALUE"] = "Challenge Limit XII"
 	STRING_EN[8283]["real_idx"] = 8283
 
 STRING_EN["index"][8284] = 8284
 STRING_EN[8284] = {}
 	STRING_EN[8284]["ID"] = 8284
 	STRING_EN[8284]["KEY"] = "ATTACK_VICTORY_13"
-	STRING_EN[8284]["VALUE"] = "Challenge limit XIII"
+	STRING_EN[8284]["VALUE"] = "Challenge Limit XIII"
 	STRING_EN[8284]["real_idx"] = 8284
 
 STRING_EN["index"][8285] = 8285
 STRING_EN[8285] = {}
 	STRING_EN[8285]["ID"] = 8285
 	STRING_EN[8285]["KEY"] = "ATTACK_VICTORY_14"
-	STRING_EN[8285]["VALUE"] = "Challenge limit XIV"
+	STRING_EN[8285]["VALUE"] = "Challenge Limit XIV"
 	STRING_EN[8285]["real_idx"] = 8285
 
 STRING_EN["index"][8286] = 8286
 STRING_EN[8286] = {}
 	STRING_EN[8286]["ID"] = 8286
 	STRING_EN[8286]["KEY"] = "ATTACK_VICTORY_15"
-	STRING_EN[8286]["VALUE"] = "Challenge limit XV"
+	STRING_EN[8286]["VALUE"] = "Challenge Limit XV"
 	STRING_EN[8286]["real_idx"] = 8286
 
 STRING_EN["index"][8287] = 8287
 STRING_EN[8287] = {}
 	STRING_EN[8287]["ID"] = 8287
 	STRING_EN[8287]["KEY"] = "ATTACK_VICTORY_16"
-	STRING_EN[8287]["VALUE"] = "Challenge limit XVI"
+	STRING_EN[8287]["VALUE"] = "Challenge Limit XVI"
 	STRING_EN[8287]["real_idx"] = 8287
 
 STRING_EN["index"][8288] = 8288
 STRING_EN[8288] = {}
 	STRING_EN[8288]["ID"] = 8288
 	STRING_EN[8288]["KEY"] = "ATTACK_VICTORY_17"
-	STRING_EN[8288]["VALUE"] = "Challenge limit XVII"
+	STRING_EN[8288]["VALUE"] = "Challenge Limit XVII"
 	STRING_EN[8288]["real_idx"] = 8288
 
 STRING_EN["index"][8289] = 8289
 STRING_EN[8289] = {}
 	STRING_EN[8289]["ID"] = 8289
 	STRING_EN[8289]["KEY"] = "ATTACK_VICTORY_18"
-	STRING_EN[8289]["VALUE"] = "Challenge limit XVIII"
+	STRING_EN[8289]["VALUE"] = "Challenge Limit XVIII"
 	STRING_EN[8289]["real_idx"] = 8289
 
 STRING_EN["index"][8290] = 8290
 STRING_EN[8290] = {}
 	STRING_EN[8290]["ID"] = 8290
 	STRING_EN[8290]["KEY"] = "ATTACK_VICTORY_19"
-	STRING_EN[8290]["VALUE"] = "Challenge limit XIX"
+	STRING_EN[8290]["VALUE"] = "Challenge Limit XIX"
 	STRING_EN[8290]["real_idx"] = 8290
 
 STRING_EN["index"][8291] = 8291
 STRING_EN[8291] = {}
 	STRING_EN[8291]["ID"] = 8291
 	STRING_EN[8291]["KEY"] = "ATTACK_VICTORY_20"
-	STRING_EN[8291]["VALUE"] = "Challenge limit XX"
+	STRING_EN[8291]["VALUE"] = "Challenge Limit XX"
 	STRING_EN[8291]["real_idx"] = 8291
 
 STRING_EN["index"][8292] = 8292
 STRING_EN[8292] = {}
 	STRING_EN[8292]["ID"] = 8292
 	STRING_EN[8292]["KEY"] = "ATTACK_VICTORY_21"
-	STRING_EN[8292]["VALUE"] = "Challenge limit XXI"
+	STRING_EN[8292]["VALUE"] = "Challenge Limit XXI"
 	STRING_EN[8292]["real_idx"] = 8292
 
 STRING_EN["index"][8293] = 8293
 STRING_EN[8293] = {}
 	STRING_EN[8293]["ID"] = 8293
 	STRING_EN[8293]["KEY"] = "ATTACK_VICTORY_22"
-	STRING_EN[8293]["VALUE"] = "Challenge limit XXII"
+	STRING_EN[8293]["VALUE"] = "Challenge Limit XXII"
 	STRING_EN[8293]["real_idx"] = 8293
 
 STRING_EN["index"][8294] = 8294
 STRING_EN[8294] = {}
 	STRING_EN[8294]["ID"] = 8294
 	STRING_EN[8294]["KEY"] = "ATTACK_VICTORY_23"
-	STRING_EN[8294]["VALUE"] = "Challenge limit XXIII"
+	STRING_EN[8294]["VALUE"] = "Challenge Limit XXIII"
 	STRING_EN[8294]["real_idx"] = 8294
 
 STRING_EN["index"][8295] = 8295
 STRING_EN[8295] = {}
 	STRING_EN[8295]["ID"] = 8295
 	STRING_EN[8295]["KEY"] = "ATTACK_VICTORY_24"
-	STRING_EN[8295]["VALUE"] = "Challenge limit XXIV"
+	STRING_EN[8295]["VALUE"] = "Challenge Limit XXIV"
 	STRING_EN[8295]["real_idx"] = 8295
 
 STRING_EN["index"][8296] = 8296
 STRING_EN[8296] = {}
 	STRING_EN[8296]["ID"] = 8296
 	STRING_EN[8296]["KEY"] = "ATTACK_VICTORY_25"
-	STRING_EN[8296]["VALUE"] = "Challenge limit XXV"
+	STRING_EN[8296]["VALUE"] = "Challenge Limit XXV"
 	STRING_EN[8296]["real_idx"] = 8296
 
 STRING_EN["index"][8297] = 8297
 STRING_EN[8297] = {}
 	STRING_EN[8297]["ID"] = 8297
 	STRING_EN[8297]["KEY"] = "ATTACK_VICTORY_26"
-	STRING_EN[8297]["VALUE"] = "Challenge limit XXVI"
+	STRING_EN[8297]["VALUE"] = "Challenge Limit XXVI"
 	STRING_EN[8297]["real_idx"] = 8297
 
 STRING_EN["index"][8298] = 8298
 STRING_EN[8298] = {}
 	STRING_EN[8298]["ID"] = 8298
 	STRING_EN[8298]["KEY"] = "ATTACK_VICTORY_27"
-	STRING_EN[8298]["VALUE"] = "Challenge limit XXVII"
+	STRING_EN[8298]["VALUE"] = "Challenge Limit XXVII"
 	STRING_EN[8298]["real_idx"] = 8298
 
 STRING_EN["index"][8299] = 8299
 STRING_EN[8299] = {}
 	STRING_EN[8299]["ID"] = 8299
 	STRING_EN[8299]["KEY"] = "ATTACK_VICTORY_28"
-	STRING_EN[8299]["VALUE"] = "Challenge limit XXVIII"
+	STRING_EN[8299]["VALUE"] = "Challenge Limit XXVIII"
 	STRING_EN[8299]["real_idx"] = 8299
 
 STRING_EN["index"][8300] = 8300
 STRING_EN[8300] = {}
 	STRING_EN[8300]["ID"] = 8300
 	STRING_EN[8300]["KEY"] = "ATTACK_VICTORY_29"
-	STRING_EN[8300]["VALUE"] = "Challenge limit XXIX"
+	STRING_EN[8300]["VALUE"] = "Challenge Limit XXIX"
 	STRING_EN[8300]["real_idx"] = 8300
 
 STRING_EN["index"][8301] = 8301
 STRING_EN[8301] = {}
 	STRING_EN[8301]["ID"] = 8301
 	STRING_EN[8301]["KEY"] = "ATTACK_VICTORY_30"
-	STRING_EN[8301]["VALUE"] = "Challenge limit XXX"
+	STRING_EN[8301]["VALUE"] = "Challenge Limit XXX"
 	STRING_EN[8301]["real_idx"] = 8301
 
 STRING_EN["index"][8302] = 8302
 STRING_EN[8302] = {}
 	STRING_EN[8302]["ID"] = 8302
 	STRING_EN[8302]["KEY"] = "ATTACK_VICTORY_31"
-	STRING_EN[8302]["VALUE"] = "Challenge limit XXXI"
+	STRING_EN[8302]["VALUE"] = "Challenge Limit XXXI"
 	STRING_EN[8302]["real_idx"] = 8302
 
 STRING_EN["index"][8303] = 8303
 STRING_EN[8303] = {}
 	STRING_EN[8303]["ID"] = 8303
 	STRING_EN[8303]["KEY"] = "ATTACK_VICTORY_32"
-	STRING_EN[8303]["VALUE"] = "Challenge limit XXXII"
+	STRING_EN[8303]["VALUE"] = "Challenge Limit XXXII"
 	STRING_EN[8303]["real_idx"] = 8303
 
 STRING_EN["index"][8304] = 8304
 STRING_EN[8304] = {}
 	STRING_EN[8304]["ID"] = 8304
 	STRING_EN[8304]["KEY"] = "ATTACK_VICTORY_33"
-	STRING_EN[8304]["VALUE"] = "Challenge limit XXXIII"
+	STRING_EN[8304]["VALUE"] = "Challenge Limit XXXIII"
 	STRING_EN[8304]["real_idx"] = 8304
 
 STRING_EN["index"][8305] = 8305
 STRING_EN[8305] = {}
 	STRING_EN[8305]["ID"] = 8305
 	STRING_EN[8305]["KEY"] = "ATTACK_VICTORY_34"
-	STRING_EN[8305]["VALUE"] = "Challenge limit XXXIV"
+	STRING_EN[8305]["VALUE"] = "Challenge Limit XXXIV"
 	STRING_EN[8305]["real_idx"] = 8305
 
 STRING_EN["index"][8306] = 8306
 STRING_EN[8306] = {}
 	STRING_EN[8306]["ID"] = 8306
 	STRING_EN[8306]["KEY"] = "ATTACK_VICTORY_35"
-	STRING_EN[8306]["VALUE"] = "Challenge limit XXXV"
+	STRING_EN[8306]["VALUE"] = "Challenge Limit XXXV"
 	STRING_EN[8306]["real_idx"] = 8306
 
 STRING_EN["index"][8307] = 8307
 STRING_EN[8307] = {}
 	STRING_EN[8307]["ID"] = 8307
 	STRING_EN[8307]["KEY"] = "ATTACK_VICTORY_36"
-	STRING_EN[8307]["VALUE"] = "Challenge limit XXXVI"
+	STRING_EN[8307]["VALUE"] = "Challenge Limit XXXVI"
 	STRING_EN[8307]["real_idx"] = 8307
 
 STRING_EN["index"][8308] = 8308
 STRING_EN[8308] = {}
 	STRING_EN[8308]["ID"] = 8308
 	STRING_EN[8308]["KEY"] = "ATTACK_VICTORY_37"
-	STRING_EN[8308]["VALUE"] = "Challenge limit XXXVII"
+	STRING_EN[8308]["VALUE"] = "Challenge Limit XXXVII"
 	STRING_EN[8308]["real_idx"] = 8308
 
 STRING_EN["index"][8309] = 8309
 STRING_EN[8309] = {}
 	STRING_EN[8309]["ID"] = 8309
 	STRING_EN[8309]["KEY"] = "ATTACK_VICTORY_38"
-	STRING_EN[8309]["VALUE"] = "Challenge limit XXXVIII"
+	STRING_EN[8309]["VALUE"] = "Challenge Limit XXXVIII"
 	STRING_EN[8309]["real_idx"] = 8309
 
 STRING_EN["index"][8310] = 8310
 STRING_EN[8310] = {}
 	STRING_EN[8310]["ID"] = 8310
 	STRING_EN[8310]["KEY"] = "ATTACK_VICTORY_39"
-	STRING_EN[8310]["VALUE"] = "Challenge limit XXXIX"
+	STRING_EN[8310]["VALUE"] = "Challenge Limit XXXIX"
 	STRING_EN[8310]["real_idx"] = 8310
 
 STRING_EN["index"][8311] = 8311
 STRING_EN[8311] = {}
 	STRING_EN[8311]["ID"] = 8311
 	STRING_EN[8311]["KEY"] = "ATTACK_VICTORY_40"
-	STRING_EN[8311]["VALUE"] = "Challenge limit XL"
+	STRING_EN[8311]["VALUE"] = "Challenge Limit XL"
 	STRING_EN[8311]["real_idx"] = 8311
 
 STRING_EN["index"][8312] = 8312
 STRING_EN[8312] = {}
 	STRING_EN[8312]["ID"] = 8312
 	STRING_EN[8312]["KEY"] = "ATTACK_VICTORY_41"
-	STRING_EN[8312]["VALUE"] = "Challenge limit XLI"
+	STRING_EN[8312]["VALUE"] = "Challenge Limit XLI"
 	STRING_EN[8312]["real_idx"] = 8312
 
 STRING_EN["index"][8313] = 8313
 STRING_EN[8313] = {}
 	STRING_EN[8313]["ID"] = 8313
 	STRING_EN[8313]["KEY"] = "ATTACK_VICTORY_42"
-	STRING_EN[8313]["VALUE"] = "Challenge limit XLII"
+	STRING_EN[8313]["VALUE"] = "Challenge Limit XLII"
 	STRING_EN[8313]["real_idx"] = 8313
 
 STRING_EN["index"][8314] = 8314
 STRING_EN[8314] = {}
 	STRING_EN[8314]["ID"] = 8314
 	STRING_EN[8314]["KEY"] = "ATTACK_VICTORY_43"
-	STRING_EN[8314]["VALUE"] = "Challenge limit XLIII"
+	STRING_EN[8314]["VALUE"] = "Challenge Limit XLIII"
 	STRING_EN[8314]["real_idx"] = 8314
 
 STRING_EN["index"][8315] = 8315
 STRING_EN[8315] = {}
 	STRING_EN[8315]["ID"] = 8315
 	STRING_EN[8315]["KEY"] = "ATTACK_VICTORY_44"
-	STRING_EN[8315]["VALUE"] = "Challenge limit XLIV"
+	STRING_EN[8315]["VALUE"] = "Challenge Limit XLIV"
 	STRING_EN[8315]["real_idx"] = 8315
 
 STRING_EN["index"][8316] = 8316
 STRING_EN[8316] = {}
 	STRING_EN[8316]["ID"] = 8316
 	STRING_EN[8316]["KEY"] = "ATTACK_VICTORY_45"
-	STRING_EN[8316]["VALUE"] = "Challenge limit XLV"
+	STRING_EN[8316]["VALUE"] = "Challenge Limit XLV"
 	STRING_EN[8316]["real_idx"] = 8316
 
 STRING_EN["index"][8317] = 8317
 STRING_EN[8317] = {}
 	STRING_EN[8317]["ID"] = 8317
 	STRING_EN[8317]["KEY"] = "DEFEND_VICTORY_1"
-	STRING_EN[8317]["VALUE"] = "Whole armament preparation I"
+	STRING_EN[8317]["VALUE"] = "Solemn Defense I"
 	STRING_EN[8317]["real_idx"] = 8317
 
 STRING_EN["index"][8318] = 8318
 STRING_EN[8318] = {}
 	STRING_EN[8318]["ID"] = 8318
 	STRING_EN[8318]["KEY"] = "DEFEND_VICTORY_2"
-	STRING_EN[8318]["VALUE"] = "Whole armament preparation II"
+	STRING_EN[8318]["VALUE"] = "Solemn Defense II"
 	STRING_EN[8318]["real_idx"] = 8318
 
 STRING_EN["index"][8319] = 8319
 STRING_EN[8319] = {}
 	STRING_EN[8319]["ID"] = 8319
 	STRING_EN[8319]["KEY"] = "DEFEND_VICTORY_3"
-	STRING_EN[8319]["VALUE"] = "Whole armament preparation III"
+	STRING_EN[8319]["VALUE"] = "Solemn Defense III"
 	STRING_EN[8319]["real_idx"] = 8319
 
 STRING_EN["index"][8320] = 8320
 STRING_EN[8320] = {}
 	STRING_EN[8320]["ID"] = 8320
 	STRING_EN[8320]["KEY"] = "DEFEND_VICTORY_4"
-	STRING_EN[8320]["VALUE"] = "Whole armament preparation IV"
+	STRING_EN[8320]["VALUE"] = "Solemn Defense IV"
 	STRING_EN[8320]["real_idx"] = 8320
 
 STRING_EN["index"][8321] = 8321
 STRING_EN[8321] = {}
 	STRING_EN[8321]["ID"] = 8321
 	STRING_EN[8321]["KEY"] = "DEFEND_VICTORY_5"
-	STRING_EN[8321]["VALUE"] = "Whole armament preparation V"
+	STRING_EN[8321]["VALUE"] = "Solemn Defense V"
 	STRING_EN[8321]["real_idx"] = 8321
 
 STRING_EN["index"][8322] = 8322
 STRING_EN[8322] = {}
 	STRING_EN[8322]["ID"] = 8322
 	STRING_EN[8322]["KEY"] = "DEFEND_VICTORY_6"
-	STRING_EN[8322]["VALUE"] = "Whole armament preparation VI"
+	STRING_EN[8322]["VALUE"] = "Solemn Defense VI"
 	STRING_EN[8322]["real_idx"] = 8322
 
 STRING_EN["index"][8323] = 8323
 STRING_EN[8323] = {}
 	STRING_EN[8323]["ID"] = 8323
 	STRING_EN[8323]["KEY"] = "DEFEND_VICTORY_7"
-	STRING_EN[8323]["VALUE"] = "Whole armament preparation VII"
+	STRING_EN[8323]["VALUE"] = "Solemn Defense VII"
 	STRING_EN[8323]["real_idx"] = 8323
 
 STRING_EN["index"][8324] = 8324
 STRING_EN[8324] = {}
 	STRING_EN[8324]["ID"] = 8324
 	STRING_EN[8324]["KEY"] = "DEFEND_VICTORY_8"
-	STRING_EN[8324]["VALUE"] = "Whole armament preparation VIII"
+	STRING_EN[8324]["VALUE"] = "Solemn Defense VIII"
 	STRING_EN[8324]["real_idx"] = 8324
 
 STRING_EN["index"][8325] = 8325
 STRING_EN[8325] = {}
 	STRING_EN[8325]["ID"] = 8325
 	STRING_EN[8325]["KEY"] = "DEFEND_VICTORY_9"
-	STRING_EN[8325]["VALUE"] = "Whole armament preparation IX"
+	STRING_EN[8325]["VALUE"] = "Solemn Defense IX"
 	STRING_EN[8325]["real_idx"] = 8325
 
 STRING_EN["index"][8326] = 8326
 STRING_EN[8326] = {}
 	STRING_EN[8326]["ID"] = 8326
 	STRING_EN[8326]["KEY"] = "DEFEND_VICTORY_10"
-	STRING_EN[8326]["VALUE"] = "Whole armament preparation X"
+	STRING_EN[8326]["VALUE"] = "Solemn Defense X"
 	STRING_EN[8326]["real_idx"] = 8326
 
 STRING_EN["index"][8327] = 8327
 STRING_EN[8327] = {}
 	STRING_EN[8327]["ID"] = 8327
 	STRING_EN[8327]["KEY"] = "DEFEND_VICTORY_11"
-	STRING_EN[8327]["VALUE"] = "Whole armament preparation XI"
+	STRING_EN[8327]["VALUE"] = "Solemn Defense XI"
 	STRING_EN[8327]["real_idx"] = 8327
 
 STRING_EN["index"][8328] = 8328
 STRING_EN[8328] = {}
 	STRING_EN[8328]["ID"] = 8328
 	STRING_EN[8328]["KEY"] = "DEFEND_VICTORY_12"
-	STRING_EN[8328]["VALUE"] = "Whole armament preparation XII"
+	STRING_EN[8328]["VALUE"] = "Solemn Defense XII"
 	STRING_EN[8328]["real_idx"] = 8328
 
 STRING_EN["index"][8329] = 8329
 STRING_EN[8329] = {}
 	STRING_EN[8329]["ID"] = 8329
 	STRING_EN[8329]["KEY"] = "DEFEND_VICTORY_13"
-	STRING_EN[8329]["VALUE"] = "Whole armament preparation XIII"
+	STRING_EN[8329]["VALUE"] = "Solemn Defense XIII"
 	STRING_EN[8329]["real_idx"] = 8329
 
 STRING_EN["index"][8330] = 8330
 STRING_EN[8330] = {}
 	STRING_EN[8330]["ID"] = 8330
 	STRING_EN[8330]["KEY"] = "DEFEND_VICTORY_14"
-	STRING_EN[8330]["VALUE"] = "Whole armament preparation XIV"
+	STRING_EN[8330]["VALUE"] = "Solemn Defense XIV"
 	STRING_EN[8330]["real_idx"] = 8330
 
 STRING_EN["index"][8331] = 8331
 STRING_EN[8331] = {}
 	STRING_EN[8331]["ID"] = 8331
 	STRING_EN[8331]["KEY"] = "DEFEND_VICTORY_15"
-	STRING_EN[8331]["VALUE"] = "Whole armament preparation XV"
+	STRING_EN[8331]["VALUE"] = "Solemn Defense XV"
 	STRING_EN[8331]["real_idx"] = 8331
 
 STRING_EN["index"][8332] = 8332
 STRING_EN[8332] = {}
 	STRING_EN[8332]["ID"] = 8332
 	STRING_EN[8332]["KEY"] = "DEFEND_VICTORY_16"
-	STRING_EN[8332]["VALUE"] = "Whole armament preparation XVI"
+	STRING_EN[8332]["VALUE"] = "Solemn Defense XVI"
 	STRING_EN[8332]["real_idx"] = 8332
 
 STRING_EN["index"][8333] = 8333
 STRING_EN[8333] = {}
 	STRING_EN[8333]["ID"] = 8333
 	STRING_EN[8333]["KEY"] = "DEFEND_VICTORY_17"
-	STRING_EN[8333]["VALUE"] = "Whole arms preparation XVII"
+	STRING_EN[8333]["VALUE"] = "Solemn Defense XVII"
 	STRING_EN[8333]["real_idx"] = 8333
 
 STRING_EN["index"][8334] = 8334
 STRING_EN[8334] = {}
 	STRING_EN[8334]["ID"] = 8334
 	STRING_EN[8334]["KEY"] = "DEFEND_VICTORY_18"
-	STRING_EN[8334]["VALUE"] = "Whole arms preparation XVIII"
+	STRING_EN[8334]["VALUE"] = "Solemn Defense XVIII"
 	STRING_EN[8334]["real_idx"] = 8334
 
 STRING_EN["index"][8335] = 8335
 STRING_EN[8335] = {}
 	STRING_EN[8335]["ID"] = 8335
 	STRING_EN[8335]["KEY"] = "DEFEND_VICTORY_19"
-	STRING_EN[8335]["VALUE"] = "Whole arms preparation for XIX"
+	STRING_EN[8335]["VALUE"] = "Solemn Defense XIX"
 	STRING_EN[8335]["real_idx"] = 8335
 
 STRING_EN["index"][8336] = 8336
 STRING_EN[8336] = {}
 	STRING_EN[8336]["ID"] = 8336
 	STRING_EN[8336]["KEY"] = "DEFEND_VICTORY_20"
-	STRING_EN[8336]["VALUE"] = "Whole arms preparation XX"
+	STRING_EN[8336]["VALUE"] = "Solemn Defense XX"
 	STRING_EN[8336]["real_idx"] = 8336
 
 STRING_EN["index"][8337] = 8337
 STRING_EN[8337] = {}
 	STRING_EN[8337]["ID"] = 8337
 	STRING_EN[8337]["KEY"] = "DEFEND_VICTORY_21"
-	STRING_EN[8337]["VALUE"] = "Whole arms preparation for XXI"
+	STRING_EN[8337]["VALUE"] = "Solemn Defense XXI"
 	STRING_EN[8337]["real_idx"] = 8337
 
 STRING_EN["index"][8338] = 8338
 STRING_EN[8338] = {}
 	STRING_EN[8338]["ID"] = 8338
 	STRING_EN[8338]["KEY"] = "DEFEND_VICTORY_22"
-	STRING_EN[8338]["VALUE"] = "Whole arms preparation XXII"
+	STRING_EN[8338]["VALUE"] = "Solemn Defense XXII"
 	STRING_EN[8338]["real_idx"] = 8338
 
 STRING_EN["index"][8339] = 8339
 STRING_EN[8339] = {}
 	STRING_EN[8339]["ID"] = 8339
 	STRING_EN[8339]["KEY"] = "DEFEND_VICTORY_23"
-	STRING_EN[8339]["VALUE"] = "Whole arms preparation XXIII"
+	STRING_EN[8339]["VALUE"] = "Solemn Defense XXIII"
 	STRING_EN[8339]["real_idx"] = 8339
 
 STRING_EN["index"][8340] = 8340
 STRING_EN[8340] = {}
 	STRING_EN[8340]["ID"] = 8340
 	STRING_EN[8340]["KEY"] = "DEFEND_VICTORY_24"
-	STRING_EN[8340]["VALUE"] = "Whole arms preparation XXIV"
+	STRING_EN[8340]["VALUE"] = "Solemn Defense XXIV"
 	STRING_EN[8340]["real_idx"] = 8340
 
 STRING_EN["index"][8341] = 8341
 STRING_EN[8341] = {}
 	STRING_EN[8341]["ID"] = 8341
 	STRING_EN[8341]["KEY"] = "DEFEND_VICTORY_25"
-	STRING_EN[8341]["VALUE"] = "Whole army preparation XXV"
+	STRING_EN[8341]["VALUE"] = "Solemn Defense XXV"
 	STRING_EN[8341]["real_idx"] = 8341
 
 STRING_EN["index"][8342] = 8342
 STRING_EN[8342] = {}
 	STRING_EN[8342]["ID"] = 8342
 	STRING_EN[8342]["KEY"] = "DEFEND_VICTORY_26"
-	STRING_EN[8342]["VALUE"] = "Whole arms preparation XXVI"
+	STRING_EN[8342]["VALUE"] = "Solemn Defense XXVI"
 	STRING_EN[8342]["real_idx"] = 8342
 
 STRING_EN["index"][8343] = 8343
 STRING_EN[8343] = {}
 	STRING_EN[8343]["ID"] = 8343
 	STRING_EN[8343]["KEY"] = "DEFEND_VICTORY_27"
-	STRING_EN[8343]["VALUE"] = "Whole arms preparation XXVII"
+	STRING_EN[8343]["VALUE"] = "Solemn Defense XXVII"
 	STRING_EN[8343]["real_idx"] = 8343
 
 STRING_EN["index"][8344] = 8344
 STRING_EN[8344] = {}
 	STRING_EN[8344]["ID"] = 8344
 	STRING_EN[8344]["KEY"] = "DEFEND_VICTORY_28"
-	STRING_EN[8344]["VALUE"] = "Whole arms preparation XXVIII"
+	STRING_EN[8344]["VALUE"] = "Solemn Defense XXVIII"
 	STRING_EN[8344]["real_idx"] = 8344
 
 STRING_EN["index"][8345] = 8345
 STRING_EN[8345] = {}
 	STRING_EN[8345]["ID"] = 8345
 	STRING_EN[8345]["KEY"] = "DEFEND_VICTORY_29"
-	STRING_EN[8345]["VALUE"] = "Whole armament preparation XXIX"
+	STRING_EN[8345]["VALUE"] = "Solemn Defense XXIX"
 	STRING_EN[8345]["real_idx"] = 8345
 
 STRING_EN["index"][8346] = 8346
 STRING_EN[8346] = {}
 	STRING_EN[8346]["ID"] = 8346
 	STRING_EN[8346]["KEY"] = "DEFEND_VICTORY_30"
-	STRING_EN[8346]["VALUE"] = "Whole armament preparation XXX"
+	STRING_EN[8346]["VALUE"] = "Solemn Defense XXX"
 	STRING_EN[8346]["real_idx"] = 8346
 
 STRING_EN["index"][8347] = 8347
 STRING_EN[8347] = {}
 	STRING_EN[8347]["ID"] = 8347
 	STRING_EN[8347]["KEY"] = "DEFEND_VICTORY_31"
-	STRING_EN[8347]["VALUE"] = "Whole armament preparation XXXI"
+	STRING_EN[8347]["VALUE"] = "Solemn Defense XXXI"
 	STRING_EN[8347]["real_idx"] = 8347
 
 STRING_EN["index"][8348] = 8348
 STRING_EN[8348] = {}
 	STRING_EN[8348]["ID"] = 8348
 	STRING_EN[8348]["KEY"] = "DEFEND_VICTORY_32"
-	STRING_EN[8348]["VALUE"] = "Whole armament preparation XXXII"
+	STRING_EN[8348]["VALUE"] = "Solemn Defense XXXII"
 	STRING_EN[8348]["real_idx"] = 8348
 
 STRING_EN["index"][8349] = 8349
 STRING_EN[8349] = {}
 	STRING_EN[8349]["ID"] = 8349
 	STRING_EN[8349]["KEY"] = "DEFEND_VICTORY_33"
-	STRING_EN[8349]["VALUE"] = "Whole armament preparation XXXIII"
+	STRING_EN[8349]["VALUE"] = "Solemn Defense XXXIII"
 	STRING_EN[8349]["real_idx"] = 8349
 
 STRING_EN["index"][8350] = 8350
 STRING_EN[8350] = {}
 	STRING_EN[8350]["ID"] = 8350
 	STRING_EN[8350]["KEY"] = "DEFEND_VICTORY_34"
-	STRING_EN[8350]["VALUE"] = "Whole armament preparation XXXIV"
+	STRING_EN[8350]["VALUE"] = "Solemn Defense XXXIV"
 	STRING_EN[8350]["real_idx"] = 8350
 
 STRING_EN["index"][8351] = 8351
 STRING_EN[8351] = {}
 	STRING_EN[8351]["ID"] = 8351
 	STRING_EN[8351]["KEY"] = "DEFEND_VICTORY_35"
-	STRING_EN[8351]["VALUE"] = "Whole armament preparation XXXV"
+	STRING_EN[8351]["VALUE"] = "Solemn Defense XXXV"
 	STRING_EN[8351]["real_idx"] = 8351
 
 STRING_EN["index"][8352] = 8352
 STRING_EN[8352] = {}
 	STRING_EN[8352]["ID"] = 8352
 	STRING_EN[8352]["KEY"] = "DEFEND_VICTORY_36"
-	STRING_EN[8352]["VALUE"] = "Whole armament preparation XXXVI"
+	STRING_EN[8352]["VALUE"] = "Solemn Defense XXXVI"
 	STRING_EN[8352]["real_idx"] = 8352
 
 STRING_EN["index"][8353] = 8353
 STRING_EN[8353] = {}
 	STRING_EN[8353]["ID"] = 8353
 	STRING_EN[8353]["KEY"] = "DEFEND_VICTORY_37"
-	STRING_EN[8353]["VALUE"] = "Whole armament preparation XXXVII"
+	STRING_EN[8353]["VALUE"] = "Solemn Defense XXXVII"
 	STRING_EN[8353]["real_idx"] = 8353
 
 STRING_EN["index"][8354] = 8354
 STRING_EN[8354] = {}
 	STRING_EN[8354]["ID"] = 8354
 	STRING_EN[8354]["KEY"] = "DEFEND_VICTORY_38"
-	STRING_EN[8354]["VALUE"] = "Whole armament preparation XXXVIII"
+	STRING_EN[8354]["VALUE"] = "Solemn Defense XXXVIII"
 	STRING_EN[8354]["real_idx"] = 8354
 
 STRING_EN["index"][8355] = 8355
 STRING_EN[8355] = {}
 	STRING_EN[8355]["ID"] = 8355
 	STRING_EN[8355]["KEY"] = "DEFEND_VICTORY_39"
-	STRING_EN[8355]["VALUE"] = "Whole armament preparation XXXIX"
+	STRING_EN[8355]["VALUE"] = "Solemn Defense XXXIX"
 	STRING_EN[8355]["real_idx"] = 8355
 
 STRING_EN["index"][8356] = 8356
 STRING_EN[8356] = {}
 	STRING_EN[8356]["ID"] = 8356
 	STRING_EN[8356]["KEY"] = "DEFEND_VICTORY_40"
-	STRING_EN[8356]["VALUE"] = "Whole armament preparation XL"
+	STRING_EN[8356]["VALUE"] = "Solemn Defense XL"
 	STRING_EN[8356]["real_idx"] = 8356
 
 STRING_EN["index"][8357] = 8357
 STRING_EN[8357] = {}
 	STRING_EN[8357]["ID"] = 8357
 	STRING_EN[8357]["KEY"] = "DEFEND_VICTORY_41"
-	STRING_EN[8357]["VALUE"] = "Whole armament preparation XLI"
+	STRING_EN[8357]["VALUE"] = "Solemn Defense XLI"
 	STRING_EN[8357]["real_idx"] = 8357
 
 STRING_EN["index"][8358] = 8358
 STRING_EN[8358] = {}
 	STRING_EN[8358]["ID"] = 8358
 	STRING_EN[8358]["KEY"] = "DEFEND_VICTORY_42"
-	STRING_EN[8358]["VALUE"] = "Whole armament preparation XLII"
+	STRING_EN[8358]["VALUE"] = "Solemn Defense XLII"
 	STRING_EN[8358]["real_idx"] = 8358
 
 STRING_EN["index"][8359] = 8359
 STRING_EN[8359] = {}
 	STRING_EN[8359]["ID"] = 8359
 	STRING_EN[8359]["KEY"] = "DEFEND_VICTORY_43"
-	STRING_EN[8359]["VALUE"] = "Whole armament preparation XLIII"
+	STRING_EN[8359]["VALUE"] = "Solemn Defense XLIII"
 	STRING_EN[8359]["real_idx"] = 8359
 
 STRING_EN["index"][8360] = 8360
 STRING_EN[8360] = {}
 	STRING_EN[8360]["ID"] = 8360
 	STRING_EN[8360]["KEY"] = "DEFEND_VICTORY_44"
-	STRING_EN[8360]["VALUE"] = "Whole armament preparation XLIV"
+	STRING_EN[8360]["VALUE"] = "Solemn Defense XLIV"
 	STRING_EN[8360]["real_idx"] = 8360
 
 STRING_EN["index"][8361] = 8361
 STRING_EN[8361] = {}
 	STRING_EN[8361]["ID"] = 8361
 	STRING_EN[8361]["KEY"] = "DEFEND_VICTORY_45"
-	STRING_EN[8361]["VALUE"] = "Whole armament preparation XLV"
+	STRING_EN[8361]["VALUE"] = "Solemn Defense XLV"
 	STRING_EN[8361]["real_idx"] = 8361
 
 STRING_EN["index"][8362] = 8362
 STRING_EN[8362] = {}
 	STRING_EN[8362]["ID"] = 8362
 	STRING_EN[8362]["KEY"] = "TRANSITION_1"
-	STRING_EN[8362]["VALUE"] = "Famous I"
+	STRING_EN[8362]["VALUE"] = "Illustrious I"
 	STRING_EN[8362]["real_idx"] = 8362
 
 STRING_EN["index"][8363] = 8363
 STRING_EN[8363] = {}
 	STRING_EN[8363]["ID"] = 8363
 	STRING_EN[8363]["KEY"] = "TRANSITION_2"
-	STRING_EN[8363]["VALUE"] = "Famous II"
+	STRING_EN[8363]["VALUE"] = "Illustrious II"
 	STRING_EN[8363]["real_idx"] = 8363
 
 STRING_EN["index"][8364] = 8364
 STRING_EN[8364] = {}
 	STRING_EN[8364]["ID"] = 8364
 	STRING_EN[8364]["KEY"] = "TRANSITION_3"
-	STRING_EN[8364]["VALUE"] = "Famous III"
+	STRING_EN[8364]["VALUE"] = "Illustrious III"
 	STRING_EN[8364]["real_idx"] = 8364
 
 STRING_EN["index"][8365] = 8365
 STRING_EN[8365] = {}
 	STRING_EN[8365]["ID"] = 8365
 	STRING_EN[8365]["KEY"] = "TRANSITION_4"
-	STRING_EN[8365]["VALUE"] = "Famous IV"
+	STRING_EN[8365]["VALUE"] = "Illustrious IV"
 	STRING_EN[8365]["real_idx"] = 8365
 
 STRING_EN["index"][8366] = 8366
 STRING_EN[8366] = {}
 	STRING_EN[8366]["ID"] = 8366
 	STRING_EN[8366]["KEY"] = "TRANSITION_5"
-	STRING_EN[8366]["VALUE"] = "Famous V"
+	STRING_EN[8366]["VALUE"] = "Illustrious V"
 	STRING_EN[8366]["real_idx"] = 8366
 
 STRING_EN["index"][8367] = 8367
 STRING_EN[8367] = {}
 	STRING_EN[8367]["ID"] = 8367
 	STRING_EN[8367]["KEY"] = "TRANSITION_6"
-	STRING_EN[8367]["VALUE"] = "Famous VI"
+	STRING_EN[8367]["VALUE"] = "Illustrious VI"
 	STRING_EN[8367]["real_idx"] = 8367
 
 STRING_EN["index"][8368] = 8368
 STRING_EN[8368] = {}
 	STRING_EN[8368]["ID"] = 8368
 	STRING_EN[8368]["KEY"] = "TRANSITION_7"
-	STRING_EN[8368]["VALUE"] = "Famous VII"
+	STRING_EN[8368]["VALUE"] = "Illustrious VII"
 	STRING_EN[8368]["real_idx"] = 8368
 
 STRING_EN["index"][8369] = 8369
 STRING_EN[8369] = {}
 	STRING_EN[8369]["ID"] = 8369
 	STRING_EN[8369]["KEY"] = "TRANSITION_8"
-	STRING_EN[8369]["VALUE"] = "Famous VIII"
+	STRING_EN[8369]["VALUE"] = "Illustrious VIII"
 	STRING_EN[8369]["real_idx"] = 8369
 
 STRING_EN["index"][8370] = 8370
 STRING_EN[8370] = {}
 	STRING_EN[8370]["ID"] = 8370
 	STRING_EN[8370]["KEY"] = "TRANSITION_9"
-	STRING_EN[8370]["VALUE"] = "Famous IX"
+	STRING_EN[8370]["VALUE"] = "Illustrious IX"
 	STRING_EN[8370]["real_idx"] = 8370
 
 STRING_EN["index"][8371] = 8371
 STRING_EN[8371] = {}
 	STRING_EN[8371]["ID"] = 8371
 	STRING_EN[8371]["KEY"] = "TRANSITION_10"
-	STRING_EN[8371]["VALUE"] = "Famous X"
+	STRING_EN[8371]["VALUE"] = "Illustrious X"
 	STRING_EN[8371]["real_idx"] = 8371
 
 STRING_EN["index"][8372] = 8372
 STRING_EN[8372] = {}
 	STRING_EN[8372]["ID"] = 8372
 	STRING_EN[8372]["KEY"] = "TRANSITION_11"
-	STRING_EN[8372]["VALUE"] = "Famous XI"
+	STRING_EN[8372]["VALUE"] = "Illustrious XI"
 	STRING_EN[8372]["real_idx"] = 8372
 
 STRING_EN["index"][8373] = 8373
 STRING_EN[8373] = {}
 	STRING_EN[8373]["ID"] = 8373
 	STRING_EN[8373]["KEY"] = "TRANSITION_12"
-	STRING_EN[8373]["VALUE"] = "Famous XII"
+	STRING_EN[8373]["VALUE"] = "Illustrious XII"
 	STRING_EN[8373]["real_idx"] = 8373
 
 STRING_EN["index"][8374] = 8374
 STRING_EN[8374] = {}
 	STRING_EN[8374]["ID"] = 8374
 	STRING_EN[8374]["KEY"] = "TRANSITION_13"
-	STRING_EN[8374]["VALUE"] = "Famous XIII"
+	STRING_EN[8374]["VALUE"] = "Illustrious XIII"
 	STRING_EN[8374]["real_idx"] = 8374
 
 STRING_EN["index"][8375] = 8375
 STRING_EN[8375] = {}
 	STRING_EN[8375]["ID"] = 8375
 	STRING_EN[8375]["KEY"] = "TRANSITION_14"
-	STRING_EN[8375]["VALUE"] = "Famous XIV"
+	STRING_EN[8375]["VALUE"] = "Illustrious XIV"
 	STRING_EN[8375]["real_idx"] = 8375
 
 STRING_EN["index"][8376] = 8376
 STRING_EN[8376] = {}
 	STRING_EN[8376]["ID"] = 8376
 	STRING_EN[8376]["KEY"] = "TRANSITION_15"
-	STRING_EN[8376]["VALUE"] = "Famous XV"
+	STRING_EN[8376]["VALUE"] = "Illustrious XV"
 	STRING_EN[8376]["real_idx"] = 8376
 
 STRING_EN["index"][8377] = 8377
 STRING_EN[8377] = {}
 	STRING_EN[8377]["ID"] = 8377
 	STRING_EN[8377]["KEY"] = "TRANSITION_16"
-	STRING_EN[8377]["VALUE"] = "Famous XVI"
+	STRING_EN[8377]["VALUE"] = "Illustrious XVI"
 	STRING_EN[8377]["real_idx"] = 8377
 
 STRING_EN["index"][8378] = 8378
 STRING_EN[8378] = {}
 	STRING_EN[8378]["ID"] = 8378
 	STRING_EN[8378]["KEY"] = "TRANSITION_17"
-	STRING_EN[8378]["VALUE"] = "Famous XVII"
+	STRING_EN[8378]["VALUE"] = "Illustrious XVII"
 	STRING_EN[8378]["real_idx"] = 8378
 
 STRING_EN["index"][8379] = 8379
 STRING_EN[8379] = {}
 	STRING_EN[8379]["ID"] = 8379
 	STRING_EN[8379]["KEY"] = "TRANSITION_18"
-	STRING_EN[8379]["VALUE"] = "Famous XVIII"
+	STRING_EN[8379]["VALUE"] = "Illustrious XVIII"
 	STRING_EN[8379]["real_idx"] = 8379
 
 STRING_EN["index"][8380] = 8380
 STRING_EN[8380] = {}
 	STRING_EN[8380]["ID"] = 8380
 	STRING_EN[8380]["KEY"] = "TRANSITION_19"
-	STRING_EN[8380]["VALUE"] = "Famous XIX"
+	STRING_EN[8380]["VALUE"] = "Illustrious XIX"
 	STRING_EN[8380]["real_idx"] = 8380
 
 STRING_EN["index"][8381] = 8381
 STRING_EN[8381] = {}
 	STRING_EN[8381]["ID"] = 8381
 	STRING_EN[8381]["KEY"] = "TRANSITION_20"
-	STRING_EN[8381]["VALUE"] = "Famous XX"
+	STRING_EN[8381]["VALUE"] = "Illustrious XX"
 	STRING_EN[8381]["real_idx"] = 8381
 
 STRING_EN["index"][8382] = 8382
 STRING_EN[8382] = {}
 	STRING_EN[8382]["ID"] = 8382
 	STRING_EN[8382]["KEY"] = "TRANSITION_21"
-	STRING_EN[8382]["VALUE"] = "Famous XXI XXI"
+	STRING_EN[8382]["VALUE"] = "Illustrious XXI XXI"
 	STRING_EN[8382]["real_idx"] = 8382
 
 STRING_EN["index"][8383] = 8383
 STRING_EN[8383] = {}
 	STRING_EN[8383]["ID"] = 8383
 	STRING_EN[8383]["KEY"] = "TRANSITION_22"
-	STRING_EN[8383]["VALUE"] = "Famous XXII"
+	STRING_EN[8383]["VALUE"] = "Illustrious XXII"
 	STRING_EN[8383]["real_idx"] = 8383
 
 STRING_EN["index"][8384] = 8384
 STRING_EN[8384] = {}
 	STRING_EN[8384]["ID"] = 8384
 	STRING_EN[8384]["KEY"] = "TRANSITION_23"
-	STRING_EN[8384]["VALUE"] = "Famous XXIII"
+	STRING_EN[8384]["VALUE"] = "Illustrious XXIII"
 	STRING_EN[8384]["real_idx"] = 8384
 
 STRING_EN["index"][8385] = 8385
 STRING_EN[8385] = {}
 	STRING_EN[8385]["ID"] = 8385
 	STRING_EN[8385]["KEY"] = "TRANSITION_24"
-	STRING_EN[8385]["VALUE"] = "Famous XXIV"
+	STRING_EN[8385]["VALUE"] = "Illustrious XXIV"
 	STRING_EN[8385]["real_idx"] = 8385
 
 STRING_EN["index"][8386] = 8386
 STRING_EN[8386] = {}
 	STRING_EN[8386]["ID"] = 8386
 	STRING_EN[8386]["KEY"] = "TRANSITION_25"
-	STRING_EN[8386]["VALUE"] = "Famous XXV"
+	STRING_EN[8386]["VALUE"] = "Illustrious XXV"
 	STRING_EN[8386]["real_idx"] = 8386
 
 STRING_EN["index"][8387] = 8387
 STRING_EN[8387] = {}
 	STRING_EN[8387]["ID"] = 8387
 	STRING_EN[8387]["KEY"] = "TRANSITION_26"
-	STRING_EN[8387]["VALUE"] = "Famous XXVI"
+	STRING_EN[8387]["VALUE"] = "Illustrious XXVI"
 	STRING_EN[8387]["real_idx"] = 8387
 
 STRING_EN["index"][8388] = 8388
 STRING_EN[8388] = {}
 	STRING_EN[8388]["ID"] = 8388
 	STRING_EN[8388]["KEY"] = "TRANSITION_27"
-	STRING_EN[8388]["VALUE"] = "Famous XXVII"
+	STRING_EN[8388]["VALUE"] = "Illustrious XXVII"
 	STRING_EN[8388]["real_idx"] = 8388
 
 STRING_EN["index"][8389] = 8389
 STRING_EN[8389] = {}
 	STRING_EN[8389]["ID"] = 8389
 	STRING_EN[8389]["KEY"] = "TRANSITION_28"
-	STRING_EN[8389]["VALUE"] = "Famous XXVIII"
+	STRING_EN[8389]["VALUE"] = "Illustrious XXVIII"
 	STRING_EN[8389]["real_idx"] = 8389
 
 STRING_EN["index"][8390] = 8390
 STRING_EN[8390] = {}
 	STRING_EN[8390]["ID"] = 8390
 	STRING_EN[8390]["KEY"] = "TRANSITION_29"
-	STRING_EN[8390]["VALUE"] = "Famous XXIX"
+	STRING_EN[8390]["VALUE"] = "Illustrious XXIX"
 	STRING_EN[8390]["real_idx"] = 8390
 
 STRING_EN["index"][8391] = 8391
 STRING_EN[8391] = {}
 	STRING_EN[8391]["ID"] = 8391
 	STRING_EN[8391]["KEY"] = "TRANSITION_30"
-	STRING_EN[8391]["VALUE"] = "Famous XXX"
+	STRING_EN[8391]["VALUE"] = "Illustrious XXX"
 	STRING_EN[8391]["real_idx"] = 8391
 
 STRING_EN["index"][8392] = 8392
 STRING_EN[8392] = {}
 	STRING_EN[8392]["ID"] = 8392
 	STRING_EN[8392]["KEY"] = "TRANSITION_31"
-	STRING_EN[8392]["VALUE"] = "Famous XXXI"
+	STRING_EN[8392]["VALUE"] = "Illustrious XXXI"
 	STRING_EN[8392]["real_idx"] = 8392
 
 STRING_EN["index"][8393] = 8393
 STRING_EN[8393] = {}
 	STRING_EN[8393]["ID"] = 8393
 	STRING_EN[8393]["KEY"] = "TRANSITION_32"
-	STRING_EN[8393]["VALUE"] = "Famous XXXII"
+	STRING_EN[8393]["VALUE"] = "Illustrious XXXII"
 	STRING_EN[8393]["real_idx"] = 8393
 
 STRING_EN["index"][8394] = 8394
 STRING_EN[8394] = {}
 	STRING_EN[8394]["ID"] = 8394
 	STRING_EN[8394]["KEY"] = "TRANSITION_33"
-	STRING_EN[8394]["VALUE"] = "Famous XXXIII"
+	STRING_EN[8394]["VALUE"] = "Illustrious XXXIII"
 	STRING_EN[8394]["real_idx"] = 8394
 
 STRING_EN["index"][8395] = 8395
 STRING_EN[8395] = {}
 	STRING_EN[8395]["ID"] = 8395
 	STRING_EN[8395]["KEY"] = "TRANSITION_34"
-	STRING_EN[8395]["VALUE"] = "Famous XXXIV"
+	STRING_EN[8395]["VALUE"] = "Illustrious XXXIV"
 	STRING_EN[8395]["real_idx"] = 8395
 
 STRING_EN["index"][8396] = 8396
 STRING_EN[8396] = {}
 	STRING_EN[8396]["ID"] = 8396
 	STRING_EN[8396]["KEY"] = "TRANSITION_35"
-	STRING_EN[8396]["VALUE"] = "Famous XXXV"
+	STRING_EN[8396]["VALUE"] = "Illustrious XXXV"
 	STRING_EN[8396]["real_idx"] = 8396
 
 STRING_EN["index"][8397] = 8397
 STRING_EN[8397] = {}
 	STRING_EN[8397]["ID"] = 8397
 	STRING_EN[8397]["KEY"] = "TRANSITION_36"
-	STRING_EN[8397]["VALUE"] = "Famous XXXVI"
+	STRING_EN[8397]["VALUE"] = "Illustrious XXXVI"
 	STRING_EN[8397]["real_idx"] = 8397
 
 STRING_EN["index"][8398] = 8398
 STRING_EN[8398] = {}
 	STRING_EN[8398]["ID"] = 8398
 	STRING_EN[8398]["KEY"] = "TRANSITION_37"
-	STRING_EN[8398]["VALUE"] = "Famous XXXVII"
+	STRING_EN[8398]["VALUE"] = "Illustrious XXXVII"
 	STRING_EN[8398]["real_idx"] = 8398
 
 STRING_EN["index"][8399] = 8399
 STRING_EN[8399] = {}
 	STRING_EN[8399]["ID"] = 8399
 	STRING_EN[8399]["KEY"] = "TRANSITION_38"
-	STRING_EN[8399]["VALUE"] = "Famous XXXVIII"
+	STRING_EN[8399]["VALUE"] = "Illustrious XXXVIII"
 	STRING_EN[8399]["real_idx"] = 8399
 
 STRING_EN["index"][8400] = 8400
 STRING_EN[8400] = {}
 	STRING_EN[8400]["ID"] = 8400
 	STRING_EN[8400]["KEY"] = "TRANSITION_39"
-	STRING_EN[8400]["VALUE"] = "Famous XXXIX"
+	STRING_EN[8400]["VALUE"] = "Illustrious XXXIX"
 	STRING_EN[8400]["real_idx"] = 8400
 
 STRING_EN["index"][8401] = 8401
 STRING_EN[8401] = {}
 	STRING_EN[8401]["ID"] = 8401
 	STRING_EN[8401]["KEY"] = "TRANSITION_40"
-	STRING_EN[8401]["VALUE"] = "Famous XL"
+	STRING_EN[8401]["VALUE"] = "Illustrious XL"
 	STRING_EN[8401]["real_idx"] = 8401
 
 STRING_EN["index"][8402] = 8402
 STRING_EN[8402] = {}
 	STRING_EN[8402]["ID"] = 8402
 	STRING_EN[8402]["KEY"] = "TRANSITION_41"
-	STRING_EN[8402]["VALUE"] = "Famous XLI"
+	STRING_EN[8402]["VALUE"] = "Illustrious XLI"
 	STRING_EN[8402]["real_idx"] = 8402
 
 STRING_EN["index"][8403] = 8403
 STRING_EN[8403] = {}
 	STRING_EN[8403]["ID"] = 8403
 	STRING_EN[8403]["KEY"] = "TRANSITION_42"
-	STRING_EN[8403]["VALUE"] = "Famous XLII"
+	STRING_EN[8403]["VALUE"] = "Illustrious XLII"
 	STRING_EN[8403]["real_idx"] = 8403
 
 STRING_EN["index"][8404] = 8404
 STRING_EN[8404] = {}
 	STRING_EN[8404]["ID"] = 8404
 	STRING_EN[8404]["KEY"] = "TRANSITION_43"
-	STRING_EN[8404]["VALUE"] = "Famous XLIII"
+	STRING_EN[8404]["VALUE"] = "Illustrious XLIII"
 	STRING_EN[8404]["real_idx"] = 8404
 
 STRING_EN["index"][8405] = 8405
 STRING_EN[8405] = {}
 	STRING_EN[8405]["ID"] = 8405
 	STRING_EN[8405]["KEY"] = "TRANSITION_44"
-	STRING_EN[8405]["VALUE"] = "Famous XLIV"
+	STRING_EN[8405]["VALUE"] = "Illustrious XLIV"
 	STRING_EN[8405]["real_idx"] = 8405
 
 STRING_EN["index"][8406] = 8406
 STRING_EN[8406] = {}
 	STRING_EN[8406]["ID"] = 8406
 	STRING_EN[8406]["KEY"] = "TRANSITION_45"
-	STRING_EN[8406]["VALUE"] = "Famous XLV"
+	STRING_EN[8406]["VALUE"] = "Illustrious XLV"
 	STRING_EN[8406]["real_idx"] = 8406
 
 STRING_EN["index"][8407] = 8407
@@ -58937,7 +58937,7 @@ STRING_EN["index"][8420] = 8420
 STRING_EN[8420] = {}
 	STRING_EN[8420]["ID"] = 8420
 	STRING_EN[8420]["KEY"] = "TECHNOLOGY_UP_14"
-	STRING_EN[8420]["VALUE"] = "Civilization evolution XIV"
+	STRING_EN[8420]["VALUE"] = "Civilization Evolution XIV"
 	STRING_EN[8420]["real_idx"] = 8420
 
 STRING_EN["index"][8421] = 8421
@@ -58972,14 +58972,14 @@ STRING_EN["index"][8425] = 8425
 STRING_EN[8425] = {}
 	STRING_EN[8425]["ID"] = 8425
 	STRING_EN[8425]["KEY"] = "TECHNOLOGY_UP_19"
-	STRING_EN[8425]["VALUE"] = "Civilization evolution XIX"
+	STRING_EN[8425]["VALUE"] = "Civilization Evolution XIX"
 	STRING_EN[8425]["real_idx"] = 8425
 
 STRING_EN["index"][8426] = 8426
 STRING_EN[8426] = {}
 	STRING_EN[8426]["ID"] = 8426
 	STRING_EN[8426]["KEY"] = "TECHNOLOGY_UP_20"
-	STRING_EN[8426]["VALUE"] = "Civilization evolution XX"
+	STRING_EN[8426]["VALUE"] = "Civilization Evolution XX"
 	STRING_EN[8426]["real_idx"] = 8426
 
 STRING_EN["index"][8427] = 8427
@@ -59007,7 +59007,7 @@ STRING_EN["index"][8430] = 8430
 STRING_EN[8430] = {}
 	STRING_EN[8430]["ID"] = 8430
 	STRING_EN[8430]["KEY"] = "TECHNOLOGY_UP_24"
-	STRING_EN[8430]["VALUE"] = "Civilization evolution XXIV"
+	STRING_EN[8430]["VALUE"] = "Civilization Evolution XXIV"
 	STRING_EN[8430]["real_idx"] = 8430
 
 STRING_EN["index"][8431] = 8431
@@ -59035,14 +59035,14 @@ STRING_EN["index"][8434] = 8434
 STRING_EN[8434] = {}
 	STRING_EN[8434]["ID"] = 8434
 	STRING_EN[8434]["KEY"] = "TECHNOLOGY_UP_28"
-	STRING_EN[8434]["VALUE"] = "Civilization evolution XXVIII"
+	STRING_EN[8434]["VALUE"] = "Civilization Evolution XXVIII"
 	STRING_EN[8434]["real_idx"] = 8434
 
 STRING_EN["index"][8435] = 8435
 STRING_EN[8435] = {}
 	STRING_EN[8435]["ID"] = 8435
 	STRING_EN[8435]["KEY"] = "TECHNOLOGY_UP_29"
-	STRING_EN[8435]["VALUE"] = "Civilization evolution XXIX"
+	STRING_EN[8435]["VALUE"] = "Civilization Evolution XXIX"
 	STRING_EN[8435]["real_idx"] = 8435
 
 STRING_EN["index"][8436] = 8436
@@ -59161,945 +59161,945 @@ STRING_EN["index"][8452] = 8452
 STRING_EN[8452] = {}
 	STRING_EN[8452]["ID"] = 8452
 	STRING_EN[8452]["KEY"] = "WEAPON_UP_1"
-	STRING_EN[8452]["VALUE"] = "Skill Research 1"
+	STRING_EN[8452]["VALUE"] = "Skill Research I"
 	STRING_EN[8452]["real_idx"] = 8452
 
 STRING_EN["index"][8453] = 8453
 STRING_EN[8453] = {}
 	STRING_EN[8453]["ID"] = 8453
 	STRING_EN[8453]["KEY"] = "WEAPON_UP_2"
-	STRING_EN[8453]["VALUE"] = "Skill Research 2"
+	STRING_EN[8453]["VALUE"] = "Skill Research II"
 	STRING_EN[8453]["real_idx"] = 8453
 
 STRING_EN["index"][8454] = 8454
 STRING_EN[8454] = {}
 	STRING_EN[8454]["ID"] = 8454
 	STRING_EN[8454]["KEY"] = "WEAPON_UP_3"
-	STRING_EN[8454]["VALUE"] = "Skill Research 3"
+	STRING_EN[8454]["VALUE"] = "Skill Research III"
 	STRING_EN[8454]["real_idx"] = 8454
 
 STRING_EN["index"][8455] = 8455
 STRING_EN[8455] = {}
 	STRING_EN[8455]["ID"] = 8455
 	STRING_EN[8455]["KEY"] = "WEAPON_UP_4"
-	STRING_EN[8455]["VALUE"] = "Skill Research 4"
+	STRING_EN[8455]["VALUE"] = "Skill Research IV"
 	STRING_EN[8455]["real_idx"] = 8455
 
 STRING_EN["index"][8456] = 8456
 STRING_EN[8456] = {}
 	STRING_EN[8456]["ID"] = 8456
 	STRING_EN[8456]["KEY"] = "WEAPON_UP_5"
-	STRING_EN[8456]["VALUE"] = "Skill Research 5"
+	STRING_EN[8456]["VALUE"] = "Skill Research V"
 	STRING_EN[8456]["real_idx"] = 8456
 
 STRING_EN["index"][8457] = 8457
 STRING_EN[8457] = {}
 	STRING_EN[8457]["ID"] = 8457
 	STRING_EN[8457]["KEY"] = "WEAPON_UP_6"
-	STRING_EN[8457]["VALUE"] = "Skill Research 6"
+	STRING_EN[8457]["VALUE"] = "Skill Research VI"
 	STRING_EN[8457]["real_idx"] = 8457
 
 STRING_EN["index"][8458] = 8458
 STRING_EN[8458] = {}
 	STRING_EN[8458]["ID"] = 8458
 	STRING_EN[8458]["KEY"] = "WEAPON_UP_7"
-	STRING_EN[8458]["VALUE"] = "Skill Research 7"
+	STRING_EN[8458]["VALUE"] = "Skill Research VII"
 	STRING_EN[8458]["real_idx"] = 8458
 
 STRING_EN["index"][8459] = 8459
 STRING_EN[8459] = {}
 	STRING_EN[8459]["ID"] = 8459
 	STRING_EN[8459]["KEY"] = "WEAPON_UP_8"
-	STRING_EN[8459]["VALUE"] = "Skill Research 8"
+	STRING_EN[8459]["VALUE"] = "Skill Research VIII"
 	STRING_EN[8459]["real_idx"] = 8459
 
 STRING_EN["index"][8460] = 8460
 STRING_EN[8460] = {}
 	STRING_EN[8460]["ID"] = 8460
 	STRING_EN[8460]["KEY"] = "WEAPON_UP_9"
-	STRING_EN[8460]["VALUE"] = "Skill Research 9"
+	STRING_EN[8460]["VALUE"] = "Skill Research IX"
 	STRING_EN[8460]["real_idx"] = 8460
 
 STRING_EN["index"][8461] = 8461
 STRING_EN[8461] = {}
 	STRING_EN[8461]["ID"] = 8461
 	STRING_EN[8461]["KEY"] = "WEAPON_UP_10"
-	STRING_EN[8461]["VALUE"] = "Skill Research 10"
+	STRING_EN[8461]["VALUE"] = "Skill Research X"
 	STRING_EN[8461]["real_idx"] = 8461
 
 STRING_EN["index"][8462] = 8462
 STRING_EN[8462] = {}
 	STRING_EN[8462]["ID"] = 8462
 	STRING_EN[8462]["KEY"] = "WEAPON_UP_11"
-	STRING_EN[8462]["VALUE"] = "Skill Research 11"
+	STRING_EN[8462]["VALUE"] = "Skill Research XI"
 	STRING_EN[8462]["real_idx"] = 8462
 
 STRING_EN["index"][8463] = 8463
 STRING_EN[8463] = {}
 	STRING_EN[8463]["ID"] = 8463
 	STRING_EN[8463]["KEY"] = "WEAPON_UP_12"
-	STRING_EN[8463]["VALUE"] = "Skill Research 12"
+	STRING_EN[8463]["VALUE"] = "Skill Research XII"
 	STRING_EN[8463]["real_idx"] = 8463
 
 STRING_EN["index"][8464] = 8464
 STRING_EN[8464] = {}
 	STRING_EN[8464]["ID"] = 8464
 	STRING_EN[8464]["KEY"] = "WEAPON_UP_13"
-	STRING_EN[8464]["VALUE"] = "Skill Research 13"
+	STRING_EN[8464]["VALUE"] = "Skill Research XIII"
 	STRING_EN[8464]["real_idx"] = 8464
 
 STRING_EN["index"][8465] = 8465
 STRING_EN[8465] = {}
 	STRING_EN[8465]["ID"] = 8465
 	STRING_EN[8465]["KEY"] = "WEAPON_UP_14"
-	STRING_EN[8465]["VALUE"] = "Skill Research 14"
+	STRING_EN[8465]["VALUE"] = "Skill Research XIV"
 	STRING_EN[8465]["real_idx"] = 8465
 
 STRING_EN["index"][8466] = 8466
 STRING_EN[8466] = {}
 	STRING_EN[8466]["ID"] = 8466
 	STRING_EN[8466]["KEY"] = "WEAPON_UP_15"
-	STRING_EN[8466]["VALUE"] = "Skill Research 15"
+	STRING_EN[8466]["VALUE"] = "Skill Research XV"
 	STRING_EN[8466]["real_idx"] = 8466
 
 STRING_EN["index"][8467] = 8467
 STRING_EN[8467] = {}
 	STRING_EN[8467]["ID"] = 8467
 	STRING_EN[8467]["KEY"] = "WEAPON_UP_16"
-	STRING_EN[8467]["VALUE"] = "Skill Research 16"
+	STRING_EN[8467]["VALUE"] = "Skill Research XVI"
 	STRING_EN[8467]["real_idx"] = 8467
 
 STRING_EN["index"][8468] = 8468
 STRING_EN[8468] = {}
 	STRING_EN[8468]["ID"] = 8468
 	STRING_EN[8468]["KEY"] = "WEAPON_UP_17"
-	STRING_EN[8468]["VALUE"] = "Skill Research 17"
+	STRING_EN[8468]["VALUE"] = "Skill Research XVII"
 	STRING_EN[8468]["real_idx"] = 8468
 
 STRING_EN["index"][8469] = 8469
 STRING_EN[8469] = {}
 	STRING_EN[8469]["ID"] = 8469
 	STRING_EN[8469]["KEY"] = "WEAPON_UP_18"
-	STRING_EN[8469]["VALUE"] = "Skill Research 18"
+	STRING_EN[8469]["VALUE"] = "Skill Research XVIII"
 	STRING_EN[8469]["real_idx"] = 8469
 
 STRING_EN["index"][8470] = 8470
 STRING_EN[8470] = {}
 	STRING_EN[8470]["ID"] = 8470
 	STRING_EN[8470]["KEY"] = "WEAPON_UP_19"
-	STRING_EN[8470]["VALUE"] = "Skill Research 19"
+	STRING_EN[8470]["VALUE"] = "Skill Research XIX"
 	STRING_EN[8470]["real_idx"] = 8470
 
 STRING_EN["index"][8471] = 8471
 STRING_EN[8471] = {}
 	STRING_EN[8471]["ID"] = 8471
 	STRING_EN[8471]["KEY"] = "WEAPON_UP_20"
-	STRING_EN[8471]["VALUE"] = "Skill Research 20"
+	STRING_EN[8471]["VALUE"] = "Skill Research XX"
 	STRING_EN[8471]["real_idx"] = 8471
 
 STRING_EN["index"][8472] = 8472
 STRING_EN[8472] = {}
 	STRING_EN[8472]["ID"] = 8472
 	STRING_EN[8472]["KEY"] = "WEAPON_UP_21"
-	STRING_EN[8472]["VALUE"] = "Skill Research 21"
+	STRING_EN[8472]["VALUE"] = "Skill Research XXI"
 	STRING_EN[8472]["real_idx"] = 8472
 
 STRING_EN["index"][8473] = 8473
 STRING_EN[8473] = {}
 	STRING_EN[8473]["ID"] = 8473
 	STRING_EN[8473]["KEY"] = "WEAPON_UP_22"
-	STRING_EN[8473]["VALUE"] = "Skill Research 22"
+	STRING_EN[8473]["VALUE"] = "Skill Research XXII"
 	STRING_EN[8473]["real_idx"] = 8473
 
 STRING_EN["index"][8474] = 8474
 STRING_EN[8474] = {}
 	STRING_EN[8474]["ID"] = 8474
 	STRING_EN[8474]["KEY"] = "WEAPON_UP_23"
-	STRING_EN[8474]["VALUE"] = "Skill Research 23"
+	STRING_EN[8474]["VALUE"] = "Skill Research XXIII"
 	STRING_EN[8474]["real_idx"] = 8474
 
 STRING_EN["index"][8475] = 8475
 STRING_EN[8475] = {}
 	STRING_EN[8475]["ID"] = 8475
 	STRING_EN[8475]["KEY"] = "WEAPON_UP_24"
-	STRING_EN[8475]["VALUE"] = "Skill Research 24"
+	STRING_EN[8475]["VALUE"] = "Skill Research XXIV"
 	STRING_EN[8475]["real_idx"] = 8475
 
 STRING_EN["index"][8476] = 8476
 STRING_EN[8476] = {}
 	STRING_EN[8476]["ID"] = 8476
 	STRING_EN[8476]["KEY"] = "WEAPON_UP_25"
-	STRING_EN[8476]["VALUE"] = "Skill Research 25"
+	STRING_EN[8476]["VALUE"] = "Skill Research XXV"
 	STRING_EN[8476]["real_idx"] = 8476
 
 STRING_EN["index"][8477] = 8477
 STRING_EN[8477] = {}
 	STRING_EN[8477]["ID"] = 8477
 	STRING_EN[8477]["KEY"] = "WEAPON_UP_26"
-	STRING_EN[8477]["VALUE"] = "Skill Research 26"
+	STRING_EN[8477]["VALUE"] = "Skill Research XXVI"
 	STRING_EN[8477]["real_idx"] = 8477
 
 STRING_EN["index"][8478] = 8478
 STRING_EN[8478] = {}
 	STRING_EN[8478]["ID"] = 8478
 	STRING_EN[8478]["KEY"] = "WEAPON_UP_27"
-	STRING_EN[8478]["VALUE"] = "Skill Research 27"
+	STRING_EN[8478]["VALUE"] = "Skill Research XXVII"
 	STRING_EN[8478]["real_idx"] = 8478
 
 STRING_EN["index"][8479] = 8479
 STRING_EN[8479] = {}
 	STRING_EN[8479]["ID"] = 8479
 	STRING_EN[8479]["KEY"] = "WEAPON_UP_28"
-	STRING_EN[8479]["VALUE"] = "Skill Research 28"
+	STRING_EN[8479]["VALUE"] = "Skill Research XXVIII"
 	STRING_EN[8479]["real_idx"] = 8479
 
 STRING_EN["index"][8480] = 8480
 STRING_EN[8480] = {}
 	STRING_EN[8480]["ID"] = 8480
 	STRING_EN[8480]["KEY"] = "WEAPON_UP_29"
-	STRING_EN[8480]["VALUE"] = "Skill Research 29"
+	STRING_EN[8480]["VALUE"] = "Skill Research XXIX"
 	STRING_EN[8480]["real_idx"] = 8480
 
 STRING_EN["index"][8481] = 8481
 STRING_EN[8481] = {}
 	STRING_EN[8481]["ID"] = 8481
 	STRING_EN[8481]["KEY"] = "WEAPON_UP_30"
-	STRING_EN[8481]["VALUE"] = "Skill Research 30"
+	STRING_EN[8481]["VALUE"] = "Skill Research XXX"
 	STRING_EN[8481]["real_idx"] = 8481
 
 STRING_EN["index"][8482] = 8482
 STRING_EN[8482] = {}
 	STRING_EN[8482]["ID"] = 8482
 	STRING_EN[8482]["KEY"] = "WEAPON_UP_31"
-	STRING_EN[8482]["VALUE"] = "Skill Research 31"
+	STRING_EN[8482]["VALUE"] = "Skill Research XXXI"
 	STRING_EN[8482]["real_idx"] = 8482
 
 STRING_EN["index"][8483] = 8483
 STRING_EN[8483] = {}
 	STRING_EN[8483]["ID"] = 8483
 	STRING_EN[8483]["KEY"] = "WEAPON_UP_32"
-	STRING_EN[8483]["VALUE"] = "Skill Research 32"
+	STRING_EN[8483]["VALUE"] = "Skill Research XXXII"
 	STRING_EN[8483]["real_idx"] = 8483
 
 STRING_EN["index"][8484] = 8484
 STRING_EN[8484] = {}
 	STRING_EN[8484]["ID"] = 8484
 	STRING_EN[8484]["KEY"] = "WEAPON_UP_33"
-	STRING_EN[8484]["VALUE"] = "Skill Research 33"
+	STRING_EN[8484]["VALUE"] = "Skill Research XXXIII"
 	STRING_EN[8484]["real_idx"] = 8484
 
 STRING_EN["index"][8485] = 8485
 STRING_EN[8485] = {}
 	STRING_EN[8485]["ID"] = 8485
 	STRING_EN[8485]["KEY"] = "WEAPON_UP_34"
-	STRING_EN[8485]["VALUE"] = "Skill Research 34"
+	STRING_EN[8485]["VALUE"] = "Skill Research XXXIV"
 	STRING_EN[8485]["real_idx"] = 8485
 
 STRING_EN["index"][8486] = 8486
 STRING_EN[8486] = {}
 	STRING_EN[8486]["ID"] = 8486
 	STRING_EN[8486]["KEY"] = "WEAPON_UP_35"
-	STRING_EN[8486]["VALUE"] = "Skill Research 35"
+	STRING_EN[8486]["VALUE"] = "Skill Research XXXV"
 	STRING_EN[8486]["real_idx"] = 8486
 
 STRING_EN["index"][8487] = 8487
 STRING_EN[8487] = {}
 	STRING_EN[8487]["ID"] = 8487
 	STRING_EN[8487]["KEY"] = "WEAPON_UP_36"
-	STRING_EN[8487]["VALUE"] = "Skill Research 36"
+	STRING_EN[8487]["VALUE"] = "Skill Research XXXVI"
 	STRING_EN[8487]["real_idx"] = 8487
 
 STRING_EN["index"][8488] = 8488
 STRING_EN[8488] = {}
 	STRING_EN[8488]["ID"] = 8488
 	STRING_EN[8488]["KEY"] = "WEAPON_UP_37"
-	STRING_EN[8488]["VALUE"] = "Skill Research 37"
+	STRING_EN[8488]["VALUE"] = "Skill Research XXXVII"
 	STRING_EN[8488]["real_idx"] = 8488
 
 STRING_EN["index"][8489] = 8489
 STRING_EN[8489] = {}
 	STRING_EN[8489]["ID"] = 8489
 	STRING_EN[8489]["KEY"] = "WEAPON_UP_38"
-	STRING_EN[8489]["VALUE"] = "Skill Research 38"
+	STRING_EN[8489]["VALUE"] = "Skill Research XXXVIII"
 	STRING_EN[8489]["real_idx"] = 8489
 
 STRING_EN["index"][8490] = 8490
 STRING_EN[8490] = {}
 	STRING_EN[8490]["ID"] = 8490
 	STRING_EN[8490]["KEY"] = "WEAPON_UP_39"
-	STRING_EN[8490]["VALUE"] = "Skill Research 39"
+	STRING_EN[8490]["VALUE"] = "Skill Research XXXIX"
 	STRING_EN[8490]["real_idx"] = 8490
 
 STRING_EN["index"][8491] = 8491
 STRING_EN[8491] = {}
 	STRING_EN[8491]["ID"] = 8491
 	STRING_EN[8491]["KEY"] = "WEAPON_UP_40"
-	STRING_EN[8491]["VALUE"] = "Skill Research 40"
+	STRING_EN[8491]["VALUE"] = "Skill Research XL"
 	STRING_EN[8491]["real_idx"] = 8491
 
 STRING_EN["index"][8492] = 8492
 STRING_EN[8492] = {}
 	STRING_EN[8492]["ID"] = 8492
 	STRING_EN[8492]["KEY"] = "WEAPON_UP_41"
-	STRING_EN[8492]["VALUE"] = "Skill Research 41"
+	STRING_EN[8492]["VALUE"] = "Skill Research XLI"
 	STRING_EN[8492]["real_idx"] = 8492
 
 STRING_EN["index"][8493] = 8493
 STRING_EN[8493] = {}
 	STRING_EN[8493]["ID"] = 8493
 	STRING_EN[8493]["KEY"] = "WEAPON_UP_42"
-	STRING_EN[8493]["VALUE"] = "Skill Research 42"
+	STRING_EN[8493]["VALUE"] = "Skill Research XLII"
 	STRING_EN[8493]["real_idx"] = 8493
 
 STRING_EN["index"][8494] = 8494
 STRING_EN[8494] = {}
 	STRING_EN[8494]["ID"] = 8494
 	STRING_EN[8494]["KEY"] = "WEAPON_UP_43"
-	STRING_EN[8494]["VALUE"] = "Skill Research 43"
+	STRING_EN[8494]["VALUE"] = "Skill Research XLIII"
 	STRING_EN[8494]["real_idx"] = 8494
 
 STRING_EN["index"][8495] = 8495
 STRING_EN[8495] = {}
 	STRING_EN[8495]["ID"] = 8495
 	STRING_EN[8495]["KEY"] = "WEAPON_UP_44"
-	STRING_EN[8495]["VALUE"] = "Skill Research 44"
+	STRING_EN[8495]["VALUE"] = "Skill Research XLIV"
 	STRING_EN[8495]["real_idx"] = 8495
 
 STRING_EN["index"][8496] = 8496
 STRING_EN[8496] = {}
 	STRING_EN[8496]["ID"] = 8496
 	STRING_EN[8496]["KEY"] = "WEAPON_UP_45"
-	STRING_EN[8496]["VALUE"] = "Skill Research 45"
+	STRING_EN[8496]["VALUE"] = "Skill Research XLV"
 	STRING_EN[8496]["real_idx"] = 8496
 
 STRING_EN["index"][8497] = 8497
 STRING_EN[8497] = {}
 	STRING_EN[8497]["ID"] = 8497
 	STRING_EN[8497]["KEY"] = "MISSION_FINISH_1"
-	STRING_EN[8497]["VALUE"] = "Endless learning 1"
+	STRING_EN[8497]["VALUE"] = "Endless Learning I"
 	STRING_EN[8497]["real_idx"] = 8497
 
 STRING_EN["index"][8498] = 8498
 STRING_EN[8498] = {}
 	STRING_EN[8498]["ID"] = 8498
 	STRING_EN[8498]["KEY"] = "MISSION_FINISH_2"
-	STRING_EN[8498]["VALUE"] = "Endless learning 2"
+	STRING_EN[8498]["VALUE"] = "Endless Learning II"
 	STRING_EN[8498]["real_idx"] = 8498
 
 STRING_EN["index"][8499] = 8499
 STRING_EN[8499] = {}
 	STRING_EN[8499]["ID"] = 8499
 	STRING_EN[8499]["KEY"] = "MISSION_FINISH_3"
-	STRING_EN[8499]["VALUE"] = "Endless learning 3"
+	STRING_EN[8499]["VALUE"] = "Endless Learning III"
 	STRING_EN[8499]["real_idx"] = 8499
 
 STRING_EN["index"][8500] = 8500
 STRING_EN[8500] = {}
 	STRING_EN[8500]["ID"] = 8500
 	STRING_EN[8500]["KEY"] = "MISSION_FINISH_4"
-	STRING_EN[8500]["VALUE"] = "Endless learning 4"
+	STRING_EN[8500]["VALUE"] = "Endless Learning IV"
 	STRING_EN[8500]["real_idx"] = 8500
 
 STRING_EN["index"][8501] = 8501
 STRING_EN[8501] = {}
 	STRING_EN[8501]["ID"] = 8501
 	STRING_EN[8501]["KEY"] = "MISSION_FINISH_5"
-	STRING_EN[8501]["VALUE"] = "Endless learning 5"
+	STRING_EN[8501]["VALUE"] = "Endless Learning V"
 	STRING_EN[8501]["real_idx"] = 8501
 
 STRING_EN["index"][8502] = 8502
 STRING_EN[8502] = {}
 	STRING_EN[8502]["ID"] = 8502
 	STRING_EN[8502]["KEY"] = "MISSION_FINISH_6"
-	STRING_EN[8502]["VALUE"] = "Endless learning 6"
+	STRING_EN[8502]["VALUE"] = "Endless Learning VI"
 	STRING_EN[8502]["real_idx"] = 8502
 
 STRING_EN["index"][8503] = 8503
 STRING_EN[8503] = {}
 	STRING_EN[8503]["ID"] = 8503
 	STRING_EN[8503]["KEY"] = "MISSION_FINISH_7"
-	STRING_EN[8503]["VALUE"] = "Endless learning 7"
+	STRING_EN[8503]["VALUE"] = "Endless Learning VII"
 	STRING_EN[8503]["real_idx"] = 8503
 
 STRING_EN["index"][8504] = 8504
 STRING_EN[8504] = {}
 	STRING_EN[8504]["ID"] = 8504
 	STRING_EN[8504]["KEY"] = "MISSION_FINISH_8"
-	STRING_EN[8504]["VALUE"] = "Endless learning 8"
+	STRING_EN[8504]["VALUE"] = "Endless Learning VIII"
 	STRING_EN[8504]["real_idx"] = 8504
 
 STRING_EN["index"][8505] = 8505
 STRING_EN[8505] = {}
 	STRING_EN[8505]["ID"] = 8505
 	STRING_EN[8505]["KEY"] = "MISSION_FINISH_9"
-	STRING_EN[8505]["VALUE"] = "Endless learning 9"
+	STRING_EN[8505]["VALUE"] = "Endless Learning IX"
 	STRING_EN[8505]["real_idx"] = 8505
 
 STRING_EN["index"][8506] = 8506
 STRING_EN[8506] = {}
 	STRING_EN[8506]["ID"] = 8506
 	STRING_EN[8506]["KEY"] = "MISSION_FINISH_10"
-	STRING_EN[8506]["VALUE"] = "Endless learning 10"
+	STRING_EN[8506]["VALUE"] = "Endless Learning X"
 	STRING_EN[8506]["real_idx"] = 8506
 
 STRING_EN["index"][8507] = 8507
 STRING_EN[8507] = {}
 	STRING_EN[8507]["ID"] = 8507
 	STRING_EN[8507]["KEY"] = "MISSION_FINISH_11"
-	STRING_EN[8507]["VALUE"] = "Endless learning 11"
+	STRING_EN[8507]["VALUE"] = "Endless Learning XI"
 	STRING_EN[8507]["real_idx"] = 8507
 
 STRING_EN["index"][8508] = 8508
 STRING_EN[8508] = {}
 	STRING_EN[8508]["ID"] = 8508
 	STRING_EN[8508]["KEY"] = "MISSION_FINISH_12"
-	STRING_EN[8508]["VALUE"] = "Endless learning 12"
+	STRING_EN[8508]["VALUE"] = "Endless Learning XII"
 	STRING_EN[8508]["real_idx"] = 8508
 
 STRING_EN["index"][8509] = 8509
 STRING_EN[8509] = {}
 	STRING_EN[8509]["ID"] = 8509
 	STRING_EN[8509]["KEY"] = "MISSION_FINISH_13"
-	STRING_EN[8509]["VALUE"] = "Endless learning 13"
+	STRING_EN[8509]["VALUE"] = "Endless Learning XIII"
 	STRING_EN[8509]["real_idx"] = 8509
 
 STRING_EN["index"][8510] = 8510
 STRING_EN[8510] = {}
 	STRING_EN[8510]["ID"] = 8510
 	STRING_EN[8510]["KEY"] = "MISSION_FINISH_14"
-	STRING_EN[8510]["VALUE"] = "Endless learning 14"
+	STRING_EN[8510]["VALUE"] = "Endless Learning XIV"
 	STRING_EN[8510]["real_idx"] = 8510
 
 STRING_EN["index"][8511] = 8511
 STRING_EN[8511] = {}
 	STRING_EN[8511]["ID"] = 8511
 	STRING_EN[8511]["KEY"] = "MISSION_FINISH_15"
-	STRING_EN[8511]["VALUE"] = "Endless learning 15"
+	STRING_EN[8511]["VALUE"] = "Endless Learning XV"
 	STRING_EN[8511]["real_idx"] = 8511
 
 STRING_EN["index"][8512] = 8512
 STRING_EN[8512] = {}
 	STRING_EN[8512]["ID"] = 8512
 	STRING_EN[8512]["KEY"] = "MISSION_FINISH_16"
-	STRING_EN[8512]["VALUE"] = "Endless learning 16"
+	STRING_EN[8512]["VALUE"] = "Endless Learning XVI"
 	STRING_EN[8512]["real_idx"] = 8512
 
 STRING_EN["index"][8513] = 8513
 STRING_EN[8513] = {}
 	STRING_EN[8513]["ID"] = 8513
 	STRING_EN[8513]["KEY"] = "MISSION_FINISH_17"
-	STRING_EN[8513]["VALUE"] = "Endless learning 17"
+	STRING_EN[8513]["VALUE"] = "Endless Learning XVII"
 	STRING_EN[8513]["real_idx"] = 8513
 
 STRING_EN["index"][8514] = 8514
 STRING_EN[8514] = {}
 	STRING_EN[8514]["ID"] = 8514
 	STRING_EN[8514]["KEY"] = "MISSION_FINISH_18"
-	STRING_EN[8514]["VALUE"] = "Endless learning 18"
+	STRING_EN[8514]["VALUE"] = "Endless Learning XVIII"
 	STRING_EN[8514]["real_idx"] = 8514
 
 STRING_EN["index"][8515] = 8515
 STRING_EN[8515] = {}
 	STRING_EN[8515]["ID"] = 8515
 	STRING_EN[8515]["KEY"] = "MISSION_FINISH_19"
-	STRING_EN[8515]["VALUE"] = "Endless learning 19"
+	STRING_EN[8515]["VALUE"] = "Endless Learning XIX"
 	STRING_EN[8515]["real_idx"] = 8515
 
 STRING_EN["index"][8516] = 8516
 STRING_EN[8516] = {}
 	STRING_EN[8516]["ID"] = 8516
 	STRING_EN[8516]["KEY"] = "MISSION_FINISH_20"
-	STRING_EN[8516]["VALUE"] = "Endless learning 20"
+	STRING_EN[8516]["VALUE"] = "Endless Learning XX"
 	STRING_EN[8516]["real_idx"] = 8516
 
 STRING_EN["index"][8517] = 8517
 STRING_EN[8517] = {}
 	STRING_EN[8517]["ID"] = 8517
 	STRING_EN[8517]["KEY"] = "MISSION_FINISH_21"
-	STRING_EN[8517]["VALUE"] = "Endless learning 21"
+	STRING_EN[8517]["VALUE"] = "Endless Learning XXI"
 	STRING_EN[8517]["real_idx"] = 8517
 
 STRING_EN["index"][8518] = 8518
 STRING_EN[8518] = {}
 	STRING_EN[8518]["ID"] = 8518
 	STRING_EN[8518]["KEY"] = "MISSION_FINISH_22"
-	STRING_EN[8518]["VALUE"] = "Endless learning 22"
+	STRING_EN[8518]["VALUE"] = "Endless Learning XXII"
 	STRING_EN[8518]["real_idx"] = 8518
 
 STRING_EN["index"][8519] = 8519
 STRING_EN[8519] = {}
 	STRING_EN[8519]["ID"] = 8519
 	STRING_EN[8519]["KEY"] = "MISSION_FINISH_23"
-	STRING_EN[8519]["VALUE"] = "Endless learning 23"
+	STRING_EN[8519]["VALUE"] = "Endless Learning XXIII"
 	STRING_EN[8519]["real_idx"] = 8519
 
 STRING_EN["index"][8520] = 8520
 STRING_EN[8520] = {}
 	STRING_EN[8520]["ID"] = 8520
 	STRING_EN[8520]["KEY"] = "MISSION_FINISH_24"
-	STRING_EN[8520]["VALUE"] = "Endless learning 24"
+	STRING_EN[8520]["VALUE"] = "Endless Learning XXIV"
 	STRING_EN[8520]["real_idx"] = 8520
 
 STRING_EN["index"][8521] = 8521
 STRING_EN[8521] = {}
 	STRING_EN[8521]["ID"] = 8521
 	STRING_EN[8521]["KEY"] = "MISSION_FINISH_25"
-	STRING_EN[8521]["VALUE"] = "Endless learning 25"
+	STRING_EN[8521]["VALUE"] = "Endless Learning XXV"
 	STRING_EN[8521]["real_idx"] = 8521
 
 STRING_EN["index"][8522] = 8522
 STRING_EN[8522] = {}
 	STRING_EN[8522]["ID"] = 8522
 	STRING_EN[8522]["KEY"] = "MISSION_FINISH_26"
-	STRING_EN[8522]["VALUE"] = "Endless learning 26"
+	STRING_EN[8522]["VALUE"] = "Endless Learning XXVI"
 	STRING_EN[8522]["real_idx"] = 8522
 
 STRING_EN["index"][8523] = 8523
 STRING_EN[8523] = {}
 	STRING_EN[8523]["ID"] = 8523
 	STRING_EN[8523]["KEY"] = "MISSION_FINISH_27"
-	STRING_EN[8523]["VALUE"] = "Endless learning 27"
+	STRING_EN[8523]["VALUE"] = "Endless Learning XXVII"
 	STRING_EN[8523]["real_idx"] = 8523
 
 STRING_EN["index"][8524] = 8524
 STRING_EN[8524] = {}
 	STRING_EN[8524]["ID"] = 8524
 	STRING_EN[8524]["KEY"] = "MISSION_FINISH_28"
-	STRING_EN[8524]["VALUE"] = "Endless learning 28"
+	STRING_EN[8524]["VALUE"] = "Endless Learning XXVIII"
 	STRING_EN[8524]["real_idx"] = 8524
 
 STRING_EN["index"][8525] = 8525
 STRING_EN[8525] = {}
 	STRING_EN[8525]["ID"] = 8525
 	STRING_EN[8525]["KEY"] = "MISSION_FINISH_29"
-	STRING_EN[8525]["VALUE"] = "Endless learning 29"
+	STRING_EN[8525]["VALUE"] = "Endless Learning XXIX"
 	STRING_EN[8525]["real_idx"] = 8525
 
 STRING_EN["index"][8526] = 8526
 STRING_EN[8526] = {}
 	STRING_EN[8526]["ID"] = 8526
 	STRING_EN[8526]["KEY"] = "MISSION_FINISH_30"
-	STRING_EN[8526]["VALUE"] = "Endless learning 30"
+	STRING_EN[8526]["VALUE"] = "Endless Learning XXX"
 	STRING_EN[8526]["real_idx"] = 8526
 
 STRING_EN["index"][8527] = 8527
 STRING_EN[8527] = {}
 	STRING_EN[8527]["ID"] = 8527
 	STRING_EN[8527]["KEY"] = "MISSION_FINISH_31"
-	STRING_EN[8527]["VALUE"] = "Endless learning 31"
+	STRING_EN[8527]["VALUE"] = "Endless Learning XXXI"
 	STRING_EN[8527]["real_idx"] = 8527
 
 STRING_EN["index"][8528] = 8528
 STRING_EN[8528] = {}
 	STRING_EN[8528]["ID"] = 8528
 	STRING_EN[8528]["KEY"] = "MISSION_FINISH_32"
-	STRING_EN[8528]["VALUE"] = "Endless learning 32"
+	STRING_EN[8528]["VALUE"] = "Endless Learning XXXII"
 	STRING_EN[8528]["real_idx"] = 8528
 
 STRING_EN["index"][8529] = 8529
 STRING_EN[8529] = {}
 	STRING_EN[8529]["ID"] = 8529
 	STRING_EN[8529]["KEY"] = "MISSION_FINISH_33"
-	STRING_EN[8529]["VALUE"] = "Endless learning 33"
+	STRING_EN[8529]["VALUE"] = "Endless Learning XXXIII"
 	STRING_EN[8529]["real_idx"] = 8529
 
 STRING_EN["index"][8530] = 8530
 STRING_EN[8530] = {}
 	STRING_EN[8530]["ID"] = 8530
 	STRING_EN[8530]["KEY"] = "MISSION_FINISH_34"
-	STRING_EN[8530]["VALUE"] = "Endless learning 34"
+	STRING_EN[8530]["VALUE"] = "Endless Learning XXXIV"
 	STRING_EN[8530]["real_idx"] = 8530
 
 STRING_EN["index"][8531] = 8531
 STRING_EN[8531] = {}
 	STRING_EN[8531]["ID"] = 8531
 	STRING_EN[8531]["KEY"] = "MISSION_FINISH_35"
-	STRING_EN[8531]["VALUE"] = "Endless learning 35"
+	STRING_EN[8531]["VALUE"] = "Endless Learning XXXV"
 	STRING_EN[8531]["real_idx"] = 8531
 
 STRING_EN["index"][8532] = 8532
 STRING_EN[8532] = {}
 	STRING_EN[8532]["ID"] = 8532
 	STRING_EN[8532]["KEY"] = "MISSION_FINISH_36"
-	STRING_EN[8532]["VALUE"] = "Endless learning 36"
+	STRING_EN[8532]["VALUE"] = "Endless Learning XXXVI"
 	STRING_EN[8532]["real_idx"] = 8532
 
 STRING_EN["index"][8533] = 8533
 STRING_EN[8533] = {}
 	STRING_EN[8533]["ID"] = 8533
 	STRING_EN[8533]["KEY"] = "MISSION_FINISH_37"
-	STRING_EN[8533]["VALUE"] = "Endless learning 37"
+	STRING_EN[8533]["VALUE"] = "Endless Learning XXXVII"
 	STRING_EN[8533]["real_idx"] = 8533
 
 STRING_EN["index"][8534] = 8534
 STRING_EN[8534] = {}
 	STRING_EN[8534]["ID"] = 8534
 	STRING_EN[8534]["KEY"] = "MISSION_FINISH_38"
-	STRING_EN[8534]["VALUE"] = "Endless learning 38"
+	STRING_EN[8534]["VALUE"] = "Endless Learning XXXVIII"
 	STRING_EN[8534]["real_idx"] = 8534
 
 STRING_EN["index"][8535] = 8535
 STRING_EN[8535] = {}
 	STRING_EN[8535]["ID"] = 8535
 	STRING_EN[8535]["KEY"] = "MISSION_FINISH_39"
-	STRING_EN[8535]["VALUE"] = "Endless learning 39"
+	STRING_EN[8535]["VALUE"] = "Endless Learning XXXIX"
 	STRING_EN[8535]["real_idx"] = 8535
 
 STRING_EN["index"][8536] = 8536
 STRING_EN[8536] = {}
 	STRING_EN[8536]["ID"] = 8536
 	STRING_EN[8536]["KEY"] = "MISSION_FINISH_40"
-	STRING_EN[8536]["VALUE"] = "Endless learning 40"
+	STRING_EN[8536]["VALUE"] = "Endless Learning XL"
 	STRING_EN[8536]["real_idx"] = 8536
 
 STRING_EN["index"][8537] = 8537
 STRING_EN[8537] = {}
 	STRING_EN[8537]["ID"] = 8537
 	STRING_EN[8537]["KEY"] = "MISSION_FINISH_41"
-	STRING_EN[8537]["VALUE"] = "Endless learning 41"
+	STRING_EN[8537]["VALUE"] = "Endless Learning XLI"
 	STRING_EN[8537]["real_idx"] = 8537
 
 STRING_EN["index"][8538] = 8538
 STRING_EN[8538] = {}
 	STRING_EN[8538]["ID"] = 8538
 	STRING_EN[8538]["KEY"] = "MISSION_FINISH_42"
-	STRING_EN[8538]["VALUE"] = "Endless learning 42"
+	STRING_EN[8538]["VALUE"] = "Endless Learning XLII"
 	STRING_EN[8538]["real_idx"] = 8538
 
 STRING_EN["index"][8539] = 8539
 STRING_EN[8539] = {}
 	STRING_EN[8539]["ID"] = 8539
 	STRING_EN[8539]["KEY"] = "MISSION_FINISH_43"
-	STRING_EN[8539]["VALUE"] = "Endless learning 43"
+	STRING_EN[8539]["VALUE"] = "Endless Learning XLIII"
 	STRING_EN[8539]["real_idx"] = 8539
 
 STRING_EN["index"][8540] = 8540
 STRING_EN[8540] = {}
 	STRING_EN[8540]["ID"] = 8540
 	STRING_EN[8540]["KEY"] = "MISSION_FINISH_44"
-	STRING_EN[8540]["VALUE"] = "Endless learning 44"
+	STRING_EN[8540]["VALUE"] = "Endless Learning XLIV"
 	STRING_EN[8540]["real_idx"] = 8540
 
 STRING_EN["index"][8541] = 8541
 STRING_EN[8541] = {}
 	STRING_EN[8541]["ID"] = 8541
 	STRING_EN[8541]["KEY"] = "MISSION_FINISH_45"
-	STRING_EN[8541]["VALUE"] = "Endless learning 45"
+	STRING_EN[8541]["VALUE"] = "Endless Learning XLV"
 	STRING_EN[8541]["real_idx"] = 8541
 
 STRING_EN["index"][8542] = 8542
 STRING_EN[8542] = {}
 	STRING_EN[8542]["ID"] = 8542
 	STRING_EN[8542]["KEY"] = "ENSLAVE_SUCCEED_1"
-	STRING_EN[8542]["VALUE"] = "pizhan 1"
+	STRING_EN[8542]["VALUE"] = "Invincible I"
 	STRING_EN[8542]["real_idx"] = 8542
 
 STRING_EN["index"][8543] = 8543
 STRING_EN[8543] = {}
 	STRING_EN[8543]["ID"] = 8543
 	STRING_EN[8543]["KEY"] = "ENSLAVE_SUCCEED_2"
-	STRING_EN[8543]["VALUE"] = "pizhan 2"
+	STRING_EN[8543]["VALUE"] = "Invincible II"
 	STRING_EN[8543]["real_idx"] = 8543
 
 STRING_EN["index"][8544] = 8544
 STRING_EN[8544] = {}
 	STRING_EN[8544]["ID"] = 8544
 	STRING_EN[8544]["KEY"] = "ENSLAVE_SUCCEED_3"
-	STRING_EN[8544]["VALUE"] = "pizhan 3"
+	STRING_EN[8544]["VALUE"] = "Invincible III"
 	STRING_EN[8544]["real_idx"] = 8544
 
 STRING_EN["index"][8545] = 8545
 STRING_EN[8545] = {}
 	STRING_EN[8545]["ID"] = 8545
 	STRING_EN[8545]["KEY"] = "ENSLAVE_SUCCEED_4"
-	STRING_EN[8545]["VALUE"] = "pizhan 4"
+	STRING_EN[8545]["VALUE"] = "Invincible IV"
 	STRING_EN[8545]["real_idx"] = 8545
 
 STRING_EN["index"][8546] = 8546
 STRING_EN[8546] = {}
 	STRING_EN[8546]["ID"] = 8546
 	STRING_EN[8546]["KEY"] = "ENSLAVE_SUCCEED_5"
-	STRING_EN[8546]["VALUE"] = "pizhan 5"
+	STRING_EN[8546]["VALUE"] = "Invincible V"
 	STRING_EN[8546]["real_idx"] = 8546
 
 STRING_EN["index"][8547] = 8547
 STRING_EN[8547] = {}
 	STRING_EN[8547]["ID"] = 8547
 	STRING_EN[8547]["KEY"] = "ENSLAVE_SUCCEED_6"
-	STRING_EN[8547]["VALUE"] = "pizhan 6"
+	STRING_EN[8547]["VALUE"] = "Invincible VI"
 	STRING_EN[8547]["real_idx"] = 8547
 
 STRING_EN["index"][8548] = 8548
 STRING_EN[8548] = {}
 	STRING_EN[8548]["ID"] = 8548
 	STRING_EN[8548]["KEY"] = "ENSLAVE_SUCCEED_7"
-	STRING_EN[8548]["VALUE"] = "pizhan 7"
+	STRING_EN[8548]["VALUE"] = "Invincible VII"
 	STRING_EN[8548]["real_idx"] = 8548
 
 STRING_EN["index"][8549] = 8549
 STRING_EN[8549] = {}
 	STRING_EN[8549]["ID"] = 8549
 	STRING_EN[8549]["KEY"] = "ENSLAVE_SUCCEED_8"
-	STRING_EN[8549]["VALUE"] = "pizhan 8"
+	STRING_EN[8549]["VALUE"] = "Invincible VIII"
 	STRING_EN[8549]["real_idx"] = 8549
 
 STRING_EN["index"][8550] = 8550
 STRING_EN[8550] = {}
 	STRING_EN[8550]["ID"] = 8550
 	STRING_EN[8550]["KEY"] = "ENSLAVE_SUCCEED_9"
-	STRING_EN[8550]["VALUE"] = "pizhan 9"
+	STRING_EN[8550]["VALUE"] = "Invincible IX"
 	STRING_EN[8550]["real_idx"] = 8550
 
 STRING_EN["index"][8551] = 8551
 STRING_EN[8551] = {}
 	STRING_EN[8551]["ID"] = 8551
 	STRING_EN[8551]["KEY"] = "ENSLAVE_SUCCEED_10"
-	STRING_EN[8551]["VALUE"] = "pizhan 10"
+	STRING_EN[8551]["VALUE"] = "Invincible X"
 	STRING_EN[8551]["real_idx"] = 8551
 
 STRING_EN["index"][8552] = 8552
 STRING_EN[8552] = {}
 	STRING_EN[8552]["ID"] = 8552
 	STRING_EN[8552]["KEY"] = "ENSLAVE_SUCCEED_11"
-	STRING_EN[8552]["VALUE"] = "pizhan 11"
+	STRING_EN[8552]["VALUE"] = "Invincible XI"
 	STRING_EN[8552]["real_idx"] = 8552
 
 STRING_EN["index"][8553] = 8553
 STRING_EN[8553] = {}
 	STRING_EN[8553]["ID"] = 8553
 	STRING_EN[8553]["KEY"] = "ENSLAVE_SUCCEED_12"
-	STRING_EN[8553]["VALUE"] = "pizhan 12"
+	STRING_EN[8553]["VALUE"] = "Invincible XII"
 	STRING_EN[8553]["real_idx"] = 8553
 
 STRING_EN["index"][8554] = 8554
 STRING_EN[8554] = {}
 	STRING_EN[8554]["ID"] = 8554
 	STRING_EN[8554]["KEY"] = "ENSLAVE_SUCCEED_13"
-	STRING_EN[8554]["VALUE"] = "pizhan 13"
+	STRING_EN[8554]["VALUE"] = "Invincible XIII"
 	STRING_EN[8554]["real_idx"] = 8554
 
 STRING_EN["index"][8555] = 8555
 STRING_EN[8555] = {}
 	STRING_EN[8555]["ID"] = 8555
 	STRING_EN[8555]["KEY"] = "ENSLAVE_SUCCEED_14"
-	STRING_EN[8555]["VALUE"] = "pizhan 14"
+	STRING_EN[8555]["VALUE"] = "Invincible XIV"
 	STRING_EN[8555]["real_idx"] = 8555
 
 STRING_EN["index"][8556] = 8556
 STRING_EN[8556] = {}
 	STRING_EN[8556]["ID"] = 8556
 	STRING_EN[8556]["KEY"] = "ENSLAVE_SUCCEED_15"
-	STRING_EN[8556]["VALUE"] = "pizhan 15"
+	STRING_EN[8556]["VALUE"] = "Invincible XV"
 	STRING_EN[8556]["real_idx"] = 8556
 
 STRING_EN["index"][8557] = 8557
 STRING_EN[8557] = {}
 	STRING_EN[8557]["ID"] = 8557
 	STRING_EN[8557]["KEY"] = "ENSLAVE_SUCCEED_16"
-	STRING_EN[8557]["VALUE"] = "pizhan 16"
+	STRING_EN[8557]["VALUE"] = "Invincible XVI"
 	STRING_EN[8557]["real_idx"] = 8557
 
 STRING_EN["index"][8558] = 8558
 STRING_EN[8558] = {}
 	STRING_EN[8558]["ID"] = 8558
 	STRING_EN[8558]["KEY"] = "ENSLAVE_SUCCEED_17"
-	STRING_EN[8558]["VALUE"] = "pizhan 17"
+	STRING_EN[8558]["VALUE"] = "Invincible XVII"
 	STRING_EN[8558]["real_idx"] = 8558
 
 STRING_EN["index"][8559] = 8559
 STRING_EN[8559] = {}
 	STRING_EN[8559]["ID"] = 8559
 	STRING_EN[8559]["KEY"] = "ENSLAVE_SUCCEED_18"
-	STRING_EN[8559]["VALUE"] = "pizhan 18"
+	STRING_EN[8559]["VALUE"] = "Invincible XVIII"
 	STRING_EN[8559]["real_idx"] = 8559
 
 STRING_EN["index"][8560] = 8560
 STRING_EN[8560] = {}
 	STRING_EN[8560]["ID"] = 8560
 	STRING_EN[8560]["KEY"] = "ENSLAVE_SUCCEED_19"
-	STRING_EN[8560]["VALUE"] = "pizhan 19"
+	STRING_EN[8560]["VALUE"] = "Invincible XIX"
 	STRING_EN[8560]["real_idx"] = 8560
 
 STRING_EN["index"][8561] = 8561
 STRING_EN[8561] = {}
 	STRING_EN[8561]["ID"] = 8561
 	STRING_EN[8561]["KEY"] = "ENSLAVE_SUCCEED_20"
-	STRING_EN[8561]["VALUE"] = "pizhan 20"
+	STRING_EN[8561]["VALUE"] = "Invincible XX"
 	STRING_EN[8561]["real_idx"] = 8561
 
 STRING_EN["index"][8562] = 8562
 STRING_EN[8562] = {}
 	STRING_EN[8562]["ID"] = 8562
 	STRING_EN[8562]["KEY"] = "ENSLAVE_SUCCEED_21"
-	STRING_EN[8562]["VALUE"] = "pizhan 21"
+	STRING_EN[8562]["VALUE"] = "Invincible XXI"
 	STRING_EN[8562]["real_idx"] = 8562
 
 STRING_EN["index"][8563] = 8563
 STRING_EN[8563] = {}
 	STRING_EN[8563]["ID"] = 8563
 	STRING_EN[8563]["KEY"] = "ENSLAVE_SUCCEED_22"
-	STRING_EN[8563]["VALUE"] = "pizhan 22"
+	STRING_EN[8563]["VALUE"] = "Invincible XXII"
 	STRING_EN[8563]["real_idx"] = 8563
 
 STRING_EN["index"][8564] = 8564
 STRING_EN[8564] = {}
 	STRING_EN[8564]["ID"] = 8564
 	STRING_EN[8564]["KEY"] = "ENSLAVE_SUCCEED_23"
-	STRING_EN[8564]["VALUE"] = "pizhan 23"
+	STRING_EN[8564]["VALUE"] = "Invincible XXIII"
 	STRING_EN[8564]["real_idx"] = 8564
 
 STRING_EN["index"][8565] = 8565
 STRING_EN[8565] = {}
 	STRING_EN[8565]["ID"] = 8565
 	STRING_EN[8565]["KEY"] = "ENSLAVE_SUCCEED_24"
-	STRING_EN[8565]["VALUE"] = "pizhan 24"
+	STRING_EN[8565]["VALUE"] = "Invincible XXIV"
 	STRING_EN[8565]["real_idx"] = 8565
 
 STRING_EN["index"][8566] = 8566
 STRING_EN[8566] = {}
 	STRING_EN[8566]["ID"] = 8566
 	STRING_EN[8566]["KEY"] = "ENSLAVE_SUCCEED_25"
-	STRING_EN[8566]["VALUE"] = "pizhan 25"
+	STRING_EN[8566]["VALUE"] = "Invincible XXV"
 	STRING_EN[8566]["real_idx"] = 8566
 
 STRING_EN["index"][8567] = 8567
 STRING_EN[8567] = {}
 	STRING_EN[8567]["ID"] = 8567
 	STRING_EN[8567]["KEY"] = "ENSLAVE_SUCCEED_26"
-	STRING_EN[8567]["VALUE"] = "pizhan 26"
+	STRING_EN[8567]["VALUE"] = "Invincible XXVI"
 	STRING_EN[8567]["real_idx"] = 8567
 
 STRING_EN["index"][8568] = 8568
 STRING_EN[8568] = {}
 	STRING_EN[8568]["ID"] = 8568
 	STRING_EN[8568]["KEY"] = "ENSLAVE_SUCCEED_27"
-	STRING_EN[8568]["VALUE"] = "pizhan 27"
+	STRING_EN[8568]["VALUE"] = "Invincible XXVII"
 	STRING_EN[8568]["real_idx"] = 8568
 
 STRING_EN["index"][8569] = 8569
 STRING_EN[8569] = {}
 	STRING_EN[8569]["ID"] = 8569
 	STRING_EN[8569]["KEY"] = "ENSLAVE_SUCCEED_28"
-	STRING_EN[8569]["VALUE"] = "pizhan 28"
+	STRING_EN[8569]["VALUE"] = "Invincible XXVIII"
 	STRING_EN[8569]["real_idx"] = 8569
 
 STRING_EN["index"][8570] = 8570
 STRING_EN[8570] = {}
 	STRING_EN[8570]["ID"] = 8570
 	STRING_EN[8570]["KEY"] = "ENSLAVE_SUCCEED_29"
-	STRING_EN[8570]["VALUE"] = "pizhan 29"
+	STRING_EN[8570]["VALUE"] = "Invincible XXIX"
 	STRING_EN[8570]["real_idx"] = 8570
 
 STRING_EN["index"][8571] = 8571
 STRING_EN[8571] = {}
 	STRING_EN[8571]["ID"] = 8571
 	STRING_EN[8571]["KEY"] = "ENSLAVE_SUCCEED_30"
-	STRING_EN[8571]["VALUE"] = "pizhan 30"
+	STRING_EN[8571]["VALUE"] = "Invincible XXX"
 	STRING_EN[8571]["real_idx"] = 8571
 
 STRING_EN["index"][8572] = 8572
 STRING_EN[8572] = {}
 	STRING_EN[8572]["ID"] = 8572
 	STRING_EN[8572]["KEY"] = "ENSLAVE_SUCCEED_31"
-	STRING_EN[8572]["VALUE"] = "pizhan 31"
+	STRING_EN[8572]["VALUE"] = "Invincible XXXI"
 	STRING_EN[8572]["real_idx"] = 8572
 
 STRING_EN["index"][8573] = 8573
 STRING_EN[8573] = {}
 	STRING_EN[8573]["ID"] = 8573
 	STRING_EN[8573]["KEY"] = "ENSLAVE_SUCCEED_32"
-	STRING_EN[8573]["VALUE"] = "pizhan 32"
+	STRING_EN[8573]["VALUE"] = "Invincible XXXII"
 	STRING_EN[8573]["real_idx"] = 8573
 
 STRING_EN["index"][8574] = 8574
 STRING_EN[8574] = {}
 	STRING_EN[8574]["ID"] = 8574
 	STRING_EN[8574]["KEY"] = "ENSLAVE_SUCCEED_33"
-	STRING_EN[8574]["VALUE"] = "pizhan 33"
+	STRING_EN[8574]["VALUE"] = "Invincible XXXIII"
 	STRING_EN[8574]["real_idx"] = 8574
 
 STRING_EN["index"][8575] = 8575
 STRING_EN[8575] = {}
 	STRING_EN[8575]["ID"] = 8575
 	STRING_EN[8575]["KEY"] = "ENSLAVE_SUCCEED_34"
-	STRING_EN[8575]["VALUE"] = "pizhan 34"
+	STRING_EN[8575]["VALUE"] = "Invincible XXXIV"
 	STRING_EN[8575]["real_idx"] = 8575
 
 STRING_EN["index"][8576] = 8576
 STRING_EN[8576] = {}
 	STRING_EN[8576]["ID"] = 8576
 	STRING_EN[8576]["KEY"] = "ENSLAVE_SUCCEED_35"
-	STRING_EN[8576]["VALUE"] = "pizhan 35"
+	STRING_EN[8576]["VALUE"] = "Invincible XXXV"
 	STRING_EN[8576]["real_idx"] = 8576
 
 STRING_EN["index"][8577] = 8577
 STRING_EN[8577] = {}
 	STRING_EN[8577]["ID"] = 8577
 	STRING_EN[8577]["KEY"] = "ENSLAVE_SUCCEED_36"
-	STRING_EN[8577]["VALUE"] = "pizhan 36"
+	STRING_EN[8577]["VALUE"] = "Invincible XXXVI"
 	STRING_EN[8577]["real_idx"] = 8577
 
 STRING_EN["index"][8578] = 8578
 STRING_EN[8578] = {}
 	STRING_EN[8578]["ID"] = 8578
 	STRING_EN[8578]["KEY"] = "ENSLAVE_SUCCEED_37"
-	STRING_EN[8578]["VALUE"] = "pizhan 37"
+	STRING_EN[8578]["VALUE"] = "Invincible XXXVII"
 	STRING_EN[8578]["real_idx"] = 8578
 
 STRING_EN["index"][8579] = 8579
 STRING_EN[8579] = {}
 	STRING_EN[8579]["ID"] = 8579
 	STRING_EN[8579]["KEY"] = "ENSLAVE_SUCCEED_38"
-	STRING_EN[8579]["VALUE"] = "pizhan 38"
+	STRING_EN[8579]["VALUE"] = "Invincible XXXVIII"
 	STRING_EN[8579]["real_idx"] = 8579
 
 STRING_EN["index"][8580] = 8580
 STRING_EN[8580] = {}
 	STRING_EN[8580]["ID"] = 8580
 	STRING_EN[8580]["KEY"] = "ENSLAVE_SUCCEED_39"
-	STRING_EN[8580]["VALUE"] = "pizhan 39"
+	STRING_EN[8580]["VALUE"] = "Invincible XXXIX"
 	STRING_EN[8580]["real_idx"] = 8580
 
 STRING_EN["index"][8581] = 8581
 STRING_EN[8581] = {}
 	STRING_EN[8581]["ID"] = 8581
 	STRING_EN[8581]["KEY"] = "ENSLAVE_SUCCEED_40"
-	STRING_EN[8581]["VALUE"] = "pizhan 40"
+	STRING_EN[8581]["VALUE"] = "Invincible XL"
 	STRING_EN[8581]["real_idx"] = 8581
 
 STRING_EN["index"][8582] = 8582
 STRING_EN[8582] = {}
 	STRING_EN[8582]["ID"] = 8582
 	STRING_EN[8582]["KEY"] = "ENSLAVE_SUCCEED_41"
-	STRING_EN[8582]["VALUE"] = "pizhan 41"
+	STRING_EN[8582]["VALUE"] = "Invincible XLI"
 	STRING_EN[8582]["real_idx"] = 8582
 
 STRING_EN["index"][8583] = 8583
 STRING_EN[8583] = {}
 	STRING_EN[8583]["ID"] = 8583
 	STRING_EN[8583]["KEY"] = "ENSLAVE_SUCCEED_42"
-	STRING_EN[8583]["VALUE"] = "pizhan 42"
+	STRING_EN[8583]["VALUE"] = "Invincible XLII"
 	STRING_EN[8583]["real_idx"] = 8583
 
 STRING_EN["index"][8584] = 8584
 STRING_EN[8584] = {}
 	STRING_EN[8584]["ID"] = 8584
 	STRING_EN[8584]["KEY"] = "ENSLAVE_SUCCEED_43"
-	STRING_EN[8584]["VALUE"] = "pizhan 43"
+	STRING_EN[8584]["VALUE"] = "Invincible XLIII"
 	STRING_EN[8584]["real_idx"] = 8584
 
 STRING_EN["index"][8585] = 8585
 STRING_EN[8585] = {}
 	STRING_EN[8585]["ID"] = 8585
 	STRING_EN[8585]["KEY"] = "ENSLAVE_SUCCEED_44"
-	STRING_EN[8585]["VALUE"] = "pizhan 44"
+	STRING_EN[8585]["VALUE"] = "Invincible XLIV"
 	STRING_EN[8585]["real_idx"] = 8585
 
 STRING_EN["index"][8586] = 8586
 STRING_EN[8586] = {}
 	STRING_EN[8586]["ID"] = 8586
 	STRING_EN[8586]["KEY"] = "ENSLAVE_SUCCEED_45"
-	STRING_EN[8586]["VALUE"] = "pizhan 45"
+	STRING_EN[8586]["VALUE"] = "Invincible XLV"
 	STRING_EN[8586]["real_idx"] = 8586
 
 STRING_EN["index"][8587] = 8587
@@ -60134,7 +60134,7 @@ STRING_EN["index"][8591] = 8591
 STRING_EN[8591] = {}
 	STRING_EN[8591]["ID"] = 8591
 	STRING_EN[8591]["KEY"] = "COLLECTION_RESOURCES_5"
-	STRING_EN[8591]["VALUE"] = "Galaxy Development V"
+	STRING_EN[8591]["VALUE"] = "Galaxy Development IV"
 	STRING_EN[8591]["real_idx"] = 8591
 
 STRING_EN["index"][8592] = 8592
@@ -60421,945 +60421,945 @@ STRING_EN["index"][8632] = 8632
 STRING_EN[8632] = {}
 	STRING_EN[8632]["ID"] = 8632
 	STRING_EN[8632]["KEY"] = "DESTROY_BELT_1"
-	STRING_EN[8632]["VALUE"] = "Open the road and clear danger 1"
+	STRING_EN[8632]["VALUE"] = "Barrier Destroyer I"
 	STRING_EN[8632]["real_idx"] = 8632
 
 STRING_EN["index"][8633] = 8633
 STRING_EN[8633] = {}
 	STRING_EN[8633]["ID"] = 8633
 	STRING_EN[8633]["KEY"] = "DESTROY_BELT_2"
-	STRING_EN[8633]["VALUE"] = "Open the road and clear danger 2"
+	STRING_EN[8633]["VALUE"] = "Barrier Destroyer II"
 	STRING_EN[8633]["real_idx"] = 8633
 
 STRING_EN["index"][8634] = 8634
 STRING_EN[8634] = {}
 	STRING_EN[8634]["ID"] = 8634
 	STRING_EN[8634]["KEY"] = "DESTROY_BELT_3"
-	STRING_EN[8634]["VALUE"] = "Open the road and clear danger 3"
+	STRING_EN[8634]["VALUE"] = "Barrier Destroyer III"
 	STRING_EN[8634]["real_idx"] = 8634
 
 STRING_EN["index"][8635] = 8635
 STRING_EN[8635] = {}
 	STRING_EN[8635]["ID"] = 8635
 	STRING_EN[8635]["KEY"] = "DESTROY_BELT_4"
-	STRING_EN[8635]["VALUE"] = "Open the road and clear danger 4"
+	STRING_EN[8635]["VALUE"] = "Barrier Destroyer IV"
 	STRING_EN[8635]["real_idx"] = 8635
 
 STRING_EN["index"][8636] = 8636
 STRING_EN[8636] = {}
 	STRING_EN[8636]["ID"] = 8636
 	STRING_EN[8636]["KEY"] = "DESTROY_BELT_5"
-	STRING_EN[8636]["VALUE"] = "Open the road and clear danger 5"
+	STRING_EN[8636]["VALUE"] = "Barrier Destroyer V"
 	STRING_EN[8636]["real_idx"] = 8636
 
 STRING_EN["index"][8637] = 8637
 STRING_EN[8637] = {}
 	STRING_EN[8637]["ID"] = 8637
 	STRING_EN[8637]["KEY"] = "DESTROY_BELT_6"
-	STRING_EN[8637]["VALUE"] = "Open the road and clear danger 6"
+	STRING_EN[8637]["VALUE"] = "Barrier Destroyer VI"
 	STRING_EN[8637]["real_idx"] = 8637
 
 STRING_EN["index"][8638] = 8638
 STRING_EN[8638] = {}
 	STRING_EN[8638]["ID"] = 8638
 	STRING_EN[8638]["KEY"] = "DESTROY_BELT_7"
-	STRING_EN[8638]["VALUE"] = "Open the road and clear danger 7"
+	STRING_EN[8638]["VALUE"] = "Barrier Destroyer VII"
 	STRING_EN[8638]["real_idx"] = 8638
 
 STRING_EN["index"][8639] = 8639
 STRING_EN[8639] = {}
 	STRING_EN[8639]["ID"] = 8639
 	STRING_EN[8639]["KEY"] = "DESTROY_BELT_8"
-	STRING_EN[8639]["VALUE"] = "Open the road and clear danger 8"
+	STRING_EN[8639]["VALUE"] = "Barrier Destroyer VIII"
 	STRING_EN[8639]["real_idx"] = 8639
 
 STRING_EN["index"][8640] = 8640
 STRING_EN[8640] = {}
 	STRING_EN[8640]["ID"] = 8640
 	STRING_EN[8640]["KEY"] = "DESTROY_BELT_9"
-	STRING_EN[8640]["VALUE"] = "Open the road and clear danger 9"
+	STRING_EN[8640]["VALUE"] = "Barrier Destroyer IX"
 	STRING_EN[8640]["real_idx"] = 8640
 
 STRING_EN["index"][8641] = 8641
 STRING_EN[8641] = {}
 	STRING_EN[8641]["ID"] = 8641
 	STRING_EN[8641]["KEY"] = "DESTROY_BELT_10"
-	STRING_EN[8641]["VALUE"] = "Open the road and clear danger 10"
+	STRING_EN[8641]["VALUE"] = "Barrier Destroyer X"
 	STRING_EN[8641]["real_idx"] = 8641
 
 STRING_EN["index"][8642] = 8642
 STRING_EN[8642] = {}
 	STRING_EN[8642]["ID"] = 8642
 	STRING_EN[8642]["KEY"] = "DESTROY_BELT_11"
-	STRING_EN[8642]["VALUE"] = "Open the road and clear danger 11"
+	STRING_EN[8642]["VALUE"] = "Barrier Destroyer XI"
 	STRING_EN[8642]["real_idx"] = 8642
 
 STRING_EN["index"][8643] = 8643
 STRING_EN[8643] = {}
 	STRING_EN[8643]["ID"] = 8643
 	STRING_EN[8643]["KEY"] = "DESTROY_BELT_12"
-	STRING_EN[8643]["VALUE"] = "Open the road and clear danger 12"
+	STRING_EN[8643]["VALUE"] = "Barrier Destroyer XII"
 	STRING_EN[8643]["real_idx"] = 8643
 
 STRING_EN["index"][8644] = 8644
 STRING_EN[8644] = {}
 	STRING_EN[8644]["ID"] = 8644
 	STRING_EN[8644]["KEY"] = "DESTROY_BELT_13"
-	STRING_EN[8644]["VALUE"] = "Open the road and clear danger 13"
+	STRING_EN[8644]["VALUE"] = "Barrier Destroyer XIII"
 	STRING_EN[8644]["real_idx"] = 8644
 
 STRING_EN["index"][8645] = 8645
 STRING_EN[8645] = {}
 	STRING_EN[8645]["ID"] = 8645
 	STRING_EN[8645]["KEY"] = "DESTROY_BELT_14"
-	STRING_EN[8645]["VALUE"] = "Open the road and clear danger 14"
+	STRING_EN[8645]["VALUE"] = "Barrier Destroyer XIV"
 	STRING_EN[8645]["real_idx"] = 8645
 
 STRING_EN["index"][8646] = 8646
 STRING_EN[8646] = {}
 	STRING_EN[8646]["ID"] = 8646
 	STRING_EN[8646]["KEY"] = "DESTROY_BELT_15"
-	STRING_EN[8646]["VALUE"] = "Open the road and clear danger 15"
+	STRING_EN[8646]["VALUE"] = "Barrier Destroyer XV"
 	STRING_EN[8646]["real_idx"] = 8646
 
 STRING_EN["index"][8647] = 8647
 STRING_EN[8647] = {}
 	STRING_EN[8647]["ID"] = 8647
 	STRING_EN[8647]["KEY"] = "DESTROY_BELT_16"
-	STRING_EN[8647]["VALUE"] = "Open the road and clear danger 16"
+	STRING_EN[8647]["VALUE"] = "Barrier Destroyer XVI"
 	STRING_EN[8647]["real_idx"] = 8647
 
 STRING_EN["index"][8648] = 8648
 STRING_EN[8648] = {}
 	STRING_EN[8648]["ID"] = 8648
 	STRING_EN[8648]["KEY"] = "DESTROY_BELT_17"
-	STRING_EN[8648]["VALUE"] = "Open the road and clear danger 17"
+	STRING_EN[8648]["VALUE"] = "Barrier Destroyer XVII"
 	STRING_EN[8648]["real_idx"] = 8648
 
 STRING_EN["index"][8649] = 8649
 STRING_EN[8649] = {}
 	STRING_EN[8649]["ID"] = 8649
 	STRING_EN[8649]["KEY"] = "DESTROY_BELT_18"
-	STRING_EN[8649]["VALUE"] = "Open the road and clear danger 18"
+	STRING_EN[8649]["VALUE"] = "Barrier Destroyer XVIII"
 	STRING_EN[8649]["real_idx"] = 8649
 
 STRING_EN["index"][8650] = 8650
 STRING_EN[8650] = {}
 	STRING_EN[8650]["ID"] = 8650
 	STRING_EN[8650]["KEY"] = "DESTROY_BELT_19"
-	STRING_EN[8650]["VALUE"] = "Open the road and clear danger 19"
+	STRING_EN[8650]["VALUE"] = "Barrier Destroyer XIX"
 	STRING_EN[8650]["real_idx"] = 8650
 
 STRING_EN["index"][8651] = 8651
 STRING_EN[8651] = {}
 	STRING_EN[8651]["ID"] = 8651
 	STRING_EN[8651]["KEY"] = "DESTROY_BELT_20"
-	STRING_EN[8651]["VALUE"] = "Open the road and clear danger 20"
+	STRING_EN[8651]["VALUE"] = "Barrier Destroyer XX"
 	STRING_EN[8651]["real_idx"] = 8651
 
 STRING_EN["index"][8652] = 8652
 STRING_EN[8652] = {}
 	STRING_EN[8652]["ID"] = 8652
 	STRING_EN[8652]["KEY"] = "DESTROY_BELT_21"
-	STRING_EN[8652]["VALUE"] = "Open the road and clear danger 21"
+	STRING_EN[8652]["VALUE"] = "Barrier Destroyer XXI"
 	STRING_EN[8652]["real_idx"] = 8652
 
 STRING_EN["index"][8653] = 8653
 STRING_EN[8653] = {}
 	STRING_EN[8653]["ID"] = 8653
 	STRING_EN[8653]["KEY"] = "DESTROY_BELT_22"
-	STRING_EN[8653]["VALUE"] = "Open the road and clear danger 22"
+	STRING_EN[8653]["VALUE"] = "Barrier Destroyer XXII"
 	STRING_EN[8653]["real_idx"] = 8653
 
 STRING_EN["index"][8654] = 8654
 STRING_EN[8654] = {}
 	STRING_EN[8654]["ID"] = 8654
 	STRING_EN[8654]["KEY"] = "DESTROY_BELT_23"
-	STRING_EN[8654]["VALUE"] = "Open the road and clear danger 23"
+	STRING_EN[8654]["VALUE"] = "Barrier Destroyer XXIII"
 	STRING_EN[8654]["real_idx"] = 8654
 
 STRING_EN["index"][8655] = 8655
 STRING_EN[8655] = {}
 	STRING_EN[8655]["ID"] = 8655
 	STRING_EN[8655]["KEY"] = "DESTROY_BELT_24"
-	STRING_EN[8655]["VALUE"] = "Open the road and clear danger 24"
+	STRING_EN[8655]["VALUE"] = "Barrier Destroyer XXIV"
 	STRING_EN[8655]["real_idx"] = 8655
 
 STRING_EN["index"][8656] = 8656
 STRING_EN[8656] = {}
 	STRING_EN[8656]["ID"] = 8656
 	STRING_EN[8656]["KEY"] = "DESTROY_BELT_25"
-	STRING_EN[8656]["VALUE"] = "Open the road and clear danger 25"
+	STRING_EN[8656]["VALUE"] = "Barrier Destroyer XXV"
 	STRING_EN[8656]["real_idx"] = 8656
 
 STRING_EN["index"][8657] = 8657
 STRING_EN[8657] = {}
 	STRING_EN[8657]["ID"] = 8657
 	STRING_EN[8657]["KEY"] = "DESTROY_BELT_26"
-	STRING_EN[8657]["VALUE"] = "Open the road and clear danger 26"
+	STRING_EN[8657]["VALUE"] = "Barrier Destroyer XXVI"
 	STRING_EN[8657]["real_idx"] = 8657
 
 STRING_EN["index"][8658] = 8658
 STRING_EN[8658] = {}
 	STRING_EN[8658]["ID"] = 8658
 	STRING_EN[8658]["KEY"] = "DESTROY_BELT_27"
-	STRING_EN[8658]["VALUE"] = "Open the road and clear danger 27"
+	STRING_EN[8658]["VALUE"] = "Barrier Destroyer XXVII"
 	STRING_EN[8658]["real_idx"] = 8658
 
 STRING_EN["index"][8659] = 8659
 STRING_EN[8659] = {}
 	STRING_EN[8659]["ID"] = 8659
 	STRING_EN[8659]["KEY"] = "DESTROY_BELT_28"
-	STRING_EN[8659]["VALUE"] = "Open the road and clear danger 28"
+	STRING_EN[8659]["VALUE"] = "Barrier Destroyer XXVIII"
 	STRING_EN[8659]["real_idx"] = 8659
 
 STRING_EN["index"][8660] = 8660
 STRING_EN[8660] = {}
 	STRING_EN[8660]["ID"] = 8660
 	STRING_EN[8660]["KEY"] = "DESTROY_BELT_29"
-	STRING_EN[8660]["VALUE"] = "Open the road and clear danger 29"
+	STRING_EN[8660]["VALUE"] = "Barrier Destroyer XXIX"
 	STRING_EN[8660]["real_idx"] = 8660
 
 STRING_EN["index"][8661] = 8661
 STRING_EN[8661] = {}
 	STRING_EN[8661]["ID"] = 8661
 	STRING_EN[8661]["KEY"] = "DESTROY_BELT_30"
-	STRING_EN[8661]["VALUE"] = "Open the road and clear danger 30"
+	STRING_EN[8661]["VALUE"] = "Barrier Destroyer XXX"
 	STRING_EN[8661]["real_idx"] = 8661
 
 STRING_EN["index"][8662] = 8662
 STRING_EN[8662] = {}
 	STRING_EN[8662]["ID"] = 8662
 	STRING_EN[8662]["KEY"] = "DESTROY_BELT_31"
-	STRING_EN[8662]["VALUE"] = "Open the road and clear danger 31"
+	STRING_EN[8662]["VALUE"] = "Barrier Destroyer XXXI"
 	STRING_EN[8662]["real_idx"] = 8662
 
 STRING_EN["index"][8663] = 8663
 STRING_EN[8663] = {}
 	STRING_EN[8663]["ID"] = 8663
 	STRING_EN[8663]["KEY"] = "DESTROY_BELT_32"
-	STRING_EN[8663]["VALUE"] = "Open the road and clear danger 32"
+	STRING_EN[8663]["VALUE"] = "Barrier Destroyer XXXII"
 	STRING_EN[8663]["real_idx"] = 8663
 
 STRING_EN["index"][8664] = 8664
 STRING_EN[8664] = {}
 	STRING_EN[8664]["ID"] = 8664
 	STRING_EN[8664]["KEY"] = "DESTROY_BELT_33"
-	STRING_EN[8664]["VALUE"] = "Open the road and clear danger 33"
+	STRING_EN[8664]["VALUE"] = "Barrier Destroyer XXXIII"
 	STRING_EN[8664]["real_idx"] = 8664
 
 STRING_EN["index"][8665] = 8665
 STRING_EN[8665] = {}
 	STRING_EN[8665]["ID"] = 8665
 	STRING_EN[8665]["KEY"] = "DESTROY_BELT_34"
-	STRING_EN[8665]["VALUE"] = "Open the road and clear danger 34"
+	STRING_EN[8665]["VALUE"] = "Barrier Destroyer XXXIV"
 	STRING_EN[8665]["real_idx"] = 8665
 
 STRING_EN["index"][8666] = 8666
 STRING_EN[8666] = {}
 	STRING_EN[8666]["ID"] = 8666
 	STRING_EN[8666]["KEY"] = "DESTROY_BELT_35"
-	STRING_EN[8666]["VALUE"] = "Open the road and clear danger 35"
+	STRING_EN[8666]["VALUE"] = "Barrier Destroyer XXXV"
 	STRING_EN[8666]["real_idx"] = 8666
 
 STRING_EN["index"][8667] = 8667
 STRING_EN[8667] = {}
 	STRING_EN[8667]["ID"] = 8667
 	STRING_EN[8667]["KEY"] = "DESTROY_BELT_36"
-	STRING_EN[8667]["VALUE"] = "Open the road and clear danger 36"
+	STRING_EN[8667]["VALUE"] = "Barrier Destroyer XXXVI"
 	STRING_EN[8667]["real_idx"] = 8667
 
 STRING_EN["index"][8668] = 8668
 STRING_EN[8668] = {}
 	STRING_EN[8668]["ID"] = 8668
 	STRING_EN[8668]["KEY"] = "DESTROY_BELT_37"
-	STRING_EN[8668]["VALUE"] = "Open the road and clear danger 37"
+	STRING_EN[8668]["VALUE"] = "Barrier Destroyer XXXVII"
 	STRING_EN[8668]["real_idx"] = 8668
 
 STRING_EN["index"][8669] = 8669
 STRING_EN[8669] = {}
 	STRING_EN[8669]["ID"] = 8669
 	STRING_EN[8669]["KEY"] = "DESTROY_BELT_38"
-	STRING_EN[8669]["VALUE"] = "Open the road and clear danger 38"
+	STRING_EN[8669]["VALUE"] = "Barrier Destroyer XXXVIII"
 	STRING_EN[8669]["real_idx"] = 8669
 
 STRING_EN["index"][8670] = 8670
 STRING_EN[8670] = {}
 	STRING_EN[8670]["ID"] = 8670
 	STRING_EN[8670]["KEY"] = "DESTROY_BELT_39"
-	STRING_EN[8670]["VALUE"] = "Open the road and clear danger 39"
+	STRING_EN[8670]["VALUE"] = "Barrier Destroyer XXXIX"
 	STRING_EN[8670]["real_idx"] = 8670
 
 STRING_EN["index"][8671] = 8671
 STRING_EN[8671] = {}
 	STRING_EN[8671]["ID"] = 8671
 	STRING_EN[8671]["KEY"] = "DESTROY_BELT_40"
-	STRING_EN[8671]["VALUE"] = "Open the road and clear danger 40"
+	STRING_EN[8671]["VALUE"] = "Barrier Destroyer XL"
 	STRING_EN[8671]["real_idx"] = 8671
 
 STRING_EN["index"][8672] = 8672
 STRING_EN[8672] = {}
 	STRING_EN[8672]["ID"] = 8672
 	STRING_EN[8672]["KEY"] = "DESTROY_BELT_41"
-	STRING_EN[8672]["VALUE"] = "Open the road and clear danger 41"
+	STRING_EN[8672]["VALUE"] = "Barrier Destroyer XLI"
 	STRING_EN[8672]["real_idx"] = 8672
 
 STRING_EN["index"][8673] = 8673
 STRING_EN[8673] = {}
 	STRING_EN[8673]["ID"] = 8673
 	STRING_EN[8673]["KEY"] = "DESTROY_BELT_42"
-	STRING_EN[8673]["VALUE"] = "Open the road and clear danger 42"
+	STRING_EN[8673]["VALUE"] = "Barrier Destroyer XLII"
 	STRING_EN[8673]["real_idx"] = 8673
 
 STRING_EN["index"][8674] = 8674
 STRING_EN[8674] = {}
 	STRING_EN[8674]["ID"] = 8674
 	STRING_EN[8674]["KEY"] = "DESTROY_BELT_43"
-	STRING_EN[8674]["VALUE"] = "Open the road and clear danger 43"
+	STRING_EN[8674]["VALUE"] = "Barrier Destroyer XLIII"
 	STRING_EN[8674]["real_idx"] = 8674
 
 STRING_EN["index"][8675] = 8675
 STRING_EN[8675] = {}
 	STRING_EN[8675]["ID"] = 8675
 	STRING_EN[8675]["KEY"] = "DESTROY_BELT_44"
-	STRING_EN[8675]["VALUE"] = "Open the road and clear danger 44"
+	STRING_EN[8675]["VALUE"] = "Barrier Destroyer XLIV"
 	STRING_EN[8675]["real_idx"] = 8675
 
 STRING_EN["index"][8676] = 8676
 STRING_EN[8676] = {}
 	STRING_EN[8676]["ID"] = 8676
 	STRING_EN[8676]["KEY"] = "DESTROY_BELT_45"
-	STRING_EN[8676]["VALUE"] = "Open the road and clear danger 45"
+	STRING_EN[8676]["VALUE"] = "Barrier Destroyer XLV"
 	STRING_EN[8676]["real_idx"] = 8676
 
 STRING_EN["index"][8677] = 8677
 STRING_EN[8677] = {}
 	STRING_EN[8677]["ID"] = 8677
 	STRING_EN[8677]["KEY"] = "SALVAGE_WRECKAGE_1"
-	STRING_EN[8677]["VALUE"] = "Take advantage of length 1"
+	STRING_EN[8677]["VALUE"] = "Galaxy Scavenger I"
 	STRING_EN[8677]["real_idx"] = 8677
 
 STRING_EN["index"][8678] = 8678
 STRING_EN[8678] = {}
 	STRING_EN[8678]["ID"] = 8678
 	STRING_EN[8678]["KEY"] = "SALVAGE_WRECKAGE_2"
-	STRING_EN[8678]["VALUE"] = "Take advantage of length 2"
+	STRING_EN[8678]["VALUE"] = "Galaxy Scavenger II"
 	STRING_EN[8678]["real_idx"] = 8678
 
 STRING_EN["index"][8679] = 8679
 STRING_EN[8679] = {}
 	STRING_EN[8679]["ID"] = 8679
 	STRING_EN[8679]["KEY"] = "SALVAGE_WRECKAGE_3"
-	STRING_EN[8679]["VALUE"] = "Take advantage of length 3"
+	STRING_EN[8679]["VALUE"] = "Galaxy Scavenger III"
 	STRING_EN[8679]["real_idx"] = 8679
 
 STRING_EN["index"][8680] = 8680
 STRING_EN[8680] = {}
 	STRING_EN[8680]["ID"] = 8680
 	STRING_EN[8680]["KEY"] = "SALVAGE_WRECKAGE_4"
-	STRING_EN[8680]["VALUE"] = "Take advantage of length 4"
+	STRING_EN[8680]["VALUE"] = "Galaxy Scavenger IV"
 	STRING_EN[8680]["real_idx"] = 8680
 
 STRING_EN["index"][8681] = 8681
 STRING_EN[8681] = {}
 	STRING_EN[8681]["ID"] = 8681
 	STRING_EN[8681]["KEY"] = "SALVAGE_WRECKAGE_5"
-	STRING_EN[8681]["VALUE"] = "Take advantage of length 5"
+	STRING_EN[8681]["VALUE"] = "Galaxy Scavenger V"
 	STRING_EN[8681]["real_idx"] = 8681
 
 STRING_EN["index"][8682] = 8682
 STRING_EN[8682] = {}
 	STRING_EN[8682]["ID"] = 8682
 	STRING_EN[8682]["KEY"] = "SALVAGE_WRECKAGE_6"
-	STRING_EN[8682]["VALUE"] = "Take advantage of length 6"
+	STRING_EN[8682]["VALUE"] = "Galaxy Scavenger VI"
 	STRING_EN[8682]["real_idx"] = 8682
 
 STRING_EN["index"][8683] = 8683
 STRING_EN[8683] = {}
 	STRING_EN[8683]["ID"] = 8683
 	STRING_EN[8683]["KEY"] = "SALVAGE_WRECKAGE_7"
-	STRING_EN[8683]["VALUE"] = "Take advantage of length 7"
+	STRING_EN[8683]["VALUE"] = "Galaxy Scavenger VII"
 	STRING_EN[8683]["real_idx"] = 8683
 
 STRING_EN["index"][8684] = 8684
 STRING_EN[8684] = {}
 	STRING_EN[8684]["ID"] = 8684
 	STRING_EN[8684]["KEY"] = "SALVAGE_WRECKAGE_8"
-	STRING_EN[8684]["VALUE"] = "Take advantage of length 8"
+	STRING_EN[8684]["VALUE"] = "Galaxy Scavenger VIII"
 	STRING_EN[8684]["real_idx"] = 8684
 
 STRING_EN["index"][8685] = 8685
 STRING_EN[8685] = {}
 	STRING_EN[8685]["ID"] = 8685
 	STRING_EN[8685]["KEY"] = "SALVAGE_WRECKAGE_9"
-	STRING_EN[8685]["VALUE"] = "Take advantage of length 9"
+	STRING_EN[8685]["VALUE"] = "Galaxy Scavenger IX"
 	STRING_EN[8685]["real_idx"] = 8685
 
 STRING_EN["index"][8686] = 8686
 STRING_EN[8686] = {}
 	STRING_EN[8686]["ID"] = 8686
 	STRING_EN[8686]["KEY"] = "SALVAGE_WRECKAGE_10"
-	STRING_EN[8686]["VALUE"] = "Take advantage of length 10"
+	STRING_EN[8686]["VALUE"] = "Galaxy Scavenger X"
 	STRING_EN[8686]["real_idx"] = 8686
 
 STRING_EN["index"][8687] = 8687
 STRING_EN[8687] = {}
 	STRING_EN[8687]["ID"] = 8687
 	STRING_EN[8687]["KEY"] = "SALVAGE_WRECKAGE_11"
-	STRING_EN[8687]["VALUE"] = "Take advantage of length 11"
+	STRING_EN[8687]["VALUE"] = "Galaxy Scavenger XI"
 	STRING_EN[8687]["real_idx"] = 8687
 
 STRING_EN["index"][8688] = 8688
 STRING_EN[8688] = {}
 	STRING_EN[8688]["ID"] = 8688
 	STRING_EN[8688]["KEY"] = "SALVAGE_WRECKAGE_12"
-	STRING_EN[8688]["VALUE"] = "Take advantage of length 12"
+	STRING_EN[8688]["VALUE"] = "Galaxy Scavenger XII"
 	STRING_EN[8688]["real_idx"] = 8688
 
 STRING_EN["index"][8689] = 8689
 STRING_EN[8689] = {}
 	STRING_EN[8689]["ID"] = 8689
 	STRING_EN[8689]["KEY"] = "SALVAGE_WRECKAGE_13"
-	STRING_EN[8689]["VALUE"] = "Take advantage of length 13"
+	STRING_EN[8689]["VALUE"] = "Galaxy Scavenger XIII"
 	STRING_EN[8689]["real_idx"] = 8689
 
 STRING_EN["index"][8690] = 8690
 STRING_EN[8690] = {}
 	STRING_EN[8690]["ID"] = 8690
 	STRING_EN[8690]["KEY"] = "SALVAGE_WRECKAGE_14"
-	STRING_EN[8690]["VALUE"] = "Take advantage of length 14"
+	STRING_EN[8690]["VALUE"] = "Galaxy Scavenger XIV"
 	STRING_EN[8690]["real_idx"] = 8690
 
 STRING_EN["index"][8691] = 8691
 STRING_EN[8691] = {}
 	STRING_EN[8691]["ID"] = 8691
 	STRING_EN[8691]["KEY"] = "SALVAGE_WRECKAGE_15"
-	STRING_EN[8691]["VALUE"] = "Take advantage of length 15"
+	STRING_EN[8691]["VALUE"] = "Galaxy Scavenger XV"
 	STRING_EN[8691]["real_idx"] = 8691
 
 STRING_EN["index"][8692] = 8692
 STRING_EN[8692] = {}
 	STRING_EN[8692]["ID"] = 8692
 	STRING_EN[8692]["KEY"] = "SALVAGE_WRECKAGE_16"
-	STRING_EN[8692]["VALUE"] = "Take advantage of length 16"
+	STRING_EN[8692]["VALUE"] = "Galaxy Scavenger XVI"
 	STRING_EN[8692]["real_idx"] = 8692
 
 STRING_EN["index"][8693] = 8693
 STRING_EN[8693] = {}
 	STRING_EN[8693]["ID"] = 8693
 	STRING_EN[8693]["KEY"] = "SALVAGE_WRECKAGE_17"
-	STRING_EN[8693]["VALUE"] = "Take advantage of length 17"
+	STRING_EN[8693]["VALUE"] = "Galaxy Scavenger XVII"
 	STRING_EN[8693]["real_idx"] = 8693
 
 STRING_EN["index"][8694] = 8694
 STRING_EN[8694] = {}
 	STRING_EN[8694]["ID"] = 8694
 	STRING_EN[8694]["KEY"] = "SALVAGE_WRECKAGE_18"
-	STRING_EN[8694]["VALUE"] = "Take advantage of length 18"
+	STRING_EN[8694]["VALUE"] = "Galaxy Scavenger XVIII"
 	STRING_EN[8694]["real_idx"] = 8694
 
 STRING_EN["index"][8695] = 8695
 STRING_EN[8695] = {}
 	STRING_EN[8695]["ID"] = 8695
 	STRING_EN[8695]["KEY"] = "SALVAGE_WRECKAGE_19"
-	STRING_EN[8695]["VALUE"] = "Take advantage of length 19"
+	STRING_EN[8695]["VALUE"] = "Galaxy Scavenger XIX"
 	STRING_EN[8695]["real_idx"] = 8695
 
 STRING_EN["index"][8696] = 8696
 STRING_EN[8696] = {}
 	STRING_EN[8696]["ID"] = 8696
 	STRING_EN[8696]["KEY"] = "SALVAGE_WRECKAGE_20"
-	STRING_EN[8696]["VALUE"] = "Take advantage of length 20"
+	STRING_EN[8696]["VALUE"] = "Galaxy Scavenger XX"
 	STRING_EN[8696]["real_idx"] = 8696
 
 STRING_EN["index"][8697] = 8697
 STRING_EN[8697] = {}
 	STRING_EN[8697]["ID"] = 8697
 	STRING_EN[8697]["KEY"] = "SALVAGE_WRECKAGE_21"
-	STRING_EN[8697]["VALUE"] = "Take advantage of length 21"
+	STRING_EN[8697]["VALUE"] = "Galaxy Scavenger XXI"
 	STRING_EN[8697]["real_idx"] = 8697
 
 STRING_EN["index"][8698] = 8698
 STRING_EN[8698] = {}
 	STRING_EN[8698]["ID"] = 8698
 	STRING_EN[8698]["KEY"] = "SALVAGE_WRECKAGE_22"
-	STRING_EN[8698]["VALUE"] = "Take advantage of length 22"
+	STRING_EN[8698]["VALUE"] = "Galaxy Scavenger XXII"
 	STRING_EN[8698]["real_idx"] = 8698
 
 STRING_EN["index"][8699] = 8699
 STRING_EN[8699] = {}
 	STRING_EN[8699]["ID"] = 8699
 	STRING_EN[8699]["KEY"] = "SALVAGE_WRECKAGE_23"
-	STRING_EN[8699]["VALUE"] = "Take advantage of length 23"
+	STRING_EN[8699]["VALUE"] = "Galaxy Scavenger XXIII"
 	STRING_EN[8699]["real_idx"] = 8699
 
 STRING_EN["index"][8700] = 8700
 STRING_EN[8700] = {}
 	STRING_EN[8700]["ID"] = 8700
 	STRING_EN[8700]["KEY"] = "SALVAGE_WRECKAGE_24"
-	STRING_EN[8700]["VALUE"] = "Take advantage of length 24"
+	STRING_EN[8700]["VALUE"] = "Galaxy Scavenger XXIV"
 	STRING_EN[8700]["real_idx"] = 8700
 
 STRING_EN["index"][8701] = 8701
 STRING_EN[8701] = {}
 	STRING_EN[8701]["ID"] = 8701
 	STRING_EN[8701]["KEY"] = "SALVAGE_WRECKAGE_25"
-	STRING_EN[8701]["VALUE"] = "Take advantage of length 25"
+	STRING_EN[8701]["VALUE"] = "Galaxy Scavenger XXV"
 	STRING_EN[8701]["real_idx"] = 8701
 
 STRING_EN["index"][8702] = 8702
 STRING_EN[8702] = {}
 	STRING_EN[8702]["ID"] = 8702
 	STRING_EN[8702]["KEY"] = "SALVAGE_WRECKAGE_26"
-	STRING_EN[8702]["VALUE"] = "Take advantage of length 26"
+	STRING_EN[8702]["VALUE"] = "Galaxy Scavenger XXVI"
 	STRING_EN[8702]["real_idx"] = 8702
 
 STRING_EN["index"][8703] = 8703
 STRING_EN[8703] = {}
 	STRING_EN[8703]["ID"] = 8703
 	STRING_EN[8703]["KEY"] = "SALVAGE_WRECKAGE_27"
-	STRING_EN[8703]["VALUE"] = "Take advantage of length 27"
+	STRING_EN[8703]["VALUE"] = "Galaxy Scavenger XXVII"
 	STRING_EN[8703]["real_idx"] = 8703
 
 STRING_EN["index"][8704] = 8704
 STRING_EN[8704] = {}
 	STRING_EN[8704]["ID"] = 8704
 	STRING_EN[8704]["KEY"] = "SALVAGE_WRECKAGE_28"
-	STRING_EN[8704]["VALUE"] = "Take advantage of length 28"
+	STRING_EN[8704]["VALUE"] = "Galaxy Scavenger XXVIII"
 	STRING_EN[8704]["real_idx"] = 8704
 
 STRING_EN["index"][8705] = 8705
 STRING_EN[8705] = {}
 	STRING_EN[8705]["ID"] = 8705
 	STRING_EN[8705]["KEY"] = "SALVAGE_WRECKAGE_29"
-	STRING_EN[8705]["VALUE"] = "Take advantage of length 29"
+	STRING_EN[8705]["VALUE"] = "Galaxy Scavenger XXIX"
 	STRING_EN[8705]["real_idx"] = 8705
 
 STRING_EN["index"][8706] = 8706
 STRING_EN[8706] = {}
 	STRING_EN[8706]["ID"] = 8706
 	STRING_EN[8706]["KEY"] = "SALVAGE_WRECKAGE_30"
-	STRING_EN[8706]["VALUE"] = "Take advantage of length 30"
+	STRING_EN[8706]["VALUE"] = "Galaxy Scavenger XXX"
 	STRING_EN[8706]["real_idx"] = 8706
 
 STRING_EN["index"][8707] = 8707
 STRING_EN[8707] = {}
 	STRING_EN[8707]["ID"] = 8707
 	STRING_EN[8707]["KEY"] = "SALVAGE_WRECKAGE_31"
-	STRING_EN[8707]["VALUE"] = "Take advantage of length 31"
+	STRING_EN[8707]["VALUE"] = "Galaxy Scavenger XXXI"
 	STRING_EN[8707]["real_idx"] = 8707
 
 STRING_EN["index"][8708] = 8708
 STRING_EN[8708] = {}
 	STRING_EN[8708]["ID"] = 8708
 	STRING_EN[8708]["KEY"] = "SALVAGE_WRECKAGE_32"
-	STRING_EN[8708]["VALUE"] = "Take advantage of length 32"
+	STRING_EN[8708]["VALUE"] = "Galaxy Scavenger XXXII"
 	STRING_EN[8708]["real_idx"] = 8708
 
 STRING_EN["index"][8709] = 8709
 STRING_EN[8709] = {}
 	STRING_EN[8709]["ID"] = 8709
 	STRING_EN[8709]["KEY"] = "SALVAGE_WRECKAGE_33"
-	STRING_EN[8709]["VALUE"] = "Take advantage of length 33"
+	STRING_EN[8709]["VALUE"] = "Galaxy Scavenger XXXIII"
 	STRING_EN[8709]["real_idx"] = 8709
 
 STRING_EN["index"][8710] = 8710
 STRING_EN[8710] = {}
 	STRING_EN[8710]["ID"] = 8710
 	STRING_EN[8710]["KEY"] = "SALVAGE_WRECKAGE_34"
-	STRING_EN[8710]["VALUE"] = "Take advantage of length 34"
+	STRING_EN[8710]["VALUE"] = "Galaxy Scavenger XXXIV"
 	STRING_EN[8710]["real_idx"] = 8710
 
 STRING_EN["index"][8711] = 8711
 STRING_EN[8711] = {}
 	STRING_EN[8711]["ID"] = 8711
 	STRING_EN[8711]["KEY"] = "SALVAGE_WRECKAGE_35"
-	STRING_EN[8711]["VALUE"] = "Take advantage of length 35"
+	STRING_EN[8711]["VALUE"] = "Galaxy Scavenger XXXV"
 	STRING_EN[8711]["real_idx"] = 8711
 
 STRING_EN["index"][8712] = 8712
 STRING_EN[8712] = {}
 	STRING_EN[8712]["ID"] = 8712
 	STRING_EN[8712]["KEY"] = "SALVAGE_WRECKAGE_36"
-	STRING_EN[8712]["VALUE"] = "Take advantage of length 36"
+	STRING_EN[8712]["VALUE"] = "Galaxy Scavenger XXXVI"
 	STRING_EN[8712]["real_idx"] = 8712
 
 STRING_EN["index"][8713] = 8713
 STRING_EN[8713] = {}
 	STRING_EN[8713]["ID"] = 8713
 	STRING_EN[8713]["KEY"] = "SALVAGE_WRECKAGE_37"
-	STRING_EN[8713]["VALUE"] = "Take advantage of length 37"
+	STRING_EN[8713]["VALUE"] = "Galaxy Scavenger XXXVII"
 	STRING_EN[8713]["real_idx"] = 8713
 
 STRING_EN["index"][8714] = 8714
 STRING_EN[8714] = {}
 	STRING_EN[8714]["ID"] = 8714
 	STRING_EN[8714]["KEY"] = "SALVAGE_WRECKAGE_38"
-	STRING_EN[8714]["VALUE"] = "Take advantage of length 38"
+	STRING_EN[8714]["VALUE"] = "Galaxy Scavenger XXXVIII"
 	STRING_EN[8714]["real_idx"] = 8714
 
 STRING_EN["index"][8715] = 8715
 STRING_EN[8715] = {}
 	STRING_EN[8715]["ID"] = 8715
 	STRING_EN[8715]["KEY"] = "SALVAGE_WRECKAGE_39"
-	STRING_EN[8715]["VALUE"] = "Take advantage of length 39"
+	STRING_EN[8715]["VALUE"] = "Galaxy Scavenger XXXIX"
 	STRING_EN[8715]["real_idx"] = 8715
 
 STRING_EN["index"][8716] = 8716
 STRING_EN[8716] = {}
 	STRING_EN[8716]["ID"] = 8716
 	STRING_EN[8716]["KEY"] = "SALVAGE_WRECKAGE_40"
-	STRING_EN[8716]["VALUE"] = "Take advantage of length 40"
+	STRING_EN[8716]["VALUE"] = "Galaxy Scavenger XL"
 	STRING_EN[8716]["real_idx"] = 8716
 
 STRING_EN["index"][8717] = 8717
 STRING_EN[8717] = {}
 	STRING_EN[8717]["ID"] = 8717
 	STRING_EN[8717]["KEY"] = "SALVAGE_WRECKAGE_41"
-	STRING_EN[8717]["VALUE"] = "Take advantage of length 41"
+	STRING_EN[8717]["VALUE"] = "Galaxy Scavenger XLI"
 	STRING_EN[8717]["real_idx"] = 8717
 
 STRING_EN["index"][8718] = 8718
 STRING_EN[8718] = {}
 	STRING_EN[8718]["ID"] = 8718
 	STRING_EN[8718]["KEY"] = "SALVAGE_WRECKAGE_42"
-	STRING_EN[8718]["VALUE"] = "Take advantage of length 42"
+	STRING_EN[8718]["VALUE"] = "Galaxy Scavenger XLII"
 	STRING_EN[8718]["real_idx"] = 8718
 
 STRING_EN["index"][8719] = 8719
 STRING_EN[8719] = {}
 	STRING_EN[8719]["ID"] = 8719
 	STRING_EN[8719]["KEY"] = "SALVAGE_WRECKAGE_43"
-	STRING_EN[8719]["VALUE"] = "Take advantage of length 43"
+	STRING_EN[8719]["VALUE"] = "Galaxy Scavenger XLIII"
 	STRING_EN[8719]["real_idx"] = 8719
 
 STRING_EN["index"][8720] = 8720
 STRING_EN[8720] = {}
 	STRING_EN[8720]["ID"] = 8720
 	STRING_EN[8720]["KEY"] = "SALVAGE_WRECKAGE_44"
-	STRING_EN[8720]["VALUE"] = "Take advantage of length 44"
+	STRING_EN[8720]["VALUE"] = "Galaxy Scavenger XLIV"
 	STRING_EN[8720]["real_idx"] = 8720
 
 STRING_EN["index"][8721] = 8721
 STRING_EN[8721] = {}
 	STRING_EN[8721]["ID"] = 8721
 	STRING_EN[8721]["KEY"] = "SALVAGE_WRECKAGE_45"
-	STRING_EN[8721]["VALUE"] = "Take advantage of length 45"
+	STRING_EN[8721]["VALUE"] = "Galaxy Scavenger XLV"
 	STRING_EN[8721]["real_idx"] = 8721
 
 STRING_EN["index"][8722] = 8722
 STRING_EN[8722] = {}
 	STRING_EN[8722]["ID"] = 8722
 	STRING_EN[8722]["KEY"] = "KILL_MONSTER_1"
-	STRING_EN[8722]["VALUE"] = "Exorcism Breaking 1"
+	STRING_EN[8722]["VALUE"] = "Killing Spree I"
 	STRING_EN[8722]["real_idx"] = 8722
 
 STRING_EN["index"][8723] = 8723
 STRING_EN[8723] = {}
 	STRING_EN[8723]["ID"] = 8723
 	STRING_EN[8723]["KEY"] = "KILL_MONSTER_2"
-	STRING_EN[8723]["VALUE"] = "Exorcism Breaking 2"
+	STRING_EN[8723]["VALUE"] = "Killing Spree II"
 	STRING_EN[8723]["real_idx"] = 8723
 
 STRING_EN["index"][8724] = 8724
 STRING_EN[8724] = {}
 	STRING_EN[8724]["ID"] = 8724
 	STRING_EN[8724]["KEY"] = "KILL_MONSTER_3"
-	STRING_EN[8724]["VALUE"] = "Exorcism Breaking 3"
+	STRING_EN[8724]["VALUE"] = "Killing Spree III"
 	STRING_EN[8724]["real_idx"] = 8724
 
 STRING_EN["index"][8725] = 8725
 STRING_EN[8725] = {}
 	STRING_EN[8725]["ID"] = 8725
 	STRING_EN[8725]["KEY"] = "KILL_MONSTER_4"
-	STRING_EN[8725]["VALUE"] = "Exorcism Breaking 4"
+	STRING_EN[8725]["VALUE"] = "Killing Spree IV"
 	STRING_EN[8725]["real_idx"] = 8725
 
 STRING_EN["index"][8726] = 8726
 STRING_EN[8726] = {}
 	STRING_EN[8726]["ID"] = 8726
 	STRING_EN[8726]["KEY"] = "KILL_MONSTER_5"
-	STRING_EN[8726]["VALUE"] = "Exorcism Breaking 5"
+	STRING_EN[8726]["VALUE"] = "Killing Spree V"
 	STRING_EN[8726]["real_idx"] = 8726
 
 STRING_EN["index"][8727] = 8727
 STRING_EN[8727] = {}
 	STRING_EN[8727]["ID"] = 8727
 	STRING_EN[8727]["KEY"] = "KILL_MONSTER_6"
-	STRING_EN[8727]["VALUE"] = "Exorcism Breaking 6"
+	STRING_EN[8727]["VALUE"] = "Killing Spree VI"
 	STRING_EN[8727]["real_idx"] = 8727
 
 STRING_EN["index"][8728] = 8728
 STRING_EN[8728] = {}
 	STRING_EN[8728]["ID"] = 8728
 	STRING_EN[8728]["KEY"] = "KILL_MONSTER_7"
-	STRING_EN[8728]["VALUE"] = "Exorcism Breaking 7"
+	STRING_EN[8728]["VALUE"] = "Killing Spree VII"
 	STRING_EN[8728]["real_idx"] = 8728
 
 STRING_EN["index"][8729] = 8729
 STRING_EN[8729] = {}
 	STRING_EN[8729]["ID"] = 8729
 	STRING_EN[8729]["KEY"] = "KILL_MONSTER_8"
-	STRING_EN[8729]["VALUE"] = "Exorcism Breaking 8"
+	STRING_EN[8729]["VALUE"] = "Killing Spree VIII"
 	STRING_EN[8729]["real_idx"] = 8729
 
 STRING_EN["index"][8730] = 8730
 STRING_EN[8730] = {}
 	STRING_EN[8730]["ID"] = 8730
 	STRING_EN[8730]["KEY"] = "KILL_MONSTER_9"
-	STRING_EN[8730]["VALUE"] = "Exorcism Breaking 9"
+	STRING_EN[8730]["VALUE"] = "Killing Spree IX"
 	STRING_EN[8730]["real_idx"] = 8730
 
 STRING_EN["index"][8731] = 8731
 STRING_EN[8731] = {}
 	STRING_EN[8731]["ID"] = 8731
 	STRING_EN[8731]["KEY"] = "KILL_MONSTER_10"
-	STRING_EN[8731]["VALUE"] = "Exorcism Breaking 10"
+	STRING_EN[8731]["VALUE"] = "Killing Spree X"
 	STRING_EN[8731]["real_idx"] = 8731
 
 STRING_EN["index"][8732] = 8732
 STRING_EN[8732] = {}
 	STRING_EN[8732]["ID"] = 8732
 	STRING_EN[8732]["KEY"] = "KILL_MONSTER_11"
-	STRING_EN[8732]["VALUE"] = "Exorcism Breaking 11"
+	STRING_EN[8732]["VALUE"] = "Killing Spree XI"
 	STRING_EN[8732]["real_idx"] = 8732
 
 STRING_EN["index"][8733] = 8733
 STRING_EN[8733] = {}
 	STRING_EN[8733]["ID"] = 8733
 	STRING_EN[8733]["KEY"] = "KILL_MONSTER_12"
-	STRING_EN[8733]["VALUE"] = "Exorcism Breaking 12"
+	STRING_EN[8733]["VALUE"] = "Killing Spree XII"
 	STRING_EN[8733]["real_idx"] = 8733
 
 STRING_EN["index"][8734] = 8734
 STRING_EN[8734] = {}
 	STRING_EN[8734]["ID"] = 8734
 	STRING_EN[8734]["KEY"] = "KILL_MONSTER_13"
-	STRING_EN[8734]["VALUE"] = "Exorcism Breaking 13"
+	STRING_EN[8734]["VALUE"] = "Killing Spree XIII"
 	STRING_EN[8734]["real_idx"] = 8734
 
 STRING_EN["index"][8735] = 8735
 STRING_EN[8735] = {}
 	STRING_EN[8735]["ID"] = 8735
 	STRING_EN[8735]["KEY"] = "KILL_MONSTER_14"
-	STRING_EN[8735]["VALUE"] = "Exorcism Breaking 14"
+	STRING_EN[8735]["VALUE"] = "Killing Spree XIV"
 	STRING_EN[8735]["real_idx"] = 8735
 
 STRING_EN["index"][8736] = 8736
 STRING_EN[8736] = {}
 	STRING_EN[8736]["ID"] = 8736
 	STRING_EN[8736]["KEY"] = "KILL_MONSTER_15"
-	STRING_EN[8736]["VALUE"] = "Exorcism Breaking 15"
+	STRING_EN[8736]["VALUE"] = "Killing Spree XV"
 	STRING_EN[8736]["real_idx"] = 8736
 
 STRING_EN["index"][8737] = 8737
 STRING_EN[8737] = {}
 	STRING_EN[8737]["ID"] = 8737
 	STRING_EN[8737]["KEY"] = "KILL_MONSTER_16"
-	STRING_EN[8737]["VALUE"] = "Exorcism Breaking 16"
+	STRING_EN[8737]["VALUE"] = "Killing Spree XVI"
 	STRING_EN[8737]["real_idx"] = 8737
 
 STRING_EN["index"][8738] = 8738
 STRING_EN[8738] = {}
 	STRING_EN[8738]["ID"] = 8738
 	STRING_EN[8738]["KEY"] = "KILL_MONSTER_17"
-	STRING_EN[8738]["VALUE"] = "Exorcism Breaking 17"
+	STRING_EN[8738]["VALUE"] = "Killing Spree XVII"
 	STRING_EN[8738]["real_idx"] = 8738
 
 STRING_EN["index"][8739] = 8739
 STRING_EN[8739] = {}
 	STRING_EN[8739]["ID"] = 8739
 	STRING_EN[8739]["KEY"] = "KILL_MONSTER_18"
-	STRING_EN[8739]["VALUE"] = "Exorcism Breaking 18"
+	STRING_EN[8739]["VALUE"] = "Killing Spree XVIII"
 	STRING_EN[8739]["real_idx"] = 8739
 
 STRING_EN["index"][8740] = 8740
 STRING_EN[8740] = {}
 	STRING_EN[8740]["ID"] = 8740
 	STRING_EN[8740]["KEY"] = "KILL_MONSTER_19"
-	STRING_EN[8740]["VALUE"] = "Exorcism Breaking 19"
+	STRING_EN[8740]["VALUE"] = "Killing Spree XIX"
 	STRING_EN[8740]["real_idx"] = 8740
 
 STRING_EN["index"][8741] = 8741
 STRING_EN[8741] = {}
 	STRING_EN[8741]["ID"] = 8741
 	STRING_EN[8741]["KEY"] = "KILL_MONSTER_20"
-	STRING_EN[8741]["VALUE"] = "Exorcism Breaking 20"
+	STRING_EN[8741]["VALUE"] = "Killing Spree XX"
 	STRING_EN[8741]["real_idx"] = 8741
 
 STRING_EN["index"][8742] = 8742
 STRING_EN[8742] = {}
 	STRING_EN[8742]["ID"] = 8742
 	STRING_EN[8742]["KEY"] = "KILL_MONSTER_21"
-	STRING_EN[8742]["VALUE"] = "Exorcism Breaking 21"
+	STRING_EN[8742]["VALUE"] = "Killing Spree XXI"
 	STRING_EN[8742]["real_idx"] = 8742
 
 STRING_EN["index"][8743] = 8743
 STRING_EN[8743] = {}
 	STRING_EN[8743]["ID"] = 8743
 	STRING_EN[8743]["KEY"] = "KILL_MONSTER_22"
-	STRING_EN[8743]["VALUE"] = "Exorcism Breaking 22"
+	STRING_EN[8743]["VALUE"] = "Killing Spree XXII"
 	STRING_EN[8743]["real_idx"] = 8743
 
 STRING_EN["index"][8744] = 8744
 STRING_EN[8744] = {}
 	STRING_EN[8744]["ID"] = 8744
 	STRING_EN[8744]["KEY"] = "KILL_MONSTER_23"
-	STRING_EN[8744]["VALUE"] = "Exorcism Breaking 23"
+	STRING_EN[8744]["VALUE"] = "Killing Spree XXIII"
 	STRING_EN[8744]["real_idx"] = 8744
 
 STRING_EN["index"][8745] = 8745
 STRING_EN[8745] = {}
 	STRING_EN[8745]["ID"] = 8745
 	STRING_EN[8745]["KEY"] = "KILL_MONSTER_24"
-	STRING_EN[8745]["VALUE"] = "Exorcism Breaking 24"
+	STRING_EN[8745]["VALUE"] = "Killing Spree XXIV"
 	STRING_EN[8745]["real_idx"] = 8745
 
 STRING_EN["index"][8746] = 8746
 STRING_EN[8746] = {}
 	STRING_EN[8746]["ID"] = 8746
 	STRING_EN[8746]["KEY"] = "KILL_MONSTER_25"
-	STRING_EN[8746]["VALUE"] = "Exorcism Breaking 25"
+	STRING_EN[8746]["VALUE"] = "Killing Spree XXV"
 	STRING_EN[8746]["real_idx"] = 8746
 
 STRING_EN["index"][8747] = 8747
 STRING_EN[8747] = {}
 	STRING_EN[8747]["ID"] = 8747
 	STRING_EN[8747]["KEY"] = "KILL_MONSTER_26"
-	STRING_EN[8747]["VALUE"] = "Exorcism Breaking 26"
+	STRING_EN[8747]["VALUE"] = "Killing Spree XXVI"
 	STRING_EN[8747]["real_idx"] = 8747
 
 STRING_EN["index"][8748] = 8748
 STRING_EN[8748] = {}
 	STRING_EN[8748]["ID"] = 8748
 	STRING_EN[8748]["KEY"] = "KILL_MONSTER_27"
-	STRING_EN[8748]["VALUE"] = "Exorcism Breaking 27"
+	STRING_EN[8748]["VALUE"] = "Killing Spree XXVII"
 	STRING_EN[8748]["real_idx"] = 8748
 
 STRING_EN["index"][8749] = 8749
 STRING_EN[8749] = {}
 	STRING_EN[8749]["ID"] = 8749
 	STRING_EN[8749]["KEY"] = "KILL_MONSTER_28"
-	STRING_EN[8749]["VALUE"] = "Exorcism Breaking 28"
+	STRING_EN[8749]["VALUE"] = "Killing Spree XXVIII"
 	STRING_EN[8749]["real_idx"] = 8749
 
 STRING_EN["index"][8750] = 8750
 STRING_EN[8750] = {}
 	STRING_EN[8750]["ID"] = 8750
 	STRING_EN[8750]["KEY"] = "KILL_MONSTER_29"
-	STRING_EN[8750]["VALUE"] = "Exorcism Breaking 29"
+	STRING_EN[8750]["VALUE"] = "Killing Spree XXIX"
 	STRING_EN[8750]["real_idx"] = 8750
 
 STRING_EN["index"][8751] = 8751
 STRING_EN[8751] = {}
 	STRING_EN[8751]["ID"] = 8751
 	STRING_EN[8751]["KEY"] = "KILL_MONSTER_30"
-	STRING_EN[8751]["VALUE"] = "Exorcism Breaking 30"
+	STRING_EN[8751]["VALUE"] = "Killing Spree XXX"
 	STRING_EN[8751]["real_idx"] = 8751
 
 STRING_EN["index"][8752] = 8752
 STRING_EN[8752] = {}
 	STRING_EN[8752]["ID"] = 8752
 	STRING_EN[8752]["KEY"] = "KILL_MONSTER_31"
-	STRING_EN[8752]["VALUE"] = "Exorcism Breaking 31"
+	STRING_EN[8752]["VALUE"] = "Killing Spree XXXI"
 	STRING_EN[8752]["real_idx"] = 8752
 
 STRING_EN["index"][8753] = 8753
 STRING_EN[8753] = {}
 	STRING_EN[8753]["ID"] = 8753
 	STRING_EN[8753]["KEY"] = "KILL_MONSTER_32"
-	STRING_EN[8753]["VALUE"] = "Exorcism Breaking 32"
+	STRING_EN[8753]["VALUE"] = "Killing Spree XXXII"
 	STRING_EN[8753]["real_idx"] = 8753
 
 STRING_EN["index"][8754] = 8754
 STRING_EN[8754] = {}
 	STRING_EN[8754]["ID"] = 8754
 	STRING_EN[8754]["KEY"] = "KILL_MONSTER_33"
-	STRING_EN[8754]["VALUE"] = "Exorcism Breaking 33"
+	STRING_EN[8754]["VALUE"] = "Killing Spree XXXIII"
 	STRING_EN[8754]["real_idx"] = 8754
 
 STRING_EN["index"][8755] = 8755
 STRING_EN[8755] = {}
 	STRING_EN[8755]["ID"] = 8755
 	STRING_EN[8755]["KEY"] = "KILL_MONSTER_34"
-	STRING_EN[8755]["VALUE"] = "Exorcism Breaking 34"
+	STRING_EN[8755]["VALUE"] = "Killing Spree XXXIV"
 	STRING_EN[8755]["real_idx"] = 8755
 
 STRING_EN["index"][8756] = 8756
 STRING_EN[8756] = {}
 	STRING_EN[8756]["ID"] = 8756
 	STRING_EN[8756]["KEY"] = "KILL_MONSTER_35"
-	STRING_EN[8756]["VALUE"] = "Exorcism Breaking 35"
+	STRING_EN[8756]["VALUE"] = "Killing Spree XXXV"
 	STRING_EN[8756]["real_idx"] = 8756
 
 STRING_EN["index"][8757] = 8757
 STRING_EN[8757] = {}
 	STRING_EN[8757]["ID"] = 8757
 	STRING_EN[8757]["KEY"] = "KILL_MONSTER_36"
-	STRING_EN[8757]["VALUE"] = "Exorcism Breaking 36"
+	STRING_EN[8757]["VALUE"] = "Killing Spree XXXVI"
 	STRING_EN[8757]["real_idx"] = 8757
 
 STRING_EN["index"][8758] = 8758
 STRING_EN[8758] = {}
 	STRING_EN[8758]["ID"] = 8758
 	STRING_EN[8758]["KEY"] = "KILL_MONSTER_37"
-	STRING_EN[8758]["VALUE"] = "Exorcism Breaking 37"
+	STRING_EN[8758]["VALUE"] = "Killing Spree XXXVII"
 	STRING_EN[8758]["real_idx"] = 8758
 
 STRING_EN["index"][8759] = 8759
 STRING_EN[8759] = {}
 	STRING_EN[8759]["ID"] = 8759
 	STRING_EN[8759]["KEY"] = "KILL_MONSTER_38"
-	STRING_EN[8759]["VALUE"] = "Exorcism Breaking 38"
+	STRING_EN[8759]["VALUE"] = "Killing Spree XXXVIII"
 	STRING_EN[8759]["real_idx"] = 8759
 
 STRING_EN["index"][8760] = 8760
 STRING_EN[8760] = {}
 	STRING_EN[8760]["ID"] = 8760
 	STRING_EN[8760]["KEY"] = "KILL_MONSTER_39"
-	STRING_EN[8760]["VALUE"] = "Exorcism Breaking 39"
+	STRING_EN[8760]["VALUE"] = "Killing Spree XXXIX"
 	STRING_EN[8760]["real_idx"] = 8760
 
 STRING_EN["index"][8761] = 8761
 STRING_EN[8761] = {}
 	STRING_EN[8761]["ID"] = 8761
 	STRING_EN[8761]["KEY"] = "KILL_MONSTER_40"
-	STRING_EN[8761]["VALUE"] = "Exorcism Breaking 40"
+	STRING_EN[8761]["VALUE"] = "Killing Spree XL"
 	STRING_EN[8761]["real_idx"] = 8761
 
 STRING_EN["index"][8762] = 8762
 STRING_EN[8762] = {}
 	STRING_EN[8762]["ID"] = 8762
 	STRING_EN[8762]["KEY"] = "KILL_MONSTER_41"
-	STRING_EN[8762]["VALUE"] = "Exorcism Breaking 41"
+	STRING_EN[8762]["VALUE"] = "Killing Spree XLI"
 	STRING_EN[8762]["real_idx"] = 8762
 
 STRING_EN["index"][8763] = 8763
 STRING_EN[8763] = {}
 	STRING_EN[8763]["ID"] = 8763
 	STRING_EN[8763]["KEY"] = "KILL_MONSTER_42"
-	STRING_EN[8763]["VALUE"] = "Exorcism Breaking 42"
+	STRING_EN[8763]["VALUE"] = "Killing Spree XLII"
 	STRING_EN[8763]["real_idx"] = 8763
 
 STRING_EN["index"][8764] = 8764
 STRING_EN[8764] = {}
 	STRING_EN[8764]["ID"] = 8764
 	STRING_EN[8764]["KEY"] = "KILL_MONSTER_43"
-	STRING_EN[8764]["VALUE"] = "Exorcism Breaking 43"
+	STRING_EN[8764]["VALUE"] = "Killing Spree XLIII"
 	STRING_EN[8764]["real_idx"] = 8764
 
 STRING_EN["index"][8765] = 8765
 STRING_EN[8765] = {}
 	STRING_EN[8765]["ID"] = 8765
 	STRING_EN[8765]["KEY"] = "KILL_MONSTER_44"
-	STRING_EN[8765]["VALUE"] = "Exorcism Breaking 44"
+	STRING_EN[8765]["VALUE"] = "Killing Spree XLIV"
 	STRING_EN[8765]["real_idx"] = 8765
 
 STRING_EN["index"][8766] = 8766
 STRING_EN[8766] = {}
 	STRING_EN[8766]["ID"] = 8766
 	STRING_EN[8766]["KEY"] = "KILL_MONSTER_45"
-	STRING_EN[8766]["VALUE"] = "Exorcism Breaking 45"
+	STRING_EN[8766]["VALUE"] = "Killing Spree XLV"
 	STRING_EN[8766]["real_idx"] = 8766
 
 STRING_EN["index"][8767] = 8767
@@ -61541,1890 +61541,1890 @@ STRING_EN["index"][8792] = 8792
 STRING_EN[8792] = {}
 	STRING_EN[8792]["ID"] = 8792
 	STRING_EN[8792]["KEY"] = "M_RECHATRGE_LEV_1"
-	STRING_EN[8792]["VALUE"] = "Accumulated recharge reached 10 credits"
+	STRING_EN[8792]["VALUE"] = "Accumulated top-up reaches 10 Diamonds"
 	STRING_EN[8792]["real_idx"] = 8792
 
 STRING_EN["index"][8793] = 8793
 STRING_EN[8793] = {}
 	STRING_EN[8793]["ID"] = 8793
 	STRING_EN[8793]["KEY"] = "M_RECHATRGE_LEV_2"
-	STRING_EN[8793]["VALUE"] = "Accumulated recharge reached 70 credits"
+	STRING_EN[8793]["VALUE"] = "Accumulated top-up reaches 70 Diamonds"
 	STRING_EN[8793]["real_idx"] = 8793
 
 STRING_EN["index"][8794] = 8794
 STRING_EN[8794] = {}
 	STRING_EN[8794]["ID"] = 8794
 	STRING_EN[8794]["KEY"] = "M_RECHATRGE_LEV_3"
-	STRING_EN[8794]["VALUE"] = "Accumulated recharge reached 400 credits"
+	STRING_EN[8794]["VALUE"] = "Accumulated top-up reaches 400 Diamonds"
 	STRING_EN[8794]["real_idx"] = 8794
 
 STRING_EN["index"][8795] = 8795
 STRING_EN[8795] = {}
 	STRING_EN[8795]["ID"] = 8795
 	STRING_EN[8795]["KEY"] = "M_RECHATRGE_LEV_4"
-	STRING_EN[8795]["VALUE"] = "Accumulated recharge reached 1，000 credits"
+	STRING_EN[8795]["VALUE"] = "Accumulated top-up reaches 1000 Diamonds"
 	STRING_EN[8795]["real_idx"] = 8795
 
 STRING_EN["index"][8796] = 8796
 STRING_EN[8796] = {}
 	STRING_EN[8796]["ID"] = 8796
 	STRING_EN[8796]["KEY"] = "M_RECHATRGE_LEV_5"
-	STRING_EN[8796]["VALUE"] = "Accumulated recharge reached 2，000 credits"
+	STRING_EN[8796]["VALUE"] = "Accumulated top-up reaches 2000 Diamonds"
 	STRING_EN[8796]["real_idx"] = 8796
 
 STRING_EN["index"][8797] = 8797
 STRING_EN[8797] = {}
 	STRING_EN[8797]["ID"] = 8797
 	STRING_EN[8797]["KEY"] = "M_RECHATRGE_LEV_6"
-	STRING_EN[8797]["VALUE"] = "Accumulated recharge reached 4，000 credits"
+	STRING_EN[8797]["VALUE"] = "Accumulated top-up reaches 4000 Diamonds"
 	STRING_EN[8797]["real_idx"] = 8797
 
 STRING_EN["index"][8798] = 8798
 STRING_EN[8798] = {}
 	STRING_EN[8798]["ID"] = 8798
 	STRING_EN[8798]["KEY"] = "M_RECHATRGE_LEV_7"
-	STRING_EN[8798]["VALUE"] = "Accumulated recharge reached 7，000 credits"
+	STRING_EN[8798]["VALUE"] = "Accumulated top-up reaches 7000 Diamonds"
 	STRING_EN[8798]["real_idx"] = 8798
 
 STRING_EN["index"][8799] = 8799
 STRING_EN[8799] = {}
 	STRING_EN[8799]["ID"] = 8799
 	STRING_EN[8799]["KEY"] = "M_RECHATRGE_LEV_8"
-	STRING_EN[8799]["VALUE"] = "Accumulated recharge reached 10，000 credits"
+	STRING_EN[8799]["VALUE"] = "Accumulated top-up reaches 10000 Diamonds"
 	STRING_EN[8799]["real_idx"] = 8799
 
 STRING_EN["index"][8800] = 8800
 STRING_EN[8800] = {}
 	STRING_EN[8800]["ID"] = 8800
 	STRING_EN[8800]["KEY"] = "M_RECHATRGE_LEV_9"
-	STRING_EN[8800]["VALUE"] = "Accumulated recharge reached 20，000 credits"
+	STRING_EN[8800]["VALUE"] = "Accumulated top-up reaches 20000 Diamonds"
 	STRING_EN[8800]["real_idx"] = 8800
 
 STRING_EN["index"][8801] = 8801
 STRING_EN[8801] = {}
 	STRING_EN[8801]["ID"] = 8801
 	STRING_EN[8801]["KEY"] = "M_RECHATRGE_LEV_10"
-	STRING_EN[8801]["VALUE"] = "Accumulated recharge reached 30，000 credits"
+	STRING_EN[8801]["VALUE"] = "Accumulated top-up reaches 30000 Diamonds"
 	STRING_EN[8801]["real_idx"] = 8801
 
 STRING_EN["index"][8802] = 8802
 STRING_EN[8802] = {}
 	STRING_EN[8802]["ID"] = 8802
 	STRING_EN[8802]["KEY"] = "M_RECHATRGE_LEV_11"
-	STRING_EN[8802]["VALUE"] = "Accumulated recharge reached 40，000 credits"
+	STRING_EN[8802]["VALUE"] = "Accumulated top-up reaches 40000 Diamonds"
 	STRING_EN[8802]["real_idx"] = 8802
 
 STRING_EN["index"][8803] = 8803
 STRING_EN[8803] = {}
 	STRING_EN[8803]["ID"] = 8803
 	STRING_EN[8803]["KEY"] = "M_RECHATRGE_LEV_12"
-	STRING_EN[8803]["VALUE"] = "Accumulated recharge reached 50，000 credits"
+	STRING_EN[8803]["VALUE"] = "Accumulated top-up reaches 50000 Diamonds"
 	STRING_EN[8803]["real_idx"] = 8803
 
 STRING_EN["index"][8804] = 8804
 STRING_EN[8804] = {}
 	STRING_EN[8804]["ID"] = 8804
 	STRING_EN[8804]["KEY"] = "M_RECHATRGE_LEV_13"
-	STRING_EN[8804]["VALUE"] = "Accumulated recharge reached 60，000 credits"
+	STRING_EN[8804]["VALUE"] = "Accumulated top-up reaches 60000 Diamonds"
 	STRING_EN[8804]["real_idx"] = 8804
 
 STRING_EN["index"][8805] = 8805
 STRING_EN[8805] = {}
 	STRING_EN[8805]["ID"] = 8805
 	STRING_EN[8805]["KEY"] = "M_RECHATRGE_LEV_14"
-	STRING_EN[8805]["VALUE"] = "Accumulated recharge reached 70，000 credits"
+	STRING_EN[8805]["VALUE"] = "Accumulated top-up reaches 70000 Diamonds"
 	STRING_EN[8805]["real_idx"] = 8805
 
 STRING_EN["index"][8806] = 8806
 STRING_EN[8806] = {}
 	STRING_EN[8806]["ID"] = 8806
 	STRING_EN[8806]["KEY"] = "M_RECHATRGE_LEV_15"
-	STRING_EN[8806]["VALUE"] = "Accumulated recharge reached 90，000 credits"
+	STRING_EN[8806]["VALUE"] = "Accumulated top-up reaches 90000 Diamonds"
 	STRING_EN[8806]["real_idx"] = 8806
 
 STRING_EN["index"][8807] = 8807
 STRING_EN[8807] = {}
 	STRING_EN[8807]["ID"] = 8807
 	STRING_EN[8807]["KEY"] = "M_RECHATRGE_LEV_16"
-	STRING_EN[8807]["VALUE"] = "Accumulated recharge reached 110，000 credits"
+	STRING_EN[8807]["VALUE"] = "Accumulated top-up reaches 110000 Diamonds"
 	STRING_EN[8807]["real_idx"] = 8807
 
 STRING_EN["index"][8808] = 8808
 STRING_EN[8808] = {}
 	STRING_EN[8808]["ID"] = 8808
 	STRING_EN[8808]["KEY"] = "M_RECHATRGE_LEV_17"
-	STRING_EN[8808]["VALUE"] = "Accumulated recharge reached 130，000 credits"
+	STRING_EN[8808]["VALUE"] = "Accumulated top-up reaches 130000 Diamonds"
 	STRING_EN[8808]["real_idx"] = 8808
 
 STRING_EN["index"][8809] = 8809
 STRING_EN[8809] = {}
 	STRING_EN[8809]["ID"] = 8809
 	STRING_EN[8809]["KEY"] = "M_RECHATRGE_LEV_18"
-	STRING_EN[8809]["VALUE"] = "Accumulated recharge reached 150，000 credits"
+	STRING_EN[8809]["VALUE"] = "Accumulated top-up reaches 150000 Diamonds"
 	STRING_EN[8809]["real_idx"] = 8809
 
 STRING_EN["index"][8810] = 8810
 STRING_EN[8810] = {}
 	STRING_EN[8810]["ID"] = 8810
 	STRING_EN[8810]["KEY"] = "M_RECHATRGE_LEV_19"
-	STRING_EN[8810]["VALUE"] = "Accumulated recharge reached 170，000 credits"
+	STRING_EN[8810]["VALUE"] = "Accumulated top-up reaches 170000 Diamonds"
 	STRING_EN[8810]["real_idx"] = 8810
 
 STRING_EN["index"][8811] = 8811
 STRING_EN[8811] = {}
 	STRING_EN[8811]["ID"] = 8811
 	STRING_EN[8811]["KEY"] = "M_RECHATRGE_LEV_20"
-	STRING_EN[8811]["VALUE"] = "Accumulated recharge reached 190，000 credits"
+	STRING_EN[8811]["VALUE"] = "Accumulated top-up reaches 190000 Diamonds"
 	STRING_EN[8811]["real_idx"] = 8811
 
 STRING_EN["index"][8812] = 8812
 STRING_EN[8812] = {}
 	STRING_EN[8812]["ID"] = 8812
 	STRING_EN[8812]["KEY"] = "M_RECHATRGE_LEV_21"
-	STRING_EN[8812]["VALUE"] = "Accumulated recharge reached 220，000 credits"
+	STRING_EN[8812]["VALUE"] = "Accumulated top-up reaches 220000 Diamonds"
 	STRING_EN[8812]["real_idx"] = 8812
 
 STRING_EN["index"][8813] = 8813
 STRING_EN[8813] = {}
 	STRING_EN[8813]["ID"] = 8813
 	STRING_EN[8813]["KEY"] = "M_RECHATRGE_LEV_22"
-	STRING_EN[8813]["VALUE"] = "Accumulated recharge reached 250，000 credits"
+	STRING_EN[8813]["VALUE"] = "Accumulated top-up reaches 250000 Diamonds"
 	STRING_EN[8813]["real_idx"] = 8813
 
 STRING_EN["index"][8814] = 8814
 STRING_EN[8814] = {}
 	STRING_EN[8814]["ID"] = 8814
 	STRING_EN[8814]["KEY"] = "M_RECHATRGE_LEV_23"
-	STRING_EN[8814]["VALUE"] = "Accumulated recharge reached 280，000 credits"
+	STRING_EN[8814]["VALUE"] = "Accumulated top-up reaches 280000 Diamonds"
 	STRING_EN[8814]["real_idx"] = 8814
 
 STRING_EN["index"][8815] = 8815
 STRING_EN[8815] = {}
 	STRING_EN[8815]["ID"] = 8815
 	STRING_EN[8815]["KEY"] = "M_RECHATRGE_LEV_24"
-	STRING_EN[8815]["VALUE"] = "Accumulated recharge reached 310，000 credits"
+	STRING_EN[8815]["VALUE"] = "Accumulated top-up reaches 310000 Diamonds"
 	STRING_EN[8815]["real_idx"] = 8815
 
 STRING_EN["index"][8816] = 8816
 STRING_EN[8816] = {}
 	STRING_EN[8816]["ID"] = 8816
 	STRING_EN[8816]["KEY"] = "M_RECHATRGE_LEV_25"
-	STRING_EN[8816]["VALUE"] = "Accumulated recharge reached 340，000 credits"
+	STRING_EN[8816]["VALUE"] = "Accumulated top-up reaches 340000 Diamonds"
 	STRING_EN[8816]["real_idx"] = 8816
 
 STRING_EN["index"][8817] = 8817
 STRING_EN[8817] = {}
 	STRING_EN[8817]["ID"] = 8817
 	STRING_EN[8817]["KEY"] = "M_RECHATRGE_LEV_26"
-	STRING_EN[8817]["VALUE"] = "Accumulated recharge reached 370，000 credits"
+	STRING_EN[8817]["VALUE"] = "Accumulated top-up reaches 370000 Diamonds"
 	STRING_EN[8817]["real_idx"] = 8817
 
 STRING_EN["index"][8818] = 8818
 STRING_EN[8818] = {}
 	STRING_EN[8818]["ID"] = 8818
 	STRING_EN[8818]["KEY"] = "M_RECHATRGE_LEV_27"
-	STRING_EN[8818]["VALUE"] = "Accumulated recharge reached 410，000 credits"
+	STRING_EN[8818]["VALUE"] = "Accumulated top-up reaches 410000 Diamonds"
 	STRING_EN[8818]["real_idx"] = 8818
 
 STRING_EN["index"][8819] = 8819
 STRING_EN[8819] = {}
 	STRING_EN[8819]["ID"] = 8819
 	STRING_EN[8819]["KEY"] = "M_RECHATRGE_LEV_28"
-	STRING_EN[8819]["VALUE"] = "Accumulated recharge reached 450，000 credits"
+	STRING_EN[8819]["VALUE"] = "Accumulated top-up reaches 450000 Diamonds"
 	STRING_EN[8819]["real_idx"] = 8819
 
 STRING_EN["index"][8820] = 8820
 STRING_EN[8820] = {}
 	STRING_EN[8820]["ID"] = 8820
 	STRING_EN[8820]["KEY"] = "M_RECHATRGE_LEV_29"
-	STRING_EN[8820]["VALUE"] = "Accumulated recharge reached 49，000 credits"
+	STRING_EN[8820]["VALUE"] = "Accumulated top-up reaches 490000 Diamonds"
 	STRING_EN[8820]["real_idx"] = 8820
 
 STRING_EN["index"][8821] = 8821
 STRING_EN[8821] = {}
 	STRING_EN[8821]["ID"] = 8821
 	STRING_EN[8821]["KEY"] = "M_RECHATRGE_LEV_30"
-	STRING_EN[8821]["VALUE"] = "Accumulated recharge reached 530，000 credits"
+	STRING_EN[8821]["VALUE"] = "Accumulated top-up reaches 530000 Diamonds"
 	STRING_EN[8821]["real_idx"] = 8821
 
 STRING_EN["index"][8822] = 8822
 STRING_EN[8822] = {}
 	STRING_EN[8822]["ID"] = 8822
 	STRING_EN[8822]["KEY"] = "M_RECHATRGE_LEV_31"
-	STRING_EN[8822]["VALUE"] = "Accumulated recharge reached 570，000 credits"
+	STRING_EN[8822]["VALUE"] = "Accumulated top-up reaches 570000 Diamonds"
 	STRING_EN[8822]["real_idx"] = 8822
 
 STRING_EN["index"][8823] = 8823
 STRING_EN[8823] = {}
 	STRING_EN[8823]["ID"] = 8823
 	STRING_EN[8823]["KEY"] = "M_RECHATRGE_LEV_32"
-	STRING_EN[8823]["VALUE"] = "Accumulated recharge reached 610，000 credits"
+	STRING_EN[8823]["VALUE"] = "Accumulated top-up reaches 610000 Diamonds"
 	STRING_EN[8823]["real_idx"] = 8823
 
 STRING_EN["index"][8824] = 8824
 STRING_EN[8824] = {}
 	STRING_EN[8824]["ID"] = 8824
 	STRING_EN[8824]["KEY"] = "M_RECHATRGE_LEV_33"
-	STRING_EN[8824]["VALUE"] = "Accumulated recharge reached 650，000 credits"
+	STRING_EN[8824]["VALUE"] = "Accumulated top-up reaches 650000 Diamonds"
 	STRING_EN[8824]["real_idx"] = 8824
 
 STRING_EN["index"][8825] = 8825
 STRING_EN[8825] = {}
 	STRING_EN[8825]["ID"] = 8825
 	STRING_EN[8825]["KEY"] = "M_RECHATRGE_LEV_34"
-	STRING_EN[8825]["VALUE"] = "Accumulated recharge reached 700，000 credits"
+	STRING_EN[8825]["VALUE"] = "Accumulated top-up reaches 700000 Diamonds"
 	STRING_EN[8825]["real_idx"] = 8825
 
 STRING_EN["index"][8826] = 8826
 STRING_EN[8826] = {}
 	STRING_EN[8826]["ID"] = 8826
 	STRING_EN[8826]["KEY"] = "M_RECHATRGE_LEV_35"
-	STRING_EN[8826]["VALUE"] = "Accumulated recharge reached 750，000 credits"
+	STRING_EN[8826]["VALUE"] = "Accumulated top-up reaches 750000 Diamonds"
 	STRING_EN[8826]["real_idx"] = 8826
 
 STRING_EN["index"][8827] = 8827
 STRING_EN[8827] = {}
 	STRING_EN[8827]["ID"] = 8827
 	STRING_EN[8827]["KEY"] = "M_RECHATRGE_LEV_36"
-	STRING_EN[8827]["VALUE"] = "Accumulated recharge reached 800，000 credits"
+	STRING_EN[8827]["VALUE"] = "Accumulated top-up reaches 800000 Diamonds"
 	STRING_EN[8827]["real_idx"] = 8827
 
 STRING_EN["index"][8828] = 8828
 STRING_EN[8828] = {}
 	STRING_EN[8828]["ID"] = 8828
 	STRING_EN[8828]["KEY"] = "M_RECHATRGE_LEV_37"
-	STRING_EN[8828]["VALUE"] = "Accumulated recharge reached 850，000 credits"
+	STRING_EN[8828]["VALUE"] = "Accumulated top-up reaches 850000 Diamonds"
 	STRING_EN[8828]["real_idx"] = 8828
 
 STRING_EN["index"][8829] = 8829
 STRING_EN[8829] = {}
 	STRING_EN[8829]["ID"] = 8829
 	STRING_EN[8829]["KEY"] = "M_RECHATRGE_LEV_38"
-	STRING_EN[8829]["VALUE"] = "Accumulated recharge reached 900，000 credits"
+	STRING_EN[8829]["VALUE"] = "Accumulated top-up reaches 900000 Diamonds"
 	STRING_EN[8829]["real_idx"] = 8829
 
 STRING_EN["index"][8830] = 8830
 STRING_EN[8830] = {}
 	STRING_EN[8830]["ID"] = 8830
 	STRING_EN[8830]["KEY"] = "M_RECHATRGE_LEV_39"
-	STRING_EN[8830]["VALUE"] = "Accumulated recharge reached 950，000 credits"
+	STRING_EN[8830]["VALUE"] = "Accumulated top-up reaches 950000 Diamonds"
 	STRING_EN[8830]["real_idx"] = 8830
 
 STRING_EN["index"][8831] = 8831
 STRING_EN[8831] = {}
 	STRING_EN[8831]["ID"] = 8831
 	STRING_EN[8831]["KEY"] = "M_RECHATRGE_LEV_40"
-	STRING_EN[8831]["VALUE"] = "Accumulated recharge reached 1，010，000 credits"
+	STRING_EN[8831]["VALUE"] = "Accumulated top-up reaches 1010000 Diamonds"
 	STRING_EN[8831]["real_idx"] = 8831
 
 STRING_EN["index"][8832] = 8832
 STRING_EN[8832] = {}
 	STRING_EN[8832]["ID"] = 8832
 	STRING_EN[8832]["KEY"] = "M_RECHATRGE_LEV_41"
-	STRING_EN[8832]["VALUE"] = "Accumulated recharge reached 1，070，000 credits"
+	STRING_EN[8832]["VALUE"] = "Accumulated top-up reaches 1070000 Diamonds"
 	STRING_EN[8832]["real_idx"] = 8832
 
 STRING_EN["index"][8833] = 8833
 STRING_EN[8833] = {}
 	STRING_EN[8833]["ID"] = 8833
 	STRING_EN[8833]["KEY"] = "M_RECHATRGE_LEV_42"
-	STRING_EN[8833]["VALUE"] = "Accumulated recharge reached 1，130，000 credits"
+	STRING_EN[8833]["VALUE"] = "Accumulated top-up reaches 1130000 Diamonds"
 	STRING_EN[8833]["real_idx"] = 8833
 
 STRING_EN["index"][8834] = 8834
 STRING_EN[8834] = {}
 	STRING_EN[8834]["ID"] = 8834
 	STRING_EN[8834]["KEY"] = "M_RECHATRGE_LEV_43"
-	STRING_EN[8834]["VALUE"] = "Accumulated recharge reached 1，190，000 credits"
+	STRING_EN[8834]["VALUE"] = "Accumulated top-up reaches 1190000 Diamonds"
 	STRING_EN[8834]["real_idx"] = 8834
 
 STRING_EN["index"][8835] = 8835
 STRING_EN[8835] = {}
 	STRING_EN[8835]["ID"] = 8835
 	STRING_EN[8835]["KEY"] = "M_RECHATRGE_LEV_44"
-	STRING_EN[8835]["VALUE"] = "Accumulated recharge reached 1，250，000 credits"
+	STRING_EN[8835]["VALUE"] = "Accumulated top-up reaches 1250000 Diamonds"
 	STRING_EN[8835]["real_idx"] = 8835
 
 STRING_EN["index"][8836] = 8836
 STRING_EN[8836] = {}
 	STRING_EN[8836]["ID"] = 8836
 	STRING_EN[8836]["KEY"] = "M_RECHATRGE_LEV_45"
-	STRING_EN[8836]["VALUE"] = "Accumulated recharge reached 1，310，000 credits"
+	STRING_EN[8836]["VALUE"] = "Accumulated top-up reaches 1310000 Diamonds"
 	STRING_EN[8836]["real_idx"] = 8836
 
 STRING_EN["index"][8837] = 8837
 STRING_EN[8837] = {}
 	STRING_EN[8837]["ID"] = 8837
 	STRING_EN[8837]["KEY"] = "M_CONSUME_LEV_1"
-	STRING_EN[8837]["VALUE"] = "Accumulated consumption reached 50 credits"
+	STRING_EN[8837]["VALUE"] = "Cumulative consumption reaches 50 Diamonds"
 	STRING_EN[8837]["real_idx"] = 8837
 
 STRING_EN["index"][8838] = 8838
 STRING_EN[8838] = {}
 	STRING_EN[8838]["ID"] = 8838
 	STRING_EN[8838]["KEY"] = "M_CONSUME_LEV_2"
-	STRING_EN[8838]["VALUE"] = "Accumulated consumption reached 400 credits"
+	STRING_EN[8838]["VALUE"] = "Cumulative consumption reaches 400 Diamonds"
 	STRING_EN[8838]["real_idx"] = 8838
 
 STRING_EN["index"][8839] = 8839
 STRING_EN[8839] = {}
 	STRING_EN[8839]["ID"] = 8839
 	STRING_EN[8839]["KEY"] = "M_CONSUME_LEV_3"
-	STRING_EN[8839]["VALUE"] = "Accumulated consumption reached 2000 credits"
+	STRING_EN[8839]["VALUE"] = "Cumulative consumption reaches 2000 Diamonds"
 	STRING_EN[8839]["real_idx"] = 8839
 
 STRING_EN["index"][8840] = 8840
 STRING_EN[8840] = {}
 	STRING_EN[8840]["ID"] = 8840
 	STRING_EN[8840]["KEY"] = "M_CONSUME_LEV_4"
-	STRING_EN[8840]["VALUE"] = "Accumulated consumption reached 5000 credits"
+	STRING_EN[8840]["VALUE"] = "Cumulative consumption reaches 5000 Diamonds"
 	STRING_EN[8840]["real_idx"] = 8840
 
 STRING_EN["index"][8841] = 8841
 STRING_EN[8841] = {}
 	STRING_EN[8841]["ID"] = 8841
 	STRING_EN[8841]["KEY"] = "M_CONSUME_LEV_5"
-	STRING_EN[8841]["VALUE"] = "Accumulated consumption reached 10，000 credits"
+	STRING_EN[8841]["VALUE"] = "Cumulative consumption reaches 10000 Diamonds"
 	STRING_EN[8841]["real_idx"] = 8841
 
 STRING_EN["index"][8842] = 8842
 STRING_EN[8842] = {}
 	STRING_EN[8842]["ID"] = 8842
 	STRING_EN[8842]["KEY"] = "M_CONSUME_LEV_6"
-	STRING_EN[8842]["VALUE"] = "Accumulated consumption reached 20，000 credits"
+	STRING_EN[8842]["VALUE"] = "Cumulative consumption reaches 20000 Diamonds"
 	STRING_EN[8842]["real_idx"] = 8842
 
 STRING_EN["index"][8843] = 8843
 STRING_EN[8843] = {}
 	STRING_EN[8843]["ID"] = 8843
 	STRING_EN[8843]["KEY"] = "M_CONSUME_LEV_7"
-	STRING_EN[8843]["VALUE"] = "Accumulated consumption reached 40，000 credits"
+	STRING_EN[8843]["VALUE"] = "Cumulative consumption reaches 40000 Diamonds"
 	STRING_EN[8843]["real_idx"] = 8843
 
 STRING_EN["index"][8844] = 8844
 STRING_EN[8844] = {}
 	STRING_EN[8844]["ID"] = 8844
 	STRING_EN[8844]["KEY"] = "M_CONSUME_LEV_8"
-	STRING_EN[8844]["VALUE"] = "Accumulated consumption reached 60，000 credits"
+	STRING_EN[8844]["VALUE"] = "Cumulative consumption reaches 60000 Diamonds"
 	STRING_EN[8844]["real_idx"] = 8844
 
 STRING_EN["index"][8845] = 8845
 STRING_EN[8845] = {}
 	STRING_EN[8845]["ID"] = 8845
 	STRING_EN[8845]["KEY"] = "M_CONSUME_LEV_9"
-	STRING_EN[8845]["VALUE"] = "Accumulated consumption reached 90，000 credits"
+	STRING_EN[8845]["VALUE"] = "Cumulative consumption reaches 90000 Diamonds"
 	STRING_EN[8845]["real_idx"] = 8845
 
 STRING_EN["index"][8846] = 8846
 STRING_EN[8846] = {}
 	STRING_EN[8846]["ID"] = 8846
 	STRING_EN[8846]["KEY"] = "M_CONSUME_LEV_10"
-	STRING_EN[8846]["VALUE"] = "Accumulated consumption reached 130，000 credits"
+	STRING_EN[8846]["VALUE"] = "Cumulative consumption reaches 130000 Diamonds"
 	STRING_EN[8846]["real_idx"] = 8846
 
 STRING_EN["index"][8847] = 8847
 STRING_EN[8847] = {}
 	STRING_EN[8847]["ID"] = 8847
 	STRING_EN[8847]["KEY"] = "M_CONSUME_LEV_11"
-	STRING_EN[8847]["VALUE"] = "Accumulated consumption reached 180，000 credits"
+	STRING_EN[8847]["VALUE"] = "Cumulative consumption reaches 180000 Diamonds"
 	STRING_EN[8847]["real_idx"] = 8847
 
 STRING_EN["index"][8848] = 8848
 STRING_EN[8848] = {}
 	STRING_EN[8848]["ID"] = 8848
 	STRING_EN[8848]["KEY"] = "M_CONSUME_LEV_12"
-	STRING_EN[8848]["VALUE"] = "Accumulated consumption reached 240，000 credits"
+	STRING_EN[8848]["VALUE"] = "Cumulative consumption reaches 240000 Diamonds"
 	STRING_EN[8848]["real_idx"] = 8848
 
 STRING_EN["index"][8849] = 8849
 STRING_EN[8849] = {}
 	STRING_EN[8849]["ID"] = 8849
 	STRING_EN[8849]["KEY"] = "M_CONSUME_LEV_13"
-	STRING_EN[8849]["VALUE"] = "Accumulated consumption reached 300，000 credits"
+	STRING_EN[8849]["VALUE"] = "Cumulative consumption reaches 300000 Diamonds"
 	STRING_EN[8849]["real_idx"] = 8849
 
 STRING_EN["index"][8850] = 8850
 STRING_EN[8850] = {}
 	STRING_EN[8850]["ID"] = 8850
 	STRING_EN[8850]["KEY"] = "M_CONSUME_LEV_14"
-	STRING_EN[8850]["VALUE"] = "Accumulated consumption reached 370000 credits"
+	STRING_EN[8850]["VALUE"] = "Cumulative consumption reaches 370000 Diamonds"
 	STRING_EN[8850]["real_idx"] = 8850
 
 STRING_EN["index"][8851] = 8851
 STRING_EN[8851] = {}
 	STRING_EN[8851]["ID"] = 8851
 	STRING_EN[8851]["KEY"] = "M_CONSUME_LEV_15"
-	STRING_EN[8851]["VALUE"] = "Accumulated consumption reached 450，000 credits"
+	STRING_EN[8851]["VALUE"] = "Cumulative consumption reaches 450000 Diamonds"
 	STRING_EN[8851]["real_idx"] = 8851
 
 STRING_EN["index"][8852] = 8852
 STRING_EN[8852] = {}
 	STRING_EN[8852]["ID"] = 8852
 	STRING_EN[8852]["KEY"] = "M_CONSUME_LEV_16"
-	STRING_EN[8852]["VALUE"] = "Accumulated consumption reached 540，000 credits"
+	STRING_EN[8852]["VALUE"] = "Cumulative consumption reaches 540000 Diamonds"
 	STRING_EN[8852]["real_idx"] = 8852
 
 STRING_EN["index"][8853] = 8853
 STRING_EN[8853] = {}
 	STRING_EN[8853]["ID"] = 8853
 	STRING_EN[8853]["KEY"] = "M_CONSUME_LEV_17"
-	STRING_EN[8853]["VALUE"] = "Accumulated consumption reached 640000 credits"
+	STRING_EN[8853]["VALUE"] = "Cumulative consumption reaches 640000 Diamonds"
 	STRING_EN[8853]["real_idx"] = 8853
 
 STRING_EN["index"][8854] = 8854
 STRING_EN[8854] = {}
 	STRING_EN[8854]["ID"] = 8854
 	STRING_EN[8854]["KEY"] = "M_CONSUME_LEV_18"
-	STRING_EN[8854]["VALUE"] = "Accumulated consumption reached 740，000 credits"
+	STRING_EN[8854]["VALUE"] = "Cumulative consumption reaches 740000 Diamonds"
 	STRING_EN[8854]["real_idx"] = 8854
 
 STRING_EN["index"][8855] = 8855
 STRING_EN[8855] = {}
 	STRING_EN[8855]["ID"] = 8855
 	STRING_EN[8855]["KEY"] = "M_CONSUME_LEV_19"
-	STRING_EN[8855]["VALUE"] = "Accumulated consumption reached 850，000 credits"
+	STRING_EN[8855]["VALUE"] = "Cumulative consumption reaches 850000 Diamonds"
 	STRING_EN[8855]["real_idx"] = 8855
 
 STRING_EN["index"][8856] = 8856
 STRING_EN[8856] = {}
 	STRING_EN[8856]["ID"] = 8856
 	STRING_EN[8856]["KEY"] = "M_CONSUME_LEV_20"
-	STRING_EN[8856]["VALUE"] = "Accumulated consumption reached 970，000 credits"
+	STRING_EN[8856]["VALUE"] = "Cumulative consumption reaches 970000 Diamonds"
 	STRING_EN[8856]["real_idx"] = 8856
 
 STRING_EN["index"][8857] = 8857
 STRING_EN[8857] = {}
 	STRING_EN[8857]["ID"] = 8857
 	STRING_EN[8857]["KEY"] = "M_CONSUME_LEV_21"
-	STRING_EN[8857]["VALUE"] = "Accumulated consumption reached 1.1 million credits"
+	STRING_EN[8857]["VALUE"] = "Cumulative consumption reaches 1100000 Diamonds"
 	STRING_EN[8857]["real_idx"] = 8857
 
 STRING_EN["index"][8858] = 8858
 STRING_EN[8858] = {}
 	STRING_EN[8858]["ID"] = 8858
 	STRING_EN[8858]["KEY"] = "M_CONSUME_LEV_22"
-	STRING_EN[8858]["VALUE"] = "Accumulated consumption reached 1240000 credits"
+	STRING_EN[8858]["VALUE"] = "Cumulative consumption reaches 1240000 Diamonds"
 	STRING_EN[8858]["real_idx"] = 8858
 
 STRING_EN["index"][8859] = 8859
 STRING_EN[8859] = {}
 	STRING_EN[8859]["ID"] = 8859
 	STRING_EN[8859]["KEY"] = "M_CONSUME_LEV_23"
-	STRING_EN[8859]["VALUE"] = "Accumulated consumption reached 1380000 credits"
+	STRING_EN[8859]["VALUE"] = "Cumulative consumption reaches 1380000 Diamonds"
 	STRING_EN[8859]["real_idx"] = 8859
 
 STRING_EN["index"][8860] = 8860
 STRING_EN[8860] = {}
 	STRING_EN[8860]["ID"] = 8860
 	STRING_EN[8860]["KEY"] = "M_CONSUME_LEV_24"
-	STRING_EN[8860]["VALUE"] = "Accumulated consumption reached 5.3 million credits"
+	STRING_EN[8860]["VALUE"] = "Cumulative consumption reaches 1530000 Diamonds"
 	STRING_EN[8860]["real_idx"] = 8860
 
 STRING_EN["index"][8861] = 8861
 STRING_EN[8861] = {}
 	STRING_EN[8861]["ID"] = 8861
 	STRING_EN[8861]["KEY"] = "M_CONSUME_LEV_25"
-	STRING_EN[8861]["VALUE"] = "Accumulated consumption reached 169，000 credits"
+	STRING_EN[8861]["VALUE"] = "Cumulative consumption reaches 1690000 Diamonds"
 	STRING_EN[8861]["real_idx"] = 8861
 
 STRING_EN["index"][8862] = 8862
 STRING_EN[8862] = {}
 	STRING_EN[8862]["ID"] = 8862
 	STRING_EN[8862]["KEY"] = "M_CONSUME_LEV_26"
-	STRING_EN[8862]["VALUE"] = "Accumulated consumption reached 1860000 credits"
+	STRING_EN[8862]["VALUE"] = "Cumulative consumption reaches 1860000 Diamonds"
 	STRING_EN[8862]["real_idx"] = 8862
 
 STRING_EN["index"][8863] = 8863
 STRING_EN[8863] = {}
 	STRING_EN[8863]["ID"] = 8863
 	STRING_EN[8863]["KEY"] = "M_CONSUME_LEV_27"
-	STRING_EN[8863]["VALUE"] = "Accumulated consumption reached 2040000 credits"
+	STRING_EN[8863]["VALUE"] = "Cumulative consumption reaches 2040000 Diamonds"
 	STRING_EN[8863]["real_idx"] = 8863
 
 STRING_EN["index"][8864] = 8864
 STRING_EN[8864] = {}
 	STRING_EN[8864]["ID"] = 8864
 	STRING_EN[8864]["KEY"] = "M_CONSUME_LEV_28"
-	STRING_EN[8864]["VALUE"] = "Accumulated consumption reached 2220000 credits"
+	STRING_EN[8864]["VALUE"] = "Cumulative consumption reaches 2220000 Diamonds"
 	STRING_EN[8864]["real_idx"] = 8864
 
 STRING_EN["index"][8865] = 8865
 STRING_EN[8865] = {}
 	STRING_EN[8865]["ID"] = 8865
 	STRING_EN[8865]["KEY"] = "M_CONSUME_LEV_29"
-	STRING_EN[8865]["VALUE"] = "Accumulated consumption reached 2410，000 credits"
+	STRING_EN[8865]["VALUE"] = "Cumulative consumption reaches 2410000 Diamonds"
 	STRING_EN[8865]["real_idx"] = 8865
 
 STRING_EN["index"][8866] = 8866
 STRING_EN[8866] = {}
 	STRING_EN[8866]["ID"] = 8866
 	STRING_EN[8866]["KEY"] = "M_CONSUME_LEV_30"
-	STRING_EN[8866]["VALUE"] = "Accumulated consumption reached 2610，000 credits"
+	STRING_EN[8866]["VALUE"] = "Cumulative consumption reaches 2610000 Diamonds"
 	STRING_EN[8866]["real_idx"] = 8866
 
 STRING_EN["index"][8867] = 8867
 STRING_EN[8867] = {}
 	STRING_EN[8867]["ID"] = 8867
 	STRING_EN[8867]["KEY"] = "M_CONSUME_LEV_31"
-	STRING_EN[8867]["VALUE"] = "Accumulated consumption reached 28.2 million credits"
+	STRING_EN[8867]["VALUE"] = "Cumulative consumption reaches 2820000 Diamonds"
 	STRING_EN[8867]["real_idx"] = 8867
 
 STRING_EN["index"][8868] = 8868
 STRING_EN[8868] = {}
 	STRING_EN[8868]["ID"] = 8868
 	STRING_EN[8868]["KEY"] = "M_CONSUME_LEV_32"
-	STRING_EN[8868]["VALUE"] = "Accumulated consumption reached 3040000 credits"
+	STRING_EN[8868]["VALUE"] = "Cumulative consumption reaches 3040000 Diamonds"
 	STRING_EN[8868]["real_idx"] = 8868
 
 STRING_EN["index"][8869] = 8869
 STRING_EN[8869] = {}
 	STRING_EN[8869]["ID"] = 8869
 	STRING_EN[8869]["KEY"] = "M_CONSUME_LEV_33"
-	STRING_EN[8869]["VALUE"] = "Accumulated consumption reached 3260000 credits"
+	STRING_EN[8869]["VALUE"] = "Cumulative consumption reaches 3260000 Diamonds"
 	STRING_EN[8869]["real_idx"] = 8869
 
 STRING_EN["index"][8870] = 8870
 STRING_EN[8870] = {}
 	STRING_EN[8870]["ID"] = 8870
 	STRING_EN[8870]["KEY"] = "M_CONSUME_LEV_34"
-	STRING_EN[8870]["VALUE"] = "Accumulated consumption reached 3490000 credits"
+	STRING_EN[8870]["VALUE"] = "Cumulative consumption reaches 3490000 Diamonds"
 	STRING_EN[8870]["real_idx"] = 8870
 
 STRING_EN["index"][8871] = 8871
 STRING_EN[8871] = {}
 	STRING_EN[8871]["ID"] = 8871
 	STRING_EN[8871]["KEY"] = "M_CONSUME_LEV_35"
-	STRING_EN[8871]["VALUE"] = "Accumulated consumption reached 3730000 credits"
+	STRING_EN[8871]["VALUE"] = "Cumulative consumption reaches 3730000 Diamonds"
 	STRING_EN[8871]["real_idx"] = 8871
 
 STRING_EN["index"][8872] = 8872
 STRING_EN[8872] = {}
 	STRING_EN[8872]["ID"] = 8872
 	STRING_EN[8872]["KEY"] = "M_CONSUME_LEV_36"
-	STRING_EN[8872]["VALUE"] = "Accumulated consumption reached 3980000 credits"
+	STRING_EN[8872]["VALUE"] = "Cumulative consumption reaches 3980000 Diamonds"
 	STRING_EN[8872]["real_idx"] = 8872
 
 STRING_EN["index"][8873] = 8873
 STRING_EN[8873] = {}
 	STRING_EN[8873]["ID"] = 8873
 	STRING_EN[8873]["KEY"] = "M_CONSUME_LEV_37"
-	STRING_EN[8873]["VALUE"] = "Accumulated consumption reached 42.4 million credits"
+	STRING_EN[8873]["VALUE"] = "Cumulative consumption reaches 4240000 Diamonds"
 	STRING_EN[8873]["real_idx"] = 8873
 
 STRING_EN["index"][8874] = 8874
 STRING_EN[8874] = {}
 	STRING_EN[8874]["ID"] = 8874
 	STRING_EN[8874]["KEY"] = "M_CONSUME_LEV_38"
-	STRING_EN[8874]["VALUE"] = "Accumulated consumption reached 4.5 million credits"
+	STRING_EN[8874]["VALUE"] = "Cumulative consumption reaches 4500000 Diamonds"
 	STRING_EN[8874]["real_idx"] = 8874
 
 STRING_EN["index"][8875] = 8875
 STRING_EN[8875] = {}
 	STRING_EN[8875]["ID"] = 8875
 	STRING_EN[8875]["KEY"] = "M_CONSUME_LEV_39"
-	STRING_EN[8875]["VALUE"] = "Accumulated consumption reached 477，000 credits"
+	STRING_EN[8875]["VALUE"] = "Cumulative consumption reaches 4770000 Diamonds"
 	STRING_EN[8875]["real_idx"] = 8875
 
 STRING_EN["index"][8876] = 8876
 STRING_EN[8876] = {}
 	STRING_EN[8876]["ID"] = 8876
 	STRING_EN[8876]["KEY"] = "M_CONSUME_LEV_40"
-	STRING_EN[8876]["VALUE"] = "Accumulated consumption reached 5050000 credits"
+	STRING_EN[8876]["VALUE"] = "Cumulative consumption reaches 5050000 Diamonds"
 	STRING_EN[8876]["real_idx"] = 8876
 
 STRING_EN["index"][8877] = 8877
 STRING_EN[8877] = {}
 	STRING_EN[8877]["ID"] = 8877
 	STRING_EN[8877]["KEY"] = "M_CONSUME_LEV_41"
-	STRING_EN[8877]["VALUE"] = "Accumulated consumption reached 5340000 credits"
+	STRING_EN[8877]["VALUE"] = "Cumulative consumption reaches 5340000 Diamonds"
 	STRING_EN[8877]["real_idx"] = 8877
 
 STRING_EN["index"][8878] = 8878
 STRING_EN[8878] = {}
 	STRING_EN[8878]["ID"] = 8878
 	STRING_EN[8878]["KEY"] = "M_CONSUME_LEV_42"
-	STRING_EN[8878]["VALUE"] = "Accumulated consumption reached 5640000 credits"
+	STRING_EN[8878]["VALUE"] = "Cumulative consumption reaches 5640000 Diamonds"
 	STRING_EN[8878]["real_idx"] = 8878
 
 STRING_EN["index"][8879] = 8879
 STRING_EN[8879] = {}
 	STRING_EN[8879]["ID"] = 8879
 	STRING_EN[8879]["KEY"] = "M_CONSUME_LEV_43"
-	STRING_EN[8879]["VALUE"] = "Accumulated consumption reached 5940000 credits"
+	STRING_EN[8879]["VALUE"] = "Cumulative consumption reaches 5940000 Diamonds"
 	STRING_EN[8879]["real_idx"] = 8879
 
 STRING_EN["index"][8880] = 8880
 STRING_EN[8880] = {}
 	STRING_EN[8880]["ID"] = 8880
 	STRING_EN[8880]["KEY"] = "M_CONSUME_LEV_44"
-	STRING_EN[8880]["VALUE"] = "Accumulated consumption reached 6250000 credits"
+	STRING_EN[8880]["VALUE"] = "Cumulative consumption reaches 6250000 Diamonds"
 	STRING_EN[8880]["real_idx"] = 8880
 
 STRING_EN["index"][8881] = 8881
 STRING_EN[8881] = {}
 	STRING_EN[8881]["ID"] = 8881
 	STRING_EN[8881]["KEY"] = "M_CONSUME_LEV_45"
-	STRING_EN[8881]["VALUE"] = "Accumulated consumption reached 6570000 credits"
+	STRING_EN[8881]["VALUE"] = "Cumulative consumption reaches 6570000 Diamonds"
 	STRING_EN[8881]["real_idx"] = 8881
 
 STRING_EN["index"][8882] = 8882
 STRING_EN[8882] = {}
 	STRING_EN[8882]["ID"] = 8882
 	STRING_EN[8882]["KEY"] = "M_ATTACK_STRONGHOLD_1"
-	STRING_EN[8882]["VALUE"] = "Attack base successfully 4 times"
+	STRING_EN[8882]["VALUE"] = "Successfully attack stronghold 4 times"
 	STRING_EN[8882]["real_idx"] = 8882
 
 STRING_EN["index"][8883] = 8883
 STRING_EN[8883] = {}
 	STRING_EN[8883]["ID"] = 8883
 	STRING_EN[8883]["KEY"] = "M_ATTACK_STRONGHOLD_2"
-	STRING_EN[8883]["VALUE"] = "Attack base successfully 8 times"
+	STRING_EN[8883]["VALUE"] = "Successfully attack stronghold 8 times"
 	STRING_EN[8883]["real_idx"] = 8883
 
 STRING_EN["index"][8884] = 8884
 STRING_EN[8884] = {}
 	STRING_EN[8884]["ID"] = 8884
 	STRING_EN[8884]["KEY"] = "M_ATTACK_STRONGHOLD_3"
-	STRING_EN[8884]["VALUE"] = "Attack base successfully 16 times"
+	STRING_EN[8884]["VALUE"] = "Successfully attack stronghold 16 times"
 	STRING_EN[8884]["real_idx"] = 8884
 
 STRING_EN["index"][8885] = 8885
 STRING_EN[8885] = {}
 	STRING_EN[8885]["ID"] = 8885
 	STRING_EN[8885]["KEY"] = "M_ATTACK_STRONGHOLD_4"
-	STRING_EN[8885]["VALUE"] = "Attack base successfully 28 times"
+	STRING_EN[8885]["VALUE"] = "Successfully attack stronghold 28 times"
 	STRING_EN[8885]["real_idx"] = 8885
 
 STRING_EN["index"][8886] = 8886
 STRING_EN[8886] = {}
 	STRING_EN[8886]["ID"] = 8886
 	STRING_EN[8886]["KEY"] = "M_ATTACK_STRONGHOLD_5"
-	STRING_EN[8886]["VALUE"] = "Attack base successfully 44 times"
+	STRING_EN[8886]["VALUE"] = "Successfully attack stronghold 44 times"
 	STRING_EN[8886]["real_idx"] = 8886
 
 STRING_EN["index"][8887] = 8887
 STRING_EN[8887] = {}
 	STRING_EN[8887]["ID"] = 8887
 	STRING_EN[8887]["KEY"] = "M_ATTACK_STRONGHOLD_6"
-	STRING_EN[8887]["VALUE"] = "Attack base successfully 64 times"
+	STRING_EN[8887]["VALUE"] = "Successfully attack stronghold 64 times"
 	STRING_EN[8887]["real_idx"] = 8887
 
 STRING_EN["index"][8888] = 8888
 STRING_EN[8888] = {}
 	STRING_EN[8888]["ID"] = 8888
 	STRING_EN[8888]["KEY"] = "M_ATTACK_STRONGHOLD_7"
-	STRING_EN[8888]["VALUE"] = "Attack base successfully 88 times"
+	STRING_EN[8888]["VALUE"] = "Successfully attack stronghold 88 times"
 	STRING_EN[8888]["real_idx"] = 8888
 
 STRING_EN["index"][8889] = 8889
 STRING_EN[8889] = {}
 	STRING_EN[8889]["ID"] = 8889
 	STRING_EN[8889]["KEY"] = "M_ATTACK_STRONGHOLD_8"
-	STRING_EN[8889]["VALUE"] = "Attack base successfully 116 times"
+	STRING_EN[8889]["VALUE"] = "Successfully attack stronghold 116 times"
 	STRING_EN[8889]["real_idx"] = 8889
 
 STRING_EN["index"][8890] = 8890
 STRING_EN[8890] = {}
 	STRING_EN[8890]["ID"] = 8890
 	STRING_EN[8890]["KEY"] = "M_ATTACK_STRONGHOLD_9"
-	STRING_EN[8890]["VALUE"] = "Attack base successfully 148 times"
+	STRING_EN[8890]["VALUE"] = "Successfully attack stronghold 148 times"
 	STRING_EN[8890]["real_idx"] = 8890
 
 STRING_EN["index"][8891] = 8891
 STRING_EN[8891] = {}
 	STRING_EN[8891]["ID"] = 8891
 	STRING_EN[8891]["KEY"] = "M_ATTACK_STRONGHOLD_10"
-	STRING_EN[8891]["VALUE"] = "Attack base successfully 184 times"
+	STRING_EN[8891]["VALUE"] = "Successfully attack stronghold 184 times"
 	STRING_EN[8891]["real_idx"] = 8891
 
 STRING_EN["index"][8892] = 8892
 STRING_EN[8892] = {}
 	STRING_EN[8892]["ID"] = 8892
 	STRING_EN[8892]["KEY"] = "M_ATTACK_STRONGHOLD_11"
-	STRING_EN[8892]["VALUE"] = "Attack base successfully 224 times"
+	STRING_EN[8892]["VALUE"] = "Successfully attack stronghold 224 times"
 	STRING_EN[8892]["real_idx"] = 8892
 
 STRING_EN["index"][8893] = 8893
 STRING_EN[8893] = {}
 	STRING_EN[8893]["ID"] = 8893
 	STRING_EN[8893]["KEY"] = "M_ATTACK_STRONGHOLD_12"
-	STRING_EN[8893]["VALUE"] = "Attack base successfully 268 times"
+	STRING_EN[8893]["VALUE"] = "Successfully attack stronghold 268 times"
 	STRING_EN[8893]["real_idx"] = 8893
 
 STRING_EN["index"][8894] = 8894
 STRING_EN[8894] = {}
 	STRING_EN[8894]["ID"] = 8894
 	STRING_EN[8894]["KEY"] = "M_ATTACK_STRONGHOLD_13"
-	STRING_EN[8894]["VALUE"] = "Attack base successfully 316 times"
+	STRING_EN[8894]["VALUE"] = "Successfully attack stronghold 316 times"
 	STRING_EN[8894]["real_idx"] = 8894
 
 STRING_EN["index"][8895] = 8895
 STRING_EN[8895] = {}
 	STRING_EN[8895]["ID"] = 8895
 	STRING_EN[8895]["KEY"] = "M_ATTACK_STRONGHOLD_14"
-	STRING_EN[8895]["VALUE"] = "Attack base successfully 368 times"
+	STRING_EN[8895]["VALUE"] = "Successfully attack stronghold 368 times"
 	STRING_EN[8895]["real_idx"] = 8895
 
 STRING_EN["index"][8896] = 8896
 STRING_EN[8896] = {}
 	STRING_EN[8896]["ID"] = 8896
 	STRING_EN[8896]["KEY"] = "M_ATTACK_STRONGHOLD_15"
-	STRING_EN[8896]["VALUE"] = "Attack base successfully 424 times"
+	STRING_EN[8896]["VALUE"] = "Successfully attack stronghold 424 times"
 	STRING_EN[8896]["real_idx"] = 8896
 
 STRING_EN["index"][8897] = 8897
 STRING_EN[8897] = {}
 	STRING_EN[8897]["ID"] = 8897
 	STRING_EN[8897]["KEY"] = "M_ATTACK_STRONGHOLD_16"
-	STRING_EN[8897]["VALUE"] = "Attack base successfully 484 times"
+	STRING_EN[8897]["VALUE"] = "Successfully attack stronghold 484 times"
 	STRING_EN[8897]["real_idx"] = 8897
 
 STRING_EN["index"][8898] = 8898
 STRING_EN[8898] = {}
 	STRING_EN[8898]["ID"] = 8898
 	STRING_EN[8898]["KEY"] = "M_ATTACK_STRONGHOLD_17"
-	STRING_EN[8898]["VALUE"] = "Attack base successfully 548 times"
+	STRING_EN[8898]["VALUE"] = "Successfully attack stronghold 548 times"
 	STRING_EN[8898]["real_idx"] = 8898
 
 STRING_EN["index"][8899] = 8899
 STRING_EN[8899] = {}
 	STRING_EN[8899]["ID"] = 8899
 	STRING_EN[8899]["KEY"] = "M_ATTACK_STRONGHOLD_18"
-	STRING_EN[8899]["VALUE"] = "Attack base successfully 616 times"
+	STRING_EN[8899]["VALUE"] = "Successfully attack stronghold 616 times"
 	STRING_EN[8899]["real_idx"] = 8899
 
 STRING_EN["index"][8900] = 8900
 STRING_EN[8900] = {}
 	STRING_EN[8900]["ID"] = 8900
 	STRING_EN[8900]["KEY"] = "M_ATTACK_STRONGHOLD_19"
-	STRING_EN[8900]["VALUE"] = "Attack base successfully 688 times"
+	STRING_EN[8900]["VALUE"] = "Successfully attack stronghold 688 times"
 	STRING_EN[8900]["real_idx"] = 8900
 
 STRING_EN["index"][8901] = 8901
 STRING_EN[8901] = {}
 	STRING_EN[8901]["ID"] = 8901
 	STRING_EN[8901]["KEY"] = "M_ATTACK_STRONGHOLD_20"
-	STRING_EN[8901]["VALUE"] = "Attack base successfully 764 times"
+	STRING_EN[8901]["VALUE"] = "Successfully attack stronghold 764 times"
 	STRING_EN[8901]["real_idx"] = 8901
 
 STRING_EN["index"][8902] = 8902
 STRING_EN[8902] = {}
 	STRING_EN[8902]["ID"] = 8902
 	STRING_EN[8902]["KEY"] = "M_ATTACK_STRONGHOLD_21"
-	STRING_EN[8902]["VALUE"] = "Attack base successfully 844 times"
+	STRING_EN[8902]["VALUE"] = "Successfully attack stronghold 844 times"
 	STRING_EN[8902]["real_idx"] = 8902
 
 STRING_EN["index"][8903] = 8903
 STRING_EN[8903] = {}
 	STRING_EN[8903]["ID"] = 8903
 	STRING_EN[8903]["KEY"] = "M_ATTACK_STRONGHOLD_22"
-	STRING_EN[8903]["VALUE"] = "Attack base successfully 928 times"
+	STRING_EN[8903]["VALUE"] = "Successfully attack stronghold 928 times"
 	STRING_EN[8903]["real_idx"] = 8903
 
 STRING_EN["index"][8904] = 8904
 STRING_EN[8904] = {}
 	STRING_EN[8904]["ID"] = 8904
 	STRING_EN[8904]["KEY"] = "M_ATTACK_STRONGHOLD_23"
-	STRING_EN[8904]["VALUE"] = "Attack base successfully 1016 times"
+	STRING_EN[8904]["VALUE"] = "Successfully attack stronghold 1016 times"
 	STRING_EN[8904]["real_idx"] = 8904
 
 STRING_EN["index"][8905] = 8905
 STRING_EN[8905] = {}
 	STRING_EN[8905]["ID"] = 8905
 	STRING_EN[8905]["KEY"] = "M_ATTACK_STRONGHOLD_24"
-	STRING_EN[8905]["VALUE"] = "Attack base successfully 1108 times"
+	STRING_EN[8905]["VALUE"] = "Successfully attack stronghold 1108 times"
 	STRING_EN[8905]["real_idx"] = 8905
 
 STRING_EN["index"][8906] = 8906
 STRING_EN[8906] = {}
 	STRING_EN[8906]["ID"] = 8906
 	STRING_EN[8906]["KEY"] = "M_ATTACK_STRONGHOLD_25"
-	STRING_EN[8906]["VALUE"] = "The attack base succeeded 1204 times"
+	STRING_EN[8906]["VALUE"] = "Successfully attack stronghold 1204 times"
 	STRING_EN[8906]["real_idx"] = 8906
 
 STRING_EN["index"][8907] = 8907
 STRING_EN[8907] = {}
 	STRING_EN[8907]["ID"] = 8907
 	STRING_EN[8907]["KEY"] = "M_ATTACK_STRONGHOLD_26"
-	STRING_EN[8907]["VALUE"] = "Attack base successfully 1304 times"
+	STRING_EN[8907]["VALUE"] = "Successfully attack stronghold 1304 times"
 	STRING_EN[8907]["real_idx"] = 8907
 
 STRING_EN["index"][8908] = 8908
 STRING_EN[8908] = {}
 	STRING_EN[8908]["ID"] = 8908
 	STRING_EN[8908]["KEY"] = "M_ATTACK_STRONGHOLD_27"
-	STRING_EN[8908]["VALUE"] = "Attack base successfully 1408 times"
+	STRING_EN[8908]["VALUE"] = "Successfully attack stronghold 1408 times"
 	STRING_EN[8908]["real_idx"] = 8908
 
 STRING_EN["index"][8909] = 8909
 STRING_EN[8909] = {}
 	STRING_EN[8909]["ID"] = 8909
 	STRING_EN[8909]["KEY"] = "M_ATTACK_STRONGHOLD_28"
-	STRING_EN[8909]["VALUE"] = "Attack base successfully 1516 times"
+	STRING_EN[8909]["VALUE"] = "Successfully attack stronghold 1516 times"
 	STRING_EN[8909]["real_idx"] = 8909
 
 STRING_EN["index"][8910] = 8910
 STRING_EN[8910] = {}
 	STRING_EN[8910]["ID"] = 8910
 	STRING_EN[8910]["KEY"] = "M_ATTACK_STRONGHOLD_29"
-	STRING_EN[8910]["VALUE"] = "Attack base successfully 1628 times"
+	STRING_EN[8910]["VALUE"] = "Successfully attack stronghold 1628 times"
 	STRING_EN[8910]["real_idx"] = 8910
 
 STRING_EN["index"][8911] = 8911
 STRING_EN[8911] = {}
 	STRING_EN[8911]["ID"] = 8911
 	STRING_EN[8911]["KEY"] = "M_ATTACK_STRONGHOLD_30"
-	STRING_EN[8911]["VALUE"] = "Attack base successfully 1744 times"
+	STRING_EN[8911]["VALUE"] = "Successfully attack stronghold 1744 times"
 	STRING_EN[8911]["real_idx"] = 8911
 
 STRING_EN["index"][8912] = 8912
 STRING_EN[8912] = {}
 	STRING_EN[8912]["ID"] = 8912
 	STRING_EN[8912]["KEY"] = "M_ATTACK_STRONGHOLD_31"
-	STRING_EN[8912]["VALUE"] = "Attack base successfully 1864 times"
+	STRING_EN[8912]["VALUE"] = "Successfully attack stronghold 1864 times"
 	STRING_EN[8912]["real_idx"] = 8912
 
 STRING_EN["index"][8913] = 8913
 STRING_EN[8913] = {}
 	STRING_EN[8913]["ID"] = 8913
 	STRING_EN[8913]["KEY"] = "M_ATTACK_STRONGHOLD_32"
-	STRING_EN[8913]["VALUE"] = "Attack base successfully 1988 times"
+	STRING_EN[8913]["VALUE"] = "Successfully attack stronghold 1988 times"
 	STRING_EN[8913]["real_idx"] = 8913
 
 STRING_EN["index"][8914] = 8914
 STRING_EN[8914] = {}
 	STRING_EN[8914]["ID"] = 8914
 	STRING_EN[8914]["KEY"] = "M_ATTACK_STRONGHOLD_33"
-	STRING_EN[8914]["VALUE"] = "Attack base successfully 2116 times"
+	STRING_EN[8914]["VALUE"] = "Successfully attack stronghold 2116 times"
 	STRING_EN[8914]["real_idx"] = 8914
 
 STRING_EN["index"][8915] = 8915
 STRING_EN[8915] = {}
 	STRING_EN[8915]["ID"] = 8915
 	STRING_EN[8915]["KEY"] = "M_ATTACK_STRONGHOLD_34"
-	STRING_EN[8915]["VALUE"] = "Attack base successfully 2248 times"
+	STRING_EN[8915]["VALUE"] = "Successfully attack stronghold 2248 times"
 	STRING_EN[8915]["real_idx"] = 8915
 
 STRING_EN["index"][8916] = 8916
 STRING_EN[8916] = {}
 	STRING_EN[8916]["ID"] = 8916
 	STRING_EN[8916]["KEY"] = "M_ATTACK_STRONGHOLD_35"
-	STRING_EN[8916]["VALUE"] = "Attack base successfully 2384 times"
+	STRING_EN[8916]["VALUE"] = "Successfully attack stronghold 2384 times"
 	STRING_EN[8916]["real_idx"] = 8916
 
 STRING_EN["index"][8917] = 8917
 STRING_EN[8917] = {}
 	STRING_EN[8917]["ID"] = 8917
 	STRING_EN[8917]["KEY"] = "M_ATTACK_STRONGHOLD_36"
-	STRING_EN[8917]["VALUE"] = "Attack base successfully 2524 times"
+	STRING_EN[8917]["VALUE"] = "Successfully attack stronghold 2524 times"
 	STRING_EN[8917]["real_idx"] = 8917
 
 STRING_EN["index"][8918] = 8918
 STRING_EN[8918] = {}
 	STRING_EN[8918]["ID"] = 8918
 	STRING_EN[8918]["KEY"] = "M_ATTACK_STRONGHOLD_37"
-	STRING_EN[8918]["VALUE"] = "Attack base successfully 2668 times"
+	STRING_EN[8918]["VALUE"] = "Successfully attack stronghold 2668 times"
 	STRING_EN[8918]["real_idx"] = 8918
 
 STRING_EN["index"][8919] = 8919
 STRING_EN[8919] = {}
 	STRING_EN[8919]["ID"] = 8919
 	STRING_EN[8919]["KEY"] = "M_ATTACK_STRONGHOLD_38"
-	STRING_EN[8919]["VALUE"] = "Attack base successfully 2816 times"
+	STRING_EN[8919]["VALUE"] = "Successfully attack stronghold 2816 times"
 	STRING_EN[8919]["real_idx"] = 8919
 
 STRING_EN["index"][8920] = 8920
 STRING_EN[8920] = {}
 	STRING_EN[8920]["ID"] = 8920
 	STRING_EN[8920]["KEY"] = "M_ATTACK_STRONGHOLD_39"
-	STRING_EN[8920]["VALUE"] = "Attack base successfully 2968 times"
+	STRING_EN[8920]["VALUE"] = "Successfully attack stronghold 2968 times"
 	STRING_EN[8920]["real_idx"] = 8920
 
 STRING_EN["index"][8921] = 8921
 STRING_EN[8921] = {}
 	STRING_EN[8921]["ID"] = 8921
 	STRING_EN[8921]["KEY"] = "M_ATTACK_STRONGHOLD_40"
-	STRING_EN[8921]["VALUE"] = "Attack base successfully 3124 times"
+	STRING_EN[8921]["VALUE"] = "Successfully attack stronghold 3124 times"
 	STRING_EN[8921]["real_idx"] = 8921
 
 STRING_EN["index"][8922] = 8922
 STRING_EN[8922] = {}
 	STRING_EN[8922]["ID"] = 8922
 	STRING_EN[8922]["KEY"] = "M_ATTACK_STRONGHOLD_41"
-	STRING_EN[8922]["VALUE"] = "Attack base successfully 3284 times"
+	STRING_EN[8922]["VALUE"] = "Successfully attack stronghold 3284 times"
 	STRING_EN[8922]["real_idx"] = 8922
 
 STRING_EN["index"][8923] = 8923
 STRING_EN[8923] = {}
 	STRING_EN[8923]["ID"] = 8923
 	STRING_EN[8923]["KEY"] = "M_ATTACK_STRONGHOLD_42"
-	STRING_EN[8923]["VALUE"] = "Attack base successfully 3448 times"
+	STRING_EN[8923]["VALUE"] = "Successfully attack stronghold 3448 times"
 	STRING_EN[8923]["real_idx"] = 8923
 
 STRING_EN["index"][8924] = 8924
 STRING_EN[8924] = {}
 	STRING_EN[8924]["ID"] = 8924
 	STRING_EN[8924]["KEY"] = "M_ATTACK_STRONGHOLD_43"
-	STRING_EN[8924]["VALUE"] = "Attack base successfully 3616 times"
+	STRING_EN[8924]["VALUE"] = "Successfully attack stronghold 3616 times"
 	STRING_EN[8924]["real_idx"] = 8924
 
 STRING_EN["index"][8925] = 8925
 STRING_EN[8925] = {}
 	STRING_EN[8925]["ID"] = 8925
 	STRING_EN[8925]["KEY"] = "M_ATTACK_STRONGHOLD_44"
-	STRING_EN[8925]["VALUE"] = "Attack base successfully 3788 times"
+	STRING_EN[8925]["VALUE"] = "Successfully attack stronghold 3788 times"
 	STRING_EN[8925]["real_idx"] = 8925
 
 STRING_EN["index"][8926] = 8926
 STRING_EN[8926] = {}
 	STRING_EN[8926]["ID"] = 8926
 	STRING_EN[8926]["KEY"] = "M_ATTACK_STRONGHOLD_45"
-	STRING_EN[8926]["VALUE"] = "Attack base successfully 3964 times"
+	STRING_EN[8926]["VALUE"] = "Successfully attack stronghold 3964 times"
 	STRING_EN[8926]["real_idx"] = 8926
 
 STRING_EN["index"][8927] = 8927
 STRING_EN[8927] = {}
 	STRING_EN[8927]["ID"] = 8927
 	STRING_EN[8927]["KEY"] = "M_ATTACK_VICTORY_1"
-	STRING_EN[8927]["VALUE"] = "Attack (space station， stronghold) victory 8 times"
+	STRING_EN[8927]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 8 times"
 	STRING_EN[8927]["real_idx"] = 8927
 
 STRING_EN["index"][8928] = 8928
 STRING_EN[8928] = {}
 	STRING_EN[8928]["ID"] = 8928
 	STRING_EN[8928]["KEY"] = "M_ATTACK_VICTORY_2"
-	STRING_EN[8928]["VALUE"] = "Attack (space station， stronghold) victory 20 times"
+	STRING_EN[8928]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 20 times"
 	STRING_EN[8928]["real_idx"] = 8928
 
 STRING_EN["index"][8929] = 8929
 STRING_EN[8929] = {}
 	STRING_EN[8929]["ID"] = 8929
 	STRING_EN[8929]["KEY"] = "M_ATTACK_VICTORY_3"
-	STRING_EN[8929]["VALUE"] = "Attack (space station， stronghold) victory 44 times"
+	STRING_EN[8929]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 44 times"
 	STRING_EN[8929]["real_idx"] = 8929
 
 STRING_EN["index"][8930] = 8930
 STRING_EN[8930] = {}
 	STRING_EN[8930]["ID"] = 8930
 	STRING_EN[8930]["KEY"] = "M_ATTACK_VICTORY_4"
-	STRING_EN[8930]["VALUE"] = "Attack (space station， stronghold) victory 80 times"
+	STRING_EN[8930]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 80 times"
 	STRING_EN[8930]["real_idx"] = 8930
 
 STRING_EN["index"][8931] = 8931
 STRING_EN[8931] = {}
 	STRING_EN[8931]["ID"] = 8931
 	STRING_EN[8931]["KEY"] = "M_ATTACK_VICTORY_5"
-	STRING_EN[8931]["VALUE"] = "Attack (space station， stronghold) victory 128 times"
+	STRING_EN[8931]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 128 times"
 	STRING_EN[8931]["real_idx"] = 8931
 
 STRING_EN["index"][8932] = 8932
 STRING_EN[8932] = {}
 	STRING_EN[8932]["ID"] = 8932
 	STRING_EN[8932]["KEY"] = "M_ATTACK_VICTORY_6"
-	STRING_EN[8932]["VALUE"] = "Attack (space station， stronghold) victory 188 times"
+	STRING_EN[8932]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 188 times"
 	STRING_EN[8932]["real_idx"] = 8932
 
 STRING_EN["index"][8933] = 8933
 STRING_EN[8933] = {}
 	STRING_EN[8933]["ID"] = 8933
 	STRING_EN[8933]["KEY"] = "M_ATTACK_VICTORY_7"
-	STRING_EN[8933]["VALUE"] = "Attack (space station， stronghold) victory 260 times"
+	STRING_EN[8933]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 260 times"
 	STRING_EN[8933]["real_idx"] = 8933
 
 STRING_EN["index"][8934] = 8934
 STRING_EN[8934] = {}
 	STRING_EN[8934]["ID"] = 8934
 	STRING_EN[8934]["KEY"] = "M_ATTACK_VICTORY_8"
-	STRING_EN[8934]["VALUE"] = "Attack (space station， stronghold) victory 344 times"
+	STRING_EN[8934]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 344 times"
 	STRING_EN[8934]["real_idx"] = 8934
 
 STRING_EN["index"][8935] = 8935
 STRING_EN[8935] = {}
 	STRING_EN[8935]["ID"] = 8935
 	STRING_EN[8935]["KEY"] = "M_ATTACK_VICTORY_9"
-	STRING_EN[8935]["VALUE"] = "Attack (space station， stronghold) victory 440 times"
+	STRING_EN[8935]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 440 times"
 	STRING_EN[8935]["real_idx"] = 8935
 
 STRING_EN["index"][8936] = 8936
 STRING_EN[8936] = {}
 	STRING_EN[8936]["ID"] = 8936
 	STRING_EN[8936]["KEY"] = "M_ATTACK_VICTORY_10"
-	STRING_EN[8936]["VALUE"] = "Attack (space station， stronghold) victory 548 times"
+	STRING_EN[8936]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 548 times"
 	STRING_EN[8936]["real_idx"] = 8936
 
 STRING_EN["index"][8937] = 8937
 STRING_EN[8937] = {}
 	STRING_EN[8937]["ID"] = 8937
 	STRING_EN[8937]["KEY"] = "M_ATTACK_VICTORY_11"
-	STRING_EN[8937]["VALUE"] = "Attack (space station， stronghold) victory 668 times"
+	STRING_EN[8937]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 668 times"
 	STRING_EN[8937]["real_idx"] = 8937
 
 STRING_EN["index"][8938] = 8938
 STRING_EN[8938] = {}
 	STRING_EN[8938]["ID"] = 8938
 	STRING_EN[8938]["KEY"] = "M_ATTACK_VICTORY_12"
-	STRING_EN[8938]["VALUE"] = "Attack (space station， stronghold) victory 800 times"
+	STRING_EN[8938]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 800 times"
 	STRING_EN[8938]["real_idx"] = 8938
 
 STRING_EN["index"][8939] = 8939
 STRING_EN[8939] = {}
 	STRING_EN[8939]["ID"] = 8939
 	STRING_EN[8939]["KEY"] = "M_ATTACK_VICTORY_13"
-	STRING_EN[8939]["VALUE"] = "Attack (space station， stronghold) victory 944 times"
+	STRING_EN[8939]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 944 times"
 	STRING_EN[8939]["real_idx"] = 8939
 
 STRING_EN["index"][8940] = 8940
 STRING_EN[8940] = {}
 	STRING_EN[8940]["ID"] = 8940
 	STRING_EN[8940]["KEY"] = "M_ATTACK_VICTORY_14"
-	STRING_EN[8940]["VALUE"] = "Attack (space station， stronghold) victory 1100 times"
+	STRING_EN[8940]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 1100 times"
 	STRING_EN[8940]["real_idx"] = 8940
 
 STRING_EN["index"][8941] = 8941
 STRING_EN[8941] = {}
 	STRING_EN[8941]["ID"] = 8941
 	STRING_EN[8941]["KEY"] = "M_ATTACK_VICTORY_15"
-	STRING_EN[8941]["VALUE"] = "Attack (space station， stronghold) victory 1268 times"
+	STRING_EN[8941]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 1268 times"
 	STRING_EN[8941]["real_idx"] = 8941
 
 STRING_EN["index"][8942] = 8942
 STRING_EN[8942] = {}
 	STRING_EN[8942]["ID"] = 8942
 	STRING_EN[8942]["KEY"] = "M_ATTACK_VICTORY_16"
-	STRING_EN[8942]["VALUE"] = "Attack (space station， stronghold) victory 1448 times"
+	STRING_EN[8942]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 1448 times"
 	STRING_EN[8942]["real_idx"] = 8942
 
 STRING_EN["index"][8943] = 8943
 STRING_EN[8943] = {}
 	STRING_EN[8943]["ID"] = 8943
 	STRING_EN[8943]["KEY"] = "M_ATTACK_VICTORY_17"
-	STRING_EN[8943]["VALUE"] = "Attack (space station， stronghold) victory 1640 times"
+	STRING_EN[8943]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 1640 times"
 	STRING_EN[8943]["real_idx"] = 8943
 
 STRING_EN["index"][8944] = 8944
 STRING_EN[8944] = {}
 	STRING_EN[8944]["ID"] = 8944
 	STRING_EN[8944]["KEY"] = "M_ATTACK_VICTORY_18"
-	STRING_EN[8944]["VALUE"] = "Attack (space station， stronghold) victory 1844 times"
+	STRING_EN[8944]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 1844 times"
 	STRING_EN[8944]["real_idx"] = 8944
 
 STRING_EN["index"][8945] = 8945
 STRING_EN[8945] = {}
 	STRING_EN[8945]["ID"] = 8945
 	STRING_EN[8945]["KEY"] = "M_ATTACK_VICTORY_19"
-	STRING_EN[8945]["VALUE"] = "Attack (space station， stronghold) victory 2060 times"
+	STRING_EN[8945]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 2060 times"
 	STRING_EN[8945]["real_idx"] = 8945
 
 STRING_EN["index"][8946] = 8946
 STRING_EN[8946] = {}
 	STRING_EN[8946]["ID"] = 8946
 	STRING_EN[8946]["KEY"] = "M_ATTACK_VICTORY_20"
-	STRING_EN[8946]["VALUE"] = "Attack (space station， stronghold) victory 2288 times"
+	STRING_EN[8946]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 2288 times"
 	STRING_EN[8946]["real_idx"] = 8946
 
 STRING_EN["index"][8947] = 8947
 STRING_EN[8947] = {}
 	STRING_EN[8947]["ID"] = 8947
 	STRING_EN[8947]["KEY"] = "M_ATTACK_VICTORY_21"
-	STRING_EN[8947]["VALUE"] = "Attack (space station， stronghold) victory 2528 times"
+	STRING_EN[8947]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 2528 times"
 	STRING_EN[8947]["real_idx"] = 8947
 
 STRING_EN["index"][8948] = 8948
 STRING_EN[8948] = {}
 	STRING_EN[8948]["ID"] = 8948
 	STRING_EN[8948]["KEY"] = "M_ATTACK_VICTORY_22"
-	STRING_EN[8948]["VALUE"] = "Attack (space station， stronghold) victory 2780 times"
+	STRING_EN[8948]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 2780 times"
 	STRING_EN[8948]["real_idx"] = 8948
 
 STRING_EN["index"][8949] = 8949
 STRING_EN[8949] = {}
 	STRING_EN[8949]["ID"] = 8949
 	STRING_EN[8949]["KEY"] = "M_ATTACK_VICTORY_23"
-	STRING_EN[8949]["VALUE"] = "Attack (space station， stronghold) victory 3044 times"
+	STRING_EN[8949]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 3044 times"
 	STRING_EN[8949]["real_idx"] = 8949
 
 STRING_EN["index"][8950] = 8950
 STRING_EN[8950] = {}
 	STRING_EN[8950]["ID"] = 8950
 	STRING_EN[8950]["KEY"] = "M_ATTACK_VICTORY_24"
-	STRING_EN[8950]["VALUE"] = "Attack (space station， stronghold) victory 3320 times"
+	STRING_EN[8950]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 3320 times"
 	STRING_EN[8950]["real_idx"] = 8950
 
 STRING_EN["index"][8951] = 8951
 STRING_EN[8951] = {}
 	STRING_EN[8951]["ID"] = 8951
 	STRING_EN[8951]["KEY"] = "M_ATTACK_VICTORY_25"
-	STRING_EN[8951]["VALUE"] = "Attack (space station， stronghold) victory 3608 times"
+	STRING_EN[8951]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 3608 times"
 	STRING_EN[8951]["real_idx"] = 8951
 
 STRING_EN["index"][8952] = 8952
 STRING_EN[8952] = {}
 	STRING_EN[8952]["ID"] = 8952
 	STRING_EN[8952]["KEY"] = "M_ATTACK_VICTORY_26"
-	STRING_EN[8952]["VALUE"] = "Attack (space station， stronghold) victory 3908 times"
+	STRING_EN[8952]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 3908 times"
 	STRING_EN[8952]["real_idx"] = 8952
 
 STRING_EN["index"][8953] = 8953
 STRING_EN[8953] = {}
 	STRING_EN[8953]["ID"] = 8953
 	STRING_EN[8953]["KEY"] = "M_ATTACK_VICTORY_27"
-	STRING_EN[8953]["VALUE"] = "Attack (space station， stronghold) victory 4220 times"
+	STRING_EN[8953]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 4220 times"
 	STRING_EN[8953]["real_idx"] = 8953
 
 STRING_EN["index"][8954] = 8954
 STRING_EN[8954] = {}
 	STRING_EN[8954]["ID"] = 8954
 	STRING_EN[8954]["KEY"] = "M_ATTACK_VICTORY_28"
-	STRING_EN[8954]["VALUE"] = "Attack (space station， stronghold) victory 4454 times"
+	STRING_EN[8954]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 4544 times"
 	STRING_EN[8954]["real_idx"] = 8954
 
 STRING_EN["index"][8955] = 8955
 STRING_EN[8955] = {}
 	STRING_EN[8955]["ID"] = 8955
 	STRING_EN[8955]["KEY"] = "M_ATTACK_VICTORY_29"
-	STRING_EN[8955]["VALUE"] = "Attack (space station， stronghold) victory 4880 times"
+	STRING_EN[8955]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 4880 times"
 	STRING_EN[8955]["real_idx"] = 8955
 
 STRING_EN["index"][8956] = 8956
 STRING_EN[8956] = {}
 	STRING_EN[8956]["ID"] = 8956
 	STRING_EN[8956]["KEY"] = "M_ATTACK_VICTORY_30"
-	STRING_EN[8956]["VALUE"] = "Attack (space station， stronghold) victory 5228 times"
+	STRING_EN[8956]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 5228 times"
 	STRING_EN[8956]["real_idx"] = 8956
 
 STRING_EN["index"][8957] = 8957
 STRING_EN[8957] = {}
 	STRING_EN[8957]["ID"] = 8957
 	STRING_EN[8957]["KEY"] = "M_ATTACK_VICTORY_31"
-	STRING_EN[8957]["VALUE"] = "Attack (space station， stronghold) victory 5588 times"
+	STRING_EN[8957]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 5588 times"
 	STRING_EN[8957]["real_idx"] = 8957
 
 STRING_EN["index"][8958] = 8958
 STRING_EN[8958] = {}
 	STRING_EN[8958]["ID"] = 8958
 	STRING_EN[8958]["KEY"] = "M_ATTACK_VICTORY_32"
-	STRING_EN[8958]["VALUE"] = "Attack (space station， stronghold) victory 5960 times"
+	STRING_EN[8958]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 5960 times"
 	STRING_EN[8958]["real_idx"] = 8958
 
 STRING_EN["index"][8959] = 8959
 STRING_EN[8959] = {}
 	STRING_EN[8959]["ID"] = 8959
 	STRING_EN[8959]["KEY"] = "M_ATTACK_VICTORY_33"
-	STRING_EN[8959]["VALUE"] = "Attack (space station， stronghold) victory 6344 times"
+	STRING_EN[8959]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 6344 times"
 	STRING_EN[8959]["real_idx"] = 8959
 
 STRING_EN["index"][8960] = 8960
 STRING_EN[8960] = {}
 	STRING_EN[8960]["ID"] = 8960
 	STRING_EN[8960]["KEY"] = "M_ATTACK_VICTORY_34"
-	STRING_EN[8960]["VALUE"] = "Attack (space station， stronghold) victory 6740 times"
+	STRING_EN[8960]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 6740 times"
 	STRING_EN[8960]["real_idx"] = 8960
 
 STRING_EN["index"][8961] = 8961
 STRING_EN[8961] = {}
 	STRING_EN[8961]["ID"] = 8961
 	STRING_EN[8961]["KEY"] = "M_ATTACK_VICTORY_35"
-	STRING_EN[8961]["VALUE"] = "Attack (space station， stronghold) victory 7148 times"
+	STRING_EN[8961]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 7148 times"
 	STRING_EN[8961]["real_idx"] = 8961
 
 STRING_EN["index"][8962] = 8962
 STRING_EN[8962] = {}
 	STRING_EN[8962]["ID"] = 8962
 	STRING_EN[8962]["KEY"] = "M_ATTACK_VICTORY_36"
-	STRING_EN[8962]["VALUE"] = "Attack (space station， stronghold) victory 7568 times"
+	STRING_EN[8962]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 7568 times"
 	STRING_EN[8962]["real_idx"] = 8962
 
 STRING_EN["index"][8963] = 8963
 STRING_EN[8963] = {}
 	STRING_EN[8963]["ID"] = 8963
 	STRING_EN[8963]["KEY"] = "M_ATTACK_VICTORY_37"
-	STRING_EN[8963]["VALUE"] = "Attack (space station， stronghold) victory 8000 times"
+	STRING_EN[8963]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 8000 times"
 	STRING_EN[8963]["real_idx"] = 8963
 
 STRING_EN["index"][8964] = 8964
 STRING_EN[8964] = {}
 	STRING_EN[8964]["ID"] = 8964
 	STRING_EN[8964]["KEY"] = "M_ATTACK_VICTORY_38"
-	STRING_EN[8964]["VALUE"] = "Attack (space station， stronghold) victory 8844 times"
+	STRING_EN[8964]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 8444 times"
 	STRING_EN[8964]["real_idx"] = 8964
 
 STRING_EN["index"][8965] = 8965
 STRING_EN[8965] = {}
 	STRING_EN[8965]["ID"] = 8965
 	STRING_EN[8965]["KEY"] = "M_ATTACK_VICTORY_39"
-	STRING_EN[8965]["VALUE"] = "Attack (space station， stronghold) victory 8900 times"
+	STRING_EN[8965]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 8900 times"
 	STRING_EN[8965]["real_idx"] = 8965
 
 STRING_EN["index"][8966] = 8966
 STRING_EN[8966] = {}
 	STRING_EN[8966]["ID"] = 8966
 	STRING_EN[8966]["KEY"] = "M_ATTACK_VICTORY_40"
-	STRING_EN[8966]["VALUE"] = "Attack (space station， stronghold) victory 9368 times"
+	STRING_EN[8966]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 9368 times"
 	STRING_EN[8966]["real_idx"] = 8966
 
 STRING_EN["index"][8967] = 8967
 STRING_EN[8967] = {}
 	STRING_EN[8967]["ID"] = 8967
 	STRING_EN[8967]["KEY"] = "M_ATTACK_VICTORY_41"
-	STRING_EN[8967]["VALUE"] = "Attack (space station， stronghold) victory 9848 times"
+	STRING_EN[8967]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 9848 times"
 	STRING_EN[8967]["real_idx"] = 8967
 
 STRING_EN["index"][8968] = 8968
 STRING_EN[8968] = {}
 	STRING_EN[8968]["ID"] = 8968
 	STRING_EN[8968]["KEY"] = "M_ATTACK_VICTORY_42"
-	STRING_EN[8968]["VALUE"] = "Attack (space station， stronghold) victory 10340 times"
+	STRING_EN[8968]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 10340 times"
 	STRING_EN[8968]["real_idx"] = 8968
 
 STRING_EN["index"][8969] = 8969
 STRING_EN[8969] = {}
 	STRING_EN[8969]["ID"] = 8969
 	STRING_EN[8969]["KEY"] = "M_ATTACK_VICTORY_43"
-	STRING_EN[8969]["VALUE"] = "Attack (space station， stronghold) victory 10，844 times"
+	STRING_EN[8969]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 10844 times"
 	STRING_EN[8969]["real_idx"] = 8969
 
 STRING_EN["index"][8970] = 8970
 STRING_EN[8970] = {}
 	STRING_EN[8970]["ID"] = 8970
 	STRING_EN[8970]["KEY"] = "M_ATTACK_VICTORY_44"
-	STRING_EN[8970]["VALUE"] = "Attack (space station， stronghold) victory 11360 times"
+	STRING_EN[8970]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 11360 times"
 	STRING_EN[8970]["real_idx"] = 8970
 
 STRING_EN["index"][8971] = 8971
 STRING_EN[8971] = {}
 	STRING_EN[8971]["ID"] = 8971
 	STRING_EN[8971]["KEY"] = "M_ATTACK_VICTORY_45"
-	STRING_EN[8971]["VALUE"] = "Attack (space station， stronghold) victory 11888 times"
+	STRING_EN[8971]["VALUE"] = "Achieve victory in (Space Station， Stronghold) attack 11888 times"
 	STRING_EN[8971]["real_idx"] = 8971
 
 STRING_EN["index"][8972] = 8972
 STRING_EN[8972] = {}
 	STRING_EN[8972]["ID"] = 8972
 	STRING_EN[8972]["KEY"] = "M_DEFEND_VICTORY_1"
-	STRING_EN[8972]["VALUE"] = "Space station defensive victory 2 times"
+	STRING_EN[8972]["VALUE"] = "Achieve victory in Space Station defense 2 times"
 	STRING_EN[8972]["real_idx"] = 8972
 
 STRING_EN["index"][8973] = 8973
 STRING_EN[8973] = {}
 	STRING_EN[8973]["ID"] = 8973
 	STRING_EN[8973]["KEY"] = "M_DEFEND_VICTORY_2"
-	STRING_EN[8973]["VALUE"] = "Space station defensive victory 4 times"
+	STRING_EN[8973]["VALUE"] = "Achieve victory in Space Station defense 4 times"
 	STRING_EN[8973]["real_idx"] = 8973
 
 STRING_EN["index"][8974] = 8974
 STRING_EN[8974] = {}
 	STRING_EN[8974]["ID"] = 8974
 	STRING_EN[8974]["KEY"] = "M_DEFEND_VICTORY_3"
-	STRING_EN[8974]["VALUE"] = "Space station defensive victory 8 times"
+	STRING_EN[8974]["VALUE"] = "Achieve victory in Space Station defense 8 times"
 	STRING_EN[8974]["real_idx"] = 8974
 
 STRING_EN["index"][8975] = 8975
 STRING_EN[8975] = {}
 	STRING_EN[8975]["ID"] = 8975
 	STRING_EN[8975]["KEY"] = "M_DEFEND_VICTORY_4"
-	STRING_EN[8975]["VALUE"] = "Space station defensive victory 14 times"
+	STRING_EN[8975]["VALUE"] = "Achieve victory in Space Station defense 14 times"
 	STRING_EN[8975]["real_idx"] = 8975
 
 STRING_EN["index"][8976] = 8976
 STRING_EN[8976] = {}
 	STRING_EN[8976]["ID"] = 8976
 	STRING_EN[8976]["KEY"] = "M_DEFEND_VICTORY_5"
-	STRING_EN[8976]["VALUE"] = "Space station defensive victory 22 times"
+	STRING_EN[8976]["VALUE"] = "Achieve victory in Space Station defense 22 times"
 	STRING_EN[8976]["real_idx"] = 8976
 
 STRING_EN["index"][8977] = 8977
 STRING_EN[8977] = {}
 	STRING_EN[8977]["ID"] = 8977
 	STRING_EN[8977]["KEY"] = "M_DEFEND_VICTORY_6"
-	STRING_EN[8977]["VALUE"] = "Space station defensive victory 32 times"
+	STRING_EN[8977]["VALUE"] = "Achieve victory in Space Station defense 32 times"
 	STRING_EN[8977]["real_idx"] = 8977
 
 STRING_EN["index"][8978] = 8978
 STRING_EN[8978] = {}
 	STRING_EN[8978]["ID"] = 8978
 	STRING_EN[8978]["KEY"] = "M_DEFEND_VICTORY_7"
-	STRING_EN[8978]["VALUE"] = "Space station defensive victory 44 times"
+	STRING_EN[8978]["VALUE"] = "Achieve victory in Space Station defense 44 times"
 	STRING_EN[8978]["real_idx"] = 8978
 
 STRING_EN["index"][8979] = 8979
 STRING_EN[8979] = {}
 	STRING_EN[8979]["ID"] = 8979
 	STRING_EN[8979]["KEY"] = "M_DEFEND_VICTORY_8"
-	STRING_EN[8979]["VALUE"] = "Space station defensive victory 58 times"
+	STRING_EN[8979]["VALUE"] = "Achieve victory in Space Station defense 58 times"
 	STRING_EN[8979]["real_idx"] = 8979
 
 STRING_EN["index"][8980] = 8980
 STRING_EN[8980] = {}
 	STRING_EN[8980]["ID"] = 8980
 	STRING_EN[8980]["KEY"] = "M_DEFEND_VICTORY_9"
-	STRING_EN[8980]["VALUE"] = "Space station defensive victory 74 times"
+	STRING_EN[8980]["VALUE"] = "Achieve victory in Space Station defense 74 times"
 	STRING_EN[8980]["real_idx"] = 8980
 
 STRING_EN["index"][8981] = 8981
 STRING_EN[8981] = {}
 	STRING_EN[8981]["ID"] = 8981
 	STRING_EN[8981]["KEY"] = "M_DEFEND_VICTORY_10"
-	STRING_EN[8981]["VALUE"] = "Space station defensive victory 92 times"
+	STRING_EN[8981]["VALUE"] = "Achieve victory in Space Station defense 92 times"
 	STRING_EN[8981]["real_idx"] = 8981
 
 STRING_EN["index"][8982] = 8982
 STRING_EN[8982] = {}
 	STRING_EN[8982]["ID"] = 8982
 	STRING_EN[8982]["KEY"] = "M_DEFEND_VICTORY_11"
-	STRING_EN[8982]["VALUE"] = "Space station defensive victory 112 times"
+	STRING_EN[8982]["VALUE"] = "Achieve victory in Space Station defense 112 times"
 	STRING_EN[8982]["real_idx"] = 8982
 
 STRING_EN["index"][8983] = 8983
 STRING_EN[8983] = {}
 	STRING_EN[8983]["ID"] = 8983
 	STRING_EN[8983]["KEY"] = "M_DEFEND_VICTORY_12"
-	STRING_EN[8983]["VALUE"] = "Space station defensive victory 134 times"
+	STRING_EN[8983]["VALUE"] = "Achieve victory in Space Station defense 134 times"
 	STRING_EN[8983]["real_idx"] = 8983
 
 STRING_EN["index"][8984] = 8984
 STRING_EN[8984] = {}
 	STRING_EN[8984]["ID"] = 8984
 	STRING_EN[8984]["KEY"] = "M_DEFEND_VICTORY_13"
-	STRING_EN[8984]["VALUE"] = "Space station defensive victory 158 times"
+	STRING_EN[8984]["VALUE"] = "Achieve victory in Space Station defense 158 times"
 	STRING_EN[8984]["real_idx"] = 8984
 
 STRING_EN["index"][8985] = 8985
 STRING_EN[8985] = {}
 	STRING_EN[8985]["ID"] = 8985
 	STRING_EN[8985]["KEY"] = "M_DEFEND_VICTORY_14"
-	STRING_EN[8985]["VALUE"] = "Space station defensive victory 184 times"
+	STRING_EN[8985]["VALUE"] = "Achieve victory in Space Station defense 184 times"
 	STRING_EN[8985]["real_idx"] = 8985
 
 STRING_EN["index"][8986] = 8986
 STRING_EN[8986] = {}
 	STRING_EN[8986]["ID"] = 8986
 	STRING_EN[8986]["KEY"] = "M_DEFEND_VICTORY_15"
-	STRING_EN[8986]["VALUE"] = "Space station defensive victory 212 times"
+	STRING_EN[8986]["VALUE"] = "Achieve victory in Space Station defense 212 times"
 	STRING_EN[8986]["real_idx"] = 8986
 
 STRING_EN["index"][8987] = 8987
 STRING_EN[8987] = {}
 	STRING_EN[8987]["ID"] = 8987
 	STRING_EN[8987]["KEY"] = "M_DEFEND_VICTORY_16"
-	STRING_EN[8987]["VALUE"] = "Space station defensive victory 242 times"
+	STRING_EN[8987]["VALUE"] = "Achieve victory in Space Station defense 242 times"
 	STRING_EN[8987]["real_idx"] = 8987
 
 STRING_EN["index"][8988] = 8988
 STRING_EN[8988] = {}
 	STRING_EN[8988]["ID"] = 8988
 	STRING_EN[8988]["KEY"] = "M_DEFEND_VICTORY_17"
-	STRING_EN[8988]["VALUE"] = "Space station defensive victory 274 times"
+	STRING_EN[8988]["VALUE"] = "Achieve victory in Space Station defense 274 times"
 	STRING_EN[8988]["real_idx"] = 8988
 
 STRING_EN["index"][8989] = 8989
 STRING_EN[8989] = {}
 	STRING_EN[8989]["ID"] = 8989
 	STRING_EN[8989]["KEY"] = "M_DEFEND_VICTORY_18"
-	STRING_EN[8989]["VALUE"] = "Space station defensive victory 308 times"
+	STRING_EN[8989]["VALUE"] = "Achieve victory in Space Station defense 308 times"
 	STRING_EN[8989]["real_idx"] = 8989
 
 STRING_EN["index"][8990] = 8990
 STRING_EN[8990] = {}
 	STRING_EN[8990]["ID"] = 8990
 	STRING_EN[8990]["KEY"] = "M_DEFEND_VICTORY_19"
-	STRING_EN[8990]["VALUE"] = "Space station defensive victory 344 times"
+	STRING_EN[8990]["VALUE"] = "Achieve victory in Space Station defense 344 times"
 	STRING_EN[8990]["real_idx"] = 8990
 
 STRING_EN["index"][8991] = 8991
 STRING_EN[8991] = {}
 	STRING_EN[8991]["ID"] = 8991
 	STRING_EN[8991]["KEY"] = "M_DEFEND_VICTORY_20"
-	STRING_EN[8991]["VALUE"] = "Space station defensive victory 382 times"
+	STRING_EN[8991]["VALUE"] = "Achieve victory in Space Station defense 382 times"
 	STRING_EN[8991]["real_idx"] = 8991
 
 STRING_EN["index"][8992] = 8992
 STRING_EN[8992] = {}
 	STRING_EN[8992]["ID"] = 8992
 	STRING_EN[8992]["KEY"] = "M_DEFEND_VICTORY_21"
-	STRING_EN[8992]["VALUE"] = "Space station defensive victory 422 times"
+	STRING_EN[8992]["VALUE"] = "Achieve victory in Space Station defense 422 times"
 	STRING_EN[8992]["real_idx"] = 8992
 
 STRING_EN["index"][8993] = 8993
 STRING_EN[8993] = {}
 	STRING_EN[8993]["ID"] = 8993
 	STRING_EN[8993]["KEY"] = "M_DEFEND_VICTORY_22"
-	STRING_EN[8993]["VALUE"] = "Space station defensive victory 464 times"
+	STRING_EN[8993]["VALUE"] = "Achieve victory in Space Station defense 464 times"
 	STRING_EN[8993]["real_idx"] = 8993
 
 STRING_EN["index"][8994] = 8994
 STRING_EN[8994] = {}
 	STRING_EN[8994]["ID"] = 8994
 	STRING_EN[8994]["KEY"] = "M_DEFEND_VICTORY_23"
-	STRING_EN[8994]["VALUE"] = "Space station defensive victory 508 times"
+	STRING_EN[8994]["VALUE"] = "Achieve victory in Space Station defense 508 times"
 	STRING_EN[8994]["real_idx"] = 8994
 
 STRING_EN["index"][8995] = 8995
 STRING_EN[8995] = {}
 	STRING_EN[8995]["ID"] = 8995
 	STRING_EN[8995]["KEY"] = "M_DEFEND_VICTORY_24"
-	STRING_EN[8995]["VALUE"] = "Space station defensive victory 554 times"
+	STRING_EN[8995]["VALUE"] = "Achieve victory in Space Station defense 554 times"
 	STRING_EN[8995]["real_idx"] = 8995
 
 STRING_EN["index"][8996] = 8996
 STRING_EN[8996] = {}
 	STRING_EN[8996]["ID"] = 8996
 	STRING_EN[8996]["KEY"] = "M_DEFEND_VICTORY_25"
-	STRING_EN[8996]["VALUE"] = "Space station defensive victory 602 times"
+	STRING_EN[8996]["VALUE"] = "Achieve victory in Space Station defense 602 times"
 	STRING_EN[8996]["real_idx"] = 8996
 
 STRING_EN["index"][8997] = 8997
 STRING_EN[8997] = {}
 	STRING_EN[8997]["ID"] = 8997
 	STRING_EN[8997]["KEY"] = "M_DEFEND_VICTORY_26"
-	STRING_EN[8997]["VALUE"] = "Space station defensive victory 652 times"
+	STRING_EN[8997]["VALUE"] = "Achieve victory in Space Station defense 652 times"
 	STRING_EN[8997]["real_idx"] = 8997
 
 STRING_EN["index"][8998] = 8998
 STRING_EN[8998] = {}
 	STRING_EN[8998]["ID"] = 8998
 	STRING_EN[8998]["KEY"] = "M_DEFEND_VICTORY_27"
-	STRING_EN[8998]["VALUE"] = "Space station defensive victory 704 times"
+	STRING_EN[8998]["VALUE"] = "Achieve victory in Space Station defense 704 times"
 	STRING_EN[8998]["real_idx"] = 8998
 
 STRING_EN["index"][8999] = 8999
 STRING_EN[8999] = {}
 	STRING_EN[8999]["ID"] = 8999
 	STRING_EN[8999]["KEY"] = "M_DEFEND_VICTORY_28"
-	STRING_EN[8999]["VALUE"] = "Space station defensive victory 758 times"
+	STRING_EN[8999]["VALUE"] = "Achieve victory in Space Station defense 758 times"
 	STRING_EN[8999]["real_idx"] = 8999
 
 STRING_EN["index"][9000] = 9000
 STRING_EN[9000] = {}
 	STRING_EN[9000]["ID"] = 9000
 	STRING_EN[9000]["KEY"] = "M_DEFEND_VICTORY_29"
-	STRING_EN[9000]["VALUE"] = "Space station defensive victory 814 times"
+	STRING_EN[9000]["VALUE"] = "Achieve victory in Space Station defense 814 times"
 	STRING_EN[9000]["real_idx"] = 9000
 
 STRING_EN["index"][9001] = 9001
 STRING_EN[9001] = {}
 	STRING_EN[9001]["ID"] = 9001
 	STRING_EN[9001]["KEY"] = "M_DEFEND_VICTORY_30"
-	STRING_EN[9001]["VALUE"] = "Space station defensive victory 872 times"
+	STRING_EN[9001]["VALUE"] = "Achieve victory in Space Station defense 872 times"
 	STRING_EN[9001]["real_idx"] = 9001
 
 STRING_EN["index"][9002] = 9002
 STRING_EN[9002] = {}
 	STRING_EN[9002]["ID"] = 9002
 	STRING_EN[9002]["KEY"] = "M_DEFEND_VICTORY_31"
-	STRING_EN[9002]["VALUE"] = "Space station defensive victory 932 times"
+	STRING_EN[9002]["VALUE"] = "Achieve victory in Space Station defense 932 times"
 	STRING_EN[9002]["real_idx"] = 9002
 
 STRING_EN["index"][9003] = 9003
 STRING_EN[9003] = {}
 	STRING_EN[9003]["ID"] = 9003
 	STRING_EN[9003]["KEY"] = "M_DEFEND_VICTORY_32"
-	STRING_EN[9003]["VALUE"] = "Space station defensive victory 994 times"
+	STRING_EN[9003]["VALUE"] = "Achieve victory in Space Station defense 994 times"
 	STRING_EN[9003]["real_idx"] = 9003
 
 STRING_EN["index"][9004] = 9004
 STRING_EN[9004] = {}
 	STRING_EN[9004]["ID"] = 9004
 	STRING_EN[9004]["KEY"] = "M_DEFEND_VICTORY_33"
-	STRING_EN[9004]["VALUE"] = "Space station defensive victory 1058 times"
+	STRING_EN[9004]["VALUE"] = "Achieve victory in Space Station defense 1058 times"
 	STRING_EN[9004]["real_idx"] = 9004
 
 STRING_EN["index"][9005] = 9005
 STRING_EN[9005] = {}
 	STRING_EN[9005]["ID"] = 9005
 	STRING_EN[9005]["KEY"] = "M_DEFEND_VICTORY_34"
-	STRING_EN[9005]["VALUE"] = "Space station defensive victory 1124 times"
+	STRING_EN[9005]["VALUE"] = "Achieve victory in Space Station defense 1124 times"
 	STRING_EN[9005]["real_idx"] = 9005
 
 STRING_EN["index"][9006] = 9006
 STRING_EN[9006] = {}
 	STRING_EN[9006]["ID"] = 9006
 	STRING_EN[9006]["KEY"] = "M_DEFEND_VICTORY_35"
-	STRING_EN[9006]["VALUE"] = "Space station defensive victory 1192 times"
+	STRING_EN[9006]["VALUE"] = "Achieve victory in Space Station defense 1192 times"
 	STRING_EN[9006]["real_idx"] = 9006
 
 STRING_EN["index"][9007] = 9007
 STRING_EN[9007] = {}
 	STRING_EN[9007]["ID"] = 9007
 	STRING_EN[9007]["KEY"] = "M_DEFEND_VICTORY_36"
-	STRING_EN[9007]["VALUE"] = "Space station defensive victory 1262 times"
+	STRING_EN[9007]["VALUE"] = "Achieve victory in Space Station defense 1262 times"
 	STRING_EN[9007]["real_idx"] = 9007
 
 STRING_EN["index"][9008] = 9008
 STRING_EN[9008] = {}
 	STRING_EN[9008]["ID"] = 9008
 	STRING_EN[9008]["KEY"] = "M_DEFEND_VICTORY_37"
-	STRING_EN[9008]["VALUE"] = "Space station defensive victory 1334 times"
+	STRING_EN[9008]["VALUE"] = "Achieve victory in Space Station defense 1334 times"
 	STRING_EN[9008]["real_idx"] = 9008
 
 STRING_EN["index"][9009] = 9009
 STRING_EN[9009] = {}
 	STRING_EN[9009]["ID"] = 9009
 	STRING_EN[9009]["KEY"] = "M_DEFEND_VICTORY_38"
-	STRING_EN[9009]["VALUE"] = "Space station defensive victory 1408 times"
+	STRING_EN[9009]["VALUE"] = "Achieve victory in Space Station defense 1408 times"
 	STRING_EN[9009]["real_idx"] = 9009
 
 STRING_EN["index"][9010] = 9010
 STRING_EN[9010] = {}
 	STRING_EN[9010]["ID"] = 9010
 	STRING_EN[9010]["KEY"] = "M_DEFEND_VICTORY_39"
-	STRING_EN[9010]["VALUE"] = "Space station defensive victory 1484 times"
+	STRING_EN[9010]["VALUE"] = "Achieve victory in Space Station defense 1484 times"
 	STRING_EN[9010]["real_idx"] = 9010
 
 STRING_EN["index"][9011] = 9011
 STRING_EN[9011] = {}
 	STRING_EN[9011]["ID"] = 9011
 	STRING_EN[9011]["KEY"] = "M_DEFEND_VICTORY_40"
-	STRING_EN[9011]["VALUE"] = "Space station defensive victory 1562 times"
+	STRING_EN[9011]["VALUE"] = "Achieve victory in Space Station defense 1562 times"
 	STRING_EN[9011]["real_idx"] = 9011
 
 STRING_EN["index"][9012] = 9012
 STRING_EN[9012] = {}
 	STRING_EN[9012]["ID"] = 9012
 	STRING_EN[9012]["KEY"] = "M_DEFEND_VICTORY_41"
-	STRING_EN[9012]["VALUE"] = "Space station defensive victory 1642 times"
+	STRING_EN[9012]["VALUE"] = "Achieve victory in Space Station defense 1642 times"
 	STRING_EN[9012]["real_idx"] = 9012
 
 STRING_EN["index"][9013] = 9013
 STRING_EN[9013] = {}
 	STRING_EN[9013]["ID"] = 9013
 	STRING_EN[9013]["KEY"] = "M_DEFEND_VICTORY_42"
-	STRING_EN[9013]["VALUE"] = "Space station defensive victory 1724 times"
+	STRING_EN[9013]["VALUE"] = "Achieve victory in Space Station defense 1724 times"
 	STRING_EN[9013]["real_idx"] = 9013
 
 STRING_EN["index"][9014] = 9014
 STRING_EN[9014] = {}
 	STRING_EN[9014]["ID"] = 9014
 	STRING_EN[9014]["KEY"] = "M_DEFEND_VICTORY_43"
-	STRING_EN[9014]["VALUE"] = "Space station defensive victory 1808 times"
+	STRING_EN[9014]["VALUE"] = "Achieve victory in Space Station defense 1808 times"
 	STRING_EN[9014]["real_idx"] = 9014
 
 STRING_EN["index"][9015] = 9015
 STRING_EN[9015] = {}
 	STRING_EN[9015]["ID"] = 9015
 	STRING_EN[9015]["KEY"] = "M_DEFEND_VICTORY_44"
-	STRING_EN[9015]["VALUE"] = "Space station defensive victory 1894 times"
+	STRING_EN[9015]["VALUE"] = "Achieve victory in Space Station defense 1894 times"
 	STRING_EN[9015]["real_idx"] = 9015
 
 STRING_EN["index"][9016] = 9016
 STRING_EN[9016] = {}
 	STRING_EN[9016]["ID"] = 9016
 	STRING_EN[9016]["KEY"] = "M_DEFEND_VICTORY_45"
-	STRING_EN[9016]["VALUE"] = "Space station defensive victory 1982 times"
+	STRING_EN[9016]["VALUE"] = "Achieve victory in Space Station defense 1982 times"
 	STRING_EN[9016]["real_idx"] = 9016
 
 STRING_EN["index"][9017] = 9017
 STRING_EN[9017] = {}
 	STRING_EN[9017]["ID"] = 9017
 	STRING_EN[9017]["KEY"] = "M_TRANSITION_1"
-	STRING_EN[9017]["VALUE"] = "Successful transition (random) 3 times"
+	STRING_EN[9017]["VALUE"] = "Successfully transit (randomly) 3 times"
 	STRING_EN[9017]["real_idx"] = 9017
 
 STRING_EN["index"][9018] = 9018
 STRING_EN[9018] = {}
 	STRING_EN[9018]["ID"] = 9018
 	STRING_EN[9018]["KEY"] = "M_TRANSITION_2"
-	STRING_EN[9018]["VALUE"] = "Successful transition (random) 7 times"
+	STRING_EN[9018]["VALUE"] = "Successfully transit (randomly) 7 times"
 	STRING_EN[9018]["real_idx"] = 9018
 
 STRING_EN["index"][9019] = 9019
 STRING_EN[9019] = {}
 	STRING_EN[9019]["ID"] = 9019
 	STRING_EN[9019]["KEY"] = "M_TRANSITION_3"
-	STRING_EN[9019]["VALUE"] = "Successful transition (random) 15 times"
+	STRING_EN[9019]["VALUE"] = "Successfully transit (randomly) 15 times"
 	STRING_EN[9019]["real_idx"] = 9019
 
 STRING_EN["index"][9020] = 9020
 STRING_EN[9020] = {}
 	STRING_EN[9020]["ID"] = 9020
 	STRING_EN[9020]["KEY"] = "M_TRANSITION_4"
-	STRING_EN[9020]["VALUE"] = "Successful transition (random) 27 times"
+	STRING_EN[9020]["VALUE"] = "Successfully transit (randomly) 27 times"
 	STRING_EN[9020]["real_idx"] = 9020
 
 STRING_EN["index"][9021] = 9021
 STRING_EN[9021] = {}
 	STRING_EN[9021]["ID"] = 9021
 	STRING_EN[9021]["KEY"] = "M_TRANSITION_5"
-	STRING_EN[9021]["VALUE"] = "Successful transition (random) 43 times"
+	STRING_EN[9021]["VALUE"] = "Successfully transit (randomly) 43 times"
 	STRING_EN[9021]["real_idx"] = 9021
 
 STRING_EN["index"][9022] = 9022
 STRING_EN[9022] = {}
 	STRING_EN[9022]["ID"] = 9022
 	STRING_EN[9022]["KEY"] = "M_TRANSITION_6"
-	STRING_EN[9022]["VALUE"] = "Successful transition (random) 63 times"
+	STRING_EN[9022]["VALUE"] = "Successfully transit (randomly) 63 times"
 	STRING_EN[9022]["real_idx"] = 9022
 
 STRING_EN["index"][9023] = 9023
 STRING_EN[9023] = {}
 	STRING_EN[9023]["ID"] = 9023
 	STRING_EN[9023]["KEY"] = "M_TRANSITION_7"
-	STRING_EN[9023]["VALUE"] = "Successful transition (random) 87 times"
+	STRING_EN[9023]["VALUE"] = "Successfully transit (randomly) 87 times"
 	STRING_EN[9023]["real_idx"] = 9023
 
 STRING_EN["index"][9024] = 9024
 STRING_EN[9024] = {}
 	STRING_EN[9024]["ID"] = 9024
 	STRING_EN[9024]["KEY"] = "M_TRANSITION_8"
-	STRING_EN[9024]["VALUE"] = "Successful transition (random) 115 times"
+	STRING_EN[9024]["VALUE"] = "Successfully transit (randomly) 115 times"
 	STRING_EN[9024]["real_idx"] = 9024
 
 STRING_EN["index"][9025] = 9025
 STRING_EN[9025] = {}
 	STRING_EN[9025]["ID"] = 9025
 	STRING_EN[9025]["KEY"] = "M_TRANSITION_9"
-	STRING_EN[9025]["VALUE"] = "Successful transition (random) 147 times"
+	STRING_EN[9025]["VALUE"] = "Successfully transit (randomly) 147 times"
 	STRING_EN[9025]["real_idx"] = 9025
 
 STRING_EN["index"][9026] = 9026
 STRING_EN[9026] = {}
 	STRING_EN[9026]["ID"] = 9026
 	STRING_EN[9026]["KEY"] = "M_TRANSITION_10"
-	STRING_EN[9026]["VALUE"] = "Successful transition (random) 183 times"
+	STRING_EN[9026]["VALUE"] = "Successfully transit (randomly) 183 times"
 	STRING_EN[9026]["real_idx"] = 9026
 
 STRING_EN["index"][9027] = 9027
 STRING_EN[9027] = {}
 	STRING_EN[9027]["ID"] = 9027
 	STRING_EN[9027]["KEY"] = "M_TRANSITION_11"
-	STRING_EN[9027]["VALUE"] = "Successful transition (random) 223 times"
+	STRING_EN[9027]["VALUE"] = "Successfully transit (randomly) 223 times"
 	STRING_EN[9027]["real_idx"] = 9027
 
 STRING_EN["index"][9028] = 9028
 STRING_EN[9028] = {}
 	STRING_EN[9028]["ID"] = 9028
 	STRING_EN[9028]["KEY"] = "M_TRANSITION_12"
-	STRING_EN[9028]["VALUE"] = "Successful transition (random) 267 times"
+	STRING_EN[9028]["VALUE"] = "Successfully transit (randomly) 267 times"
 	STRING_EN[9028]["real_idx"] = 9028
 
 STRING_EN["index"][9029] = 9029
 STRING_EN[9029] = {}
 	STRING_EN[9029]["ID"] = 9029
 	STRING_EN[9029]["KEY"] = "M_TRANSITION_13"
-	STRING_EN[9029]["VALUE"] = "Successful transition (random) 315 times"
+	STRING_EN[9029]["VALUE"] = "Successfully transit (randomly) 315 times"
 	STRING_EN[9029]["real_idx"] = 9029
 
 STRING_EN["index"][9030] = 9030
 STRING_EN[9030] = {}
 	STRING_EN[9030]["ID"] = 9030
 	STRING_EN[9030]["KEY"] = "M_TRANSITION_14"
-	STRING_EN[9030]["VALUE"] = "Successful transition (random) 367 times"
+	STRING_EN[9030]["VALUE"] = "Successfully transit (randomly) 367 times"
 	STRING_EN[9030]["real_idx"] = 9030
 
 STRING_EN["index"][9031] = 9031
 STRING_EN[9031] = {}
 	STRING_EN[9031]["ID"] = 9031
 	STRING_EN[9031]["KEY"] = "M_TRANSITION_15"
-	STRING_EN[9031]["VALUE"] = "Successful transition (random) 423 times"
+	STRING_EN[9031]["VALUE"] = "Successfully transit (randomly) 423 times"
 	STRING_EN[9031]["real_idx"] = 9031
 
 STRING_EN["index"][9032] = 9032
 STRING_EN[9032] = {}
 	STRING_EN[9032]["ID"] = 9032
 	STRING_EN[9032]["KEY"] = "M_TRANSITION_16"
-	STRING_EN[9032]["VALUE"] = "Successful transition (random) 483 times"
+	STRING_EN[9032]["VALUE"] = "Successfully transit (randomly) 483 times"
 	STRING_EN[9032]["real_idx"] = 9032
 
 STRING_EN["index"][9033] = 9033
 STRING_EN[9033] = {}
 	STRING_EN[9033]["ID"] = 9033
 	STRING_EN[9033]["KEY"] = "M_TRANSITION_17"
-	STRING_EN[9033]["VALUE"] = "Successful transition (random) 547 times"
+	STRING_EN[9033]["VALUE"] = "Successfully transit (randomly) 547 times"
 	STRING_EN[9033]["real_idx"] = 9033
 
 STRING_EN["index"][9034] = 9034
 STRING_EN[9034] = {}
 	STRING_EN[9034]["ID"] = 9034
 	STRING_EN[9034]["KEY"] = "M_TRANSITION_18"
-	STRING_EN[9034]["VALUE"] = "Successful transition (random) 615 times"
+	STRING_EN[9034]["VALUE"] = "Successfully transit (randomly) 615 times"
 	STRING_EN[9034]["real_idx"] = 9034
 
 STRING_EN["index"][9035] = 9035
 STRING_EN[9035] = {}
 	STRING_EN[9035]["ID"] = 9035
 	STRING_EN[9035]["KEY"] = "M_TRANSITION_19"
-	STRING_EN[9035]["VALUE"] = "Successful transition (random) 687 times"
+	STRING_EN[9035]["VALUE"] = "Successfully transit (randomly) 687 times"
 	STRING_EN[9035]["real_idx"] = 9035
 
 STRING_EN["index"][9036] = 9036
 STRING_EN[9036] = {}
 	STRING_EN[9036]["ID"] = 9036
 	STRING_EN[9036]["KEY"] = "M_TRANSITION_20"
-	STRING_EN[9036]["VALUE"] = "Successful transition (random) 763 times"
+	STRING_EN[9036]["VALUE"] = "Successfully transit (randomly) 763 times"
 	STRING_EN[9036]["real_idx"] = 9036
 
 STRING_EN["index"][9037] = 9037
 STRING_EN[9037] = {}
 	STRING_EN[9037]["ID"] = 9037
 	STRING_EN[9037]["KEY"] = "M_TRANSITION_21"
-	STRING_EN[9037]["VALUE"] = "Successful transition (random) 843 times"
+	STRING_EN[9037]["VALUE"] = "Successfully transit (randomly) 843 times"
 	STRING_EN[9037]["real_idx"] = 9037
 
 STRING_EN["index"][9038] = 9038
 STRING_EN[9038] = {}
 	STRING_EN[9038]["ID"] = 9038
 	STRING_EN[9038]["KEY"] = "M_TRANSITION_22"
-	STRING_EN[9038]["VALUE"] = "Successful transition (random) 927 times"
+	STRING_EN[9038]["VALUE"] = "Successfully transit (randomly) 927 times"
 	STRING_EN[9038]["real_idx"] = 9038
 
 STRING_EN["index"][9039] = 9039
 STRING_EN[9039] = {}
 	STRING_EN[9039]["ID"] = 9039
 	STRING_EN[9039]["KEY"] = "M_TRANSITION_23"
-	STRING_EN[9039]["VALUE"] = "Successful transition (random) 1015 times"
+	STRING_EN[9039]["VALUE"] = "Successfully transit (randomly) 1015 times"
 	STRING_EN[9039]["real_idx"] = 9039
 
 STRING_EN["index"][9040] = 9040
 STRING_EN[9040] = {}
 	STRING_EN[9040]["ID"] = 9040
 	STRING_EN[9040]["KEY"] = "M_TRANSITION_24"
-	STRING_EN[9040]["VALUE"] = "Successful transition (random) 1107 times"
+	STRING_EN[9040]["VALUE"] = "Successfully transit (randomly) 1107 times"
 	STRING_EN[9040]["real_idx"] = 9040
 
 STRING_EN["index"][9041] = 9041
 STRING_EN[9041] = {}
 	STRING_EN[9041]["ID"] = 9041
 	STRING_EN[9041]["KEY"] = "M_TRANSITION_25"
-	STRING_EN[9041]["VALUE"] = "Successful transition (random) 1203 times"
+	STRING_EN[9041]["VALUE"] = "Successfully transit (randomly) 1203 times"
 	STRING_EN[9041]["real_idx"] = 9041
 
 STRING_EN["index"][9042] = 9042
 STRING_EN[9042] = {}
 	STRING_EN[9042]["ID"] = 9042
 	STRING_EN[9042]["KEY"] = "M_TRANSITION_26"
-	STRING_EN[9042]["VALUE"] = "Successful transition (random) 1303 times"
+	STRING_EN[9042]["VALUE"] = "Successfully transit (randomly) 1303 times"
 	STRING_EN[9042]["real_idx"] = 9042
 
 STRING_EN["index"][9043] = 9043
 STRING_EN[9043] = {}
 	STRING_EN[9043]["ID"] = 9043
 	STRING_EN[9043]["KEY"] = "M_TRANSITION_27"
-	STRING_EN[9043]["VALUE"] = "Successful transition (random) 1407 times"
+	STRING_EN[9043]["VALUE"] = "Successfully transit (randomly) 1407 times"
 	STRING_EN[9043]["real_idx"] = 9043
 
 STRING_EN["index"][9044] = 9044
 STRING_EN[9044] = {}
 	STRING_EN[9044]["ID"] = 9044
 	STRING_EN[9044]["KEY"] = "M_TRANSITION_28"
-	STRING_EN[9044]["VALUE"] = "Successful transition (random) 1515 times"
+	STRING_EN[9044]["VALUE"] = "Successfully transit (randomly) 1515 times"
 	STRING_EN[9044]["real_idx"] = 9044
 
 STRING_EN["index"][9045] = 9045
 STRING_EN[9045] = {}
 	STRING_EN[9045]["ID"] = 9045
 	STRING_EN[9045]["KEY"] = "M_TRANSITION_29"
-	STRING_EN[9045]["VALUE"] = "Successful transition (random) 1627 times"
+	STRING_EN[9045]["VALUE"] = "Successfully transit (randomly) 1627 times"
 	STRING_EN[9045]["real_idx"] = 9045
 
 STRING_EN["index"][9046] = 9046
 STRING_EN[9046] = {}
 	STRING_EN[9046]["ID"] = 9046
 	STRING_EN[9046]["KEY"] = "M_TRANSITION_30"
-	STRING_EN[9046]["VALUE"] = "Successful transition (random) 1743 times"
+	STRING_EN[9046]["VALUE"] = "Successfully transit (randomly) 1743 times"
 	STRING_EN[9046]["real_idx"] = 9046
 
 STRING_EN["index"][9047] = 9047
 STRING_EN[9047] = {}
 	STRING_EN[9047]["ID"] = 9047
 	STRING_EN[9047]["KEY"] = "M_TRANSITION_31"
-	STRING_EN[9047]["VALUE"] = "Successful transition (random) 1863 times"
+	STRING_EN[9047]["VALUE"] = "Successfully transit (randomly) 1863 times"
 	STRING_EN[9047]["real_idx"] = 9047
 
 STRING_EN["index"][9048] = 9048
 STRING_EN[9048] = {}
 	STRING_EN[9048]["ID"] = 9048
 	STRING_EN[9048]["KEY"] = "M_TRANSITION_32"
-	STRING_EN[9048]["VALUE"] = "Successful transition (random) 1987 times"
+	STRING_EN[9048]["VALUE"] = "Successfully transit (randomly) 1987 times"
 	STRING_EN[9048]["real_idx"] = 9048
 
 STRING_EN["index"][9049] = 9049
 STRING_EN[9049] = {}
 	STRING_EN[9049]["ID"] = 9049
 	STRING_EN[9049]["KEY"] = "M_TRANSITION_33"
-	STRING_EN[9049]["VALUE"] = "Successful transition (random) 2115 times"
+	STRING_EN[9049]["VALUE"] = "Successfully transit (randomly) 2115 times"
 	STRING_EN[9049]["real_idx"] = 9049
 
 STRING_EN["index"][9050] = 9050
 STRING_EN[9050] = {}
 	STRING_EN[9050]["ID"] = 9050
 	STRING_EN[9050]["KEY"] = "M_TRANSITION_34"
-	STRING_EN[9050]["VALUE"] = "Successful transition (random) 2247 times"
+	STRING_EN[9050]["VALUE"] = "Successfully transit (randomly) 2247 times"
 	STRING_EN[9050]["real_idx"] = 9050
 
 STRING_EN["index"][9051] = 9051
 STRING_EN[9051] = {}
 	STRING_EN[9051]["ID"] = 9051
 	STRING_EN[9051]["KEY"] = "M_TRANSITION_35"
-	STRING_EN[9051]["VALUE"] = "Successful transition (random) 2383 times"
+	STRING_EN[9051]["VALUE"] = "Successfully transit (randomly) 2383 times"
 	STRING_EN[9051]["real_idx"] = 9051
 
 STRING_EN["index"][9052] = 9052
 STRING_EN[9052] = {}
 	STRING_EN[9052]["ID"] = 9052
 	STRING_EN[9052]["KEY"] = "M_TRANSITION_36"
-	STRING_EN[9052]["VALUE"] = "Successful transition (random) 2，523 times"
+	STRING_EN[9052]["VALUE"] = "Successfully transit (randomly) 2523 times"
 	STRING_EN[9052]["real_idx"] = 9052
 
 STRING_EN["index"][9053] = 9053
 STRING_EN[9053] = {}
 	STRING_EN[9053]["ID"] = 9053
 	STRING_EN[9053]["KEY"] = "M_TRANSITION_37"
-	STRING_EN[9053]["VALUE"] = "Successful transition (random) 2667 times"
+	STRING_EN[9053]["VALUE"] = "Successfully transit (randomly) 2667 times"
 	STRING_EN[9053]["real_idx"] = 9053
 
 STRING_EN["index"][9054] = 9054
 STRING_EN[9054] = {}
 	STRING_EN[9054]["ID"] = 9054
 	STRING_EN[9054]["KEY"] = "M_TRANSITION_38"
-	STRING_EN[9054]["VALUE"] = "Successful transition (random) 2815 times"
+	STRING_EN[9054]["VALUE"] = "Successfully transit (randomly) 2815 times"
 	STRING_EN[9054]["real_idx"] = 9054
 
 STRING_EN["index"][9055] = 9055
 STRING_EN[9055] = {}
 	STRING_EN[9055]["ID"] = 9055
 	STRING_EN[9055]["KEY"] = "M_TRANSITION_39"
-	STRING_EN[9055]["VALUE"] = "Successful transition (random) 2967 times"
+	STRING_EN[9055]["VALUE"] = "Successfully transit (randomly) 2967 times"
 	STRING_EN[9055]["real_idx"] = 9055
 
 STRING_EN["index"][9056] = 9056
 STRING_EN[9056] = {}
 	STRING_EN[9056]["ID"] = 9056
 	STRING_EN[9056]["KEY"] = "M_TRANSITION_40"
-	STRING_EN[9056]["VALUE"] = "Successful transition (random) 3123 times"
+	STRING_EN[9056]["VALUE"] = "Successfully transit (randomly) 3123 times"
 	STRING_EN[9056]["real_idx"] = 9056
 
 STRING_EN["index"][9057] = 9057
 STRING_EN[9057] = {}
 	STRING_EN[9057]["ID"] = 9057
 	STRING_EN[9057]["KEY"] = "M_TRANSITION_41"
-	STRING_EN[9057]["VALUE"] = "Successful transition (random) 3283 times"
+	STRING_EN[9057]["VALUE"] = "Successfully transit (randomly) 3283 times"
 	STRING_EN[9057]["real_idx"] = 9057
 
 STRING_EN["index"][9058] = 9058
 STRING_EN[9058] = {}
 	STRING_EN[9058]["ID"] = 9058
 	STRING_EN[9058]["KEY"] = "M_TRANSITION_42"
-	STRING_EN[9058]["VALUE"] = "Successful transition (random) 3447 times"
+	STRING_EN[9058]["VALUE"] = "Successfully transit (randomly) 3447 times"
 	STRING_EN[9058]["real_idx"] = 9058
 
 STRING_EN["index"][9059] = 9059
 STRING_EN[9059] = {}
 	STRING_EN[9059]["ID"] = 9059
 	STRING_EN[9059]["KEY"] = "M_TRANSITION_43"
-	STRING_EN[9059]["VALUE"] = "Successful transition (random) 3，615 times"
+	STRING_EN[9059]["VALUE"] = "Successfully transit (randomly) 3615 times"
 	STRING_EN[9059]["real_idx"] = 9059
 
 STRING_EN["index"][9060] = 9060
 STRING_EN[9060] = {}
 	STRING_EN[9060]["ID"] = 9060
 	STRING_EN[9060]["KEY"] = "M_TRANSITION_44"
-	STRING_EN[9060]["VALUE"] = "Successful transition (random) 3787 times"
+	STRING_EN[9060]["VALUE"] = "Successfully transit (randomly) 3787 times"
 	STRING_EN[9060]["real_idx"] = 9060
 
 STRING_EN["index"][9061] = 9061
 STRING_EN[9061] = {}
 	STRING_EN[9061]["ID"] = 9061
 	STRING_EN[9061]["KEY"] = "M_TRANSITION_45"
-	STRING_EN[9061]["VALUE"] = "Successful transition (random) 3963 times"
+	STRING_EN[9061]["VALUE"] = "Successfully transit (randomly) 3963 times"
 	STRING_EN[9061]["real_idx"] = 9061
 
 STRING_EN["index"][9062] = 9062
@@ -63746,2996 +63746,2996 @@ STRING_EN["index"][9107] = 9107
 STRING_EN[9107] = {}
 	STRING_EN[9107]["ID"] = 9107
 	STRING_EN[9107]["KEY"] = "M_WEAPON_UP_1"
-	STRING_EN[9107]["VALUE"] = "Upgrade skills 2 times"
+	STRING_EN[9107]["VALUE"] = "Upgrade skill 2 times"
 	STRING_EN[9107]["real_idx"] = 9107
 
 STRING_EN["index"][9108] = 9108
 STRING_EN[9108] = {}
 	STRING_EN[9108]["ID"] = 9108
 	STRING_EN[9108]["KEY"] = "M_WEAPON_UP_2"
-	STRING_EN[9108]["VALUE"] = "Upgrade skills 4 times"
+	STRING_EN[9108]["VALUE"] = "Upgrade skill 4 times"
 	STRING_EN[9108]["real_idx"] = 9108
 
 STRING_EN["index"][9109] = 9109
 STRING_EN[9109] = {}
 	STRING_EN[9109]["ID"] = 9109
 	STRING_EN[9109]["KEY"] = "M_WEAPON_UP_3"
-	STRING_EN[9109]["VALUE"] = "Upgrade skills 8 times"
+	STRING_EN[9109]["VALUE"] = "Upgrade skill 8 times"
 	STRING_EN[9109]["real_idx"] = 9109
 
 STRING_EN["index"][9110] = 9110
 STRING_EN[9110] = {}
 	STRING_EN[9110]["ID"] = 9110
 	STRING_EN[9110]["KEY"] = "M_WEAPON_UP_4"
-	STRING_EN[9110]["VALUE"] = "Upgrade skills 12 times"
+	STRING_EN[9110]["VALUE"] = "Upgrade skill 12 times"
 	STRING_EN[9110]["real_idx"] = 9110
 
 STRING_EN["index"][9111] = 9111
 STRING_EN[9111] = {}
 	STRING_EN[9111]["ID"] = 9111
 	STRING_EN[9111]["KEY"] = "M_WEAPON_UP_5"
-	STRING_EN[9111]["VALUE"] = "Upgrade skills 16 times"
+	STRING_EN[9111]["VALUE"] = "Upgrade skill 16 times"
 	STRING_EN[9111]["real_idx"] = 9111
 
 STRING_EN["index"][9112] = 9112
 STRING_EN[9112] = {}
 	STRING_EN[9112]["ID"] = 9112
 	STRING_EN[9112]["KEY"] = "M_WEAPON_UP_6"
-	STRING_EN[9112]["VALUE"] = "Upgrade skills 20 times"
+	STRING_EN[9112]["VALUE"] = "Upgrade skill 20 times"
 	STRING_EN[9112]["real_idx"] = 9112
 
 STRING_EN["index"][9113] = 9113
 STRING_EN[9113] = {}
 	STRING_EN[9113]["ID"] = 9113
 	STRING_EN[9113]["KEY"] = "M_WEAPON_UP_7"
-	STRING_EN[9113]["VALUE"] = "Upgrade skills 24 times"
+	STRING_EN[9113]["VALUE"] = "Upgrade skill 24 times"
 	STRING_EN[9113]["real_idx"] = 9113
 
 STRING_EN["index"][9114] = 9114
 STRING_EN[9114] = {}
 	STRING_EN[9114]["ID"] = 9114
 	STRING_EN[9114]["KEY"] = "M_WEAPON_UP_8"
-	STRING_EN[9114]["VALUE"] = "Upgrade skills 28 times"
+	STRING_EN[9114]["VALUE"] = "Upgrade skill 28 times"
 	STRING_EN[9114]["real_idx"] = 9114
 
 STRING_EN["index"][9115] = 9115
 STRING_EN[9115] = {}
 	STRING_EN[9115]["ID"] = 9115
 	STRING_EN[9115]["KEY"] = "M_WEAPON_UP_9"
-	STRING_EN[9115]["VALUE"] = "Upgrade skills 32 times"
+	STRING_EN[9115]["VALUE"] = "Upgrade skill 32 times"
 	STRING_EN[9115]["real_idx"] = 9115
 
 STRING_EN["index"][9116] = 9116
 STRING_EN[9116] = {}
 	STRING_EN[9116]["ID"] = 9116
 	STRING_EN[9116]["KEY"] = "M_WEAPON_UP_10"
-	STRING_EN[9116]["VALUE"] = "Upgrade skills 36 times"
+	STRING_EN[9116]["VALUE"] = "Upgrade skill 36 times"
 	STRING_EN[9116]["real_idx"] = 9116
 
 STRING_EN["index"][9117] = 9117
 STRING_EN[9117] = {}
 	STRING_EN[9117]["ID"] = 9117
 	STRING_EN[9117]["KEY"] = "M_WEAPON_UP_11"
-	STRING_EN[9117]["VALUE"] = "Upgrade skills 40 times"
+	STRING_EN[9117]["VALUE"] = "Upgrade skill 40 times"
 	STRING_EN[9117]["real_idx"] = 9117
 
 STRING_EN["index"][9118] = 9118
 STRING_EN[9118] = {}
 	STRING_EN[9118]["ID"] = 9118
 	STRING_EN[9118]["KEY"] = "M_WEAPON_UP_12"
-	STRING_EN[9118]["VALUE"] = "Upgrade skills 45 times"
+	STRING_EN[9118]["VALUE"] = "Upgrade skill 45 times"
 	STRING_EN[9118]["real_idx"] = 9118
 
 STRING_EN["index"][9119] = 9119
 STRING_EN[9119] = {}
 	STRING_EN[9119]["ID"] = 9119
 	STRING_EN[9119]["KEY"] = "M_WEAPON_UP_13"
-	STRING_EN[9119]["VALUE"] = "Upgrade skills 50 times"
+	STRING_EN[9119]["VALUE"] = "Upgrade skill 50 times"
 	STRING_EN[9119]["real_idx"] = 9119
 
 STRING_EN["index"][9120] = 9120
 STRING_EN[9120] = {}
 	STRING_EN[9120]["ID"] = 9120
 	STRING_EN[9120]["KEY"] = "M_WEAPON_UP_14"
-	STRING_EN[9120]["VALUE"] = "Upgrade skills 55 times"
+	STRING_EN[9120]["VALUE"] = "Upgrade skill 55 times"
 	STRING_EN[9120]["real_idx"] = 9120
 
 STRING_EN["index"][9121] = 9121
 STRING_EN[9121] = {}
 	STRING_EN[9121]["ID"] = 9121
 	STRING_EN[9121]["KEY"] = "M_WEAPON_UP_15"
-	STRING_EN[9121]["VALUE"] = "Upgrade skills 60 times"
+	STRING_EN[9121]["VALUE"] = "Upgrade skill 60 times"
 	STRING_EN[9121]["real_idx"] = 9121
 
 STRING_EN["index"][9122] = 9122
 STRING_EN[9122] = {}
 	STRING_EN[9122]["ID"] = 9122
 	STRING_EN[9122]["KEY"] = "M_WEAPON_UP_16"
-	STRING_EN[9122]["VALUE"] = "Upgrade skills 65 times"
+	STRING_EN[9122]["VALUE"] = "Upgrade skill 65 times"
 	STRING_EN[9122]["real_idx"] = 9122
 
 STRING_EN["index"][9123] = 9123
 STRING_EN[9123] = {}
 	STRING_EN[9123]["ID"] = 9123
 	STRING_EN[9123]["KEY"] = "M_WEAPON_UP_17"
-	STRING_EN[9123]["VALUE"] = "Upgrade skills 70 times"
+	STRING_EN[9123]["VALUE"] = "Upgrade skill 70 times"
 	STRING_EN[9123]["real_idx"] = 9123
 
 STRING_EN["index"][9124] = 9124
 STRING_EN[9124] = {}
 	STRING_EN[9124]["ID"] = 9124
 	STRING_EN[9124]["KEY"] = "M_WEAPON_UP_18"
-	STRING_EN[9124]["VALUE"] = "Upgrade skills 75 times"
+	STRING_EN[9124]["VALUE"] = "Upgrade skill 75 times"
 	STRING_EN[9124]["real_idx"] = 9124
 
 STRING_EN["index"][9125] = 9125
 STRING_EN[9125] = {}
 	STRING_EN[9125]["ID"] = 9125
 	STRING_EN[9125]["KEY"] = "M_WEAPON_UP_19"
-	STRING_EN[9125]["VALUE"] = "Upgrade skills 80 times"
+	STRING_EN[9125]["VALUE"] = "Upgrade skill 80 times"
 	STRING_EN[9125]["real_idx"] = 9125
 
 STRING_EN["index"][9126] = 9126
 STRING_EN[9126] = {}
 	STRING_EN[9126]["ID"] = 9126
 	STRING_EN[9126]["KEY"] = "M_WEAPON_UP_20"
-	STRING_EN[9126]["VALUE"] = "Upgrade skills 85 times"
+	STRING_EN[9126]["VALUE"] = "Upgrade skill 85 times"
 	STRING_EN[9126]["real_idx"] = 9126
 
 STRING_EN["index"][9127] = 9127
 STRING_EN[9127] = {}
 	STRING_EN[9127]["ID"] = 9127
 	STRING_EN[9127]["KEY"] = "M_WEAPON_UP_21"
-	STRING_EN[9127]["VALUE"] = "Upgrade skills 90 times"
+	STRING_EN[9127]["VALUE"] = "Upgrade skill 90 times"
 	STRING_EN[9127]["real_idx"] = 9127
 
 STRING_EN["index"][9128] = 9128
 STRING_EN[9128] = {}
 	STRING_EN[9128]["ID"] = 9128
 	STRING_EN[9128]["KEY"] = "M_WEAPON_UP_22"
-	STRING_EN[9128]["VALUE"] = "Upgrade skills 95 times"
+	STRING_EN[9128]["VALUE"] = "Upgrade skill 95 times"
 	STRING_EN[9128]["real_idx"] = 9128
 
 STRING_EN["index"][9129] = 9129
 STRING_EN[9129] = {}
 	STRING_EN[9129]["ID"] = 9129
 	STRING_EN[9129]["KEY"] = "M_WEAPON_UP_23"
-	STRING_EN[9129]["VALUE"] = "Upgrade skills 100 times"
+	STRING_EN[9129]["VALUE"] = "Upgrade skill 100 times"
 	STRING_EN[9129]["real_idx"] = 9129
 
 STRING_EN["index"][9130] = 9130
 STRING_EN[9130] = {}
 	STRING_EN[9130]["ID"] = 9130
 	STRING_EN[9130]["KEY"] = "M_WEAPON_UP_24"
-	STRING_EN[9130]["VALUE"] = "Upgrade skills 105 times"
+	STRING_EN[9130]["VALUE"] = "Upgrade skill 105 times"
 	STRING_EN[9130]["real_idx"] = 9130
 
 STRING_EN["index"][9131] = 9131
 STRING_EN[9131] = {}
 	STRING_EN[9131]["ID"] = 9131
 	STRING_EN[9131]["KEY"] = "M_WEAPON_UP_25"
-	STRING_EN[9131]["VALUE"] = "Upgrade skills 110 times"
+	STRING_EN[9131]["VALUE"] = "Upgrade skill 110 times"
 	STRING_EN[9131]["real_idx"] = 9131
 
 STRING_EN["index"][9132] = 9132
 STRING_EN[9132] = {}
 	STRING_EN[9132]["ID"] = 9132
 	STRING_EN[9132]["KEY"] = "M_WEAPON_UP_26"
-	STRING_EN[9132]["VALUE"] = "Upgrade skills 115 times"
+	STRING_EN[9132]["VALUE"] = "Upgrade skill 115 times"
 	STRING_EN[9132]["real_idx"] = 9132
 
 STRING_EN["index"][9133] = 9133
 STRING_EN[9133] = {}
 	STRING_EN[9133]["ID"] = 9133
 	STRING_EN[9133]["KEY"] = "M_WEAPON_UP_27"
-	STRING_EN[9133]["VALUE"] = "Upgrade skills 120 times"
+	STRING_EN[9133]["VALUE"] = "Upgrade skill 120 times"
 	STRING_EN[9133]["real_idx"] = 9133
 
 STRING_EN["index"][9134] = 9134
 STRING_EN[9134] = {}
 	STRING_EN[9134]["ID"] = 9134
 	STRING_EN[9134]["KEY"] = "M_WEAPON_UP_28"
-	STRING_EN[9134]["VALUE"] = "Upgrade skills 125 times"
+	STRING_EN[9134]["VALUE"] = "Upgrade skill 125 times"
 	STRING_EN[9134]["real_idx"] = 9134
 
 STRING_EN["index"][9135] = 9135
 STRING_EN[9135] = {}
 	STRING_EN[9135]["ID"] = 9135
 	STRING_EN[9135]["KEY"] = "M_WEAPON_UP_29"
-	STRING_EN[9135]["VALUE"] = "Upgrade skills 130 times"
+	STRING_EN[9135]["VALUE"] = "Upgrade skill 130 times"
 	STRING_EN[9135]["real_idx"] = 9135
 
 STRING_EN["index"][9136] = 9136
 STRING_EN[9136] = {}
 	STRING_EN[9136]["ID"] = 9136
 	STRING_EN[9136]["KEY"] = "M_WEAPON_UP_30"
-	STRING_EN[9136]["VALUE"] = "Upgrade skills 135 times"
+	STRING_EN[9136]["VALUE"] = "Upgrade skill 135 times"
 	STRING_EN[9136]["real_idx"] = 9136
 
 STRING_EN["index"][9137] = 9137
 STRING_EN[9137] = {}
 	STRING_EN[9137]["ID"] = 9137
 	STRING_EN[9137]["KEY"] = "M_WEAPON_UP_31"
-	STRING_EN[9137]["VALUE"] = "Upgrade skills 140 times"
+	STRING_EN[9137]["VALUE"] = "Upgrade skill 140 times"
 	STRING_EN[9137]["real_idx"] = 9137
 
 STRING_EN["index"][9138] = 9138
 STRING_EN[9138] = {}
 	STRING_EN[9138]["ID"] = 9138
 	STRING_EN[9138]["KEY"] = "M_WEAPON_UP_32"
-	STRING_EN[9138]["VALUE"] = "Upgrade skills 145 times"
+	STRING_EN[9138]["VALUE"] = "Upgrade skill 145 times"
 	STRING_EN[9138]["real_idx"] = 9138
 
 STRING_EN["index"][9139] = 9139
 STRING_EN[9139] = {}
 	STRING_EN[9139]["ID"] = 9139
 	STRING_EN[9139]["KEY"] = "M_WEAPON_UP_33"
-	STRING_EN[9139]["VALUE"] = "Upgrade skills 150 times"
+	STRING_EN[9139]["VALUE"] = "Upgrade skill 150 times"
 	STRING_EN[9139]["real_idx"] = 9139
 
 STRING_EN["index"][9140] = 9140
 STRING_EN[9140] = {}
 	STRING_EN[9140]["ID"] = 9140
 	STRING_EN[9140]["KEY"] = "M_WEAPON_UP_34"
-	STRING_EN[9140]["VALUE"] = "Upgrade skills 155 times"
+	STRING_EN[9140]["VALUE"] = "Upgrade skill 155 times"
 	STRING_EN[9140]["real_idx"] = 9140
 
 STRING_EN["index"][9141] = 9141
 STRING_EN[9141] = {}
 	STRING_EN[9141]["ID"] = 9141
 	STRING_EN[9141]["KEY"] = "M_WEAPON_UP_35"
-	STRING_EN[9141]["VALUE"] = "Upgrade skills 160 times"
+	STRING_EN[9141]["VALUE"] = "Upgrade skill 160 times"
 	STRING_EN[9141]["real_idx"] = 9141
 
 STRING_EN["index"][9142] = 9142
 STRING_EN[9142] = {}
 	STRING_EN[9142]["ID"] = 9142
 	STRING_EN[9142]["KEY"] = "M_WEAPON_UP_36"
-	STRING_EN[9142]["VALUE"] = "Upgrade skills 165 times"
+	STRING_EN[9142]["VALUE"] = "Upgrade skill 165 times"
 	STRING_EN[9142]["real_idx"] = 9142
 
 STRING_EN["index"][9143] = 9143
 STRING_EN[9143] = {}
 	STRING_EN[9143]["ID"] = 9143
 	STRING_EN[9143]["KEY"] = "M_WEAPON_UP_37"
-	STRING_EN[9143]["VALUE"] = "Upgrade skills 170 times"
+	STRING_EN[9143]["VALUE"] = "Upgrade skill 170 times"
 	STRING_EN[9143]["real_idx"] = 9143
 
 STRING_EN["index"][9144] = 9144
 STRING_EN[9144] = {}
 	STRING_EN[9144]["ID"] = 9144
 	STRING_EN[9144]["KEY"] = "M_WEAPON_UP_38"
-	STRING_EN[9144]["VALUE"] = "Upgrade skills 175 times"
+	STRING_EN[9144]["VALUE"] = "Upgrade skill 175 times"
 	STRING_EN[9144]["real_idx"] = 9144
 
 STRING_EN["index"][9145] = 9145
 STRING_EN[9145] = {}
 	STRING_EN[9145]["ID"] = 9145
 	STRING_EN[9145]["KEY"] = "M_WEAPON_UP_39"
-	STRING_EN[9145]["VALUE"] = "Upgrade skills 180 times"
+	STRING_EN[9145]["VALUE"] = "Upgrade skill 180 times"
 	STRING_EN[9145]["real_idx"] = 9145
 
 STRING_EN["index"][9146] = 9146
 STRING_EN[9146] = {}
 	STRING_EN[9146]["ID"] = 9146
 	STRING_EN[9146]["KEY"] = "M_WEAPON_UP_40"
-	STRING_EN[9146]["VALUE"] = "Upgrade skills 185 times"
+	STRING_EN[9146]["VALUE"] = "Upgrade skill 185 times"
 	STRING_EN[9146]["real_idx"] = 9146
 
 STRING_EN["index"][9147] = 9147
 STRING_EN[9147] = {}
 	STRING_EN[9147]["ID"] = 9147
 	STRING_EN[9147]["KEY"] = "M_WEAPON_UP_41"
-	STRING_EN[9147]["VALUE"] = "Upgrade skills 190 times"
+	STRING_EN[9147]["VALUE"] = "Upgrade skill 190 times"
 	STRING_EN[9147]["real_idx"] = 9147
 
 STRING_EN["index"][9148] = 9148
 STRING_EN[9148] = {}
 	STRING_EN[9148]["ID"] = 9148
 	STRING_EN[9148]["KEY"] = "M_WEAPON_UP_42"
-	STRING_EN[9148]["VALUE"] = "Upgrade skills 195 times"
+	STRING_EN[9148]["VALUE"] = "Upgrade skill 195 times"
 	STRING_EN[9148]["real_idx"] = 9148
 
 STRING_EN["index"][9149] = 9149
 STRING_EN[9149] = {}
 	STRING_EN[9149]["ID"] = 9149
 	STRING_EN[9149]["KEY"] = "M_WEAPON_UP_43"
-	STRING_EN[9149]["VALUE"] = "Upgrade skills 200 times"
+	STRING_EN[9149]["VALUE"] = "Upgrade skill 200 times"
 	STRING_EN[9149]["real_idx"] = 9149
 
 STRING_EN["index"][9150] = 9150
 STRING_EN[9150] = {}
 	STRING_EN[9150]["ID"] = 9150
 	STRING_EN[9150]["KEY"] = "M_WEAPON_UP_44"
-	STRING_EN[9150]["VALUE"] = "Upgrade skills 205 times"
+	STRING_EN[9150]["VALUE"] = "Upgrade skill 205 times"
 	STRING_EN[9150]["real_idx"] = 9150
 
 STRING_EN["index"][9151] = 9151
 STRING_EN[9151] = {}
 	STRING_EN[9151]["ID"] = 9151
 	STRING_EN[9151]["KEY"] = "M_WEAPON_UP_45"
-	STRING_EN[9151]["VALUE"] = "Upgrade skills 210 times"
+	STRING_EN[9151]["VALUE"] = "Upgrade skill 210 times"
 	STRING_EN[9151]["real_idx"] = 9151
 
 STRING_EN["index"][9152] = 9152
 STRING_EN[9152] = {}
 	STRING_EN[9152]["ID"] = 9152
 	STRING_EN[9152]["KEY"] = "M_MISSION_FINISH_1"
-	STRING_EN[9152]["VALUE"] = "Complete the task 5 times"
+	STRING_EN[9152]["VALUE"] = "Complete mission 5 times"
 	STRING_EN[9152]["real_idx"] = 9152
 
 STRING_EN["index"][9153] = 9153
 STRING_EN[9153] = {}
 	STRING_EN[9153]["ID"] = 9153
 	STRING_EN[9153]["KEY"] = "M_MISSION_FINISH_2"
-	STRING_EN[9153]["VALUE"] = "Complete the task 10 times"
+	STRING_EN[9153]["VALUE"] = "Complete mission 10 times"
 	STRING_EN[9153]["real_idx"] = 9153
 
 STRING_EN["index"][9154] = 9154
 STRING_EN[9154] = {}
 	STRING_EN[9154]["ID"] = 9154
 	STRING_EN[9154]["KEY"] = "M_MISSION_FINISH_3"
-	STRING_EN[9154]["VALUE"] = "Complete the task 20 times"
+	STRING_EN[9154]["VALUE"] = "Complete mission 20 times"
 	STRING_EN[9154]["real_idx"] = 9154
 
 STRING_EN["index"][9155] = 9155
 STRING_EN[9155] = {}
 	STRING_EN[9155]["ID"] = 9155
 	STRING_EN[9155]["KEY"] = "M_MISSION_FINISH_4"
-	STRING_EN[9155]["VALUE"] = "Complete the task 30 times"
+	STRING_EN[9155]["VALUE"] = "Complete mission 30 times"
 	STRING_EN[9155]["real_idx"] = 9155
 
 STRING_EN["index"][9156] = 9156
 STRING_EN[9156] = {}
 	STRING_EN[9156]["ID"] = 9156
 	STRING_EN[9156]["KEY"] = "M_MISSION_FINISH_5"
-	STRING_EN[9156]["VALUE"] = "Complete the task 40 times"
+	STRING_EN[9156]["VALUE"] = "Complete mission 40 times"
 	STRING_EN[9156]["real_idx"] = 9156
 
 STRING_EN["index"][9157] = 9157
 STRING_EN[9157] = {}
 	STRING_EN[9157]["ID"] = 9157
 	STRING_EN[9157]["KEY"] = "M_MISSION_FINISH_6"
-	STRING_EN[9157]["VALUE"] = "Complete the task 50 times"
+	STRING_EN[9157]["VALUE"] = "Complete mission 50 times"
 	STRING_EN[9157]["real_idx"] = 9157
 
 STRING_EN["index"][9158] = 9158
 STRING_EN[9158] = {}
 	STRING_EN[9158]["ID"] = 9158
 	STRING_EN[9158]["KEY"] = "M_MISSION_FINISH_7"
-	STRING_EN[9158]["VALUE"] = "Complete the task 60 times"
+	STRING_EN[9158]["VALUE"] = "Complete mission 60 times"
 	STRING_EN[9158]["real_idx"] = 9158
 
 STRING_EN["index"][9159] = 9159
 STRING_EN[9159] = {}
 	STRING_EN[9159]["ID"] = 9159
 	STRING_EN[9159]["KEY"] = "M_MISSION_FINISH_8"
-	STRING_EN[9159]["VALUE"] = "Complete the task 70 times"
+	STRING_EN[9159]["VALUE"] = "Complete mission 70 times"
 	STRING_EN[9159]["real_idx"] = 9159
 
 STRING_EN["index"][9160] = 9160
 STRING_EN[9160] = {}
 	STRING_EN[9160]["ID"] = 9160
 	STRING_EN[9160]["KEY"] = "M_MISSION_FINISH_9"
-	STRING_EN[9160]["VALUE"] = "Complete the task 80 times"
+	STRING_EN[9160]["VALUE"] = "Complete mission 80 times"
 	STRING_EN[9160]["real_idx"] = 9160
 
 STRING_EN["index"][9161] = 9161
 STRING_EN[9161] = {}
 	STRING_EN[9161]["ID"] = 9161
 	STRING_EN[9161]["KEY"] = "M_MISSION_FINISH_10"
-	STRING_EN[9161]["VALUE"] = "Complete the task 90 times"
+	STRING_EN[9161]["VALUE"] = "Complete mission 90 times"
 	STRING_EN[9161]["real_idx"] = 9161
 
 STRING_EN["index"][9162] = 9162
 STRING_EN[9162] = {}
 	STRING_EN[9162]["ID"] = 9162
 	STRING_EN[9162]["KEY"] = "M_MISSION_FINISH_11"
-	STRING_EN[9162]["VALUE"] = "Complete the task 100 times"
+	STRING_EN[9162]["VALUE"] = "Complete mission 100 times"
 	STRING_EN[9162]["real_idx"] = 9162
 
 STRING_EN["index"][9163] = 9163
 STRING_EN[9163] = {}
 	STRING_EN[9163]["ID"] = 9163
 	STRING_EN[9163]["KEY"] = "M_MISSION_FINISH_12"
-	STRING_EN[9163]["VALUE"] = "Complete the task 120 times"
+	STRING_EN[9163]["VALUE"] = "Complete mission 120 times"
 	STRING_EN[9163]["real_idx"] = 9163
 
 STRING_EN["index"][9164] = 9164
 STRING_EN[9164] = {}
 	STRING_EN[9164]["ID"] = 9164
 	STRING_EN[9164]["KEY"] = "M_MISSION_FINISH_13"
-	STRING_EN[9164]["VALUE"] = "Complete the task 140 times"
+	STRING_EN[9164]["VALUE"] = "Complete mission 140 times"
 	STRING_EN[9164]["real_idx"] = 9164
 
 STRING_EN["index"][9165] = 9165
 STRING_EN[9165] = {}
 	STRING_EN[9165]["ID"] = 9165
 	STRING_EN[9165]["KEY"] = "M_MISSION_FINISH_14"
-	STRING_EN[9165]["VALUE"] = "Complete the task 160 times"
+	STRING_EN[9165]["VALUE"] = "Complete mission 160 times"
 	STRING_EN[9165]["real_idx"] = 9165
 
 STRING_EN["index"][9166] = 9166
 STRING_EN[9166] = {}
 	STRING_EN[9166]["ID"] = 9166
 	STRING_EN[9166]["KEY"] = "M_MISSION_FINISH_15"
-	STRING_EN[9166]["VALUE"] = "Complete the task 180 times"
+	STRING_EN[9166]["VALUE"] = "Complete mission 180 times"
 	STRING_EN[9166]["real_idx"] = 9166
 
 STRING_EN["index"][9167] = 9167
 STRING_EN[9167] = {}
 	STRING_EN[9167]["ID"] = 9167
 	STRING_EN[9167]["KEY"] = "M_MISSION_FINISH_16"
-	STRING_EN[9167]["VALUE"] = "Complete the task 200 times"
+	STRING_EN[9167]["VALUE"] = "Complete mission 200 times"
 	STRING_EN[9167]["real_idx"] = 9167
 
 STRING_EN["index"][9168] = 9168
 STRING_EN[9168] = {}
 	STRING_EN[9168]["ID"] = 9168
 	STRING_EN[9168]["KEY"] = "M_MISSION_FINISH_17"
-	STRING_EN[9168]["VALUE"] = "Complete the task 250 times"
+	STRING_EN[9168]["VALUE"] = "Complete mission 250 times"
 	STRING_EN[9168]["real_idx"] = 9168
 
 STRING_EN["index"][9169] = 9169
 STRING_EN[9169] = {}
 	STRING_EN[9169]["ID"] = 9169
 	STRING_EN[9169]["KEY"] = "M_MISSION_FINISH_18"
-	STRING_EN[9169]["VALUE"] = "Complete the task 300 times"
+	STRING_EN[9169]["VALUE"] = "Complete mission 300 times"
 	STRING_EN[9169]["real_idx"] = 9169
 
 STRING_EN["index"][9170] = 9170
 STRING_EN[9170] = {}
 	STRING_EN[9170]["ID"] = 9170
 	STRING_EN[9170]["KEY"] = "M_MISSION_FINISH_19"
-	STRING_EN[9170]["VALUE"] = "Complete the task 350 times"
+	STRING_EN[9170]["VALUE"] = "Complete mission 350 times"
 	STRING_EN[9170]["real_idx"] = 9170
 
 STRING_EN["index"][9171] = 9171
 STRING_EN[9171] = {}
 	STRING_EN[9171]["ID"] = 9171
 	STRING_EN[9171]["KEY"] = "M_MISSION_FINISH_20"
-	STRING_EN[9171]["VALUE"] = "Complete the task 400 times"
+	STRING_EN[9171]["VALUE"] = "Complete mission 400 times"
 	STRING_EN[9171]["real_idx"] = 9171
 
 STRING_EN["index"][9172] = 9172
 STRING_EN[9172] = {}
 	STRING_EN[9172]["ID"] = 9172
 	STRING_EN[9172]["KEY"] = "M_MISSION_FINISH_21"
-	STRING_EN[9172]["VALUE"] = "Complete the task 450 times"
+	STRING_EN[9172]["VALUE"] = "Complete mission 450 times"
 	STRING_EN[9172]["real_idx"] = 9172
 
 STRING_EN["index"][9173] = 9173
 STRING_EN[9173] = {}
 	STRING_EN[9173]["ID"] = 9173
 	STRING_EN[9173]["KEY"] = "M_MISSION_FINISH_22"
-	STRING_EN[9173]["VALUE"] = "Complete the task 500 times"
+	STRING_EN[9173]["VALUE"] = "Complete mission 500 times"
 	STRING_EN[9173]["real_idx"] = 9173
 
 STRING_EN["index"][9174] = 9174
 STRING_EN[9174] = {}
 	STRING_EN[9174]["ID"] = 9174
 	STRING_EN[9174]["KEY"] = "M_MISSION_FINISH_23"
-	STRING_EN[9174]["VALUE"] = "Complete the task 550 times"
+	STRING_EN[9174]["VALUE"] = "Complete mission 550 times"
 	STRING_EN[9174]["real_idx"] = 9174
 
 STRING_EN["index"][9175] = 9175
 STRING_EN[9175] = {}
 	STRING_EN[9175]["ID"] = 9175
 	STRING_EN[9175]["KEY"] = "M_MISSION_FINISH_24"
-	STRING_EN[9175]["VALUE"] = "Complete the task 600 times"
+	STRING_EN[9175]["VALUE"] = "Complete mission 600 times"
 	STRING_EN[9175]["real_idx"] = 9175
 
 STRING_EN["index"][9176] = 9176
 STRING_EN[9176] = {}
 	STRING_EN[9176]["ID"] = 9176
 	STRING_EN[9176]["KEY"] = "M_MISSION_FINISH_25"
-	STRING_EN[9176]["VALUE"] = "Complete the task 650 times"
+	STRING_EN[9176]["VALUE"] = "Complete mission 650 times"
 	STRING_EN[9176]["real_idx"] = 9176
 
 STRING_EN["index"][9177] = 9177
 STRING_EN[9177] = {}
 	STRING_EN[9177]["ID"] = 9177
 	STRING_EN[9177]["KEY"] = "M_MISSION_FINISH_26"
-	STRING_EN[9177]["VALUE"] = "Complete the task 700 times"
+	STRING_EN[9177]["VALUE"] = "Complete mission 700 times"
 	STRING_EN[9177]["real_idx"] = 9177
 
 STRING_EN["index"][9178] = 9178
 STRING_EN[9178] = {}
 	STRING_EN[9178]["ID"] = 9178
 	STRING_EN[9178]["KEY"] = "M_MISSION_FINISH_27"
-	STRING_EN[9178]["VALUE"] = "Complete the task 750 times"
+	STRING_EN[9178]["VALUE"] = "Complete mission 750 times"
 	STRING_EN[9178]["real_idx"] = 9178
 
 STRING_EN["index"][9179] = 9179
 STRING_EN[9179] = {}
 	STRING_EN[9179]["ID"] = 9179
 	STRING_EN[9179]["KEY"] = "M_MISSION_FINISH_28"
-	STRING_EN[9179]["VALUE"] = "Complete the task 800 times"
+	STRING_EN[9179]["VALUE"] = "Complete mission 800 times"
 	STRING_EN[9179]["real_idx"] = 9179
 
 STRING_EN["index"][9180] = 9180
 STRING_EN[9180] = {}
 	STRING_EN[9180]["ID"] = 9180
 	STRING_EN[9180]["KEY"] = "M_MISSION_FINISH_29"
-	STRING_EN[9180]["VALUE"] = "Complete the task 850 times"
+	STRING_EN[9180]["VALUE"] = "Complete mission 850 times"
 	STRING_EN[9180]["real_idx"] = 9180
 
 STRING_EN["index"][9181] = 9181
 STRING_EN[9181] = {}
 	STRING_EN[9181]["ID"] = 9181
 	STRING_EN[9181]["KEY"] = "M_MISSION_FINISH_30"
-	STRING_EN[9181]["VALUE"] = "Complete the task 900 times"
+	STRING_EN[9181]["VALUE"] = "Complete mission 900 times"
 	STRING_EN[9181]["real_idx"] = 9181
 
 STRING_EN["index"][9182] = 9182
 STRING_EN[9182] = {}
 	STRING_EN[9182]["ID"] = 9182
 	STRING_EN[9182]["KEY"] = "M_MISSION_FINISH_31"
-	STRING_EN[9182]["VALUE"] = "Complete the task 950 times"
+	STRING_EN[9182]["VALUE"] = "Complete mission 950 times"
 	STRING_EN[9182]["real_idx"] = 9182
 
 STRING_EN["index"][9183] = 9183
 STRING_EN[9183] = {}
 	STRING_EN[9183]["ID"] = 9183
 	STRING_EN[9183]["KEY"] = "M_MISSION_FINISH_32"
-	STRING_EN[9183]["VALUE"] = "Complete the task 1000 times"
+	STRING_EN[9183]["VALUE"] = "Complete mission 1000 times"
 	STRING_EN[9183]["real_idx"] = 9183
 
 STRING_EN["index"][9184] = 9184
 STRING_EN[9184] = {}
 	STRING_EN[9184]["ID"] = 9184
 	STRING_EN[9184]["KEY"] = "M_MISSION_FINISH_33"
-	STRING_EN[9184]["VALUE"] = "Complete the task 1050 times"
+	STRING_EN[9184]["VALUE"] = "Complete mission 1050 times"
 	STRING_EN[9184]["real_idx"] = 9184
 
 STRING_EN["index"][9185] = 9185
 STRING_EN[9185] = {}
 	STRING_EN[9185]["ID"] = 9185
 	STRING_EN[9185]["KEY"] = "M_MISSION_FINISH_34"
-	STRING_EN[9185]["VALUE"] = "Complete the task 1100 times"
+	STRING_EN[9185]["VALUE"] = "Complete mission 1100 times"
 	STRING_EN[9185]["real_idx"] = 9185
 
 STRING_EN["index"][9186] = 9186
 STRING_EN[9186] = {}
 	STRING_EN[9186]["ID"] = 9186
 	STRING_EN[9186]["KEY"] = "M_MISSION_FINISH_35"
-	STRING_EN[9186]["VALUE"] = "Complete the task 1150 times"
+	STRING_EN[9186]["VALUE"] = "Complete mission 1150 times"
 	STRING_EN[9186]["real_idx"] = 9186
 
 STRING_EN["index"][9187] = 9187
 STRING_EN[9187] = {}
 	STRING_EN[9187]["ID"] = 9187
 	STRING_EN[9187]["KEY"] = "M_MISSION_FINISH_36"
-	STRING_EN[9187]["VALUE"] = "Complete the task 1200 times"
+	STRING_EN[9187]["VALUE"] = "Complete mission 1200 times"
 	STRING_EN[9187]["real_idx"] = 9187
 
 STRING_EN["index"][9188] = 9188
 STRING_EN[9188] = {}
 	STRING_EN[9188]["ID"] = 9188
 	STRING_EN[9188]["KEY"] = "M_MISSION_FINISH_37"
-	STRING_EN[9188]["VALUE"] = "Complete the task 1250 times"
+	STRING_EN[9188]["VALUE"] = "Complete mission 1250 times"
 	STRING_EN[9188]["real_idx"] = 9188
 
 STRING_EN["index"][9189] = 9189
 STRING_EN[9189] = {}
 	STRING_EN[9189]["ID"] = 9189
 	STRING_EN[9189]["KEY"] = "M_MISSION_FINISH_38"
-	STRING_EN[9189]["VALUE"] = "Complete the task 1300 times"
+	STRING_EN[9189]["VALUE"] = "Complete mission 1300 times"
 	STRING_EN[9189]["real_idx"] = 9189
 
 STRING_EN["index"][9190] = 9190
 STRING_EN[9190] = {}
 	STRING_EN[9190]["ID"] = 9190
 	STRING_EN[9190]["KEY"] = "M_MISSION_FINISH_39"
-	STRING_EN[9190]["VALUE"] = "Complete the task 1350 times"
+	STRING_EN[9190]["VALUE"] = "Complete mission 1350 times"
 	STRING_EN[9190]["real_idx"] = 9190
 
 STRING_EN["index"][9191] = 9191
 STRING_EN[9191] = {}
 	STRING_EN[9191]["ID"] = 9191
 	STRING_EN[9191]["KEY"] = "M_MISSION_FINISH_40"
-	STRING_EN[9191]["VALUE"] = "Complete the task 1400 times"
+	STRING_EN[9191]["VALUE"] = "Complete mission 1400 times"
 	STRING_EN[9191]["real_idx"] = 9191
 
 STRING_EN["index"][9192] = 9192
 STRING_EN[9192] = {}
 	STRING_EN[9192]["ID"] = 9192
 	STRING_EN[9192]["KEY"] = "M_MISSION_FINISH_41"
-	STRING_EN[9192]["VALUE"] = "Complete the task 1450 times"
+	STRING_EN[9192]["VALUE"] = "Complete mission 1450 times"
 	STRING_EN[9192]["real_idx"] = 9192
 
 STRING_EN["index"][9193] = 9193
 STRING_EN[9193] = {}
 	STRING_EN[9193]["ID"] = 9193
 	STRING_EN[9193]["KEY"] = "M_MISSION_FINISH_42"
-	STRING_EN[9193]["VALUE"] = "Complete the task 1500 times"
+	STRING_EN[9193]["VALUE"] = "Complete mission 1500 times"
 	STRING_EN[9193]["real_idx"] = 9193
 
 STRING_EN["index"][9194] = 9194
 STRING_EN[9194] = {}
 	STRING_EN[9194]["ID"] = 9194
 	STRING_EN[9194]["KEY"] = "M_MISSION_FINISH_43"
-	STRING_EN[9194]["VALUE"] = "Complete the task 1550 times"
+	STRING_EN[9194]["VALUE"] = "Complete mission 1550 times"
 	STRING_EN[9194]["real_idx"] = 9194
 
 STRING_EN["index"][9195] = 9195
 STRING_EN[9195] = {}
 	STRING_EN[9195]["ID"] = 9195
 	STRING_EN[9195]["KEY"] = "M_MISSION_FINISH_44"
-	STRING_EN[9195]["VALUE"] = "Complete the task 1600 times"
+	STRING_EN[9195]["VALUE"] = "Complete mission 1600 times"
 	STRING_EN[9195]["real_idx"] = 9195
 
 STRING_EN["index"][9196] = 9196
 STRING_EN[9196] = {}
 	STRING_EN[9196]["ID"] = 9196
 	STRING_EN[9196]["KEY"] = "M_MISSION_FINISH_45"
-	STRING_EN[9196]["VALUE"] = "Complete the task 1650 times"
+	STRING_EN[9196]["VALUE"] = "Complete mission 1650 times"
 	STRING_EN[9196]["real_idx"] = 9196
 
 STRING_EN["index"][9197] = 9197
 STRING_EN[9197] = {}
 	STRING_EN[9197]["ID"] = 9197
 	STRING_EN[9197]["KEY"] = "M_ENSLAVE_SUCCEED_1"
-	STRING_EN[9197]["VALUE"] = "Interstellar territory successfully occupied 3 times"
+	STRING_EN[9197]["VALUE"] = "Successfully occupy Interstellar Territory 3 times"
 	STRING_EN[9197]["real_idx"] = 9197
 
 STRING_EN["index"][9198] = 9198
 STRING_EN[9198] = {}
 	STRING_EN[9198]["ID"] = 9198
 	STRING_EN[9198]["KEY"] = "M_ENSLAVE_SUCCEED_2"
-	STRING_EN[9198]["VALUE"] = "Interstellar territory successfully occupied 5 times"
+	STRING_EN[9198]["VALUE"] = "Successfully occupy Interstellar Territory 5 times"
 	STRING_EN[9198]["real_idx"] = 9198
 
 STRING_EN["index"][9199] = 9199
 STRING_EN[9199] = {}
 	STRING_EN[9199]["ID"] = 9199
 	STRING_EN[9199]["KEY"] = "M_ENSLAVE_SUCCEED_3"
-	STRING_EN[9199]["VALUE"] = "Interstellar territory successfully occupied 10 times"
+	STRING_EN[9199]["VALUE"] = "Successfully occupy Interstellar Territory 10 times"
 	STRING_EN[9199]["real_idx"] = 9199
 
 STRING_EN["index"][9200] = 9200
 STRING_EN[9200] = {}
 	STRING_EN[9200]["ID"] = 9200
 	STRING_EN[9200]["KEY"] = "M_ENSLAVE_SUCCEED_4"
-	STRING_EN[9200]["VALUE"] = "Interstellar territory successfully occupied 20 times"
+	STRING_EN[9200]["VALUE"] = "Successfully occupy Interstellar Territory 20 times"
 	STRING_EN[9200]["real_idx"] = 9200
 
 STRING_EN["index"][9201] = 9201
 STRING_EN[9201] = {}
 	STRING_EN[9201]["ID"] = 9201
 	STRING_EN[9201]["KEY"] = "M_ENSLAVE_SUCCEED_5"
-	STRING_EN[9201]["VALUE"] = "Interstellar territory successfully occupied 30 times"
+	STRING_EN[9201]["VALUE"] = "Successfully occupy Interstellar Territory 30 times"
 	STRING_EN[9201]["real_idx"] = 9201
 
 STRING_EN["index"][9202] = 9202
 STRING_EN[9202] = {}
 	STRING_EN[9202]["ID"] = 9202
 	STRING_EN[9202]["KEY"] = "M_ENSLAVE_SUCCEED_6"
-	STRING_EN[9202]["VALUE"] = "Interstellar territory successfully occupied 40 times"
+	STRING_EN[9202]["VALUE"] = "Successfully occupy Interstellar Territory 40 times"
 	STRING_EN[9202]["real_idx"] = 9202
 
 STRING_EN["index"][9203] = 9203
 STRING_EN[9203] = {}
 	STRING_EN[9203]["ID"] = 9203
 	STRING_EN[9203]["KEY"] = "M_ENSLAVE_SUCCEED_7"
-	STRING_EN[9203]["VALUE"] = "Interstellar territory successfully occupied 50 times"
+	STRING_EN[9203]["VALUE"] = "Successfully occupy Interstellar Territory 50 times"
 	STRING_EN[9203]["real_idx"] = 9203
 
 STRING_EN["index"][9204] = 9204
 STRING_EN[9204] = {}
 	STRING_EN[9204]["ID"] = 9204
 	STRING_EN[9204]["KEY"] = "M_ENSLAVE_SUCCEED_8"
-	STRING_EN[9204]["VALUE"] = "Interstellar territory successfully occupied 60 times"
+	STRING_EN[9204]["VALUE"] = "Successfully occupy Interstellar Territory 60 times"
 	STRING_EN[9204]["real_idx"] = 9204
 
 STRING_EN["index"][9205] = 9205
 STRING_EN[9205] = {}
 	STRING_EN[9205]["ID"] = 9205
 	STRING_EN[9205]["KEY"] = "M_ENSLAVE_SUCCEED_9"
-	STRING_EN[9205]["VALUE"] = "Interstellar territory successfully occupied 70 times"
+	STRING_EN[9205]["VALUE"] = "Successfully occupy Interstellar Territory 70 times"
 	STRING_EN[9205]["real_idx"] = 9205
 
 STRING_EN["index"][9206] = 9206
 STRING_EN[9206] = {}
 	STRING_EN[9206]["ID"] = 9206
 	STRING_EN[9206]["KEY"] = "M_ENSLAVE_SUCCEED_10"
-	STRING_EN[9206]["VALUE"] = "Interstellar territory successfully occupied 80 times"
+	STRING_EN[9206]["VALUE"] = "Successfully occupy Interstellar Territory 80 times"
 	STRING_EN[9206]["real_idx"] = 9206
 
 STRING_EN["index"][9207] = 9207
 STRING_EN[9207] = {}
 	STRING_EN[9207]["ID"] = 9207
 	STRING_EN[9207]["KEY"] = "M_ENSLAVE_SUCCEED_11"
-	STRING_EN[9207]["VALUE"] = "Interstellar territory successfully occupied 90 times"
+	STRING_EN[9207]["VALUE"] = "Successfully occupy Interstellar Territory 90 times"
 	STRING_EN[9207]["real_idx"] = 9207
 
 STRING_EN["index"][9208] = 9208
 STRING_EN[9208] = {}
 	STRING_EN[9208]["ID"] = 9208
 	STRING_EN[9208]["KEY"] = "M_ENSLAVE_SUCCEED_12"
-	STRING_EN[9208]["VALUE"] = "Interstellar territory successfully occupied 100 times"
+	STRING_EN[9208]["VALUE"] = "Successfully occupy Interstellar Territory 100 times"
 	STRING_EN[9208]["real_idx"] = 9208
 
 STRING_EN["index"][9209] = 9209
 STRING_EN[9209] = {}
 	STRING_EN[9209]["ID"] = 9209
 	STRING_EN[9209]["KEY"] = "M_ENSLAVE_SUCCEED_13"
-	STRING_EN[9209]["VALUE"] = "Interstellar territory successfully occupied 150 times"
+	STRING_EN[9209]["VALUE"] = "Successfully occupy Interstellar Territory 150 times"
 	STRING_EN[9209]["real_idx"] = 9209
 
 STRING_EN["index"][9210] = 9210
 STRING_EN[9210] = {}
 	STRING_EN[9210]["ID"] = 9210
 	STRING_EN[9210]["KEY"] = "M_ENSLAVE_SUCCEED_14"
-	STRING_EN[9210]["VALUE"] = "Interstellar territory successfully occupied 200 times"
+	STRING_EN[9210]["VALUE"] = "Successfully occupy Interstellar Territory 200 times"
 	STRING_EN[9210]["real_idx"] = 9210
 
 STRING_EN["index"][9211] = 9211
 STRING_EN[9211] = {}
 	STRING_EN[9211]["ID"] = 9211
 	STRING_EN[9211]["KEY"] = "M_ENSLAVE_SUCCEED_15"
-	STRING_EN[9211]["VALUE"] = "Interstellar territory successfully occupied 250 times"
+	STRING_EN[9211]["VALUE"] = "Successfully occupy Interstellar Territory 250 times"
 	STRING_EN[9211]["real_idx"] = 9211
 
 STRING_EN["index"][9212] = 9212
 STRING_EN[9212] = {}
 	STRING_EN[9212]["ID"] = 9212
 	STRING_EN[9212]["KEY"] = "M_ENSLAVE_SUCCEED_16"
-	STRING_EN[9212]["VALUE"] = "Interstellar territory successfully occupied 300 times"
+	STRING_EN[9212]["VALUE"] = "Successfully occupy Interstellar Territory 300 times"
 	STRING_EN[9212]["real_idx"] = 9212
 
 STRING_EN["index"][9213] = 9213
 STRING_EN[9213] = {}
 	STRING_EN[9213]["ID"] = 9213
 	STRING_EN[9213]["KEY"] = "M_ENSLAVE_SUCCEED_17"
-	STRING_EN[9213]["VALUE"] = "Interstellar territory successfully occupied 350 times"
+	STRING_EN[9213]["VALUE"] = "Successfully occupy Interstellar Territory 350 times"
 	STRING_EN[9213]["real_idx"] = 9213
 
 STRING_EN["index"][9214] = 9214
 STRING_EN[9214] = {}
 	STRING_EN[9214]["ID"] = 9214
 	STRING_EN[9214]["KEY"] = "M_ENSLAVE_SUCCEED_18"
-	STRING_EN[9214]["VALUE"] = "Interstellar territory successfully occupied 400 times"
+	STRING_EN[9214]["VALUE"] = "Successfully occupy Interstellar Territory 400 times"
 	STRING_EN[9214]["real_idx"] = 9214
 
 STRING_EN["index"][9215] = 9215
 STRING_EN[9215] = {}
 	STRING_EN[9215]["ID"] = 9215
 	STRING_EN[9215]["KEY"] = "M_ENSLAVE_SUCCEED_19"
-	STRING_EN[9215]["VALUE"] = "Interstellar territory successfully occupied 450 times"
+	STRING_EN[9215]["VALUE"] = "Successfully occupy Interstellar Territory 450 times"
 	STRING_EN[9215]["real_idx"] = 9215
 
 STRING_EN["index"][9216] = 9216
 STRING_EN[9216] = {}
 	STRING_EN[9216]["ID"] = 9216
 	STRING_EN[9216]["KEY"] = "M_ENSLAVE_SUCCEED_20"
-	STRING_EN[9216]["VALUE"] = "Interstellar territory successfully occupied 500 times"
+	STRING_EN[9216]["VALUE"] = "Successfully occupy Interstellar Territory 500 times"
 	STRING_EN[9216]["real_idx"] = 9216
 
 STRING_EN["index"][9217] = 9217
 STRING_EN[9217] = {}
 	STRING_EN[9217]["ID"] = 9217
 	STRING_EN[9217]["KEY"] = "M_ENSLAVE_SUCCEED_21"
-	STRING_EN[9217]["VALUE"] = "Interstellar territory successfully occupied 550 times"
+	STRING_EN[9217]["VALUE"] = "Successfully occupy Interstellar Territory 550 times"
 	STRING_EN[9217]["real_idx"] = 9217
 
 STRING_EN["index"][9218] = 9218
 STRING_EN[9218] = {}
 	STRING_EN[9218]["ID"] = 9218
 	STRING_EN[9218]["KEY"] = "M_ENSLAVE_SUCCEED_22"
-	STRING_EN[9218]["VALUE"] = "Interstellar territory successfully occupied 600 times"
+	STRING_EN[9218]["VALUE"] = "Successfully occupy Interstellar Territory 600 times"
 	STRING_EN[9218]["real_idx"] = 9218
 
 STRING_EN["index"][9219] = 9219
 STRING_EN[9219] = {}
 	STRING_EN[9219]["ID"] = 9219
 	STRING_EN[9219]["KEY"] = "M_ENSLAVE_SUCCEED_23"
-	STRING_EN[9219]["VALUE"] = "Interstellar territory successfully captured 650 times"
+	STRING_EN[9219]["VALUE"] = "Successfully occupy Interstellar Territory 650 times"
 	STRING_EN[9219]["real_idx"] = 9219
 
 STRING_EN["index"][9220] = 9220
 STRING_EN[9220] = {}
 	STRING_EN[9220]["ID"] = 9220
 	STRING_EN[9220]["KEY"] = "M_ENSLAVE_SUCCEED_24"
-	STRING_EN[9220]["VALUE"] = "Interstellar territory successfully occupied 700 times"
+	STRING_EN[9220]["VALUE"] = "Successfully occupy Interstellar Territory 700 times"
 	STRING_EN[9220]["real_idx"] = 9220
 
 STRING_EN["index"][9221] = 9221
 STRING_EN[9221] = {}
 	STRING_EN[9221]["ID"] = 9221
 	STRING_EN[9221]["KEY"] = "M_ENSLAVE_SUCCEED_25"
-	STRING_EN[9221]["VALUE"] = "Interstellar territory successfully occupied 750 times"
+	STRING_EN[9221]["VALUE"] = "Successfully occupy Interstellar Territory 750 times"
 	STRING_EN[9221]["real_idx"] = 9221
 
 STRING_EN["index"][9222] = 9222
 STRING_EN[9222] = {}
 	STRING_EN[9222]["ID"] = 9222
 	STRING_EN[9222]["KEY"] = "M_ENSLAVE_SUCCEED_26"
-	STRING_EN[9222]["VALUE"] = "Interstellar territory successfully occupied 800 times"
+	STRING_EN[9222]["VALUE"] = "Successfully occupy Interstellar Territory 800 times"
 	STRING_EN[9222]["real_idx"] = 9222
 
 STRING_EN["index"][9223] = 9223
 STRING_EN[9223] = {}
 	STRING_EN[9223]["ID"] = 9223
 	STRING_EN[9223]["KEY"] = "M_ENSLAVE_SUCCEED_27"
-	STRING_EN[9223]["VALUE"] = "Interstellar territory successfully occupied 850 times"
+	STRING_EN[9223]["VALUE"] = "Successfully occupy Interstellar Territory 850 times"
 	STRING_EN[9223]["real_idx"] = 9223
 
 STRING_EN["index"][9224] = 9224
 STRING_EN[9224] = {}
 	STRING_EN[9224]["ID"] = 9224
 	STRING_EN[9224]["KEY"] = "M_ENSLAVE_SUCCEED_28"
-	STRING_EN[9224]["VALUE"] = "Interstellar territory successfully occupied 900 times"
+	STRING_EN[9224]["VALUE"] = "Successfully occupy Interstellar Territory 900 times"
 	STRING_EN[9224]["real_idx"] = 9224
 
 STRING_EN["index"][9225] = 9225
 STRING_EN[9225] = {}
 	STRING_EN[9225]["ID"] = 9225
 	STRING_EN[9225]["KEY"] = "M_ENSLAVE_SUCCEED_29"
-	STRING_EN[9225]["VALUE"] = "Interstellar territory successfully occupied 950 times"
+	STRING_EN[9225]["VALUE"] = "Successfully occupy Interstellar Territory 950 times"
 	STRING_EN[9225]["real_idx"] = 9225
 
 STRING_EN["index"][9226] = 9226
 STRING_EN[9226] = {}
 	STRING_EN[9226]["ID"] = 9226
 	STRING_EN[9226]["KEY"] = "M_ENSLAVE_SUCCEED_30"
-	STRING_EN[9226]["VALUE"] = "Interstellar territory successfully occupied 1000 times"
+	STRING_EN[9226]["VALUE"] = "Successfully occupy Interstellar Territory 1000 times"
 	STRING_EN[9226]["real_idx"] = 9226
 
 STRING_EN["index"][9227] = 9227
 STRING_EN[9227] = {}
 	STRING_EN[9227]["ID"] = 9227
 	STRING_EN[9227]["KEY"] = "M_ENSLAVE_SUCCEED_31"
-	STRING_EN[9227]["VALUE"] = "Interstellar territory successfully occupied 1200 times"
+	STRING_EN[9227]["VALUE"] = "Successfully occupy Interstellar Territory 1200 times"
 	STRING_EN[9227]["real_idx"] = 9227
 
 STRING_EN["index"][9228] = 9228
 STRING_EN[9228] = {}
 	STRING_EN[9228]["ID"] = 9228
 	STRING_EN[9228]["KEY"] = "M_ENSLAVE_SUCCEED_32"
-	STRING_EN[9228]["VALUE"] = "Interstellar territory successfully occupied 1400 times"
+	STRING_EN[9228]["VALUE"] = "Successfully occupy Interstellar Territory 1400 times"
 	STRING_EN[9228]["real_idx"] = 9228
 
 STRING_EN["index"][9229] = 9229
 STRING_EN[9229] = {}
 	STRING_EN[9229]["ID"] = 9229
 	STRING_EN[9229]["KEY"] = "M_ENSLAVE_SUCCEED_33"
-	STRING_EN[9229]["VALUE"] = "Interstellar territory successfully occupied 1600 times"
+	STRING_EN[9229]["VALUE"] = "Successfully occupy Interstellar Territory 1600 times"
 	STRING_EN[9229]["real_idx"] = 9229
 
 STRING_EN["index"][9230] = 9230
 STRING_EN[9230] = {}
 	STRING_EN[9230]["ID"] = 9230
 	STRING_EN[9230]["KEY"] = "M_ENSLAVE_SUCCEED_34"
-	STRING_EN[9230]["VALUE"] = "Interstellar territory successfully occupied 1800 times"
+	STRING_EN[9230]["VALUE"] = "Successfully occupy Interstellar Territory 1800 times"
 	STRING_EN[9230]["real_idx"] = 9230
 
 STRING_EN["index"][9231] = 9231
 STRING_EN[9231] = {}
 	STRING_EN[9231]["ID"] = 9231
 	STRING_EN[9231]["KEY"] = "M_ENSLAVE_SUCCEED_35"
-	STRING_EN[9231]["VALUE"] = "Interstellar territory successfully occupied 2000 times"
+	STRING_EN[9231]["VALUE"] = "Successfully occupy Interstellar Territory 2000 times"
 	STRING_EN[9231]["real_idx"] = 9231
 
 STRING_EN["index"][9232] = 9232
 STRING_EN[9232] = {}
 	STRING_EN[9232]["ID"] = 9232
 	STRING_EN[9232]["KEY"] = "M_ENSLAVE_SUCCEED_36"
-	STRING_EN[9232]["VALUE"] = "Interstellar territory successfully occupied 2，200 times"
+	STRING_EN[9232]["VALUE"] = "Successfully occupy Interstellar Territory 2200 times"
 	STRING_EN[9232]["real_idx"] = 9232
 
 STRING_EN["index"][9233] = 9233
 STRING_EN[9233] = {}
 	STRING_EN[9233]["ID"] = 9233
 	STRING_EN[9233]["KEY"] = "M_ENSLAVE_SUCCEED_37"
-	STRING_EN[9233]["VALUE"] = "Interstellar territory successfully captured 2，400 times"
+	STRING_EN[9233]["VALUE"] = "Successfully occupy Interstellar Territory 2400 times"
 	STRING_EN[9233]["real_idx"] = 9233
 
 STRING_EN["index"][9234] = 9234
 STRING_EN[9234] = {}
 	STRING_EN[9234]["ID"] = 9234
 	STRING_EN[9234]["KEY"] = "M_ENSLAVE_SUCCEED_38"
-	STRING_EN[9234]["VALUE"] = "Interstellar territory successfully captured 2，600 times"
+	STRING_EN[9234]["VALUE"] = "Successfully occupy Interstellar Territory 2600 times"
 	STRING_EN[9234]["real_idx"] = 9234
 
 STRING_EN["index"][9235] = 9235
 STRING_EN[9235] = {}
 	STRING_EN[9235]["ID"] = 9235
 	STRING_EN[9235]["KEY"] = "M_ENSLAVE_SUCCEED_39"
-	STRING_EN[9235]["VALUE"] = "Interstellar territory successfully occupied 2，800 times"
+	STRING_EN[9235]["VALUE"] = "Successfully occupy Interstellar Territory 2800 times"
 	STRING_EN[9235]["real_idx"] = 9235
 
 STRING_EN["index"][9236] = 9236
 STRING_EN[9236] = {}
 	STRING_EN[9236]["ID"] = 9236
 	STRING_EN[9236]["KEY"] = "M_ENSLAVE_SUCCEED_40"
-	STRING_EN[9236]["VALUE"] = "Interstellar territory successfully occupied 3，000 times"
+	STRING_EN[9236]["VALUE"] = "Successfully occupy Interstellar Territory 3000 times"
 	STRING_EN[9236]["real_idx"] = 9236
 
 STRING_EN["index"][9237] = 9237
 STRING_EN[9237] = {}
 	STRING_EN[9237]["ID"] = 9237
 	STRING_EN[9237]["KEY"] = "M_ENSLAVE_SUCCEED_41"
-	STRING_EN[9237]["VALUE"] = "Interstellar territory successfully occupied 3，200 times"
+	STRING_EN[9237]["VALUE"] = "Successfully occupy Interstellar Territory 3200 times"
 	STRING_EN[9237]["real_idx"] = 9237
 
 STRING_EN["index"][9238] = 9238
 STRING_EN[9238] = {}
 	STRING_EN[9238]["ID"] = 9238
 	STRING_EN[9238]["KEY"] = "M_ENSLAVE_SUCCEED_42"
-	STRING_EN[9238]["VALUE"] = "Interstellar territory successfully captured 3，400 times"
+	STRING_EN[9238]["VALUE"] = "Successfully occupy Interstellar Territory 3400 times"
 	STRING_EN[9238]["real_idx"] = 9238
 
 STRING_EN["index"][9239] = 9239
 STRING_EN[9239] = {}
 	STRING_EN[9239]["ID"] = 9239
 	STRING_EN[9239]["KEY"] = "M_ENSLAVE_SUCCEED_43"
-	STRING_EN[9239]["VALUE"] = "Interstellar territory successfully occupied 3，600 times"
+	STRING_EN[9239]["VALUE"] = "Successfully occupy Interstellar Territory 3600 times"
 	STRING_EN[9239]["real_idx"] = 9239
 
 STRING_EN["index"][9240] = 9240
 STRING_EN[9240] = {}
 	STRING_EN[9240]["ID"] = 9240
 	STRING_EN[9240]["KEY"] = "M_ENSLAVE_SUCCEED_44"
-	STRING_EN[9240]["VALUE"] = "Interstellar territory successfully occupied 3，800 times"
+	STRING_EN[9240]["VALUE"] = "Successfully occupy Interstellar Territory 3800 times"
 	STRING_EN[9240]["real_idx"] = 9240
 
 STRING_EN["index"][9241] = 9241
 STRING_EN[9241] = {}
 	STRING_EN[9241]["ID"] = 9241
 	STRING_EN[9241]["KEY"] = "M_ENSLAVE_SUCCEED_45"
-	STRING_EN[9241]["VALUE"] = "Interstellar territory successfully occupied 4000 times"
+	STRING_EN[9241]["VALUE"] = "Successfully occupy Interstellar Territory 4000 times"
 	STRING_EN[9241]["real_idx"] = 9241
 
 STRING_EN["index"][9242] = 9242
 STRING_EN[9242] = {}
 	STRING_EN[9242]["ID"] = 9242
 	STRING_EN[9242]["KEY"] = "M_COLLECTION_RESOURCES_1"
-	STRING_EN[9242]["VALUE"] = "Collecting resource mines 1 times"
+	STRING_EN[9242]["VALUE"] = "Exploit resource mine 1 times"
 	STRING_EN[9242]["real_idx"] = 9242
 
 STRING_EN["index"][9243] = 9243
 STRING_EN[9243] = {}
 	STRING_EN[9243]["ID"] = 9243
 	STRING_EN[9243]["KEY"] = "M_COLLECTION_RESOURCES_2"
-	STRING_EN[9243]["VALUE"] = "Collecting resource mines 2 times"
+	STRING_EN[9243]["VALUE"] = "Exploit resource mine 2 times"
 	STRING_EN[9243]["real_idx"] = 9243
 
 STRING_EN["index"][9244] = 9244
 STRING_EN[9244] = {}
 	STRING_EN[9244]["ID"] = 9244
 	STRING_EN[9244]["KEY"] = "M_COLLECTION_RESOURCES_3"
-	STRING_EN[9244]["VALUE"] = "Collecting resource mines 3 times"
+	STRING_EN[9244]["VALUE"] = "Exploit resource mine 3 times"
 	STRING_EN[9244]["real_idx"] = 9244
 
 STRING_EN["index"][9245] = 9245
 STRING_EN[9245] = {}
 	STRING_EN[9245]["ID"] = 9245
 	STRING_EN[9245]["KEY"] = "M_COLLECTION_RESOURCES_4"
-	STRING_EN[9245]["VALUE"] = "Collecting resource mines 5 times"
+	STRING_EN[9245]["VALUE"] = "Exploit resource mine 5 times"
 	STRING_EN[9245]["real_idx"] = 9245
 
 STRING_EN["index"][9246] = 9246
 STRING_EN[9246] = {}
 	STRING_EN[9246]["ID"] = 9246
 	STRING_EN[9246]["KEY"] = "M_COLLECTION_RESOURCES_5"
-	STRING_EN[9246]["VALUE"] = "Collecting resource mines 10 times"
+	STRING_EN[9246]["VALUE"] = "Exploit resource mine 10 times"
 	STRING_EN[9246]["real_idx"] = 9246
 
 STRING_EN["index"][9247] = 9247
 STRING_EN[9247] = {}
 	STRING_EN[9247]["ID"] = 9247
 	STRING_EN[9247]["KEY"] = "M_COLLECTION_RESOURCES_6"
-	STRING_EN[9247]["VALUE"] = "Collecting resource mines 20 times"
+	STRING_EN[9247]["VALUE"] = "Exploit resource mine 20 times"
 	STRING_EN[9247]["real_idx"] = 9247
 
 STRING_EN["index"][9248] = 9248
 STRING_EN[9248] = {}
 	STRING_EN[9248]["ID"] = 9248
 	STRING_EN[9248]["KEY"] = "M_COLLECTION_RESOURCES_7"
-	STRING_EN[9248]["VALUE"] = "Collecting resource mines 30 times"
+	STRING_EN[9248]["VALUE"] = "Exploit resource mine 30 times"
 	STRING_EN[9248]["real_idx"] = 9248
 
 STRING_EN["index"][9249] = 9249
 STRING_EN[9249] = {}
 	STRING_EN[9249]["ID"] = 9249
 	STRING_EN[9249]["KEY"] = "M_COLLECTION_RESOURCES_8"
-	STRING_EN[9249]["VALUE"] = "Collecting resource mines 40 times"
+	STRING_EN[9249]["VALUE"] = "Exploit resource mine 40 times"
 	STRING_EN[9249]["real_idx"] = 9249
 
 STRING_EN["index"][9250] = 9250
 STRING_EN[9250] = {}
 	STRING_EN[9250]["ID"] = 9250
 	STRING_EN[9250]["KEY"] = "M_COLLECTION_RESOURCES_9"
-	STRING_EN[9250]["VALUE"] = "Collecting resource mines 50 times"
+	STRING_EN[9250]["VALUE"] = "Exploit resource mine 50 times"
 	STRING_EN[9250]["real_idx"] = 9250
 
 STRING_EN["index"][9251] = 9251
 STRING_EN[9251] = {}
 	STRING_EN[9251]["ID"] = 9251
 	STRING_EN[9251]["KEY"] = "M_COLLECTION_RESOURCES_10"
-	STRING_EN[9251]["VALUE"] = "Collecting resource mines 60 times"
+	STRING_EN[9251]["VALUE"] = "Exploit resource mine 60 times"
 	STRING_EN[9251]["real_idx"] = 9251
 
 STRING_EN["index"][9252] = 9252
 STRING_EN[9252] = {}
 	STRING_EN[9252]["ID"] = 9252
 	STRING_EN[9252]["KEY"] = "M_COLLECTION_RESOURCES_11"
-	STRING_EN[9252]["VALUE"] = "Collecting resource mines 70 times"
+	STRING_EN[9252]["VALUE"] = "Exploit resource mine 70 times"
 	STRING_EN[9252]["real_idx"] = 9252
 
 STRING_EN["index"][9253] = 9253
 STRING_EN[9253] = {}
 	STRING_EN[9253]["ID"] = 9253
 	STRING_EN[9253]["KEY"] = "M_COLLECTION_RESOURCES_12"
-	STRING_EN[9253]["VALUE"] = "Collecting resource mines 80 times"
+	STRING_EN[9253]["VALUE"] = "Exploit resource mine 80 times"
 	STRING_EN[9253]["real_idx"] = 9253
 
 STRING_EN["index"][9254] = 9254
 STRING_EN[9254] = {}
 	STRING_EN[9254]["ID"] = 9254
 	STRING_EN[9254]["KEY"] = "M_COLLECTION_RESOURCES_13"
-	STRING_EN[9254]["VALUE"] = "Collecting resource mines 90 times"
+	STRING_EN[9254]["VALUE"] = "Exploit resource mine 90 times"
 	STRING_EN[9254]["real_idx"] = 9254
 
 STRING_EN["index"][9255] = 9255
 STRING_EN[9255] = {}
 	STRING_EN[9255]["ID"] = 9255
 	STRING_EN[9255]["KEY"] = "M_COLLECTION_RESOURCES_14"
-	STRING_EN[9255]["VALUE"] = "Collecting resource mines 100 times"
+	STRING_EN[9255]["VALUE"] = "Exploit resource mine 100 times"
 	STRING_EN[9255]["real_idx"] = 9255
 
 STRING_EN["index"][9256] = 9256
 STRING_EN[9256] = {}
 	STRING_EN[9256]["ID"] = 9256
 	STRING_EN[9256]["KEY"] = "M_COLLECTION_RESOURCES_15"
-	STRING_EN[9256]["VALUE"] = "Collecting resource mines 110 times"
+	STRING_EN[9256]["VALUE"] = "Exploit resource mine 110 times"
 	STRING_EN[9256]["real_idx"] = 9256
 
 STRING_EN["index"][9257] = 9257
 STRING_EN[9257] = {}
 	STRING_EN[9257]["ID"] = 9257
 	STRING_EN[9257]["KEY"] = "M_COLLECTION_RESOURCES_16"
-	STRING_EN[9257]["VALUE"] = "Collecting resource mines 120 times"
+	STRING_EN[9257]["VALUE"] = "Exploit resource mine 120 times"
 	STRING_EN[9257]["real_idx"] = 9257
 
 STRING_EN["index"][9258] = 9258
 STRING_EN[9258] = {}
 	STRING_EN[9258]["ID"] = 9258
 	STRING_EN[9258]["KEY"] = "M_COLLECTION_RESOURCES_17"
-	STRING_EN[9258]["VALUE"] = "Collecting resource mines 130 times"
+	STRING_EN[9258]["VALUE"] = "Exploit resource mine 130 times"
 	STRING_EN[9258]["real_idx"] = 9258
 
 STRING_EN["index"][9259] = 9259
 STRING_EN[9259] = {}
 	STRING_EN[9259]["ID"] = 9259
 	STRING_EN[9259]["KEY"] = "M_COLLECTION_RESOURCES_18"
-	STRING_EN[9259]["VALUE"] = "Collecting resource mines 140 times"
+	STRING_EN[9259]["VALUE"] = "Exploit resource mine 140 times"
 	STRING_EN[9259]["real_idx"] = 9259
 
 STRING_EN["index"][9260] = 9260
 STRING_EN[9260] = {}
 	STRING_EN[9260]["ID"] = 9260
 	STRING_EN[9260]["KEY"] = "M_COLLECTION_RESOURCES_19"
-	STRING_EN[9260]["VALUE"] = "Collecting resource mines 150 times"
+	STRING_EN[9260]["VALUE"] = "Exploit resource mine 150 times"
 	STRING_EN[9260]["real_idx"] = 9260
 
 STRING_EN["index"][9261] = 9261
 STRING_EN[9261] = {}
 	STRING_EN[9261]["ID"] = 9261
 	STRING_EN[9261]["KEY"] = "M_COLLECTION_RESOURCES_20"
-	STRING_EN[9261]["VALUE"] = "Collecting resource mines 160 times"
+	STRING_EN[9261]["VALUE"] = "Exploit resource mine 160 times"
 	STRING_EN[9261]["real_idx"] = 9261
 
 STRING_EN["index"][9262] = 9262
 STRING_EN[9262] = {}
 	STRING_EN[9262]["ID"] = 9262
 	STRING_EN[9262]["KEY"] = "M_COLLECTION_RESOURCES_21"
-	STRING_EN[9262]["VALUE"] = "Collecting resource mines 170 times"
+	STRING_EN[9262]["VALUE"] = "Exploit resource mine 170 times"
 	STRING_EN[9262]["real_idx"] = 9262
 
 STRING_EN["index"][9263] = 9263
 STRING_EN[9263] = {}
 	STRING_EN[9263]["ID"] = 9263
 	STRING_EN[9263]["KEY"] = "M_COLLECTION_RESOURCES_22"
-	STRING_EN[9263]["VALUE"] = "Collecting resource mines 180 times"
+	STRING_EN[9263]["VALUE"] = "Exploit resource mine 180 times"
 	STRING_EN[9263]["real_idx"] = 9263
 
 STRING_EN["index"][9264] = 9264
 STRING_EN[9264] = {}
 	STRING_EN[9264]["ID"] = 9264
 	STRING_EN[9264]["KEY"] = "M_COLLECTION_RESOURCES_23"
-	STRING_EN[9264]["VALUE"] = "Collecting resource mines 190 times"
+	STRING_EN[9264]["VALUE"] = "Exploit resource mine 190 times"
 	STRING_EN[9264]["real_idx"] = 9264
 
 STRING_EN["index"][9265] = 9265
 STRING_EN[9265] = {}
 	STRING_EN[9265]["ID"] = 9265
 	STRING_EN[9265]["KEY"] = "M_COLLECTION_RESOURCES_24"
-	STRING_EN[9265]["VALUE"] = "Collecting resource mines 200 times"
+	STRING_EN[9265]["VALUE"] = "Exploit resource mine 200 times"
 	STRING_EN[9265]["real_idx"] = 9265
 
 STRING_EN["index"][9266] = 9266
 STRING_EN[9266] = {}
 	STRING_EN[9266]["ID"] = 9266
 	STRING_EN[9266]["KEY"] = "M_COLLECTION_RESOURCES_25"
-	STRING_EN[9266]["VALUE"] = "Collecting resource mines 220 times"
+	STRING_EN[9266]["VALUE"] = "Exploit resource mine 220 times"
 	STRING_EN[9266]["real_idx"] = 9266
 
 STRING_EN["index"][9267] = 9267
 STRING_EN[9267] = {}
 	STRING_EN[9267]["ID"] = 9267
 	STRING_EN[9267]["KEY"] = "M_COLLECTION_RESOURCES_26"
-	STRING_EN[9267]["VALUE"] = "Collecting resource mines 240 times"
+	STRING_EN[9267]["VALUE"] = "Exploit resource mine 240 times"
 	STRING_EN[9267]["real_idx"] = 9267
 
 STRING_EN["index"][9268] = 9268
 STRING_EN[9268] = {}
 	STRING_EN[9268]["ID"] = 9268
 	STRING_EN[9268]["KEY"] = "M_COLLECTION_RESOURCES_27"
-	STRING_EN[9268]["VALUE"] = "Collecting resource mines 260 times"
+	STRING_EN[9268]["VALUE"] = "Exploit resource mine 260 times"
 	STRING_EN[9268]["real_idx"] = 9268
 
 STRING_EN["index"][9269] = 9269
 STRING_EN[9269] = {}
 	STRING_EN[9269]["ID"] = 9269
 	STRING_EN[9269]["KEY"] = "M_COLLECTION_RESOURCES_28"
-	STRING_EN[9269]["VALUE"] = "Collecting resource mines 280 times"
+	STRING_EN[9269]["VALUE"] = "Exploit resource mine 280 times"
 	STRING_EN[9269]["real_idx"] = 9269
 
 STRING_EN["index"][9270] = 9270
 STRING_EN[9270] = {}
 	STRING_EN[9270]["ID"] = 9270
 	STRING_EN[9270]["KEY"] = "M_COLLECTION_RESOURCES_29"
-	STRING_EN[9270]["VALUE"] = "Collecting resource mines 300 times"
+	STRING_EN[9270]["VALUE"] = "Exploit resource mine 300 times"
 	STRING_EN[9270]["real_idx"] = 9270
 
 STRING_EN["index"][9271] = 9271
 STRING_EN[9271] = {}
 	STRING_EN[9271]["ID"] = 9271
 	STRING_EN[9271]["KEY"] = "M_COLLECTION_RESOURCES_30"
-	STRING_EN[9271]["VALUE"] = "Collecting resource mines 320 times"
+	STRING_EN[9271]["VALUE"] = "Exploit resource mine 320 times"
 	STRING_EN[9271]["real_idx"] = 9271
 
 STRING_EN["index"][9272] = 9272
 STRING_EN[9272] = {}
 	STRING_EN[9272]["ID"] = 9272
 	STRING_EN[9272]["KEY"] = "M_COLLECTION_RESOURCES_31"
-	STRING_EN[9272]["VALUE"] = "Collecting resource mines 340 times"
+	STRING_EN[9272]["VALUE"] = "Exploit resource mine 340 times"
 	STRING_EN[9272]["real_idx"] = 9272
 
 STRING_EN["index"][9273] = 9273
 STRING_EN[9273] = {}
 	STRING_EN[9273]["ID"] = 9273
 	STRING_EN[9273]["KEY"] = "M_COLLECTION_RESOURCES_32"
-	STRING_EN[9273]["VALUE"] = "Collecting resource mines 360 times"
+	STRING_EN[9273]["VALUE"] = "Exploit resource mine 360 times"
 	STRING_EN[9273]["real_idx"] = 9273
 
 STRING_EN["index"][9274] = 9274
 STRING_EN[9274] = {}
 	STRING_EN[9274]["ID"] = 9274
 	STRING_EN[9274]["KEY"] = "M_COLLECTION_RESOURCES_33"
-	STRING_EN[9274]["VALUE"] = "Collecting resource mines 380 times"
+	STRING_EN[9274]["VALUE"] = "Exploit resource mine 380 times"
 	STRING_EN[9274]["real_idx"] = 9274
 
 STRING_EN["index"][9275] = 9275
 STRING_EN[9275] = {}
 	STRING_EN[9275]["ID"] = 9275
 	STRING_EN[9275]["KEY"] = "M_COLLECTION_RESOURCES_34"
-	STRING_EN[9275]["VALUE"] = "Collecting resource mines 400 times"
+	STRING_EN[9275]["VALUE"] = "Exploit resource mine 400 times"
 	STRING_EN[9275]["real_idx"] = 9275
 
 STRING_EN["index"][9276] = 9276
 STRING_EN[9276] = {}
 	STRING_EN[9276]["ID"] = 9276
 	STRING_EN[9276]["KEY"] = "M_COLLECTION_RESOURCES_35"
-	STRING_EN[9276]["VALUE"] = "Collecting resource mines 450 times"
+	STRING_EN[9276]["VALUE"] = "Exploit resource mine 450 times"
 	STRING_EN[9276]["real_idx"] = 9276
 
 STRING_EN["index"][9277] = 9277
 STRING_EN[9277] = {}
 	STRING_EN[9277]["ID"] = 9277
 	STRING_EN[9277]["KEY"] = "M_COLLECTION_RESOURCES_36"
-	STRING_EN[9277]["VALUE"] = "Collecting resource mines 500 times"
+	STRING_EN[9277]["VALUE"] = "Exploit resource mine 500 times"
 	STRING_EN[9277]["real_idx"] = 9277
 
 STRING_EN["index"][9278] = 9278
 STRING_EN[9278] = {}
 	STRING_EN[9278]["ID"] = 9278
 	STRING_EN[9278]["KEY"] = "M_COLLECTION_RESOURCES_37"
-	STRING_EN[9278]["VALUE"] = "Collecting resource mines 550 times"
+	STRING_EN[9278]["VALUE"] = "Exploit resource mine 550 times"
 	STRING_EN[9278]["real_idx"] = 9278
 
 STRING_EN["index"][9279] = 9279
 STRING_EN[9279] = {}
 	STRING_EN[9279]["ID"] = 9279
 	STRING_EN[9279]["KEY"] = "M_COLLECTION_RESOURCES_38"
-	STRING_EN[9279]["VALUE"] = "Collecting resource mines 600 times"
+	STRING_EN[9279]["VALUE"] = "Exploit resource mine 600 times"
 	STRING_EN[9279]["real_idx"] = 9279
 
 STRING_EN["index"][9280] = 9280
 STRING_EN[9280] = {}
 	STRING_EN[9280]["ID"] = 9280
 	STRING_EN[9280]["KEY"] = "M_COLLECTION_RESOURCES_39"
-	STRING_EN[9280]["VALUE"] = "Collecting resource mines 650 times"
+	STRING_EN[9280]["VALUE"] = "Exploit resource mine 650 times"
 	STRING_EN[9280]["real_idx"] = 9280
 
 STRING_EN["index"][9281] = 9281
 STRING_EN[9281] = {}
 	STRING_EN[9281]["ID"] = 9281
 	STRING_EN[9281]["KEY"] = "M_COLLECTION_RESOURCES_40"
-	STRING_EN[9281]["VALUE"] = "Collecting resource mines 700 times"
+	STRING_EN[9281]["VALUE"] = "Exploit resource mine 700 times"
 	STRING_EN[9281]["real_idx"] = 9281
 
 STRING_EN["index"][9282] = 9282
 STRING_EN[9282] = {}
 	STRING_EN[9282]["ID"] = 9282
 	STRING_EN[9282]["KEY"] = "M_COLLECTION_RESOURCES_41"
-	STRING_EN[9282]["VALUE"] = "Collecting resource mines 750 times"
+	STRING_EN[9282]["VALUE"] = "Exploit resource mine 750 times"
 	STRING_EN[9282]["real_idx"] = 9282
 
 STRING_EN["index"][9283] = 9283
 STRING_EN[9283] = {}
 	STRING_EN[9283]["ID"] = 9283
 	STRING_EN[9283]["KEY"] = "M_COLLECTION_RESOURCES_42"
-	STRING_EN[9283]["VALUE"] = "Collecting resource mines 800 times"
+	STRING_EN[9283]["VALUE"] = "Exploit resource mine 800 times"
 	STRING_EN[9283]["real_idx"] = 9283
 
 STRING_EN["index"][9284] = 9284
 STRING_EN[9284] = {}
 	STRING_EN[9284]["ID"] = 9284
 	STRING_EN[9284]["KEY"] = "M_COLLECTION_RESOURCES_43"
-	STRING_EN[9284]["VALUE"] = "Collecting resource mines 850 times"
+	STRING_EN[9284]["VALUE"] = "Exploit resource mine 850 times"
 	STRING_EN[9284]["real_idx"] = 9284
 
 STRING_EN["index"][9285] = 9285
 STRING_EN[9285] = {}
 	STRING_EN[9285]["ID"] = 9285
 	STRING_EN[9285]["KEY"] = "M_COLLECTION_RESOURCES_44"
-	STRING_EN[9285]["VALUE"] = "Collecting resource mines 900 times"
+	STRING_EN[9285]["VALUE"] = "Exploit resource mine 900 times"
 	STRING_EN[9285]["real_idx"] = 9285
 
 STRING_EN["index"][9286] = 9286
 STRING_EN[9286] = {}
 	STRING_EN[9286]["ID"] = 9286
 	STRING_EN[9286]["KEY"] = "M_COLLECTION_RESOURCES_45"
-	STRING_EN[9286]["VALUE"] = "Collecting resource mines 1000 times"
+	STRING_EN[9286]["VALUE"] = "Exploit resource mine 1000 times"
 	STRING_EN[9286]["real_idx"] = 9286
 
 STRING_EN["index"][9287] = 9287
 STRING_EN[9287] = {}
 	STRING_EN[9287]["ID"] = 9287
 	STRING_EN[9287]["KEY"] = "M_DESTROY_BELT_1"
-	STRING_EN[9287]["VALUE"] = "Destroy the planet belt 1 times"
+	STRING_EN[9287]["VALUE"] = "Destroy astroid belt 1 times"
 	STRING_EN[9287]["real_idx"] = 9287
 
 STRING_EN["index"][9288] = 9288
 STRING_EN[9288] = {}
 	STRING_EN[9288]["ID"] = 9288
 	STRING_EN[9288]["KEY"] = "M_DESTROY_BELT_2"
-	STRING_EN[9288]["VALUE"] = "Destroy the planet belt 2 times"
+	STRING_EN[9288]["VALUE"] = "Destroy astroid belt 2 times"
 	STRING_EN[9288]["real_idx"] = 9288
 
 STRING_EN["index"][9289] = 9289
 STRING_EN[9289] = {}
 	STRING_EN[9289]["ID"] = 9289
 	STRING_EN[9289]["KEY"] = "M_DESTROY_BELT_3"
-	STRING_EN[9289]["VALUE"] = "Destroy the planet belt 4 times"
+	STRING_EN[9289]["VALUE"] = "Destroy astroid belt 4 times"
 	STRING_EN[9289]["real_idx"] = 9289
 
 STRING_EN["index"][9290] = 9290
 STRING_EN[9290] = {}
 	STRING_EN[9290]["ID"] = 9290
 	STRING_EN[9290]["KEY"] = "M_DESTROY_BELT_4"
-	STRING_EN[9290]["VALUE"] = "Destroy the planet belt 6 times"
+	STRING_EN[9290]["VALUE"] = "Destroy astroid belt 6 times"
 	STRING_EN[9290]["real_idx"] = 9290
 
 STRING_EN["index"][9291] = 9291
 STRING_EN[9291] = {}
 	STRING_EN[9291]["ID"] = 9291
 	STRING_EN[9291]["KEY"] = "M_DESTROY_BELT_5"
-	STRING_EN[9291]["VALUE"] = "Destroy the planet belt 8 times"
+	STRING_EN[9291]["VALUE"] = "Destroy astroid belt 8 times"
 	STRING_EN[9291]["real_idx"] = 9291
 
 STRING_EN["index"][9292] = 9292
 STRING_EN[9292] = {}
 	STRING_EN[9292]["ID"] = 9292
 	STRING_EN[9292]["KEY"] = "M_DESTROY_BELT_6"
-	STRING_EN[9292]["VALUE"] = "Destroy the planet belt 10 times"
+	STRING_EN[9292]["VALUE"] = "Destroy astroid belt 10 times"
 	STRING_EN[9292]["real_idx"] = 9292
 
 STRING_EN["index"][9293] = 9293
 STRING_EN[9293] = {}
 	STRING_EN[9293]["ID"] = 9293
 	STRING_EN[9293]["KEY"] = "M_DESTROY_BELT_7"
-	STRING_EN[9293]["VALUE"] = "Destroy the planet belt 20 times"
+	STRING_EN[9293]["VALUE"] = "Destroy astroid belt 20 times"
 	STRING_EN[9293]["real_idx"] = 9293
 
 STRING_EN["index"][9294] = 9294
 STRING_EN[9294] = {}
 	STRING_EN[9294]["ID"] = 9294
 	STRING_EN[9294]["KEY"] = "M_DESTROY_BELT_8"
-	STRING_EN[9294]["VALUE"] = "Destroy the planet belt 30 times"
+	STRING_EN[9294]["VALUE"] = "Destroy astroid belt 30 times"
 	STRING_EN[9294]["real_idx"] = 9294
 
 STRING_EN["index"][9295] = 9295
 STRING_EN[9295] = {}
 	STRING_EN[9295]["ID"] = 9295
 	STRING_EN[9295]["KEY"] = "M_DESTROY_BELT_9"
-	STRING_EN[9295]["VALUE"] = "Destroy the planet belt 40 times"
+	STRING_EN[9295]["VALUE"] = "Destroy astroid belt 40 times"
 	STRING_EN[9295]["real_idx"] = 9295
 
 STRING_EN["index"][9296] = 9296
 STRING_EN[9296] = {}
 	STRING_EN[9296]["ID"] = 9296
 	STRING_EN[9296]["KEY"] = "M_DESTROY_BELT_10"
-	STRING_EN[9296]["VALUE"] = "Destroy the planet belt 50 times"
+	STRING_EN[9296]["VALUE"] = "Destroy astroid belt 50 times"
 	STRING_EN[9296]["real_idx"] = 9296
 
 STRING_EN["index"][9297] = 9297
 STRING_EN[9297] = {}
 	STRING_EN[9297]["ID"] = 9297
 	STRING_EN[9297]["KEY"] = "M_DESTROY_BELT_11"
-	STRING_EN[9297]["VALUE"] = "Destroy the planet belt 60 times"
+	STRING_EN[9297]["VALUE"] = "Destroy astroid belt 60 times"
 	STRING_EN[9297]["real_idx"] = 9297
 
 STRING_EN["index"][9298] = 9298
 STRING_EN[9298] = {}
 	STRING_EN[9298]["ID"] = 9298
 	STRING_EN[9298]["KEY"] = "M_DESTROY_BELT_12"
-	STRING_EN[9298]["VALUE"] = "Destroy the planet belt 70 times"
+	STRING_EN[9298]["VALUE"] = "Destroy astroid belt 70 times"
 	STRING_EN[9298]["real_idx"] = 9298
 
 STRING_EN["index"][9299] = 9299
 STRING_EN[9299] = {}
 	STRING_EN[9299]["ID"] = 9299
 	STRING_EN[9299]["KEY"] = "M_DESTROY_BELT_13"
-	STRING_EN[9299]["VALUE"] = "Destroy the planet belt 80 times"
+	STRING_EN[9299]["VALUE"] = "Destroy astroid belt 80 times"
 	STRING_EN[9299]["real_idx"] = 9299
 
 STRING_EN["index"][9300] = 9300
 STRING_EN[9300] = {}
 	STRING_EN[9300]["ID"] = 9300
 	STRING_EN[9300]["KEY"] = "M_DESTROY_BELT_14"
-	STRING_EN[9300]["VALUE"] = "Destroy the planet belt 90 times"
+	STRING_EN[9300]["VALUE"] = "Destroy astroid belt 90 times"
 	STRING_EN[9300]["real_idx"] = 9300
 
 STRING_EN["index"][9301] = 9301
 STRING_EN[9301] = {}
 	STRING_EN[9301]["ID"] = 9301
 	STRING_EN[9301]["KEY"] = "M_DESTROY_BELT_15"
-	STRING_EN[9301]["VALUE"] = "Destroy the planet belt 100 times"
+	STRING_EN[9301]["VALUE"] = "Destroy astroid belt 100 times"
 	STRING_EN[9301]["real_idx"] = 9301
 
 STRING_EN["index"][9302] = 9302
 STRING_EN[9302] = {}
 	STRING_EN[9302]["ID"] = 9302
 	STRING_EN[9302]["KEY"] = "M_DESTROY_BELT_16"
-	STRING_EN[9302]["VALUE"] = "Destroy the planet belt 120 times"
+	STRING_EN[9302]["VALUE"] = "Destroy astroid belt 120 times"
 	STRING_EN[9302]["real_idx"] = 9302
 
 STRING_EN["index"][9303] = 9303
 STRING_EN[9303] = {}
 	STRING_EN[9303]["ID"] = 9303
 	STRING_EN[9303]["KEY"] = "M_DESTROY_BELT_17"
-	STRING_EN[9303]["VALUE"] = "Destroy the planet belt 140 times"
+	STRING_EN[9303]["VALUE"] = "Destroy astroid belt 140 times"
 	STRING_EN[9303]["real_idx"] = 9303
 
 STRING_EN["index"][9304] = 9304
 STRING_EN[9304] = {}
 	STRING_EN[9304]["ID"] = 9304
 	STRING_EN[9304]["KEY"] = "M_DESTROY_BELT_18"
-	STRING_EN[9304]["VALUE"] = "Destroy the planet belt 160 times"
+	STRING_EN[9304]["VALUE"] = "Destroy astroid belt 160 times"
 	STRING_EN[9304]["real_idx"] = 9304
 
 STRING_EN["index"][9305] = 9305
 STRING_EN[9305] = {}
 	STRING_EN[9305]["ID"] = 9305
 	STRING_EN[9305]["KEY"] = "M_DESTROY_BELT_19"
-	STRING_EN[9305]["VALUE"] = "Destroy the planet belt 180 times"
+	STRING_EN[9305]["VALUE"] = "Destroy astroid belt 180 times"
 	STRING_EN[9305]["real_idx"] = 9305
 
 STRING_EN["index"][9306] = 9306
 STRING_EN[9306] = {}
 	STRING_EN[9306]["ID"] = 9306
 	STRING_EN[9306]["KEY"] = "M_DESTROY_BELT_20"
-	STRING_EN[9306]["VALUE"] = "Destroy the planet belt 200 times"
+	STRING_EN[9306]["VALUE"] = "Destroy astroid belt 200 times"
 	STRING_EN[9306]["real_idx"] = 9306
 
 STRING_EN["index"][9307] = 9307
 STRING_EN[9307] = {}
 	STRING_EN[9307]["ID"] = 9307
 	STRING_EN[9307]["KEY"] = "M_DESTROY_BELT_21"
-	STRING_EN[9307]["VALUE"] = "Destroy the planet belt 220 times"
+	STRING_EN[9307]["VALUE"] = "Destroy astroid belt 220 times"
 	STRING_EN[9307]["real_idx"] = 9307
 
 STRING_EN["index"][9308] = 9308
 STRING_EN[9308] = {}
 	STRING_EN[9308]["ID"] = 9308
 	STRING_EN[9308]["KEY"] = "M_DESTROY_BELT_22"
-	STRING_EN[9308]["VALUE"] = "Destroy the planet belt 240 times"
+	STRING_EN[9308]["VALUE"] = "Destroy astroid belt 240 times"
 	STRING_EN[9308]["real_idx"] = 9308
 
 STRING_EN["index"][9309] = 9309
 STRING_EN[9309] = {}
 	STRING_EN[9309]["ID"] = 9309
 	STRING_EN[9309]["KEY"] = "M_DESTROY_BELT_23"
-	STRING_EN[9309]["VALUE"] = "Destroy the planet belt 260 times"
+	STRING_EN[9309]["VALUE"] = "Destroy astroid belt 260 times"
 	STRING_EN[9309]["real_idx"] = 9309
 
 STRING_EN["index"][9310] = 9310
 STRING_EN[9310] = {}
 	STRING_EN[9310]["ID"] = 9310
 	STRING_EN[9310]["KEY"] = "M_DESTROY_BELT_24"
-	STRING_EN[9310]["VALUE"] = "Destroy the planet belt 280 times"
+	STRING_EN[9310]["VALUE"] = "Destroy astroid belt 280 times"
 	STRING_EN[9310]["real_idx"] = 9310
 
 STRING_EN["index"][9311] = 9311
 STRING_EN[9311] = {}
 	STRING_EN[9311]["ID"] = 9311
 	STRING_EN[9311]["KEY"] = "M_DESTROY_BELT_25"
-	STRING_EN[9311]["VALUE"] = "Destroy the planet belt 300 times"
+	STRING_EN[9311]["VALUE"] = "Destroy astroid belt 300 times"
 	STRING_EN[9311]["real_idx"] = 9311
 
 STRING_EN["index"][9312] = 9312
 STRING_EN[9312] = {}
 	STRING_EN[9312]["ID"] = 9312
 	STRING_EN[9312]["KEY"] = "M_DESTROY_BELT_26"
-	STRING_EN[9312]["VALUE"] = "Destroy the planet belt 350 times"
+	STRING_EN[9312]["VALUE"] = "Destroy astroid belt 350 times"
 	STRING_EN[9312]["real_idx"] = 9312
 
 STRING_EN["index"][9313] = 9313
 STRING_EN[9313] = {}
 	STRING_EN[9313]["ID"] = 9313
 	STRING_EN[9313]["KEY"] = "M_DESTROY_BELT_27"
-	STRING_EN[9313]["VALUE"] = "Destroy the planet belt 400 times"
+	STRING_EN[9313]["VALUE"] = "Destroy astroid belt 400 times"
 	STRING_EN[9313]["real_idx"] = 9313
 
 STRING_EN["index"][9314] = 9314
 STRING_EN[9314] = {}
 	STRING_EN[9314]["ID"] = 9314
 	STRING_EN[9314]["KEY"] = "M_DESTROY_BELT_28"
-	STRING_EN[9314]["VALUE"] = "Destroy the planet belt 450 times"
+	STRING_EN[9314]["VALUE"] = "Destroy astroid belt 450 times"
 	STRING_EN[9314]["real_idx"] = 9314
 
 STRING_EN["index"][9315] = 9315
 STRING_EN[9315] = {}
 	STRING_EN[9315]["ID"] = 9315
 	STRING_EN[9315]["KEY"] = "M_DESTROY_BELT_29"
-	STRING_EN[9315]["VALUE"] = "Destroy the planet belt 500 times"
+	STRING_EN[9315]["VALUE"] = "Destroy astroid belt 500 times"
 	STRING_EN[9315]["real_idx"] = 9315
 
 STRING_EN["index"][9316] = 9316
 STRING_EN[9316] = {}
 	STRING_EN[9316]["ID"] = 9316
 	STRING_EN[9316]["KEY"] = "M_DESTROY_BELT_30"
-	STRING_EN[9316]["VALUE"] = "Destroy the planet belt 550 times"
+	STRING_EN[9316]["VALUE"] = "Destroy astroid belt 550 times"
 	STRING_EN[9316]["real_idx"] = 9316
 
 STRING_EN["index"][9317] = 9317
 STRING_EN[9317] = {}
 	STRING_EN[9317]["ID"] = 9317
 	STRING_EN[9317]["KEY"] = "M_DESTROY_BELT_31"
-	STRING_EN[9317]["VALUE"] = "Destroy the planet belt 600 times"
+	STRING_EN[9317]["VALUE"] = "Destroy astroid belt 600 times"
 	STRING_EN[9317]["real_idx"] = 9317
 
 STRING_EN["index"][9318] = 9318
 STRING_EN[9318] = {}
 	STRING_EN[9318]["ID"] = 9318
 	STRING_EN[9318]["KEY"] = "M_DESTROY_BELT_32"
-	STRING_EN[9318]["VALUE"] = "Destroy the planet belt 700 times"
+	STRING_EN[9318]["VALUE"] = "Destroy astroid belt 700 times"
 	STRING_EN[9318]["real_idx"] = 9318
 
 STRING_EN["index"][9319] = 9319
 STRING_EN[9319] = {}
 	STRING_EN[9319]["ID"] = 9319
 	STRING_EN[9319]["KEY"] = "M_DESTROY_BELT_33"
-	STRING_EN[9319]["VALUE"] = "Destroy the planet belt 800 times"
+	STRING_EN[9319]["VALUE"] = "Destroy astroid belt 800 times"
 	STRING_EN[9319]["real_idx"] = 9319
 
 STRING_EN["index"][9320] = 9320
 STRING_EN[9320] = {}
 	STRING_EN[9320]["ID"] = 9320
 	STRING_EN[9320]["KEY"] = "M_DESTROY_BELT_34"
-	STRING_EN[9320]["VALUE"] = "Destroy the planet belt 900 times"
+	STRING_EN[9320]["VALUE"] = "Destroy astroid belt 900 times"
 	STRING_EN[9320]["real_idx"] = 9320
 
 STRING_EN["index"][9321] = 9321
 STRING_EN[9321] = {}
 	STRING_EN[9321]["ID"] = 9321
 	STRING_EN[9321]["KEY"] = "M_DESTROY_BELT_35"
-	STRING_EN[9321]["VALUE"] = "Destroy the planet belt 1000 times"
+	STRING_EN[9321]["VALUE"] = "Destroy astroid belt 1000 times"
 	STRING_EN[9321]["real_idx"] = 9321
 
 STRING_EN["index"][9322] = 9322
 STRING_EN[9322] = {}
 	STRING_EN[9322]["ID"] = 9322
 	STRING_EN[9322]["KEY"] = "M_DESTROY_BELT_36"
-	STRING_EN[9322]["VALUE"] = "Destroy the planet belt 1100 times"
+	STRING_EN[9322]["VALUE"] = "Destroy astroid belt 1100 times"
 	STRING_EN[9322]["real_idx"] = 9322
 
 STRING_EN["index"][9323] = 9323
 STRING_EN[9323] = {}
 	STRING_EN[9323]["ID"] = 9323
 	STRING_EN[9323]["KEY"] = "M_DESTROY_BELT_37"
-	STRING_EN[9323]["VALUE"] = "Destroy the planet belt 1200 times"
+	STRING_EN[9323]["VALUE"] = "Destroy astroid belt 1200 times"
 	STRING_EN[9323]["real_idx"] = 9323
 
 STRING_EN["index"][9324] = 9324
 STRING_EN[9324] = {}
 	STRING_EN[9324]["ID"] = 9324
 	STRING_EN[9324]["KEY"] = "M_DESTROY_BELT_38"
-	STRING_EN[9324]["VALUE"] = "Destroy the planet belt 1300 times"
+	STRING_EN[9324]["VALUE"] = "Destroy astroid belt 1300 times"
 	STRING_EN[9324]["real_idx"] = 9324
 
 STRING_EN["index"][9325] = 9325
 STRING_EN[9325] = {}
 	STRING_EN[9325]["ID"] = 9325
 	STRING_EN[9325]["KEY"] = "M_DESTROY_BELT_39"
-	STRING_EN[9325]["VALUE"] = "Destroy the planet belt 1400 times"
+	STRING_EN[9325]["VALUE"] = "Destroy astroid belt 1400 times"
 	STRING_EN[9325]["real_idx"] = 9325
 
 STRING_EN["index"][9326] = 9326
 STRING_EN[9326] = {}
 	STRING_EN[9326]["ID"] = 9326
 	STRING_EN[9326]["KEY"] = "M_DESTROY_BELT_40"
-	STRING_EN[9326]["VALUE"] = "Destroy the planet belt 1500 times"
+	STRING_EN[9326]["VALUE"] = "Destroy astroid belt 1500 times"
 	STRING_EN[9326]["real_idx"] = 9326
 
 STRING_EN["index"][9327] = 9327
 STRING_EN[9327] = {}
 	STRING_EN[9327]["ID"] = 9327
 	STRING_EN[9327]["KEY"] = "M_DESTROY_BELT_41"
-	STRING_EN[9327]["VALUE"] = "Destroy the planet belt 1600 times"
+	STRING_EN[9327]["VALUE"] = "Destroy astroid belt 1600 times"
 	STRING_EN[9327]["real_idx"] = 9327
 
 STRING_EN["index"][9328] = 9328
 STRING_EN[9328] = {}
 	STRING_EN[9328]["ID"] = 9328
 	STRING_EN[9328]["KEY"] = "M_DESTROY_BELT_42"
-	STRING_EN[9328]["VALUE"] = "Destroy the planet belt 1700 times"
+	STRING_EN[9328]["VALUE"] = "Destroy astroid belt 1700 times"
 	STRING_EN[9328]["real_idx"] = 9328
 
 STRING_EN["index"][9329] = 9329
 STRING_EN[9329] = {}
 	STRING_EN[9329]["ID"] = 9329
 	STRING_EN[9329]["KEY"] = "M_DESTROY_BELT_43"
-	STRING_EN[9329]["VALUE"] = "Destroy the planet belt 1800 times"
+	STRING_EN[9329]["VALUE"] = "Destroy astroid belt 1800 times"
 	STRING_EN[9329]["real_idx"] = 9329
 
 STRING_EN["index"][9330] = 9330
 STRING_EN[9330] = {}
 	STRING_EN[9330]["ID"] = 9330
 	STRING_EN[9330]["KEY"] = "M_DESTROY_BELT_44"
-	STRING_EN[9330]["VALUE"] = "Destroy the planet belt 1900 times"
+	STRING_EN[9330]["VALUE"] = "Destroy astroid belt 1900 times"
 	STRING_EN[9330]["real_idx"] = 9330
 
 STRING_EN["index"][9331] = 9331
 STRING_EN[9331] = {}
 	STRING_EN[9331]["ID"] = 9331
 	STRING_EN[9331]["KEY"] = "M_DESTROY_BELT_45"
-	STRING_EN[9331]["VALUE"] = "Destroy the planet belt 2000 times"
+	STRING_EN[9331]["VALUE"] = "Destroy astroid belt 2000 times"
 	STRING_EN[9331]["real_idx"] = 9331
 
 STRING_EN["index"][9332] = 9332
 STRING_EN[9332] = {}
 	STRING_EN[9332]["ID"] = 9332
 	STRING_EN[9332]["KEY"] = "M_SALVAGE_WRECKAGE_1"
-	STRING_EN[9332]["VALUE"] = "Salvage the wreck 1 time"
+	STRING_EN[9332]["VALUE"] = "Salvage wreckage 1 times"
 	STRING_EN[9332]["real_idx"] = 9332
 
 STRING_EN["index"][9333] = 9333
 STRING_EN[9333] = {}
 	STRING_EN[9333]["ID"] = 9333
 	STRING_EN[9333]["KEY"] = "M_SALVAGE_WRECKAGE_2"
-	STRING_EN[9333]["VALUE"] = "Salvage the wreck 2 times"
+	STRING_EN[9333]["VALUE"] = "Salvage wreckage 2 times"
 	STRING_EN[9333]["real_idx"] = 9333
 
 STRING_EN["index"][9334] = 9334
 STRING_EN[9334] = {}
 	STRING_EN[9334]["ID"] = 9334
 	STRING_EN[9334]["KEY"] = "M_SALVAGE_WRECKAGE_3"
-	STRING_EN[9334]["VALUE"] = "Salvage the wreck 3 times"
+	STRING_EN[9334]["VALUE"] = "Salvage wreckage 3 times"
 	STRING_EN[9334]["real_idx"] = 9334
 
 STRING_EN["index"][9335] = 9335
 STRING_EN[9335] = {}
 	STRING_EN[9335]["ID"] = 9335
 	STRING_EN[9335]["KEY"] = "M_SALVAGE_WRECKAGE_4"
-	STRING_EN[9335]["VALUE"] = "Salvage the wreck 5 times"
+	STRING_EN[9335]["VALUE"] = "Salvage wreckage 5 times"
 	STRING_EN[9335]["real_idx"] = 9335
 
 STRING_EN["index"][9336] = 9336
 STRING_EN[9336] = {}
 	STRING_EN[9336]["ID"] = 9336
 	STRING_EN[9336]["KEY"] = "M_SALVAGE_WRECKAGE_5"
-	STRING_EN[9336]["VALUE"] = "Salvage the wreck 10 times"
+	STRING_EN[9336]["VALUE"] = "Salvage wreckage 10 times"
 	STRING_EN[9336]["real_idx"] = 9336
 
 STRING_EN["index"][9337] = 9337
 STRING_EN[9337] = {}
 	STRING_EN[9337]["ID"] = 9337
 	STRING_EN[9337]["KEY"] = "M_SALVAGE_WRECKAGE_6"
-	STRING_EN[9337]["VALUE"] = "Salvage the wreck 20 times"
+	STRING_EN[9337]["VALUE"] = "Salvage wreckage 20 times"
 	STRING_EN[9337]["real_idx"] = 9337
 
 STRING_EN["index"][9338] = 9338
 STRING_EN[9338] = {}
 	STRING_EN[9338]["ID"] = 9338
 	STRING_EN[9338]["KEY"] = "M_SALVAGE_WRECKAGE_7"
-	STRING_EN[9338]["VALUE"] = "Salvage the wreck 30 times"
+	STRING_EN[9338]["VALUE"] = "Salvage wreckage 30 times"
 	STRING_EN[9338]["real_idx"] = 9338
 
 STRING_EN["index"][9339] = 9339
 STRING_EN[9339] = {}
 	STRING_EN[9339]["ID"] = 9339
 	STRING_EN[9339]["KEY"] = "M_SALVAGE_WRECKAGE_8"
-	STRING_EN[9339]["VALUE"] = "Salvage the wreck 40 times"
+	STRING_EN[9339]["VALUE"] = "Salvage wreckage 40 times"
 	STRING_EN[9339]["real_idx"] = 9339
 
 STRING_EN["index"][9340] = 9340
 STRING_EN[9340] = {}
 	STRING_EN[9340]["ID"] = 9340
 	STRING_EN[9340]["KEY"] = "M_SALVAGE_WRECKAGE_9"
-	STRING_EN[9340]["VALUE"] = "Salvage the wreck 50 times"
+	STRING_EN[9340]["VALUE"] = "Salvage wreckage 50 times"
 	STRING_EN[9340]["real_idx"] = 9340
 
 STRING_EN["index"][9341] = 9341
 STRING_EN[9341] = {}
 	STRING_EN[9341]["ID"] = 9341
 	STRING_EN[9341]["KEY"] = "M_SALVAGE_WRECKAGE_10"
-	STRING_EN[9341]["VALUE"] = "Salvage the wreck 60 times"
+	STRING_EN[9341]["VALUE"] = "Salvage wreckage 60 times"
 	STRING_EN[9341]["real_idx"] = 9341
 
 STRING_EN["index"][9342] = 9342
 STRING_EN[9342] = {}
 	STRING_EN[9342]["ID"] = 9342
 	STRING_EN[9342]["KEY"] = "M_SALVAGE_WRECKAGE_11"
-	STRING_EN[9342]["VALUE"] = "Salvage the wreck 70 times"
+	STRING_EN[9342]["VALUE"] = "Salvage wreckage 70 times"
 	STRING_EN[9342]["real_idx"] = 9342
 
 STRING_EN["index"][9343] = 9343
 STRING_EN[9343] = {}
 	STRING_EN[9343]["ID"] = 9343
 	STRING_EN[9343]["KEY"] = "M_SALVAGE_WRECKAGE_12"
-	STRING_EN[9343]["VALUE"] = "Salvage the wreck 80 times"
+	STRING_EN[9343]["VALUE"] = "Salvage wreckage 80 times"
 	STRING_EN[9343]["real_idx"] = 9343
 
 STRING_EN["index"][9344] = 9344
 STRING_EN[9344] = {}
 	STRING_EN[9344]["ID"] = 9344
 	STRING_EN[9344]["KEY"] = "M_SALVAGE_WRECKAGE_13"
-	STRING_EN[9344]["VALUE"] = "Salvage the wreck 90 times"
+	STRING_EN[9344]["VALUE"] = "Salvage wreckage 90 times"
 	STRING_EN[9344]["real_idx"] = 9344
 
 STRING_EN["index"][9345] = 9345
 STRING_EN[9345] = {}
 	STRING_EN[9345]["ID"] = 9345
 	STRING_EN[9345]["KEY"] = "M_SALVAGE_WRECKAGE_14"
-	STRING_EN[9345]["VALUE"] = "Salvage the wreck 100 times"
+	STRING_EN[9345]["VALUE"] = "Salvage wreckage 100 times"
 	STRING_EN[9345]["real_idx"] = 9345
 
 STRING_EN["index"][9346] = 9346
 STRING_EN[9346] = {}
 	STRING_EN[9346]["ID"] = 9346
 	STRING_EN[9346]["KEY"] = "M_SALVAGE_WRECKAGE_15"
-	STRING_EN[9346]["VALUE"] = "Salvage the wreck 120 times"
+	STRING_EN[9346]["VALUE"] = "Salvage wreckage 120 times"
 	STRING_EN[9346]["real_idx"] = 9346
 
 STRING_EN["index"][9347] = 9347
 STRING_EN[9347] = {}
 	STRING_EN[9347]["ID"] = 9347
 	STRING_EN[9347]["KEY"] = "M_SALVAGE_WRECKAGE_16"
-	STRING_EN[9347]["VALUE"] = "Salvage the wreck 140 times"
+	STRING_EN[9347]["VALUE"] = "Salvage wreckage 140 times"
 	STRING_EN[9347]["real_idx"] = 9347
 
 STRING_EN["index"][9348] = 9348
 STRING_EN[9348] = {}
 	STRING_EN[9348]["ID"] = 9348
 	STRING_EN[9348]["KEY"] = "M_SALVAGE_WRECKAGE_17"
-	STRING_EN[9348]["VALUE"] = "Salvage the wreck 160 times"
+	STRING_EN[9348]["VALUE"] = "Salvage wreckage 160 times"
 	STRING_EN[9348]["real_idx"] = 9348
 
 STRING_EN["index"][9349] = 9349
 STRING_EN[9349] = {}
 	STRING_EN[9349]["ID"] = 9349
 	STRING_EN[9349]["KEY"] = "M_SALVAGE_WRECKAGE_18"
-	STRING_EN[9349]["VALUE"] = "Salvage the wreck 180 times"
+	STRING_EN[9349]["VALUE"] = "Salvage wreckage 180 times"
 	STRING_EN[9349]["real_idx"] = 9349
 
 STRING_EN["index"][9350] = 9350
 STRING_EN[9350] = {}
 	STRING_EN[9350]["ID"] = 9350
 	STRING_EN[9350]["KEY"] = "M_SALVAGE_WRECKAGE_19"
-	STRING_EN[9350]["VALUE"] = "Salvage the wreck 200 times"
+	STRING_EN[9350]["VALUE"] = "Salvage wreckage 200 times"
 	STRING_EN[9350]["real_idx"] = 9350
 
 STRING_EN["index"][9351] = 9351
 STRING_EN[9351] = {}
 	STRING_EN[9351]["ID"] = 9351
 	STRING_EN[9351]["KEY"] = "M_SALVAGE_WRECKAGE_20"
-	STRING_EN[9351]["VALUE"] = "Salvage the wreck 220 times"
+	STRING_EN[9351]["VALUE"] = "Salvage wreckage 220 times"
 	STRING_EN[9351]["real_idx"] = 9351
 
 STRING_EN["index"][9352] = 9352
 STRING_EN[9352] = {}
 	STRING_EN[9352]["ID"] = 9352
 	STRING_EN[9352]["KEY"] = "M_SALVAGE_WRECKAGE_21"
-	STRING_EN[9352]["VALUE"] = "Salvage the wreck 240 times"
+	STRING_EN[9352]["VALUE"] = "Salvage wreckage 240 times"
 	STRING_EN[9352]["real_idx"] = 9352
 
 STRING_EN["index"][9353] = 9353
 STRING_EN[9353] = {}
 	STRING_EN[9353]["ID"] = 9353
 	STRING_EN[9353]["KEY"] = "M_SALVAGE_WRECKAGE_22"
-	STRING_EN[9353]["VALUE"] = "Salvage the wreck 260 times"
+	STRING_EN[9353]["VALUE"] = "Salvage wreckage 260 times"
 	STRING_EN[9353]["real_idx"] = 9353
 
 STRING_EN["index"][9354] = 9354
 STRING_EN[9354] = {}
 	STRING_EN[9354]["ID"] = 9354
 	STRING_EN[9354]["KEY"] = "M_SALVAGE_WRECKAGE_23"
-	STRING_EN[9354]["VALUE"] = "Salvage the wreck 280 times"
+	STRING_EN[9354]["VALUE"] = "Salvage wreckage 280 times"
 	STRING_EN[9354]["real_idx"] = 9354
 
 STRING_EN["index"][9355] = 9355
 STRING_EN[9355] = {}
 	STRING_EN[9355]["ID"] = 9355
 	STRING_EN[9355]["KEY"] = "M_SALVAGE_WRECKAGE_24"
-	STRING_EN[9355]["VALUE"] = "Salvage the wreck 300 times"
+	STRING_EN[9355]["VALUE"] = "Salvage wreckage 300 times"
 	STRING_EN[9355]["real_idx"] = 9355
 
 STRING_EN["index"][9356] = 9356
 STRING_EN[9356] = {}
 	STRING_EN[9356]["ID"] = 9356
 	STRING_EN[9356]["KEY"] = "M_SALVAGE_WRECKAGE_25"
-	STRING_EN[9356]["VALUE"] = "Salvage the wreckage 320 times"
+	STRING_EN[9356]["VALUE"] = "Salvage wreckage 320 times"
 	STRING_EN[9356]["real_idx"] = 9356
 
 STRING_EN["index"][9357] = 9357
 STRING_EN[9357] = {}
 	STRING_EN[9357]["ID"] = 9357
 	STRING_EN[9357]["KEY"] = "M_SALVAGE_WRECKAGE_26"
-	STRING_EN[9357]["VALUE"] = "Salvage the wreck 340 times"
+	STRING_EN[9357]["VALUE"] = "Salvage wreckage 340 times"
 	STRING_EN[9357]["real_idx"] = 9357
 
 STRING_EN["index"][9358] = 9358
 STRING_EN[9358] = {}
 	STRING_EN[9358]["ID"] = 9358
 	STRING_EN[9358]["KEY"] = "M_SALVAGE_WRECKAGE_27"
-	STRING_EN[9358]["VALUE"] = "Salvage the wreck 360 times"
+	STRING_EN[9358]["VALUE"] = "Salvage wreckage 360 times"
 	STRING_EN[9358]["real_idx"] = 9358
 
 STRING_EN["index"][9359] = 9359
 STRING_EN[9359] = {}
 	STRING_EN[9359]["ID"] = 9359
 	STRING_EN[9359]["KEY"] = "M_SALVAGE_WRECKAGE_28"
-	STRING_EN[9359]["VALUE"] = "Salvage the wreck 380 times"
+	STRING_EN[9359]["VALUE"] = "Salvage wreckage 380 times"
 	STRING_EN[9359]["real_idx"] = 9359
 
 STRING_EN["index"][9360] = 9360
 STRING_EN[9360] = {}
 	STRING_EN[9360]["ID"] = 9360
 	STRING_EN[9360]["KEY"] = "M_SALVAGE_WRECKAGE_29"
-	STRING_EN[9360]["VALUE"] = "Salvage the wreck 400 times"
+	STRING_EN[9360]["VALUE"] = "Salvage wreckage 400 times"
 	STRING_EN[9360]["real_idx"] = 9360
 
 STRING_EN["index"][9361] = 9361
 STRING_EN[9361] = {}
 	STRING_EN[9361]["ID"] = 9361
 	STRING_EN[9361]["KEY"] = "M_SALVAGE_WRECKAGE_30"
-	STRING_EN[9361]["VALUE"] = "Salvage the wreck 450 times"
+	STRING_EN[9361]["VALUE"] = "Salvage wreckage 450 times"
 	STRING_EN[9361]["real_idx"] = 9361
 
 STRING_EN["index"][9362] = 9362
 STRING_EN[9362] = {}
 	STRING_EN[9362]["ID"] = 9362
 	STRING_EN[9362]["KEY"] = "M_SALVAGE_WRECKAGE_31"
-	STRING_EN[9362]["VALUE"] = "Salvage the wreck 500 times"
+	STRING_EN[9362]["VALUE"] = "Salvage wreckage 500 times"
 	STRING_EN[9362]["real_idx"] = 9362
 
 STRING_EN["index"][9363] = 9363
 STRING_EN[9363] = {}
 	STRING_EN[9363]["ID"] = 9363
 	STRING_EN[9363]["KEY"] = "M_SALVAGE_WRECKAGE_32"
-	STRING_EN[9363]["VALUE"] = "Salvage the wreck 550 times"
+	STRING_EN[9363]["VALUE"] = "Salvage wreckage 550 times"
 	STRING_EN[9363]["real_idx"] = 9363
 
 STRING_EN["index"][9364] = 9364
 STRING_EN[9364] = {}
 	STRING_EN[9364]["ID"] = 9364
 	STRING_EN[9364]["KEY"] = "M_SALVAGE_WRECKAGE_33"
-	STRING_EN[9364]["VALUE"] = "Salvage the wreck 600 times"
+	STRING_EN[9364]["VALUE"] = "Salvage wreckage 600 times"
 	STRING_EN[9364]["real_idx"] = 9364
 
 STRING_EN["index"][9365] = 9365
 STRING_EN[9365] = {}
 	STRING_EN[9365]["ID"] = 9365
 	STRING_EN[9365]["KEY"] = "M_SALVAGE_WRECKAGE_34"
-	STRING_EN[9365]["VALUE"] = "Salvage the wreck 650 times"
+	STRING_EN[9365]["VALUE"] = "Salvage wreckage 650 times"
 	STRING_EN[9365]["real_idx"] = 9365
 
 STRING_EN["index"][9366] = 9366
 STRING_EN[9366] = {}
 	STRING_EN[9366]["ID"] = 9366
 	STRING_EN[9366]["KEY"] = "M_SALVAGE_WRECKAGE_35"
-	STRING_EN[9366]["VALUE"] = "Salvage the wreck 700 times"
+	STRING_EN[9366]["VALUE"] = "Salvage wreckage 700 times"
 	STRING_EN[9366]["real_idx"] = 9366
 
 STRING_EN["index"][9367] = 9367
 STRING_EN[9367] = {}
 	STRING_EN[9367]["ID"] = 9367
 	STRING_EN[9367]["KEY"] = "M_SALVAGE_WRECKAGE_36"
-	STRING_EN[9367]["VALUE"] = "Salvage the wreck 750 times"
+	STRING_EN[9367]["VALUE"] = "Salvage wreckage 750 times"
 	STRING_EN[9367]["real_idx"] = 9367
 
 STRING_EN["index"][9368] = 9368
 STRING_EN[9368] = {}
 	STRING_EN[9368]["ID"] = 9368
 	STRING_EN[9368]["KEY"] = "M_SALVAGE_WRECKAGE_37"
-	STRING_EN[9368]["VALUE"] = "Salvage the wreck 800 times"
+	STRING_EN[9368]["VALUE"] = "Salvage wreckage 800 times"
 	STRING_EN[9368]["real_idx"] = 9368
 
 STRING_EN["index"][9369] = 9369
 STRING_EN[9369] = {}
 	STRING_EN[9369]["ID"] = 9369
 	STRING_EN[9369]["KEY"] = "M_SALVAGE_WRECKAGE_38"
-	STRING_EN[9369]["VALUE"] = "Salvage the wreck 850 times"
+	STRING_EN[9369]["VALUE"] = "Salvage wreckage 850 times"
 	STRING_EN[9369]["real_idx"] = 9369
 
 STRING_EN["index"][9370] = 9370
 STRING_EN[9370] = {}
 	STRING_EN[9370]["ID"] = 9370
 	STRING_EN[9370]["KEY"] = "M_SALVAGE_WRECKAGE_39"
-	STRING_EN[9370]["VALUE"] = "Salvage the wreck 900 times"
+	STRING_EN[9370]["VALUE"] = "Salvage wreckage 900 times"
 	STRING_EN[9370]["real_idx"] = 9370
 
 STRING_EN["index"][9371] = 9371
 STRING_EN[9371] = {}
 	STRING_EN[9371]["ID"] = 9371
 	STRING_EN[9371]["KEY"] = "M_SALVAGE_WRECKAGE_40"
-	STRING_EN[9371]["VALUE"] = "Salvage the wreck 1000 times"
+	STRING_EN[9371]["VALUE"] = "Salvage wreckage 1000 times"
 	STRING_EN[9371]["real_idx"] = 9371
 
 STRING_EN["index"][9372] = 9372
 STRING_EN[9372] = {}
 	STRING_EN[9372]["ID"] = 9372
 	STRING_EN[9372]["KEY"] = "M_SALVAGE_WRECKAGE_41"
-	STRING_EN[9372]["VALUE"] = "Salvage the wreck 1100 times"
+	STRING_EN[9372]["VALUE"] = "Salvage wreckage 1100 times"
 	STRING_EN[9372]["real_idx"] = 9372
 
 STRING_EN["index"][9373] = 9373
 STRING_EN[9373] = {}
 	STRING_EN[9373]["ID"] = 9373
 	STRING_EN[9373]["KEY"] = "M_SALVAGE_WRECKAGE_42"
-	STRING_EN[9373]["VALUE"] = "Salvage the wreck 1200 times"
+	STRING_EN[9373]["VALUE"] = "Salvage wreckage 1200 times"
 	STRING_EN[9373]["real_idx"] = 9373
 
 STRING_EN["index"][9374] = 9374
 STRING_EN[9374] = {}
 	STRING_EN[9374]["ID"] = 9374
 	STRING_EN[9374]["KEY"] = "M_SALVAGE_WRECKAGE_43"
-	STRING_EN[9374]["VALUE"] = "Salvage the wreck 1300 times"
+	STRING_EN[9374]["VALUE"] = "Salvage wreckage 1300 times"
 	STRING_EN[9374]["real_idx"] = 9374
 
 STRING_EN["index"][9375] = 9375
 STRING_EN[9375] = {}
 	STRING_EN[9375]["ID"] = 9375
 	STRING_EN[9375]["KEY"] = "M_SALVAGE_WRECKAGE_44"
-	STRING_EN[9375]["VALUE"] = "Salvage the wreck 1400 times"
+	STRING_EN[9375]["VALUE"] = "Salvage wreckage 1400 times"
 	STRING_EN[9375]["real_idx"] = 9375
 
 STRING_EN["index"][9376] = 9376
 STRING_EN[9376] = {}
 	STRING_EN[9376]["ID"] = 9376
 	STRING_EN[9376]["KEY"] = "M_SALVAGE_WRECKAGE_45"
-	STRING_EN[9376]["VALUE"] = "Salvage the wreck 1500 times"
+	STRING_EN[9376]["VALUE"] = "Salvage wreckage 1500 times"
 	STRING_EN[9376]["real_idx"] = 9376
 
 STRING_EN["index"][9377] = 9377
 STRING_EN[9377] = {}
 	STRING_EN[9377]["ID"] = 9377
 	STRING_EN[9377]["KEY"] = "M_KILL_MONSTER_1"
-	STRING_EN[9377]["VALUE"] = "Kill the monster 1 time"
+	STRING_EN[9377]["VALUE"] = "Slay wild monster 1 times"
 	STRING_EN[9377]["real_idx"] = 9377
 
 STRING_EN["index"][9378] = 9378
 STRING_EN[9378] = {}
 	STRING_EN[9378]["ID"] = 9378
 	STRING_EN[9378]["KEY"] = "M_KILL_MONSTER_2"
-	STRING_EN[9378]["VALUE"] = "Kill the monster 2 times"
+	STRING_EN[9378]["VALUE"] = "Slay wild monster 2 times"
 	STRING_EN[9378]["real_idx"] = 9378
 
 STRING_EN["index"][9379] = 9379
 STRING_EN[9379] = {}
 	STRING_EN[9379]["ID"] = 9379
 	STRING_EN[9379]["KEY"] = "M_KILL_MONSTER_3"
-	STRING_EN[9379]["VALUE"] = "Kill the monster 4 times"
+	STRING_EN[9379]["VALUE"] = "Slay wild monster 4 times"
 	STRING_EN[9379]["real_idx"] = 9379
 
 STRING_EN["index"][9380] = 9380
 STRING_EN[9380] = {}
 	STRING_EN[9380]["ID"] = 9380
 	STRING_EN[9380]["KEY"] = "M_KILL_MONSTER_4"
-	STRING_EN[9380]["VALUE"] = "Kill the monster 6 times"
+	STRING_EN[9380]["VALUE"] = "Slay wild monster 6 times"
 	STRING_EN[9380]["real_idx"] = 9380
 
 STRING_EN["index"][9381] = 9381
 STRING_EN[9381] = {}
 	STRING_EN[9381]["ID"] = 9381
 	STRING_EN[9381]["KEY"] = "M_KILL_MONSTER_5"
-	STRING_EN[9381]["VALUE"] = "Kill the monster 8 times"
+	STRING_EN[9381]["VALUE"] = "Slay wild monster 8 times"
 	STRING_EN[9381]["real_idx"] = 9381
 
 STRING_EN["index"][9382] = 9382
 STRING_EN[9382] = {}
 	STRING_EN[9382]["ID"] = 9382
 	STRING_EN[9382]["KEY"] = "M_KILL_MONSTER_6"
-	STRING_EN[9382]["VALUE"] = "Kill the monster 10 times"
+	STRING_EN[9382]["VALUE"] = "Slay wild monster 10 times"
 	STRING_EN[9382]["real_idx"] = 9382
 
 STRING_EN["index"][9383] = 9383
 STRING_EN[9383] = {}
 	STRING_EN[9383]["ID"] = 9383
 	STRING_EN[9383]["KEY"] = "M_KILL_MONSTER_7"
-	STRING_EN[9383]["VALUE"] = "Kill the monster 20 times"
+	STRING_EN[9383]["VALUE"] = "Slay wild monster 20 times"
 	STRING_EN[9383]["real_idx"] = 9383
 
 STRING_EN["index"][9384] = 9384
 STRING_EN[9384] = {}
 	STRING_EN[9384]["ID"] = 9384
 	STRING_EN[9384]["KEY"] = "M_KILL_MONSTER_8"
-	STRING_EN[9384]["VALUE"] = "Kill the monster 30 times"
+	STRING_EN[9384]["VALUE"] = "Slay wild monster 30 times"
 	STRING_EN[9384]["real_idx"] = 9384
 
 STRING_EN["index"][9385] = 9385
 STRING_EN[9385] = {}
 	STRING_EN[9385]["ID"] = 9385
 	STRING_EN[9385]["KEY"] = "M_KILL_MONSTER_9"
-	STRING_EN[9385]["VALUE"] = "Kill the monster 40 times"
+	STRING_EN[9385]["VALUE"] = "Slay wild monster 40 times"
 	STRING_EN[9385]["real_idx"] = 9385
 
 STRING_EN["index"][9386] = 9386
 STRING_EN[9386] = {}
 	STRING_EN[9386]["ID"] = 9386
 	STRING_EN[9386]["KEY"] = "M_KILL_MONSTER_10"
-	STRING_EN[9386]["VALUE"] = "Kill the monster 50 times"
+	STRING_EN[9386]["VALUE"] = "Slay wild monster 50 times"
 	STRING_EN[9386]["real_idx"] = 9386
 
 STRING_EN["index"][9387] = 9387
 STRING_EN[9387] = {}
 	STRING_EN[9387]["ID"] = 9387
 	STRING_EN[9387]["KEY"] = "M_KILL_MONSTER_11"
-	STRING_EN[9387]["VALUE"] = "Kill the monster 60 times"
+	STRING_EN[9387]["VALUE"] = "Slay wild monster 60 times"
 	STRING_EN[9387]["real_idx"] = 9387
 
 STRING_EN["index"][9388] = 9388
 STRING_EN[9388] = {}
 	STRING_EN[9388]["ID"] = 9388
 	STRING_EN[9388]["KEY"] = "M_KILL_MONSTER_12"
-	STRING_EN[9388]["VALUE"] = "Kill the monster 70 times"
+	STRING_EN[9388]["VALUE"] = "Slay wild monster 70 times"
 	STRING_EN[9388]["real_idx"] = 9388
 
 STRING_EN["index"][9389] = 9389
 STRING_EN[9389] = {}
 	STRING_EN[9389]["ID"] = 9389
 	STRING_EN[9389]["KEY"] = "M_KILL_MONSTER_13"
-	STRING_EN[9389]["VALUE"] = "Kill the monster 80 times"
+	STRING_EN[9389]["VALUE"] = "Slay wild monster 80 times"
 	STRING_EN[9389]["real_idx"] = 9389
 
 STRING_EN["index"][9390] = 9390
 STRING_EN[9390] = {}
 	STRING_EN[9390]["ID"] = 9390
 	STRING_EN[9390]["KEY"] = "M_KILL_MONSTER_14"
-	STRING_EN[9390]["VALUE"] = "Kill the monster 90 times"
+	STRING_EN[9390]["VALUE"] = "Slay wild monster 90 times"
 	STRING_EN[9390]["real_idx"] = 9390
 
 STRING_EN["index"][9391] = 9391
 STRING_EN[9391] = {}
 	STRING_EN[9391]["ID"] = 9391
 	STRING_EN[9391]["KEY"] = "M_KILL_MONSTER_15"
-	STRING_EN[9391]["VALUE"] = "Kill the monster 100 times"
+	STRING_EN[9391]["VALUE"] = "Slay wild monster 100 times"
 	STRING_EN[9391]["real_idx"] = 9391
 
 STRING_EN["index"][9392] = 9392
 STRING_EN[9392] = {}
 	STRING_EN[9392]["ID"] = 9392
 	STRING_EN[9392]["KEY"] = "M_KILL_MONSTER_16"
-	STRING_EN[9392]["VALUE"] = "Kill the monster 120 times"
+	STRING_EN[9392]["VALUE"] = "Slay wild monster 120 times"
 	STRING_EN[9392]["real_idx"] = 9392
 
 STRING_EN["index"][9393] = 9393
 STRING_EN[9393] = {}
 	STRING_EN[9393]["ID"] = 9393
 	STRING_EN[9393]["KEY"] = "M_KILL_MONSTER_17"
-	STRING_EN[9393]["VALUE"] = "Kill the monster 140 times"
+	STRING_EN[9393]["VALUE"] = "Slay wild monster 140 times"
 	STRING_EN[9393]["real_idx"] = 9393
 
 STRING_EN["index"][9394] = 9394
 STRING_EN[9394] = {}
 	STRING_EN[9394]["ID"] = 9394
 	STRING_EN[9394]["KEY"] = "M_KILL_MONSTER_18"
-	STRING_EN[9394]["VALUE"] = "Kill the monster 160 times"
+	STRING_EN[9394]["VALUE"] = "Slay wild monster 160 times"
 	STRING_EN[9394]["real_idx"] = 9394
 
 STRING_EN["index"][9395] = 9395
 STRING_EN[9395] = {}
 	STRING_EN[9395]["ID"] = 9395
 	STRING_EN[9395]["KEY"] = "M_KILL_MONSTER_19"
-	STRING_EN[9395]["VALUE"] = "Kill the monster 180 times"
+	STRING_EN[9395]["VALUE"] = "Slay wild monster 180 times"
 	STRING_EN[9395]["real_idx"] = 9395
 
 STRING_EN["index"][9396] = 9396
 STRING_EN[9396] = {}
 	STRING_EN[9396]["ID"] = 9396
 	STRING_EN[9396]["KEY"] = "M_KILL_MONSTER_20"
-	STRING_EN[9396]["VALUE"] = "Kill the monster 200 times"
+	STRING_EN[9396]["VALUE"] = "Slay wild monster 200 times"
 	STRING_EN[9396]["real_idx"] = 9396
 
 STRING_EN["index"][9397] = 9397
 STRING_EN[9397] = {}
 	STRING_EN[9397]["ID"] = 9397
 	STRING_EN[9397]["KEY"] = "M_KILL_MONSTER_21"
-	STRING_EN[9397]["VALUE"] = "Kill the monster 220 times"
+	STRING_EN[9397]["VALUE"] = "Slay wild monster 220 times"
 	STRING_EN[9397]["real_idx"] = 9397
 
 STRING_EN["index"][9398] = 9398
 STRING_EN[9398] = {}
 	STRING_EN[9398]["ID"] = 9398
 	STRING_EN[9398]["KEY"] = "M_KILL_MONSTER_22"
-	STRING_EN[9398]["VALUE"] = "Kill the monster 240 times"
+	STRING_EN[9398]["VALUE"] = "Slay wild monster 240 times"
 	STRING_EN[9398]["real_idx"] = 9398
 
 STRING_EN["index"][9399] = 9399
 STRING_EN[9399] = {}
 	STRING_EN[9399]["ID"] = 9399
 	STRING_EN[9399]["KEY"] = "M_KILL_MONSTER_23"
-	STRING_EN[9399]["VALUE"] = "Kill the monster 260 times"
+	STRING_EN[9399]["VALUE"] = "Slay wild monster 260 times"
 	STRING_EN[9399]["real_idx"] = 9399
 
 STRING_EN["index"][9400] = 9400
 STRING_EN[9400] = {}
 	STRING_EN[9400]["ID"] = 9400
 	STRING_EN[9400]["KEY"] = "M_KILL_MONSTER_24"
-	STRING_EN[9400]["VALUE"] = "Kill the monster 280 times"
+	STRING_EN[9400]["VALUE"] = "Slay wild monster 280 times"
 	STRING_EN[9400]["real_idx"] = 9400
 
 STRING_EN["index"][9401] = 9401
 STRING_EN[9401] = {}
 	STRING_EN[9401]["ID"] = 9401
 	STRING_EN[9401]["KEY"] = "M_KILL_MONSTER_25"
-	STRING_EN[9401]["VALUE"] = "Kill the monster 300 times"
+	STRING_EN[9401]["VALUE"] = "Slay wild monster 300 times"
 	STRING_EN[9401]["real_idx"] = 9401
 
 STRING_EN["index"][9402] = 9402
 STRING_EN[9402] = {}
 	STRING_EN[9402]["ID"] = 9402
 	STRING_EN[9402]["KEY"] = "M_KILL_MONSTER_26"
-	STRING_EN[9402]["VALUE"] = "Kill the monster 320 times"
+	STRING_EN[9402]["VALUE"] = "Slay wild monster 320 times"
 	STRING_EN[9402]["real_idx"] = 9402
 
 STRING_EN["index"][9403] = 9403
 STRING_EN[9403] = {}
 	STRING_EN[9403]["ID"] = 9403
 	STRING_EN[9403]["KEY"] = "M_KILL_MONSTER_27"
-	STRING_EN[9403]["VALUE"] = "Kill the monster 340 times"
+	STRING_EN[9403]["VALUE"] = "Slay wild monster 340 times"
 	STRING_EN[9403]["real_idx"] = 9403
 
 STRING_EN["index"][9404] = 9404
 STRING_EN[9404] = {}
 	STRING_EN[9404]["ID"] = 9404
 	STRING_EN[9404]["KEY"] = "M_KILL_MONSTER_28"
-	STRING_EN[9404]["VALUE"] = "Kill the monster 360 times"
+	STRING_EN[9404]["VALUE"] = "Slay wild monster 360 times"
 	STRING_EN[9404]["real_idx"] = 9404
 
 STRING_EN["index"][9405] = 9405
 STRING_EN[9405] = {}
 	STRING_EN[9405]["ID"] = 9405
 	STRING_EN[9405]["KEY"] = "M_KILL_MONSTER_29"
-	STRING_EN[9405]["VALUE"] = "Kill the monster 380 times"
+	STRING_EN[9405]["VALUE"] = "Slay wild monster 380 times"
 	STRING_EN[9405]["real_idx"] = 9405
 
 STRING_EN["index"][9406] = 9406
 STRING_EN[9406] = {}
 	STRING_EN[9406]["ID"] = 9406
 	STRING_EN[9406]["KEY"] = "M_KILL_MONSTER_30"
-	STRING_EN[9406]["VALUE"] = "Kill the monster 400 times"
+	STRING_EN[9406]["VALUE"] = "Slay wild monster 400 times"
 	STRING_EN[9406]["real_idx"] = 9406
 
 STRING_EN["index"][9407] = 9407
 STRING_EN[9407] = {}
 	STRING_EN[9407]["ID"] = 9407
 	STRING_EN[9407]["KEY"] = "M_KILL_MONSTER_31"
-	STRING_EN[9407]["VALUE"] = "Kill the monster 420 times"
+	STRING_EN[9407]["VALUE"] = "Slay wild monster 420 times"
 	STRING_EN[9407]["real_idx"] = 9407
 
 STRING_EN["index"][9408] = 9408
 STRING_EN[9408] = {}
 	STRING_EN[9408]["ID"] = 9408
 	STRING_EN[9408]["KEY"] = "M_KILL_MONSTER_32"
-	STRING_EN[9408]["VALUE"] = "Kill the monster 440 times"
+	STRING_EN[9408]["VALUE"] = "Slay wild monster 440 times"
 	STRING_EN[9408]["real_idx"] = 9408
 
 STRING_EN["index"][9409] = 9409
 STRING_EN[9409] = {}
 	STRING_EN[9409]["ID"] = 9409
 	STRING_EN[9409]["KEY"] = "M_KILL_MONSTER_33"
-	STRING_EN[9409]["VALUE"] = "Kill the monster 460 times"
+	STRING_EN[9409]["VALUE"] = "Slay wild monster 460 times"
 	STRING_EN[9409]["real_idx"] = 9409
 
 STRING_EN["index"][9410] = 9410
 STRING_EN[9410] = {}
 	STRING_EN[9410]["ID"] = 9410
 	STRING_EN[9410]["KEY"] = "M_KILL_MONSTER_34"
-	STRING_EN[9410]["VALUE"] = "Kill the monster 480 times"
+	STRING_EN[9410]["VALUE"] = "Slay wild monster 480 times"
 	STRING_EN[9410]["real_idx"] = 9410
 
 STRING_EN["index"][9411] = 9411
 STRING_EN[9411] = {}
 	STRING_EN[9411]["ID"] = 9411
 	STRING_EN[9411]["KEY"] = "M_KILL_MONSTER_35"
-	STRING_EN[9411]["VALUE"] = "Kill the monster 500 times"
+	STRING_EN[9411]["VALUE"] = "Slay wild monster 500 times"
 	STRING_EN[9411]["real_idx"] = 9411
 
 STRING_EN["index"][9412] = 9412
 STRING_EN[9412] = {}
 	STRING_EN[9412]["ID"] = 9412
 	STRING_EN[9412]["KEY"] = "M_KILL_MONSTER_36"
-	STRING_EN[9412]["VALUE"] = "Kill the monster 550 times"
+	STRING_EN[9412]["VALUE"] = "Slay wild monster 550 times"
 	STRING_EN[9412]["real_idx"] = 9412
 
 STRING_EN["index"][9413] = 9413
 STRING_EN[9413] = {}
 	STRING_EN[9413]["ID"] = 9413
 	STRING_EN[9413]["KEY"] = "M_KILL_MONSTER_37"
-	STRING_EN[9413]["VALUE"] = "Kill the monster 600 times"
+	STRING_EN[9413]["VALUE"] = "Slay wild monster 600 times"
 	STRING_EN[9413]["real_idx"] = 9413
 
 STRING_EN["index"][9414] = 9414
 STRING_EN[9414] = {}
 	STRING_EN[9414]["ID"] = 9414
 	STRING_EN[9414]["KEY"] = "M_KILL_MONSTER_38"
-	STRING_EN[9414]["VALUE"] = "Kill the monster 650 times"
+	STRING_EN[9414]["VALUE"] = "Slay wild monster 650 times"
 	STRING_EN[9414]["real_idx"] = 9414
 
 STRING_EN["index"][9415] = 9415
 STRING_EN[9415] = {}
 	STRING_EN[9415]["ID"] = 9415
 	STRING_EN[9415]["KEY"] = "M_KILL_MONSTER_39"
-	STRING_EN[9415]["VALUE"] = "Kill the monster 700 times"
+	STRING_EN[9415]["VALUE"] = "Slay wild monster 700 times"
 	STRING_EN[9415]["real_idx"] = 9415
 
 STRING_EN["index"][9416] = 9416
 STRING_EN[9416] = {}
 	STRING_EN[9416]["ID"] = 9416
 	STRING_EN[9416]["KEY"] = "M_KILL_MONSTER_40"
-	STRING_EN[9416]["VALUE"] = "Kill the monster 750 times"
+	STRING_EN[9416]["VALUE"] = "Slay wild monster 750 times"
 	STRING_EN[9416]["real_idx"] = 9416
 
 STRING_EN["index"][9417] = 9417
 STRING_EN[9417] = {}
 	STRING_EN[9417]["ID"] = 9417
 	STRING_EN[9417]["KEY"] = "M_KILL_MONSTER_41"
-	STRING_EN[9417]["VALUE"] = "Kill the monster 800 times"
+	STRING_EN[9417]["VALUE"] = "Slay wild monster 800 times"
 	STRING_EN[9417]["real_idx"] = 9417
 
 STRING_EN["index"][9418] = 9418
 STRING_EN[9418] = {}
 	STRING_EN[9418]["ID"] = 9418
 	STRING_EN[9418]["KEY"] = "M_KILL_MONSTER_42"
-	STRING_EN[9418]["VALUE"] = "Kill the monster 850 times"
+	STRING_EN[9418]["VALUE"] = "Slay wild monster 850 times"
 	STRING_EN[9418]["real_idx"] = 9418
 
 STRING_EN["index"][9419] = 9419
 STRING_EN[9419] = {}
 	STRING_EN[9419]["ID"] = 9419
 	STRING_EN[9419]["KEY"] = "M_KILL_MONSTER_43"
-	STRING_EN[9419]["VALUE"] = "Kill the monster 900 times"
+	STRING_EN[9419]["VALUE"] = "Slay wild monster 900 times"
 	STRING_EN[9419]["real_idx"] = 9419
 
 STRING_EN["index"][9420] = 9420
 STRING_EN[9420] = {}
 	STRING_EN[9420]["ID"] = 9420
 	STRING_EN[9420]["KEY"] = "M_KILL_MONSTER_44"
-	STRING_EN[9420]["VALUE"] = "Kill the monster 950 times"
+	STRING_EN[9420]["VALUE"] = "Slay wild monster 950 times"
 	STRING_EN[9420]["real_idx"] = 9420
 
 STRING_EN["index"][9421] = 9421
 STRING_EN[9421] = {}
 	STRING_EN[9421]["ID"] = 9421
 	STRING_EN[9421]["KEY"] = "M_KILL_MONSTER_45"
-	STRING_EN[9421]["VALUE"] = "Kill the monster 1000 times"
+	STRING_EN[9421]["VALUE"] = "Slay wild monster 1000 times"
 	STRING_EN[9421]["real_idx"] = 9421
 
 STRING_EN["index"][9422] = 9422
 STRING_EN[9422] = {}
 	STRING_EN[9422]["ID"] = 9422
 	STRING_EN[9422]["KEY"] = "loading text 1"
-	STRING_EN[9422]["VALUE"] = "Upgraded Blueprint Institute to study more advanced ship blueprints"
+	STRING_EN[9422]["VALUE"] = "Upgrade Cabin R&D Factory to develop advanced cabins"
 	STRING_EN[9422]["real_idx"] = 9422
 
 STRING_EN["index"][9423] = 9423
 STRING_EN[9423] = {}
 	STRING_EN[9423]["ID"] = 9423
 	STRING_EN[9423]["KEY"] = "loading text 2"
-	STRING_EN[9423]["VALUE"] = "You can view the battle report in the mail."
+	STRING_EN[9423]["VALUE"] = "View battle reports in your mail"
 	STRING_EN[9423]["real_idx"] = 9423
 
 STRING_EN["index"][9424] = 9424
 STRING_EN[9424] = {}
 	STRING_EN[9424]["ID"] = 9424
 	STRING_EN[9424]["KEY"] = "loading text 3"
-	STRING_EN[9424]["VALUE"] = "A powerful fleet can be built with a reasonable ship"
+	STRING_EN[9424]["VALUE"] = "Rational ships matching can build up powerful fleet"
 	STRING_EN[9424]["real_idx"] = 9424
 
 STRING_EN["index"][9425] = 9425
 STRING_EN[9425] = {}
 	STRING_EN[9425]["ID"] = 9425
 	STRING_EN[9425]["KEY"] = "loading text 4"
-	STRING_EN[9425]["VALUE"] = "Join the covenant to occupy the stronghold"
+	STRING_EN[9425]["VALUE"] = "Join an Alliance to occupy strongholds"
 	STRING_EN[9425]["real_idx"] = 9425
 
 STRING_EN["index"][9426] = 9426
 STRING_EN[9426] = {}
 	STRING_EN[9426]["ID"] = 9426
 	STRING_EN[9426]["KEY"] = "loading text 5"
-	STRING_EN[9426]["VALUE"] = "When you meet a powerful commander， you can assemble attacks with your allies."
+	STRING_EN[9426]["VALUE"] = "When you encounter a powerful commander， you can team up with your allies to attack"
 	STRING_EN[9426]["real_idx"] = 9426
 
 STRING_EN["index"][9427] = 9427
 STRING_EN[9427] = {}
 	STRING_EN[9427]["ID"] = 9427
 	STRING_EN[9427]["KEY"] = "loading text 6"
-	STRING_EN[9427]["VALUE"] = "Occupation base can get rewards"
+	STRING_EN[9427]["VALUE"] = "Occupy strongholds to get rewards"
 	STRING_EN[9427]["real_idx"] = 9427
 
 STRING_EN["index"][9428] = 9428
 STRING_EN[9428] = {}
 	STRING_EN[9428]["ID"] = 9428
 	STRING_EN[9428]["KEY"] = "loading text 7"
-	STRING_EN[9428]["VALUE"] = "After the building has been upgraded for a certain period of time， you can use the free function."
+	STRING_EN[9428]["VALUE"] = "Use free upgrade function when the upgrade remaining time reaches a certain value"
 	STRING_EN[9428]["real_idx"] = 9428
 
 STRING_EN["index"][9429] = 9429
 STRING_EN[9429] = {}
 	STRING_EN[9429]["ID"] = 9429
 	STRING_EN[9429]["KEY"] = "loading text 8"
-	STRING_EN[9429]["VALUE"] = "Upgrade the scout tower to get more detailed investigation reports and enemy information to enter you"
+	STRING_EN[9429]["VALUE"] = "Upgrade Scout Tower to get more detailed intelligence and the information of the enemy that is coming to attack"
 	STRING_EN[9429]["real_idx"] = 9429
 
 STRING_EN["index"][9430] = 9430
 STRING_EN[9430] = {}
 	STRING_EN[9430]["ID"] = 9430
 	STRING_EN[9430]["KEY"] = "loading text 9"
-	STRING_EN[9430]["VALUE"] = "Space stations and resource mines that can rob other commanders in the galaxy"
+	STRING_EN[9430]["VALUE"] = "You can plunder the space stations and resource mines of other commanders in galaxy"
 	STRING_EN[9430]["real_idx"] = 9430
 
 STRING_EN["index"][9431] = 9431
 STRING_EN[9431] = {}
 	STRING_EN[9431]["ID"] = 9431
 	STRING_EN[9431]["KEY"] = "loading text 10"
-	STRING_EN[9431]["VALUE"] = "Resources protected in the warehouse will not be robbed by others"
+	STRING_EN[9431]["VALUE"] = "Resources that are protected in Warehouse will not be plundered by others"
 	STRING_EN[9431]["real_idx"] = 9431
 
 STRING_EN["index"][9432] = 9432
 STRING_EN[9432] = {}
 	STRING_EN[9432]["ID"] = 9432
 	STRING_EN[9432]["KEY"] = "occupy text 1"
-	STRING_EN[9432]["VALUE"] = "Occupation reward"
+	STRING_EN[9432]["VALUE"] = "Occupation Reward"
 	STRING_EN[9432]["real_idx"] = 9432
 
 STRING_EN["index"][9433] = 9433
 STRING_EN[9433] = {}
 	STRING_EN[9433]["ID"] = 9433
 	STRING_EN[9433]["KEY"] = "occupy text 2"
-	STRING_EN[9433]["VALUE"] = "First occupation base reward"
+	STRING_EN[9433]["VALUE"] = "First Stronghold Occupation Reward"
 	STRING_EN[9433]["real_idx"] = 9433
 
 STRING_EN["index"][9434] = 9434
 STRING_EN[9434] = {}
 	STRING_EN[9434]["ID"] = 9434
 	STRING_EN[9434]["KEY"] = "occupy text 3"
-	STRING_EN[9434]["VALUE"] = "After the competition for the base， the Human Alliance will award a full-time award to the covenant， which will occupy the base for the first time."
+	STRING_EN[9434]["VALUE"] = "After Stronghold Scramble is over， the Human Alliance will award all the members of the Alliance that occupied the stronghold for the first time through mail"
 	STRING_EN[9434]["real_idx"] = 9434
 
 STRING_EN["index"][9435] = 9435
 STRING_EN[9435] = {}
 	STRING_EN[9435]["ID"] = 9435
 	STRING_EN[9435]["KEY"] = "occupy text 4"
-	STRING_EN[9435]["VALUE"] = "According to the point of occupation of the covenant Award"
+	STRING_EN[9435]["VALUE"] = "Alliance Stronghold Occupation Reward "
 	STRING_EN[9435]["real_idx"] = 9435
 
 STRING_EN["index"][9436] = 9436
 STRING_EN[9436] = {}
 	STRING_EN[9436]["ID"] = 9436
 	STRING_EN[9436]["KEY"] = "occupy text 5"
-	STRING_EN[9436]["VALUE"] = "During the occupation， the occupiers continued to occupy an hour of occupation， and the bases issued an occupation reward to all the members of the occupier. Rewards are awarded via email! The rewards are as follows:"
+	STRING_EN[9436]["VALUE"] = "During the occupation， the stronghold issues an occupation reward every 6 hours for all the members of the occupier's Alliance. Rewards are awarded via mail! The rewards are as follows:"
 	STRING_EN[9436]["real_idx"] = 9436
 
 STRING_EN["index"][9437] = 9437
 STRING_EN[9437] = {}
 	STRING_EN[9437]["ID"] = 9437
 	STRING_EN[9437]["KEY"] = "occupy text 6"
-	STRING_EN[9437]["VALUE"] = "Occupation of personal rewards"
+	STRING_EN[9437]["VALUE"] = "Personal Stronghold Occupation Reward "
 	STRING_EN[9437]["real_idx"] = 9437
 
 STRING_EN["index"][9438] = 9438
 STRING_EN[9438] = {}
 	STRING_EN[9438]["ID"] = 9438
 	STRING_EN[9438]["KEY"] = "occupy text 7"
-	STRING_EN[9438]["VALUE"] = "The base will issue an occupational reward to the current occupier at the 12 o'clock interstellar reset every day. Rewards are awarded via email! The rewards are as follows:"
+	STRING_EN[9438]["VALUE"] = "The stronghold issues an occupation reward to the current occupier at 12 o'clock when interstellar timer resets every day. Rewards are awarded via mail! The rewards are as follows:"
 	STRING_EN[9438]["real_idx"] = 9438
 
 STRING_EN["index"][9439] = 9439
 STRING_EN[9439] = {}
 	STRING_EN[9439]["ID"] = 9439
 	STRING_EN[9439]["KEY"] = "occupy award"
-	STRING_EN[9439]["VALUE"] = "Award overview"
+	STRING_EN[9439]["VALUE"] = "Reward Overview"
 	STRING_EN[9439]["real_idx"] = 9439
 
 STRING_EN["index"][9440] = 9440
 STRING_EN[9440] = {}
 	STRING_EN[9440]["ID"] = 9440
 	STRING_EN[9440]["KEY"] = "enter combat"
-	STRING_EN[9440]["VALUE"] = "Fight"
+	STRING_EN[9440]["VALUE"] = "Enter Battle"
 	STRING_EN[9440]["real_idx"] = 9440
 
 STRING_EN["index"][9441] = 9441
 STRING_EN[9441] = {}
 	STRING_EN[9441]["ID"] = 9441
 	STRING_EN[9441]["KEY"] = "expedition"
-	STRING_EN[9441]["VALUE"] = "Expedition"
+	STRING_EN[9441]["VALUE"] = "Go Expedition"
 	STRING_EN[9441]["real_idx"] = 9441
 
 STRING_EN["index"][9442] = 9442
 STRING_EN[9442] = {}
 	STRING_EN[9442]["ID"] = 9442
 	STRING_EN[9442]["KEY"] = "task building name"
-	STRING_EN[9442]["VALUE"] = "#level achieve levellevel"
+	STRING_EN[9442]["VALUE"] = "# reaches level *"
 	STRING_EN[9442]["real_idx"] = 9442
 
 STRING_EN["index"][9443] = 9443
 STRING_EN[9443] = {}
 	STRING_EN[9443]["ID"] = 9443
 	STRING_EN[9443]["KEY"] = "task building_1 memo"
-	STRING_EN[9443]["VALUE"] = "The command center is the hub of the base， unlocking more buildings and functions after the upgrade!"
+	STRING_EN[9443]["VALUE"] = "Upgrade Command Center to unlock more buildings and functions!"
 	STRING_EN[9443]["real_idx"] = 9443
 
 STRING_EN["index"][9444] = 9444
 STRING_EN[9444] = {}
 	STRING_EN[9444]["ID"] = 9444
 	STRING_EN[9444]["KEY"] = "task building_10 memo"
-	STRING_EN[9444]["VALUE"] = "After the warehouse is upgraded， you can increase storage resources and protect resources to avoid our losses!"
+	STRING_EN[9444]["VALUE"] = "Upgrade Warehouse to increase its capacity to protect more resources!"
 	STRING_EN[9444]["real_idx"] = 9444
 
 STRING_EN["index"][9445] = 9445
 STRING_EN[9445] = {}
 	STRING_EN[9445]["ID"] = 9445
 	STRING_EN[9445]["KEY"] = "task building_3 memo"
-	STRING_EN[9445]["VALUE"] = "After the upgrade of the Blueprint Institute， the higher value of the ship blueprint can be manufactured!"
+	STRING_EN[9445]["VALUE"] = "Upgrade Cabin R&D Factory to develop advanced cabins!"
 	STRING_EN[9445]["real_idx"] = 9445
 
 STRING_EN["index"][9446] = 9446
 STRING_EN[9446] = {}
 	STRING_EN[9446]["ID"] = 9446
 	STRING_EN[9446]["KEY"] = "task building_4 memo"
-	STRING_EN[9446]["VALUE"] = "After the weapon research level is upgraded， more weapons and small skills can be activated， which can be equipped on the ship to change the attack mode!"
+	STRING_EN[9446]["VALUE"] = "Upgrade Weapon Institution to activate more weapon skills for spaceships!"
 	STRING_EN[9446]["real_idx"] = 9446
 
 STRING_EN["index"][9447] = 9447
 STRING_EN[9447] = {}
 	STRING_EN[9447]["ID"] = 9447
 	STRING_EN[9447]["KEY"] = "task building_5 memo"
-	STRING_EN[9447]["VALUE"] = "The depth of technology affects combat capabilities! The higher the level of the technology lab， the more powerful the technology can be activated!"
+	STRING_EN[9447]["VALUE"] = "Upgrade Tech Lab to activate more powerful technologies!"
 	STRING_EN[9447]["real_idx"] = 9447
 
 STRING_EN["index"][9448] = 9448
 STRING_EN[9448] = {}
 	STRING_EN[9448]["ID"] = 9448
 	STRING_EN[9448]["KEY"] = "task home_1 memo"
-	STRING_EN[9448]["VALUE"] = "The smelter produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources!"
+	STRING_EN[9448]["VALUE"] = "Smeltery regularly produces Alloy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources!"
 	STRING_EN[9448]["real_idx"] = 9448
 
 STRING_EN["index"][9449] = 9449
 STRING_EN[9449] = {}
 	STRING_EN[9449]["ID"] = 9449
 	STRING_EN[9449]["KEY"] = "task home_2 memo"
-	STRING_EN[9449]["VALUE"] = "Crystal ore produces crystals at regular intervals. The higher the grade， the more the output; the increase in strength， the cost is the huge consumption of resources!"
+	STRING_EN[9449]["VALUE"] = "Crystal Mine regularly produces Crystal， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources!"
 	STRING_EN[9449]["real_idx"] = 9449
 
 STRING_EN["index"][9450] = 9450
 STRING_EN[9450] = {}
 	STRING_EN[9450]["ID"] = 9450
 	STRING_EN[9450]["KEY"] = "task home_3 memo"
-	STRING_EN[9450]["VALUE"] = "Energy stations regularly produce energy， the higher the level， the more output; the increase in strength， the cost is the huge consumption of resources!"
+	STRING_EN[9450]["VALUE"] = "Energy Station regularly produces Energy， the higher the level， the more the output. The increase of strength， the cost of which is a huge consumption of resources!"
 	STRING_EN[9450]["real_idx"] = 9450
 
 STRING_EN["index"][9451] = 9451
 STRING_EN[9451] = {}
 	STRING_EN[9451]["ID"] = 9451
 	STRING_EN[9451]["KEY"] = "task building_14 memo"
-	STRING_EN[9451]["VALUE"] = "The War Workshop can improve the fleet's flying ship， and also increase the resources carried by the ship to help us gain an advantage in the war!"
+	STRING_EN[9451]["VALUE"] = "War Workshop can increase the number of the ships that can participate in the battle， and also increase the resources can be carried by the ships to help us gain an advantage in the battle!"
 	STRING_EN[9451]["real_idx"] = 9451
 
 STRING_EN["index"][9452] = 9452
 STRING_EN[9452] = {}
 	STRING_EN[9452]["ID"] = 9452
 	STRING_EN[9452]["KEY"] = "task building_16 memo"
-	STRING_EN[9452]["VALUE"] = "Want to get high quality equipment? These requirements can be met in the forging workshop!"
+	STRING_EN[9452]["VALUE"] = "Want to get advanced equipments? Go to Forging Workshop!"
 	STRING_EN[9452]["real_idx"] = 9452
 
 STRING_EN["index"][9453] = 9453
 STRING_EN[9453] = {}
 	STRING_EN[9453]["ID"] = 9453
 	STRING_EN[9453]["KEY"] = "task building_13 memo"
-	STRING_EN[9453]["VALUE"] = "If you want to get more help from your allies， you can help us in the Foreign Bureau!"
+	STRING_EN[9453]["VALUE"] = "If you want to get more help from your allies， go to Foreign Affairs Bureau!"
 	STRING_EN[9453]["real_idx"] = 9453
 
 STRING_EN["index"][9454] = 9454
 STRING_EN[9454] = {}
 	STRING_EN[9454]["ID"] = 9454
 	STRING_EN[9454]["KEY"] = "task building_12 memo"
-	STRING_EN[9454]["VALUE"] = "Wanting the space station not to be plundered by others， the city defense turret is very important， it is the first line of defense of the space station!"
+	STRING_EN[9454]["VALUE"] = "City Turret is very important if you don't want your space station getting plundered by others. It is the first line of defense for your space station!"
 	STRING_EN[9454]["real_idx"] = 9454
 
 STRING_EN["index"][9455] = 9455
 STRING_EN[9455] = {}
 	STRING_EN[9455]["ID"] = 9455
 	STRING_EN[9455]["KEY"] = "task building_7 memo"
-	STRING_EN[9455]["VALUE"] = "If the ship is not durable enough， it will not be able to play， and the repair shop is the place to repair the durability， and it can also improve the repair speed!"
+	STRING_EN[9455]["VALUE"] = "Spaceship can not participate in battles if its durability is not enough. Spaceship Workshop is the place to repair the durability， and you can also improve the repairing speed there!"
 	STRING_EN[9455]["real_idx"] = 9455
 
 STRING_EN["index"][9456] = 9456
 STRING_EN[9456] = {}
 	STRING_EN[9456]["ID"] = 9456
 	STRING_EN[9456]["KEY"] = "task galaxy name"
-	STRING_EN[9456]["VALUE"] = "Destroy once * level*!"
+	STRING_EN[9456]["VALUE"] = "Destroy level * * 1 time!"
 	STRING_EN[9456]["real_idx"] = 9456
 
 STRING_EN["index"][9457] = 9457
 STRING_EN[9457] = {}
 	STRING_EN[9457]["ID"] = 9457
 	STRING_EN[9457]["KEY"] = "task galaxy planet memo"
-	STRING_EN[9457]["VALUE"] = "Destroy a * level planet belt!"
+	STRING_EN[9457]["VALUE"] = "Destroy level * Astroid Belt 1 time!"
 	STRING_EN[9457]["real_idx"] = 9457
 
 STRING_EN["index"][9458] = 9458
 STRING_EN[9458] = {}
 	STRING_EN[9458]["ID"] = 9458
 	STRING_EN[9458]["KEY"] = "task galaxy wreckage name"
-	STRING_EN[9458]["VALUE"] = "Salvage once * level*!"
+	STRING_EN[9458]["VALUE"] = "Salvage level * * 1 time!"
 	STRING_EN[9458]["real_idx"] = 9458
 
 STRING_EN["index"][9459] = 9459
 STRING_EN[9459] = {}
 	STRING_EN[9459]["ID"] = 9459
 	STRING_EN[9459]["KEY"] = "task galaxy wreckage memo"
-	STRING_EN[9459]["VALUE"] = "Salvage a * level wreck!"
+	STRING_EN[9459]["VALUE"] = "Salvage levle * Wreckage 1 time!"
 	STRING_EN[9459]["real_idx"] = 9459
 
 STRING_EN["index"][9460] = 9460
 STRING_EN[9460] = {}
 	STRING_EN[9460]["ID"] = 9460
 	STRING_EN[9460]["KEY"] = "task building_11 memo"
-	STRING_EN[9460]["VALUE"] = "To get information about the enemy's offensive fleet and space station， you need to increase the level of the scout tower!"
+	STRING_EN[9460]["VALUE"] = "Upgrade Scout Tower to get the information of enemy's attacking fleet and Space Station"
 	STRING_EN[9460]["real_idx"] = 9460
 
 STRING_EN["index"][9461] = 9461
 STRING_EN[9461] = {}
 	STRING_EN[9461]["ID"] = 9461
 	STRING_EN[9461]["KEY"] = "task figure level name"
-	STRING_EN[9461]["VALUE"] = "Commander level upgrade to #"
+	STRING_EN[9461]["VALUE"] = "Upgrade Commander level to #"
 	STRING_EN[9461]["real_idx"] = 9461
 
 STRING_EN["index"][9462] = 9462
 STRING_EN[9462] = {}
 	STRING_EN[9462]["ID"] = 9462
 	STRING_EN[9462]["KEY"] = "task figure level memo"
-	STRING_EN[9462]["VALUE"] = "The commander level limits the upper limit of the ship level and the upper limit of the building level!"
+	STRING_EN[9462]["VALUE"] = "Max level of spaceships and buildings depends on Commander level!"
 	STRING_EN[9462]["real_idx"] = 9462
 
 STRING_EN["index"][9463] = 9463
 STRING_EN[9463] = {}
 	STRING_EN[9463]["ID"] = 9463
 	STRING_EN[9463]["KEY"] = "task ship level name"
-	STRING_EN[9463]["VALUE"] = "Ship upgrade to #"
+	STRING_EN[9463]["VALUE"] = "Upgrade Spaceship level to #"
 	STRING_EN[9463]["real_idx"] = 9463
 
 STRING_EN["index"][9464] = 9464
 STRING_EN[9464] = {}
 	STRING_EN[9464]["ID"] = 9464
 	STRING_EN[9464]["KEY"] = "task ship level memo"
-	STRING_EN[9464]["VALUE"] = "Improve the level of the ship to wear more advanced equipment and breakthrough quality levels!"
+	STRING_EN[9464]["VALUE"] = "Upgrade spaceship level can allow you equip more advanced equipments and increase the max breakthrough level!"
 	STRING_EN[9464]["real_idx"] = 9464
 
 STRING_EN["index"][9465] = 9465
 STRING_EN[9465] = {}
 	STRING_EN[9465]["ID"] = 9465
 	STRING_EN[9465]["KEY"] = "task ship fighting name"
-	STRING_EN[9465]["VALUE"] = "Ship combat effectiveness upgrade to #"
+	STRING_EN[9465]["VALUE"] = "Improve Spaceship Combat Power to #"
 	STRING_EN[9465]["real_idx"] = 9465
 
 STRING_EN["index"][9466] = 9466
 STRING_EN[9466] = {}
 	STRING_EN[9466]["ID"] = 9466
 	STRING_EN[9466]["KEY"] = "task ship fighting memo"
-	STRING_EN[9466]["VALUE"] = "Increasing the combat effectiveness of the ship will make the battle process easier!"
+	STRING_EN[9466]["VALUE"] = "Improve spaceship combat power can make your battles easier!"
 	STRING_EN[9466]["real_idx"] = 9466
 
 STRING_EN["index"][9467] = 9467
 STRING_EN[9467] = {}
 	STRING_EN[9467]["ID"] = 9467
 	STRING_EN[9467]["KEY"] = "task copy name"
-	STRING_EN[9467]["VALUE"] = "Pass main line instance#"
+	STRING_EN[9467]["VALUE"] = "Pass Instance #"
 	STRING_EN[9467]["real_idx"] = 9467
 
 STRING_EN["index"][9468] = 9468
 STRING_EN[9468] = {}
 	STRING_EN[9468]["ID"] = 9468
 	STRING_EN[9468]["KEY"] = "task copy memo"
-	STRING_EN[9468]["VALUE"] = "Crossing the Star Gate， we are about to be in the endless deep space， and we may gradually get lost， but before that， let us regain the glory of the past!"
+	STRING_EN[9468]["VALUE"] = "Crossing the Star Gate， we are about to be part of the endless Galaxy. We may get lost gradually， but before that， let's go recapture the former glory!"
 	STRING_EN[9468]["real_idx"] = 9468
 
 STRING_EN["index"][9469] = 9469
 STRING_EN[9469] = {}
 	STRING_EN[9469]["ID"] = 9469
 	STRING_EN[9469]["KEY"] = "task technology name"
-	STRING_EN[9469]["VALUE"] = "Upgrade technology level #times"
+	STRING_EN[9469]["VALUE"] = "Upgrade Technology # times"
 	STRING_EN[9469]["real_idx"] = 9469
 
 STRING_EN["index"][9470] = 9470
 STRING_EN[9470] = {}
 	STRING_EN[9470]["ID"] = 9470
 	STRING_EN[9470]["KEY"] = "task technology memo"
-	STRING_EN[9470]["VALUE"] = "The depth of technology affects the attributes of space stations and wars， and the ability to improve technology can not lag behind others!"
+	STRING_EN[9470]["VALUE"] = "Technology influences the attributes of Space Station and battles， improve your technologies to don't get lag behind others!"
 	STRING_EN[9470]["real_idx"] = 9470
 
 STRING_EN["index"][9471] = 9471
 STRING_EN[9471] = {}
 	STRING_EN[9471]["ID"] = 9471
 	STRING_EN[9471]["KEY"] = "task equip name"
-	STRING_EN[9471]["VALUE"] = "Forging equipment# times"
+	STRING_EN[9471]["VALUE"] = "Forge Equipment # times"
 	STRING_EN[9471]["real_idx"] = 9471
 
 STRING_EN["index"][9472] = 9472
 STRING_EN[9472] = {}
 	STRING_EN[9472]["ID"] = 9472
 	STRING_EN[9472]["KEY"] = "task equip memo"
-	STRING_EN[9472]["VALUE"] = "To build a strong fleet， the ship lacks equipment is not enough， to create some suitable equipment for our ship!"
+	STRING_EN[9472]["VALUE"] = "You can not build a strong fleet if you don't have equipments， forge some suitable equipments for our ships!"
 	STRING_EN[9472]["real_idx"] = 9472
 
 STRING_EN["index"][9473] = 9473
 STRING_EN[9473] = {}
 	STRING_EN[9473]["ID"] = 9473
 	STRING_EN[9473]["KEY"] = "task attack foe name"
-	STRING_EN[9473]["VALUE"] = "Attack other players #times"
+	STRING_EN[9473]["VALUE"] = "Attack other players # times"
 	STRING_EN[9473]["real_idx"] = 9473
 
 STRING_EN["index"][9474] = 9474
 STRING_EN[9474] = {}
 	STRING_EN[9474]["ID"] = 9474
 	STRING_EN[9474]["KEY"] = "task attack foe memo"
-	STRING_EN[9474]["VALUE"] = "If anyone is fighting against you， then conquer the enemy and let the enemy be convinced at your feet!"
+	STRING_EN[9474]["VALUE"] = "If anyone is fighting against you， then conquer them and let them be convinced at your feet!"
 	STRING_EN[9474]["real_idx"] = 9474
 
 STRING_EN["index"][9475] = 9475
 STRING_EN[9475] = {}
 	STRING_EN[9475]["ID"] = 9475
 	STRING_EN[9475]["KEY"] = "task defense foe name"
-	STRING_EN[9475]["VALUE"] = "Space station successfully defended offensive #times"
+	STRING_EN[9475]["VALUE"] = "Space station successfully defends attack # times"
 	STRING_EN[9475]["real_idx"] = 9475
 
 STRING_EN["index"][9476] = 9476
 STRING_EN[9476] = {}
 	STRING_EN[9476]["ID"] = 9476
 	STRING_EN[9476]["KEY"] = "task defense foe memo"
-	STRING_EN[9476]["VALUE"] = "Our space station is unbreakable， and the enemy fleet is unbreakable!"
+	STRING_EN[9476]["VALUE"] = "Our space station is unbreakable， there's no chance for the enemy fleet!"
 	STRING_EN[9476]["real_idx"] = 9476
 
 STRING_EN["index"][9477] = 9477
 STRING_EN[9477] = {}
 	STRING_EN[9477]["ID"] = 9477
 	STRING_EN[9477]["KEY"] = "task galaxy gather name"
-	STRING_EN[9477]["VALUE"] = "Successfully collected resources# times"
+	STRING_EN[9477]["VALUE"] = "Successfully exploits resources # times"
 	STRING_EN[9477]["real_idx"] = 9477
 
 STRING_EN["index"][9478] = 9478
 STRING_EN[9478] = {}
 	STRING_EN[9478]["ID"] = 9478
 	STRING_EN[9478]["KEY"] = "task galaxy destroy name"
-	STRING_EN[9478]["VALUE"] = "Destroy the planet belt #times"
+	STRING_EN[9478]["VALUE"] = "Destroy astroid belt # times"
 	STRING_EN[9478]["real_idx"] = 9478
 
 STRING_EN["index"][9479] = 9479
 STRING_EN[9479] = {}
 	STRING_EN[9479]["ID"] = 9479
 	STRING_EN[9479]["KEY"] = "task galaxy salvage name"
-	STRING_EN[9479]["VALUE"] = "Successfully salvage #times universe"
+	STRING_EN[9479]["VALUE"] = "Successfully salvage wreckage # times "
 	STRING_EN[9479]["real_idx"] = 9479
 
 STRING_EN["index"][9480] = 9480
 STRING_EN[9480] = {}
 	STRING_EN[9480]["ID"] = 9480
 	STRING_EN[9480]["KEY"] = "task galaxy ai name"
-	STRING_EN[9480]["VALUE"] = "Beat artificial intelligence base #times"
+	STRING_EN[9480]["VALUE"] = "Defeat AI base # times"
 	STRING_EN[9480]["real_idx"] = 9480
 
 STRING_EN["index"][9481] = 9481
 STRING_EN[9481] = {}
 	STRING_EN[9481]["ID"] = 9481
 	STRING_EN[9481]["KEY"] = "task galaxy gather memo 1"
-	STRING_EN[9481]["VALUE"] = "Accumulative collection of 1-10 resource mines in the galaxy 3 times"
+	STRING_EN[9481]["VALUE"] = "Accumulative exploiting level 1-10 resource mines in the galaxy 3 times"
 	STRING_EN[9481]["real_idx"] = 9481
 
 STRING_EN["index"][9482] = 9482
 STRING_EN[9482] = {}
 	STRING_EN[9482]["ID"] = 9482
 	STRING_EN[9482]["KEY"] = "task galaxy gather memo 2"
-	STRING_EN[9482]["VALUE"] = "Accumulative collection of 1-10 resource mines in the galaxy 5 times"
+	STRING_EN[9482]["VALUE"] = "Accumulative exploiting level 1-10 resource mines in the galaxy 5 times"
 	STRING_EN[9482]["real_idx"] = 9482
 
 STRING_EN["index"][9483] = 9483
 STRING_EN[9483] = {}
 	STRING_EN[9483]["ID"] = 9483
 	STRING_EN[9483]["KEY"] = "task galaxy gather memo 3"
-	STRING_EN[9483]["VALUE"] = "Accumulative collection of 11-20 resource mines in the galaxy 2 times"
+	STRING_EN[9483]["VALUE"] = "Accumulative exploiting level 11-20 resource mines in the galaxy 2 times"
 	STRING_EN[9483]["real_idx"] = 9483
 
 STRING_EN["index"][9484] = 9484
 STRING_EN[9484] = {}
 	STRING_EN[9484]["ID"] = 9484
 	STRING_EN[9484]["KEY"] = "task galaxy gather memo 4"
-	STRING_EN[9484]["VALUE"] = "Accumulative collection of 11-20 resource mines in the galaxy 5 times"
+	STRING_EN[9484]["VALUE"] = "Accumulative exploiting level 11-20 resource mines in the galaxy 5 times"
 	STRING_EN[9484]["real_idx"] = 9484
 
 STRING_EN["index"][9485] = 9485
 STRING_EN[9485] = {}
 	STRING_EN[9485]["ID"] = 9485
 	STRING_EN[9485]["KEY"] = "task galaxy gather memo 5"
-	STRING_EN[9485]["VALUE"] = "Accumulative collection of 21-30 resource mines in the galaxy 3 times"
+	STRING_EN[9485]["VALUE"] = "Accumulative exploiting level 21-30 resource mines in the galaxy 3 times"
 	STRING_EN[9485]["real_idx"] = 9485
 
 STRING_EN["index"][9486] = 9486
 STRING_EN[9486] = {}
 	STRING_EN[9486]["ID"] = 9486
 	STRING_EN[9486]["KEY"] = "task galaxy gather memo 6"
-	STRING_EN[9486]["VALUE"] = "Accumulative collection of 21-30 resource mines in the galaxy 5 times"
+	STRING_EN[9486]["VALUE"] = "Accumulative exploiting level 21-30 resource mines in the galaxy 5 times"
 	STRING_EN[9486]["real_idx"] = 9486
 
 STRING_EN["index"][9487] = 9487
 STRING_EN[9487] = {}
 	STRING_EN[9487]["ID"] = 9487
 	STRING_EN[9487]["KEY"] = "task galaxy gather memo 7"
-	STRING_EN[9487]["VALUE"] = "Accumulative collection of 31-40 resource mines in the galaxy 3 times"
+	STRING_EN[9487]["VALUE"] = "Accumulative exploiting level 31-40 resource mines in the galaxy 3 times"
 	STRING_EN[9487]["real_idx"] = 9487
 
 STRING_EN["index"][9488] = 9488
 STRING_EN[9488] = {}
 	STRING_EN[9488]["ID"] = 9488
 	STRING_EN[9488]["KEY"] = "task galaxy gather memo 8"
-	STRING_EN[9488]["VALUE"] = "Accumulative collection of 31-40 level resource mines in the galaxy 5 times"
+	STRING_EN[9488]["VALUE"] = "Accumulative exploiting level 31-40 resource mines in the galaxy 5 times"
 	STRING_EN[9488]["real_idx"] = 9488
 
 STRING_EN["index"][9489] = 9489
 STRING_EN[9489] = {}
 	STRING_EN[9489]["ID"] = 9489
 	STRING_EN[9489]["KEY"] = "task galaxy gather memo 9"
-	STRING_EN[9489]["VALUE"] = "Accumulative collection of 41-50 level resource mines in the galaxy 5 times"
+	STRING_EN[9489]["VALUE"] = "Accumulative exploiting level 41-50 resource mines in the galaxy 5 times"
 	STRING_EN[9489]["real_idx"] = 9489
 
 STRING_EN["index"][9490] = 9490
 STRING_EN[9490] = {}
 	STRING_EN[9490]["ID"] = 9490
 	STRING_EN[9490]["KEY"] = "task galaxy gather memo 10"
-	STRING_EN[9490]["VALUE"] = "Accumulative collection of 41-50 level resource mines in the galaxy 10 times"
+	STRING_EN[9490]["VALUE"] = "Accumulative exploiting level 41-50 resource mines in the galaxy 10 times"
 	STRING_EN[9490]["real_idx"] = 9490
 
 STRING_EN["index"][9491] = 9491
 STRING_EN[9491] = {}
 	STRING_EN[9491]["ID"] = 9491
 	STRING_EN[9491]["KEY"] = "task galaxy gather memo 11"
-	STRING_EN[9491]["VALUE"] = "Accumulative collection of 51-60 resource mines in the galaxy 5 times"
+	STRING_EN[9491]["VALUE"] = "Accumulative exploiting level 51-60 resource mines in the galaxy 5 times"
 	STRING_EN[9491]["real_idx"] = 9491
 
 STRING_EN["index"][9492] = 9492
 STRING_EN[9492] = {}
 	STRING_EN[9492]["ID"] = 9492
 	STRING_EN[9492]["KEY"] = "task galaxy gather memo 12"
-	STRING_EN[9492]["VALUE"] = "Accumulative collection of 51-60 resource mines in the galaxy 10 times"
+	STRING_EN[9492]["VALUE"] = "Accumulative exploiting level 51-60 resource mines in the galaxy 10 times"
 	STRING_EN[9492]["real_idx"] = 9492
 
 STRING_EN["index"][9493] = 9493
 STRING_EN[9493] = {}
 	STRING_EN[9493]["ID"] = 9493
 	STRING_EN[9493]["KEY"] = "task galaxy destroy memo 1"
-	STRING_EN[9493]["VALUE"] = "Collecting 1-10 planetary belts in the galaxy for 3 times"
+	STRING_EN[9493]["VALUE"] = "Accumulative salvaging level 1-10 astroid belts in the galaxy 3 times"
 	STRING_EN[9493]["real_idx"] = 9493
 
 STRING_EN["index"][9494] = 9494
 STRING_EN[9494] = {}
 	STRING_EN[9494]["ID"] = 9494
 	STRING_EN[9494]["KEY"] = "task galaxy destroy memo 2"
-	STRING_EN[9494]["VALUE"] = "Collecting 1-10 planetary belts in the galaxy for 5 times"
+	STRING_EN[9494]["VALUE"] = "Accumulative salvaging level 1-10 astroid belts in the galaxy 5 times"
 	STRING_EN[9494]["real_idx"] = 9494
 
 STRING_EN["index"][9495] = 9495
 STRING_EN[9495] = {}
 	STRING_EN[9495]["ID"] = 9495
 	STRING_EN[9495]["KEY"] = "task galaxy destroy memo 3"
-	STRING_EN[9495]["VALUE"] = "In the galaxy， the 11-20 planetary belts are salvaged twice."
+	STRING_EN[9495]["VALUE"] = "Accumulative salvaging level 11-20 astroid belts in the galaxy 2 times"
 	STRING_EN[9495]["real_idx"] = 9495
 
 STRING_EN["index"][9496] = 9496
 STRING_EN[9496] = {}
 	STRING_EN[9496]["ID"] = 9496
 	STRING_EN[9496]["KEY"] = "task galaxy destroy memo 4"
-	STRING_EN[9496]["VALUE"] = "In the galaxy， the 11-20 planetary belts are salvaged 5 times."
+	STRING_EN[9496]["VALUE"] = "Accumulative salvaging level 11-20 astroid belts in the galaxy 5 times"
 	STRING_EN[9496]["real_idx"] = 9496
 
 STRING_EN["index"][9497] = 9497
 STRING_EN[9497] = {}
 	STRING_EN[9497]["ID"] = 9497
 	STRING_EN[9497]["KEY"] = "task galaxy destroy memo 5"
-	STRING_EN[9497]["VALUE"] = "Cumulative salvage of 21-30 planetary belts in the galaxy"
+	STRING_EN[9497]["VALUE"] = "Accumulative salvaging level 21-30 astroid belts in the galaxy 3 times"
 	STRING_EN[9497]["real_idx"] = 9497
 
 STRING_EN["index"][9498] = 9498
 STRING_EN[9498] = {}
 	STRING_EN[9498]["ID"] = 9498
 	STRING_EN[9498]["KEY"] = "task galaxy destroy memo 6"
-	STRING_EN[9498]["VALUE"] = "Cumulative salvage of 21-30 planetary belts in the galaxy"
+	STRING_EN[9498]["VALUE"] = "Accumulative salvaging level 21-30 astroid belts in the galaxy 5 times"
 	STRING_EN[9498]["real_idx"] = 9498
 
 STRING_EN["index"][9499] = 9499
 STRING_EN[9499] = {}
 	STRING_EN[9499]["ID"] = 9499
 	STRING_EN[9499]["KEY"] = "task galaxy destroy memo 7"
-	STRING_EN[9499]["VALUE"] = "Cumulative salvage of 31-40 planetary belts in the galaxy"
+	STRING_EN[9499]["VALUE"] = "Accumulative salvaging level 31-40 astroid belts in the galaxy 3 times"
 	STRING_EN[9499]["real_idx"] = 9499
 
 STRING_EN["index"][9500] = 9500
 STRING_EN[9500] = {}
 	STRING_EN[9500]["ID"] = 9500
 	STRING_EN[9500]["KEY"] = "task galaxy destroy memo 8"
-	STRING_EN[9500]["VALUE"] = "Cumulative salvage of 31-40 planetary belts in the galaxy"
+	STRING_EN[9500]["VALUE"] = "Accumulative salvaging level 31-40 astroid belts in the galaxy 5 times"
 	STRING_EN[9500]["real_idx"] = 9500
 
 STRING_EN["index"][9501] = 9501
 STRING_EN[9501] = {}
 	STRING_EN[9501]["ID"] = 9501
 	STRING_EN[9501]["KEY"] = "task galaxy destroy memo 9"
-	STRING_EN[9501]["VALUE"] = "In the galaxies， the 41-50 level planetary belts are salvaged 5 times."
+	STRING_EN[9501]["VALUE"] = "Accumulative salvaging level 41-50 astroid belts in the galaxy 5 times"
 	STRING_EN[9501]["real_idx"] = 9501
 
 STRING_EN["index"][9502] = 9502
 STRING_EN[9502] = {}
 	STRING_EN[9502]["ID"] = 9502
 	STRING_EN[9502]["KEY"] = "task galaxy destroy memo 10"
-	STRING_EN[9502]["VALUE"] = "Totally salvage 41-50 planetary belts in the galaxy 10 times"
+	STRING_EN[9502]["VALUE"] = "Accumulative salvaging level 41-50 astroid belts in the galaxy 10 times"
 	STRING_EN[9502]["real_idx"] = 9502
 
 STRING_EN["index"][9503] = 9503
 STRING_EN[9503] = {}
 	STRING_EN[9503]["ID"] = 9503
 	STRING_EN[9503]["KEY"] = "task galaxy destroy memo 11"
-	STRING_EN[9503]["VALUE"] = "Cumulative salvage of 51-60 planetary belts in the galaxy"
+	STRING_EN[9503]["VALUE"] = "Accumulative salvaging level 51-60 astroid belts in the galaxy 5 times"
 	STRING_EN[9503]["real_idx"] = 9503
 
 STRING_EN["index"][9504] = 9504
 STRING_EN[9504] = {}
 	STRING_EN[9504]["ID"] = 9504
 	STRING_EN[9504]["KEY"] = "task galaxy destroy memo 12"
-	STRING_EN[9504]["VALUE"] = "Totally salvage 51-60 planetary belts in the galaxy 10 times"
+	STRING_EN[9504]["VALUE"] = "Accumulative salvaging level 51-60 astroid belts in the galaxy 10 times"
 	STRING_EN[9504]["real_idx"] = 9504
 
 STRING_EN["index"][9505] = 9505
 STRING_EN[9505] = {}
 	STRING_EN[9505]["ID"] = 9505
 	STRING_EN[9505]["KEY"] = "task galaxy salvage memo 1"
-	STRING_EN[9505]["VALUE"] = "The galaxies have destroyed 1-10 levels of wreckage 3 times."
+	STRING_EN[9505]["VALUE"] = "Accumulative destroying level 1-10 universe wreckage 3 times"
 	STRING_EN[9505]["real_idx"] = 9505
 
 STRING_EN["index"][9506] = 9506
 STRING_EN[9506] = {}
 	STRING_EN[9506]["ID"] = 9506
 	STRING_EN[9506]["KEY"] = "task galaxy salvage memo 2"
-	STRING_EN[9506]["VALUE"] = "The galaxies have destroyed 1-10 levels of wreckage 5 times."
+	STRING_EN[9506]["VALUE"] = "Accumulative destroying level 1-10 universe wreckage 5 times"
 	STRING_EN[9506]["real_idx"] = 9506
 
 STRING_EN["index"][9507] = 9507
 STRING_EN[9507] = {}
 	STRING_EN[9507]["ID"] = 9507
 	STRING_EN[9507]["KEY"] = "task galaxy salvage memo 3"
-	STRING_EN[9507]["VALUE"] = "Total destruction of 11-20 level wreckage in the galaxy 2 times"
+	STRING_EN[9507]["VALUE"] = "Accumulative destroying level 11-20 universe wreckage 2 times"
 	STRING_EN[9507]["real_idx"] = 9507
 
 STRING_EN["index"][9508] = 9508
 STRING_EN[9508] = {}
 	STRING_EN[9508]["ID"] = 9508
 	STRING_EN[9508]["KEY"] = "task galaxy salvage memo 4"
-	STRING_EN[9508]["VALUE"] = "Total destruction of 11-20 level wreckage in the galaxy 5 times"
+	STRING_EN[9508]["VALUE"] = "Accumulative destroying level 11-20 universe wreckage 5 times"
 	STRING_EN[9508]["real_idx"] = 9508
 
 STRING_EN["index"][9509] = 9509
 STRING_EN[9509] = {}
 	STRING_EN[9509]["ID"] = 9509
 	STRING_EN[9509]["KEY"] = "task galaxy salvage memo 5"
-	STRING_EN[9509]["VALUE"] = "Cumulative destruction of 21-30 level wreckage in the galaxy 3 times"
+	STRING_EN[9509]["VALUE"] = "Accumulative destroying level 21-30 universe wreckage 3 times"
 	STRING_EN[9509]["real_idx"] = 9509
 
 STRING_EN["index"][9510] = 9510
 STRING_EN[9510] = {}
 	STRING_EN[9510]["ID"] = 9510
 	STRING_EN[9510]["KEY"] = "task galaxy salvage memo 6"
-	STRING_EN[9510]["VALUE"] = "Total destruction of 21-30 level wreckage in the galaxy 5 times"
+	STRING_EN[9510]["VALUE"] = "Accumulative destroying level 21-30 universe wreckage 5 times"
 	STRING_EN[9510]["real_idx"] = 9510
 
 STRING_EN["index"][9511] = 9511
 STRING_EN[9511] = {}
 	STRING_EN[9511]["ID"] = 9511
 	STRING_EN[9511]["KEY"] = "task galaxy salvage memo 7"
-	STRING_EN[9511]["VALUE"] = "The destruction of the 31-40 level of the universe remains 3 times in the galaxy"
+	STRING_EN[9511]["VALUE"] = "Accumulative destroying level 31-40 universe wreckage 3 times"
 	STRING_EN[9511]["real_idx"] = 9511
 
 STRING_EN["index"][9512] = 9512
 STRING_EN[9512] = {}
 	STRING_EN[9512]["ID"] = 9512
 	STRING_EN[9512]["KEY"] = "task galaxy salvage memo 8"
-	STRING_EN[9512]["VALUE"] = "Cumulative destruction of the 31-40 level of the universe in the galaxy 5 times"
+	STRING_EN[9512]["VALUE"] = "Accumulative destroying level 31-40 universe wreckage 5 times"
 	STRING_EN[9512]["real_idx"] = 9512
 
 STRING_EN["index"][9513] = 9513
 STRING_EN[9513] = {}
 	STRING_EN[9513]["ID"] = 9513
 	STRING_EN[9513]["KEY"] = "task galaxy salvage memo 9"
-	STRING_EN[9513]["VALUE"] = "The galaxies have destroyed 41-50 levels of the universe's wreckage 5 times."
+	STRING_EN[9513]["VALUE"] = "Accumulative destroying level 41-50 universe wreckage 5 times"
 	STRING_EN[9513]["real_idx"] = 9513
 
 STRING_EN["index"][9514] = 9514
 STRING_EN[9514] = {}
 	STRING_EN[9514]["ID"] = 9514
 	STRING_EN[9514]["KEY"] = "task galaxy salvage memo 10"
-	STRING_EN[9514]["VALUE"] = "Total destruction of 41-50 level wreckage in the galaxy 10 times"
+	STRING_EN[9514]["VALUE"] = "Accumulative destroying level 41-50 universe wreckage 10 times"
 	STRING_EN[9514]["real_idx"] = 9514
 
 STRING_EN["index"][9515] = 9515
 STRING_EN[9515] = {}
 	STRING_EN[9515]["ID"] = 9515
 	STRING_EN[9515]["KEY"] = "task galaxy salvage memo 11"
-	STRING_EN[9515]["VALUE"] = "Total destruction of 51-60 universe wrecks in the galaxy 5 times"
+	STRING_EN[9515]["VALUE"] = "Accumulative destroying level 51-60 universe wreckage 5 times"
 	STRING_EN[9515]["real_idx"] = 9515
 
 STRING_EN["index"][9516] = 9516
 STRING_EN[9516] = {}
 	STRING_EN[9516]["ID"] = 9516
 	STRING_EN[9516]["KEY"] = "task galaxy salvage memo 12"
-	STRING_EN[9516]["VALUE"] = "Total destruction of 51-60 universe wreckage 10 times in the galaxy"
+	STRING_EN[9516]["VALUE"] = "Accumulative destroying level 51-60 universe wreckage 10 times"
 	STRING_EN[9516]["real_idx"] = 9516
 
 STRING_EN["index"][9517] = 9517
 STRING_EN[9517] = {}
 	STRING_EN[9517]["ID"] = 9517
 	STRING_EN[9517]["KEY"] = "task galaxy ai memo 1"
-	STRING_EN[9517]["VALUE"] = "The galaxies have defeated the 1-10 artificial intelligence base 3 times in total."
+	STRING_EN[9517]["VALUE"] = "Accumulative defeating level 1-10 AI base 3 times"
 	STRING_EN[9517]["real_idx"] = 9517
 
 STRING_EN["index"][9518] = 9518
 STRING_EN[9518] = {}
 	STRING_EN[9518]["ID"] = 9518
 	STRING_EN[9518]["KEY"] = "task galaxy ai memo 2"
-	STRING_EN[9518]["VALUE"] = "Accumulatively defeated 1-10 artificial intelligence bases in the galaxy 5 times"
+	STRING_EN[9518]["VALUE"] = "Accumulative defeating level 1-10 AI base 5 times"
 	STRING_EN[9518]["real_idx"] = 9518
 
 STRING_EN["index"][9519] = 9519
 STRING_EN[9519] = {}
 	STRING_EN[9519]["ID"] = 9519
 	STRING_EN[9519]["KEY"] = "task galaxy ai memo 3"
-	STRING_EN[9519]["VALUE"] = "Accumulatively defeated 11-20 artificial intelligence bases twice in the galaxy"
+	STRING_EN[9519]["VALUE"] = "Accumulative defeating level 11-20 AI base 2 times"
 	STRING_EN[9519]["real_idx"] = 9519
 
 STRING_EN["index"][9520] = 9520
 STRING_EN[9520] = {}
 	STRING_EN[9520]["ID"] = 9520
 	STRING_EN[9520]["KEY"] = "task galaxy ai memo 4"
-	STRING_EN[9520]["VALUE"] = "Accumulatively defeated 11-20 artificial intelligence bases in the galaxy 5 times"
+	STRING_EN[9520]["VALUE"] = "Accumulative defeating level 11-20 AI base 5 times"
 	STRING_EN[9520]["real_idx"] = 9520
 
 STRING_EN["index"][9521] = 9521
 STRING_EN[9521] = {}
 	STRING_EN[9521]["ID"] = 9521
 	STRING_EN[9521]["KEY"] = "task galaxy ai memo 5"
-	STRING_EN[9521]["VALUE"] = "Accumulatively defeated 21-30 artificial intelligence bases in the galaxy 3 times"
+	STRING_EN[9521]["VALUE"] = "Accumulative defeating level 21-30 AI base 3 times"
 	STRING_EN[9521]["real_idx"] = 9521
 
 STRING_EN["index"][9522] = 9522
 STRING_EN[9522] = {}
 	STRING_EN[9522]["ID"] = 9522
 	STRING_EN[9522]["KEY"] = "task galaxy ai memo 6"
-	STRING_EN[9522]["VALUE"] = "Accumulatively defeated 21-30 artificial intelligence bases in the galaxy 5 times"
+	STRING_EN[9522]["VALUE"] = "Accumulative defeating level 21-30 AI base 5 times"
 	STRING_EN[9522]["real_idx"] = 9522
 
 STRING_EN["index"][9523] = 9523
 STRING_EN[9523] = {}
 	STRING_EN[9523]["ID"] = 9523
 	STRING_EN[9523]["KEY"] = "task galaxy ai memo 7"
-	STRING_EN[9523]["VALUE"] = "Accumulatively defeated the 31-40 level artificial intelligence base 3 times in the galaxy"
+	STRING_EN[9523]["VALUE"] = "Accumulative defeating level 31-40 AI base 3 times"
 	STRING_EN[9523]["real_idx"] = 9523
 
 STRING_EN["index"][9524] = 9524
 STRING_EN[9524] = {}
 	STRING_EN[9524]["ID"] = 9524
 	STRING_EN[9524]["KEY"] = "task galaxy ai memo 8"
-	STRING_EN[9524]["VALUE"] = "Accumulatively defeated the 31-40 level artificial intelligence base 5 times in the galaxy"
+	STRING_EN[9524]["VALUE"] = "Accumulative defeating level 31-40 AI base 5 times"
 	STRING_EN[9524]["real_idx"] = 9524
 
 STRING_EN["index"][9525] = 9525
 STRING_EN[9525] = {}
 	STRING_EN[9525]["ID"] = 9525
 	STRING_EN[9525]["KEY"] = "task galaxy ai memo 9"
-	STRING_EN[9525]["VALUE"] = "A total of 5-50 levels of artificial intelligence base in the galaxy"
+	STRING_EN[9525]["VALUE"] = "Accumulative defeating level 41-50 AI base 5 times"
 	STRING_EN[9525]["real_idx"] = 9525
 
 STRING_EN["index"][9526] = 9526
 STRING_EN[9526] = {}
 	STRING_EN[9526]["ID"] = 9526
 	STRING_EN[9526]["KEY"] = "task galaxy ai memo 10"
-	STRING_EN[9526]["VALUE"] = "A total of 10-50 levels of artificial intelligence base in the galaxy"
+	STRING_EN[9526]["VALUE"] = "Accumulative defeating level 41-50 AI base 10 times"
 	STRING_EN[9526]["real_idx"] = 9526
 
 STRING_EN["index"][9527] = 9527
 STRING_EN[9527] = {}
 	STRING_EN[9527]["ID"] = 9527
 	STRING_EN[9527]["KEY"] = "task galaxy ai memo 11"
-	STRING_EN[9527]["VALUE"] = "A total of 5 times of 51-60 artificial intelligence bases in the galaxy"
+	STRING_EN[9527]["VALUE"] = "Accumulative defeating level 51-60 AI base 5 times"
 	STRING_EN[9527]["real_idx"] = 9527
 
 STRING_EN["index"][9528] = 9528
 STRING_EN[9528] = {}
 	STRING_EN[9528]["ID"] = 9528
 	STRING_EN[9528]["KEY"] = "task galaxy ai memo 12"
-	STRING_EN[9528]["VALUE"] = "The total number of 51-60 artificial intelligence bases in the galaxy has been defeated 10 times."
+	STRING_EN[9528]["VALUE"] = "Accumulative defeating level 51-60 AI base 10 times"
 	STRING_EN[9528]["real_idx"] = 9528
 
 STRING_EN["index"][9529] = 9529
 STRING_EN[9529] = {}
 	STRING_EN[9529]["ID"] = 9529
 	STRING_EN[9529]["KEY"] = "task ship level quantity name"
-	STRING_EN[9529]["VALUE"] = "Has a # class ship*"
+	STRING_EN[9529]["VALUE"] = "Own * level # spaceships "
 	STRING_EN[9529]["real_idx"] = 9529
 
 STRING_EN["index"][9530] = 9530
 STRING_EN[9530] = {}
 	STRING_EN[9530]["ID"] = 9530
 	STRING_EN[9530]["KEY"] = "task ship level quantity memo"
-	STRING_EN[9530]["VALUE"] = "The balanced development of the fleet will not let us appear flaws， so that the enemy has a chance!"
+	STRING_EN[9530]["VALUE"] = "Balanced development of the fleet will let us become more perfect， so that the enemy will not have any chance!"
 	STRING_EN[9530]["real_idx"] = 9530
 
 STRING_EN["index"][9531] = 9531
 STRING_EN[9531] = {}
 	STRING_EN[9531]["ID"] = 9531
 	STRING_EN[9531]["KEY"] = "task ship fighting quantity name"
-	STRING_EN[9531]["VALUE"] = "Own #Combat effectiveness ship*"
+	STRING_EN[9531]["VALUE"] = "Own * combat power # spaceships"
 	STRING_EN[9531]["real_idx"] = 9531
 
 STRING_EN["index"][9532] = 9532
 STRING_EN[9532] = {}
 	STRING_EN[9532]["ID"] = 9532
 	STRING_EN[9532]["KEY"] = "task ship fighting quantity memo"
-	STRING_EN[9532]["VALUE"] = "The balanced development of the fleet will not let us appear flaws， so that the enemy has a chance!"
+	STRING_EN[9532]["VALUE"] = "Balanced development of the fleet will let us become more perfect， so that the enemy will not have any chance!"
 	STRING_EN[9532]["real_idx"] = 9532
 
 STRING_EN["index"][9533] = 9533
 STRING_EN[9533] = {}
 	STRING_EN[9533]["ID"] = 9533
 	STRING_EN[9533]["KEY"] = "power_open"
-	STRING_EN[9533]["VALUE"] = "Commander Warfare #open"
+	STRING_EN[9533]["VALUE"] = "Activate after Commander Power reached #"
 	STRING_EN[9533]["real_idx"] = 9533
 
 STRING_EN["index"][9534] = 9534
 STRING_EN[9534] = {}
 	STRING_EN[9534]["ID"] = 9534
 	STRING_EN[9534]["KEY"] = "task weapon name"
-	STRING_EN[9534]["VALUE"] = "Small skill upgrade #times"
+	STRING_EN[9534]["VALUE"] = "Upgrade skills # times"
 	STRING_EN[9534]["real_idx"] = 9534
 
 STRING_EN["index"][9535] = 9535
@@ -66749,154 +66749,154 @@ STRING_EN["index"][9536] = 9536
 STRING_EN[9536] = {}
 	STRING_EN[9536]["ID"] = 9536
 	STRING_EN[9536]["KEY"] = "repair text"
-	STRING_EN[9536]["VALUE"] = "When the ship's durability is lost to 1%， the ship will not be able to participate in the battle."
+	STRING_EN[9536]["VALUE"] = "When the durability of the ship is less than 10%， it can not be able to participate in battles anymore"
 	STRING_EN[9536]["real_idx"] = 9536
 
 STRING_EN["index"][9537] = 9537
 STRING_EN[9537] = {}
 	STRING_EN[9537]["ID"] = 9537
 	STRING_EN[9537]["KEY"] = "formation time"
-	STRING_EN[9537]["VALUE"] = "Number of flying ships"
+	STRING_EN[9537]["VALUE"] = "Number of battle ships"
 	STRING_EN[9537]["real_idx"] = 9537
 
 STRING_EN["index"][9538] = 9538
 STRING_EN[9538] = {}
 	STRING_EN[9538]["ID"] = 9538
 	STRING_EN[9538]["KEY"] = "formation text"
-	STRING_EN[9538]["VALUE"] = "(Swipe up and down to view other ships\n drag the ship avatar to go live)"
+	STRING_EN[9538]["VALUE"] = "(Swipe up and down to view other spaceships\n drag the spaceship to deploy)"
 	STRING_EN[9538]["real_idx"] = 9538
 
 STRING_EN["index"][9539] = 9539
 STRING_EN[9539] = {}
 	STRING_EN[9539]["ID"] = 9539
 	STRING_EN[9539]["KEY"] = "hint"
-	STRING_EN[9539]["VALUE"] = "Prompt"
+	STRING_EN[9539]["VALUE"] = "Note"
 	STRING_EN[9539]["real_idx"] = 9539
 
 STRING_EN["index"][9540] = 9540
 STRING_EN[9540] = {}
 	STRING_EN[9540]["ID"] = 9540
 	STRING_EN[9540]["KEY"] = "foster open"
-	STRING_EN[9540]["VALUE"] = "Commander level reached # level can be opened to train"
+	STRING_EN[9540]["VALUE"] = "Activate training when Commander level reached level #"
 	STRING_EN[9540]["real_idx"] = 9540
 
 STRING_EN["index"][9541] = 9541
 STRING_EN[9541] = {}
 	STRING_EN[9541]["ID"] = 9541
 	STRING_EN[9541]["KEY"] = "kjyj_1"
-	STRING_EN[9541]["VALUE"] = "The Science and Technology Lab is the place to connect to the Alliance's technology information. Learning these technologies can make us even stronger!"
+	STRING_EN[9541]["VALUE"] = "Technology Lab is the place to connect to the Alliance's technology information. Learning these technologies can make us stronger!"
 	STRING_EN[9541]["real_idx"] = 9541
 
 STRING_EN["index"][9542] = 9542
 STRING_EN[9542] = {}
 	STRING_EN[9542]["ID"] = 9542
 	STRING_EN[9542]["KEY"] = "kjyj_2"
-	STRING_EN[9542]["VALUE"] = "There are three types of technology in science and technology， each of which corresponds to a different direction of development!"
+	STRING_EN[9542]["VALUE"] = "There are three types of technologies， each of which corresponds to a different direction of development!"
 	STRING_EN[9542]["real_idx"] = 9542
 
 STRING_EN["index"][9543] = 9543
 STRING_EN[9543] = {}
 	STRING_EN[9543]["ID"] = 9543
 	STRING_EN[9543]["KEY"] = "BuildQueue"
-	STRING_EN[9543]["VALUE"] = "Building queue"
+	STRING_EN[9543]["VALUE"] = "Building Queue"
 	STRING_EN[9543]["real_idx"] = 9543
 
 STRING_EN["index"][9544] = 9544
 STRING_EN[9544] = {}
 	STRING_EN[9544]["ID"] = 9544
 	STRING_EN[9544]["KEY"] = "TechnologyQueue"
-	STRING_EN[9544]["VALUE"] = "Research queue"
+	STRING_EN[9544]["VALUE"] = "Tech R&D Queue"
 	STRING_EN[9544]["real_idx"] = 9544
 
 STRING_EN["index"][9545] = 9545
 STRING_EN[9545] = {}
 	STRING_EN[9545]["ID"] = 9545
 	STRING_EN[9545]["KEY"] = "BlueprintQueue"
-	STRING_EN[9545]["VALUE"] = "blueprint development queue"
+	STRING_EN[9545]["VALUE"] = "Cabin R&D Queue"
 	STRING_EN[9545]["real_idx"] = 9545
 
 STRING_EN["index"][9546] = 9546
 STRING_EN[9546] = {}
 	STRING_EN[9546]["ID"] = 9546
 	STRING_EN[9546]["KEY"] = "SmithingQueue"
-	STRING_EN[9546]["VALUE"] = "Forging queue"
+	STRING_EN[9546]["VALUE"] = "Forging Queue"
 	STRING_EN[9546]["real_idx"] = 9546
 
 STRING_EN["index"][9547] = 9547
 STRING_EN[9547] = {}
 	STRING_EN[9547]["ID"] = 9547
 	STRING_EN[9547]["KEY"] = "RepairQueue"
-	STRING_EN[9547]["VALUE"] = "Repair shop"
+	STRING_EN[9547]["VALUE"] = "Spaceship Workshop "
 	STRING_EN[9547]["real_idx"] = 9547
 
 STRING_EN["index"][9548] = 9548
 STRING_EN[9548] = {}
 	STRING_EN[9548]["ID"] = 9548
 	STRING_EN[9548]["KEY"] = "BuildQueue_des"
-	STRING_EN[9548]["VALUE"] = "Building queue is idle"
+	STRING_EN[9548]["VALUE"] = "Building queue is free"
 	STRING_EN[9548]["real_idx"] = 9548
 
 STRING_EN["index"][9549] = 9549
 STRING_EN[9549] = {}
 	STRING_EN[9549]["ID"] = 9549
 	STRING_EN[9549]["KEY"] = "BuildQueue_des 2"
-	STRING_EN[9549]["VALUE"] = "Paid queue isn't yet open"
+	STRING_EN[9549]["VALUE"] = "Paid building queue is not activated yet"
 	STRING_EN[9549]["real_idx"] = 9549
 
 STRING_EN["index"][9550] = 9550
 STRING_EN[9550] = {}
 	STRING_EN[9550]["ID"] = 9550
 	STRING_EN[9550]["KEY"] = "TechnologyQueue_des"
-	STRING_EN[9550]["VALUE"] = "This queue is idle"
+	STRING_EN[9550]["VALUE"] = "Tech R&D queue is free"
 	STRING_EN[9550]["real_idx"] = 9550
 
 STRING_EN["index"][9551] = 9551
 STRING_EN[9551] = {}
 	STRING_EN[9551]["ID"] = 9551
 	STRING_EN[9551]["KEY"] = "BlueprintQueue_des"
-	STRING_EN[9551]["VALUE"] = "This queue is idle"
+	STRING_EN[9551]["VALUE"] = "Cabin R&D queue is free"
 	STRING_EN[9551]["real_idx"] = 9551
 
 STRING_EN["index"][9552] = 9552
 STRING_EN[9552] = {}
 	STRING_EN[9552]["ID"] = 9552
 	STRING_EN[9552]["KEY"] = "SmithingQueue_des"
-	STRING_EN[9552]["VALUE"] = "Forging queue idle"
+	STRING_EN[9552]["VALUE"] = "Forging queue is free"
 	STRING_EN[9552]["real_idx"] = 9552
 
 STRING_EN["index"][9553] = 9553
 STRING_EN[9553] = {}
 	STRING_EN[9553]["ID"] = 9553
 	STRING_EN[9553]["KEY"] = "RepairQueue_des"
-	STRING_EN[9553]["VALUE"] = "There is a ship being repaired"
+	STRING_EN[9553]["VALUE"] = "There are spaceships being repaired now"
 	STRING_EN[9553]["real_idx"] = 9553
 
 STRING_EN["index"][9554] = 9554
 STRING_EN[9554] = {}
 	STRING_EN[9554]["ID"] = 9554
 	STRING_EN[9554]["KEY"] = "RepairQueue_des 2"
-	STRING_EN[9554]["VALUE"] = "Repair shop in idle"
+	STRING_EN[9554]["VALUE"] = "Spaceship Workshop is free"
 	STRING_EN[9554]["real_idx"] = 9554
 
 STRING_EN["index"][9555] = 9555
 STRING_EN[9555] = {}
 	STRING_EN[9555]["ID"] = 9555
 	STRING_EN[9555]["KEY"] = "task ship name"
-	STRING_EN[9555]["VALUE"] = "Have a Class A ship*"
+	STRING_EN[9555]["VALUE"] = "Own * A class spaceships"
 	STRING_EN[9555]["real_idx"] = 9555
 
 STRING_EN["index"][9556] = 9556
 STRING_EN[9556] = {}
 	STRING_EN[9556]["ID"] = 9556
 	STRING_EN[9556]["KEY"] = "task ship name 2"
-	STRING_EN[9556]["VALUE"] = "Have a Class A ship*"
+	STRING_EN[9556]["VALUE"] = "Own * A class spaceships"
 	STRING_EN[9556]["real_idx"] = 9556
 
 STRING_EN["index"][9557] = 9557
 STRING_EN[9557] = {}
 	STRING_EN[9557]["ID"] = 9557
 	STRING_EN[9557]["KEY"] = "task ship name 3"
-	STRING_EN[9557]["VALUE"] = "Has a S-class ship*"
+	STRING_EN[9557]["VALUE"] = "Own * S class spaceships"
 	STRING_EN[9557]["real_idx"] = 9557
 
 STRING_EN["index"][9558] = 9558
@@ -66910,63 +66910,63 @@ STRING_EN["index"][9559] = 9559
 STRING_EN[9559] = {}
 	STRING_EN[9559]["ID"] = 9559
 	STRING_EN[9559]["KEY"] = "under study"
-	STRING_EN[9559]["VALUE"] = "researching"
+	STRING_EN[9559]["VALUE"] = "In R&D"
 	STRING_EN[9559]["real_idx"] = 9559
 
 STRING_EN["index"][9560] = 9560
 STRING_EN[9560] = {}
 	STRING_EN[9560]["ID"] = 9560
 	STRING_EN[9560]["KEY"] = "building in"
-	STRING_EN[9560]["VALUE"] = "In the building"
+	STRING_EN[9560]["VALUE"] = "Under construction"
 	STRING_EN[9560]["real_idx"] = 9560
 
 STRING_EN["index"][9561] = 9561
 STRING_EN[9561] = {}
 	STRING_EN[9561]["ID"] = 9561
 	STRING_EN[9561]["KEY"] = "blueprint complete"
-	STRING_EN[9561]["VALUE"] = "blueprint development has been completed"
+	STRING_EN[9561]["VALUE"] = "Cabin R&D completed"
 	STRING_EN[9561]["real_idx"] = 9561
 
 STRING_EN["index"][9562] = 9562
 STRING_EN[9562] = {}
 	STRING_EN[9562]["ID"] = 9562
 	STRING_EN[9562]["KEY"] = "leisure in"
-	STRING_EN[9562]["VALUE"] = "In idle"
+	STRING_EN[9562]["VALUE"] = "Free"
 	STRING_EN[9562]["real_idx"] = 9562
 
 STRING_EN["index"][9563] = 9563
 STRING_EN[9563] = {}
 	STRING_EN[9563]["ID"] = 9563
 	STRING_EN[9563]["KEY"] = "forge complete"
-	STRING_EN[9563]["VALUE"] = "Equipment forging has been completed"
+	STRING_EN[9563]["VALUE"] = "Equipment forging completed"
 	STRING_EN[9563]["real_idx"] = 9563
 
 STRING_EN["index"][9564] = 9564
 STRING_EN[9564] = {}
 	STRING_EN[9564]["ID"] = 9564
 	STRING_EN[9564]["KEY"] = "unclaimed"
-	STRING_EN[9564]["VALUE"] = "unaccalimed"
+	STRING_EN[9564]["VALUE"] = "Unclaimed"
 	STRING_EN[9564]["real_idx"] = 9564
 
 STRING_EN["index"][9565] = 9565
 STRING_EN[9565] = {}
 	STRING_EN[9565]["ID"] = 9565
 	STRING_EN[9565]["KEY"] = "chat open"
-	STRING_EN[9565]["VALUE"] = "Level Arrival # can be used for world chat"
+	STRING_EN[9565]["VALUE"] = "Activate World chat at level #"
 	STRING_EN[9565]["real_idx"] = 9565
 
 STRING_EN["index"][9566] = 9566
 STRING_EN[9566] = {}
 	STRING_EN[9566]["ID"] = 9566
 	STRING_EN[9566]["KEY"] = "chat open 2"
-	STRING_EN[9566]["VALUE"] = "Level reached # can be private chat"
+	STRING_EN[9566]["VALUE"] = "Activate Personal Message at level #"
 	STRING_EN[9566]["real_idx"] = 9566
 
 STRING_EN["index"][9567] = 9567
 STRING_EN[9567] = {}
 	STRING_EN[9567]["ID"] = 9567
 	STRING_EN[9567]["KEY"] = "chat open 3"
-	STRING_EN[9567]["VALUE"] = "Level Arrival # can be used to chat with covenant"
+	STRING_EN[9567]["VALUE"] = "Activate Alliance chat at level #"
 	STRING_EN[9567]["real_idx"] = 9567
 
 STRING_EN["index"][9568] = 9568
@@ -66980,42 +66980,42 @@ STRING_EN["index"][9569] = 9569
 STRING_EN[9569] = {}
 	STRING_EN[9569]["ID"] = 9569
 	STRING_EN[9569]["KEY"] = "PC_N1002"
-	STRING_EN[9569]["VALUE"] = "Zerg warrior"
+	STRING_EN[9569]["VALUE"] = "Zerg Warrior"
 	STRING_EN[9569]["real_idx"] = 9569
 
 STRING_EN["index"][9570] = 9570
 STRING_EN[9570] = {}
 	STRING_EN[9570]["ID"] = 9570
 	STRING_EN[9570]["KEY"] = "PC_N2003"
-	STRING_EN[9570]["VALUE"] = "Zerg elite"
+	STRING_EN[9570]["VALUE"] = "Elite Zerg"
 	STRING_EN[9570]["real_idx"] = 9570
 
 STRING_EN["index"][9571] = 9571
 STRING_EN[9571] = {}
 	STRING_EN[9571]["ID"] = 9571
 	STRING_EN[9571]["KEY"] = "PC_N2004"
-	STRING_EN[9571]["VALUE"] = "Variant variant"
+	STRING_EN[9571]["VALUE"] = "Mutant Zerg"
 	STRING_EN[9571]["real_idx"] = 9571
 
 STRING_EN["index"][9572] = 9572
 STRING_EN[9572] = {}
 	STRING_EN[9572]["ID"] = 9572
 	STRING_EN[9572]["KEY"] = "PC_N3005"
-	STRING_EN[9572]["VALUE"] = "Alien monster"
+	STRING_EN[9572]["VALUE"] = "Monster Zerg"
 	STRING_EN[9572]["real_idx"] = 9572
 
 STRING_EN["index"][9573] = 9573
 STRING_EN[9573] = {}
 	STRING_EN[9573]["ID"] = 9573
 	STRING_EN[9573]["KEY"] = "PC_N3006"
-	STRING_EN[9573]["VALUE"] = "Zerg crawler"
+	STRING_EN[9573]["VALUE"] = "Zerg Crawler"
 	STRING_EN[9573]["real_idx"] = 9573
 
 STRING_EN["index"][9574] = 9574
 STRING_EN[9574] = {}
 	STRING_EN[9574]["ID"] = 9574
 	STRING_EN[9574]["KEY"] = "PC_N4007"
-	STRING_EN[9574]["VALUE"] = "Zerg Rogue"
+	STRING_EN[9574]["VALUE"] = "Zerg Straggler"
 	STRING_EN[9574]["real_idx"] = 9574
 
 STRING_EN["index"][9575] = 9575
@@ -67029,14 +67029,14 @@ STRING_EN["index"][9576] = 9576
 STRING_EN[9576] = {}
 	STRING_EN[9576]["ID"] = 9576
 	STRING_EN[9576]["KEY"] = "PC_N5009"
-	STRING_EN[9576]["VALUE"] = "Zerg lurker"
+	STRING_EN[9576]["VALUE"] = "Zerg Lurker"
 	STRING_EN[9576]["real_idx"] = 9576
 
 STRING_EN["index"][9577] = 9577
 STRING_EN[9577] = {}
 	STRING_EN[9577]["ID"] = 9577
 	STRING_EN[9577]["KEY"] = "PC_N5010"
-	STRING_EN[9577]["VALUE"] = "Zerg patrol"
+	STRING_EN[9577]["VALUE"] = "Zerg Watchkeeper"
 	STRING_EN[9577]["real_idx"] = 9577
 
 STRING_EN["index"][9578] = 9578
@@ -67050,42 +67050,42 @@ STRING_EN["index"][9579] = 9579
 STRING_EN[9579] = {}
 	STRING_EN[9579]["ID"] = 9579
 	STRING_EN[9579]["KEY"] = "PC_M1002"
-	STRING_EN[9579]["VALUE"] = "It doesn't look anything special， but it's still careful."
+	STRING_EN[9579]["VALUE"] = "It looks nothing special， but it's still better to be careful"
 	STRING_EN[9579]["real_idx"] = 9579
 
 STRING_EN["index"][9580] = 9580
 STRING_EN[9580] = {}
 	STRING_EN[9580]["ID"] = 9580
 	STRING_EN[9580]["KEY"] = "PC_M2003"
-	STRING_EN[9580]["VALUE"] = "Now watch it sprout， then it will look at you sprouting."
+	STRING_EN[9580]["VALUE"] = "They might look puniness to you now， but you will be puniness for them afterwards"
 	STRING_EN[9580]["real_idx"] = 9580
 
 STRING_EN["index"][9581] = 9581
 STRING_EN[9581] = {}
 	STRING_EN[9581]["ID"] = 9581
 	STRING_EN[9581]["KEY"] = "PC_M2004"
-	STRING_EN[9581]["VALUE"] = "Any creature close to them will be treated as a different kind"
+	STRING_EN[9581]["VALUE"] = "Any creature who wants getting close to them will be treated as a different kind"
 	STRING_EN[9581]["real_idx"] = 9581
 
 STRING_EN["index"][9582] = 9582
 STRING_EN[9582] = {}
 	STRING_EN[9582]["ID"] = 9582
 	STRING_EN[9582]["KEY"] = "PC_M3005"
-	STRING_EN[9582]["VALUE"] = "You are a poor creature， not worth living in this universe."
+	STRING_EN[9582]["VALUE"] = "You poor creatures are not worth living in this universe"
 	STRING_EN[9582]["real_idx"] = 9582
 
 STRING_EN["index"][9583] = 9583
 STRING_EN[9583] = {}
 	STRING_EN[9583]["ID"] = 9583
 	STRING_EN[9583]["KEY"] = "PC_M3006"
-	STRING_EN[9583]["VALUE"] = "a milder class in the Zerg， but don't mess with him."
+	STRING_EN[9583]["VALUE"] = "A gentle species from Zergs， but don't mess with them"
 	STRING_EN[9583]["real_idx"] = 9583
 
 STRING_EN["index"][9584] = 9584
 STRING_EN[9584] = {}
 	STRING_EN[9584]["ID"] = 9584
 	STRING_EN[9584]["KEY"] = "PC_M4007"
-	STRING_EN[9584]["VALUE"] = "Zerg claimed to be the first in wisdom"
+	STRING_EN[9584]["VALUE"] = "They claimed they are the top one of wisdom among Zergs"
 	STRING_EN[9584]["real_idx"] = 9584
 
 STRING_EN["index"][9585] = 9585
@@ -67099,280 +67099,280 @@ STRING_EN["index"][9586] = 9586
 STRING_EN[9586] = {}
 	STRING_EN[9586]["ID"] = 9586
 	STRING_EN[9586]["KEY"] = "PC_M5009"
-	STRING_EN[9586]["VALUE"] = "They are hunters hidden in the depths of the universe， don't be stared at them."
+	STRING_EN[9586]["VALUE"] = "They are hunters hidden in the depths of the universe， don't be targeted by them"
 	STRING_EN[9586]["real_idx"] = 9586
 
 STRING_EN["index"][9587] = 9587
 STRING_EN[9587] = {}
 	STRING_EN[9587]["ID"] = 9587
 	STRING_EN[9587]["KEY"] = "PC_M5010"
-	STRING_EN[9587]["VALUE"] = "Come without a trace， go without a trace， maybe they don’t belong to this world"
+	STRING_EN[9587]["VALUE"] = "Come and go without a trace， maybe they don’t belong to this world"
 	STRING_EN[9587]["real_idx"] = 9587
 
 STRING_EN["index"][9588] = 9588
 STRING_EN[9588] = {}
 	STRING_EN[9588]["ID"] = 9588
 	STRING_EN[9588]["KEY"] = "CREEPS BATTLEFIELD REPORT"
-	STRING_EN[9588]["VALUE"] = "Wild monster"
+	STRING_EN[9588]["VALUE"] = "Wild monster Report"
 	STRING_EN[9588]["real_idx"] = 9588
 
 STRING_EN["index"][9589] = 9589
 STRING_EN[9589] = {}
 	STRING_EN[9589]["ID"] = 9589
 	STRING_EN[9589]["KEY"] = "BATTLEFIELD REPORT TITLE"
-	STRING_EN[9589]["VALUE"] = "Combat report"
+	STRING_EN[9589]["VALUE"] = "Battle Report"
 	STRING_EN[9589]["real_idx"] = 9589
 
 STRING_EN["index"][9590] = 9590
 STRING_EN[9590] = {}
 	STRING_EN[9590]["ID"] = 9590
 	STRING_EN[9590]["KEY"] = "BATTLEFIELD REPORT TEXT"
-	STRING_EN[9590]["VALUE"] = "You went to attack #1#"
+	STRING_EN[9590]["VALUE"] = "You attacked #1#"
 	STRING_EN[9590]["real_idx"] = 9590
 
 STRING_EN["index"][9591] = 9591
 STRING_EN[9591] = {}
 	STRING_EN[9591]["ID"] = 9591
 	STRING_EN[9591]["KEY"] = "ATTACK SUCCESS"
-	STRING_EN[9591]["VALUE"] = "Killed successfully"
+	STRING_EN[9591]["VALUE"] = "Successfully slain"
 	STRING_EN[9591]["real_idx"] = 9591
 
 STRING_EN["index"][9592] = 9592
 STRING_EN[9592] = {}
 	STRING_EN[9592]["ID"] = 9592
 	STRING_EN[9592]["KEY"] = "ATTACK FAILURE"
-	STRING_EN[9592]["VALUE"] = "Kill failed"
+	STRING_EN[9592]["VALUE"] = "Failed to slay"
 	STRING_EN[9592]["real_idx"] = 9592
 
 STRING_EN["index"][9593] = 9593
 STRING_EN[9593] = {}
 	STRING_EN[9593]["ID"] = 9593
 	STRING_EN[9593]["KEY"] = "share gift name"
-	STRING_EN[9593]["VALUE"] = "Sharing package"
+	STRING_EN[9593]["VALUE"] = "Sharing Gift Pack"
 	STRING_EN[9593]["real_idx"] = 9593
 
 STRING_EN["index"][9594] = 9594
 STRING_EN[9594] = {}
 	STRING_EN[9594]["ID"] = 9594
 	STRING_EN[9594]["KEY"] = "libaoyixiajia"
-	STRING_EN[9594]["VALUE"] = "The package has been removed"
+	STRING_EN[9594]["VALUE"] = "Not available "
 	STRING_EN[9594]["real_idx"] = 9594
 
 STRING_EN["index"][9595] = 9595
 STRING_EN[9595] = {}
 	STRING_EN[9595]["ID"] = 9595
 	STRING_EN[9595]["KEY"] = "goumaishibai"
-	STRING_EN[9595]["VALUE"] = "Failed purchase"
+	STRING_EN[9595]["VALUE"] = "Failed to purchase"
 	STRING_EN[9595]["real_idx"] = 9595
 
 STRING_EN["index"][9596] = 9596
 STRING_EN[9596] = {}
 	STRING_EN[9596]["ID"] = 9596
 	STRING_EN[9596]["KEY"] = "xingmengfenxiangtishi"
-	STRING_EN[9596]["VALUE"] = "After joining the covenant， you can purchase a gift package， and you can also get a covenant sharing package with the covenant members."
+	STRING_EN[9596]["VALUE"] = "Purchase Gift Pack after joined an Alliance can get an extra Alliance sharing Gift Pack for Alliance members and yourself"
 	STRING_EN[9596]["real_idx"] = 9596
 
 STRING_EN["index"][9597] = 9597
 STRING_EN[9597] = {}
 	STRING_EN[9597]["ID"] = 9597
 	STRING_EN[9597]["KEY"] = "libao"
-	STRING_EN[9597]["VALUE"] = "Gift package"
+	STRING_EN[9597]["VALUE"] = "Gift Pack"
 	STRING_EN[9597]["real_idx"] = 9597
 
 STRING_EN["index"][9598] = 9598
 STRING_EN[9598] = {}
 	STRING_EN[9598]["ID"] = 9598
 	STRING_EN[9598]["KEY"] = "goumaidaojishi"
-	STRING_EN[9598]["VALUE"] = "Purchase countdown"
+	STRING_EN[9598]["VALUE"] = "Purchase remaining time"
 	STRING_EN[9598]["real_idx"] = 9598
 
 STRING_EN["index"][9599] = 9599
 STRING_EN[9599] = {}
 	STRING_EN[9599]["ID"] = 9599
 	STRING_EN[9599]["KEY"] = "creeps caution"
-	STRING_EN[9599]["VALUE"] = "Beat Lv$level$name before you can challenge me."
+	STRING_EN[9599]["VALUE"] = "Defeat Lv$ $ before challenging me"
 	STRING_EN[9599]["real_idx"] = 9599
 
 STRING_EN["index"][9600] = 9600
 STRING_EN[9600] = {}
 	STRING_EN[9600]["ID"] = 9600
 	STRING_EN[9600]["KEY"] = "recommend"
-	STRING_EN[9600]["VALUE"] = "Recommended"
+	STRING_EN[9600]["VALUE"] = "Recommend"
 	STRING_EN[9600]["real_idx"] = 9600
 
 STRING_EN["index"][9601] = 9601
 STRING_EN[9601] = {}
 	STRING_EN[9601]["ID"] = 9601
 	STRING_EN[9601]["KEY"] = "monster_1"
-	STRING_EN[9601]["VALUE"] = "In the depths of the universe， there are hidden unknowns. If the other party is an unidentified creature of danger and horror， killing them will have a windfall."
+	STRING_EN[9601]["VALUE"] = "In the depths of the universe， there are hidden unknowns everywhere. If you found unknown creature full of danger and horror， slay them and you will have unexpected gains."
 	STRING_EN[9601]["real_idx"] = 9601
 
 STRING_EN["index"][9602] = 9602
 STRING_EN[9602] = {}
 	STRING_EN[9602]["ID"] = 9602
 	STRING_EN[9602]["KEY"] = "loading_text_1"
-	STRING_EN[9602]["VALUE"] = "You can view the battle report in the mail!"
+	STRING_EN[9602]["VALUE"] = "View battle reports in mail!"
 	STRING_EN[9602]["real_idx"] = 9602
 
 STRING_EN["index"][9603] = 9603
 STRING_EN[9603] = {}
 	STRING_EN[9603]["ID"] = 9603
 	STRING_EN[9603]["KEY"] = "loading_text_2"
-	STRING_EN[9603]["VALUE"] = "The resources protected in the warehouse will not be plundered by others!"
+	STRING_EN[9603]["VALUE"] = "Resources that are protected in Warehouse will not be plundered by others!"
 	STRING_EN[9603]["real_idx"] = 9603
 
 STRING_EN["index"][9604] = 9604
 STRING_EN[9604] = {}
 	STRING_EN[9604]["ID"] = 9604
 	STRING_EN[9604]["KEY"] = "loading_text_3"
-	STRING_EN[9604]["VALUE"] = "After logging in every day， remember to harvest the resources in your home!"
+	STRING_EN[9604]["VALUE"] = "Remember to collect the resources in your homebase everyday!"
 	STRING_EN[9604]["real_idx"] = 9604
 
 STRING_EN["index"][9605] = 9605
 STRING_EN[9605] = {}
 	STRING_EN[9605]["ID"] = 9605
 	STRING_EN[9605]["KEY"] = "loading_text_4"
-	STRING_EN[9605]["VALUE"] = "Improve the level of the command center as soon as possible， so as to improve the speed of urban construction!"
+	STRING_EN[9605]["VALUE"] = "Improve the level of the command center as soon as possible， so the speed of homebase construction can be increased!"
 	STRING_EN[9605]["real_idx"] = 9605
 
 STRING_EN["index"][9606] = 9606
 STRING_EN[9606] = {}
 	STRING_EN[9606]["ID"] = 9606
 	STRING_EN[9606]["KEY"] = "loading_text_5"
-	STRING_EN[9606]["VALUE"] = "If you are tired of playing a instance， you can try the universe!"
+	STRING_EN[9606]["VALUE"] = "If you are tired of conquering Instances， you can try to look around in the galaxy!"
 	STRING_EN[9606]["real_idx"] = 9606
 
 STRING_EN["index"][9607] = 9607
 STRING_EN[9607] = {}
 	STRING_EN[9607]["ID"] = 9607
 	STRING_EN[9607]["KEY"] = "loading_text_6"
-	STRING_EN[9607]["VALUE"] = "Get S-class and SS-class ship to make you invincible!"
+	STRING_EN[9607]["VALUE"] = "Get S-class and SS-class spaceships to make you invincible!"
 	STRING_EN[9607]["real_idx"] = 9607
 
 STRING_EN["index"][9608] = 9608
 STRING_EN[9608] = {}
 	STRING_EN[9608]["ID"] = 9608
 	STRING_EN[9608]["KEY"] = "loading_text_7"
-	STRING_EN[9608]["VALUE"] = "If you get a quality ship， try to improve the ES level!"
+	STRING_EN[9608]["VALUE"] = "If you get advanced spaceships， try to improve the Energy Slot level!"
 	STRING_EN[9608]["real_idx"] = 9608
 
 STRING_EN["index"][9609] = 9609
 STRING_EN[9609] = {}
 	STRING_EN[9609]["ID"] = 9609
 	STRING_EN[9609]["KEY"] = "loading_text_8"
-	STRING_EN[9609]["VALUE"] = "Joining covenant quickly can make you no longer alone in the soaring universe!"
+	STRING_EN[9609]["VALUE"] = "Join an Alliance can make you no longer alone in the galaxy!"
 	STRING_EN[9609]["real_idx"] = 9609
 
 STRING_EN["index"][9610] = 9610
 STRING_EN[9610] = {}
 	STRING_EN[9610]["ID"] = 9610
 	STRING_EN[9610]["KEY"] = "loading_text_9"
-	STRING_EN[9610]["VALUE"] = "Get a good reward for completing daily tasks every day!"
+	STRING_EN[9610]["VALUE"] = "Complete daily missions to get good rewards!"
 	STRING_EN[9610]["real_idx"] = 9610
 
 STRING_EN["index"][9611] = 9611
 STRING_EN[9611] = {}
 	STRING_EN[9611]["ID"] = 9611
 	STRING_EN[9611]["KEY"] = "loading_text_10"
-	STRING_EN[9611]["VALUE"] = "Reasonably match the ship lineup to make your battle even better!"
+	STRING_EN[9611]["VALUE"] = "Rational matching spaceship formation to make your battle better!"
 	STRING_EN[9611]["real_idx"] = 9611
 
 STRING_EN["index"][9612] = 9612
 STRING_EN[9612] = {}
 	STRING_EN[9612]["ID"] = 9612
 	STRING_EN[9612]["KEY"] = "loading_text_11"
-	STRING_EN[9612]["VALUE"] = "Give each ship a skill that suits it to get the most out of it!"
+	STRING_EN[9612]["VALUE"] = "Equip suitable skills for your ships to make your ships release all the potentials!"
 	STRING_EN[9612]["real_idx"] = 9612
 
 STRING_EN["index"][9613] = 9613
 STRING_EN[9613] = {}
 	STRING_EN[9613]["ID"] = 9613
 	STRING_EN[9613]["KEY"] = "loading_text_12"
-	STRING_EN[9613]["VALUE"] = "In the universe， assembling allies to fight can defeat enemies stronger than you!"
+	STRING_EN[9613]["VALUE"] = "Assemble allies to defeat enemies stronger than you!"
 	STRING_EN[9613]["real_idx"] = 9613
 
 STRING_EN["index"][9614] = 9614
 STRING_EN[9614] = {}
 	STRING_EN[9614]["ID"] = 9614
 	STRING_EN[9614]["KEY"] = "loading_text_13"
-	STRING_EN[9614]["VALUE"] = "The squid jumps into the dragon door， and the salted fish wants to turn over!"
+	STRING_EN[9614]["VALUE"] = "Carp leaping into the Dragon's Gate， and the salted fish wants to turn over!"
 	STRING_EN[9614]["real_idx"] = 9614
 
 STRING_EN["index"][9615] = 9615
 STRING_EN[9615] = {}
 	STRING_EN[9615]["ID"] = 9615
 	STRING_EN[9615]["KEY"] = "loading_text_14"
-	STRING_EN[9615]["VALUE"] = "Impulse is the devil， hesitating too!"
+	STRING_EN[9615]["VALUE"] = "Impulse is the devil， hesitation is the same!"
 	STRING_EN[9615]["real_idx"] = 9615
 
 STRING_EN["index"][9616] = 9616
 STRING_EN[9616] = {}
 	STRING_EN[9616]["ID"] = 9616
 	STRING_EN[9616]["KEY"] = "loading_text_15"
-	STRING_EN[9616]["VALUE"] = "After the building has been upgraded for a certain period of time， you can use the free feature!"
+	STRING_EN[9616]["VALUE"] = "Use free upgrade function when the upgrade remaining time reaches a certain value!"
 	STRING_EN[9616]["real_idx"] = 9616
 
 STRING_EN["index"][9617] = 9617
 STRING_EN[9617] = {}
 	STRING_EN[9617]["ID"] = 9617
 	STRING_EN[9617]["KEY"] = "VIP_text_1"
-	STRING_EN[9617]["VALUE"] = "Accumulated recharge \n # credit activation"
+	STRING_EN[9617]["VALUE"] = "Activate after accumulated top-up reaches # Diamonds"
 	STRING_EN[9617]["real_idx"] = 9617
 
 STRING_EN["index"][9618] = 9618
 STRING_EN[9618] = {}
 	STRING_EN[9618]["ID"] = 9618
 	STRING_EN[9618]["KEY"] = "VIP_text_2"
-	STRING_EN[9618]["VALUE"] = "Can increase the output \n of home resources#%"
+	STRING_EN[9618]["VALUE"] = "Increase the output of homebase #%"
 	STRING_EN[9618]["real_idx"] = 9618
 
 STRING_EN["index"][9619] = 9619
 STRING_EN[9619] = {}
 	STRING_EN[9619]["ID"] = 9619
 	STRING_EN[9619]["KEY"] = "VIP_text_3"
-	STRING_EN[9619]["VALUE"] = "Buy #Times physical strength \n daily"
+	STRING_EN[9619]["VALUE"] = "Purchase Stamina # times by day"
 	STRING_EN[9619]["real_idx"] = 9619
 
 STRING_EN["index"][9620] = 9620
 STRING_EN[9620] = {}
 	STRING_EN[9620]["ID"] = 9620
 	STRING_EN[9620]["KEY"] = "VIP_text_4"
-	STRING_EN[9620]["VALUE"] = "Can improve the development of \n the ship blueprint crit summary rate #%"
+	STRING_EN[9620]["VALUE"] = "Increase #% probability of Spaceship Crit during Cabin R&D"
 	STRING_EN[9620]["real_idx"] = 9620
 
 STRING_EN["index"][9621] = 9621
 STRING_EN[9621] = {}
 	STRING_EN[9621]["ID"] = 9621
 	STRING_EN[9621]["KEY"] = "VIP_text_5"
-	STRING_EN[9621]["VALUE"] = "Reduce building upgrade \n time # (seconds)"
+	STRING_EN[9621]["VALUE"] = "Deduct building upgrading time # (seconds)"
 	STRING_EN[9621]["real_idx"] = 9621
 
 STRING_EN["index"][9622] = 9622
 STRING_EN[9622] = {}
 	STRING_EN[9622]["ID"] = 9622
 	STRING_EN[9622]["KEY"] = "VIP_text_6"
-	STRING_EN[9622]["VALUE"] = "Monthly replenishment \n number#"
+	STRING_EN[9622]["VALUE"] = "Available re-sign-in # times by month"
 	STRING_EN[9622]["real_idx"] = 9622
 
 STRING_EN["index"][9623] = 9623
 STRING_EN[9623] = {}
 	STRING_EN[9623]["ID"] = 9623
 	STRING_EN[9623]["KEY"] = "VIP_text_7"
-	STRING_EN[9623]["VALUE"] = "Daily Star Trek Credits \n Lottery #"
+	STRING_EN[9623]["VALUE"] = "Draws by Diamonds at Starport # times by day"
 	STRING_EN[9623]["real_idx"] = 9623
 
 STRING_EN["index"][9624] = 9624
 STRING_EN[9624] = {}
 	STRING_EN[9624]["ID"] = 9624
 	STRING_EN[9624]["KEY"] = "VIP_text_8"
-	STRING_EN[9624]["VALUE"] = "Can receive VIP# free gift \n pack"
+	STRING_EN[9624]["VALUE"] = "Receive free VIP # exclusive Gift Pack"
 	STRING_EN[9624]["real_idx"] = 9624
 
 STRING_EN["index"][9625] = 9625
 STRING_EN[9625] = {}
 	STRING_EN[9625]["ID"] = 9625
 	STRING_EN[9625]["KEY"] = "VIP_text_9"
-	STRING_EN[9625]["VALUE"] = "VIP# exclusive package can \n be purchased"
+	STRING_EN[9625]["VALUE"] = "Purchase VIP# exclusive Gift Pack "
 	STRING_EN[9625]["real_idx"] = 9625
 
 STRING_EN["index"][9626] = 9626
@@ -67386,119 +67386,119 @@ STRING_EN["index"][9627] = 9627
 STRING_EN[9627] = {}
 	STRING_EN[9627]["ID"] = 9627
 	STRING_EN[9627]["KEY"] = "VIP_key_text_2"
-	STRING_EN[9627]["VALUE"] = "Privilege"
+	STRING_EN[9627]["VALUE"] = "VIP Privileges"
 	STRING_EN[9627]["real_idx"] = 9627
 
 STRING_EN["index"][9628] = 9628
 STRING_EN[9628] = {}
 	STRING_EN[9628]["ID"] = 9628
 	STRING_EN[9628]["KEY"] = "VIP_key_text_3"
-	STRING_EN[9628]["VALUE"] = "Exclusive gift package"
+	STRING_EN[9628]["VALUE"] = "VIP Exclusive Gift Pack"
 	STRING_EN[9628]["real_idx"] = 9628
 
 STRING_EN["index"][9629] = 9629
 STRING_EN[9629] = {}
 	STRING_EN[9629]["ID"] = 9629
 	STRING_EN[9629]["KEY"] = "DAILY_TASK_7016"
-	STRING_EN[9629]["VALUE"] = "Collect resource mines once"
+	STRING_EN[9629]["VALUE"] = "Exploit resource mine 1 time"
 	STRING_EN[9629]["real_idx"] = 9629
 
 STRING_EN["index"][9630] = 9630
 STRING_EN[9630] = {}
 	STRING_EN[9630]["ID"] = 9630
 	STRING_EN[9630]["KEY"] = "DAILY_TASK_7017"
-	STRING_EN[9630]["VALUE"] = "Destroy the planet belt once"
+	STRING_EN[9630]["VALUE"] = "Destroy astroid belt 1 time"
 	STRING_EN[9630]["real_idx"] = 9630
 
 STRING_EN["index"][9631] = 9631
 STRING_EN[9631] = {}
 	STRING_EN[9631]["ID"] = 9631
 	STRING_EN[9631]["KEY"] = "DAILY_TASK_7018"
-	STRING_EN[9631]["VALUE"] = "Salvage the wreck 1 time"
+	STRING_EN[9631]["VALUE"] = "Salvage wreckage 1 time"
 	STRING_EN[9631]["real_idx"] = 9631
 
 STRING_EN["index"][9632] = 9632
 STRING_EN[9632] = {}
 	STRING_EN[9632]["ID"] = 9632
 	STRING_EN[9632]["KEY"] = "DAILY_TASK_7019"
-	STRING_EN[9632]["VALUE"] = "Attack artificial intelligence base once"
+	STRING_EN[9632]["VALUE"] = "Attack AI base 1 time"
 	STRING_EN[9632]["real_idx"] = 9632
 
 STRING_EN["index"][9633] = 9633
 STRING_EN[9633] = {}
 	STRING_EN[9633]["ID"] = 9633
 	STRING_EN[9633]["KEY"] = "DAILY_TASK_7020"
-	STRING_EN[9633]["VALUE"] = "Attack another person's space station once"
+	STRING_EN[9633]["VALUE"] = "Attack other player's space station 1 time"
 	STRING_EN[9633]["real_idx"] = 9633
 
 STRING_EN["index"][9634] = 9634
 STRING_EN[9634] = {}
 	STRING_EN[9634]["ID"] = 9634
 	STRING_EN[9634]["KEY"] = "DAILY_TASK_7021"
-	STRING_EN[9634]["VALUE"] = "Kill the monster 1 time"
+	STRING_EN[9634]["VALUE"] = "Slay wild monster 1 time"
 	STRING_EN[9634]["real_idx"] = 9634
 
 STRING_EN["index"][9635] = 9635
 STRING_EN[9635] = {}
 	STRING_EN[9635]["ID"] = 9635
 	STRING_EN[9635]["KEY"] = "M_DAILY_TASK_7016"
-	STRING_EN[9635]["VALUE"] = "Collect resource mines once"
+	STRING_EN[9635]["VALUE"] = "Exploit resource mine 1 time"
 	STRING_EN[9635]["real_idx"] = 9635
 
 STRING_EN["index"][9636] = 9636
 STRING_EN[9636] = {}
 	STRING_EN[9636]["ID"] = 9636
 	STRING_EN[9636]["KEY"] = "M_DAILY_TASK_7017"
-	STRING_EN[9636]["VALUE"] = "Destroy the planet belt once"
+	STRING_EN[9636]["VALUE"] = "Destroy astroid belt 1 time"
 	STRING_EN[9636]["real_idx"] = 9636
 
 STRING_EN["index"][9637] = 9637
 STRING_EN[9637] = {}
 	STRING_EN[9637]["ID"] = 9637
 	STRING_EN[9637]["KEY"] = "M_DAILY_TASK_7018"
-	STRING_EN[9637]["VALUE"] = "Salvage the wreck 1 time"
+	STRING_EN[9637]["VALUE"] = "Salvage wreckage 1 time"
 	STRING_EN[9637]["real_idx"] = 9637
 
 STRING_EN["index"][9638] = 9638
 STRING_EN[9638] = {}
 	STRING_EN[9638]["ID"] = 9638
 	STRING_EN[9638]["KEY"] = "M_DAILY_TASK_7019"
-	STRING_EN[9638]["VALUE"] = "Attack artificial intelligence base once"
+	STRING_EN[9638]["VALUE"] = "Attack AI base 1 time"
 	STRING_EN[9638]["real_idx"] = 9638
 
 STRING_EN["index"][9639] = 9639
 STRING_EN[9639] = {}
 	STRING_EN[9639]["ID"] = 9639
 	STRING_EN[9639]["KEY"] = "M_DAILY_TASK_7020"
-	STRING_EN[9639]["VALUE"] = "Attack another person's space station once"
+	STRING_EN[9639]["VALUE"] = "Attack other player's space station 1 time"
 	STRING_EN[9639]["real_idx"] = 9639
 
 STRING_EN["index"][9640] = 9640
 STRING_EN[9640] = {}
 	STRING_EN[9640]["ID"] = 9640
 	STRING_EN[9640]["KEY"] = "M_DAILY_TASK_7021"
-	STRING_EN[9640]["VALUE"] = "Kill the monster 1 time"
+	STRING_EN[9640]["VALUE"] = "Slay wild monster 1 time"
 	STRING_EN[9640]["real_idx"] = 9640
 
 STRING_EN["index"][9641] = 9641
 STRING_EN[9641] = {}
 	STRING_EN[9641]["ID"] = 9641
 	STRING_EN[9641]["KEY"] = "Strongpoint_throne"
-	STRING_EN[9641]["VALUE"] = "Star Throne"
+	STRING_EN[9641]["VALUE"] = "Interstellar Throne"
 	STRING_EN[9641]["real_idx"] = 9641
 
 STRING_EN["index"][9642] = 9642
 STRING_EN[9642] = {}
 	STRING_EN[9642]["ID"] = 9642
 	STRING_EN[9642]["KEY"] = "admission"
-	STRING_EN[9642]["VALUE"] = "Entering"
+	STRING_EN[9642]["VALUE"] = "Station"
 	STRING_EN[9642]["real_idx"] = 9642
 
 STRING_EN["index"][9643] = 9643
 STRING_EN[9643] = {}
 	STRING_EN[9643]["ID"] = 9643
 	STRING_EN[9643]["KEY"] = "throne_state"
-	STRING_EN[9643]["VALUE"] = "Throne state"
+	STRING_EN[9643]["VALUE"] = "Throne Status"
 	STRING_EN[9643]["real_idx"] = 9643
 
 STRING_EN["index"][9644] = 9644
@@ -67526,7 +67526,7 @@ STRING_EN["index"][9647] = 9647
 STRING_EN[9647] = {}
 	STRING_EN[9647]["ID"] = 9647
 	STRING_EN[9647]["KEY"] = "title_2"
-	STRING_EN[9647]["VALUE"] = "Title"
+	STRING_EN[9647]["VALUE"] = "Sub Title"
 	STRING_EN[9647]["real_idx"] = 9647
 
 STRING_EN["index"][9648] = 9648
@@ -67540,7 +67540,7 @@ STRING_EN["index"][9649] = 9649
 STRING_EN[9649] = {}
 	STRING_EN[9649]["ID"] = 9649
 	STRING_EN[9649]["KEY"] = "seven_deadly_sins"
-	STRING_EN[9649]["VALUE"] = "Seven sins"
+	STRING_EN[9649]["VALUE"] = "Seven Deadly Sins"
 	STRING_EN[9649]["real_idx"] = 9649
 
 STRING_EN["index"][9650] = 9650
@@ -67554,7 +67554,7 @@ STRING_EN["index"][9651] = 9651
 STRING_EN[9651] = {}
 	STRING_EN[9651]["ID"] = 9651
 	STRING_EN[9651]["KEY"] = "appointment"
-	STRING_EN[9651]["VALUE"] = "Appointment"
+	STRING_EN[9651]["VALUE"] = "Appoint"
 	STRING_EN[9651]["real_idx"] = 9651
 
 STRING_EN["index"][9652] = 9652
@@ -67568,21 +67568,21 @@ STRING_EN["index"][9653] = 9653
 STRING_EN[9653] = {}
 	STRING_EN[9653]["ID"] = 9653
 	STRING_EN[9653]["KEY"] = "appointment_success"
-	STRING_EN[9653]["VALUE"] = "Successful appointment"
+	STRING_EN[9653]["VALUE"] = "Successfully appointed"
 	STRING_EN[9653]["real_idx"] = 9653
 
 STRING_EN["index"][9654] = 9654
 STRING_EN[9654] = {}
 	STRING_EN[9654]["ID"] = 9654
 	STRING_EN[9654]["KEY"] = "humility"
-	STRING_EN[9654]["VALUE"] = "Courtesy"
+	STRING_EN[9654]["VALUE"] = "Humility"
 	STRING_EN[9654]["real_idx"] = 9654
 
 STRING_EN["index"][9655] = 9655
 STRING_EN[9655] = {}
 	STRING_EN[9655]["ID"] = 9655
 	STRING_EN[9655]["KEY"] = "integrity"
-	STRING_EN[9655]["VALUE"] = "Upright"
+	STRING_EN[9655]["VALUE"] = "Integrity"
 	STRING_EN[9655]["real_idx"] = 9655
 
 STRING_EN["index"][9656] = 9656
@@ -67603,7 +67603,7 @@ STRING_EN["index"][9658] = 9658
 STRING_EN[9658] = {}
 	STRING_EN[9658]["ID"] = 9658
 	STRING_EN[9658]["KEY"] = "hair"
-	STRING_EN[9658]["VALUE"] = "Just"
+	STRING_EN[9658]["VALUE"] = "Justice"
 	STRING_EN[9658]["real_idx"] = 9658
 
 STRING_EN["index"][9659] = 9659
@@ -67638,7 +67638,7 @@ STRING_EN["index"][9663] = 9663
 STRING_EN[9663] = {}
 	STRING_EN[9663]["ID"] = 9663
 	STRING_EN[9663]["KEY"] = "envy"
-	STRING_EN[9663]["VALUE"] = "jidu"
+	STRING_EN[9663]["VALUE"] = "Jealousy"
 	STRING_EN[9663]["real_idx"] = 9663
 
 STRING_EN["index"][9664] = 9664
@@ -67652,7 +67652,7 @@ STRING_EN["index"][9665] = 9665
 STRING_EN[9665] = {}
 	STRING_EN[9665]["ID"] = 9665
 	STRING_EN[9665]["KEY"] = "lazy"
-	STRING_EN[9665]["VALUE"] = "Lazy"
+	STRING_EN[9665]["VALUE"] = "Indolence"
 	STRING_EN[9665]["real_idx"] = 9665
 
 STRING_EN["index"][9666] = 9666
@@ -67694,49 +67694,49 @@ STRING_EN["index"][9671] = 9671
 STRING_EN[9671] = {}
 	STRING_EN[9671]["ID"] = 9671
 	STRING_EN[9671]["KEY"] = "a_few_lords"
-	STRING_EN[9671]["VALUE"] = "No. #RenLord"
+	STRING_EN[9671]["VALUE"] = "The #th Lord"
 	STRING_EN[9671]["real_idx"] = 9671
 
 STRING_EN["index"][9672] = 9672
 STRING_EN[9672] = {}
 	STRING_EN[9672]["ID"] = 9672
 	STRING_EN[9672]["KEY"] = "take_office_and"
-	STRING_EN[9672]["VALUE"] = "Inauguration"
+	STRING_EN[9672]["VALUE"] = "Assumed"
 	STRING_EN[9672]["real_idx"] = 9672
 
 STRING_EN["index"][9673] = 9673
 STRING_EN[9673] = {}
 	STRING_EN[9673]["ID"] = 9673
 	STRING_EN[9673]["KEY"] = "stationed_upperlimit"
-	STRING_EN[9673]["VALUE"] = "The team has reached the upper limit"
+	STRING_EN[9673]["VALUE"] = "The stationed teams have reached the upper limit"
 	STRING_EN[9673]["real_idx"] = 9673
 
 STRING_EN["index"][9674] = 9674
 STRING_EN[9674] = {}
 	STRING_EN[9674]["ID"] = 9674
 	STRING_EN[9674]["KEY"] = "peace_cannot_be_attacked"
-	STRING_EN[9674]["VALUE"] = "Peaceful state， unable to attack"
+	STRING_EN[9674]["VALUE"] = "Peace status， unable to attack"
 	STRING_EN[9674]["real_idx"] = 9674
 
 STRING_EN["index"][9675] = 9675
 STRING_EN[9675] = {}
 	STRING_EN[9675]["ID"] = 9675
 	STRING_EN[9675]["KEY"] = "no_stationed"
-	STRING_EN[9675]["VALUE"] = "You currently have no team stationed"
+	STRING_EN[9675]["VALUE"] = "No stationed team yet"
 	STRING_EN[9675]["real_idx"] = 9675
 
 STRING_EN["index"][9676] = 9676
 STRING_EN[9676] = {}
 	STRING_EN[9676]["ID"] = 9676
 	STRING_EN[9676]["KEY"] = "protect_remaining_time"
-	STRING_EN[9676]["VALUE"] = "Protection status， remaining time:"
+	STRING_EN[9676]["VALUE"] = "Under protection， remaining time:"
 	STRING_EN[9676]["real_idx"] = 9676
 
 STRING_EN["index"][9677] = 9677
 STRING_EN[9677] = {}
 	STRING_EN[9677]["ID"] = 9677
 	STRING_EN[9677]["KEY"] = "contention_remaining_time"
-	STRING_EN[9677]["VALUE"] = "Competing for status， remaining time:"
+	STRING_EN[9677]["VALUE"] = "In scrambling， remaining time:"
 	STRING_EN[9677]["real_idx"] = 9677
 
 STRING_EN["index"][9678] = 9678
@@ -67750,63 +67750,63 @@ STRING_EN["index"][9679] = 9679
 STRING_EN[9679] = {}
 	STRING_EN[9679]["ID"] = 9679
 	STRING_EN[9679]["KEY"] = "throne_explain"
-	STRING_EN[9679]["VALUE"] = "The Star Throne is in a state of contention. Any player can attack the Star Throne and the Electromagnetic Tower. If the Star Throne and the Electromagnetic Tower are their own covenant， they will help. If they are not their own covenant， they will fight. If you continue to occupy the throne for 8 hours， then the lord of the covenant that occupied the throne will become the conqueror. The occupation of the electromagnetic tower can open or close the attack on the throne. After the electromagnetic tower starts the attack， it attacks the throne every 6 minutes， causing damage to all the ship in the throne."
+	STRING_EN[9679]["VALUE"] = "If the status of the Interstellar Throne is in scrambling， any player can attack the Throne and the Electromagnetic Tower. If the Throne and the Tower belong to your own Alliance， you can offer help. If  not then you have to fight. For anyone who occupied the Throne for more than 8 hours， the owner of his Alliance will become the conqueror. Occupying the Electromagnetic Tower can activate or shut down the attack to the Throne. If activated， it attacks the Throne every 6 minutes， causing damage to all the stationed ships in the Throne."
 	STRING_EN[9679]["real_idx"] = 9679
 
 STRING_EN["index"][9680] = 9680
 STRING_EN[9680] = {}
 	STRING_EN[9680]["ID"] = 9680
 	STRING_EN[9680]["KEY"] = "KJ_M610001"
-	STRING_EN[9680]["VALUE"] = "Improve the durability of the ship"
+	STRING_EN[9680]["VALUE"] = "Increase repairing speed for the durability of spaceship"
 	STRING_EN[9680]["real_idx"] = 9680
 
 STRING_EN["index"][9681] = 9681
 STRING_EN[9681] = {}
 	STRING_EN[9681]["ID"] = 9681
 	STRING_EN[9681]["KEY"] = "KJ_M610002"
-	STRING_EN[9681]["VALUE"] = "Reduce the number of outbound queues"
+	STRING_EN[9681]["VALUE"] = "Reduce the number of spaceships in battle formation"
 	STRING_EN[9681]["real_idx"] = 9681
 
 STRING_EN["index"][9682] = 9682
 STRING_EN[9682] = {}
 	STRING_EN[9682]["ID"] = 9682
 	STRING_EN[9682]["KEY"] = "KJ_M610003"
-	STRING_EN[9682]["VALUE"] = "Increase the durability loss of the ship"
+	STRING_EN[9682]["VALUE"] = "Increase loss rate for the durability of spaceship"
 	STRING_EN[9682]["real_idx"] = 9682
 
 STRING_EN["index"][9683] = 9683
 STRING_EN[9683] = {}
 	STRING_EN[9683]["ID"] = 9683
 	STRING_EN[9683]["KEY"] = "KJ_M610004"
-	STRING_EN[9683]["VALUE"] = "Reduce the life of the ship"
+	STRING_EN[9683]["VALUE"] = "Reduce Health of the spaceship"
 	STRING_EN[9683]["real_idx"] = 9683
 
 STRING_EN["index"][9684] = 9684
 STRING_EN[9684] = {}
 	STRING_EN[9684]["ID"] = 9684
 	STRING_EN[9684]["KEY"] = "KJ_M610005"
-	STRING_EN[9684]["VALUE"] = "Reduce ship defense"
+	STRING_EN[9684]["VALUE"] = "Reduce Defense of the spaceship"
 	STRING_EN[9684]["real_idx"] = 9684
 
 STRING_EN["index"][9685] = 9685
 STRING_EN[9685] = {}
 	STRING_EN[9685]["ID"] = 9685
 	STRING_EN[9685]["KEY"] = "KJ_M610006"
-	STRING_EN[9685]["VALUE"] = "Reduce the ship critical value"
+	STRING_EN[9685]["VALUE"] = "Reduce Crit of the spaceship"
 	STRING_EN[9685]["real_idx"] = 9685
 
 STRING_EN["index"][9686] = 9686
 STRING_EN[9686] = {}
 	STRING_EN[9686]["ID"] = 9686
 	STRING_EN[9686]["KEY"] = "KJ_M610007"
-	STRING_EN[9686]["VALUE"] = "Reduce the ship hit value"
+	STRING_EN[9686]["VALUE"] = "Reduce Hit of the spaceship"
 	STRING_EN[9686]["real_idx"] = 9686
 
 STRING_EN["index"][9687] = 9687
 STRING_EN[9687] = {}
 	STRING_EN[9687]["ID"] = 9687
 	STRING_EN[9687]["KEY"] = "title_explain"
-	STRING_EN[9687]["VALUE"] = "The title is appointed by the lord only when the throne is protected. The lord can click on the appointment player button of the title secondary interface to make an appointment. Each person can only be appointed with a title， and the lord cannot appoint his own title."
+	STRING_EN[9687]["VALUE"] = "The title is appointed by the lord only when the status of the Throne is under protection. The lord can tap on the Appoint Player button from the title secondary interface to make an appointment. Each player can only be appointed with one title， and the lord cannot appoint himself."
 	STRING_EN[9687]["real_idx"] = 9687
 
 STRING_EN["index"][9688] = 9688
@@ -67820,147 +67820,147 @@ STRING_EN["index"][9689] = 9689
 STRING_EN[9689] = {}
 	STRING_EN[9689]["ID"] = 9689
 	STRING_EN[9689]["KEY"] = "electromagnetic tower"
-	STRING_EN[9689]["VALUE"] = "Electromagnetic tower"
+	STRING_EN[9689]["VALUE"] = "Electromagnetic Tower"
 	STRING_EN[9689]["real_idx"] = 9689
 
 STRING_EN["index"][9690] = 9690
 STRING_EN[9690] = {}
 	STRING_EN[9690]["ID"] = 9690
 	STRING_EN[9690]["KEY"] = "atk_throne"
-	STRING_EN[9690]["VALUE"] = "Attacking the throne"
+	STRING_EN[9690]["VALUE"] = "Attack the Throne"
 	STRING_EN[9690]["real_idx"] = 9690
 
 STRING_EN["index"][9691] = 9691
 STRING_EN[9691] = {}
 	STRING_EN[9691]["ID"] = 9691
 	STRING_EN[9691]["KEY"] = "atk_tower"
-	STRING_EN[9691]["VALUE"] = "Attacking the electromagnetic tower"
+	STRING_EN[9691]["VALUE"] = "Attack the Electromagnetic Tower"
 	STRING_EN[9691]["real_idx"] = 9691
 
 STRING_EN["index"][9692] = 9692
 STRING_EN[9692] = {}
 	STRING_EN[9692]["ID"] = 9692
 	STRING_EN[9692]["KEY"] = "df_throne"
-	STRING_EN[9692]["VALUE"] = "Throne defense"
+	STRING_EN[9692]["VALUE"] = "Throne Defense"
 	STRING_EN[9692]["real_idx"] = 9692
 
 STRING_EN["index"][9693] = 9693
 STRING_EN[9693] = {}
 	STRING_EN[9693]["ID"] = 9693
 	STRING_EN[9693]["KEY"] = "df_tower"
-	STRING_EN[9693]["VALUE"] = "Electromagnetic tower defense"
+	STRING_EN[9693]["VALUE"] = "Electromagnetic Tower Defense"
 	STRING_EN[9693]["real_idx"] = 9693
 
 STRING_EN["index"][9694] = 9694
 STRING_EN[9694] = {}
 	STRING_EN[9694]["ID"] = 9694
 	STRING_EN[9694]["KEY"] = "VIP_text_10"
-	STRING_EN[9694]["VALUE"] = "Increase Drawing RD \n Queue#"
+	STRING_EN[9694]["VALUE"] = "Increase # for Drawing R&D Queue"
 	STRING_EN[9694]["real_idx"] = 9694
 
 STRING_EN["index"][9695] = 9695
 STRING_EN[9695] = {}
 	STRING_EN[9695]["ID"] = 9695
 	STRING_EN[9695]["KEY"] = "star_open"
-	STRING_EN[9695]["VALUE"] = "Destroying the planet with a lot of resources， with ship culture materials"
+	STRING_EN[9695]["VALUE"] = "Destroy the astroid belt to get a lot of Golds， with also the possibility to get equipments， materials for equipments forging and strengthening"
 	STRING_EN[9695]["real_idx"] = 9695
 
 STRING_EN["index"][9696] = 9696
 STRING_EN[9696] = {}
 	STRING_EN[9696]["ID"] = 9696
 	STRING_EN[9696]["KEY"] = "ruins_open"
-	STRING_EN[9696]["VALUE"] = "There are a lot of resources for salvaging the wreckage， and the ship culture materials"
+	STRING_EN[9696]["VALUE"] = "Salvage wreckages to obtain materials for spaceship synthesis and breakthrough"
 	STRING_EN[9696]["real_idx"] = 9696
 
 STRING_EN["index"][9697] = 9697
 STRING_EN[9697] = {}
 	STRING_EN[9697]["ID"] = 9697
 	STRING_EN[9697]["KEY"] = "IN_12008"
-	STRING_EN[9697]["VALUE"] = "Salvage activity package"
+	STRING_EN[9697]["VALUE"] = "Salvage Event Gif Pack"
 	STRING_EN[9697]["real_idx"] = 9697
 
 STRING_EN["index"][9698] = 9698
 STRING_EN[9698] = {}
 	STRING_EN[9698]["ID"] = 9698
 	STRING_EN[9698]["KEY"] = "IM_12008"
-	STRING_EN[9698]["VALUE"] = "Open it to get:\n"
+	STRING_EN[9698]["VALUE"] = "Open to get:\n"
 	STRING_EN[9698]["real_idx"] = 9698
 
 STRING_EN["index"][9699] = 9699
 STRING_EN[9699] = {}
 	STRING_EN[9699]["ID"] = 9699
 	STRING_EN[9699]["KEY"] = "IN_210001"
-	STRING_EN[9699]["VALUE"] = "Cosmic Rubik's Cube"
+	STRING_EN[9699]["VALUE"] = "Galaxy Cube"
 	STRING_EN[9699]["real_idx"] = 9699
 
 STRING_EN["index"][9700] = 9700
 STRING_EN[9700] = {}
 	STRING_EN[9700]["ID"] = 9700
 	STRING_EN[9700]["KEY"] = "IM_210001"
-	STRING_EN[9700]["VALUE"] = "Produced from a instance of the boss level and wreckage for redemption of event items"
+	STRING_EN[9700]["VALUE"] = "Mainly from Instances and Wreckages， used for redemption of event items"
 	STRING_EN[9700]["real_idx"] = 9700
 
 STRING_EN["index"][9701] = 9701
 STRING_EN[9701] = {}
 	STRING_EN[9701]["ID"] = 9701
 	STRING_EN[9701]["KEY"] = "Activity_description_001"
-	STRING_EN[9701]["VALUE"] = "Charged #day， activity time:"
+	STRING_EN[9701]["VALUE"] = "Top-upped for # day(s)， event time:"
 	STRING_EN[9701]["real_idx"] = 9701
 
 STRING_EN["index"][9702] = 9702
 STRING_EN[9702] = {}
 	STRING_EN[9702]["ID"] = 9702
 	STRING_EN[9702]["KEY"] = "Activity_description_002"
-	STRING_EN[9702]["VALUE"] = "Recharge ## on the day of the event to receive the corresponding reward， and you can get extra spree for 3 days and 5 days."
+	STRING_EN[9702]["VALUE"] = "Top-up ## on the day of the event to receive the corresponding rewards， and you can get extra rewards if achieved 3 days and 5 days goals."
 	STRING_EN[9702]["real_idx"] = 9702
 
 STRING_EN["index"][9703] = 9703
 STRING_EN[9703] = {}
 	STRING_EN[9703]["ID"] = 9703
 	STRING_EN[9703]["KEY"] = "Activity_description_003"
-	STRING_EN[9703]["VALUE"] = "#1month#2day-#3month#4day"
+	STRING_EN[9703]["VALUE"] = "#1 #2 - #3 #4"
 	STRING_EN[9703]["real_idx"] = 9703
 
 STRING_EN["index"][9704] = 9704
 STRING_EN[9704] = {}
 	STRING_EN[9704]["ID"] = 9704
 	STRING_EN[9704]["KEY"] = "activity_001"
-	STRING_EN[9704]["VALUE"] = "Daily recharge"
+	STRING_EN[9704]["VALUE"] = "Daily Top-up"
 	STRING_EN[9704]["real_idx"] = 9704
 
 STRING_EN["index"][9705] = 9705
 STRING_EN[9705] = {}
 	STRING_EN[9705]["ID"] = 9705
 	STRING_EN[9705]["KEY"] = "activity_002"
-	STRING_EN[9705]["VALUE"] = "Wheel of Fortune"
+	STRING_EN[9705]["VALUE"] = "Lucky Spin"
 	STRING_EN[9705]["real_idx"] = 9705
 
 STRING_EN["index"][9706] = 9706
 STRING_EN[9706] = {}
 	STRING_EN[9706]["ID"] = 9706
 	STRING_EN[9706]["KEY"] = "activity_003"
-	STRING_EN[9706]["VALUE"] = "Advanced package"
+	STRING_EN[9706]["VALUE"] = "Advanced Gift Pack"
 	STRING_EN[9706]["real_idx"] = 9706
 
 STRING_EN["index"][9707] = 9707
 STRING_EN[9707] = {}
 	STRING_EN[9707]["ID"] = 9707
 	STRING_EN[9707]["KEY"] = "activity_004"
-	STRING_EN[9707]["VALUE"] = "Star field salvage"
+	STRING_EN[9707]["VALUE"] = "Starfield Salvage"
 	STRING_EN[9707]["real_idx"] = 9707
 
 STRING_EN["index"][9708] = 9708
 STRING_EN[9708] = {}
 	STRING_EN[9708]["ID"] = 9708
 	STRING_EN[9708]["KEY"] = "activity_005"
-	STRING_EN[9708]["VALUE"] = "Star domain exchange"
+	STRING_EN[9708]["VALUE"] = "Starfield Redeem"
 	STRING_EN[9708]["real_idx"] = 9708
 
 STRING_EN["index"][9709] = 9709
 STRING_EN[9709] = {}
 	STRING_EN[9709]["ID"] = 9709
 	STRING_EN[9709]["KEY"] = "activity_006"
-	STRING_EN[9709]["VALUE"] = "Salvage activity is on"
+	STRING_EN[9709]["VALUE"] = "Salvage event is on"
 	STRING_EN[9709]["real_idx"] = 9709
 
 STRING_EN["index"][9710] = 9710
@@ -67974,42 +67974,42 @@ STRING_EN["index"][9711] = 9711
 STRING_EN[9711] = {}
 	STRING_EN[9711]["ID"] = 9711
 	STRING_EN[9711]["KEY"] = "Turntable_GZ_01"
-	STRING_EN[9711]["VALUE"] = "Give each player 1 purchase opportunity when the event is open"
+	STRING_EN[9711]["VALUE"] = "Every player can get a free purchasing time when the event is on"
 	STRING_EN[9711]["real_idx"] = 9711
 
 STRING_EN["index"][9712] = 9712
 STRING_EN[9712] = {}
 	STRING_EN[9712]["ID"] = 9712
 	STRING_EN[9712]["KEY"] = "Turntable_GZ_02"
-	STRING_EN[9712]["VALUE"] = "Get 1 purchase opportunity for every accumulative ## in the active time"
+	STRING_EN[9712]["VALUE"] = "Get 1 purchasing time for every accumulative top-up amount ## during the event"
 	STRING_EN[9712]["real_idx"] = 9712
 
 STRING_EN["index"][9713] = 9713
 STRING_EN[9713] = {}
 	STRING_EN[9713]["ID"] = 9713
 	STRING_EN[9713]["KEY"] = "Turntable_GZ_03"
-	STRING_EN[9713]["VALUE"] = "Purchases are limited to use during the event period"
+	STRING_EN[9713]["VALUE"] = "Purchasing times are limited to use during the event "
 	STRING_EN[9713]["real_idx"] = 9713
 
 STRING_EN["index"][9714] = 9714
 STRING_EN[9714] = {}
 	STRING_EN[9714]["ID"] = 9714
 	STRING_EN[9714]["KEY"] = "no_last_city_01"
-	STRING_EN[9714]["VALUE"] = "Please occupy the dark domain"
+	STRING_EN[9714]["VALUE"] = "Please occupy the strongholds in Dark Field first"
 	STRING_EN[9714]["real_idx"] = 9714
 
 STRING_EN["index"][9715] = 9715
 STRING_EN[9715] = {}
 	STRING_EN[9715]["ID"] = 9715
 	STRING_EN[9715]["KEY"] = "no_last_city_02"
-	STRING_EN[9715]["VALUE"] = "Please occupy the light field base first"
+	STRING_EN[9715]["VALUE"] = "Please occupy the strongholds in Light Field first"
 	STRING_EN[9715]["real_idx"] = 9715
 
 STRING_EN["index"][9716] = 9716
 STRING_EN[9716] = {}
 	STRING_EN[9716]["ID"] = 9716
 	STRING_EN[9716]["KEY"] = "no_last_city_03"
-	STRING_EN[9716]["VALUE"] = "Please first occupy the sanctuary"
+	STRING_EN[9716]["VALUE"] = "Please occupy the strongholds in Holy Field first"
 	STRING_EN[9716]["real_idx"] = 9716
 
 STRING_EN["index"][9717] = 9717
@@ -68023,7 +68023,7 @@ STRING_EN["index"][9718] = 9718
 STRING_EN[9718] = {}
 	STRING_EN[9718]["ID"] = 9718
 	STRING_EN[9718]["KEY"] = "Large_area_ft"
-	STRING_EN[9718]["VALUE"] = "Region"
+	STRING_EN[9718]["VALUE"] = "Zone"
 	STRING_EN[9718]["real_idx"] = 9718
 
 STRING_EN["index"][9719] = 9719
@@ -68037,21 +68037,21 @@ STRING_EN["index"][9720] = 9720
 STRING_EN[9720] = {}
 	STRING_EN[9720]["ID"] = 9720
 	STRING_EN[9720]["KEY"] = "notice_ft"
-	STRING_EN[9720]["VALUE"] = "Resist bad game， refuse pirated games. Pay attention to self-protection and beware of being deceived. Moderate game benefit the brain， indulge game beverages. Arrange the game time reasonably and enjoy a healthy life."
+	STRING_EN[9720]["VALUE"] = "Resist harmful games， refuse pirated games. Pay attention to self-protection and beware of being deceived. Moderate playing games benefits the brain but indulging games is harmful for your health. Arrange your time and live a healthy life."
 	STRING_EN[9720]["real_idx"] = 9720
 
 STRING_EN["index"][9721] = 9721
 STRING_EN[9721] = {}
 	STRING_EN[9721]["ID"] = 9721
 	STRING_EN[9721]["KEY"] = "no_defence_ft"
-	STRING_EN[9721]["VALUE"] = "Current undefensive lineup"
+	STRING_EN[9721]["VALUE"] = "No defensive formation yet"
 	STRING_EN[9721]["real_idx"] = 9721
 
 STRING_EN["index"][9722] = 9722
 STRING_EN[9722] = {}
 	STRING_EN[9722]["ID"] = 9722
 	STRING_EN[9722]["KEY"] = "defence_ft"
-	STRING_EN[9722]["VALUE"] = "Current defensive lineup"
+	STRING_EN[9722]["VALUE"] = "Current defensive formation"
 	STRING_EN[9722]["real_idx"] = 9722
 
 STRING_EN["index"][9723] = 9723
@@ -68065,42 +68065,42 @@ STRING_EN["index"][9724] = 9724
 STRING_EN[9724] = {}
 	STRING_EN[9724]["ID"] = 9724
 	STRING_EN[9724]["KEY"] = "upgrade_time"
-	STRING_EN[9724]["VALUE"] = "Time required"
+	STRING_EN[9724]["VALUE"] = "Upgrading time"
 	STRING_EN[9724]["real_idx"] = 9724
 
 STRING_EN["index"][9725] = 9725
 STRING_EN[9725] = {}
 	STRING_EN[9725]["ID"] = 9725
 	STRING_EN[9725]["KEY"] = "Promote_Combat_power"
-	STRING_EN[9725]["VALUE"] = "Building strength"
+	STRING_EN[9725]["VALUE"] = "Increase Building Power"
 	STRING_EN[9725]["real_idx"] = 9725
 
 STRING_EN["index"][9726] = 9726
 STRING_EN[9726] = {}
 	STRING_EN[9726]["ID"] = 9726
 	STRING_EN[9726]["KEY"] = "Skill_order"
-	STRING_EN[9726]["VALUE"] = "When equipped with passive skills， the priority is to release the 1st position skill， then the 2nd position skill is released， and finally the 3rd position skill is released."
+	STRING_EN[9726]["VALUE"] = "When equipped passive skills， the priority is to release the skill from the 1st slot then the skill from the 2nd slot and in the end the skill from the 3rd slot， repeat the order."
 	STRING_EN[9726]["real_idx"] = 9726
 
 STRING_EN["index"][9727] = 9727
 STRING_EN[9727] = {}
 	STRING_EN[9727]["ID"] = 9727
 	STRING_EN[9727]["KEY"] = "Unlock"
-	STRING_EN[9727]["VALUE"] = "#levellocking"
+	STRING_EN[9727]["VALUE"] = "Unlock at level #"
 	STRING_EN[9727]["real_idx"] = 9727
 
 STRING_EN["index"][9728] = 9728
 STRING_EN[9728] = {}
 	STRING_EN[9728]["ID"] = 9728
 	STRING_EN[9728]["KEY"] = "space_station_position"
-	STRING_EN[9728]["VALUE"] = "Space station location"
+	STRING_EN[9728]["VALUE"] = "Space Station Location"
 	STRING_EN[9728]["real_idx"] = 9728
 
 STRING_EN["index"][9729] = 9729
 STRING_EN[9729] = {}
 	STRING_EN[9729]["ID"] = 9729
 	STRING_EN[9729]["KEY"] = "region"
-	STRING_EN[9729]["VALUE"] = "Regional node"
+	STRING_EN[9729]["VALUE"] = "Area node"
 	STRING_EN[9729]["real_idx"] = 9729
 
 STRING_EN["index"][9730] = 9730
@@ -68121,49 +68121,49 @@ STRING_EN["index"][9732] = 9732
 STRING_EN[9732] = {}
 	STRING_EN[9732]["ID"] = 9732
 	STRING_EN[9732]["KEY"] = "level10_open"
-	STRING_EN[9732]["VALUE"] = "Commander is open after level 10"
+	STRING_EN[9732]["VALUE"] = "Unlock at Commander level 10"
 	STRING_EN[9732]["real_idx"] = 9732
 
 STRING_EN["index"][9733] = 9733
 STRING_EN[9733] = {}
 	STRING_EN[9733]["ID"] = 9733
 	STRING_EN[9733]["KEY"] = "vip1_open"
-	STRING_EN[9733]["VALUE"] = "VIP1 open"
+	STRING_EN[9733]["VALUE"] = "Unlock at VIP1 "
 	STRING_EN[9733]["real_idx"] = 9733
 
 STRING_EN["index"][9734] = 9734
 STRING_EN[9734] = {}
 	STRING_EN[9734]["ID"] = 9734
 	STRING_EN[9734]["KEY"] = "modify"
-	STRING_EN[9734]["VALUE"] = "Edit team name"
+	STRING_EN[9734]["VALUE"] = "Edit Team Name"
 	STRING_EN[9734]["real_idx"] = 9734
 
 STRING_EN["index"][9735] = 9735
 STRING_EN[9735] = {}
 	STRING_EN[9735]["ID"] = 9735
 	STRING_EN[9735]["KEY"] = "use_speed_item_1"
-	STRING_EN[9735]["VALUE"] = "Primary mobile acceleration is successful"
+	STRING_EN[9735]["VALUE"] = "Primary acceleration successfully used"
 	STRING_EN[9735]["real_idx"] = 9735
 
 STRING_EN["index"][9736] = 9736
 STRING_EN[9736] = {}
 	STRING_EN[9736]["ID"] = 9736
 	STRING_EN[9736]["KEY"] = "use_speed_item_2"
-	STRING_EN[9736]["VALUE"] = "Advanced mobile acceleration is successful"
+	STRING_EN[9736]["VALUE"] = "Advanced acceleration successfully used"
 	STRING_EN[9736]["real_idx"] = 9736
 
 STRING_EN["index"][9737] = 9737
 STRING_EN[9737] = {}
 	STRING_EN[9737]["ID"] = 9737
 	STRING_EN[9737]["KEY"] = "levelup_broken_shield"
-	STRING_EN[9737]["VALUE"] = "After this upgrade， the protective cover will disappear， will you decide to upgrade?"
+	STRING_EN[9737]["VALUE"] = "Shield will disappear after upgrade， are you sure to upgrade?"
 	STRING_EN[9737]["real_idx"] = 9737
 
 STRING_EN["index"][9738] = 9738
 STRING_EN[9738] = {}
 	STRING_EN[9738]["ID"] = 9738
 	STRING_EN[9738]["KEY"] = "max combat"
-	STRING_EN[9738]["VALUE"] = "Max power"
+	STRING_EN[9738]["VALUE"] = "Max Combat Power"
 	STRING_EN[9738]["real_idx"] = 9738
 
 STRING_EN["index"][9739] = 9739
@@ -68177,833 +68177,833 @@ STRING_EN["index"][9740] = 9740
 STRING_EN[9740] = {}
 	STRING_EN[9740]["ID"] = 9740
 	STRING_EN[9740]["KEY"] = "no_friend"
-	STRING_EN[9740]["VALUE"] = "You still have no friends， you can search for new friends by searching!"
+	STRING_EN[9740]["VALUE"] = "You have no friends yet， you can add new friends by searching!"
 	STRING_EN[9740]["real_idx"] = 9740
 
 STRING_EN["index"][9741] = 9741
 STRING_EN[9741] = {}
 	STRING_EN[9741]["ID"] = 9741
 	STRING_EN[9741]["KEY"] = "no_black_friend"
-	STRING_EN[9741]["VALUE"] = "You have not added a blacklist yet!"
+	STRING_EN[9741]["VALUE"] = "You have no blocked player yet!"
 	STRING_EN[9741]["real_idx"] = 9741
 
 STRING_EN["index"][9742] = 9742
 STRING_EN[9742] = {}
 	STRING_EN[9742]["ID"] = 9742
 	STRING_EN[9742]["KEY"] = "no_Apply"
-	STRING_EN[9742]["VALUE"] = "You have no friends to apply yet!"
+	STRING_EN[9742]["VALUE"] = "You have no friend request yet!"
 	STRING_EN[9742]["real_idx"] = 9742
 
 STRING_EN["index"][9743] = 9743
 STRING_EN[9743] = {}
 	STRING_EN[9743]["ID"] = 9743
 	STRING_EN[9743]["KEY"] = "culture_tips"
-	STRING_EN[9743]["VALUE"] = "(cultivation experience will be consumed in battle)"
+	STRING_EN[9743]["VALUE"] = "(Training experience will be consumed in battles)"
 	STRING_EN[9743]["real_idx"] = 9743
 
 STRING_EN["index"][9744] = 9744
 STRING_EN[9744] = {}
 	STRING_EN[9744]["ID"] = 9744
 	STRING_EN[9744]["KEY"] = "levelup_cost"
-	STRING_EN[9744]["VALUE"] = "Consume       #1 to speed up the upgrade， is it OK?"
+	STRING_EN[9744]["VALUE"] = "Use #1 to speed up the upgrade， are you sure to use?"
 	STRING_EN[9744]["real_idx"] = 9744
 
 STRING_EN["index"][9745] = 9745
 STRING_EN[9745] = {}
 	STRING_EN[9745]["ID"] = 9745
 	STRING_EN[9745]["KEY"] = "check_tips"
-	STRING_EN[9745]["VALUE"] = "Do not prompt after checking"
+	STRING_EN[9745]["VALUE"] = "No more notes after checking"
 	STRING_EN[9745]["real_idx"] = 9745
 
 STRING_EN["index"][9746] = 9746
 STRING_EN[9746] = {}
 	STRING_EN[9746]["ID"] = 9746
 	STRING_EN[9746]["KEY"] = "jieshao_1"
-	STRING_EN[9746]["VALUE"] = "Warcraftworks can help us increase the number of battleship ships in the fleet and increase the maximum amount of resources that can be looted"
+	STRING_EN[9746]["VALUE"] = "War Workshop can help us to increase the number of the ships that can participate in battles， and increase the maximum amount of resources that we can plunder"
 	STRING_EN[9746]["real_idx"] = 9746
 
 STRING_EN["index"][9747] = 9747
 STRING_EN[9747] = {}
 	STRING_EN[9747]["ID"] = 9747
 	STRING_EN[9747]["KEY"] = "jieshao_2"
-	STRING_EN[9747]["VALUE"] = "When we have enough breakthrough materials， we can make a breakthrough to enhance the combat effectiveness of the ship"
+	STRING_EN[9747]["VALUE"] = "When we have enough breakthrough materials， we can make a breakthrough to improve the combat power of the spaceship"
 	STRING_EN[9747]["real_idx"] = 9747
 
 STRING_EN["index"][9748] = 9748
 STRING_EN[9748] = {}
 	STRING_EN[9748]["ID"] = 9748
 	STRING_EN[9748]["KEY"] = "Statistics"
-	STRING_EN[9748]["VALUE"] = "statistical"
+	STRING_EN[9748]["VALUE"] = "Statistics"
 	STRING_EN[9748]["real_idx"] = 9748
 
 STRING_EN["index"][9749] = 9749
 STRING_EN[9749] = {}
 	STRING_EN[9749]["ID"] = 9749
 	STRING_EN[9749]["KEY"] = "nex_checkpoint"
-	STRING_EN[9749]["VALUE"] = "The next level"
+	STRING_EN[9749]["VALUE"] = "Next"
 	STRING_EN[9749]["real_idx"] = 9749
 
 STRING_EN["index"][9750] = 9750
 STRING_EN[9750] = {}
 	STRING_EN[9750]["ID"] = 9750
 	STRING_EN[9750]["KEY"] = "jieshao_3"
-	STRING_EN[9750]["VALUE"] = "Defensive ships are a great help in battle"
+	STRING_EN[9750]["VALUE"] = "Defensive ships are very useful for battles"
 	STRING_EN[9750]["real_idx"] = 9750
 
 STRING_EN["index"][9751] = 9751
 STRING_EN[9751] = {}
 	STRING_EN[9751]["ID"] = 9751
 	STRING_EN[9751]["KEY"] = "jieshao_4"
-	STRING_EN[9751]["VALUE"] = "Upgrading the vehicle development plant would allow for the development of a superior vehicle"
+	STRING_EN[9751]["VALUE"] = "Upgrade Cabin R&D Factory to  develop more advanced cabins"
 	STRING_EN[9751]["real_idx"] = 9751
 
 STRING_EN["index"][9752] = 9752
 STRING_EN[9752] = {}
 	STRING_EN[9752]["ID"] = 9752
 	STRING_EN[9752]["KEY"] = "task sensitize building_10"
-	STRING_EN[9752]["VALUE"] = "Activate the warehouse"
+	STRING_EN[9752]["VALUE"] = "Activate Warehouse"
 	STRING_EN[9752]["real_idx"] = 9752
 
 STRING_EN["index"][9753] = 9753
 STRING_EN[9753] = {}
 	STRING_EN[9753]["ID"] = 9753
 	STRING_EN[9753]["KEY"] = "task sensitize building_10 memo"
-	STRING_EN[9753]["VALUE"] = "Activate the warehouse， can improve the storage and protection of resources， reduce the loss of plunder!"
+	STRING_EN[9753]["VALUE"] = "Activate Warehouse can improve the storage and protected amount of your resources， reduce the loss from plunder!"
 	STRING_EN[9753]["real_idx"] = 9753
 
 STRING_EN["index"][9754] = 9754
 STRING_EN[9754] = {}
 	STRING_EN[9754]["ID"] = 9754
 	STRING_EN[9754]["KEY"] = "task sensitize building_5"
-	STRING_EN[9754]["VALUE"] = "Activate Tech Lab"
+	STRING_EN[9754]["VALUE"] = "Activate Tech Lab "
 	STRING_EN[9754]["real_idx"] = 9754
 
 STRING_EN["index"][9755] = 9755
 STRING_EN[9755] = {}
 	STRING_EN[9755]["ID"] = 9755
 	STRING_EN[9755]["KEY"] = "task sensitize building_5 memo"
-	STRING_EN[9755]["VALUE"] = "After activating the science and technology lab， you can upgrade the science and technology. The height and depth of science and technology affect the combat ability!"
+	STRING_EN[9755]["VALUE"] = "Activate Tech Lab can upgrade the technologies which strongly affects the combat power!"
 	STRING_EN[9755]["real_idx"] = 9755
 
 STRING_EN["index"][9756] = 9756
 STRING_EN[9756] = {}
 	STRING_EN[9756]["ID"] = 9756
 	STRING_EN[9756]["KEY"] = "task sensitize building_14"
-	STRING_EN[9756]["VALUE"] = "Activate the war factory"
+	STRING_EN[9756]["VALUE"] = "Activate War Workshop"
 	STRING_EN[9756]["real_idx"] = 9756
 
 STRING_EN["index"][9757] = 9757
 STRING_EN[9757] = {}
 	STRING_EN[9757]["ID"] = 9757
 	STRING_EN[9757]["KEY"] = "task sensitize building_14 memo"
-	STRING_EN[9757]["VALUE"] = "After activating war workshop， we can upgrade the battle ship of the fleet and increase the resources carried by the ship to help us gain an advantage in the war!"
+	STRING_EN[9757]["VALUE"] = "Activate War Workshop can increase the number of the ships that can participate in the battle， and also increase the resources can be carried by the ships to help us gain an advantage in the battle!"
 	STRING_EN[9757]["real_idx"] = 9757
 
 STRING_EN["index"][9758] = 9758
 STRING_EN[9758] = {}
 	STRING_EN[9758]["ID"] = 9758
 	STRING_EN[9758]["KEY"] = "task sensitize building_16"
-	STRING_EN[9758]["VALUE"] = "Activation forging shop"
+	STRING_EN[9758]["VALUE"] = "Activate Forging Workshop"
 	STRING_EN[9758]["real_idx"] = 9758
 
 STRING_EN["index"][9759] = 9759
 STRING_EN[9759] = {}
 	STRING_EN[9759]["ID"] = 9759
 	STRING_EN[9759]["KEY"] = "task sensitize building_16 memo"
-	STRING_EN[9759]["VALUE"] = "After activating the forging shop， you can obtain high-quality equipment through forging!"
+	STRING_EN[9759]["VALUE"] = "Activate Forging Workshop can obtain advanced equipments through forging!"
 	STRING_EN[9759]["real_idx"] = 9759
 
 STRING_EN["index"][9760] = 9760
 STRING_EN[9760] = {}
 	STRING_EN[9760]["ID"] = 9760
 	STRING_EN[9760]["KEY"] = "task sensitize building_4"
-	STRING_EN[9760]["VALUE"] = "Activation weapons institute"
+	STRING_EN[9760]["VALUE"] = "Activate Weapon Institute"
 	STRING_EN[9760]["real_idx"] = 9760
 
 STRING_EN["index"][9761] = 9761
 STRING_EN[9761] = {}
 	STRING_EN[9761]["ID"] = 9761
 	STRING_EN[9761]["KEY"] = "task sensitize building_4 memo"
-	STRING_EN[9761]["VALUE"] = "Activate the weapon institute， can unlock more weapons small skills， can be equipped on the ship， change the way of attack!"
+	STRING_EN[9761]["VALUE"] = "Activate Weapon Institute can unlock more weapon skills which can be equipped on the spaceships and change the way of how they attack!"
 	STRING_EN[9761]["real_idx"] = 9761
 
 STRING_EN["index"][9762] = 9762
 STRING_EN[9762] = {}
 	STRING_EN[9762]["ID"] = 9762
 	STRING_EN[9762]["KEY"] = "task sensitize building_13"
-	STRING_EN[9762]["VALUE"] = "Activate diplomacy"
+	STRING_EN[9762]["VALUE"] = "Activate Foreign Affairs Bureau"
 	STRING_EN[9762]["real_idx"] = 9762
 
 STRING_EN["index"][9763] = 9763
 STRING_EN[9763] = {}
 	STRING_EN[9763]["ID"] = 9763
 	STRING_EN[9763]["KEY"] = "task sensitize building_13 memo"
-	STRING_EN[9763]["VALUE"] = "After activating the foreign service， you can get help from your Allies， and you can provide more help through the upgrade"
+	STRING_EN[9763]["VALUE"] = "Foreign Affairs Bureau can get help from your allies， and you can receive or provide more helps through its upgrade"
 	STRING_EN[9763]["real_idx"] = 9763
 
 STRING_EN["index"][9764] = 9764
 STRING_EN[9764] = {}
 	STRING_EN[9764]["ID"] = 9764
 	STRING_EN[9764]["KEY"] = "task sensitize building_7"
-	STRING_EN[9764]["VALUE"] = "Activate the ship repair shop"
+	STRING_EN[9764]["VALUE"] = "Activate Spaceship Workshop "
 	STRING_EN[9764]["real_idx"] = 9764
 
 STRING_EN["index"][9765] = 9765
 STRING_EN[9765] = {}
 	STRING_EN[9765]["ID"] = 9765
 	STRING_EN[9765]["KEY"] = "task sensitize building_7 memo"
-	STRING_EN[9765]["VALUE"] = "After activating the repair shop， you can repair the durable damage of the ship， through the upgrade can also improve the repair speed!"
+	STRING_EN[9765]["VALUE"] = "After activating the Spaceship Workshop， you can repair the durability of the ships and through the upgrade you can also improve the repairing speed!"
 	STRING_EN[9765]["real_idx"] = 9765
 
 STRING_EN["index"][9766] = 9766
 STRING_EN[9766] = {}
 	STRING_EN[9766]["ID"] = 9766
 	STRING_EN[9766]["KEY"] = "task sensitize building_11"
-	STRING_EN[9766]["VALUE"] = "Activate the scouting tower"
+	STRING_EN[9766]["VALUE"] = "Activate Scout Tower"
 	STRING_EN[9766]["real_idx"] = 9766
 
 STRING_EN["index"][9767] = 9767
 STRING_EN[9767] = {}
 	STRING_EN[9767]["ID"] = 9767
 	STRING_EN[9767]["KEY"] = "task sensitize building_11 memo"
-	STRING_EN[9767]["VALUE"] = "After activating the scouting tower， the information of the enemy attacking fleet and the space station can be acquired during the scouting. Upgrade and unlock more enemy information!"
+	STRING_EN[9767]["VALUE"] = "Activate Scout Tower can get the information of the enemy fleet and its Space Station that is coming to attack. Upgrade the tower to obtain more detailed information!"
 	STRING_EN[9767]["real_idx"] = 9767
 
 STRING_EN["index"][9768] = 9768
 STRING_EN[9768] = {}
 	STRING_EN[9768]["ID"] = 9768
 	STRING_EN[9768]["KEY"] = "task ship_cabin_1 name"
-	STRING_EN[9768]["VALUE"] = "Get 1 'Alarm' blueprint"
+	STRING_EN[9768]["VALUE"] = "Obtain 1 Alarm cabin"
 	STRING_EN[9768]["real_idx"] = 9768
 
 STRING_EN["index"][9769] = 9769
 STRING_EN[9769] = {}
 	STRING_EN[9769]["ID"] = 9769
 	STRING_EN[9769]["KEY"] = "task ship_cabin_2 name"
-	STRING_EN[9769]["VALUE"] = "Get 1 'Hydrangea' blueprint"
+	STRING_EN[9769]["VALUE"] = "Obtain 1 Hydrangea cabin"
 	STRING_EN[9769]["real_idx"] = 9769
 
 STRING_EN["index"][9770] = 9770
 STRING_EN[9770] = {}
 	STRING_EN[9770]["ID"] = 9770
 	STRING_EN[9770]["KEY"] = "task ship_cabin_3 name"
-	STRING_EN[9770]["VALUE"] = "Get 1 'Circumference' blueprint"
+	STRING_EN[9770]["VALUE"] = "Obtain 1 Circumference cabin"
 	STRING_EN[9770]["real_idx"] = 9770
 
 STRING_EN["index"][9771] = 9771
 STRING_EN[9771] = {}
 	STRING_EN[9771]["ID"] = 9771
 	STRING_EN[9771]["KEY"] = "task ship_cabin_4 name"
-	STRING_EN[9771]["VALUE"] = "Get 1 'Truth' blueprint"
+	STRING_EN[9771]["VALUE"] = "Obtain 1 Truth cabin"
 	STRING_EN[9771]["real_idx"] = 9771
 
 STRING_EN["index"][9772] = 9772
 STRING_EN[9772] = {}
 	STRING_EN[9772]["ID"] = 9772
 	STRING_EN[9772]["KEY"] = "task ship_cabin_5 name"
-	STRING_EN[9772]["VALUE"] = "Get 2 'Morning star bird' blueprint"
+	STRING_EN[9772]["VALUE"] = "Obtain 2 Star Bird cabins"
 	STRING_EN[9772]["real_idx"] = 9772
 
 STRING_EN["index"][9773] = 9773
 STRING_EN[9773] = {}
 	STRING_EN[9773]["ID"] = 9773
 	STRING_EN[9773]["KEY"] = "task ship_cabin_6 name"
-	STRING_EN[9773]["VALUE"] = "Get 2 'Solar wind' blueprint"
+	STRING_EN[9773]["VALUE"] = "Obtain 2 Sunstorm cabins"
 	STRING_EN[9773]["real_idx"] = 9773
 
 STRING_EN["index"][9774] = 9774
 STRING_EN[9774] = {}
 	STRING_EN[9774]["ID"] = 9774
 	STRING_EN[9774]["KEY"] = "task ship_cabin_7 name"
-	STRING_EN[9774]["VALUE"] = "Get 2 'Hard bee' blueprint"
+	STRING_EN[9774]["VALUE"] = "Obtain 2 Diligent Bee cabins"
 	STRING_EN[9774]["real_idx"] = 9774
 
 STRING_EN["index"][9775] = 9775
 STRING_EN[9775] = {}
 	STRING_EN[9775]["ID"] = 9775
 	STRING_EN[9775]["KEY"] = "task ship_cabin_8 name"
-	STRING_EN[9775]["VALUE"] = "Get 2 'Gravity' blueprint"
+	STRING_EN[9775]["VALUE"] = "Obtain 2 Gravity cabins"
 	STRING_EN[9775]["real_idx"] = 9775
 
 STRING_EN["index"][9776] = 9776
 STRING_EN[9776] = {}
 	STRING_EN[9776]["ID"] = 9776
 	STRING_EN[9776]["KEY"] = "task ship_cabin_9 name"
-	STRING_EN[9776]["VALUE"] = "Get 4 'Morning star bird' blueprint"
+	STRING_EN[9776]["VALUE"] = "Obtain 4 Star Bird cabins"
 	STRING_EN[9776]["real_idx"] = 9776
 
 STRING_EN["index"][9777] = 9777
 STRING_EN[9777] = {}
 	STRING_EN[9777]["ID"] = 9777
 	STRING_EN[9777]["KEY"] = "task ship_cabin_10 name"
-	STRING_EN[9777]["VALUE"] = "Get 4 'Solar wind' blueprint"
+	STRING_EN[9777]["VALUE"] = "Obtain 4 Sunstorm cabins"
 	STRING_EN[9777]["real_idx"] = 9777
 
 STRING_EN["index"][9778] = 9778
 STRING_EN[9778] = {}
 	STRING_EN[9778]["ID"] = 9778
 	STRING_EN[9778]["KEY"] = "task ship_cabin_11 name"
-	STRING_EN[9778]["VALUE"] = "Get 4 'Hard bee' blueprint"
+	STRING_EN[9778]["VALUE"] = "Obtain 4 Diligent Bee cabins"
 	STRING_EN[9778]["real_idx"] = 9778
 
 STRING_EN["index"][9779] = 9779
 STRING_EN[9779] = {}
 	STRING_EN[9779]["ID"] = 9779
 	STRING_EN[9779]["KEY"] = "task ship_cabin_12 name"
-	STRING_EN[9779]["VALUE"] = "Get 4 'Gravity' blueprint"
+	STRING_EN[9779]["VALUE"] = "Obtain 4 Gravity cabins"
 	STRING_EN[9779]["real_idx"] = 9779
 
 STRING_EN["index"][9780] = 9780
 STRING_EN[9780] = {}
 	STRING_EN[9780]["ID"] = 9780
 	STRING_EN[9780]["KEY"] = "task ship_cabin_13 name"
-	STRING_EN[9780]["VALUE"] = "Get 2 'Executor' blueprint"
+	STRING_EN[9780]["VALUE"] = "Obtain 2 Executor cabins"
 	STRING_EN[9780]["real_idx"] = 9780
 
 STRING_EN["index"][9781] = 9781
 STRING_EN[9781] = {}
 	STRING_EN[9781]["ID"] = 9781
 	STRING_EN[9781]["KEY"] = "task ship_cabin_14 name"
-	STRING_EN[9781]["VALUE"] = "Get 2 'Millennium' blueprint"
+	STRING_EN[9781]["VALUE"] = "Obtain 2 Millennium cabins"
 	STRING_EN[9781]["real_idx"] = 9781
 
 STRING_EN["index"][9782] = 9782
 STRING_EN[9782] = {}
 	STRING_EN[9782]["ID"] = 9782
 	STRING_EN[9782]["KEY"] = "task ship_cabin_15 name"
-	STRING_EN[9782]["VALUE"] = "Get 2 'Mid-end station' blueprint"
+	STRING_EN[9782]["VALUE"] = "Obtain 2 Terminal cabins"
 	STRING_EN[9782]["real_idx"] = 9782
 
 STRING_EN["index"][9783] = 9783
 STRING_EN[9783] = {}
 	STRING_EN[9783]["ID"] = 9783
 	STRING_EN[9783]["KEY"] = "task ship_cabin_16 name"
-	STRING_EN[9783]["VALUE"] = "Get 4 'Magnetic Source' blueprint"
+	STRING_EN[9783]["VALUE"] = "Obtain 4 Magnet cabins"
 	STRING_EN[9783]["real_idx"] = 9783
 
 STRING_EN["index"][9784] = 9784
 STRING_EN[9784] = {}
 	STRING_EN[9784]["ID"] = 9784
 	STRING_EN[9784]["KEY"] = "task ship_cabin_17 name"
-	STRING_EN[9784]["VALUE"] = "Get 4 'Executor' blueprint"
+	STRING_EN[9784]["VALUE"] = "Obtain 4 Executor cabins"
 	STRING_EN[9784]["real_idx"] = 9784
 
 STRING_EN["index"][9785] = 9785
 STRING_EN[9785] = {}
 	STRING_EN[9785]["ID"] = 9785
 	STRING_EN[9785]["KEY"] = "task ship_cabin_18 name"
-	STRING_EN[9785]["VALUE"] = "Get 4 'Millennium' blueprint"
+	STRING_EN[9785]["VALUE"] = "Obtain 4 Millennium cabins"
 	STRING_EN[9785]["real_idx"] = 9785
 
 STRING_EN["index"][9786] = 9786
 STRING_EN[9786] = {}
 	STRING_EN[9786]["ID"] = 9786
 	STRING_EN[9786]["KEY"] = "task ship_cabin_19 name"
-	STRING_EN[9786]["VALUE"] = "Get 4 'Mid-end station' blueprint"
+	STRING_EN[9786]["VALUE"] = "Obtain 4 Terminal cabins"
 	STRING_EN[9786]["real_idx"] = 9786
 
 STRING_EN["index"][9787] = 9787
 STRING_EN[9787] = {}
 	STRING_EN[9787]["ID"] = 9787
 	STRING_EN[9787]["KEY"] = "task ship_cabin_20 name"
-	STRING_EN[9787]["VALUE"] = "Get 8 'Magnetic Source' blueprint"
+	STRING_EN[9787]["VALUE"] = "Obtain 8 Magnet cabins"
 	STRING_EN[9787]["real_idx"] = 9787
 
 STRING_EN["index"][9788] = 9788
 STRING_EN[9788] = {}
 	STRING_EN[9788]["ID"] = 9788
 	STRING_EN[9788]["KEY"] = "task ship_cabin_21 name"
-	STRING_EN[9788]["VALUE"] = "Get 4 'Gemini' blueprint"
+	STRING_EN[9788]["VALUE"] = "Obtain 4 Gemini cabins"
 	STRING_EN[9788]["real_idx"] = 9788
 
 STRING_EN["index"][9789] = 9789
 STRING_EN[9789] = {}
 	STRING_EN[9789]["ID"] = 9789
 	STRING_EN[9789]["KEY"] = "task ship_cabin_22 name"
-	STRING_EN[9789]["VALUE"] = "Get 4 'Black iron era' blueprint"
+	STRING_EN[9789]["VALUE"] = "Obtain 4 Black Iron Era cabins"
 	STRING_EN[9789]["real_idx"] = 9789
 
 STRING_EN["index"][9790] = 9790
 STRING_EN[9790] = {}
 	STRING_EN[9790]["ID"] = 9790
 	STRING_EN[9790]["KEY"] = "task ship_cabin_23 name"
-	STRING_EN[9790]["VALUE"] = "Get 4 'Feiyan' blueprint"
+	STRING_EN[9790]["VALUE"] = "Obtain 4 Swallow cabins"
 	STRING_EN[9790]["real_idx"] = 9790
 
 STRING_EN["index"][9791] = 9791
 STRING_EN[9791] = {}
 	STRING_EN[9791]["ID"] = 9791
 	STRING_EN[9791]["KEY"] = "task ship_cabin_24 name"
-	STRING_EN[9791]["VALUE"] = "Get 5 'Rays' blueprint"
+	STRING_EN[9791]["VALUE"] = "Obtain 5 Radiation cabins"
 	STRING_EN[9791]["real_idx"] = 9791
 
 STRING_EN["index"][9792] = 9792
 STRING_EN[9792] = {}
 	STRING_EN[9792]["ID"] = 9792
 	STRING_EN[9792]["KEY"] = "task ship_cabin_25 name"
-	STRING_EN[9792]["VALUE"] = "Get 5 'Wanling' blueprint"
+	STRING_EN[9792]["VALUE"] = "Obtain 5 Soul cabins"
 	STRING_EN[9792]["real_idx"] = 9792
 
 STRING_EN["index"][9793] = 9793
 STRING_EN[9793] = {}
 	STRING_EN[9793]["ID"] = 9793
 	STRING_EN[9793]["KEY"] = "task ship_cabin_26 name"
-	STRING_EN[9793]["VALUE"] = "Get 5 'Unlimited' blueprint"
+	STRING_EN[9793]["VALUE"] = "Obtain 5 Infinity cabins"
 	STRING_EN[9793]["real_idx"] = 9793
 
 STRING_EN["index"][9794] = 9794
 STRING_EN[9794] = {}
 	STRING_EN[9794]["ID"] = 9794
 	STRING_EN[9794]["KEY"] = "task ship_cabin_27 name"
-	STRING_EN[9794]["VALUE"] = "Get 5 'Glory of the sky' blueprint"
+	STRING_EN[9794]["VALUE"] = "Obtain 5 Firmament cabins"
 	STRING_EN[9794]["real_idx"] = 9794
 
 STRING_EN["index"][9795] = 9795
 STRING_EN[9795] = {}
 	STRING_EN[9795]["ID"] = 9795
 	STRING_EN[9795]["KEY"] = "task ship_cabin_28 name"
-	STRING_EN[9795]["VALUE"] = "Get 4 'Death Star' blueprint"
+	STRING_EN[9795]["VALUE"] = "Obtain 4 Death Star cabins"
 	STRING_EN[9795]["real_idx"] = 9795
 
 STRING_EN["index"][9796] = 9796
 STRING_EN[9796] = {}
 	STRING_EN[9796]["ID"] = 9796
 	STRING_EN[9796]["KEY"] = "task ship_cabin_29 name"
-	STRING_EN[9796]["VALUE"] = "Get 6 'Destroyer' blueprint"
+	STRING_EN[9796]["VALUE"] = "Obtain 6 Destroyer cabins"
 	STRING_EN[9796]["real_idx"] = 9796
 
 STRING_EN["index"][9797] = 9797
 STRING_EN[9797] = {}
 	STRING_EN[9797]["ID"] = 9797
 	STRING_EN[9797]["KEY"] = "task ship_cabin_30 name"
-	STRING_EN[9797]["VALUE"] = "Get 6 'Eye of Pal' blueprint"
+	STRING_EN[9797]["VALUE"] = "Obtain 6 Eye of Parr cabins"
 	STRING_EN[9797]["real_idx"] = 9797
 
 STRING_EN["index"][9798] = 9798
 STRING_EN[9798] = {}
 	STRING_EN[9798]["ID"] = 9798
 	STRING_EN[9798]["KEY"] = "task ship_cabin_31 name"
-	STRING_EN[9798]["VALUE"] = "Get 10 'Skywalker' blueprint"
+	STRING_EN[9798]["VALUE"] = "Obtain 10 Skywalker cabins"
 	STRING_EN[9798]["real_idx"] = 9798
 
 STRING_EN["index"][9799] = 9799
 STRING_EN[9799] = {}
 	STRING_EN[9799]["ID"] = 9799
 	STRING_EN[9799]["KEY"] = "task ship_cabin_32 name"
-	STRING_EN[9799]["VALUE"] = "Get 10 'Force' blueprint"
+	STRING_EN[9799]["VALUE"] = "Obtain 10 Power cabins"
 	STRING_EN[9799]["real_idx"] = 9799
 
 STRING_EN["index"][9800] = 9800
 STRING_EN[9800] = {}
 	STRING_EN[9800]["ID"] = 9800
 	STRING_EN[9800]["KEY"] = "task ship_cabin_33 name"
-	STRING_EN[9800]["VALUE"] = "Get 8 'Gemini' blueprint"
+	STRING_EN[9800]["VALUE"] = "Obtain 8 Gemini cabins"
 	STRING_EN[9800]["real_idx"] = 9800
 
 STRING_EN["index"][9801] = 9801
 STRING_EN[9801] = {}
 	STRING_EN[9801]["ID"] = 9801
 	STRING_EN[9801]["KEY"] = "task ship_cabin_34 name"
-	STRING_EN[9801]["VALUE"] = "Get 8 'Black iron era' blueprint"
+	STRING_EN[9801]["VALUE"] = "Obtain 8 Black Iron Era cabins"
 	STRING_EN[9801]["real_idx"] = 9801
 
 STRING_EN["index"][9802] = 9802
 STRING_EN[9802] = {}
 	STRING_EN[9802]["ID"] = 9802
 	STRING_EN[9802]["KEY"] = "task ship_cabin_35 name"
-	STRING_EN[9802]["VALUE"] = "Get 8 'Feiyan' blueprint"
+	STRING_EN[9802]["VALUE"] = "Obtain 8 Swallow cabins"
 	STRING_EN[9802]["real_idx"] = 9802
 
 STRING_EN["index"][9803] = 9803
 STRING_EN[9803] = {}
 	STRING_EN[9803]["ID"] = 9803
 	STRING_EN[9803]["KEY"] = "task ship_cabin_36 name"
-	STRING_EN[9803]["VALUE"] = "Get 10 'Rays' blueprint"
+	STRING_EN[9803]["VALUE"] = "Obtain 10 Radiation cabins"
 	STRING_EN[9803]["real_idx"] = 9803
 
 STRING_EN["index"][9804] = 9804
 STRING_EN[9804] = {}
 	STRING_EN[9804]["ID"] = 9804
 	STRING_EN[9804]["KEY"] = "task ship_cabin_37 name"
-	STRING_EN[9804]["VALUE"] = "Get 10 'Wanling' blueprint"
+	STRING_EN[9804]["VALUE"] = "Obtain 10 Soul cabins"
 	STRING_EN[9804]["real_idx"] = 9804
 
 STRING_EN["index"][9805] = 9805
 STRING_EN[9805] = {}
 	STRING_EN[9805]["ID"] = 9805
 	STRING_EN[9805]["KEY"] = "task ship_cabin_38 name"
-	STRING_EN[9805]["VALUE"] = "Get 10 'Unlimited' blueprint"
+	STRING_EN[9805]["VALUE"] = "Obtain 10 Infinity cabins"
 	STRING_EN[9805]["real_idx"] = 9805
 
 STRING_EN["index"][9806] = 9806
 STRING_EN[9806] = {}
 	STRING_EN[9806]["ID"] = 9806
 	STRING_EN[9806]["KEY"] = "task ship_cabin_39 name"
-	STRING_EN[9806]["VALUE"] = "Get 10 'Glory of the sky' blueprint"
+	STRING_EN[9806]["VALUE"] = "Obtain 10 Firmament cabins"
 	STRING_EN[9806]["real_idx"] = 9806
 
 STRING_EN["index"][9807] = 9807
 STRING_EN[9807] = {}
 	STRING_EN[9807]["ID"] = 9807
 	STRING_EN[9807]["KEY"] = "task ship_cabin_40 name"
-	STRING_EN[9807]["VALUE"] = "Get 8 'Death Star' blueprint"
+	STRING_EN[9807]["VALUE"] = "Obtain 8 Death Star cabins"
 	STRING_EN[9807]["real_idx"] = 9807
 
 STRING_EN["index"][9808] = 9808
 STRING_EN[9808] = {}
 	STRING_EN[9808]["ID"] = 9808
 	STRING_EN[9808]["KEY"] = "task ship_cabin_41 name"
-	STRING_EN[9808]["VALUE"] = "Get 12 'Destroyer' blueprint"
+	STRING_EN[9808]["VALUE"] = "Obtain 12 Destroyer cabins"
 	STRING_EN[9808]["real_idx"] = 9808
 
 STRING_EN["index"][9809] = 9809
 STRING_EN[9809] = {}
 	STRING_EN[9809]["ID"] = 9809
 	STRING_EN[9809]["KEY"] = "task ship_cabin_42 name"
-	STRING_EN[9809]["VALUE"] = "Get 12 'Eye of Pal' blueprint"
+	STRING_EN[9809]["VALUE"] = "Obtain 12 Eye of Parr cabins"
 	STRING_EN[9809]["real_idx"] = 9809
 
 STRING_EN["index"][9810] = 9810
 STRING_EN[9810] = {}
 	STRING_EN[9810]["ID"] = 9810
 	STRING_EN[9810]["KEY"] = "task ship_cabin_43 name"
-	STRING_EN[9810]["VALUE"] = "Get 20 'Skywalker' blueprint"
+	STRING_EN[9810]["VALUE"] = "Obtain 20 Skywalker cabins"
 	STRING_EN[9810]["real_idx"] = 9810
 
 STRING_EN["index"][9811] = 9811
 STRING_EN[9811] = {}
 	STRING_EN[9811]["ID"] = 9811
 	STRING_EN[9811]["KEY"] = "task ship_cabin_44 name"
-	STRING_EN[9811]["VALUE"] = "Get 20 'Force' blueprint"
+	STRING_EN[9811]["VALUE"] = "Obtain 20 Power cabins"
 	STRING_EN[9811]["real_idx"] = 9811
 
 STRING_EN["index"][9812] = 9812
 STRING_EN[9812] = {}
 	STRING_EN[9812]["ID"] = 9812
 	STRING_EN[9812]["KEY"] = "task ship_cabin_1 memo"
-	STRING_EN[9812]["VALUE"] = "Get 1 'Alarm' blueprint"
+	STRING_EN[9812]["VALUE"] = "Obtain 1 Alarm cabin"
 	STRING_EN[9812]["real_idx"] = 9812
 
 STRING_EN["index"][9813] = 9813
 STRING_EN[9813] = {}
 	STRING_EN[9813]["ID"] = 9813
 	STRING_EN[9813]["KEY"] = "task ship_cabin_2 memo"
-	STRING_EN[9813]["VALUE"] = "Get 1 'Ziyang Flower' blueprint"
+	STRING_EN[9813]["VALUE"] = "Obtain 1 Hydrangea cabin"
 	STRING_EN[9813]["real_idx"] = 9813
 
 STRING_EN["index"][9814] = 9814
 STRING_EN[9814] = {}
 	STRING_EN[9814]["ID"] = 9814
 	STRING_EN[9814]["KEY"] = "task ship_cabin_3 memo"
-	STRING_EN[9814]["VALUE"] = "Get 1 'Circumference Of A Circle' blueprint"
+	STRING_EN[9814]["VALUE"] = "Obtain 1 Circumference cabin"
 	STRING_EN[9814]["real_idx"] = 9814
 
 STRING_EN["index"][9815] = 9815
 STRING_EN[9815] = {}
 	STRING_EN[9815]["ID"] = 9815
 	STRING_EN[9815]["KEY"] = "task ship_cabin_4 memo"
-	STRING_EN[9815]["VALUE"] = "Get 1 'Truth' blueprint"
+	STRING_EN[9815]["VALUE"] = "Obtain 1 Truth cabin"
 	STRING_EN[9815]["real_idx"] = 9815
 
 STRING_EN["index"][9816] = 9816
 STRING_EN[9816] = {}
 	STRING_EN[9816]["ID"] = 9816
 	STRING_EN[9816]["KEY"] = "task ship_cabin_5 memo"
-	STRING_EN[9816]["VALUE"] = "Get 2 'Morning star bird' blueprint"
+	STRING_EN[9816]["VALUE"] = "Obtain 2 Star Bird cabins"
 	STRING_EN[9816]["real_idx"] = 9816
 
 STRING_EN["index"][9817] = 9817
 STRING_EN[9817] = {}
 	STRING_EN[9817]["ID"] = 9817
 	STRING_EN[9817]["KEY"] = "task ship_cabin_6 memo"
-	STRING_EN[9817]["VALUE"] = "Get 2 'Solar wind' blueprint"
+	STRING_EN[9817]["VALUE"] = "Obtain 2 Sunstorm cabins"
 	STRING_EN[9817]["real_idx"] = 9817
 
 STRING_EN["index"][9818] = 9818
 STRING_EN[9818] = {}
 	STRING_EN[9818]["ID"] = 9818
 	STRING_EN[9818]["KEY"] = "task ship_cabin_7 memo"
-	STRING_EN[9818]["VALUE"] = "Get 2 'Hard bee' blueprint"
+	STRING_EN[9818]["VALUE"] = "Obtain 2 Diligent Bee cabins"
 	STRING_EN[9818]["real_idx"] = 9818
 
 STRING_EN["index"][9819] = 9819
 STRING_EN[9819] = {}
 	STRING_EN[9819]["ID"] = 9819
 	STRING_EN[9819]["KEY"] = "task ship_cabin_8 memo"
-	STRING_EN[9819]["VALUE"] = "Get 2 'Gravity' blueprint"
+	STRING_EN[9819]["VALUE"] = "Obtain 2 Gravity cabins"
 	STRING_EN[9819]["real_idx"] = 9819
 
 STRING_EN["index"][9820] = 9820
 STRING_EN[9820] = {}
 	STRING_EN[9820]["ID"] = 9820
 	STRING_EN[9820]["KEY"] = "task ship_cabin_9 memo"
-	STRING_EN[9820]["VALUE"] = "Get 4 'Morning star bird' blueprint"
+	STRING_EN[9820]["VALUE"] = "Obtain 4 Star Bird cabins"
 	STRING_EN[9820]["real_idx"] = 9820
 
 STRING_EN["index"][9821] = 9821
 STRING_EN[9821] = {}
 	STRING_EN[9821]["ID"] = 9821
 	STRING_EN[9821]["KEY"] = "task ship_cabin_10 memo"
-	STRING_EN[9821]["VALUE"] = "Get 4 'Solar wind' blueprint"
+	STRING_EN[9821]["VALUE"] = "Obtain 4 Sunstorm cabins"
 	STRING_EN[9821]["real_idx"] = 9821
 
 STRING_EN["index"][9822] = 9822
 STRING_EN[9822] = {}
 	STRING_EN[9822]["ID"] = 9822
 	STRING_EN[9822]["KEY"] = "task ship_cabin_11 memo"
-	STRING_EN[9822]["VALUE"] = "Get 4 'Hard bee' blueprint"
+	STRING_EN[9822]["VALUE"] = "Obtain 4 Diligent Bee cabins"
 	STRING_EN[9822]["real_idx"] = 9822
 
 STRING_EN["index"][9823] = 9823
 STRING_EN[9823] = {}
 	STRING_EN[9823]["ID"] = 9823
 	STRING_EN[9823]["KEY"] = "task ship_cabin_12 memo"
-	STRING_EN[9823]["VALUE"] = "Get 4 'Gravity' blueprint"
+	STRING_EN[9823]["VALUE"] = "Obtain 4 Gravity cabins"
 	STRING_EN[9823]["real_idx"] = 9823
 
 STRING_EN["index"][9824] = 9824
 STRING_EN[9824] = {}
 	STRING_EN[9824]["ID"] = 9824
 	STRING_EN[9824]["KEY"] = "task ship_cabin_13 memo"
-	STRING_EN[9824]["VALUE"] = "Get 2 'Executor' blueprint"
+	STRING_EN[9824]["VALUE"] = "Obtain 2 Executor cabins"
 	STRING_EN[9824]["real_idx"] = 9824
 
 STRING_EN["index"][9825] = 9825
 STRING_EN[9825] = {}
 	STRING_EN[9825]["ID"] = 9825
 	STRING_EN[9825]["KEY"] = "task ship_cabin_14 memo"
-	STRING_EN[9825]["VALUE"] = "Get 2 'Millennium' blueprint"
+	STRING_EN[9825]["VALUE"] = "Obtain 2 Millennium cabins"
 	STRING_EN[9825]["real_idx"] = 9825
 
 STRING_EN["index"][9826] = 9826
 STRING_EN[9826] = {}
 	STRING_EN[9826]["ID"] = 9826
 	STRING_EN[9826]["KEY"] = "task ship_cabin_15 memo"
-	STRING_EN[9826]["VALUE"] = "Get 2 'Mid-end station' blueprint"
+	STRING_EN[9826]["VALUE"] = "Obtain 2 Terminal cabins"
 	STRING_EN[9826]["real_idx"] = 9826
 
 STRING_EN["index"][9827] = 9827
 STRING_EN[9827] = {}
 	STRING_EN[9827]["ID"] = 9827
 	STRING_EN[9827]["KEY"] = "task ship_cabin_16 memo"
-	STRING_EN[9827]["VALUE"] = "Get 4 'Magnetic Source' blueprint"
+	STRING_EN[9827]["VALUE"] = "Obtain 4 Magnet cabins"
 	STRING_EN[9827]["real_idx"] = 9827
 
 STRING_EN["index"][9828] = 9828
 STRING_EN[9828] = {}
 	STRING_EN[9828]["ID"] = 9828
 	STRING_EN[9828]["KEY"] = "task ship_cabin_17 memo"
-	STRING_EN[9828]["VALUE"] = "Get 4 'Executor' blueprint"
+	STRING_EN[9828]["VALUE"] = "Obtain 4 Executor cabins"
 	STRING_EN[9828]["real_idx"] = 9828
 
 STRING_EN["index"][9829] = 9829
 STRING_EN[9829] = {}
 	STRING_EN[9829]["ID"] = 9829
 	STRING_EN[9829]["KEY"] = "task ship_cabin_18 memo"
-	STRING_EN[9829]["VALUE"] = "Get 4 'Millennium' blueprint"
+	STRING_EN[9829]["VALUE"] = "Obtain 4 Millennium cabins"
 	STRING_EN[9829]["real_idx"] = 9829
 
 STRING_EN["index"][9830] = 9830
 STRING_EN[9830] = {}
 	STRING_EN[9830]["ID"] = 9830
 	STRING_EN[9830]["KEY"] = "task ship_cabin_19 memo"
-	STRING_EN[9830]["VALUE"] = "Get 4 'Mid-end station' blueprint"
+	STRING_EN[9830]["VALUE"] = "Obtain 4 Terminal cabins"
 	STRING_EN[9830]["real_idx"] = 9830
 
 STRING_EN["index"][9831] = 9831
 STRING_EN[9831] = {}
 	STRING_EN[9831]["ID"] = 9831
 	STRING_EN[9831]["KEY"] = "task ship_cabin_20 memo"
-	STRING_EN[9831]["VALUE"] = "Get 8 'Magnetic Source' blueprint"
+	STRING_EN[9831]["VALUE"] = "Obtain 8 Magnet cabins"
 	STRING_EN[9831]["real_idx"] = 9831
 
 STRING_EN["index"][9832] = 9832
 STRING_EN[9832] = {}
 	STRING_EN[9832]["ID"] = 9832
 	STRING_EN[9832]["KEY"] = "task ship_cabin_21 memo"
-	STRING_EN[9832]["VALUE"] = "Get 4 'Gemini' blueprint"
+	STRING_EN[9832]["VALUE"] = "Obtain 4 Gemini cabins"
 	STRING_EN[9832]["real_idx"] = 9832
 
 STRING_EN["index"][9833] = 9833
 STRING_EN[9833] = {}
 	STRING_EN[9833]["ID"] = 9833
 	STRING_EN[9833]["KEY"] = "task ship_cabin_22 memo"
-	STRING_EN[9833]["VALUE"] = "Get 4 'Black iron era' blueprint"
+	STRING_EN[9833]["VALUE"] = "Obtain 4 Black Iron Era cabins"
 	STRING_EN[9833]["real_idx"] = 9833
 
 STRING_EN["index"][9834] = 9834
 STRING_EN[9834] = {}
 	STRING_EN[9834]["ID"] = 9834
 	STRING_EN[9834]["KEY"] = "task ship_cabin_23 memo"
-	STRING_EN[9834]["VALUE"] = "Get 4 'Feiyan' blueprint"
+	STRING_EN[9834]["VALUE"] = "Obtain 4 Swallow cabins"
 	STRING_EN[9834]["real_idx"] = 9834
 
 STRING_EN["index"][9835] = 9835
 STRING_EN[9835] = {}
 	STRING_EN[9835]["ID"] = 9835
 	STRING_EN[9835]["KEY"] = "task ship_cabin_24 memo"
-	STRING_EN[9835]["VALUE"] = "Get 5 'Rays' blueprint"
+	STRING_EN[9835]["VALUE"] = "Obtain 5 Radiation cabins"
 	STRING_EN[9835]["real_idx"] = 9835
 
 STRING_EN["index"][9836] = 9836
 STRING_EN[9836] = {}
 	STRING_EN[9836]["ID"] = 9836
 	STRING_EN[9836]["KEY"] = "task ship_cabin_25 memo"
-	STRING_EN[9836]["VALUE"] = "Get 5 'Wanling' blueprint"
+	STRING_EN[9836]["VALUE"] = "Obtain 5 Soul cabins"
 	STRING_EN[9836]["real_idx"] = 9836
 
 STRING_EN["index"][9837] = 9837
 STRING_EN[9837] = {}
 	STRING_EN[9837]["ID"] = 9837
 	STRING_EN[9837]["KEY"] = "task ship_cabin_26 memo"
-	STRING_EN[9837]["VALUE"] = "Get 5 'Unlimited' blueprint"
+	STRING_EN[9837]["VALUE"] = "Obtain 5 Infinity cabins"
 	STRING_EN[9837]["real_idx"] = 9837
 
 STRING_EN["index"][9838] = 9838
 STRING_EN[9838] = {}
 	STRING_EN[9838]["ID"] = 9838
 	STRING_EN[9838]["KEY"] = "task ship_cabin_27 memo"
-	STRING_EN[9838]["VALUE"] = "Get 5 'Glory of the sky' blueprint"
+	STRING_EN[9838]["VALUE"] = "Obtain 5 Firmament cabins"
 	STRING_EN[9838]["real_idx"] = 9838
 
 STRING_EN["index"][9839] = 9839
 STRING_EN[9839] = {}
 	STRING_EN[9839]["ID"] = 9839
 	STRING_EN[9839]["KEY"] = "task ship_cabin_28 memo"
-	STRING_EN[9839]["VALUE"] = "Get 4 'Death Star' blueprint"
+	STRING_EN[9839]["VALUE"] = "Obtain 4 Death Star cabins"
 	STRING_EN[9839]["real_idx"] = 9839
 
 STRING_EN["index"][9840] = 9840
 STRING_EN[9840] = {}
 	STRING_EN[9840]["ID"] = 9840
 	STRING_EN[9840]["KEY"] = "task ship_cabin_29 memo"
-	STRING_EN[9840]["VALUE"] = "Get 6 'Destroyer' blueprint"
+	STRING_EN[9840]["VALUE"] = "Obtain 6 Destroyer cabins"
 	STRING_EN[9840]["real_idx"] = 9840
 
 STRING_EN["index"][9841] = 9841
 STRING_EN[9841] = {}
 	STRING_EN[9841]["ID"] = 9841
 	STRING_EN[9841]["KEY"] = "task ship_cabin_30 memo"
-	STRING_EN[9841]["VALUE"] = "Get 6 'Eye of Pal' blueprint"
+	STRING_EN[9841]["VALUE"] = "Obtain 6 Eye of Parr cabins"
 	STRING_EN[9841]["real_idx"] = 9841
 
 STRING_EN["index"][9842] = 9842
 STRING_EN[9842] = {}
 	STRING_EN[9842]["ID"] = 9842
 	STRING_EN[9842]["KEY"] = "task ship_cabin_31 memo"
-	STRING_EN[9842]["VALUE"] = "Get 10 'Skywalker' blueprint"
+	STRING_EN[9842]["VALUE"] = "Obtain 10 Skywalker cabins"
 	STRING_EN[9842]["real_idx"] = 9842
 
 STRING_EN["index"][9843] = 9843
 STRING_EN[9843] = {}
 	STRING_EN[9843]["ID"] = 9843
 	STRING_EN[9843]["KEY"] = "task ship_cabin_32 memo"
-	STRING_EN[9843]["VALUE"] = "Get 10 'Force' blueprint"
+	STRING_EN[9843]["VALUE"] = "Obtain 10 Power cabins"
 	STRING_EN[9843]["real_idx"] = 9843
 
 STRING_EN["index"][9844] = 9844
 STRING_EN[9844] = {}
 	STRING_EN[9844]["ID"] = 9844
 	STRING_EN[9844]["KEY"] = "task ship_cabin_33 memo"
-	STRING_EN[9844]["VALUE"] = "Get 8 'Gemini' blueprint"
+	STRING_EN[9844]["VALUE"] = "Obtain 8 Gemini cabins"
 	STRING_EN[9844]["real_idx"] = 9844
 
 STRING_EN["index"][9845] = 9845
 STRING_EN[9845] = {}
 	STRING_EN[9845]["ID"] = 9845
 	STRING_EN[9845]["KEY"] = "task ship_cabin_34 memo"
-	STRING_EN[9845]["VALUE"] = "Get 8 'Black iron era' blueprint"
+	STRING_EN[9845]["VALUE"] = "Obtain 8 Black Iron Era cabins"
 	STRING_EN[9845]["real_idx"] = 9845
 
 STRING_EN["index"][9846] = 9846
 STRING_EN[9846] = {}
 	STRING_EN[9846]["ID"] = 9846
 	STRING_EN[9846]["KEY"] = "task ship_cabin_35 memo"
-	STRING_EN[9846]["VALUE"] = "Get 8 'Feiyan' blueprint"
+	STRING_EN[9846]["VALUE"] = "Obtain 8 Swallow cabins"
 	STRING_EN[9846]["real_idx"] = 9846
 
 STRING_EN["index"][9847] = 9847
 STRING_EN[9847] = {}
 	STRING_EN[9847]["ID"] = 9847
 	STRING_EN[9847]["KEY"] = "task ship_cabin_36 memo"
-	STRING_EN[9847]["VALUE"] = "Get 10 'Rays' blueprint"
+	STRING_EN[9847]["VALUE"] = "Obtain 10 Radiation cabins"
 	STRING_EN[9847]["real_idx"] = 9847
 
 STRING_EN["index"][9848] = 9848
 STRING_EN[9848] = {}
 	STRING_EN[9848]["ID"] = 9848
 	STRING_EN[9848]["KEY"] = "task ship_cabin_37 memo"
-	STRING_EN[9848]["VALUE"] = "Get 10 'Wanling' blueprint"
+	STRING_EN[9848]["VALUE"] = "Obtain 10 Soul cabins"
 	STRING_EN[9848]["real_idx"] = 9848
 
 STRING_EN["index"][9849] = 9849
 STRING_EN[9849] = {}
 	STRING_EN[9849]["ID"] = 9849
 	STRING_EN[9849]["KEY"] = "task ship_cabin_38 memo"
-	STRING_EN[9849]["VALUE"] = "Get 10 'Unlimited' blueprint"
+	STRING_EN[9849]["VALUE"] = "Obtain 10 Infinity cabins"
 	STRING_EN[9849]["real_idx"] = 9849
 
 STRING_EN["index"][9850] = 9850
 STRING_EN[9850] = {}
 	STRING_EN[9850]["ID"] = 9850
 	STRING_EN[9850]["KEY"] = "task ship_cabin_39 memo"
-	STRING_EN[9850]["VALUE"] = "Get 10 'Glory of the sky' blueprint"
+	STRING_EN[9850]["VALUE"] = "Obtain 10 Firmament cabins"
 	STRING_EN[9850]["real_idx"] = 9850
 
 STRING_EN["index"][9851] = 9851
 STRING_EN[9851] = {}
 	STRING_EN[9851]["ID"] = 9851
 	STRING_EN[9851]["KEY"] = "task ship_cabin_40 memo"
-	STRING_EN[9851]["VALUE"] = "Get 8 'Death Star' blueprint"
+	STRING_EN[9851]["VALUE"] = "Obtain 8 Death Star cabins"
 	STRING_EN[9851]["real_idx"] = 9851
 
 STRING_EN["index"][9852] = 9852
 STRING_EN[9852] = {}
 	STRING_EN[9852]["ID"] = 9852
 	STRING_EN[9852]["KEY"] = "task ship_cabin_41 memo"
-	STRING_EN[9852]["VALUE"] = "Get 12 'Destroyer' blueprint"
+	STRING_EN[9852]["VALUE"] = "Obtain 12 Destroyer cabins"
 	STRING_EN[9852]["real_idx"] = 9852
 
 STRING_EN["index"][9853] = 9853
 STRING_EN[9853] = {}
 	STRING_EN[9853]["ID"] = 9853
 	STRING_EN[9853]["KEY"] = "task ship_cabin_42 memo"
-	STRING_EN[9853]["VALUE"] = "Get 12 'Eye of Pal' blueprint"
+	STRING_EN[9853]["VALUE"] = "Obtain 12 Eye of Parr cabins"
 	STRING_EN[9853]["real_idx"] = 9853
 
 STRING_EN["index"][9854] = 9854
 STRING_EN[9854] = {}
 	STRING_EN[9854]["ID"] = 9854
 	STRING_EN[9854]["KEY"] = "task ship_cabin_43 memo"
-	STRING_EN[9854]["VALUE"] = "Get 20 'Skywalker' blueprint"
+	STRING_EN[9854]["VALUE"] = "Obtain 20 Skywalker cabins"
 	STRING_EN[9854]["real_idx"] = 9854
 
 STRING_EN["index"][9855] = 9855
 STRING_EN[9855] = {}
 	STRING_EN[9855]["ID"] = 9855
 	STRING_EN[9855]["KEY"] = "task ship_cabin_44 memo"
-	STRING_EN[9855]["VALUE"] = "Get 20 'Force' blueprint"
+	STRING_EN[9855]["VALUE"] = "Obtain 20 Power cabins"
 	STRING_EN[9855]["real_idx"] = 9855
 
 STRING_EN["index"][9856] = 9856
 STRING_EN[9856] = {}
 	STRING_EN[9856]["ID"] = 9856
 	STRING_EN[9856]["KEY"] = "my_forms_2"
-	STRING_EN[9856]["VALUE"] = "self"
+	STRING_EN[9856]["VALUE"] = "My side"
 	STRING_EN[9856]["real_idx"] = 9856
 
 STRING_EN["index"][9857] = 9857
 STRING_EN[9857] = {}
 	STRING_EN[9857]["ID"] = 9857
 	STRING_EN[9857]["KEY"] = "strength_give"
-	STRING_EN[9857]["VALUE"] = "Successful physical gift"
+	STRING_EN[9857]["VALUE"] = "Successfully sent Stamina"
 	STRING_EN[9857]["real_idx"] = 9857
 
 STRING_EN["index"][9858] = 9858
 STRING_EN[9858] = {}
 	STRING_EN[9858]["ID"] = 9858
 	STRING_EN[9858]["KEY"] = "strength_receive"
-	STRING_EN[9858]["VALUE"] = "Gained # points of physical power"
+	STRING_EN[9858]["VALUE"] = "Received # Stamina"
 	STRING_EN[9858]["real_idx"] = 9858
 
 STRING_EN["index"][9859] = 9859
@@ -69017,7 +69017,7 @@ STRING_EN["index"][9860] = 9860
 STRING_EN[9860] = {}
 	STRING_EN[9860]["ID"] = 9860
 	STRING_EN[9860]["KEY"] = "jieshao_6"
-	STRING_EN[9860]["VALUE"] = "The key to victory is to properly match the ship's lineup and seize the opportunity to unleash your rage skills"
+	STRING_EN[9860]["VALUE"] = "The key to victory is to properly match the ship formation and seize the opportunity to unleash your rage skills"
 	STRING_EN[9860]["real_idx"] = 9860
 
 STRING_EN["index"][9861] = 9861
@@ -69059,154 +69059,154 @@ STRING_EN["index"][9866] = 9866
 STRING_EN[9866] = {}
 	STRING_EN[9866]["ID"] = 9866
 	STRING_EN[9866]["KEY"] = "hao_69"
-	STRING_EN[9866]["VALUE"] = "mysterious field_17"
+	STRING_EN[9866]["VALUE"] = "Mysterious field_17"
 	STRING_EN[9866]["real_idx"] = 9866
 
 STRING_EN["index"][9867] = 9867
 STRING_EN[9867] = {}
 	STRING_EN[9867]["ID"] = 9867
 	STRING_EN[9867]["KEY"] = "hao_70"
-	STRING_EN[9867]["VALUE"] = "mysterious field_18"
+	STRING_EN[9867]["VALUE"] = "Mysterious field_18"
 	STRING_EN[9867]["real_idx"] = 9867
 
 STRING_EN["index"][9868] = 9868
 STRING_EN[9868] = {}
 	STRING_EN[9868]["ID"] = 9868
 	STRING_EN[9868]["KEY"] = "hao_71"
-	STRING_EN[9868]["VALUE"] = "mysterious field_19"
+	STRING_EN[9868]["VALUE"] = "Mysterious field_19"
 	STRING_EN[9868]["real_idx"] = 9868
 
 STRING_EN["index"][9869] = 9869
 STRING_EN[9869] = {}
 	STRING_EN[9869]["ID"] = 9869
 	STRING_EN[9869]["KEY"] = "hao_72"
-	STRING_EN[9869]["VALUE"] = "mysterious field_20"
+	STRING_EN[9869]["VALUE"] = "Mysterious field_20"
 	STRING_EN[9869]["real_idx"] = 9869
 
 STRING_EN["index"][9870] = 9870
 STRING_EN[9870] = {}
 	STRING_EN[9870]["ID"] = 9870
 	STRING_EN[9870]["KEY"] = "hao_73"
-	STRING_EN[9870]["VALUE"] = "mysterious field_21"
+	STRING_EN[9870]["VALUE"] = "Mysterious field_21"
 	STRING_EN[9870]["real_idx"] = 9870
 
 STRING_EN["index"][9871] = 9871
 STRING_EN[9871] = {}
 	STRING_EN[9871]["ID"] = 9871
 	STRING_EN[9871]["KEY"] = "hao_74"
-	STRING_EN[9871]["VALUE"] = "mysterious field_22"
+	STRING_EN[9871]["VALUE"] = "Mysterious field_22"
 	STRING_EN[9871]["real_idx"] = 9871
 
 STRING_EN["index"][9872] = 9872
 STRING_EN[9872] = {}
 	STRING_EN[9872]["ID"] = 9872
 	STRING_EN[9872]["KEY"] = "hao_75"
-	STRING_EN[9872]["VALUE"] = "mysterious field_23"
+	STRING_EN[9872]["VALUE"] = "Mysterious field_23"
 	STRING_EN[9872]["real_idx"] = 9872
 
 STRING_EN["index"][9873] = 9873
 STRING_EN[9873] = {}
 	STRING_EN[9873]["ID"] = 9873
 	STRING_EN[9873]["KEY"] = "hao_76"
-	STRING_EN[9873]["VALUE"] = "mysterious field_24"
+	STRING_EN[9873]["VALUE"] = "Mysterious field_24"
 	STRING_EN[9873]["real_idx"] = 9873
 
 STRING_EN["index"][9874] = 9874
 STRING_EN[9874] = {}
 	STRING_EN[9874]["ID"] = 9874
 	STRING_EN[9874]["KEY"] = "hao_77"
-	STRING_EN[9874]["VALUE"] = "mysterious field_25"
+	STRING_EN[9874]["VALUE"] = "Mysterious field_25"
 	STRING_EN[9874]["real_idx"] = 9874
 
 STRING_EN["index"][9875] = 9875
 STRING_EN[9875] = {}
 	STRING_EN[9875]["ID"] = 9875
 	STRING_EN[9875]["KEY"] = "hao_78"
-	STRING_EN[9875]["VALUE"] = "mysterious field_26"
+	STRING_EN[9875]["VALUE"] = "Mysterious field_26"
 	STRING_EN[9875]["real_idx"] = 9875
 
 STRING_EN["index"][9876] = 9876
 STRING_EN[9876] = {}
 	STRING_EN[9876]["ID"] = 9876
 	STRING_EN[9876]["KEY"] = "hao_79"
-	STRING_EN[9876]["VALUE"] = "mysterious field_27"
+	STRING_EN[9876]["VALUE"] = "Mysterious field_27"
 	STRING_EN[9876]["real_idx"] = 9876
 
 STRING_EN["index"][9877] = 9877
 STRING_EN[9877] = {}
 	STRING_EN[9877]["ID"] = 9877
 	STRING_EN[9877]["KEY"] = "hao_80"
-	STRING_EN[9877]["VALUE"] = "mysterious field_28"
+	STRING_EN[9877]["VALUE"] = "Mysterious field_28"
 	STRING_EN[9877]["real_idx"] = 9877
 
 STRING_EN["index"][9878] = 9878
 STRING_EN[9878] = {}
 	STRING_EN[9878]["ID"] = 9878
 	STRING_EN[9878]["KEY"] = "hao_81"
-	STRING_EN[9878]["VALUE"] = "mysterious field_29"
+	STRING_EN[9878]["VALUE"] = "Mysterious field_29"
 	STRING_EN[9878]["real_idx"] = 9878
 
 STRING_EN["index"][9879] = 9879
 STRING_EN[9879] = {}
 	STRING_EN[9879]["ID"] = 9879
 	STRING_EN[9879]["KEY"] = "hao_82"
-	STRING_EN[9879]["VALUE"] = "mysterious field_30"
+	STRING_EN[9879]["VALUE"] = "Mysterious field_30"
 	STRING_EN[9879]["real_idx"] = 9879
 
 STRING_EN["index"][9880] = 9880
 STRING_EN[9880] = {}
 	STRING_EN[9880]["ID"] = 9880
 	STRING_EN[9880]["KEY"] = "hao_83"
-	STRING_EN[9880]["VALUE"] = "mysterious field_31"
+	STRING_EN[9880]["VALUE"] = "Mysterious field_31"
 	STRING_EN[9880]["real_idx"] = 9880
 
 STRING_EN["index"][9881] = 9881
 STRING_EN[9881] = {}
 	STRING_EN[9881]["ID"] = 9881
 	STRING_EN[9881]["KEY"] = "hao_84"
-	STRING_EN[9881]["VALUE"] = "mysterious field_32"
+	STRING_EN[9881]["VALUE"] = "Mysterious field_32"
 	STRING_EN[9881]["real_idx"] = 9881
 
 STRING_EN["index"][9882] = 9882
 STRING_EN[9882] = {}
 	STRING_EN[9882]["ID"] = 9882
 	STRING_EN[9882]["KEY"] = "hao_85"
-	STRING_EN[9882]["VALUE"] = "mysterious field_33"
+	STRING_EN[9882]["VALUE"] = "Mysterious field_33"
 	STRING_EN[9882]["real_idx"] = 9882
 
 STRING_EN["index"][9883] = 9883
 STRING_EN[9883] = {}
 	STRING_EN[9883]["ID"] = 9883
 	STRING_EN[9883]["KEY"] = "hao_86"
-	STRING_EN[9883]["VALUE"] = "mysterious field_34"
+	STRING_EN[9883]["VALUE"] = "Mysterious field_34"
 	STRING_EN[9883]["real_idx"] = 9883
 
 STRING_EN["index"][9884] = 9884
 STRING_EN[9884] = {}
 	STRING_EN[9884]["ID"] = 9884
 	STRING_EN[9884]["KEY"] = "hao_87"
-	STRING_EN[9884]["VALUE"] = "mysterious field_35"
+	STRING_EN[9884]["VALUE"] = "Mysterious field_35"
 	STRING_EN[9884]["real_idx"] = 9884
 
 STRING_EN["index"][9885] = 9885
 STRING_EN[9885] = {}
 	STRING_EN[9885]["ID"] = 9885
 	STRING_EN[9885]["KEY"] = "hao_88"
-	STRING_EN[9885]["VALUE"] = "mysterious field_36"
+	STRING_EN[9885]["VALUE"] = "Mysterious field_36"
 	STRING_EN[9885]["real_idx"] = 9885
 
 STRING_EN["index"][9886] = 9886
 STRING_EN[9886] = {}
 	STRING_EN[9886]["ID"] = 9886
 	STRING_EN[9886]["KEY"] = "hao_89"
-	STRING_EN[9886]["VALUE"] = "mysterious field_37"
+	STRING_EN[9886]["VALUE"] = "Mysterious field_37"
 	STRING_EN[9886]["real_idx"] = 9886
 
 STRING_EN["index"][9887] = 9887
 STRING_EN[9887] = {}
 	STRING_EN[9887]["ID"] = 9887
 	STRING_EN[9887]["KEY"] = "hao_90"
-	STRING_EN[9887]["VALUE"] = "mysterious field_38"
+	STRING_EN[9887]["VALUE"] = "Mysterious field_38"
 	STRING_EN[9887]["real_idx"] = 9887
 
 STRING_EN["index"][9888] = 9888
