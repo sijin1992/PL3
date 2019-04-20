@@ -455,7 +455,7 @@
           <PointFrame FrameIndex="0" X="826.1433" Y="528.9939">
             <EasingData Type="0" />
           </PointFrame>
-          <PointFrame FrameIndex="20" X="799.1440" Y="529.9938">
+          <PointFrame FrameIndex="20" X="799.1440" Y="547.9938">
             <EasingData Type="0" />
           </PointFrame>
         </Timeline>
@@ -463,7 +463,7 @@
           <ScaleFrame FrameIndex="0" X="1.0000" Y="1.0000">
             <EasingData Type="0" />
           </ScaleFrame>
-          <ScaleFrame FrameIndex="20" X="1.0000" Y="1.0000">
+          <ScaleFrame FrameIndex="20" X="1.0000" Y="0.9000">
             <EasingData Type="0" />
           </ScaleFrame>
         </Timeline>
@@ -1272,14 +1272,14 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="156" G="226" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="ins" ActionTag="448704049" UserData="right" Tag="827" IconVisible="False" LeftMargin="799.1440" RightMargin="12.1060" TopMargin="238.0062" BottomMargin="426.2238" IsCustomSize="True" FontSize="18" LabelText="    It can restrain enemies, decreasing their battling abilities. But be cautious of its low defence." ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="324.7500" Y="103.7700" />
+          <AbstractNodeData Name="ins" ActionTag="448704049" UserData="right" Tag="827" IconVisible="False" LeftMargin="799.1440" RightMargin="12.1060" TopMargin="220.0062" BottomMargin="417.9938" IsCustomSize="True" FontSize="18" LabelText="    It can restrain enemies, decreasing their battling abilities. But be cautious of its low defence." ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="324.7500" Y="130.0000" />
             <AnchorPoint ScaleY="1.0000" />
-            <Position X="799.1440" Y="529.9938" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="799.1440" Y="547.9938" />
+            <Scale ScaleX="1.0000" ScaleY="0.9000" />
             <CColor A="255" R="219" G="231" B="235" />
-            <PrePosition X="0.7035" Y="0.6901" />
-            <PreSize X="0.2859" Y="0.1351" />
+            <PrePosition X="0.7035" Y="0.7135" />
+            <PreSize X="0.2859" Y="0.1693" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="219" G="231" B="235" />

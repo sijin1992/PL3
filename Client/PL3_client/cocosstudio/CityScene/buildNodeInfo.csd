@@ -26,10 +26,10 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="CityScene/ui3/jianzhushengji.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="buildName" ActionTag="806457414" Tag="1075" IconVisible="False" LeftMargin="50.6498" RightMargin="-106.6498" TopMargin="2.9328" BottomMargin="-29.9328" FontSize="18" LabelText="建筑中" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="56.0000" Y="27.0000" />
-            <AnchorPoint ScaleY="0.5000" />
-            <Position X="50.6498" Y="-16.4328" />
+          <AbstractNodeData Name="buildName" ActionTag="806457414" Tag="1075" IconVisible="False" LeftMargin="50.6498" RightMargin="-270.6498" TopMargin="-0.5672" BottomMargin="-45.4328" IsCustomSize="True" FontSize="18" LabelText="建ssdasdfasasdfasffsfdf 筑中sdsdfasfasffassfdsfasfsdf" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="220.0000" Y="46.0000" />
+            <AnchorPoint ScaleY="1.0000" />
+            <Position X="50.6498" Y="0.5672" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -135,10 +135,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="noBuilding" Visible="False" ActionTag="1504864385" Tag="2818" IconVisible="False" LeftMargin="50.9092" RightMargin="-181.9092" TopMargin="14.8189" BottomMargin="-38.8189" FontSize="16" LabelText="没工作，懒得一比" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="131.0000" Y="24.0000" />
+          <AbstractNodeData Name="noBuilding" Visible="False" ActionTag="1504864385" Tag="2818" IconVisible="False" LeftMargin="50.9092" RightMargin="-270.9092" TopMargin="-0.1811" BottomMargin="-45.8189" IsCustomSize="True" FontSize="16" LabelText="没工作，懒得一比" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="220.0000" Y="46.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="50.9092" Y="-26.8189" />
+            <Position X="50.9092" Y="-22.8189" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

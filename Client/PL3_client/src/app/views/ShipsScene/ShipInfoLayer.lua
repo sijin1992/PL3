@@ -2329,18 +2329,18 @@ function ShipInfoLayer:refreshGemNode(node)
 end
 
 function ShipInfoLayer:refreshNodePos(isShow)
-	local btn = self:getResourceNode():getChildByName("btn");
+	local btn = self:getResourceNode():getChildByName("btn")
 	if isShow then
-		btn:getChildByName("total"):setPositionX(45.1)
-		btn:getChildByName("skill"):setPositionX(126.52)
-		btn:getChildByName("equip"):setPositionX(210.27)
-		btn:getChildByName("gem"):setPositionX(291.27);
-		btn:getChildByName("energy"):setPositionX(373.79)
+		btn:getChildByName("total"):setPositionX(44)
+		btn:getChildByName("skill"):setPositionX(134)
+		btn:getChildByName("equip"):setPositionX(224)
+		btn:getChildByName("gem"):setPositionX(314)
+		btn:getChildByName("energy"):setPositionX(404)
 	else
-		btn:getChildByName("total"):setPositionX(57.5)
-		btn:getChildByName("skill"):setPositionX(157.5)
-		btn:getChildByName("equip"):setPositionX(257.5)
-		btn:getChildByName("gem"):setPositionX(357.5);
+		btn:getChildByName("total"):setPositionX(20)
+		btn:getChildByName("skill"):setPositionX(164)
+		btn:getChildByName("equip"):setPositionX(284)
+		btn:getChildByName("gem"):setPositionX(404)
 		--btn:getChildByName("energy"):setPositionX(373.79)
 	end
 end

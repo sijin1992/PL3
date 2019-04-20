@@ -104,18 +104,18 @@
                 <Position X="55.1595" Y="620.9231" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="5.5159" Y="0.8820" />
+                <PrePosition X="5.5160" Y="0.8820" />
                 <PreSize X="0.1000" Y="0.2088" />
                 <FileData Type="Normal" Path="Common/newUI/line_fg01.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="system_text" ActionTag="-1479730174" Tag="169" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="47.3789" RightMargin="-127.3789" TopMargin="35.5258" BottomMargin="635.4742" FontSize="22" LabelText="系统邮件" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="90.0000" Y="33.0000" />
+              <AbstractNodeData Name="system_text" ActionTag="-1479730174" Tag="169" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="22.3792" RightMargin="-172.3792" TopMargin="27.0252" BottomMargin="616.9748" IsCustomSize="True" FontSize="22" LabelText="系统邮件" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="160.0000" Y="60.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="92.3789" Y="651.9742" />
+                <Position X="102.3792" Y="646.9748" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="209" G="209" B="209" />
-                <PrePosition X="9.2379" Y="0.9261" />
-                <PreSize X="9.0000" Y="0.0469" />
+                <PrePosition X="10.2379" Y="0.9190" />
+                <PreSize X="16.0000" Y="0.0852" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="205" G="235" B="247" />
@@ -172,14 +172,14 @@
                 <PrePosition X="4.3030" Y="0.8247" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="player_text" ActionTag="-570488968" Tag="145" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="49.4310" RightMargin="-129.4310" TopMargin="105.5738" BottomMargin="565.4262" FontSize="22" LabelText="玩家邮件" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="90.0000" Y="33.0000" />
+              <AbstractNodeData Name="player_text" ActionTag="-570488968" Tag="145" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="24.4312" RightMargin="-174.4312" TopMargin="97.0732" BottomMargin="546.9268" IsCustomSize="True" FontSize="22" LabelText="玩家邮件" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="160.0000" Y="60.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="94.4310" Y="581.9262" />
+                <Position X="104.4312" Y="576.9268" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="209" G="209" B="209" />
-                <PrePosition X="9.4431" Y="0.8266" />
-                <PreSize X="9.0000" Y="0.0469" />
+                <PrePosition X="10.4431" Y="0.8195" />
+                <PreSize X="16.0000" Y="0.0852" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="209" G="209" B="209" />
@@ -211,14 +211,14 @@
                   <AbstractNodeData Name="selected" ActionTag="-1336182387" VisibleForFrame="False" Tag="66" IconVisible="False" LeftMargin="-41.0301" RightMargin="-163.9699" TopMargin="-34.5000" BottomMargin="-34.5000" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
                     <Size X="205.0000" Y="69.0000" />
                     <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
-                    <Position X="163.9699" Y="0.0000" />
+                    <Position X="163.9699" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Image_12_0_0" ActionTag="-2010659218" Tag="399" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="35.5459" RightMargin="-36.5459" TopMargin="-16.7866" BottomMargin="-130.2133" FlipY="True" Scale9Enable="True" TopEage="14" BottomEage="20" Scale9OriginY="14" Scale9Width="1" Scale9Height="15" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="Image_12_0_0" ActionTag="-2010659218" Tag="399" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="35.5459" RightMargin="-36.5459" TopMargin="-16.7866" BottomMargin="-130.2134" FlipY="True" Scale9Enable="True" TopEage="14" BottomEage="20" Scale9OriginY="14" Scale9Width="1" Scale9Height="15" ctype="ImageViewObjectData">
                     <Size X="1.0000" Y="147.0000" />
                     <AnchorPoint ScaleX="0.6099" ScaleY="0.6532" />
                     <Position X="36.1558" Y="-34.1930" />
@@ -236,14 +236,14 @@
                 <PrePosition X="4.3030" Y="0.7183" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="planet_text" ActionTag="396768602" Tag="173" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="47.8779" RightMargin="-127.8779" TopMargin="180.8313" BottomMargin="490.1687" FontSize="22" LabelText="资源报告" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="90.0000" Y="33.0000" />
+              <AbstractNodeData Name="planet_text" ActionTag="396768602" Tag="173" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="22.8782" RightMargin="-172.8782" TopMargin="172.3315" BottomMargin="471.6685" IsCustomSize="True" FontSize="22" LabelText="资源报告" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="160.0000" Y="60.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="92.8779" Y="506.6687" />
+                <Position X="102.8782" Y="501.6685" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="209" G="209" B="209" />
-                <PrePosition X="9.2878" Y="0.7197" />
-                <PreSize X="9.0000" Y="0.0469" />
+                <PrePosition X="10.2878" Y="0.7126" />
+                <PreSize X="16.0000" Y="0.0852" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="209" G="209" B="209" />
@@ -275,7 +275,7 @@
                   <AbstractNodeData Name="selected" ActionTag="1608825093" VisibleForFrame="False" Tag="191" IconVisible="False" LeftMargin="-41.0301" RightMargin="-163.9699" TopMargin="-34.5000" BottomMargin="-34.5000" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
                     <Size X="205.0000" Y="69.0000" />
                     <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
-                    <Position X="163.9699" Y="0.0000" />
+                    <Position X="163.9699" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
@@ -300,14 +300,14 @@
                 <PrePosition X="4.3030" Y="0.6116" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="planet2_text" ActionTag="-390732518" Tag="193" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="48.9300" RightMargin="-128.9300" TopMargin="255.3849" BottomMargin="415.6151" FontSize="22" LabelText="打捞报告" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="90.0000" Y="33.0000" />
+              <AbstractNodeData Name="planet2_text" ActionTag="-390732518" Tag="193" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="23.9301" RightMargin="-173.9301" TopMargin="246.8854" BottomMargin="397.1146" IsCustomSize="True" FontSize="22" LabelText="打捞报告" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="160.0000" Y="60.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="93.9300" Y="432.1151" />
+                <Position X="103.9301" Y="427.1146" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="209" G="209" B="209" />
-                <PrePosition X="9.3930" Y="0.6138" />
-                <PreSize X="9.0000" Y="0.0469" />
+                <PrePosition X="10.3930" Y="0.6067" />
+                <PreSize X="16.0000" Y="0.0852" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="209" G="209" B="209" />
@@ -339,7 +339,7 @@
                   <AbstractNodeData Name="selected" ActionTag="-982233769" VisibleForFrame="False" Tag="196" IconVisible="False" LeftMargin="-41.0301" RightMargin="-163.9699" TopMargin="-34.5000" BottomMargin="-34.5000" Scale9Enable="True" LeftEage="55" RightEage="15" TopEage="22" BottomEage="22" Scale9OriginX="55" Scale9OriginY="22" Scale9Width="138" Scale9Height="18" ctype="ImageViewObjectData">
                     <Size X="205.0000" Y="69.0000" />
                     <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
-                    <Position X="163.9699" Y="0.0000" />
+                    <Position X="163.9699" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
@@ -364,14 +364,14 @@
                 <PrePosition X="4.3030" Y="0.5066" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="planet3_text" ActionTag="-1319775234" Tag="198" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="50.0139" RightMargin="-130.0139" TopMargin="328.4601" BottomMargin="342.5399" FontSize="22" LabelText="攻击报告" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="90.0000" Y="33.0000" />
+              <AbstractNodeData Name="planet3_text" ActionTag="-1319775234" Tag="198" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="25.0142" RightMargin="-175.0142" TopMargin="319.9606" BottomMargin="324.0394" IsCustomSize="True" FontSize="22" LabelText="攻击报告" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="160.0000" Y="60.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="95.0139" Y="359.0399" />
+                <Position X="105.0142" Y="354.0394" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="209" G="209" B="209" />
-                <PrePosition X="9.5014" Y="0.5100" />
-                <PreSize X="9.0000" Y="0.0469" />
+                <PrePosition X="10.5014" Y="0.5029" />
+                <PreSize X="16.0000" Y="0.0852" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="209" G="209" B="209" />
@@ -420,7 +420,7 @@
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="Common/newUI/yq_z_light.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Image_12_0_0" ActionTag="1901076305" Tag="55" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="35.5459" RightMargin="-36.5459" TopMargin="-16.7865" BottomMargin="-130.2134" FlipY="True" Scale9Enable="True" TopEage="14" BottomEage="20" Scale9OriginY="14" Scale9Width="1" Scale9Height="15" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="Image_12_0_0" ActionTag="1901076305" Tag="55" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="35.5459" RightMargin="-36.5459" TopMargin="-16.7865" BottomMargin="-130.2135" FlipY="True" Scale9Enable="True" TopEage="14" BottomEage="20" Scale9OriginY="14" Scale9Width="1" Scale9Height="15" ctype="ImageViewObjectData">
                     <Size X="1.0000" Y="147.0000" />
                     <AnchorPoint ScaleX="0.6099" ScaleY="0.6532" />
                     <Position X="36.1558" Y="-34.1931" />
@@ -438,14 +438,14 @@
                 <PrePosition X="4.3030" Y="0.4001" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="planet4_text" ActionTag="-1069557670" Tag="56" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="49.4979" RightMargin="-129.4979" TopMargin="402.4505" BottomMargin="268.5495" FontSize="22" LabelText="攻击报告" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-                <Size X="90.0000" Y="33.0000" />
+              <AbstractNodeData Name="planet4_text" ActionTag="-1069557670" Tag="56" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="24.4981" RightMargin="-174.4981" TopMargin="393.9510" BottomMargin="250.0490" IsCustomSize="True" FontSize="22" LabelText="攻击报告" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="160.0000" Y="60.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="94.4979" Y="285.0495" />
+                <Position X="104.4981" Y="280.0490" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="209" G="209" B="209" />
-                <PrePosition X="9.4498" Y="0.4049" />
-                <PreSize X="9.0000" Y="0.0469" />
+                <PrePosition X="10.4498" Y="0.3978" />
+                <PreSize X="16.0000" Y="0.0852" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="209" G="209" B="209" />

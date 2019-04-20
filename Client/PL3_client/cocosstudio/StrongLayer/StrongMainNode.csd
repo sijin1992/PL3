@@ -222,6 +222,9 @@
           <ScaleFrame FrameIndex="20" X="1.0000" Y="1.0000">
             <EasingData Type="0" />
           </ScaleFrame>
+          <ScaleFrame FrameIndex="50" X="1.0000" Y="1.0000">
+            <EasingData Type="0" />
+          </ScaleFrame>
         </Timeline>
         <Timeline ActionTag="89475560" Property="Alpha">
           <IntFrame FrameIndex="17" Value="0">
@@ -260,6 +263,9 @@
           <ScaleFrame FrameIndex="22" X="1.0000" Y="1.0000">
             <EasingData Type="0" />
           </ScaleFrame>
+          <ScaleFrame FrameIndex="50" X="1.0000" Y="1.0000">
+            <EasingData Type="0" />
+          </ScaleFrame>
         </Timeline>
         <Timeline ActionTag="1329252069" Property="Alpha">
           <IntFrame FrameIndex="19" Value="0">
@@ -296,6 +302,9 @@
             <EasingData Type="0" />
           </ScaleFrame>
           <ScaleFrame FrameIndex="24" X="1.0000" Y="1.0000">
+            <EasingData Type="0" />
+          </ScaleFrame>
+          <ScaleFrame FrameIndex="50" X="1.0000" Y="1.0000">
             <EasingData Type="0" />
           </ScaleFrame>
         </Timeline>
@@ -337,6 +346,9 @@
             <EasingData Type="0" />
           </ScaleFrame>
           <ScaleFrame FrameIndex="26" X="1.0000" Y="1.0000">
+            <EasingData Type="0" />
+          </ScaleFrame>
+          <ScaleFrame FrameIndex="50" X="1.0000" Y="1.0000">
             <EasingData Type="0" />
           </ScaleFrame>
         </Timeline>
@@ -471,7 +483,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="title" ActionTag="-475937138" Tag="281" IconVisible="False" LeftMargin="-61.1823" RightMargin="-58.8177" TopMargin="-257.9886" BottomMargin="226.9886" LeftEage="39" RightEage="39" TopEage="10" BottomEage="10" Scale9OriginX="39" Scale9OriginY="10" Scale9Width="42" Scale9Height="11" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="title" ActionTag="-475937138" Tag="281" IconVisible="False" LeftMargin="-61.1823" RightMargin="-58.8177" TopMargin="-257.9886" BottomMargin="226.9886" LeftEage="39" RightEage="39" TopEage="10" BottomEage="10" Scale9OriginX="39" Scale9OriginY="10" Scale9Width="124" Scale9Height="11" ctype="ImageViewObjectData">
             <Size X="120.0000" Y="31.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-1.1823" Y="242.4886" />
@@ -631,14 +643,14 @@
                 <FileData Type="Normal" Path="StrongLayer/ui/icon_star0.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text" ActionTag="89475560" Tag="274" IconVisible="False" LeftMargin="41.7318" RightMargin="44.2682" TopMargin="180.5568" BottomMargin="26.4432" FontSize="18" LabelText="上阵飞船" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
-                <Size X="75.0000" Y="27.0000" />
+              <AbstractNodeData Name="text" ActionTag="89475560" Tag="274" IconVisible="False" LeftMargin="15.2320" RightMargin="15.7680" TopMargin="226.0566" BottomMargin="-38.0566" IsCustomSize="True" FontSize="18" LabelText="上阵飞船" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
+                <Size X="130.0000" Y="46.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="79.2318" Y="39.9432" />
+                <Position X="80.2320" Y="-15.0566" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="196" G="220" B="248" />
-                <PrePosition X="0.4921" Y="0.1707" />
-                <PreSize X="0.4658" Y="0.1154" />
+                <PrePosition X="0.4983" Y="-0.0643" />
+                <PreSize X="0.8075" Y="0.1966" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="196" G="220" B="248" />
                 <ShadowColor A="255" R="196" G="220" B="248" />
@@ -736,14 +748,14 @@
                 <FileData Type="Normal" Path="StrongLayer/ui/icon_star0.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text" ActionTag="1329252069" Tag="266" IconVisible="False" LeftMargin="41.7299" RightMargin="44.2701" TopMargin="180.5619" BottomMargin="26.4381" FontSize="18" LabelText="飞船培养" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
-                <Size X="75.0000" Y="27.0000" />
+              <AbstractNodeData Name="text" ActionTag="1329252069" Tag="266" IconVisible="False" LeftMargin="15.2299" RightMargin="15.7701" TopMargin="226.0619" BottomMargin="-38.0619" IsCustomSize="True" FontSize="18" LabelText="飞船培养" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
+                <Size X="130.0000" Y="46.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="79.2299" Y="39.9381" />
+                <Position X="80.2299" Y="-15.0619" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="196" G="220" B="248" />
-                <PrePosition X="0.4921" Y="0.1707" />
-                <PreSize X="0.4658" Y="0.1154" />
+                <PrePosition X="0.4983" Y="-0.0644" />
+                <PreSize X="0.8075" Y="0.1966" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="196" G="220" B="248" />
@@ -841,14 +853,14 @@
                 <FileData Type="Normal" Path="StrongLayer/ui/icon_star0.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text" ActionTag="135401832" Tag="258" IconVisible="False" LeftMargin="41.7299" RightMargin="44.2701" TopMargin="180.5619" BottomMargin="26.4381" FontSize="18" LabelText="科技提升" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
-                <Size X="75.0000" Y="27.0000" />
+              <AbstractNodeData Name="text" ActionTag="135401832" Tag="258" IconVisible="False" LeftMargin="15.2296" RightMargin="15.7704" TopMargin="226.0619" BottomMargin="-38.0619" IsCustomSize="True" FontSize="18" LabelText="科技提升" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
+                <Size X="130.0000" Y="46.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="79.2299" Y="39.9381" />
+                <Position X="80.2296" Y="-15.0619" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="196" G="220" B="248" />
-                <PrePosition X="0.4921" Y="0.1707" />
-                <PreSize X="0.4658" Y="0.1154" />
+                <PrePosition X="0.4983" Y="-0.0644" />
+                <PreSize X="0.8075" Y="0.1966" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="196" G="220" B="248" />
@@ -946,14 +958,14 @@
                 <FileData Type="Normal" Path="StrongLayer/ui/icon_star0.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text" ActionTag="-379876447" Tag="250" IconVisible="False" LeftMargin="41.7302" RightMargin="44.2698" TopMargin="180.5619" BottomMargin="26.4381" FontSize="18" LabelText="其他途径" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
-                <Size X="75.0000" Y="27.0000" />
+              <AbstractNodeData Name="text" ActionTag="-379876447" Tag="250" IconVisible="False" LeftMargin="15.2356" RightMargin="15.7644" TopMargin="226.0619" BottomMargin="-38.0619" IsCustomSize="True" FontSize="18" LabelText="其他途径" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
+                <Size X="130.0000" Y="46.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="79.2302" Y="39.9381" />
+                <Position X="80.2356" Y="-15.0619" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="196" G="220" B="248" />
-                <PrePosition X="0.4921" Y="0.1707" />
-                <PreSize X="0.4658" Y="0.1154" />
+                <PrePosition X="0.4984" Y="-0.0644" />
+                <PreSize X="0.8075" Y="0.1966" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="196" G="220" B="248" />

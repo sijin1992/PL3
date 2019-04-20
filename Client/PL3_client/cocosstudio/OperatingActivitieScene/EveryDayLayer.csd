@@ -19,38 +19,38 @@
           <AbstractNodeData Name="bg" ActionTag="120465838" Tag="66" IconVisible="False" LeftMargin="115.2683" RightMargin="101.7317" TopMargin="134.1724" BottomMargin="103.8276" ctype="SpriteObjectData">
             <Size X="919.0000" Y="530.0000" />
             <Children>
-              <AbstractNodeData Name="timetext" ActionTag="-2104429423" UserData="bottom" Tag="56" IconVisible="False" LeftMargin="437.6111" RightMargin="379.3889" TopMargin="460.6116" BottomMargin="31.3884" FontSize="25" LabelText="加入星盟" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                <Size X="102.0000" Y="38.0000" />
+              <AbstractNodeData Name="timetext" ActionTag="-2104429423" UserData="bottom" Tag="56" IconVisible="False" LeftMargin="437.6111" RightMargin="398.3889" TopMargin="459.6117" BottomMargin="40.3883" FontSize="20" LabelText="加入星盟" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                <Size X="83.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="437.6111" Y="50.3884" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Position X="437.6111" Y="55.3883" />
+                <Scale ScaleX="0.9000" ScaleY="1.0000" />
                 <CColor A="255" R="245" G="239" B="6" />
-                <PrePosition X="0.4762" Y="0.0951" />
-                <PreSize X="0.1110" Y="0.0717" />
+                <PrePosition X="0.4762" Y="0.1045" />
+                <PreSize X="0.0903" Y="0.0566" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="daytext" ActionTag="-1310955462" UserData="bottom" Tag="57" IconVisible="False" LeftMargin="69.6342" RightMargin="620.3658" TopMargin="460.9823" BottomMargin="31.0177" FontSize="25" LabelText="已充值1天 活动时间:" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                <Size X="229.0000" Y="38.0000" />
+              <AbstractNodeData Name="daytext" ActionTag="-1310955462" UserData="bottom" Tag="57" IconVisible="False" LeftMargin="69.6342" RightMargin="665.3658" TopMargin="459.9825" BottomMargin="40.0175" FontSize="20" LabelText="已充值1天 活动时间:" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                <Size X="184.0000" Y="30.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="69.6342" Y="50.0177" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Position X="69.6342" Y="55.0175" />
+                <Scale ScaleX="0.9000" ScaleY="1.0000" />
                 <CColor A="255" R="224" G="224" B="180" />
-                <PrePosition X="0.0758" Y="0.0944" />
-                <PreSize X="0.2492" Y="0.0717" />
+                <PrePosition X="0.0758" Y="0.1038" />
+                <PreSize X="0.2002" Y="0.0566" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="tishitext" ActionTag="-2131562772" UserData="bottom" Tag="383" IconVisible="False" LeftMargin="72.5676" RightMargin="771.4324" TopMargin="492.5014" BottomMargin="10.4986" FontSize="18" LabelText="加入星盟" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                <Size X="75.0000" Y="27.0000" />
+              <AbstractNodeData Name="tishitext" ActionTag="-2131562772" UserData="bottom" Tag="383" IconVisible="False" LeftMargin="72.5676" RightMargin="146.4324" TopMargin="481.0014" BottomMargin="-1.0014" IsCustomSize="True" FontSize="18" LabelText="加入星盟" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                <Size X="700.0000" Y="50.0000" />
                 <AnchorPoint ScaleY="0.5000" />
                 <Position X="72.5676" Y="23.9986" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Scale ScaleX="0.9000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.0790" Y="0.0453" />
-                <PreSize X="0.0816" Y="0.0509" />
+                <PreSize X="0.7617" Y="0.0943" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />

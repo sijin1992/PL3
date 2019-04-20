@@ -110,26 +110,26 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="tishi_des" ActionTag="374537809" UserData="bottom" Tag="1796" IconVisible="False" LeftMargin="136.0680" RightMargin="931.9320" TopMargin="716.5431" BottomMargin="13.4569" FontSize="25" LabelText="提示：" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="68.0000" Y="38.0000" />
+          <AbstractNodeData Name="tishi_des" ActionTag="374537809" UserData="bottom" Tag="1796" IconVisible="False" LeftMargin="2.0721" RightMargin="1073.9279" TopMargin="719.0432" BottomMargin="15.9569" FontSize="22" LabelText="提示：" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="60.0000" Y="33.0000" />
             <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
-            <Position X="204.0680" Y="32.4569" />
+            <Position X="62.0721" Y="32.4569" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="230" G="228" B="86" />
-            <PrePosition X="0.1796" Y="0.0423" />
-            <PreSize X="0.0599" Y="0.0495" />
+            <PrePosition X="0.0546" Y="0.0423" />
+            <PreSize X="0.0528" Y="0.0430" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="tishi_text" ActionTag="-1591565781" UserData="bottom" Tag="1905" IconVisible="False" LeftMargin="215.0226" RightMargin="818.9774" TopMargin="716.1713" BottomMargin="13.8287" FontSize="25" LabelText="加入星盟" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="102.0000" Y="38.0000" />
+          <AbstractNodeData Name="tishi_text" ActionTag="-1591565781" UserData="bottom" Tag="1905" IconVisible="False" LeftMargin="73.0276" RightMargin="979.9724" TopMargin="720.1713" BottomMargin="17.8287" FontSize="20" LabelText="加入星盟" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="83.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="215.0226" Y="32.8287" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="73.0276" Y="32.8287" />
+            <Scale ScaleX="0.9000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.1893" Y="0.0427" />
-            <PreSize X="0.0898" Y="0.0495" />
+            <PrePosition X="0.0643" Y="0.0427" />
+            <PreSize X="0.0731" Y="0.0391" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
