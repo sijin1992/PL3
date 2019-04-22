@@ -49438,57 +49438,57 @@
  	<Row>
 		<ID>9888</ID>
 		<KEY>state_protection</KEY>
-		<VALUE>Protection</VALUE>
+		<VALUE>Under Protection</VALUE>
 	</Row>
  	<Row>
 		<ID>9889</ID>
 		<KEY>state_competing</KEY>
-		<VALUE>Competing</VALUE>
+		<VALUE>In Scrambling</VALUE>
 	</Row>
  	<Row>
 		<ID>9890</ID>
 		<KEY>increase_purchases</KEY>
-		<VALUE>The number of purchases has reached the upper limit， increasing the vip level and increasing the number of purchases.</VALUE>
+		<VALUE>The number of purchasing times has reached the upper limit, please upgrade your VIP level to increase</VALUE>
 	</Row>
  	<Row>
 		<ID>9891</ID>
 		<KEY>hurt</KEY>
-		<VALUE>hurt</VALUE>
+		<VALUE>Damage</VALUE>
 	</Row>
  	<Row>
 		<ID>9892</ID>
 		<KEY>any</KEY>
-		<VALUE>any</VALUE>
+		<VALUE>Any</VALUE>
 	</Row>
  	<Row>
 		<ID>9893</ID>
 		<KEY>forever</KEY>
-		<VALUE>forever</VALUE>
+		<VALUE>Permanent</VALUE>
 	</Row>
  	<Row>
 		<ID>9894</ID>
 		<KEY>One key gift</KEY>
-		<VALUE>One key gift</VALUE>
+		<VALUE>Send All</VALUE>
 	</Row>
  	<Row>
 		<ID>9895</ID>
 		<KEY>ishuicheng</KEY>
-		<VALUE>Are you sure to withdraw the fleet?</VALUE>
+		<VALUE>Are you sure to withdraw your fleet?</VALUE>
 	</Row>
  	<Row>
 		<ID>9896</ID>
 		<KEY>isfight</KEY>
-		<VALUE>Whether to go directly?</VALUE>
+		<VALUE>Are you sure to go expedition directly?</VALUE>
 	</Row>
  	<Row>
 		<ID>9897</ID>
 		<KEY>Oprice</KEY>
-		<VALUE>Original price</VALUE>
+		<VALUE>Original Price</VALUE>
 	</Row>
  	<Row>
 		<ID>9898</ID>
 		<KEY>Cprice</KEY>
-		<VALUE>Current price</VALUE>
+		<VALUE>Now</VALUE>
 	</Row>
  	<Row>
 		<ID>9899</ID>
@@ -49498,11 +49498,11 @@
  	<Row>
 		<ID>9900</ID>
 		<KEY>isjiesan_mass</KEY>
-		<VALUE>Determining the dissolution assembly?</VALUE>
+		<VALUE>Are you sure to disband assembly?</VALUE>
 	</Row>
  	<Row>
 		<ID>9901</ID>
 		<KEY>available</KEY>
-		<VALUE>Available</VALUE>
+		<VALUE>Receivable</VALUE>
 	</Row>
 </Root>

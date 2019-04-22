@@ -69213,77 +69213,79 @@ STRING_EN["index"][9888] = 9888
 STRING_EN[9888] = {}
 	STRING_EN[9888]["ID"] = 9888
 	STRING_EN[9888]["KEY"] = "state_protection"
-	STRING_EN[9888]["VALUE"] = "Protection"
+	STRING_EN[9888]["VALUE"] = "Under Protection"
 	STRING_EN[9888]["real_idx"] = 9888
 
 STRING_EN["index"][9889] = 9889
 STRING_EN[9889] = {}
 	STRING_EN[9889]["ID"] = 9889
 	STRING_EN[9889]["KEY"] = "state_competing"
-	STRING_EN[9889]["VALUE"] = "Competing"
+	STRING_EN[9889]["VALUE"] = "In Scrambling"
 	STRING_EN[9889]["real_idx"] = 9889
 
 STRING_EN["index"][9890] = 9890
 STRING_EN[9890] = {}
 	STRING_EN[9890]["ID"] = 9890
 	STRING_EN[9890]["KEY"] = "increase_purchases"
-	STRING_EN[9890]["VALUE"] = "The number of purchases has reached the upper limit， increasing the vip level and increasing the number of purchases."
+	STRING_EN[9890]["VALUE"] = {}
+		STRING_EN[9890]["VALUE"][1] = "The number of purchasing times has reached the upper limit"
+		STRING_EN[9890]["VALUE"][2] = " please upgrade your VIP level to increase"
 	STRING_EN[9890]["real_idx"] = 9890
 
 STRING_EN["index"][9891] = 9891
 STRING_EN[9891] = {}
 	STRING_EN[9891]["ID"] = 9891
 	STRING_EN[9891]["KEY"] = "hurt"
-	STRING_EN[9891]["VALUE"] = "hurt"
+	STRING_EN[9891]["VALUE"] = "Damage"
 	STRING_EN[9891]["real_idx"] = 9891
 
 STRING_EN["index"][9892] = 9892
 STRING_EN[9892] = {}
 	STRING_EN[9892]["ID"] = 9892
 	STRING_EN[9892]["KEY"] = "any"
-	STRING_EN[9892]["VALUE"] = "any"
+	STRING_EN[9892]["VALUE"] = "Any"
 	STRING_EN[9892]["real_idx"] = 9892
 
 STRING_EN["index"][9893] = 9893
 STRING_EN[9893] = {}
 	STRING_EN[9893]["ID"] = 9893
 	STRING_EN[9893]["KEY"] = "forever"
-	STRING_EN[9893]["VALUE"] = "forever"
+	STRING_EN[9893]["VALUE"] = "Permanent"
 	STRING_EN[9893]["real_idx"] = 9893
 
 STRING_EN["index"][9894] = 9894
 STRING_EN[9894] = {}
 	STRING_EN[9894]["ID"] = 9894
 	STRING_EN[9894]["KEY"] = "One key gift"
-	STRING_EN[9894]["VALUE"] = "One key gift"
+	STRING_EN[9894]["VALUE"] = "Send All"
 	STRING_EN[9894]["real_idx"] = 9894
 
 STRING_EN["index"][9895] = 9895
 STRING_EN[9895] = {}
 	STRING_EN[9895]["ID"] = 9895
 	STRING_EN[9895]["KEY"] = "ishuicheng"
-	STRING_EN[9895]["VALUE"] = "Are you sure to withdraw the fleet?"
+	STRING_EN[9895]["VALUE"] = "Are you sure to withdraw your fleet?"
 	STRING_EN[9895]["real_idx"] = 9895
 
 STRING_EN["index"][9896] = 9896
 STRING_EN[9896] = {}
 	STRING_EN[9896]["ID"] = 9896
 	STRING_EN[9896]["KEY"] = "isfight"
-	STRING_EN[9896]["VALUE"] = "Whether to go directly?"
+	STRING_EN[9896]["VALUE"] = "Are you sure to go expedition directly?"
 	STRING_EN[9896]["real_idx"] = 9896
 
 STRING_EN["index"][9897] = 9897
 STRING_EN[9897] = {}
 	STRING_EN[9897]["ID"] = 9897
 	STRING_EN[9897]["KEY"] = "Oprice"
-	STRING_EN[9897]["VALUE"] = "Original price"
+	STRING_EN[9897]["VALUE"] = "Original Price"
 	STRING_EN[9897]["real_idx"] = 9897
 
 STRING_EN["index"][9898] = 9898
 STRING_EN[9898] = {}
 	STRING_EN[9898]["ID"] = 9898
 	STRING_EN[9898]["KEY"] = "Cprice"
-	STRING_EN[9898]["VALUE"] = "Current price"
+	STRING_EN[9898]["VALUE"] = "Now"
 	STRING_EN[9898]["real_idx"] = 9898
 
 STRING_EN["index"][9899] = 9899
@@ -69297,14 +69299,14 @@ STRING_EN["index"][9900] = 9900
 STRING_EN[9900] = {}
 	STRING_EN[9900]["ID"] = 9900
 	STRING_EN[9900]["KEY"] = "isjiesan_mass"
-	STRING_EN[9900]["VALUE"] = "Determining the dissolution assembly?"
+	STRING_EN[9900]["VALUE"] = "Are you sure to disband assembly?"
 	STRING_EN[9900]["real_idx"] = 9900
 
 STRING_EN["index"][9901] = 9901
 STRING_EN[9901] = {}
 	STRING_EN[9901]["ID"] = 9901
 	STRING_EN[9901]["KEY"] = "available"
-	STRING_EN[9901]["VALUE"] = "Available"
+	STRING_EN[9901]["VALUE"] = "Receivable"
 	STRING_EN[9901]["real_idx"] = 9901
 
 
