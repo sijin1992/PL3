@@ -62,10 +62,10 @@
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="after" ActionTag="-1249958414" Tag="244" RotationSkewX="8.0010" IconVisible="False" LeftMargin="400.3107" RightMargin="-400.3107" TopMargin="244.9255" BottomMargin="-244.9255" FontSize="35" LabelText="" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="after" ActionTag="-1249958414" Tag="244" RotationSkewX="8.0010" IconVisible="False" LeftMargin="346.3122" RightMargin="-346.3122" TopMargin="244.9243" BottomMargin="-244.9243" FontSize="35" LabelText="" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="400.3107" Y="-244.9255" />
+            <Position X="346.3122" Y="-244.9243" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

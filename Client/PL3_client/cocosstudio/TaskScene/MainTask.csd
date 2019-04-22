@@ -6,10 +6,10 @@
       <ObjectData Name="Node" Tag="229" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="after" ActionTag="1474768144" Tag="243" RotationSkewX="8.0010" IconVisible="False" LeftMargin="325.2651" RightMargin="-325.2651" TopMargin="284.5664" BottomMargin="-284.5664" FontSize="35" LabelText="" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="after" ActionTag="1474768144" Tag="243" RotationSkewX="8.0010" IconVisible="False" LeftMargin="298.2656" RightMargin="-298.2656" TopMargin="284.5664" BottomMargin="-284.5664" FontSize="35" LabelText="" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="325.2651" Y="-284.5664" />
+            <Position X="298.2656" Y="-284.5664" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

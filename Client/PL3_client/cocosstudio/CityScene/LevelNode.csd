@@ -50,10 +50,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="time" ActionTag="-1413519845" Tag="520" IconVisible="False" LeftMargin="78.0320" RightMargin="-174.0320" TopMargin="6.8776" BottomMargin="-33.8776" FontSize="18" LabelText="1d 19 829 8" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="time" ActionTag="-1413519845" Tag="520" IconVisible="False" LeftMargin="120.0368" RightMargin="-216.0368" TopMargin="6.8776" BottomMargin="-33.8776" FontSize="18" LabelText="1d 19 829 8" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="96.0000" Y="27.0000" />
             <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
-            <Position X="174.0320" Y="-20.3776" />
+            <Position X="216.0368" Y="-20.3776" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -62,10 +62,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="icon" ActionTag="698379558" Tag="521" IconVisible="False" LeftMargin="148.7682" RightMargin="-233.7682" TopMargin="-25.2619" BottomMargin="-60.7381" ctype="SpriteObjectData">
+          <AbstractNodeData Name="icon" ActionTag="698379558" Tag="521" IconVisible="False" LeftMargin="273.7739" RightMargin="-358.7739" TopMargin="-25.2619" BottomMargin="-60.7381" ctype="SpriteObjectData">
             <Size X="85.0000" Y="86.0000" />
             <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
-            <Position X="233.7682" Y="-17.7381" />
+            <Position X="358.7739" Y="-17.7381" />
             <Scale ScaleX="0.3000" ScaleY="0.3000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -73,10 +73,10 @@
             <FileData Type="Normal" Path="Common/ui/ui_icon_Combat_ef.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="power" ActionTag="1074411702" Tag="522" IconVisible="False" LeftMargin="235.3112" RightMargin="-288.3112" TopMargin="6.8776" BottomMargin="-33.8776" FontSize="18" LabelText="99999" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="power" ActionTag="1074411702" Tag="522" IconVisible="False" LeftMargin="360.3176" RightMargin="-413.3176" TopMargin="6.8776" BottomMargin="-33.8776" FontSize="18" LabelText="99999" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="53.0000" Y="27.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="235.3112" Y="-20.3776" />
+            <Position X="360.3176" Y="-20.3776" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -85,7 +85,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="text" ActionTag="-1897974189" Tag="198" IconVisible="False" LeftMargin="297.3817" RightMargin="-534.3817" TopMargin="-4.5929" BottomMargin="-52.4071" IsCustomSize="True" FontSize="17" LabelText="飞船飞船飞船飞船飞船飞船飞船" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="text" ActionTag="-1897974189" VisibleForFrame="False" Tag="198" IconVisible="False" LeftMargin="297.3817" RightMargin="-534.3817" TopMargin="-4.5929" BottomMargin="-52.4071" IsCustomSize="True" FontSize="17" LabelText="飞船飞船飞船飞船飞船飞船飞船" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="237.0000" Y="57.0000" />
             <AnchorPoint ScaleY="0.5000" />
             <Position X="297.3817" Y="-23.9071" />
