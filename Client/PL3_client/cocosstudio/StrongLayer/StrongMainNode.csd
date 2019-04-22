@@ -222,7 +222,7 @@
           <ScaleFrame FrameIndex="20" X="1.0000" Y="1.0000">
             <EasingData Type="0" />
           </ScaleFrame>
-          <ScaleFrame FrameIndex="50" X="1.0000" Y="1.0000">
+          <ScaleFrame FrameIndex="50" X="0.9000" Y="0.9000">
             <EasingData Type="0" />
           </ScaleFrame>
         </Timeline>
@@ -241,7 +241,7 @@
           <ScaleFrame FrameIndex="34" X="1.1000" Y="1.1000">
             <EasingData Type="0" />
           </ScaleFrame>
-          <ScaleFrame FrameIndex="38" X="1.0000" Y="1.0000">
+          <ScaleFrame FrameIndex="38" X="1.2000" Y="1.2000">
             <EasingData Type="0" />
           </ScaleFrame>
         </Timeline>
@@ -263,7 +263,7 @@
           <ScaleFrame FrameIndex="22" X="1.0000" Y="1.0000">
             <EasingData Type="0" />
           </ScaleFrame>
-          <ScaleFrame FrameIndex="50" X="1.0000" Y="1.0000">
+          <ScaleFrame FrameIndex="50" X="0.9000" Y="0.9000">
             <EasingData Type="0" />
           </ScaleFrame>
         </Timeline>
@@ -282,7 +282,7 @@
           <ScaleFrame FrameIndex="37" X="1.1000" Y="1.1000">
             <EasingData Type="0" />
           </ScaleFrame>
-          <ScaleFrame FrameIndex="41" X="1.0000" Y="1.0000">
+          <ScaleFrame FrameIndex="41" X="1.2000" Y="1.2000">
             <EasingData Type="0" />
           </ScaleFrame>
         </Timeline>
@@ -304,7 +304,7 @@
           <ScaleFrame FrameIndex="24" X="1.0000" Y="1.0000">
             <EasingData Type="0" />
           </ScaleFrame>
-          <ScaleFrame FrameIndex="50" X="1.0000" Y="1.0000">
+          <ScaleFrame FrameIndex="50" X="0.9000" Y="0.9000">
             <EasingData Type="0" />
           </ScaleFrame>
         </Timeline>
@@ -323,7 +323,7 @@
           <ScaleFrame FrameIndex="40" X="1.1000" Y="1.1000">
             <EasingData Type="0" />
           </ScaleFrame>
-          <ScaleFrame FrameIndex="44" X="1.0000" Y="1.0000">
+          <ScaleFrame FrameIndex="44" X="1.2000" Y="1.2000">
             <EasingData Type="0" />
           </ScaleFrame>
         </Timeline>
@@ -348,7 +348,7 @@
           <ScaleFrame FrameIndex="26" X="1.0000" Y="1.0000">
             <EasingData Type="0" />
           </ScaleFrame>
-          <ScaleFrame FrameIndex="50" X="1.0000" Y="1.0000">
+          <ScaleFrame FrameIndex="50" X="0.9000" Y="0.9000">
             <EasingData Type="0" />
           </ScaleFrame>
         </Timeline>
@@ -367,7 +367,7 @@
           <ScaleFrame FrameIndex="43" X="1.1000" Y="1.1000">
             <EasingData Type="0" />
           </ScaleFrame>
-          <ScaleFrame FrameIndex="47" X="1.0000" Y="1.0000">
+          <ScaleFrame FrameIndex="47" X="1.2000" Y="1.2000">
             <EasingData Type="0" />
           </ScaleFrame>
         </Timeline>
@@ -417,22 +417,22 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ShipsScene/ui_bar_yellow_full.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="background" ActionTag="893024071" Tag="284" IconVisible="False" LeftMargin="-566.5681" RightMargin="-567.4319" TopMargin="-280.5000" BottomMargin="-280.5000" ctype="SpriteObjectData">
+          <AbstractNodeData Name="background" ActionTag="893024071" Alpha="253" Tag="284" IconVisible="False" LeftMargin="-566.5681" RightMargin="-567.4319" TopMargin="-280.5000" BottomMargin="-280.5000" ctype="SpriteObjectData">
             <Size X="1134.0000" Y="561.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="0.4319" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Scale ScaleX="1.0050" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="Common/newUI/common_bj.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="background_1" ActionTag="391866385" Tag="187" IconVisible="False" LeftMargin="-471.9863" RightMargin="-469.0137" TopMargin="-210.2572" BottomMargin="-244.7428" Scale9Enable="True" LeftEage="8" RightEage="8" TopEage="9" BottomEage="9" Scale9OriginX="8" Scale9OriginY="9" Scale9Width="9" Scale9Height="10" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="background_1" ActionTag="391866385" Alpha="243" Tag="187" IconVisible="False" LeftMargin="-471.9863" RightMargin="-469.0137" TopMargin="-210.2572" BottomMargin="-244.7428" Scale9Enable="True" LeftEage="8" RightEage="8" TopEage="9" BottomEage="9" Scale9OriginX="8" Scale9OriginY="9" Scale9Width="9" Scale9Height="10" ctype="ImageViewObjectData">
             <Size X="941.0000" Y="455.0000" />
             <AnchorPoint ScaleX="0.5004" ScaleY="0.5016" />
             <Position X="-1.1099" Y="-16.5148" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Scale ScaleX="1.0020" ScaleY="1.0020" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
@@ -468,11 +468,11 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="StrongLayer/ui/kuang_0.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="close" ActionTag="-695087977" Tag="285" IconVisible="False" LeftMargin="423.4862" RightMargin="-475.4862" TopMargin="-262.9836" BottomMargin="210.9836" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="22" Scale9Height="30" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="close" ActionTag="-695087977" Alpha="166" Tag="285" IconVisible="False" LeftMargin="423.4862" RightMargin="-475.4862" TopMargin="-262.9836" BottomMargin="210.9836" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="22" Scale9Height="30" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="52.0000" Y="52.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="449.4862" Y="236.9836" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Scale ScaleX="1.1207" ScaleY="1.1207" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
@@ -493,11 +493,11 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="StrongLayer/ui/strong.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="title_0" ActionTag="370930616" VisibleForFrame="False" Tag="280" IconVisible="False" LeftMargin="-414.6442" RightMargin="291.6442" TopMargin="-161.0329" BottomMargin="131.0329" FontSize="20" LabelText="当前阵容评分" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="title_0" ActionTag="370930616" VisibleForFrame="False" Alpha="229" Tag="280" IconVisible="False" LeftMargin="-414.6442" RightMargin="291.6442" TopMargin="-161.0329" BottomMargin="131.0329" FontSize="20" LabelText="当前阵容评分" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="123.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
             <Position X="-414.6442" Y="146.0329" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Scale ScaleX="0.9010" ScaleY="1.0000" />
             <CColor A="255" R="226" G="239" B="242" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
@@ -505,7 +505,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="226" G="239" B="242" />
           </AbstractNodeData>
-          <AbstractNodeData Name="star_1" ActionTag="1479771796" VisibleForFrame="False" Tag="279" IconVisible="False" LeftMargin="-271.0274" RightMargin="246.0274" TopMargin="-160.2879" BottomMargin="135.2879" ctype="SpriteObjectData">
+          <AbstractNodeData Name="star_1" ActionTag="1479771796" VisibleForFrame="False" Alpha="0" Tag="279" IconVisible="False" LeftMargin="-271.0274" RightMargin="246.0274" TopMargin="-160.2879" BottomMargin="135.2879" ctype="SpriteObjectData">
             <Size X="25.0000" Y="25.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-258.5274" Y="147.7879" />
@@ -516,7 +516,7 @@
             <FileData Type="Normal" Path="StrongLayer/ui/icon_star0.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="star_2" ActionTag="793654736" VisibleForFrame="False" Tag="278" IconVisible="False" LeftMargin="-235.0442" RightMargin="210.0442" TopMargin="-160.2879" BottomMargin="135.2879" ctype="SpriteObjectData">
+          <AbstractNodeData Name="star_2" ActionTag="793654736" VisibleForFrame="False" Alpha="0" Tag="278" IconVisible="False" LeftMargin="-235.0442" RightMargin="210.0442" TopMargin="-160.2879" BottomMargin="135.2879" ctype="SpriteObjectData">
             <Size X="25.0000" Y="25.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-222.5442" Y="147.7879" />
@@ -527,7 +527,7 @@
             <FileData Type="Normal" Path="StrongLayer/ui/icon_star0.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="star_4" ActionTag="1585025789" VisibleForFrame="False" Tag="277" IconVisible="False" LeftMargin="-163.0779" RightMargin="138.0779" TopMargin="-160.2879" BottomMargin="135.2879" ctype="SpriteObjectData">
+          <AbstractNodeData Name="star_4" ActionTag="1585025789" VisibleForFrame="False" Alpha="0" Tag="277" IconVisible="False" LeftMargin="-163.0779" RightMargin="138.0779" TopMargin="-160.2879" BottomMargin="135.2879" ctype="SpriteObjectData">
             <Size X="25.0000" Y="25.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-150.5779" Y="147.7879" />
@@ -538,7 +538,7 @@
             <FileData Type="Normal" Path="StrongLayer/ui/icon_star0.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="star_3" ActionTag="118672466" VisibleForFrame="False" Tag="276" IconVisible="False" LeftMargin="-199.0611" RightMargin="174.0611" TopMargin="-160.2879" BottomMargin="135.2879" ctype="SpriteObjectData">
+          <AbstractNodeData Name="star_3" ActionTag="118672466" VisibleForFrame="False" Alpha="0" Tag="276" IconVisible="False" LeftMargin="-199.0611" RightMargin="174.0611" TopMargin="-160.2879" BottomMargin="135.2879" ctype="SpriteObjectData">
             <Size X="25.0000" Y="25.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-186.5611" Y="147.7879" />
@@ -549,7 +549,7 @@
             <FileData Type="Normal" Path="StrongLayer/ui/icon_star0.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="star_5" ActionTag="-246878063" VisibleForFrame="False" Tag="275" IconVisible="False" LeftMargin="-127.0947" RightMargin="102.0947" TopMargin="-160.2879" BottomMargin="135.2879" ctype="SpriteObjectData">
+          <AbstractNodeData Name="star_5" ActionTag="-246878063" VisibleForFrame="False" Alpha="0" Tag="275" IconVisible="False" LeftMargin="-127.0947" RightMargin="102.0947" TopMargin="-160.2879" BottomMargin="135.2879" ctype="SpriteObjectData">
             <Size X="25.0000" Y="25.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-114.5947" Y="147.7879" />
@@ -560,7 +560,7 @@
             <FileData Type="Normal" Path="StrongLayer/ui/icon_star0.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="frame_1" ActionTag="1232256268" Tag="267" IconVisible="False" LeftMargin="-351.4200" RightMargin="190.4200" TopMargin="-120.0015" BottomMargin="-113.9985" ctype="SpriteObjectData">
+          <AbstractNodeData Name="frame_1" ActionTag="1232256268" Alpha="204" Tag="267" IconVisible="False" LeftMargin="-351.4200" RightMargin="190.4200" TopMargin="-108.0000" BottomMargin="-126.0000" ctype="SpriteObjectData">
             <Size X="161.0000" Y="234.0000" />
             <Children>
               <AbstractNodeData Name="button" ActionTag="-396271049" Tag="268" IconVisible="False" LeftMargin="18.7880" RightMargin="19.2120" TopMargin="17.3204" BottomMargin="20.6796" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="93" Scale9Height="174" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
@@ -643,29 +643,29 @@
                 <FileData Type="Normal" Path="StrongLayer/ui/icon_star0.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text" ActionTag="89475560" Tag="274" IconVisible="False" LeftMargin="15.2320" RightMargin="15.7680" TopMargin="226.0566" BottomMargin="-38.0566" IsCustomSize="True" FontSize="18" LabelText="上阵飞船" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
-                <Size X="130.0000" Y="46.0000" />
+              <AbstractNodeData Name="text" ActionTag="89475560" Tag="274" IconVisible="False" LeftMargin="19.1391" RightMargin="11.8609" TopMargin="166.1800" BottomMargin="17.8200" IsCustomSize="True" FontSize="18" LabelText="上阵飞船" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
+                <Size X="130.0000" Y="50.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="80.2320" Y="-15.0566" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Position X="84.1391" Y="42.8200" />
+                <Scale ScaleX="0.9533" ScaleY="0.9533" />
                 <CColor A="255" R="196" G="220" B="248" />
-                <PrePosition X="0.4983" Y="-0.0643" />
-                <PreSize X="0.8075" Y="0.1966" />
+                <PrePosition X="0.5226" Y="0.1830" />
+                <PreSize X="0.8075" Y="0.2137" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="196" G="220" B="248" />
                 <ShadowColor A="255" R="196" G="220" B="248" />
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-270.9200" Y="3.0015" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="-270.9200" Y="-9.0000" />
+            <Scale ScaleX="1.1000" ScaleY="1.1000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="StrongLayer/ui/kuang_1.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="frame_2" ActionTag="332413225" Tag="259" IconVisible="False" LeftMargin="-170.6375" RightMargin="9.6375" TopMargin="-120.0000" BottomMargin="-114.0000" ctype="SpriteObjectData">
+          <AbstractNodeData Name="frame_2" ActionTag="332413225" Alpha="136" Tag="259" IconVisible="False" LeftMargin="-170.6375" RightMargin="9.6375" TopMargin="-108.0000" BottomMargin="-126.0000" ctype="SpriteObjectData">
             <Size X="161.0000" Y="234.0000" />
             <Children>
               <AbstractNodeData Name="button" ActionTag="181496889" Tag="260" IconVisible="False" LeftMargin="18.7900" RightMargin="19.2100" TopMargin="17.3200" BottomMargin="20.6800" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="93" Scale9Height="174" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
@@ -748,29 +748,29 @@
                 <FileData Type="Normal" Path="StrongLayer/ui/icon_star0.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text" ActionTag="1329252069" Tag="266" IconVisible="False" LeftMargin="15.2299" RightMargin="15.7701" TopMargin="226.0619" BottomMargin="-38.0619" IsCustomSize="True" FontSize="18" LabelText="飞船培养" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
-                <Size X="130.0000" Y="46.0000" />
+              <AbstractNodeData Name="text" ActionTag="1329252069" Tag="266" IconVisible="False" LeftMargin="13.2765" RightMargin="17.7235" TopMargin="166.1800" BottomMargin="17.8200" IsCustomSize="True" FontSize="18" LabelText="飞船培养" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
+                <Size X="130.0000" Y="50.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="80.2299" Y="-15.0619" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Position X="78.2765" Y="42.8200" />
+                <Scale ScaleX="0.9571" ScaleY="0.9571" />
                 <CColor A="255" R="196" G="220" B="248" />
-                <PrePosition X="0.4983" Y="-0.0644" />
-                <PreSize X="0.8075" Y="0.1966" />
+                <PrePosition X="0.4862" Y="0.1830" />
+                <PreSize X="0.8075" Y="0.2137" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="196" G="220" B="248" />
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-90.1375" Y="3.0000" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="-90.1375" Y="-9.0000" />
+            <Scale ScaleX="0.7367" ScaleY="1.0667" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="StrongLayer/ui/kuang_1.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="frame_3" ActionTag="1937574767" Tag="251" IconVisible="False" LeftMargin="10.1451" RightMargin="-171.1451" TopMargin="-120.0000" BottomMargin="-114.0000" ctype="SpriteObjectData">
+          <AbstractNodeData Name="frame_3" ActionTag="1937574767" Alpha="68" Tag="251" IconVisible="False" LeftMargin="10.1451" RightMargin="-171.1451" TopMargin="-108.0000" BottomMargin="-126.0000" ctype="SpriteObjectData">
             <Size X="161.0000" Y="234.0000" />
             <Children>
               <AbstractNodeData Name="button" ActionTag="-1371217331" Tag="252" IconVisible="False" LeftMargin="18.7900" RightMargin="19.2100" TopMargin="17.3200" BottomMargin="20.6800" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="93" Scale9Height="174" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
@@ -853,29 +853,29 @@
                 <FileData Type="Normal" Path="StrongLayer/ui/icon_star0.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text" ActionTag="135401832" Tag="258" IconVisible="False" LeftMargin="15.2296" RightMargin="15.7704" TopMargin="226.0619" BottomMargin="-38.0619" IsCustomSize="True" FontSize="18" LabelText="科技提升" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
-                <Size X="130.0000" Y="46.0000" />
+              <AbstractNodeData Name="text" ActionTag="135401832" Tag="258" IconVisible="False" LeftMargin="13.3604" RightMargin="17.6396" TopMargin="166.1800" BottomMargin="17.8200" IsCustomSize="True" FontSize="18" LabelText="sfssjidf&#xA;sdfsf" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
+                <Size X="130.0000" Y="50.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="80.2296" Y="-15.0619" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Position X="78.3604" Y="42.8200" />
+                <Scale ScaleX="0.9615" ScaleY="0.9615" />
                 <CColor A="255" R="196" G="220" B="248" />
-                <PrePosition X="0.4983" Y="-0.0644" />
-                <PreSize X="0.8075" Y="0.1966" />
+                <PrePosition X="0.4867" Y="0.1830" />
+                <PreSize X="0.8075" Y="0.2137" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="196" G="220" B="248" />
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="90.6451" Y="3.0000" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="90.6451" Y="-9.0000" />
+            <Scale ScaleX="0.3733" ScaleY="1.0333" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="StrongLayer/ui/kuang_1.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="frame_4" ActionTag="765360750" Tag="243" IconVisible="False" LeftMargin="190.9276" RightMargin="-351.9276" TopMargin="-120.0000" BottomMargin="-114.0000" ctype="SpriteObjectData">
+          <AbstractNodeData Name="frame_4" ActionTag="765360750" Alpha="0" Tag="243" IconVisible="False" LeftMargin="190.9276" RightMargin="-351.9276" TopMargin="-108.0000" BottomMargin="-126.0000" ctype="SpriteObjectData">
             <Size X="161.0000" Y="234.0000" />
             <Children>
               <AbstractNodeData Name="button" ActionTag="-1753005456" Tag="244" IconVisible="False" LeftMargin="18.7900" RightMargin="19.2100" TopMargin="17.3200" BottomMargin="20.6800" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="93" Scale9Height="174" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
@@ -958,33 +958,33 @@
                 <FileData Type="Normal" Path="StrongLayer/ui/icon_star0.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text" ActionTag="-379876447" Tag="250" IconVisible="False" LeftMargin="15.2356" RightMargin="15.7644" TopMargin="226.0619" BottomMargin="-38.0619" IsCustomSize="True" FontSize="18" LabelText="其他途径" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
-                <Size X="130.0000" Y="46.0000" />
+              <AbstractNodeData Name="text" ActionTag="-379876447" Tag="250" IconVisible="False" LeftMargin="16.5380" RightMargin="14.4620" TopMargin="166.1800" BottomMargin="17.8200" IsCustomSize="True" FontSize="18" LabelText="其他途径" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ctype="TextObjectData">
+                <Size X="130.0000" Y="50.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="80.2356" Y="-15.0619" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Position X="81.5380" Y="42.8200" />
+                <Scale ScaleX="0.9667" ScaleY="0.9667" />
                 <CColor A="255" R="196" G="220" B="248" />
-                <PrePosition X="0.4984" Y="-0.0644" />
-                <PreSize X="0.8075" Y="0.1966" />
+                <PrePosition X="0.5064" Y="0.1830" />
+                <PreSize X="0.8075" Y="0.2137" />
                 <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="196" G="220" B="248" />
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="271.4276" Y="3.0000" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="271.4276" Y="-9.0000" />
+            <Scale ScaleX="0.0100" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="StrongLayer/ui/kuang_1.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="tips" ActionTag="-1855723521" Tag="286" IconVisible="False" LeftMargin="189.9113" RightMargin="-419.9113" TopMargin="166.9893" BottomMargin="-193.9893" FontSize="18" LabelText="(提示：点击选择变强的方式)" HorizontalAlignmentType="HT_Right" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="tips" ActionTag="-1855723521" Alpha="0" Tag="286" IconVisible="False" LeftMargin="189.9113" RightMargin="-419.9113" TopMargin="166.9893" BottomMargin="-193.9893" FontSize="18" LabelText="(提示：点击选择变强的方式)" HorizontalAlignmentType="HT_Right" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="230.0000" Y="27.0000" />
             <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
             <Position X="419.9113" Y="-180.4893" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Scale ScaleX="0.0100" ScaleY="1.0000" />
             <CColor A="255" R="194" G="219" B="247" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />

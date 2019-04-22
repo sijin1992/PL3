@@ -84,25 +84,25 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_2" ActionTag="840506940" Tag="2952" IconVisible="False" LeftMargin="382.0902" RightMargin="631.9098" TopMargin="381.5456" BottomMargin="356.4544" FontSize="20" LabelText="升级所需时间" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="Text_2" ActionTag="840506940" Tag="2952" IconVisible="False" LeftMargin="421.0936" RightMargin="592.9064" TopMargin="381.5456" BottomMargin="356.4544" FontSize="20" LabelText="升级所需时间" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="122.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="382.0902" Y="371.4544" />
+            <Position X="421.0936" Y="371.4544" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.3363" Y="0.4837" />
+            <PrePosition X="0.3707" Y="0.4837" />
             <PreSize X="0.1074" Y="0.0391" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_3" ActionTag="-2033510284" Tag="2953" IconVisible="False" LeftMargin="519.3678" RightMargin="534.6322" TopMargin="381.8457" BottomMargin="356.1543" FontSize="20" LabelText="提升战力" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="Text_3" ActionTag="-2033510284" Tag="2953" IconVisible="False" LeftMargin="600.3703" RightMargin="453.6297" TopMargin="381.8458" BottomMargin="356.1542" FontSize="20" LabelText="提升战力" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="82.0000" Y="30.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="519.3678" Y="371.1543" />
+            <Position X="600.3703" Y="371.1542" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.4572" Y="0.4833" />
+            <PrePosition X="0.5285" Y="0.4833" />
             <PreSize X="0.0722" Y="0.0391" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
