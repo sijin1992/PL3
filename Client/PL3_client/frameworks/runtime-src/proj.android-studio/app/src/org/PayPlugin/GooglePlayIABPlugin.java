@@ -69,7 +69,7 @@ public class GooglePlayIABPlugin
 	}	
 	
 	public void onCreate(Bundle savedInstanceState) {
-		String base64EncodedPublicKey = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmvIWzr0wfeitcvD+BYg8GX11JJ5NNwu6pgd5qw7OTxiyxcveYE9qT47hcUhBaCC6DpYO//jAw6Z8b9zTUGOALstCnjON6GERVNAMc/me5p6nczvgMq/xkyLhAZY8m99LnpAIjKwO0xyyr5ptKyjH1gDAUtJPfg6yivciwco2Zn1+cOJgn/+iRS8hJtRm6j2xGIvjk18jsoi1eVm5nMBDtIBx0XXhM2CnqawDteZDzPLppTkhcJIOLsJzHvdY0y4ZYWvZ+hK8VUiWC8vBBpg3hD426XflKSDwAxZ197gj5d7pC2eo19iwvp8pjxOuhi/rCY9qa+Hi5aQq4LGP/6qdMwIDAQAB";
+		String base64EncodedPublicKey = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlubhOb368HrnsaSPbBQHmj0BFkEnrycPasmuUsYT8L9347WT0pgFYgDRL4WuDU88SItfTiwBSZeV7pq2jIaS76pFdKoihokfx+g6AO/u5wUwrpO3LOJiaLuazWivSmJ6vgFB9M100+D2r1Vucu5UOwLLfnqcFPZIWozWON5Bqz8P+ZoU64mGAeUwa8L3MXCuDdVdJXLq44WAKm7dmq5UApIDzxc4rZzNTbfphcTyn8gV5PoMTIyInHkjSW7m97qBcVYJ/z1FETi8/cJ2jLD1hMqHUhUVvltMRNpj3Vgm/x5zZvvZh8xlF/lVa+kTAKMSitn2OuzsusE+qXrMFc8cXwIDAQAB";
 		// Create the helper, passing it our context and the public key to verify signatures with
 		Log.d(TAG, "Creating IAB helper.");
 		mHelper = new IabHelper(mActivity, base64EncodedPublicKey);
