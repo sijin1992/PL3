@@ -29,7 +29,7 @@ g_platform = 101 --审核:101 普通:102
 
 g_big_version = 1
 
-g_org_res_version = 1 --版本 目前 4是发行 5是审核
+g_org_res_version = 2 --版本 目前 4是发行 5是审核
 
 server_platform = 1--0:cn 1:en
 
