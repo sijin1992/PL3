@@ -2,7 +2,7 @@
 <Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Row>
 		<ID>1</ID>
-		<EXP>0</EXP>
+		<EXP>600</EXP>
 		<EXP_ALL>600</EXP_ALL>
 		<FRIEND_NUM>10</FRIEND_NUM>
 		<BLACK_NUM>10</BLACK_NUM>
