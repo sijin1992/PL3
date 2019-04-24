@@ -288,11 +288,9 @@
           <Folder Name="FailedLayer">
             <Folder Name="ui">
               <Image Name="failed_tx1.png" />
-              <Image Name="ui_FAILED.png" />
               <Image Name="ui_icon_start.png" />
               <Image Name="ui_icon_start-black.png" />
               <Image Name="ui_progress_light2big.png" />
-              <Image Name="ui_VICTORY.png" />
             </Folder>
             <Project Name="FailedLayer.csd" Type="Layer" />
           </Folder>
