@@ -18,7 +18,7 @@
  	<Row>
 		<ID>4</ID>
 		<KEY>preloading</KEY>
-		<VALUE>Resource loading... (This process does not consume cellular data， please be patient...)</VALUE>
+		<VALUE>Resource loading... (Does not consume cellular data， please be patient...)</VALUE>
 	</Row>
  	<Row>
 		<ID>5</ID>
@@ -16943,12 +16943,12 @@
  	<Row>
 		<ID>3389</ID>
 		<KEY>mainTask</KEY>
-		<VALUE>Main Mission</VALUE>
+		<VALUE>Story line Mission</VALUE>
 	</Row>
  	<Row>
 		<ID>3390</ID>
 		<KEY>bountyTask</KEY>
-		<VALUE>Bounty Mission</VALUE>
+		<VALUE>Regular Mission</VALUE>
 	</Row>
  	<Row>
 		<ID>3391</ID>
@@ -33483,12 +33483,12 @@
  	<Row>
 		<ID>6697</ID>
 		<KEY>jackpot_gold</KEY>
-		<VALUE>Gold Jackpot</VALUE>
+		<VALUE>Gold</VALUE>
 	</Row>
  	<Row>
 		<ID>6698</ID>
 		<KEY>jackpot_credit</KEY>
-		<VALUE>Diamond Jackpot</VALUE>
+		<VALUE>Diamond </VALUE>
 	</Row>
  	<Row>
 		<ID>6699</ID>
@@ -35383,7 +35383,7 @@
  	<Row>
 		<ID>7077</ID>
 		<KEY>strong name 1</KEY>
-		<VALUE>Increase the upper limit of the ships that can participate in the battle</VALUE>
+		<VALUE>Increase the upper limit of the ships in the battle</VALUE>
 	</Row>
  	<Row>
 		<ID>7078</ID>
@@ -35418,7 +35418,7 @@
  	<Row>
 		<ID>7084</ID>
 		<KEY>strong name 5</KEY>
-		<VALUE>Spaceship equipments and equipments strengthening</VALUE>
+		<VALUE>Equipments and equipments strengthening</VALUE>
 	</Row>
  	<Row>
 		<ID>7085</ID>
@@ -35643,7 +35643,7 @@
  	<Row>
 		<ID>7129</ID>
 		<KEY>STRENGTHEN_TEXT_6</KEY>
-		<VALUE>Increase the upper limit of the ships that can participate in the battle</VALUE>
+		<VALUE>Increase the upper limit of the ships in the battle</VALUE>
 	</Row>
  	<Row>
 		<ID>7130</ID>
