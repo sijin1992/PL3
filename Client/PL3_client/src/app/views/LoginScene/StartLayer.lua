@@ -43,6 +43,12 @@ function StartLayer:FlurryLog_Login()
 	]]
 end
 
+function StartLayer:BuglyLogin()
+    local userId = ud:getIntegerForKey("user_id")
+    buglySetUserId(tostring(userId))
+    buglySetTag(3)
+end
+
 function StartLayer:TDLogin()
     print("-----------------------------------TD1")
     local deviceId = TalkingDataGA:getDeviceId()
@@ -65,6 +71,7 @@ function StartLayer:OnStartGameButtonClicked()
 
 --	self:FlurryLog_Login(_self)
     if device.platform == "ios" or device.platform == "android" then
+        self:BuglyLogin()
         self:TDLogin()
     end
 

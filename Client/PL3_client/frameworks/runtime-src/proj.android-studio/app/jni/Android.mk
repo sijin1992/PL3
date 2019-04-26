@@ -1,5 +1,13 @@
 LOCAL_PATH := $(call my-dir)
 
+# --libBugly.so--
+include $(CLEAR_VARS)
+LOCAL_MODULE := bugly_native_prebuilt
+#可在Application.mk添加APP_ABI := armeabi armeabi-v7a 指定集成对应架构的.so文件
+LOCAL_SRC_FILES := prebuilt/$(TARGET_ARCH_ABI)/libBugly.so
+include $(PREBUILT_SHARED_LIBRARY)
+#--end--
+
 include $(CLEAR_VARS)
 
 LOCAL_MODULE := cocos2dlua_shared
@@ -104,6 +112,10 @@ LOCAL_WHOLE_STATIC_LIBRARIES += cocos2dx-talkingdata
 
 LOCAL_STATIC_LIBRARIES := cocos2d_lua_static
 LOCAL_STATIC_LIBRARIES += cocos2d_simulator_static
+#引入bugly/Android.mk定义的Module
+LOCAL_STATIC_LIBRARIES += bugly_crashreport_cocos_static
+#引入bugly//lua/Android.mk定义的Module
+LOCAL_STATIC_LIBRARIES += bugly_agent_cocos_static_lua
 
 # _COCOS_LIB_ANDROID_BEGIN
 # _COCOS_LIB_ANDROID_END
@@ -113,6 +125,8 @@ include $(BUILD_SHARED_LIBRARY)
 $(call import-module,scripting/lua-bindings/proj.android)
 $(call import-module,tools/simulator/libsimulator/proj.android)
 $(call import-module,TalkingDataGameAnalytics/android)
+$(call import-module,external/bugly)
+$(call import-module,external/bugly/lua)
 
 # _COCOS_LIB_IMPORT_ANDROID_BEGIN
 # _COCOS_LIB_IMPORT_ANDROID_END
