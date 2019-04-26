@@ -30,6 +30,9 @@ LaunchScene.exConfig = require("util.ExConfig"):getInstance()
 function LaunchScene:onEnter()
   
 	printInfo("LaunchScene:onEnter()")
+    if device.platform == "ios" or device.platform == "android" then
+        buglySetTag(1)
+    end
 	-- WJJ: DO CREATE PRELOADER ON START LAYER!
 	self.exResPreloader:onCreate()
 	self.exConfig:onCreate()

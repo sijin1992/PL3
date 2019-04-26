@@ -1,5 +1,12 @@
 apply plugin: 'com.android.application'
 
+apply plugin: 'bugly'
+bugly {
+    appId = "948249d485"
+    appKey = "3a1bf878-ad57-485a-ae6c-7c8f0631f57f"
+    debug = false
+}
+
 android {
     compileSdkVersion 25
     buildToolsVersion '25.0.2'

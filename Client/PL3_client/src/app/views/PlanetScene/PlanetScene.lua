@@ -54,6 +54,10 @@ end
 
 function PlanetScene:onEnter()
 	printInfo("PlanetScene:onEnter()")
+    if device.platform == "ios" or device.platform == "android" then
+        TDGAMission:onBegin("EnterPlanetScene")
+        buglySetTag(8)
+    end
 	-- ADD WJJ 20180705
 	-- require("app.ExMemoryInterface"):getInstance():OnDisableMemoryReleaseAsync()
 
