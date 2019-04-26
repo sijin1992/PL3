@@ -103,6 +103,7 @@ function RegisterPlayerScene:onEnterTransitionFinish()
 
     if device.platform == "ios" or device.platform == "android" then
         TDGAMission:onBegin("RegisterPlayer")
+        buglySetTag(5)
     end
 
 	playMusic("sound/main.mp3", true)

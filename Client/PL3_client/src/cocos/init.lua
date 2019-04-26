@@ -27,8 +27,18 @@ require "cocos.cocos2d.Cocos2dConstants"
 require "cocos.cocos2d.functions"
 
 __G__TRACKBACK__ = function(msg)
+    -- record the message
+    local message = msg
+
+     -- auto genretated
     local msg = debug.traceback(msg, 3)
     print(msg)
+
+    if device.platform == "ios" or device.platform == "android" then
+        -- report lua exception
+        buglyReportLuaException(tostring(message), debug.traceback())
+    end
+
     return msg
 end
 
