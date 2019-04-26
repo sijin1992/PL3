@@ -55,6 +55,9 @@ end
 function LoginScene:onEnter()
 	
 	printInfo("LoginScene:onEnter()")
+    if device.platform == "ios" or device.platform == "android" then
+        buglySetTag(2)
+    end
 end
 
 function LoginScene:onExit()

@@ -22,6 +22,13 @@
 #include "ide-support/RuntimeLuaImpl.h"
 #endif
 
+#if (CC_TARGET_PLATFORM == CC_PLATFORM_ANDROID)
+#include "bugly/CrashReport.h"
+#include "bugly/lua/BuglyLuaAgent.h"
+#elif (CC_TARGET_PLATFORM == CC_PLATFORM_IOS)
+#include "CrashReport.h"
+#include "BuglyLuaAgent.h"
+#endif
 
 using namespace CocosDenshion;
 using namespace cocos2d::experimental;
@@ -64,12 +71,23 @@ static int register_all_packages()
 
 bool AppDelegate::applicationDidFinishLaunching()
 {
+#if (CC_TARGET_PLATFORM == CC_PLATFORM_IOS || CC_TARGET_PLATFORM == CC_PLATFORM_ANDROID)
+	// Init the Bugly
+	CrashReport::initCrashReport("948249d485", false);
+#endif
+
     // set default FPS
     Director::getInstance()->setAnimationInterval(1.0f / 60.0f);
 
     // register lua module
     auto engine = LuaEngine::getInstance();
     ScriptEngineManager::getInstance()->setScriptEngine(engine);
+
+#if (CC_TARGET_PLATFORM == CC_PLATFORM_IOS || CC_TARGET_PLATFORM == CC_PLATFORM_ANDROID)
+	// register lua exception handler
+	BuglyLuaAgent::registerLuaExceptionHandler(engine);
+#endif
+
     lua_State* L = engine->getLuaStack()->getLuaState();
     lua_module_register(L);
     register_all_myclass(L);

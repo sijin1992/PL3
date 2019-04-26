@@ -278,6 +278,7 @@ function RegisterShipScene:onEnterTransitionFinish()
 
     if device.platform == "ios" or device.platform == "android" then
         TDGAMission:onBegin("RegisterShip")
+        buglySetTag(6)
     end
 
     local rn = self:getResourceNode()

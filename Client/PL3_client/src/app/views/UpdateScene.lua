@@ -424,6 +424,9 @@ end
 function UpdateScene:onEnter()
 	
 	printInfo("UpdateScene:onEnter()")
+    if device.platform == "ios" or device.platform == "android" then
+        buglySetTag(4)
+    end
 	-- DEBUG WJJ
 --	if( g_is_release_memory_enabled or (device.platform ~= "windows") ) then
 --		if( cc.exports.memoryReleaseAsync == nil ) then
