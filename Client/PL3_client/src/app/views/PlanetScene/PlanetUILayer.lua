@@ -378,6 +378,9 @@ function PlanetUILayer:onEnterTransitionFinish()
 --			local enteranim = require("app.ExResInterface"):getInstance():FastLoad("PlanetScene/sfx/enteranim/enteranim.csb")
 --		        animManager:runAnimOnceByCSB(enteranim,"PlanetScene/sfx/enteranim/enteranim.csb" ,"1", function ( )
 --                enteranim:removeFromParent()
+                if device.platform == "ios" or device.platform == "android" then
+                    TDGAMission:onCompleted("EnterPlanetScene")
+                end
                 self:getApp():addView2Top("CityScene/TransferScene",{from = "city" ,state = "start"})
                 --app:pushToRootView("CityScene/CityScene", {pos = g_city_scene_pos,sfx = false})
                 -- self:getApp():pushToRootView("CityScene/TransferScene",{from = "city" ,state = "start"})
