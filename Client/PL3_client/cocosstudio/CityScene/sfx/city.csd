@@ -45,7 +45,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5192" Y="0.4808" />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="CityScene/sfx/city_17.csd" Plist="" />
+            <FileData Type="Normal" Path="" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="city_11" ActionTag="1890595205" VisibleForFrame="False" Tag="5762" IconVisible="True" LeftMargin="1510.3358" RightMargin="1426.6642" TopMargin="340.1683" BottomMargin="427.8317" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
@@ -235,7 +235,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.2735" Y="0.4960" />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="CityScene/sfx/city_15.csd" Plist="" />
+            <FileData Type="Normal" Path="" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="G15" Visible="False" ActionTag="-228500936" VisibleForFrame="False" Tag="2225" IconVisible="True" LeftMargin="803.3300" RightMargin="2133.6699" TopMargin="387.0800" BottomMargin="380.9200" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
