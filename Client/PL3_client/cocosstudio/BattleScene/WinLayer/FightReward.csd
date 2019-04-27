@@ -6,15 +6,15 @@
       <ObjectData Name="Node" Tag="208" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="ui_VICTORY_2" ActionTag="-745671300" Tag="133" IconVisible="False" LeftMargin="-439.6805" RightMargin="101.6805" TopMargin="-258.8374" BottomMargin="195.8374" ctype="SpriteObjectData">
-            <Size X="338.0000" Y="63.0000" />
+          <AbstractNodeData Name="ui_VICTORY_2" ActionTag="-745671300" Tag="133" IconVisible="False" LeftMargin="-293.6805" RightMargin="247.6805" TopMargin="-250.3374" BottomMargin="204.3374" ctype="SpriteObjectData">
+            <Size X="472.0000" Y="66.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-270.6805" Y="227.3374" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="BattleScene/FailedLayer/ui/ui_VICTORY.png" Plist="" />
+            <FileData Type="Normal" Path="BattleScene/WinLayer/ui_icon_victory.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="Image_1" CanEdit="False" ActionTag="456563071" Tag="179" IconVisible="False" LeftMargin="-517.4443" RightMargin="-506.5557" TopMargin="-229.4866" BottomMargin="-154.5134" LeftEage="374" RightEage="374" TopEage="72" BottomEage="72" Scale9OriginX="374" Scale9OriginY="72" Scale9Width="388" Scale9Height="84" ctype="ImageViewObjectData">
