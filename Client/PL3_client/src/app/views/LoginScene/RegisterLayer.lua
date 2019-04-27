@@ -185,8 +185,8 @@ function RegisterLayer:onEnterTransitionFinish()
 
 	local res = self:getResourceNode()
 	animManager:runAnimOnceByCSB(res, "LoginScene/RegisterLayer.csb", "animation")
-    animManager:runAnimByCSB(res:getChildByName("number"),"LoginScene/sfx/number/suzibofang.csb","1")
-    animManager:runAnimByCSB(res:getChildByName("squres"),"LoginScene/sfx/squres/squres.csb","1")
+--    animManager:runAnimByCSB(res:getChildByName("number"),"LoginScene/sfx/number/suzibofang.csb","1")
+--    animManager:runAnimByCSB(res:getChildByName("squres"),"LoginScene/sfx/squres/squres.csb","1")
 	res:getChildByName("layer_name"):setString(CONF:getStringValue("create_account"))
 	res:getChildByName("confirm"):getChildByName("text"):setString(CONF:getStringValue("register"))
 

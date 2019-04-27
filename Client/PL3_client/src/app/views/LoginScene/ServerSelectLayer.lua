@@ -103,8 +103,8 @@ function ServerSelectLayer:onEnterTransitionFinish()
 
 	res:getChildByName("title"):setString(CONF:getStringValue("server_list"))
 
-    animManager:runAnimByCSB(res:getChildByName("number"),"LoginScene/sfx/number/suzibofang.csb","1")
-    animManager:runAnimByCSB(res:getChildByName("squres"),"LoginScene/sfx/squres/squres.csb","1")
+--    animManager:runAnimByCSB(res:getChildByName("number"),"LoginScene/sfx/number/suzibofang.csb","1")
+--    animManager:runAnimByCSB(res:getChildByName("squres"),"LoginScene/sfx/squres/squres.csb","1")
 	animManager:runAnimOnceByCSB(self:getResourceNode(), "LoginScene/ServerSelectLayer.csb", "animation", function ( ... )
 		
 		end)

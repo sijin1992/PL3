@@ -123,8 +123,8 @@ function LoginLayer:onEnterTransitionFinish()
 
 	local res = self:getResourceNode()
 	animManager:runAnimOnceByCSB(res, "LoginScene/LoginLayer.csb", "animation")
-    animManager:runAnimByCSB(res:getChildByName("number"),"LoginScene/sfx/number/suzibofang.csb","1")
-    animManager:runAnimByCSB(res:getChildByName("squres"),"LoginScene/sfx/squres/squres.csb","1")
+--    animManager:runAnimByCSB(res:getChildByName("number"),"LoginScene/sfx/number/suzibofang.csb","1")
+--    animManager:runAnimByCSB(res:getChildByName("squres"),"LoginScene/sfx/squres/squres.csb","1")
 
 	res:getChildByName("register"):getChildByName("text"):setString(CONF:getStringValue("create_account"))
 	res:getChildByName("register"):addClickEventListener(function ( ... )

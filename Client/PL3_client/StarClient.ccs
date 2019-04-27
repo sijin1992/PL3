@@ -4268,62 +4268,6 @@
               <Image Name="light_top2.png" />
               <Image Name="light_yun.png" />
             </Folder>
-            <Folder Name="number">
-              <Image Name="0.png" />
-              <Image Name="1.png" />
-              <Image Name="10.png" />
-              <Image Name="11.png" />
-              <Image Name="12.png" />
-              <Image Name="13.png" />
-              <Image Name="14.png" />
-              <Image Name="15.png" />
-              <Image Name="16.png" />
-              <Image Name="17.png" />
-              <Image Name="18.png" />
-              <Image Name="19.png" />
-              <Image Name="2.png" />
-              <Image Name="20.png" />
-              <Image Name="21.png" />
-              <Image Name="22.png" />
-              <Image Name="23.png" />
-              <Image Name="24.png" />
-              <Image Name="3.png" />
-              <Image Name="4.png" />
-              <Image Name="5.png" />
-              <Image Name="6.png" />
-              <Image Name="7.png" />
-              <Image Name="8.png" />
-              <Image Name="9.png" />
-              <Project Name="suzibofang.csd" Type="Node" />
-            </Folder>
-            <Folder Name="squres">
-              <Image Name="0.png" />
-              <Image Name="1.png" />
-              <Image Name="10.png" />
-              <Image Name="11.png" />
-              <Image Name="12.png" />
-              <Image Name="13.png" />
-              <Image Name="14.png" />
-              <Image Name="15.png" />
-              <Image Name="16.png" />
-              <Image Name="17.png" />
-              <Image Name="18.png" />
-              <Image Name="19.png" />
-              <Image Name="2.png" />
-              <Image Name="20.png" />
-              <Image Name="21.png" />
-              <Image Name="22.png" />
-              <Image Name="23.png" />
-              <Image Name="24.png" />
-              <Image Name="3.png" />
-              <Image Name="4.png" />
-              <Image Name="5.png" />
-              <Image Name="6.png" />
-              <Image Name="7.png" />
-              <Image Name="8.png" />
-              <Image Name="9.png" />
-              <Project Name="squres.csd" Type="Node" />
-            </Folder>
             <Image Name="6.png" />
           </Folder>
           <Folder Name="ui">
