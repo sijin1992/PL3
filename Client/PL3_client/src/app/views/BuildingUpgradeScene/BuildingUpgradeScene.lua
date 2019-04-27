@@ -1476,7 +1476,7 @@ function BuildingUpgradeScene:onEnterTransitionFinish()
                     TDGAItem:onPurchase("speed_up_buildBuildingName_"..self.data_.building_num, 1, tonumber(self.cdNum))
                 end
 
-				local node = require("util.UpgradeOverNode"):createNode(CONF:getStringValue("BuildingName_"..self.data_.building_num).."Lv."..proto.info.level..CONF:getStringValue("UpgradeSucess"))
+				local node = require("util.UpgradeOverNode"):createNode(CONF:getStringValue("BuildingName_"..self.data_.building_num).." Lv."..proto.info.level.." "..CONF:getStringValue("UpgradeSucess"))
 				node:setPosition(cc.exports.VisibleRect:center())
 				self:addChild(node)
 
