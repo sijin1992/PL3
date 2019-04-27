@@ -1110,7 +1110,7 @@ STRING_EN["index"][159] = 159
 STRING_EN[159] = {}
 	STRING_EN[159]["ID"] = 159
 	STRING_EN[159]["KEY"] = "Ship_M114002"
-	STRING_EN[159]["VALUE"] = "A ship full of  the sense of distance， unreachable."
+	STRING_EN[159]["VALUE"] = "A ship full of the sense of distance，unreachable."
 	STRING_EN[159]["real_idx"] = 159
 
 STRING_EN["index"][160] = 160
@@ -1467,7 +1467,7 @@ STRING_EN["index"][210] = 210
 STRING_EN[210] = {}
 	STRING_EN[210]["ID"] = 210
 	STRING_EN[210]["KEY"] = "Ship_M144001"
-	STRING_EN[210]["VALUE"] = "A intermediate ship that is easy to drive， it's a good friend for the expedition team， and  it's always bought in large quantities."
+	STRING_EN[210]["VALUE"] = "A intermediate ship that is easy to drive，it's a good friend for the expedition team，and it's always bought in large quantities."
 	STRING_EN[210]["real_idx"] = 210
 
 STRING_EN["index"][211] = 211
@@ -1628,7 +1628,7 @@ STRING_EN["index"][233] = 233
 STRING_EN[233] = {}
 	STRING_EN[233]["ID"] = 233
 	STRING_EN[233]["KEY"] = "EQ_N1030105"
-	STRING_EN[233]["VALUE"] = "Odonata Lightweight  Wing"
+	STRING_EN[233]["VALUE"] = "Odonata Lightweight Wing"
 	STRING_EN[233]["real_idx"] = 233
 
 STRING_EN["index"][234] = 234
@@ -1859,7 +1859,7 @@ STRING_EN["index"][266] = 266
 STRING_EN[266] = {}
 	STRING_EN[266]["ID"] = 266
 	STRING_EN[266]["KEY"] = "EQ_N2040125"
-	STRING_EN[266]["VALUE"] = "Ambassador Stable  Engine"
+	STRING_EN[266]["VALUE"] = "Ambassador Stable Engine"
 	STRING_EN[266]["real_idx"] = 266
 
 STRING_EN["index"][267] = 267
@@ -10399,7 +10399,7 @@ STRING_EN["index"][1486] = 1486
 STRING_EN[1486] = {}
 	STRING_EN[1486]["ID"] = 1486
 	STRING_EN[1486]["KEY"] = "MAINCOPY_2010407"
-	STRING_EN[1486]["VALUE"] = "Mission completed in Commander  Connor"
+	STRING_EN[1486]["VALUE"] = "Mission completed in Commander Connor"
 	STRING_EN[1486]["real_idx"] = 1486
 
 STRING_EN["index"][1487] = 1487
@@ -10525,7 +10525,7 @@ STRING_EN["index"][1504] = 1504
 STRING_EN[1504] = {}
 	STRING_EN[1504]["ID"] = 1504
 	STRING_EN[1504]["KEY"] = "MAINCOPY_3010307"
-	STRING_EN[1504]["VALUE"] = "Mission completed in the Captain Fleet of  Imperial Garrison"
+	STRING_EN[1504]["VALUE"] = "Mission completed in the Captain Fleet of Imperial Garrison"
 	STRING_EN[1504]["real_idx"] = 1504
 
 STRING_EN["index"][1505] = 1505
@@ -11148,7 +11148,7 @@ STRING_EN["index"][1593] = 1593
 STRING_EN[1593] = {}
 	STRING_EN[1593]["ID"] = 1593
 	STRING_EN[1593]["KEY"] = "MAINCOPY_5010404"
-	STRING_EN[1593]["VALUE"] = "Mission completed in Remnant of  Roland"
+	STRING_EN[1593]["VALUE"] = "Mission completed in Remnant of Roland"
 	STRING_EN[1593]["real_idx"] = 1593
 
 STRING_EN["index"][1594] = 1594
@@ -13227,7 +13227,7 @@ STRING_EN["index"][1890] = 1890
 STRING_EN[1890] = {}
 	STRING_EN[1890]["ID"] = 1890
 	STRING_EN[1890]["KEY"] = "M_SHIP_COLLECT_1"
-	STRING_EN[1890]["VALUE"] = "The cabin can be used to synthesize its corresponding spaceship. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
+	STRING_EN[1890]["VALUE"] = "The cabin can be used to synthesize its corresponding spaceship. The cabins are mainly from Cabin R&D Factory，Galaxy and Events!"
 	STRING_EN[1890]["real_idx"] = 1890
 
 STRING_EN["index"][1891] = 1891
@@ -13269,7 +13269,7 @@ STRING_EN["index"][1896] = 1896
 STRING_EN[1896] = {}
 	STRING_EN[1896]["ID"] = 1896
 	STRING_EN[1896]["KEY"] = "M_SHIP_COLLECT_7"
-	STRING_EN[1896]["VALUE"] = "The higher the value of the spaceship， the more the cabins that need to be consumed. The cabins are mainly from  Cabin R&D Factory， Galaxy and Events!"
+	STRING_EN[1896]["VALUE"] = "The higher the value of the spaceship，the more the cabins that need to be consumed. The cabins are mainly from Cabin R&D Factory，Galaxy and Events!"
 	STRING_EN[1896]["real_idx"] = 1896
 
 STRING_EN["index"][1897] = 1897
@@ -19226,14 +19226,14 @@ STRING_EN["index"][2747] = 2747
 STRING_EN[2747] = {}
 	STRING_EN[2747]["ID"] = 2747
 	STRING_EN[2747]["KEY"] = "Level_N1010201"
-	STRING_EN[2747]["VALUE"] = "Interior Area of Planet Space Station"
+	STRING_EN[2747]["VALUE"] = "Interior of Planet Space Station"
 	STRING_EN[2747]["real_idx"] = 2747
 
 STRING_EN["index"][2748] = 2748
 STRING_EN[2748] = {}
 	STRING_EN[2748]["ID"] = 2748
 	STRING_EN[2748]["KEY"] = "Level_N1010202"
-	STRING_EN[2748]["VALUE"] = "The Stronghold of Planet Space Station"
+	STRING_EN[2748]["VALUE"] = "The Stronghold of Space Station"
 	STRING_EN[2748]["real_idx"] = 2748
 
 STRING_EN["index"][2749] = 2749
@@ -19254,7 +19254,7 @@ STRING_EN["index"][2751] = 2751
 STRING_EN[2751] = {}
 	STRING_EN[2751]["ID"] = 2751
 	STRING_EN[2751]["KEY"] = "Level_N1010301"
-	STRING_EN[2751]["VALUE"] = "The Stronghold of Imperial Scouts "
+	STRING_EN[2751]["VALUE"] = "Stronghold of Imperial Scouts "
 	STRING_EN[2751]["real_idx"] = 2751
 
 STRING_EN["index"][2752] = 2752
@@ -19555,7 +19555,7 @@ STRING_EN["index"][2794] = 2794
 STRING_EN[2794] = {}
 	STRING_EN[2794]["ID"] = 2794
 	STRING_EN[2794]["KEY"] = "Level_N3010307"
-	STRING_EN[2794]["VALUE"] = "The Captain Fleet of  Imperial Garrison"
+	STRING_EN[2794]["VALUE"] = "The Captain Fleet of Imperial Garrison"
 	STRING_EN[2794]["real_idx"] = 2794
 
 STRING_EN["index"][2795] = 2795
@@ -20178,7 +20178,7 @@ STRING_EN["index"][2883] = 2883
 STRING_EN[2883] = {}
 	STRING_EN[2883]["ID"] = 2883
 	STRING_EN[2883]["KEY"] = "Level_N5010404"
-	STRING_EN[2883]["VALUE"] = "Remnant of  Roland"
+	STRING_EN[2883]["VALUE"] = "Remnant of Roland"
 	STRING_EN[2883]["real_idx"] = 2883
 
 STRING_EN["index"][2884] = 2884
@@ -29012,7 +29012,7 @@ STRING_EN["index"][4145] = 4145
 STRING_EN[4145] = {}
 	STRING_EN[4145]["ID"] = 4145
 	STRING_EN[4145]["KEY"] = "3_STARS_ACH_2010407"
-	STRING_EN[4145]["VALUE"] = "Commander  Connor"
+	STRING_EN[4145]["VALUE"] = "Commander Connor"
 	STRING_EN[4145]["real_idx"] = 4145
 
 STRING_EN["index"][4146] = 4146
@@ -29516,7 +29516,7 @@ STRING_EN["index"][4217] = 4217
 STRING_EN[4217] = {}
 	STRING_EN[4217]["ID"] = 4217
 	STRING_EN[4217]["KEY"] = "4_STARS_ACH4_2010407"
-	STRING_EN[4217]["VALUE"] = "(Advanced) Commander  Connor"
+	STRING_EN[4217]["VALUE"] = "(Advanced) Commander Connor"
 	STRING_EN[4217]["real_idx"] = 4217
 
 STRING_EN["index"][4218] = 4218
@@ -32134,7 +32134,7 @@ STRING_EN["index"][4591] = 4591
 STRING_EN[4591] = {}
 	STRING_EN[4591]["ID"] = 4591
 	STRING_EN[4591]["KEY"] = "3_STARS_ACH_2010407_DETAIL"
-	STRING_EN[4591]["VALUE"] = "Mission Complete with 3 Stars in Instance: Commander  Connor"
+	STRING_EN[4591]["VALUE"] = "Mission Complete with 3 Stars in Instance: Commander Connor"
 	STRING_EN[4591]["real_idx"] = 4591
 
 STRING_EN["index"][4592] = 4592
@@ -38609,7 +38609,7 @@ STRING_EN["index"][5516] = 5516
 STRING_EN[5516] = {}
 	STRING_EN[5516]["ID"] = 5516
 	STRING_EN[5516]["KEY"] = "novice_1"
-	STRING_EN[5516]["VALUE"] = "It is now AD 4039，  the human leaders who have been frozen for 100 years have finally awakened on time. Now choose one of the resurrected human leaders as the chief commander， re-establish the fleet and defend against attacks from the menacing artificial intelligence civilization."
+	STRING_EN[5516]["VALUE"] = "It is now AD 4039，the human leaders who have been frozen for 100 years have finally awakened on time. Now choose one of the resurrected human leaders as the chief commander， re-establish the fleet and defend against attacks from the menacing artificial intelligence civilization."
 	STRING_EN[5516]["real_idx"] = 5516
 
 STRING_EN["index"][5517] = 5517
@@ -38889,7 +38889,7 @@ STRING_EN["index"][5556] = 5556
 STRING_EN[5556] = {}
 	STRING_EN[5556]["ID"] = 5556
 	STRING_EN[5556]["KEY"] = "novice_2902"
-	STRING_EN[5556]["VALUE"] = "Double check before you disassembling or  synthesizing."
+	STRING_EN[5556]["VALUE"] = "Double check before you disassembling or synthesizing."
 	STRING_EN[5556]["real_idx"] = 5556
 
 STRING_EN["index"][5557] = 5557
@@ -40408,7 +40408,7 @@ STRING_EN["index"][5773] = 5773
 STRING_EN[5773] = {}
 	STRING_EN[5773]["ID"] = 5773
 	STRING_EN[5773]["KEY"] = "SEVEN_DAYS_112"
-	STRING_EN[5773]["VALUE"] = "Pass Instance - Commander  Connor"
+	STRING_EN[5773]["VALUE"] = "Pass Instance - Commander Connor"
 	STRING_EN[5773]["real_idx"] = 5773
 
 STRING_EN["index"][5774] = 5774
@@ -45462,7 +45462,7 @@ STRING_EN["index"][6495] = 6495
 STRING_EN[6495] = {}
 	STRING_EN[6495]["ID"] = 6495
 	STRING_EN[6495]["KEY"] = "scout_mail"
-	STRING_EN[6495]["VALUE"] = "Scout  the space station of #2#"
+	STRING_EN[6495]["VALUE"] = "Scout the space station of #2#"
 	STRING_EN[6495]["real_idx"] = 6495
 
 STRING_EN["index"][6496] = 6496
@@ -48171,7 +48171,7 @@ STRING_EN["index"][6882] = 6882
 STRING_EN[6882] = {}
 	STRING_EN[6882]["ID"] = 6882
 	STRING_EN[6882]["KEY"] = "hit_1"
-	STRING_EN[6882]["VALUE"] = "[Scout] can detect the available amount of each resources  from the opponent"
+	STRING_EN[6882]["VALUE"] = "[Scout] can detect the available amount of each resources from the opponent"
 	STRING_EN[6882]["real_idx"] = 6882
 
 STRING_EN["index"][6883] = 6883
@@ -67386,14 +67386,14 @@ STRING_EN["index"][9627] = 9627
 STRING_EN[9627] = {}
 	STRING_EN[9627]["ID"] = 9627
 	STRING_EN[9627]["KEY"] = "VIP_key_text_2"
-	STRING_EN[9627]["VALUE"] = "VIP Privileges"
+	STRING_EN[9627]["VALUE"] = " VIP Privileges"
 	STRING_EN[9627]["real_idx"] = 9627
 
 STRING_EN["index"][9628] = 9628
 STRING_EN[9628] = {}
 	STRING_EN[9628]["ID"] = 9628
 	STRING_EN[9628]["KEY"] = "VIP_key_text_3"
-	STRING_EN[9628]["VALUE"] = "VIP Exclusive Gift Pack"
+	STRING_EN[9628]["VALUE"] = " VIP Exclusive Gift Pack"
 	STRING_EN[9628]["real_idx"] = 9628
 
 STRING_EN["index"][9629] = 9629
@@ -67750,7 +67750,7 @@ STRING_EN["index"][9679] = 9679
 STRING_EN[9679] = {}
 	STRING_EN[9679]["ID"] = 9679
 	STRING_EN[9679]["KEY"] = "throne_explain"
-	STRING_EN[9679]["VALUE"] = "If the status of the Interstellar Throne is in scrambling， any player can attack the Throne and the Electromagnetic Tower. If the Throne and the Tower belong to your own Alliance， you can offer help. If  not then you have to fight. For anyone who occupied the Throne for more than 8 hours， the owner of his Alliance will become the conqueror. Occupying the Electromagnetic Tower can activate or shut down the attack to the Throne. If activated， it attacks the Throne every 6 minutes， causing damage to all the stationed ships in the Throne."
+	STRING_EN[9679]["VALUE"] = "If the status of the Interstellar Throne is in scrambling，any player can attack the Throne and the Electromagnetic Tower. If the Throne and the Tower belong to your own Alliance， you can offer help. If  not then you have to fight. For anyone who occupied the Throne for more than 8 hours， the owner of his Alliance will become the conqueror. Occupying the Electromagnetic Tower can activate or shut down the attack to the Throne. If activated， it attacks the Throne every 6 minutes， causing damage to all the stationed ships in the Throne."
 	STRING_EN[9679]["real_idx"] = 9679
 
 STRING_EN["index"][9680] = 9680
@@ -68254,7 +68254,7 @@ STRING_EN["index"][9751] = 9751
 STRING_EN[9751] = {}
 	STRING_EN[9751]["ID"] = 9751
 	STRING_EN[9751]["KEY"] = "jieshao_4"
-	STRING_EN[9751]["VALUE"] = "Upgrade Cabin R&D Factory to  develop more advanced cabins"
+	STRING_EN[9751]["VALUE"] = "Upgrade Cabin R&D Factory to develop more advanced cabins"
 	STRING_EN[9751]["real_idx"] = 9751
 
 STRING_EN["index"][9752] = 9752
