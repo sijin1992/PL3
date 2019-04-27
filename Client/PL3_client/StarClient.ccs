@@ -1132,64 +1132,9 @@
               <Image Name="lansexuliedeng_2_0014.png" />
               <Image Name="lansexuliedeng_2_0015.png" />
             </Folder>
-            <Folder Name="city_12">
-              <Image Name="00001.png" />
-              <Image Name="00002.png" />
-              <Image Name="00003.png" />
-              <Image Name="00004.png" />
-              <Image Name="00005.png" />
-              <Image Name="00006.png" />
-              <Image Name="00007.png" />
-              <Image Name="00008.png" />
-              <Image Name="00009.png" />
-              <Image Name="00010.png" />
-              <Image Name="00011.png" />
-              <Image Name="00012.png" />
-              <Image Name="00013.png" />
-              <Image Name="10001.png" />
-              <Image Name="10002.png" />
-              <Image Name="100021.png" />
-              <Image Name="10003.png" />
-              <Image Name="100031.png" />
-              <Image Name="10004.png" />
-              <Image Name="100041.png" />
-              <Image Name="10005.png" />
-              <Image Name="100051.png" />
-              <Image Name="10006.png" />
-              <Image Name="100061.png" />
-              <Image Name="10007.png" />
-              <Image Name="100071.png" />
-            </Folder>
-            <Folder Name="city_17">
-              <Image Name="BG20001.png" />
-              <Image Name="BG20002.png" />
-              <Image Name="BG20003.png" />
-              <Image Name="BG20004.png" />
-              <Image Name="BG20005.png" />
-              <Image Name="BG20006.png" />
-              <Image Name="BG20007.png" />
-              <Image Name="BG20008.png" />
-              <Image Name="BG20009.png" />
-              <Image Name="BG20010.png" />
-              <Image Name="BG20011.png" />
-              <Image Name="BG20012.png" />
-              <Image Name="BG20013.png" />
-              <Image Name="BG20014.png" />
-              <Image Name="BG20015.png" />
-              <Image Name="BG20016.png" />
-              <Image Name="BG20017.png" />
-              <Image Name="BG20018.png" />
-              <Image Name="BG20019.png" />
-              <Image Name="BG20020.png" />
-              <Image Name="BG20021.png" />
-              <Image Name="BG20022.png" />
-              <Image Name="BG20023.png" />
-              <Image Name="BG20024.png" />
-            </Folder>
             <Folder Name="city_2">
               <Folder Name="xingjigang">
                 <Image Name="1.png" />
-                <Image Name="2.png" />
               </Folder>
               <PlistInfo Name="city_2.csi" Type="Plist" />
             </Folder>
@@ -2210,9 +2155,7 @@
             <Project Name="city_12.csd" Type="Node" />
             <Project Name="city_13.csd" Type="Node" />
             <Project Name="city_14.csd" Type="Node" />
-            <Project Name="city_15.csd" Type="Node" />
             <Project Name="city_16.csd" Type="Node" />
-            <Project Name="city_17.csd" Type="Node" />
             <Project Name="city_2.csd" Type="Node" />
             <Project Name="city_3.csd" Type="Node" />
             <Project Name="city_4.csd" Type="Node" />

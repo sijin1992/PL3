@@ -461,143 +461,6 @@
             <TextureFile Type="Normal" Path="CityScene/sfx/suo/10010.png" Plist="" />
           </TextureFrame>
         </Timeline>
-        <Timeline ActionTag="-1460202731" Property="FileData">
-          <TextureFrame FrameIndex="325" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/00001.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="330" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/00002.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="335" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/00003.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="340" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/00004.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="345" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/00005.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="350" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/00006.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="355" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/00007.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="360" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/00008.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="365" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/00009.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="370" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/00010.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="375" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/00011.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="380" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/00012.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="385" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/00013.png" Plist="" />
-          </TextureFrame>
-        </Timeline>
-        <Timeline ActionTag="-1460202731" Property="Alpha">
-          <IntFrame FrameIndex="324" Value="0">
-            <EasingData Type="0" />
-          </IntFrame>
-          <IntFrame FrameIndex="325" Value="255">
-            <EasingData Type="0" />
-          </IntFrame>
-          <IntFrame FrameIndex="385" Value="255">
-            <EasingData Type="0" />
-          </IntFrame>
-          <IntFrame FrameIndex="386" Value="0">
-            <EasingData Type="0" />
-          </IntFrame>
-        </Timeline>
-        <Timeline ActionTag="-1219707137" Property="FileData">
-          <TextureFrame FrameIndex="325" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/10001.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="330" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/100021.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="335" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/100031.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="340" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/100041.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="345" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/100051.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="350" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/100061.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="355" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/100071.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="360" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/10001.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="365" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/100021.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="370" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/100031.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="375" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/100041.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="380" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/100051.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="385" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/100061.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="390" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/100071.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="395" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/10001.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="400" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/100021.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="405" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/100031.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="410" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/100041.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="415" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/100051.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="420" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/100061.png" Plist="" />
-          </TextureFrame>
-          <TextureFrame FrameIndex="425" Tween="False">
-            <TextureFile Type="Normal" Path="CityScene/sfx/city_12/100071.png" Plist="" />
-          </TextureFrame>
-        </Timeline>
-        <Timeline ActionTag="-1219707137" Property="Alpha">
-          <IntFrame FrameIndex="324" Value="0">
-            <EasingData Type="0" />
-          </IntFrame>
-          <IntFrame FrameIndex="325" Value="255">
-            <EasingData Type="0" />
-          </IntFrame>
-          <IntFrame FrameIndex="390" Value="255">
-            <EasingData Type="0" />
-          </IntFrame>
-          <IntFrame FrameIndex="425" Value="255">
-            <EasingData Type="0" />
-          </IntFrame>
-          <IntFrame FrameIndex="426" Value="0">
-            <EasingData Type="0" />
-          </IntFrame>
-        </Timeline>
       </Animation>
       <AnimationList>
         <AnimationInfo Name="2" StartIndex="0" EndIndex="320">
@@ -627,7 +490,7 @@
             <FileData Type="Normal" Path="CityScene/sfx/changj/City/15.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_3" ActionTag="31394802" Alpha="0" Tag="16" IconVisible="False" LeftMargin="-212.5000" RightMargin="-212.5000" TopMargin="-206.5000" BottomMargin="-202.5000" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Sprite_3" ActionTag="31394802" Tag="16" IconVisible="False" LeftMargin="-212.5000" RightMargin="-212.5000" TopMargin="-206.5000" BottomMargin="-202.5000" ctype="SpriteObjectData">
             <Size X="425.0000" Y="409.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position Y="2.0000" />
@@ -641,7 +504,7 @@
           <AbstractNodeData Name="Node_11" ActionTag="-1424385093" Tag="155" IconVisible="True" LeftMargin="-141.8922" RightMargin="141.8922" TopMargin="149.2099" BottomMargin="-149.2099" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
-              <AbstractNodeData Name="lizi" ActionTag="387634786" Alpha="0" Tag="156" IconVisible="False" LeftMargin="17.8994" RightMargin="-334.8994" TopMargin="-289.8571" BottomMargin="31.8571" ctype="SpriteObjectData">
+              <AbstractNodeData Name="lizi" ActionTag="387634786" Tag="156" IconVisible="False" LeftMargin="17.8994" RightMargin="-334.8994" TopMargin="-289.8571" BottomMargin="31.8571" ctype="SpriteObjectData">
                 <Size X="317.0000" Y="258.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="176.3994" Y="160.8571" />
@@ -649,7 +512,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
-                <FileData Type="Normal" Path="CityScene/sfx/city_4/ys/10005.png" Plist="" />
+                <FileData Type="Normal" Path="CityScene/sfx/city_4/ys/10001.png" Plist="" />
                 <BlendFunc Src="1" Dst="1" />
               </AbstractNodeData>
             </Children>
@@ -702,28 +565,6 @@
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="CityScene/sfx/suo/10001.png" Plist="" />
-            <BlendFunc Src="1" Dst="771" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_5" ActionTag="-1460202731" VisibleForFrame="False" Tag="21" IconVisible="False" LeftMargin="-113.5673" RightMargin="-111.4327" TopMargin="-182.8968" BottomMargin="-141.1032" ctype="SpriteObjectData">
-            <Size X="225.0000" Y="324.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-1.0673" Y="20.8968" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="CityScene/sfx/city_12/00007.png" Plist="" />
-            <BlendFunc Src="1" Dst="771" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_4" ActionTag="-1219707137" VisibleForFrame="False" Tag="48" IconVisible="False" LeftMargin="-36.4141" RightMargin="-31.5859" TopMargin="-243.0249" BottomMargin="95.0249" ctype="SpriteObjectData">
-            <Size X="68.0000" Y="148.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-2.4141" Y="169.0249" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="CityScene/sfx/city_12/100071.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
         </Children>
