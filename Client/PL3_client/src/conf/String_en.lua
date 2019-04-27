@@ -25,7 +25,7 @@ STRING_EN["index"][4] = 4
 STRING_EN[4] = {}
 	STRING_EN[4]["ID"] = 4
 	STRING_EN[4]["KEY"] = "preloading"
-	STRING_EN[4]["VALUE"] = "Resource loading... (This process does not consume cellular data， please be patient...)"
+	STRING_EN[4]["VALUE"] = "Resource loading... (Does not consume cellular data， please be patient...)"
 	STRING_EN[4]["real_idx"] = 4
 
 STRING_EN["index"][5] = 5
@@ -23720,14 +23720,14 @@ STRING_EN["index"][3389] = 3389
 STRING_EN[3389] = {}
 	STRING_EN[3389]["ID"] = 3389
 	STRING_EN[3389]["KEY"] = "mainTask"
-	STRING_EN[3389]["VALUE"] = "Main Mission"
+	STRING_EN[3389]["VALUE"] = "Story line Mission"
 	STRING_EN[3389]["real_idx"] = 3389
 
 STRING_EN["index"][3390] = 3390
 STRING_EN[3390] = {}
 	STRING_EN[3390]["ID"] = 3390
 	STRING_EN[3390]["KEY"] = "bountyTask"
-	STRING_EN[3390]["VALUE"] = "Bounty Mission"
+	STRING_EN[3390]["VALUE"] = "Regular Mission"
 	STRING_EN[3390]["real_idx"] = 3390
 
 STRING_EN["index"][3391] = 3391
@@ -46876,14 +46876,14 @@ STRING_EN["index"][6697] = 6697
 STRING_EN[6697] = {}
 	STRING_EN[6697]["ID"] = 6697
 	STRING_EN[6697]["KEY"] = "jackpot_gold"
-	STRING_EN[6697]["VALUE"] = "Gold Jackpot"
+	STRING_EN[6697]["VALUE"] = "Gold"
 	STRING_EN[6697]["real_idx"] = 6697
 
 STRING_EN["index"][6698] = 6698
 STRING_EN[6698] = {}
 	STRING_EN[6698]["ID"] = 6698
 	STRING_EN[6698]["KEY"] = "jackpot_credit"
-	STRING_EN[6698]["VALUE"] = "Diamond Jackpot"
+	STRING_EN[6698]["VALUE"] = "Diamond "
 	STRING_EN[6698]["real_idx"] = 6698
 
 STRING_EN["index"][6699] = 6699
@@ -49536,7 +49536,7 @@ STRING_EN["index"][7077] = 7077
 STRING_EN[7077] = {}
 	STRING_EN[7077]["ID"] = 7077
 	STRING_EN[7077]["KEY"] = "strong name 1"
-	STRING_EN[7077]["VALUE"] = "Increase the upper limit of the ships that can participate in the battle"
+	STRING_EN[7077]["VALUE"] = "Increase the upper limit of the ships in the battle"
 	STRING_EN[7077]["real_idx"] = 7077
 
 STRING_EN["index"][7078] = 7078
@@ -49585,7 +49585,7 @@ STRING_EN["index"][7084] = 7084
 STRING_EN[7084] = {}
 	STRING_EN[7084]["ID"] = 7084
 	STRING_EN[7084]["KEY"] = "strong name 5"
-	STRING_EN[7084]["VALUE"] = "Spaceship equipments and equipments strengthening"
+	STRING_EN[7084]["VALUE"] = "Equipments and equipments strengthening"
 	STRING_EN[7084]["real_idx"] = 7084
 
 STRING_EN["index"][7085] = 7085
@@ -49900,7 +49900,7 @@ STRING_EN["index"][7129] = 7129
 STRING_EN[7129] = {}
 	STRING_EN[7129]["ID"] = 7129
 	STRING_EN[7129]["KEY"] = "STRENGTHEN_TEXT_6"
-	STRING_EN[7129]["VALUE"] = "Increase the upper limit of the ships that can participate in the battle"
+	STRING_EN[7129]["VALUE"] = "Increase the upper limit of the ships in the battle"
 	STRING_EN[7129]["real_idx"] = 7129
 
 STRING_EN["index"][7130] = 7130
