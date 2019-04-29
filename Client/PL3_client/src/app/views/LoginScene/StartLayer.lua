@@ -55,10 +55,10 @@ function StartLayer:TDLogin()
     local serverId = ud:getIntegerForKey("server_id")
     local userId = ud:getIntegerForKey("user_id")
     local _self = require("app.views.LoginScene.StartLayer")
-    if deviceId and deviceId ~= nil then
-        TDGAAccount:setAccount(tostring(deviceId))
-    else
+    if userId and userId ~= "" then
         TDGAAccount:setAccount(tostring(userId))
+    else
+        TDGAAccount:setAccount(tostring(deviceId))
     end
     TDGAAccount:setAccountType(TDGAAccount.kAccountRegistered)
     TDGAAccount:setGender(TDGAAccount.kGenderFemale)
