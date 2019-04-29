@@ -658,6 +658,7 @@ function CityScene:onEnterTransitionFinish()
     end
     if device.platform == "ios" or device.platform == "android" then
         TDGAAccount:setLevel(player:getLevel())
+        TDGAAccount:setAccountName(player:getNickName())
         buglySetTag(7)
     end
 	-- ADD WJJ 20180703
