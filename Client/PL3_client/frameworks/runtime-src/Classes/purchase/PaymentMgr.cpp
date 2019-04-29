@@ -229,7 +229,7 @@ void PaymentMgr::PayServerVerify( const char* pszItemKey, const char *pszItemInf
 	request->setResponseCallback(CC_CALLBACK_2(PaymentMgr::onHttpRequestCompleted, this));
 	
 #if (CC_TARGET_PLATFORM == CC_PLATFORM_ANDROID)
-	request->setUrl("http://104.225.150.99/RoSDK/api/pay/uc/index.php");
+	request->setUrl("http://game01.haomiaogame.com/rgg/gppay.php");
 #elif (CC_TARGET_PLATFORM == CC_PLATFORM_IOS)
 	request->setUrl("http://104.225.150.99/RoSDK/api/pay/index.php");
 #endif
