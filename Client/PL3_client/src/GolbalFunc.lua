@@ -2189,7 +2189,7 @@ function createLevelUpNode( level,level_now )
 			open_node:getChildByName("name"):setString(CONF:getStringValue(cconf.NAME_KEY))
             ----------Add and Revise By JinXin 20180720
             local build_pos = -350
-            if string.find(cconf.NAME_KEY,"_") ~= nil then
+            if cconf.NAME_KEY and string.find(cconf.NAME_KEY,"_") ~= nil then
                 local str = Split(cconf.NAME_KEY,"_")
                 if str[1] == "BuildingName" then
                     build_pos = CONF.EMainBuildingPos[tonumber(str[2])]
