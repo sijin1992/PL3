@@ -36,9 +36,10 @@ public class GooglePlayIABPlugin
 	private Activity mActivity;
 	IabHelper mHelper;
 	Inventory mInventory = null;
+	static String PayProductId;
 
 	// (arbitrary) request code for the purchase flow
-	static final int RC_REQUEST = 10001;	
+	static final int RC_REQUEST = 10002;	
 	
 	public GooglePlayIABPlugin(Activity activity) {
 		this.mActivity = activity;
@@ -170,6 +171,7 @@ public class GooglePlayIABPlugin
 		sInstance.mActivity.runOnUiThread(new Runnable() {
 			public void run() {
 				Log.d(TAG, "PayStart " + strItemTypeId + " Extra " + strExtraVerifyInfo);
+				PayProductId = strItemTypeId;
 				try {
 					sInstance.mHelper.launchPurchaseFlow(sInstance.mActivity, strItemTypeId, RC_REQUEST,
 							sInstance.mPurchaseFinishedListener, strExtraVerifyInfo);
@@ -275,18 +277,51 @@ public class GooglePlayIABPlugin
 
 	// Callback for when a purchase is finished
 	IabHelper.OnIabPurchaseFinishedListener mPurchaseFinishedListener = new IabHelper.OnIabPurchaseFinishedListener() {
-		public void onIabPurchaseFinished(IabResult result, Purchase purchase) {
+		public void onIabPurchaseFinished(IabResult result, final Purchase purchase) {
 			Log.d(TAG, "Purchase finished: " + result + ", purchase: " + purchase);
 
 			// if we were disposed of in the meantime, quit.
 			if (mHelper == null) return;
 
-			if (result.isFailure()) {
+			if (result.isFailure()){
 				complain("Error purchasing: " + result);
-                runNativeOnFailed("null",""+result);
+				if (result.getResponse() == -1003||result.getResponse() == 7) {//严正声明失败，
+					Log.d(TAG, "Query noconsume inventory " + "result:" + result.getResponse());
+					mHelper.queryInventoryAsync(new IabHelper.QueryInventoryFinishedListener() {
+						@Override
+						public void onQueryInventoryFinished(IabResult result, Inventory inv) {
+							if (mHelper == null) return;
+							if (result.isFailure()) {
+								complain("Failed to query noconsume inventory: " + result);
+								return;
+							}
+							Log.d(TAG, "Query noconsume inventory was successful.");
+							String resku;
+							if(purchase == null)
+							{
+								resku = PayProductId;
+							}else {
+								resku = purchase.getSku();
+							}
+							Log.d(TAG,"Sku:" + resku + ",PayProductId:" + PayProductId);
+							if((resku != null) && (inv.hasDetails(resku))){
+								Log.d(TAG, "reconsume inventory " + "Sku:" + resku);
+								try {
+									mHelper.consumeAsync(inv.getPurchase(resku), sInstance.mConsumeFinishedListener);
+								} catch (Exception e) {
+									e.printStackTrace();
+								}
+							}
+						}
+					});
+					Log.d(TAG, "reconsume inventory successful");
+				}
+
+				runNativeOnFailed("null", "" + result);
 				setWaitScreen(false);
 				return;
 			}
+
 			if (!verifyDeveloperPayload(purchase)) {
 				complain("Error purchasing. Authenticity verification failed.");
                 runNativeOnFailed("null","Authenticity verification failed.");
