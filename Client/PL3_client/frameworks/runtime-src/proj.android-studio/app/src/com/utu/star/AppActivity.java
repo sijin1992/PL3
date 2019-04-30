@@ -130,7 +130,7 @@ public class AppActivity extends Cocos2dxActivity{
         GameAnalytics.setEnabledVerboseLog(true);
 		*/
         //TD
-        TalkingDataGA.init(this, "8BBCC0586EB448159D0922294706E2F8", "10000");
+        TalkingDataGA.init(this, "8BBCC0586EB448159D0922294706E2F8", "10001");
         TalkingDataGA.setVerboseLogDisabled();
     }
 
