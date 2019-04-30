@@ -48990,7 +48990,7 @@ STRING_EN["index"][6999] = 6999
 STRING_EN[6999] = {}
 	STRING_EN[6999]["ID"] = 6999
 	STRING_EN[6999]["KEY"] = "coin_sign"
-	STRING_EN[6999]["VALUE"] = "$"
+	STRING_EN[6999]["VALUE"] = "MYR"
 	STRING_EN[6999]["real_idx"] = 6999
 
 STRING_EN["index"][7000] = 7000
