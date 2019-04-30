@@ -137,7 +137,7 @@ function AddStrenthTips:onEnterTransitionFinish( )
 				flurryLogEvent("credit_buy_strength", {cost = tostring(self.use_credit), count = self.buyCount}, 1, self.use_credit)
                 if device.platform == "ios" or device.platform == "android" then
                     TDGAItem:onPurchase(tostring(self.use_credit), self.buyCount, self.use_credit)
-                    TDCCItem:onUse(tostring(self.use_credit), 1)
+                    TDGAItem:onUse(tostring(self.use_credit), 1)
                 end
 
 				self:createRichText()
