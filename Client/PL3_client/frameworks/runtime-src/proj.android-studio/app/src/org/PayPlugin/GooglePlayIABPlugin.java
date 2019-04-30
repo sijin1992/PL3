@@ -36,9 +36,10 @@ public class GooglePlayIABPlugin
 	private Activity mActivity;
 	IabHelper mHelper;
 	Inventory mInventory = null;
+	static String PayProductId;
 
 	// (arbitrary) request code for the purchase flow
-	static final int RC_REQUEST = 10001;	
+	static final int RC_REQUEST = 10002;	
 	
 	public GooglePlayIABPlugin(Activity activity) {
 		this.mActivity = activity;
@@ -69,7 +70,7 @@ public class GooglePlayIABPlugin
 	}	
 	
 	public void onCreate(Bundle savedInstanceState) {
-		String base64EncodedPublicKey = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmvIWzr0wfeitcvD+BYg8GX11JJ5NNwu6pgd5qw7OTxiyxcveYE9qT47hcUhBaCC6DpYO//jAw6Z8b9zTUGOALstCnjON6GERVNAMc/me5p6nczvgMq/xkyLhAZY8m99LnpAIjKwO0xyyr5ptKyjH1gDAUtJPfg6yivciwco2Zn1+cOJgn/+iRS8hJtRm6j2xGIvjk18jsoi1eVm5nMBDtIBx0XXhM2CnqawDteZDzPLppTkhcJIOLsJzHvdY0y4ZYWvZ+hK8VUiWC8vBBpg3hD426XflKSDwAxZ197gj5d7pC2eo19iwvp8pjxOuhi/rCY9qa+Hi5aQq4LGP/6qdMwIDAQAB";
+		String base64EncodedPublicKey = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlubhOb368HrnsaSPbBQHmj0BFkEnrycPasmuUsYT8L9347WT0pgFYgDRL4WuDU88SItfTiwBSZeV7pq2jIaS76pFdKoihokfx+g6AO/u5wUwrpO3LOJiaLuazWivSmJ6vgFB9M100+D2r1Vucu5UOwLLfnqcFPZIWozWON5Bqz8P+ZoU64mGAeUwa8L3MXCuDdVdJXLq44WAKm7dmq5UApIDzxc4rZzNTbfphcTyn8gV5PoMTIyInHkjSW7m97qBcVYJ/z1FETi8/cJ2jLD1hMqHUhUVvltMRNpj3Vgm/x5zZvvZh8xlF/lVa+kTAKMSitn2OuzsusE+qXrMFc8cXwIDAQAB";
 		// Create the helper, passing it our context and the public key to verify signatures with
 		Log.d(TAG, "Creating IAB helper.");
 		mHelper = new IabHelper(mActivity, base64EncodedPublicKey);
@@ -170,6 +171,7 @@ public class GooglePlayIABPlugin
 		sInstance.mActivity.runOnUiThread(new Runnable() {
 			public void run() {
 				Log.d(TAG, "PayStart " + strItemTypeId + " Extra " + strExtraVerifyInfo);
+				PayProductId = strItemTypeId;
 				try {
 					sInstance.mHelper.launchPurchaseFlow(sInstance.mActivity, strItemTypeId, RC_REQUEST,
 							sInstance.mPurchaseFinishedListener, strExtraVerifyInfo);
@@ -275,18 +277,51 @@ public class GooglePlayIABPlugin
 
 	// Callback for when a purchase is finished
 	IabHelper.OnIabPurchaseFinishedListener mPurchaseFinishedListener = new IabHelper.OnIabPurchaseFinishedListener() {
-		public void onIabPurchaseFinished(IabResult result, Purchase purchase) {
+		public void onIabPurchaseFinished(IabResult result, final Purchase purchase) {
 			Log.d(TAG, "Purchase finished: " + result + ", purchase: " + purchase);
 
 			// if we were disposed of in the meantime, quit.
 			if (mHelper == null) return;
 
-			if (result.isFailure()) {
+			if (result.isFailure()){
 				complain("Error purchasing: " + result);
-                runNativeOnFailed("null",""+result);
+				if (result.getResponse() == -1003||result.getResponse() == 7) {//严正声明失败，
+					Log.d(TAG, "Query noconsume inventory " + "result:" + result.getResponse());
+					mHelper.queryInventoryAsync(new IabHelper.QueryInventoryFinishedListener() {
+						@Override
+						public void onQueryInventoryFinished(IabResult result, Inventory inv) {
+							if (mHelper == null) return;
+							if (result.isFailure()) {
+								complain("Failed to query noconsume inventory: " + result);
+								return;
+							}
+							Log.d(TAG, "Query noconsume inventory was successful.");
+							String resku;
+							if(purchase == null)
+							{
+								resku = PayProductId;
+							}else {
+								resku = purchase.getSku();
+							}
+							Log.d(TAG,"Sku:" + resku + ",PayProductId:" + PayProductId);
+							if((resku != null) && (inv.hasDetails(resku))){
+								Log.d(TAG, "reconsume inventory " + "Sku:" + resku);
+								try {
+									mHelper.consumeAsync(inv.getPurchase(resku), sInstance.mConsumeFinishedListener);
+								} catch (Exception e) {
+									e.printStackTrace();
+								}
+							}
+						}
+					});
+					Log.d(TAG, "reconsume inventory successful");
+				}
+
+				runNativeOnFailed("null", "" + result);
 				setWaitScreen(false);
 				return;
 			}
+
 			if (!verifyDeveloperPayload(purchase)) {
 				complain("Error purchasing. Authenticity verification failed.");
                 runNativeOnFailed("null","Authenticity verification failed.");
