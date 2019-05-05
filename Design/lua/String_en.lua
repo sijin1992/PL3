@@ -36187,21 +36187,23 @@ STRING_EN["index"][5170] = 5170
 STRING_EN[5170] = {}
 	STRING_EN[5170]["ID"] = 5170
 	STRING_EN[5170]["KEY"] = "buy_after_1"
-	STRING_EN[5170]["VALUE"] = "Buy again"
+	STRING_EN[5170]["VALUE"] = "Buy "
 	STRING_EN[5170]["real_idx"] = 5170
 
 STRING_EN["index"][5171] = 5171
 STRING_EN[5171] = {}
 	STRING_EN[5171]["ID"] = 5171
 	STRING_EN[5171]["KEY"] = "buy_after_2"
-	STRING_EN[5171]["VALUE"] = "times， guaranteed to obtain"
+	STRING_EN[5171]["VALUE"] = {}
+		STRING_EN[5171]["VALUE"][1] = "times"
+		STRING_EN[5171]["VALUE"][2] = "guaranteed to obtain"
 	STRING_EN[5171]["real_idx"] = 5171
 
 STRING_EN["index"][5172] = 5172
 STRING_EN[5172] = {}
 	STRING_EN[5172]["ID"] = 5172
 	STRING_EN[5172]["KEY"] = "purple_spacecraft_drawings"
-	STRING_EN[5172]["VALUE"] = "Blue or purple class spaceship"
+	STRING_EN[5172]["VALUE"] = "Blue or purple spaceship"
 	STRING_EN[5172]["real_idx"] = 5172
 
 STRING_EN["index"][5173] = 5173
@@ -36229,7 +36231,7 @@ STRING_EN["index"][5176] = 5176
 STRING_EN[5176] = {}
 	STRING_EN[5176]["ID"] = 5176
 	STRING_EN[5176]["KEY"] = "after_free"
-	STRING_EN[5176]["VALUE"] = "Free after"
+	STRING_EN[5176]["VALUE"] = " Free after"
 	STRING_EN[5176]["real_idx"] = 5176
 
 STRING_EN["index"][5177] = 5177
@@ -47478,7 +47480,7 @@ STRING_EN["index"][6783] = 6783
 STRING_EN[6783] = {}
 	STRING_EN[6783]["ID"] = 6783
 	STRING_EN[6783]["KEY"] = "weapon_research"
-	STRING_EN[6783]["VALUE"] = "Skill development"
+	STRING_EN[6783]["VALUE"] = "Development"
 	STRING_EN[6783]["real_idx"] = 6783
 
 STRING_EN["index"][6784] = 6784
