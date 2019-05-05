@@ -25848,17 +25848,17 @@
  	<Row>
 		<ID>5170</ID>
 		<KEY>buy_after_1</KEY>
-		<VALUE>Buy again</VALUE>
+		<VALUE>Buy </VALUE>
 	</Row>
  	<Row>
 		<ID>5171</ID>
 		<KEY>buy_after_2</KEY>
-		<VALUE>times， guaranteed to obtain</VALUE>
+		<VALUE>times,guaranteed to obtain</VALUE>
 	</Row>
  	<Row>
 		<ID>5172</ID>
 		<KEY>purple_spacecraft_drawings</KEY>
-		<VALUE>Blue or purple class spaceship</VALUE>
+		<VALUE>Blue or purple spaceship</VALUE>
 	</Row>
  	<Row>
 		<ID>5173</ID>
@@ -25878,7 +25878,7 @@
  	<Row>
 		<ID>5176</ID>
 		<KEY>after_free</KEY>
-		<VALUE>Free after</VALUE>
+		<VALUE> Free after</VALUE>
 	</Row>
  	<Row>
 		<ID>5177</ID>
@@ -33913,7 +33913,7 @@
  	<Row>
 		<ID>6783</ID>
 		<KEY>weapon_research</KEY>
-		<VALUE>Skill development</VALUE>
+		<VALUE>Development</VALUE>
 	</Row>
  	<Row>
 		<ID>6784</ID>
