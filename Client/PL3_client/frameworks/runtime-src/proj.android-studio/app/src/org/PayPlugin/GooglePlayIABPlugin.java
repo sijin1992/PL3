@@ -39,7 +39,7 @@ public class GooglePlayIABPlugin
 	static String PayProductId;
 
 	// (arbitrary) request code for the purchase flow
-	static final int RC_REQUEST = 10002;	
+	static final int RC_REQUEST = 10001;	
 	
 	public GooglePlayIABPlugin(Activity activity) {
 		this.mActivity = activity;
