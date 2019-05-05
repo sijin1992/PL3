@@ -26,10 +26,10 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="ShopScene/ui/bottom_bg1.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="buy_num" ActionTag="-1964792489" Tag="548" IconVisible="False" LeftMargin="69.3812" RightMargin="-113.3812" TopMargin="203.9969" BottomMargin="-227.9969" FontSize="16" LabelText="99.99" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="buy_num" ActionTag="-1964792489" Tag="548" IconVisible="False" LeftMargin="76.3813" RightMargin="-120.3813" TopMargin="202.9968" BottomMargin="-226.9968" FontSize="16" LabelText="99.99" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="44.0000" Y="24.0000" />
             <AnchorPoint ScaleY="0.4918" />
-            <Position X="69.3812" Y="-216.1937" />
+            <Position X="76.3813" Y="-215.1936" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -85,10 +85,10 @@
             <FileData Type="Normal" Path="Common/ui/ui_icon_money.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="buy_num_0" ActionTag="-962310191" Tag="2176" IconVisible="False" LeftMargin="52.5858" RightMargin="-64.5858" TopMargin="203.0433" BottomMargin="-227.0433" FontSize="16" LabelText="$" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="12.0000" Y="24.0000" />
+          <AbstractNodeData Name="buy_num_0" ActionTag="-962310191" Tag="2176" IconVisible="False" LeftMargin="39.5859" RightMargin="-75.5859" TopMargin="203.0433" BottomMargin="-227.0433" FontSize="16" LabelText="MYR" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="36.0000" Y="24.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="58.5858" Y="-215.0433" />
+            <Position X="57.5859" Y="-215.0433" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
