@@ -36033,7 +36033,7 @@ STRING_EN["index"][5148] = 5148
 STRING_EN[5148] = {}
 	STRING_EN[5148]["ID"] = 5148
 	STRING_EN[5148]["KEY"] = "creation_4"
-	STRING_EN[5148]["VALUE"] = "Darth Vader"
+	STRING_EN[5148]["VALUE"] = "Shmi Skywalker"
 	STRING_EN[5148]["real_idx"] = 5148
 
 STRING_EN["index"][5149] = 5149
@@ -36068,7 +36068,7 @@ STRING_EN["index"][5153] = 5153
 STRING_EN[5153] = {}
 	STRING_EN[5153]["ID"] = 5153
 	STRING_EN[5153]["KEY"] = "memo_4"
-	STRING_EN[5153]["VALUE"] = "He is one of the most powerful people in the human fleet. His indifference even makes the artificial intelligence fleet somewhat overwhelmed， ruthless and never leave a chance to the enemy… "
+	STRING_EN[5153]["VALUE"] = "She is one of the most powerful people in the human fleet. Her indifference even makes the artificial intelligence fleet somewhat overwhelmed， ruthless and never leave a chance to the enemy… "
 	STRING_EN[5153]["real_idx"] = 5153
 
 STRING_EN["index"][5154] = 5154
@@ -45105,7 +45105,7 @@ STRING_EN["index"][6444] = 6444
 STRING_EN[6444] = {}
 	STRING_EN[6444]["ID"] = 6444
 	STRING_EN[6444]["KEY"] = "To limit"
-	STRING_EN[6444]["VALUE"] = "Expedition upper limit "
+	STRING_EN[6444]["VALUE"] = "Expedition limit "
 	STRING_EN[6444]["real_idx"] = 6444
 
 STRING_EN["index"][6445] = 6445

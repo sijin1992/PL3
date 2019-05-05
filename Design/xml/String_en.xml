@@ -25738,7 +25738,7 @@
  	<Row>
 		<ID>5148</ID>
 		<KEY>creation_4</KEY>
-		<VALUE>Darth Vader</VALUE>
+		<VALUE>Shmi Skywalker</VALUE>
 	</Row>
  	<Row>
 		<ID>5149</ID>
@@ -25763,7 +25763,7 @@
  	<Row>
 		<ID>5153</ID>
 		<KEY>memo_4</KEY>
-		<VALUE>He is one of the most powerful people in the human fleet. His indifference even makes the artificial intelligence fleet somewhat overwhelmed， ruthless and never leave a chance to the enemy… </VALUE>
+		<VALUE>She is one of the most powerful people in the human fleet. Her indifference even makes the artificial intelligence fleet somewhat overwhelmed， ruthless and never leave a chance to the enemy… </VALUE>
 	</Row>
  	<Row>
 		<ID>5154</ID>
@@ -32218,7 +32218,7 @@
  	<Row>
 		<ID>6444</ID>
 		<KEY>To limit</KEY>
-		<VALUE>Expedition upper limit </VALUE>
+		<VALUE>Expedition limit </VALUE>
 	</Row>
  	<Row>
 		<ID>6445</ID>
