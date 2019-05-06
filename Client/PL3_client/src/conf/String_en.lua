@@ -47464,7 +47464,7 @@ STRING_EN["index"][6781] = 6781
 STRING_EN[6781] = {}
 	STRING_EN[6781]["ID"] = 6781
 	STRING_EN[6781]["KEY"] = "go_gem_fuse"
-	STRING_EN[6781]["VALUE"] = "Synthesize advanced Krypton Crystal"
+	STRING_EN[6781]["VALUE"] = "Synthesize"
 	STRING_EN[6781]["real_idx"] = 6781
 
 STRING_EN["index"][6782] = 6782
