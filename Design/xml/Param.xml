@@ -1419,7 +1419,7 @@
  	<Row>
 		<ID>237</ID>
 		<KEY>chat number</KEY>
-		<PARAM>10</PARAM>
+		<PARAM>25</PARAM>
 		<DESCRIPTION>主界面显示聊天自主</DESCRIPTION>
 	</Row>
  	<Row>

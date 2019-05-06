@@ -1670,7 +1670,7 @@ function CityScene:onEnterTransitionFinish()
 								else
 									strc = string.format("%s:", v.nickname)
 								end
-								str = handsomeSubString(strc..v.chat, CONF.PARAM.get("chat number").PARAM)
+								str = handsomeSubString(v.chat, CONF.PARAM.get("chat number").PARAM)
 								tt = {user_name = v.user_name, chat = v.chat, time = v.stamp}
 							end
 						end
@@ -1806,7 +1806,7 @@ function CityScene:onEnterTransitionFinish()
 		else
 			strc = string.format("%s:", event.chat.sender.nickname)
 		end
-		local chat = handsomeSubString(strc..event.chat.msg, CONF.PARAM.get("chat number").PARAM)
+		local chat = handsomeSubString(event.chat.msg, CONF.PARAM.get("chat number").PARAM)
 		self.uiLayer_:getResourceNode():getChildByName("di_text"):setString(chat)
 		if self.uiLayer_:getResourceNode():getChildByName("richText") then
 			self.uiLayer_:getResourceNode():getChildByName("richText"):removeFromParent()
