@@ -35536,14 +35536,14 @@ STRING_EN["index"][5077] = 5077
 STRING_EN[5077] = {}
 	STRING_EN[5077]["ID"] = 5077
 	STRING_EN[5077]["KEY"] = "AreYouSureToDisband"
-	STRING_EN[5077]["VALUE"] = "Are you sure to dissolve?"
+	STRING_EN[5077]["VALUE"] = "Are you sure to dissolve "
 	STRING_EN[5077]["real_idx"] = 5077
 
 STRING_EN["index"][5078] = 5078
 STRING_EN[5078] = {}
 	STRING_EN[5078]["ID"] = 5078
 	STRING_EN[5078]["KEY"] = "AreYouSureToQuit"
-	STRING_EN[5078]["VALUE"] = "Are you sure you to quit?"
+	STRING_EN[5078]["VALUE"] = "Are you sure you to quit "
 	STRING_EN[5078]["real_idx"] = 5078
 
 STRING_EN["index"][5079] = 5079
@@ -46904,14 +46904,14 @@ STRING_EN["index"][6701] = 6701
 STRING_EN[6701] = {}
 	STRING_EN[6701]["ID"] = 6701
 	STRING_EN[6701]["KEY"] = "currency upper"
-	STRING_EN[6701]["VALUE"] = "Storage upper limit"
+	STRING_EN[6701]["VALUE"] = "Storage limit"
 	STRING_EN[6701]["real_idx"] = 6701
 
 STRING_EN["index"][6702] = 6702
 STRING_EN[6702] = {}
 	STRING_EN[6702]["ID"] = 6702
 	STRING_EN[6702]["KEY"] = "protect currency"
-	STRING_EN[6702]["VALUE"] = "Amount can be protected"
+	STRING_EN[6702]["VALUE"] = "Amount protected"
 	STRING_EN[6702]["real_idx"] = 6702
 
 STRING_EN["index"][6703] = 6703

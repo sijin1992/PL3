@@ -25383,12 +25383,12 @@
  	<Row>
 		<ID>5077</ID>
 		<KEY>AreYouSureToDisband</KEY>
-		<VALUE>Are you sure to dissolve?</VALUE>
+		<VALUE>Are you sure to dissolve </VALUE>
 	</Row>
  	<Row>
 		<ID>5078</ID>
 		<KEY>AreYouSureToQuit</KEY>
-		<VALUE>Are you sure you to quit?</VALUE>
+		<VALUE>Are you sure you to quit </VALUE>
 	</Row>
  	<Row>
 		<ID>5079</ID>
@@ -33503,12 +33503,12 @@
  	<Row>
 		<ID>6701</ID>
 		<KEY>currency upper</KEY>
-		<VALUE>Storage upper limit</VALUE>
+		<VALUE>Storage limit</VALUE>
 	</Row>
  	<Row>
 		<ID>6702</ID>
 		<KEY>protect currency</KEY>
-		<VALUE>Amount can be protected</VALUE>
+		<VALUE>Amount protected</VALUE>
 	</Row>
  	<Row>
 		<ID>6703</ID>
