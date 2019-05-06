@@ -2152,7 +2152,7 @@ PARAM["index"][237] = 237
 PARAM[237] = {}
 	PARAM[237]["ID"] = 237
 	PARAM[237]["KEY"] = "chat number"
-	PARAM[237]["PARAM"] = 10
+	PARAM[237]["PARAM"] = 25
 	PARAM[237]["DESCRIPTION"] = "主界面显示聊天自主"
 	PARAM[237]["real_idx"] = 237
 
