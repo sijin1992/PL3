@@ -2050,7 +2050,7 @@ function CityUILayer:updateTaskBar(dt)
 			local s = string.gsub(CONF:getStringValue("power_open"),"#",self.firstTask_.OPEN_POWER)
 			str = str .. s
 		end
-		rn:getChildByName("task"):getChildByName("quick_1"):setString(handsomeSubString(str, 10))
+		rn:getChildByName("task"):getChildByName("quick_1"):setString(handsomeSubString(str, 25))
 		rn:getChildByName("task"):getChildByName("text"):setVisible(false)
         rn:getChildByName("task"):getChildByName("lingqu"):setVisible(false)
 	    rn:getChildByName("task"):getChildByName("qianwang"):setVisible(true)
@@ -2103,7 +2103,7 @@ function CityUILayer:createTaskBar()
 	local taskList = player:getTaskList()
 	--rn:getChildByName("task"):getChildByName("text"):setString(CONF:getStringValue("hint"))
 	--rn:getChildByName("task"):getChildByName("text"):setTextColor(cc.c4b(255, 255, 255, 255))
-	taskBg:getChildByName("quick_1"):setString(handsomeSubString(getNoTaskString(), 10))
+	taskBg:getChildByName("quick_1"):setString(handsomeSubString(getNoTaskString(), 25))
 	
 	taskBg:getChildByName("lingqu"):setVisible(true)
 	taskBg:getChildByName("qianwang"):setVisible(false)
@@ -2240,7 +2240,7 @@ function CityUILayer:createTaskBar()
 		end
 	end
 	local quickName = taskBg:getChildByName("quick_1")
-	quickName:setString(handsomeSubString(taskName, 10))
+	quickName:setString(handsomeSubString(taskName, 25))
 
 	if taskBg:getChildByName("task_open_label") then
 		taskBg:getChildByName("task_open_label"):removeFromParent()
