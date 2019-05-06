@@ -24630,7 +24630,7 @@ STRING_EN["index"][3519] = 3519
 STRING_EN[3519] = {}
 	STRING_EN[3519]["ID"] = 3519
 	STRING_EN[3519]["KEY"] = "inputStatLeagueName"
-	STRING_EN[3519]["VALUE"] = "Please enter the name of Alliance"
+	STRING_EN[3519]["VALUE"] = "Enter the name of Alliance"
 	STRING_EN[3519]["real_idx"] = 3519
 
 STRING_EN["index"][3520] = 3520
@@ -24756,7 +24756,7 @@ STRING_EN["index"][3537] = 3537
 STRING_EN[3537] = {}
 	STRING_EN[3537]["ID"] = 3537
 	STRING_EN[3537]["KEY"] = "sumMember"
-	STRING_EN[3537]["VALUE"] = "Total number of members"
+	STRING_EN[3537]["VALUE"] = "Total members"
 	STRING_EN[3537]["real_idx"] = 3537
 
 STRING_EN["index"][3538] = 3538
