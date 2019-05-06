@@ -17593,7 +17593,7 @@
  	<Row>
 		<ID>3519</ID>
 		<KEY>inputStatLeagueName</KEY>
-		<VALUE>Please enter the name of Alliance</VALUE>
+		<VALUE>Enter the name of Alliance</VALUE>
 	</Row>
  	<Row>
 		<ID>3520</ID>
@@ -17683,7 +17683,7 @@
  	<Row>
 		<ID>3537</ID>
 		<KEY>sumMember</KEY>
-		<VALUE>Total number of members</VALUE>
+		<VALUE>Total members</VALUE>
 	</Row>
  	<Row>
 		<ID>3538</ID>
