@@ -36194,9 +36194,7 @@ STRING_EN["index"][5171] = 5171
 STRING_EN[5171] = {}
 	STRING_EN[5171]["ID"] = 5171
 	STRING_EN[5171]["KEY"] = "buy_after_2"
-	STRING_EN[5171]["VALUE"] = {}
-		STRING_EN[5171]["VALUE"][1] = "times"
-		STRING_EN[5171]["VALUE"][2] = "guaranteed to obtain"
+	STRING_EN[5171]["VALUE"] = "times，guaranteed to obtain"
 	STRING_EN[5171]["real_idx"] = 5171
 
 STRING_EN["index"][5172] = 5172
