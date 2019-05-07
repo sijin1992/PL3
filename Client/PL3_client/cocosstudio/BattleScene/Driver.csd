@@ -2,7 +2,7 @@
   <PropertyGroup Name="Driver" Type="Node" ID="adf67e3c-8ce1-43e7-b0d7-0c9221c31180" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
-      <Animation Duration="290" Speed="1.0000">
+      <Animation Duration="290" Speed="1.0000" ActivedAnimationName="dead">
         <Timeline ActionTag="2039336755" Property="ActionValue">
           <InnerActionFrame FrameIndex="0" Tween="False" InnerActionType="LoopAction" CurrentAniamtionName="1" SingleFrameIndex="0" />
           <InnerActionFrame FrameIndex="5" Tween="False" InnerActionType="LoopAction" CurrentAniamtionName="1" SingleFrameIndex="0" />
@@ -2007,6 +2007,131 @@
           <BoolFrame FrameIndex="285" Tween="False" Value="True" />
           <BoolFrame FrameIndex="290" Tween="False" Value="True" />
         </Timeline>
+        <Timeline ActionTag="265888181" Property="Position">
+          <PointFrame FrameIndex="0" X="36.9118" Y="29.9620">
+            <EasingData Type="0" />
+          </PointFrame>
+          <PointFrame FrameIndex="5" X="36.9118" Y="29.9620">
+            <EasingData Type="0" />
+          </PointFrame>
+          <PointFrame FrameIndex="10" X="36.9117" Y="37.2768">
+            <EasingData Type="0" />
+          </PointFrame>
+          <PointFrame FrameIndex="97" X="36.9117" Y="37.2768">
+            <EasingData Type="0" />
+          </PointFrame>
+          <PointFrame FrameIndex="100" X="36.9118" Y="29.9620">
+            <EasingData Type="0" />
+          </PointFrame>
+          <PointFrame FrameIndex="277" X="36.9118" Y="29.9620">
+            <EasingData Type="0" />
+          </PointFrame>
+          <PointFrame FrameIndex="280" X="36.9118" Y="29.9620">
+            <EasingData Type="0" />
+          </PointFrame>
+          <PointFrame FrameIndex="285" X="36.9118" Y="29.9620">
+            <EasingData Type="0" />
+          </PointFrame>
+          <PointFrame FrameIndex="290" X="36.9118" Y="29.9620">
+            <EasingData Type="0" />
+          </PointFrame>
+        </Timeline>
+        <Timeline ActionTag="265888181" Property="Scale">
+          <ScaleFrame FrameIndex="0" X="1.0000" Y="1.0000">
+            <EasingData Type="0" />
+          </ScaleFrame>
+          <ScaleFrame FrameIndex="5" X="1.0000" Y="1.0000">
+            <EasingData Type="0" />
+          </ScaleFrame>
+          <ScaleFrame FrameIndex="10" X="1.0000" Y="1.0000">
+            <EasingData Type="0" />
+          </ScaleFrame>
+          <ScaleFrame FrameIndex="97" X="1.0000" Y="1.0000">
+            <EasingData Type="0" />
+          </ScaleFrame>
+          <ScaleFrame FrameIndex="100" X="1.0000" Y="1.0000">
+            <EasingData Type="0" />
+          </ScaleFrame>
+          <ScaleFrame FrameIndex="277" X="1.0000" Y="1.0000">
+            <EasingData Type="0" />
+          </ScaleFrame>
+          <ScaleFrame FrameIndex="280" X="1.0000" Y="1.0000">
+            <EasingData Type="0" />
+          </ScaleFrame>
+          <ScaleFrame FrameIndex="285" X="1.0000" Y="1.0000">
+            <EasingData Type="0" />
+          </ScaleFrame>
+          <ScaleFrame FrameIndex="290" X="1.0000" Y="1.0000">
+            <EasingData Type="0" />
+          </ScaleFrame>
+        </Timeline>
+        <Timeline ActionTag="265888181" Property="RotationSkew">
+          <ScaleFrame FrameIndex="0" X="0.0000" Y="0.0000">
+            <EasingData Type="0" />
+          </ScaleFrame>
+          <ScaleFrame FrameIndex="5" X="0.0000" Y="0.0000">
+            <EasingData Type="0" />
+          </ScaleFrame>
+          <ScaleFrame FrameIndex="10" X="0.0000" Y="0.0000">
+            <EasingData Type="0" />
+          </ScaleFrame>
+          <ScaleFrame FrameIndex="97" X="0.0000" Y="0.0000">
+            <EasingData Type="0" />
+          </ScaleFrame>
+          <ScaleFrame FrameIndex="100" X="0.0000" Y="0.0000">
+            <EasingData Type="0" />
+          </ScaleFrame>
+          <ScaleFrame FrameIndex="277" X="0.0000" Y="0.0000">
+            <EasingData Type="0" />
+          </ScaleFrame>
+          <ScaleFrame FrameIndex="280" X="0.0000" Y="0.0000">
+            <EasingData Type="0" />
+          </ScaleFrame>
+          <ScaleFrame FrameIndex="285" X="0.0000" Y="0.0000">
+            <EasingData Type="0" />
+          </ScaleFrame>
+          <ScaleFrame FrameIndex="290" X="0.0000" Y="0.0000">
+            <EasingData Type="0" />
+          </ScaleFrame>
+        </Timeline>
+        <Timeline ActionTag="265888181" Property="Alpha">
+          <IntFrame FrameIndex="0" Value="255">
+            <EasingData Type="0" />
+          </IntFrame>
+          <IntFrame FrameIndex="5" Value="255">
+            <EasingData Type="0" />
+          </IntFrame>
+          <IntFrame FrameIndex="10" Value="255">
+            <EasingData Type="0" />
+          </IntFrame>
+          <IntFrame FrameIndex="97" Value="255">
+            <EasingData Type="0" />
+          </IntFrame>
+          <IntFrame FrameIndex="100" Value="255">
+            <EasingData Type="0" />
+          </IntFrame>
+          <IntFrame FrameIndex="277" Value="255">
+            <EasingData Type="0" />
+          </IntFrame>
+          <IntFrame FrameIndex="280" Value="255">
+            <EasingData Type="0" />
+          </IntFrame>
+          <IntFrame FrameIndex="285" Value="255">
+            <EasingData Type="0" />
+          </IntFrame>
+          <IntFrame FrameIndex="290" Value="255">
+            <EasingData Type="0" />
+          </IntFrame>
+        </Timeline>
+        <Timeline ActionTag="265888181" Property="VisibleForFrame">
+          <BoolFrame FrameIndex="0" Tween="False" Value="False" />
+          <BoolFrame FrameIndex="5" Tween="False" Value="False" />
+          <BoolFrame FrameIndex="100" Tween="False" Value="False" />
+          <BoolFrame FrameIndex="277" Tween="False" Value="False" />
+          <BoolFrame FrameIndex="280" Tween="False" Value="True" />
+          <BoolFrame FrameIndex="285" Tween="False" Value="True" />
+          <BoolFrame FrameIndex="290" Tween="False" Value="True" />
+        </Timeline>
         <Timeline ActionTag="-1454816641" Property="Position">
           <PointFrame FrameIndex="0" X="35.9908" Y="34.5119">
             <EasingData Type="0" />
@@ -2319,6 +2444,18 @@
           </AbstractNodeData>
           <AbstractNodeData Name="cd_text" ActionTag="1595489240" Tag="304" IconVisible="False" LeftMargin="17.4118" RightMargin="-56.4118" TopMargin="-46.4620" BottomMargin="13.4620" FontSize="22" LabelText="10s" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ShadowEnabled="True" ctype="TextObjectData">
             <Size X="39.0000" Y="33.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="36.9118" Y="29.9620" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
+            <OutlineColor A="255" R="255" G="0" B="0" />
+            <ShadowColor A="255" R="255" G="255" B="255" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="dead_text" ActionTag="265888181" Tag="11597" IconVisible="False" LeftMargin="-0.0882" RightMargin="-73.9118" TopMargin="-41.9620" BottomMargin="17.9620" FontSize="16" LabelText="Damaged" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="-0.5000" ShadowEnabled="True" ctype="TextObjectData">
+            <Size X="74.0000" Y="24.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="36.9118" Y="29.9620" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />

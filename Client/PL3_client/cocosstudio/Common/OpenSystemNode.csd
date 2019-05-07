@@ -96,7 +96,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="138" G="138" B="139" />
           </AbstractNodeData>
-          <AbstractNodeData Name="btn_tiao" ActionTag="-175068173" UserData="righttop" Tag="685" IconVisible="False" LeftMargin="77.9100" RightMargin="-167.9100" TopMargin="2.4092" BottomMargin="-32.4092" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="100" Scale9Height="18" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="btn_tiao" ActionTag="-175068173" UserData="righttop" Tag="685" IconVisible="False" LeftMargin="150.9100" RightMargin="-240.9100" TopMargin="2.4092" BottomMargin="-32.4092" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="100" Scale9Height="18" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="90.0000" Y="30.0000" />
             <Children>
               <AbstractNodeData Name="text" ActionTag="78868991" UserData="righttop" Tag="686" IconVisible="False" LeftMargin="10.4695" RightMargin="32.5305" TopMargin="3.5407" BottomMargin="-6.5407" FontSize="22" LabelText="跳转" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
@@ -113,7 +113,7 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="122.9100" Y="-17.4092" />
+            <Position X="195.9100" Y="-17.4092" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -125,10 +125,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="guide_arrow_1" ActionTag="-1581232855" UserData="righttop" Tag="687" IconVisible="False" LeftMargin="143.7078" RightMargin="-155.7078" TopMargin="11.2138" BottomMargin="-24.2138" ctype="SpriteObjectData">
+          <AbstractNodeData Name="guide_arrow_1" ActionTag="-1581232855" UserData="righttop" Tag="687" IconVisible="False" LeftMargin="216.7078" RightMargin="-228.7078" TopMargin="11.2138" BottomMargin="-24.2138" ctype="SpriteObjectData">
             <Size X="12.0000" Y="13.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="149.7078" Y="-17.7138" />
+            <Position X="222.7078" Y="-17.7138" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

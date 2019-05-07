@@ -68205,7 +68205,7 @@ STRING_EN["index"][9744] = 9744
 STRING_EN[9744] = {}
 	STRING_EN[9744]["ID"] = 9744
 	STRING_EN[9744]["KEY"] = "levelup_cost"
-	STRING_EN[9744]["VALUE"] = "Use #1 to speed up the upgrade， are you sure to use?"
+	STRING_EN[9744]["VALUE"] = "Use         #1 to speed up the upgrade， are you sure to use?"
 	STRING_EN[9744]["real_idx"] = 9744
 
 STRING_EN["index"][9745] = 9745
