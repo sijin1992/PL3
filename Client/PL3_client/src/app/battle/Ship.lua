@@ -379,7 +379,9 @@ function Ship:setDriverStatus( status )
 	elseif status == Ship.EDriverStatus.kDead then
 
 		animManager:runAnimOnceByCSB(self.driver, "BattleScene/Driver.csb", "dead")
-		self.driver:getChildByName("cd_text"):setString(CONF:getStringValue("dead"))
+        self.driver:getChildByName("cd_text"):setVisible(false)
+        self.driver:getChildByName("dead_text"):setVisible(true)
+		self.driver:getChildByName("dead_text"):setString(CONF:getStringValue("dead"))
 	end
 end
 
@@ -1154,7 +1156,8 @@ function Ship:update(dt)
 			end
 
 			local time = math.max(self.cdWaitTime - self.cdTimer, 0)
-
+            self.driver:getChildByName("cd_text"):setVisible(true)
+            self.driver:getChildByName("dead_text"):setVisible(false)
 			self.driver:getChildByName("cd_text"):setString(tostring(math.floor(time)).."s")
 		end
 	end

@@ -48718,7 +48718,7 @@
  	<Row>
 		<ID>9744</ID>
 		<KEY>levelup_cost</KEY>
-		<VALUE>Use #1 to speed up the upgrade， are you sure to use?</VALUE>
+		<VALUE>Use         #1 to speed up the upgrade， are you sure to use?</VALUE>
 	</Row>
  	<Row>
 		<ID>9745</ID>

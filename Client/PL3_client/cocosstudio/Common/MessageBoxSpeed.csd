@@ -94,7 +94,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="text" ActionTag="-84122402" Tag="812" IconVisible="False" LeftMargin="-224.3414" RightMargin="-245.6586" TopMargin="-66.0234" BottomMargin="-14.1066" IsCustomSize="True" FontSize="22" LabelText="Consume      198 to speed up the upgrade， is it OK？" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+          <AbstractNodeData Name="text" ActionTag="-84122402" Tag="812" IconVisible="False" LeftMargin="-224.3414" RightMargin="-245.6586" TopMargin="-66.0234" BottomMargin="-14.1066" IsCustomSize="True" FontSize="22" LabelText="Use      198 to speed up the upgrade， is it OK？" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
             <Size X="470.0000" Y="80.1300" />
             <AnchorPoint ScaleY="1.0000" />
             <Position X="-224.3414" Y="66.0234" />
@@ -132,10 +132,10 @@
             <PressedBackFileData Type="Normal" Path="Common/newUI/checkboxback.png" Plist="" />
             <NodeNormalFileData Type="Normal" Path="Common/newUI/checkboxok.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="point" ActionTag="-659424000" Tag="2970" IconVisible="False" LeftMargin="-120.9710" RightMargin="80.9710" TopMargin="-66.9377" BottomMargin="26.9377" LeftEage="11" RightEage="11" TopEage="13" BottomEage="13" Scale9OriginX="11" Scale9OriginY="13" Scale9Width="31" Scale9Height="27" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="point" ActionTag="-659424000" Tag="2970" IconVisible="False" LeftMargin="-165.7803" RightMargin="125.7803" TopMargin="-68.5908" BottomMargin="28.5908" LeftEage="11" RightEage="11" TopEage="13" BottomEage="13" Scale9OriginX="11" Scale9OriginY="13" Scale9Width="31" Scale9Height="27" ctype="ImageViewObjectData">
             <Size X="40.0000" Y="40.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-100.9710" Y="46.9377" />
+            <Position X="-145.7803" Y="48.5908" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
