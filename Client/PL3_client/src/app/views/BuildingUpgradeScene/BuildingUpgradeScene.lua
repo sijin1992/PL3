@@ -779,7 +779,7 @@ function BuildingUpgradeScene:resetList( ... )
 			node:getChildByName("build_text"):setVisible(true)
 			node:getChildByName("build_sfx"):setVisible(true)
 		else
-			local diff_x = 220
+			local diff_x = 200
 			local diff_y = 50
 			if self.data_.building_num == CONF.EBuilding.kMain then
 				if conf.PLAYER_LEVEL and conf.PLAYER_LEVEL ~= 0 then
