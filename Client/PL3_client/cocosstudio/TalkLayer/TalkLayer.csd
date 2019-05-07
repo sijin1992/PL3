@@ -59,14 +59,14 @@
             <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="text" ActionTag="-962772973" UserData="bottom" Tag="76" RotationSkewY="-0.0009" IconVisible="False" LeftMargin="386.4457" RightMargin="351.5543" TopMargin="607.4783" BottomMargin="10.5217" IsCustomSize="True" FontSize="24" LabelText="blalalal" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
-            <Size X="398.0000" Y="150.0000" />
+          <AbstractNodeData Name="text" ActionTag="-962772973" UserData="bottom" Tag="76" RotationSkewY="-0.0009" IconVisible="False" LeftMargin="238.9094" RightMargin="197.0906" TopMargin="603.4797" BottomMargin="14.5203" IsCustomSize="True" FontSize="20" LabelText="blalalal" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+            <Size X="700.0000" Y="150.0000" />
             <AnchorPoint ScaleY="1.0000" />
-            <Position X="386.4457" Y="160.5217" />
+            <Position X="238.9094" Y="164.5203" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.3402" Y="0.2090" />
-            <PreSize X="0.3504" Y="0.1953" />
+            <PrePosition X="0.2103" Y="0.2142" />
+            <PreSize X="0.6162" Y="0.1953" />
             <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />

@@ -139,7 +139,7 @@
             <PreSize X="0.0933" Y="0.1315" />
             <FileData Type="Normal" Path="CityScene/ui3/icon_gray.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="ship" ActionTag="917888629" UserData="rightbottom" Tag="2286" IconVisible="False" LeftMargin="846.0000" RightMargin="184.0000" TopMargin="645.5000" BottomMargin="21.5000" TouchEnable="True" LeftEage="15" RightEage="15" TopEage="14" BottomEage="14" Scale9OriginX="15" Scale9OriginY="14" Scale9Width="76" Scale9Height="73" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="ship" ActionTag="917888629" UserData="rightbottom" Tag="2286" IconVisible="False" LeftMargin="781.0027" RightMargin="248.9973" TopMargin="645.5000" BottomMargin="21.5000" TouchEnable="True" LeftEage="15" RightEage="15" TopEage="14" BottomEage="14" Scale9OriginX="15" Scale9OriginY="14" Scale9Width="76" Scale9Height="73" ctype="ImageViewObjectData">
             <Size X="106.0000" Y="101.0000" />
             <Children>
               <AbstractNodeData Name="sfx" ActionTag="321209107" Tag="2287" IconVisible="True" LeftMargin="53.0000" RightMargin="53.0000" TopMargin="51.0000" BottomMargin="50.0000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
@@ -172,11 +172,11 @@
                 <PreSize X="0.7075" Y="0.7426" />
                 <FileData Type="Normal" Path="CityScene/ui3/icon_from.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text_miao" ActionTag="-1784656892" UserData="leftbottom" Tag="2292" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="29.0000" RightMargin="29.0000" TopMargin="94.4755" BottomMargin="-28.4755" FontSize="22" LabelText="飞船" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="text_miao" ActionTag="-1784656892" UserData="leftbottom" Tag="2292" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="29.0000" RightMargin="29.0000" TopMargin="94.4755" BottomMargin="-28.4755" FontSize="22" LabelText="飞船" HorizontalAlignmentType="HT_Center" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
                 <Size X="48.0000" Y="35.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="53.0000" Y="-10.9755" />
-                <Scale ScaleX="1.2000" ScaleY="1.2000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="-0.1087" />
                 <PreSize X="0.4528" Y="0.3465" />
@@ -197,14 +197,14 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="899.0000" Y="72.0000" />
+            <Position X="834.0027" Y="72.0000" />
             <Scale ScaleX="0.9000" ScaleY="0.9000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.7914" Y="0.0938" />
+            <PrePosition X="0.7342" Y="0.0938" />
             <PreSize X="0.0933" Y="0.1315" />
             <FileData Type="Normal" Path="CityScene/ui3/icon_gray.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="marker" ActionTag="-188754550" UserData="rightbottom" Tag="1246" IconVisible="False" LeftMargin="759.0000" RightMargin="271.0000" TopMargin="645.4987" BottomMargin="21.5013" TouchEnable="True" LeftEage="16" RightEage="16" TopEage="14" BottomEage="14" Scale9OriginX="16" Scale9OriginY="14" Scale9Width="74" Scale9Height="73" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="marker" ActionTag="-188754550" UserData="rightbottom" Tag="1246" IconVisible="False" LeftMargin="674.0042" RightMargin="355.9958" TopMargin="645.4988" BottomMargin="21.5012" TouchEnable="True" LeftEage="16" RightEage="16" TopEage="14" BottomEage="14" Scale9OriginX="16" Scale9OriginY="14" Scale9Width="74" Scale9Height="73" ctype="ImageViewObjectData">
             <Size X="106.0000" Y="101.0000" />
             <Children>
               <AbstractNodeData Name="sfx" ActionTag="1307864188" Tag="1014" IconVisible="True" LeftMargin="53.0000" RightMargin="53.0000" TopMargin="51.0000" BottomMargin="50.0000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
@@ -237,11 +237,11 @@
                 <PreSize X="0.7075" Y="0.7426" />
                 <FileData Type="Normal" Path="PlanetScene/ui/icon_maker.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text_miao" ActionTag="1391418034" UserData="leftbottom" Tag="1248" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="29.5000" RightMargin="29.5000" TopMargin="94.4755" BottomMargin="-28.4755" FontSize="22" LabelText="书签" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="text_miao" ActionTag="1391418034" UserData="leftbottom" Tag="1248" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="29.5000" RightMargin="29.5000" TopMargin="94.4755" BottomMargin="-28.4755" FontSize="22" LabelText="书签" HorizontalAlignmentType="HT_Center" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
                 <Size X="47.0000" Y="35.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="53.0000" Y="-10.9755" />
-                <Scale ScaleX="1.2000" ScaleY="1.2000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="-0.1087" />
                 <PreSize X="0.4434" Y="0.3465" />
@@ -262,14 +262,14 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="812.0000" Y="72.0013" />
+            <Position X="727.0042" Y="72.0012" />
             <Scale ScaleX="0.9000" ScaleY="0.9000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.7148" Y="0.0938" />
+            <PrePosition X="0.6400" Y="0.0938" />
             <PreSize X="0.0933" Y="0.1315" />
             <FileData Type="Normal" Path="CityScene/ui3/icon_gray.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="bag" ActionTag="1730861253" UserData="rightbottom" Tag="1251" IconVisible="False" LeftMargin="935.0000" RightMargin="95.0000" TopMargin="645.4987" BottomMargin="21.5013" TouchEnable="True" LeftEage="19" RightEage="19" TopEage="15" BottomEage="15" Scale9OriginX="19" Scale9OriginY="15" Scale9Width="68" Scale9Height="71" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="bag" ActionTag="1730861253" UserData="rightbottom" Tag="1251" IconVisible="False" LeftMargin="885.0015" RightMargin="144.9985" TopMargin="645.4988" BottomMargin="21.5012" TouchEnable="True" LeftEage="19" RightEage="19" TopEage="15" BottomEage="15" Scale9OriginX="19" Scale9OriginY="15" Scale9Width="68" Scale9Height="71" ctype="ImageViewObjectData">
             <Size X="106.0000" Y="101.0000" />
             <Children>
               <AbstractNodeData Name="sfx" ActionTag="-191985309" Tag="1011" IconVisible="True" LeftMargin="53.0000" RightMargin="53.0000" TopMargin="51.0000" BottomMargin="50.0000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
@@ -302,11 +302,11 @@
                 <PreSize X="0.7075" Y="0.7426" />
                 <FileData Type="Normal" Path="CityScene/ui3/icon_backpack.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text_miao" ActionTag="383065178" UserData="leftbottom" Tag="1253" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="29.0000" RightMargin="29.0000" TopMargin="94.4755" BottomMargin="-28.4755" FontSize="22" LabelText="背包" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="text_miao" ActionTag="383065178" UserData="leftbottom" Tag="1253" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="29.0000" RightMargin="29.0000" TopMargin="94.4755" BottomMargin="-28.4755" FontSize="22" LabelText="背包" HorizontalAlignmentType="HT_Center" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
                 <Size X="48.0000" Y="35.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="53.0000" Y="-10.9755" />
-                <Scale ScaleX="1.2000" ScaleY="1.2000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="-0.1087" />
                 <PreSize X="0.4528" Y="0.3465" />
@@ -327,14 +327,14 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="988.0000" Y="72.0013" />
+            <Position X="938.0015" Y="72.0012" />
             <Scale ScaleX="0.9000" ScaleY="0.9000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.8697" Y="0.0938" />
+            <PrePosition X="0.8257" Y="0.0938" />
             <PreSize X="0.0933" Y="0.1315" />
             <FileData Type="Normal" Path="CityScene/ui3/icon_gray.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="league" ActionTag="-1622121490" UserData="rightbottom" Tag="1260" IconVisible="False" LeftMargin="672.9977" RightMargin="357.0023" TopMargin="645.4987" BottomMargin="21.5013" TouchEnable="True" LeftEage="19" RightEage="19" TopEage="15" BottomEage="15" Scale9OriginX="19" Scale9OriginY="15" Scale9Width="68" Scale9Height="71" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="league" ActionTag="-1622121490" UserData="rightbottom" Tag="1260" IconVisible="False" LeftMargin="568.0016" RightMargin="461.9984" TopMargin="645.4988" BottomMargin="21.5012" TouchEnable="True" LeftEage="19" RightEage="19" TopEage="15" BottomEage="15" Scale9OriginX="19" Scale9OriginY="15" Scale9Width="68" Scale9Height="71" ctype="ImageViewObjectData">
             <Size X="106.0000" Y="101.0000" />
             <Children>
               <AbstractNodeData Name="sfx" ActionTag="-1460649719" Tag="1008" IconVisible="True" LeftMargin="53.0000" RightMargin="53.0000" TopMargin="51.0000" BottomMargin="50.0000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
@@ -367,11 +367,11 @@
                 <PreSize X="0.7075" Y="0.7426" />
                 <FileData Type="Normal" Path="CityScene/ui3/icon_league.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text_miao" ActionTag="-224072335" UserData="leftbottom" Tag="1262" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="29.0000" RightMargin="29.0000" TopMargin="94.4755" BottomMargin="-28.4755" FontSize="22" LabelText="星盟" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="text_miao" ActionTag="-224072335" UserData="leftbottom" Tag="1262" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="29.0000" RightMargin="29.0000" TopMargin="94.4755" BottomMargin="-28.4755" FontSize="22" LabelText="星盟" HorizontalAlignmentType="HT_Center" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
                 <Size X="48.0000" Y="35.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="53.0000" Y="-10.9755" />
-                <Scale ScaleX="1.2000" ScaleY="1.2000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="-0.1087" />
                 <PreSize X="0.4528" Y="0.3465" />
@@ -392,14 +392,14 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="725.9977" Y="72.0013" />
+            <Position X="621.0016" Y="72.0012" />
             <Scale ScaleX="0.9000" ScaleY="0.9000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.6391" Y="0.0938" />
+            <PrePosition X="0.5467" Y="0.0938" />
             <PreSize X="0.0933" Y="0.1315" />
             <FileData Type="Normal" Path="CityScene/ui3/icon_gray.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="starRange" ActionTag="-272322207" UserData="rightbottom" Tag="1256" IconVisible="False" LeftMargin="1023.0000" RightMargin="7.0000" TopMargin="645.4987" BottomMargin="21.5013" TouchEnable="True" LeftEage="19" RightEage="19" TopEage="15" BottomEage="15" Scale9OriginX="19" Scale9OriginY="15" Scale9Width="68" Scale9Height="71" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="starRange" ActionTag="-272322207" UserData="rightbottom" Tag="1256" IconVisible="False" LeftMargin="998.0000" RightMargin="32.0000" TopMargin="645.4988" BottomMargin="21.5012" TouchEnable="True" LeftEage="19" RightEage="19" TopEage="15" BottomEage="15" Scale9OriginX="19" Scale9OriginY="15" Scale9Width="68" Scale9Height="71" ctype="ImageViewObjectData">
             <Size X="106.0000" Y="101.0000" />
             <Children>
               <AbstractNodeData Name="sfx" ActionTag="1687942963" Tag="1005" IconVisible="True" LeftMargin="53.0000" RightMargin="53.0000" TopMargin="51.0000" BottomMargin="50.0000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
@@ -432,11 +432,11 @@
                 <PreSize X="0.7075" Y="0.7426" />
                 <FileData Type="Normal" Path="PlanetScene/ui/icon_starRange.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="text_miao" ActionTag="385982398" UserData="leftbottom" Tag="1258" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="29.0000" RightMargin="29.0000" TopMargin="94.4755" BottomMargin="-28.4755" FontSize="22" LabelText="星系" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="text_miao" ActionTag="385982398" UserData="leftbottom" Tag="1258" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="29.0000" RightMargin="29.0000" TopMargin="94.4755" BottomMargin="-28.4755" FontSize="22" LabelText="星系" HorizontalAlignmentType="HT_Center" OutlineEnabled="True" ShadowOffsetX="1.5000" ShadowOffsetY="-1.5000" ctype="TextObjectData">
                 <Size X="48.0000" Y="35.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="53.0000" Y="-10.9755" />
-                <Scale ScaleX="1.2000" ScaleY="1.2000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="-0.1087" />
                 <PreSize X="0.4528" Y="0.3465" />
@@ -457,10 +457,10 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="1076.0000" Y="72.0013" />
+            <Position X="1051.0000" Y="72.0012" />
             <Scale ScaleX="0.9000" ScaleY="0.9000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.9472" Y="0.0938" />
+            <PrePosition X="0.9252" Y="0.0938" />
             <PreSize X="0.0933" Y="0.1315" />
             <FileData Type="Normal" Path="CityScene/ui3/icon_gray.png" Plist="" />
           </AbstractNodeData>
@@ -518,7 +518,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="chat" ActionTag="-1062323332" UserData="leftbottom" Tag="721" IconVisible="False" LeftMargin="3.8649" RightMargin="1096.1350" TopMargin="730.5551" BottomMargin="6.4449" TouchEnable="True" FontSize="14" Scale9Enable="True" Scale9Width="36" Scale9Height="31" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="chat" ActionTag="-1062323332" UserData="leftbottom" Tag="721" IconVisible="False" LeftMargin="3.8649" RightMargin="1096.1351" TopMargin="730.5551" BottomMargin="6.4449" TouchEnable="True" FontSize="14" Scale9Enable="True" Scale9Width="36" Scale9Height="31" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="36.0000" Y="31.0000" />
             <Children>
               <AbstractNodeData Name="point" ActionTag="2062913361" UserData="leftbottom" Tag="722" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="19.5066" RightMargin="-1.5066" TopMargin="-3.0978" BottomMargin="16.0978" ctype="SpriteObjectData">
