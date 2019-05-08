@@ -224,7 +224,11 @@ function PlanetManager:getPlanetUser( )
 end
 
 function PlanetManager:getPlanetUserBaseElementKey( ... )
-	return self.planet_user.base_global_key
+    if self.planet_user and self.planet_user.base_global_key then
+	    return self.planet_user.base_global_key
+    else
+        return nil
+    end
 end
 
 function PlanetManager:setPlanetUserArmy( index, army )
