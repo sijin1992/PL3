@@ -1219,7 +1219,7 @@ function Player:ctor()
 	end
 
 	local function updatePlanetUser( ... )
-		if self.planet_user then
+		if self.planet_user and self.planet_user.army_list then
 			for i,v in ipairs(self.planet_user.army_list) do
 
 				if v.status == 3 then--Status.kMoveEnd then
