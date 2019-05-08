@@ -546,7 +546,7 @@ function ItemBagScene:setItemDetail(item)
 	                for k,v in ipairs(reward_conf.ITEM) do
 	                    local item = CONF.ITEM.get(v)
 	                    if k ~= #reward_conf.ITEM then
-	                        str = str..CONF:getStringValue(item.NAME_ID).."*"..reward_conf.COUNT[k]..","
+	                        str = str..CONF:getStringValue(item.NAME_ID).."*"..reward_conf.COUNT[k]..", "
 	                    else
 	                        str = str..CONF:getStringValue(item.NAME_ID).."*"..reward_conf.COUNT[k]
 	                    end
