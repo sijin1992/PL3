@@ -31,7 +31,21 @@ function UpgradeLayer:resetInfo( weaponID )
 	local weapon_info = g_player:getWeaponByID(weaponID)
 
 	local need = conf.MATERIAL_NUM
+
+    local lastClickTime = 0
+    local function isFastClick()
+        local time = os.clock()
+        if time - lastClickTime < 0.5 then
+            return true
+        end
+        lastClickTime = time
+        return false
+    end
 	local function onUpgrade( )
+        if isFastClick() then
+            return
+        end
+
 		if g_player:getItemNumByID(conf.MATERIAL_ID) < need then
 			local jumpTab = {}
             local cfg_item = CONF.ITEM.get(conf.MATERIAL_ID)
