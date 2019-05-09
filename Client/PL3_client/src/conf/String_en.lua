@@ -24574,7 +24574,7 @@ STRING_EN["index"][3511] = 3511
 STRING_EN[3511] = {}
 	STRING_EN[3511]["ID"] = 3511
 	STRING_EN[3511]["KEY"] = "sumMember2"
-	STRING_EN[3511]["VALUE"] = "Number of People"
+	STRING_EN[3511]["VALUE"] = " People"
 	STRING_EN[3511]["real_idx"] = 3511
 
 STRING_EN["index"][3512] = 3512
