@@ -112,25 +112,25 @@
 		<ID>19</ID>
 		<KEY>ship_break_13</KEY>
 		<PARAM>10.3 </PARAM>
-		<DESCRIPTION>飞船突破13参数</DESCRIPTION>
+		<DESCRIPTION>飞船突破13参数(游戏没有)</DESCRIPTION>
 	</Row>
  	<Row>
 		<ID>20</ID>
 		<KEY>ship_break_14</KEY>
 		<PARAM>11.1 </PARAM>
-		<DESCRIPTION>飞船突破14参数</DESCRIPTION>
+		<DESCRIPTION>飞船突破14参数(游戏没有)</DESCRIPTION>
 	</Row>
  	<Row>
 		<ID>21</ID>
 		<KEY>ship_break_15</KEY>
 		<PARAM>11.9 </PARAM>
-		<DESCRIPTION>飞船突破15参数</DESCRIPTION>
+		<DESCRIPTION>飞船突破15参数(游戏没有)</DESCRIPTION>
 	</Row>
  	<Row>
 		<ID>22</ID>
 		<KEY>ship_break_16</KEY>
 		<PARAM>12.7 </PARAM>
-		<DESCRIPTION>飞船突破16参数</DESCRIPTION>
+		<DESCRIPTION>飞船突破16参数(游戏没有)</DESCRIPTION>
 	</Row>
  	<Row>
 		<ID>23</ID>
@@ -1011,8 +1011,8 @@
  	<Row>
 		<ID>169</ID>
 		<KEY>alliance_digit</KEY>
-		<PARAM>5</PARAM>
-		<DESCRIPTION>星盟字数限制</DESCRIPTION>
+		<PARAM>10</PARAM>
+		<DESCRIPTION>星盟字数限制(中文需修改）</DESCRIPTION>
 	</Row>
  	<Row>
 		<ID>170</ID>
@@ -1029,7 +1029,7 @@
  	<Row>
 		<ID>172</ID>
 		<KEY>planet_move_speed</KEY>
-		<PARAM>0.04,0.024,0.056</PARAM>
+		<PARAM>0.04,0.024,0.072</PARAM>
 		<DESCRIPTION>星球移动速度 1：采集 2：攻击 3：侦查</DESCRIPTION>
 	</Row>
  	<Row>
