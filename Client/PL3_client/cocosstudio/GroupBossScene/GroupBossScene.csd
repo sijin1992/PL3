@@ -17,32 +17,6 @@
             <FileData Type="Normal" Path="Common/newUI/fc_bj.jpg" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Panel" ActionTag="1140181430" UserData="lefttop" Tag="28" IconVisible="False" HorizontalEdge="LeftEdge" VerticalEdge="TopEdge" LeftMargin="194.8002" RightMargin="-630.8002" TopMargin="71.0815" BottomMargin="-3.0815" TouchEnable="True" ClipAble="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
-            <Size X="1572.0000" Y="700.0000" />
-            <Children>
-              <AbstractNodeData Name="G2" ActionTag="1850256455" Tag="67" IconVisible="False" LeftMargin="-419.1900" RightMargin="191.1899" TopMargin="-64.3300" BottomMargin="-3.6700" ctype="SpriteObjectData">
-                <Size X="1800.0000" Y="768.0000" />
-                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="480.8100" Y="380.3300" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.3059" Y="0.5433" />
-                <PreSize X="1.1450" Y="1.0971" />
-                <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
-                <BlendFunc Src="770" Dst="771" />
-              </AbstractNodeData>
-            </Children>
-            <AnchorPoint ScaleY="1.0000" />
-            <Position X="194.8002" Y="696.9185" />
-            <Scale ScaleX="1.1000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.1715" Y="0.9074" />
-            <PreSize X="1.3838" Y="0.9115" />
-            <SingleColor A="255" R="150" G="200" B="255" />
-            <FirstColor A="255" R="150" G="200" B="255" />
-            <EndColor A="255" R="255" G="255" B="255" />
-            <ColorVector ScaleY="1.0000" />
-          </AbstractNodeData>
           <AbstractNodeData Name="Image_1" ActionTag="-544067964" UserData="top" Tag="2472" IconVisible="False" LeftMargin="-482.0001" RightMargin="-481.9999" TopMargin="-13.0000" BottomMargin="696.0000" LeftEage="374" RightEage="374" TopEage="28" BottomEage="28" Scale9OriginX="374" Scale9OriginY="28" Scale9Width="388" Scale9Height="29" ctype="ImageViewObjectData">
             <Size X="2100.0000" Y="85.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
@@ -101,7 +75,7 @@
             <Position X="-0.0095" Y="697.0754" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition Y="0.9077" />
+            <PrePosition X="0.0000" Y="0.9077" />
             <PreSize X="0.1769" Y="0.7747" />
             <SingleColor A="255" R="255" G="150" B="100" />
             <FirstColor A="255" R="255" G="150" B="100" />
