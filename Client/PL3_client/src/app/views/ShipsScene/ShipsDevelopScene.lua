@@ -409,7 +409,12 @@ end
 
 function ShipsDevelopScene:onEnterTransitionFinish()
 	print ( "### LUA ShipsDevelopScene.lua onEnterTransitionFinish" )
-
+    --addbyjinxin
+    local strData = Tools.encode("PlanetRideBackReq", {
+		type = 2,
+	})
+	GameHandler.handler_c.send(Tools.enum_id("CMD_DEFINE","CMD_PLANET_RIDE_BACK_REQ"),strData)
+    --
 	guideManager:checkInterface(CONF.EInterface.kShips)
 	local systemGuideManager = require("app.views.SystemGuideLayer.SystemGuideManager"):getInstance()
 
