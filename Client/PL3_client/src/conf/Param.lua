@@ -149,7 +149,7 @@ PARAM[19] = {}
 	PARAM[19]["ID"] = 19
 	PARAM[19]["KEY"] = "ship_break_13"
 	PARAM[19]["PARAM"] = 10.3 
-	PARAM[19]["DESCRIPTION"] = "飞船突破13参数"
+	PARAM[19]["DESCRIPTION"] = "飞船突破13参数(游戏没有)"
 	PARAM[19]["real_idx"] = 19
 
 PARAM["index"][20] = 20
@@ -157,7 +157,7 @@ PARAM[20] = {}
 	PARAM[20]["ID"] = 20
 	PARAM[20]["KEY"] = "ship_break_14"
 	PARAM[20]["PARAM"] = 11.1 
-	PARAM[20]["DESCRIPTION"] = "飞船突破14参数"
+	PARAM[20]["DESCRIPTION"] = "飞船突破14参数(游戏没有)"
 	PARAM[20]["real_idx"] = 20
 
 PARAM["index"][21] = 21
@@ -165,7 +165,7 @@ PARAM[21] = {}
 	PARAM[21]["ID"] = 21
 	PARAM[21]["KEY"] = "ship_break_15"
 	PARAM[21]["PARAM"] = 11.9 
-	PARAM[21]["DESCRIPTION"] = "飞船突破15参数"
+	PARAM[21]["DESCRIPTION"] = "飞船突破15参数(游戏没有)"
 	PARAM[21]["real_idx"] = 21
 
 PARAM["index"][22] = 22
@@ -173,7 +173,7 @@ PARAM[22] = {}
 	PARAM[22]["ID"] = 22
 	PARAM[22]["KEY"] = "ship_break_16"
 	PARAM[22]["PARAM"] = 12.7 
-	PARAM[22]["DESCRIPTION"] = "飞船突破16参数"
+	PARAM[22]["DESCRIPTION"] = "飞船突破16参数(游戏没有)"
 	PARAM[22]["real_idx"] = 22
 
 PARAM["index"][23] = 23
@@ -1476,8 +1476,8 @@ PARAM["index"][169] = 169
 PARAM[169] = {}
 	PARAM[169]["ID"] = 169
 	PARAM[169]["KEY"] = "alliance_digit"
-	PARAM[169]["PARAM"] = 5
-	PARAM[169]["DESCRIPTION"] = "星盟字数限制"
+	PARAM[169]["PARAM"] = 10
+	PARAM[169]["DESCRIPTION"] = "星盟字数限制(中文需修改）"
 	PARAM[169]["real_idx"] = 169
 
 PARAM["index"][170] = 170
@@ -1505,7 +1505,7 @@ PARAM[172] = {}
 	PARAM[172]["PARAM"] = {}
 		PARAM[172]["PARAM"][1] = 0.04
 		PARAM[172]["PARAM"][2] = 0.024
-		PARAM[172]["PARAM"][3] = 0.056
+		PARAM[172]["PARAM"][3] = 0.072
 	PARAM[172]["DESCRIPTION"] = "星球移动速度 1：采集 2：攻击 3：侦查"
 	PARAM[172]["real_idx"] = 172
 
