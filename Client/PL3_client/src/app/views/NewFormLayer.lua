@@ -1847,6 +1847,7 @@ function NewFormLayer:onEnterTransitionFinish()
         --				tipsAction(node)
                         local messageBox = require("util.MessageBox"):getInstance()
         		        messageBox:reset(CONF:getStringValue("isfight"), fightfun)
+                        return
                     elseif self.data_ and self.data_.from == "slave" then
                         tips:tips(CONF:getStringValue('yushe succeed'))
                     else
@@ -2108,10 +2109,10 @@ function NewFormLayer:onEnterTransitionFinish()
 					is_guide = true
 				end
 
-				self:getApp():removeTopView()
-
 				if is_guide then
 					guideManager:createGuideLayer(guideManager:getTeshuGuideId(3)+2)
+                else
+                    self:getApp():removeTopView()
 				end
 			elseif proto.result == "ARMY_MAX_NUM" then
 				tips:tips(CONF:getStringValue("no_planet_queue"))
