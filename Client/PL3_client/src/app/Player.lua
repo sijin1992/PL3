@@ -910,12 +910,12 @@ function Player:ctor()
 				if self.data_.user_info.blocked.type == 1 then
 					local app = require("app.MyApp"):getInstance()
 					app:pushToRootView("LoginScene/LoginScene")
-				end
-					end
 				elseif cmd == Tools.enum_id("CMD_DEFINE","CMD_SERVER_RES_UPDATE") then
 
-			GameHandler.handler_c.send(Tools.enum_id("CMD_DEFINE","CMD_UPDATE_RES_REQ"),"0")
+                end
 
+			    GameHandler.handler_c.send(Tools.enum_id("CMD_DEFINE","CMD_UPDATE_RES_REQ"),"0")
+            end
 		elseif cmd == Tools.enum_id("CMD_DEFINE","CMD_UPDATE_RES_RESP") then
 
 			cc.Director:getInstance():getEventDispatcher():dispatchCustomEvent("ResUpdated")
