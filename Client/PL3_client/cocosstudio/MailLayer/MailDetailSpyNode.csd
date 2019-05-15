@@ -152,10 +152,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="255" G="255" B="255" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Text_6" ActionTag="-1472695085" Tag="173" IconVisible="False" LeftMargin="477.5391" RightMargin="-901.5391" TopMargin="-110.9108" BottomMargin="33.9108" IsCustomSize="True" FontSize="25" LabelText="指挥官" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="Text_6" ActionTag="-1472695085" Tag="173" IconVisible="False" LeftMargin="209.5391" RightMargin="-633.5391" TopMargin="-7.9108" BottomMargin="-69.0892" IsCustomSize="True" FontSize="25" LabelText="指挥官" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="424.0000" Y="77.0000" />
                 <AnchorPoint ScaleY="1.0000" />
-                <Position X="477.5391" Y="110.9108" />
+                <Position X="209.5391" Y="7.9108" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
