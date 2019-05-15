@@ -1361,7 +1361,7 @@ function PandectNode:createMessage( type )  -- 1 升级 2 退出 3 修改公告�
 	elseif type == 6 then
 		local node = require("app.ExResInterface"):getInstance():FastLoad("StarLeagueScene/league_help.csb")
 		node:getChildByName("help"):getChildByName("text"):setString(CONF:getStringValue("a_key_to_help"))
-		node:getChildByName("text"):setString(CONF:getStringValue("ListIsEmpty"))
+		node:getChildByName("text"):setString(CONF:getStringValue("no_help"))
 		node:getChildByName("Text_1"):setString(CONF:getStringValue("leagueHelp"))
 		
 		if #self.help_list > 0 then
