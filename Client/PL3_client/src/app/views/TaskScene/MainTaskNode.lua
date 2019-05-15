@@ -146,7 +146,12 @@ function MainTaskNode:createTask( id, isMain, index )
 		node:getChildByName("btnGo"):addClickEventListener(function (sender)
 			playEffectSound("sound/system/click.mp3")
 			local conf = CONF.TASK.get(sender:getParent():getTag())
-			goScene(conf.TURN_TYPE, conf.TURN_ID)
+            local turn_id = conf.TURN_ID
+            if conf.TURN_TYPE == 23 then -- blueprint
+                local blueprint_type = CONF.BLUEPRINT.get(conf.VALUES[1]).TYPE
+                turn_id = blueprint_type
+            end
+			goScene(conf.TURN_TYPE, turn_id)
 		end)
 	else --如果任务未开放，则显示开放条件  
 		animManager:runAnimOnceByCSB(node,"TaskScene/TaskNode.csb" ,"unopen")

@@ -1968,7 +1968,11 @@ function goScene( turn_type, turn_id, ship_guid ,data)
 		
 	 	rechargeNode:init(display.getRunningScene(), {index = 1})
  	elseif turn_type == 23 then
-		app:pushView("BlueprintScene/BlueprintScene")
+        if turn_id ~= 0 then
+		    app:pushView("BlueprintScene/BlueprintScene",{ mode_ = turn_id})
+        else
+            app:pushView("BlueprintScene/BlueprintScene")
+        end
 	end
 end
 
