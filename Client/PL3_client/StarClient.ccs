@@ -4670,6 +4670,7 @@
             <Project Name="BossNode.csd" Type="Node" />
             <Project Name="GetNode.csd" Type="Node" />
             <Project Name="MailDetailTeamInfo.csd" Type="Node" />
+            <Project Name="NotOpenNode.csd" Type="Node" />
             <Project Name="PlantNode.csd" Type="Node" />
             <Project Name="ResNode.csd" Type="Node" />
             <Project Name="RuinsGetNode.csd" Type="Node" />
