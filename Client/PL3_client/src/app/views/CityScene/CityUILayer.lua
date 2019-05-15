@@ -2186,7 +2186,12 @@ function CityUILayer:createTaskBar()
 					layer:setPosition(cc.exports.VisibleRect:center())
 					self:addChild(layer)
 				else
-					goScene( self.firstTask_.TURN_TYPE, self.firstTask_.TURN_ID )
+                    local turn_id = self.firstTask_.TURN_ID
+                    if self.firstTask_.TURN_TYPE == 23 then -- blueprint
+                        local blueprint_type = CONF.BLUEPRINT.get(self.firstTask_.VALUES[1]).TYPE
+                        turn_id = blueprint_type
+                    end
+					goScene( self.firstTask_.TURN_TYPE, turn_id )
 				end
 			else
 				-- self:getApp():addView2Top("TaskScene/TaskScene", 1)
