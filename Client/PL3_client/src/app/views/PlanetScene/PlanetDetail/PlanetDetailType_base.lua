@@ -590,7 +590,7 @@ function PlanetDetailType_base:setBaseNode(data,otherUserInfo,shipListInfo)
 						progress:setPercentage(pro)
 						local p2 = math.ceil(p[2]/p[3]*1000)/10
 						item_node:getChildByName('text_jindu'..i):setString(p2..'%')
-						item_node:getChildByName('FileNode_'..i):getChildByName('icon'):loadTexture('RoleIcon/'..cfg_ship.ICON_ID..'.png')
+						item_node:getChildByName('FileNode_'..i):getChildByName('icon'):loadTexture('ShipImage/'..cfg_ship.ICON_ID..'.png')
 						-- if cfg_ship.QUALITY == EDevelopStatus.kHas then
 							item_node:getChildByName('FileNode_'..i):getChildByName('background'):loadTexture("RankLayer/ui/ui_avatar_" .. cfg_ship.QUALITY .. ".png")
 						-- else
