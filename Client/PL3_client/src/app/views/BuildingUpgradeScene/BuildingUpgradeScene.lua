@@ -1500,7 +1500,7 @@ function BuildingUpgradeScene:onEnterTransitionFinish()
 
 				if proto.index == self.data_.building_num then
                     local buildinginfo = player:getBuildingInfo(proto.index)
-                    local node = require("util.UpgradeOverNode"):createNode(CONF:getStringValue("BuildingName_"..self.data_.building_num).."Lv."..buildinginfo.level..CONF:getStringValue("UpgradeSucess"))
+                    local node = require("util.UpgradeOverNode"):createNode(CONF:getStringValue("BuildingName_"..self.data_.building_num).." Lv."..buildinginfo.level.." "..CONF:getStringValue("UpgradeSucess"))
 					node:setPosition(cc.exports.VisibleRect:center())
 					self:addChild(node)
 
