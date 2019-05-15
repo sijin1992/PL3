@@ -6,7 +6,7 @@
       <ObjectData Name="Layer" Tag="547" ctype="GameLayerObjectData">
         <Size X="1136.0000" Y="768.0000" />
         <Children>
-          <AbstractNodeData Name="background" ActionTag="2133367467" Tag="195" IconVisible="False" LeftMargin="182.7940" RightMargin="174.2059" TopMargin="140.9446" BottomMargin="157.0554" TouchEnable="True" Scale9Enable="True" LeftEage="183" RightEage="168" TopEage="132" BottomEage="132" Scale9OriginX="183" Scale9OriginY="132" Scale9Width="22" Scale9Height="29" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="background" ActionTag="2133367467" Tag="195" IconVisible="False" LeftMargin="182.7940" RightMargin="174.2060" TopMargin="140.9446" BottomMargin="157.0554" TouchEnable="True" Scale9Enable="True" LeftEage="183" RightEage="168" TopEage="132" BottomEage="132" Scale9OriginX="183" Scale9OriginY="132" Scale9Width="22" Scale9Height="29" ctype="ImageViewObjectData">
             <Size X="779.0000" Y="470.0000" />
             <AnchorPoint ScaleY="1.0000" />
             <Position X="182.7940" Y="627.0554" />
@@ -274,10 +274,10 @@
           <AbstractNodeData Name="develop" Visible="False" ActionTag="-371820294" Tag="369" IconVisible="False" LeftMargin="779.1248" RightMargin="218.8752" TopMargin="534.8880" BottomMargin="193.1120" TouchEnable="True" FontSize="13" Scale9Enable="True" LeftEage="61" RightEage="59" TopEage="20" BottomEage="17" Scale9OriginX="61" Scale9OriginY="20" Scale9Width="10" Scale9Height="3" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="138.0000" Y="40.0000" />
             <Children>
-              <AbstractNodeData Name="text" ActionTag="912377670" Tag="370" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="25.6486" RightMargin="24.3514" TopMargin="6.3084" BottomMargin="0.6916" FontSize="22" LabelText="Develop" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+              <AbstractNodeData Name="text" ActionTag="912377670" Tag="370" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="25.6486" RightMargin="24.3514" TopMargin="6.3080" BottomMargin="0.6920" FontSize="22" LabelText="Develop" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
                 <Size X="88.0000" Y="33.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="69.6486" Y="17.1916" />
+                <Position X="69.6486" Y="17.1920" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5047" Y="0.4298" />
@@ -357,13 +357,13 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="226" G="239" B="242" />
           </AbstractNodeData>
-          <AbstractNodeData Name="cost_node" ActionTag="2110779482" Tag="102" IconVisible="True" LeftMargin="340.9766" RightMargin="795.0234" TopMargin="354.7015" BottomMargin="413.2985" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="cost_node" ActionTag="2110779482" Tag="102" IconVisible="True" LeftMargin="394.9761" RightMargin="741.0239" TopMargin="354.7017" BottomMargin="413.2983" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
-            <Position X="340.9766" Y="413.2985" />
+            <Position X="394.9761" Y="413.2983" />
             <Scale ScaleX="0.8000" ScaleY="0.8000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.3002" Y="0.5381" />
+            <PrePosition X="0.3477" Y="0.5381" />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
           <AbstractNodeData Name="cd_time" ActionTag="-1104389258" Tag="409" IconVisible="False" LeftMargin="496.2292" RightMargin="558.7708" TopMargin="543.7581" BottomMargin="194.2419" FontSize="20" LabelText="00:00:50" HorizontalAlignmentType="HT_Right" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
@@ -387,7 +387,7 @@
             <PrePosition X="0.3000" Y="0.4688" />
             <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="line" ActionTag="1143968360" Tag="395" IconVisible="False" LeftMargin="205.6364" RightMargin="219.7523" TopMargin="515.5393" BottomMargin="250.4607" LeftEage="214" RightEage="214" Scale9OriginX="214" Scale9Width="223" Scale9Height="2" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="line" ActionTag="1143968360" Tag="395" IconVisible="False" LeftMargin="205.6364" RightMargin="219.7524" TopMargin="515.5393" BottomMargin="250.4607" LeftEage="214" RightEage="214" Scale9OriginX="214" Scale9Width="223" Scale9Height="2" ctype="ImageViewObjectData">
             <Size X="710.6112" Y="2.0000" />
             <AnchorPoint ScaleY="0.2989" />
             <Position X="205.6364" Y="251.0585" />
