@@ -460,7 +460,7 @@ function NewFormScene:addIconListener(node)
 									end
 								end
 
-								tips:tips(CONF:getStringValue("BuildingName_14")..add_level..CONF:getStringValue("level_2").. CONF:getStringValue("add_form_num"))
+								tips:tips(CONF:getStringValue("BuildingName_14").." "..CONF:getStringValue("level_2").." "..add_level.." "..CONF:getStringValue("add_form_num"))
 								return
 							end
 						else

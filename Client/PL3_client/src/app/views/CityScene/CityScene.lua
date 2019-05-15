@@ -1628,7 +1628,7 @@ function CityScene:onEnterTransitionFinish()
                 local buildinginfo = player:getBuildingInfo(proto.index)
 				if buildinginfo.upgrade_begin_time == 0 then
 					self:getResourceNode():getChildByName("text_"..proto.index):getChildByName("num"):setString("Lv."..buildinginfo.level)
-                    local node = require("util.UpgradeOverNode"):createNode(CONF:getStringValue("BuildingName_"..proto.index).."Lv."..buildinginfo.level..CONF:getStringValue("UpgradeSucess"))
+                    local node = require("util.UpgradeOverNode"):createNode(CONF:getStringValue("BuildingName_"..proto.index).." Lv."..buildinginfo.level.." "..CONF:getStringValue("UpgradeSucess"))
 					node:setPosition(cc.exports.VisibleRect:center())
 					self:addChild(node)
 				end
