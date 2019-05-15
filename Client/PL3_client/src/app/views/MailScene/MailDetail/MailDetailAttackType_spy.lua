@@ -166,6 +166,7 @@ function MailDetailAttackType_spy:initMailDetail(mail_info,data)
 	totalNode:getChildByName('Node'):getChildByName("ship_list"):setScrollBarEnabled(false)
 	if not showRes or (not b1 or not b2 or not b3) then
 		local node = require("app.ExResInterface"):getInstance():FastLoad('MailLayer/DetailAttackSmallNode/NotOpenNode.csb')
+        node:getChildByName("Text_1"):setString(CONF:getStringValue('upgrade scout message'))
 		local list = require("util.ScrollViewDelegate"):create(totalNode:getChildByName('Node'):getChildByName("ship_list"),cc.size(0,10), cc.size(820,sizeH))
 		list:addElement(node)
 		return totalNode

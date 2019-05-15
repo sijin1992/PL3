@@ -16,10 +16,10 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="Common/newUI/back.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_1" ActionTag="1278114205" Tag="1738" IconVisible="False" LeftMargin="267.4745" RightMargin="-533.4745" TopMargin="165.8170" BottomMargin="-192.8170" FontSize="24" LabelText="升级侦查塔解锁更多信息" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ShadowEnabled="True" ctype="TextObjectData">
-            <Size X="266.0000" Y="27.0000" />
-            <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
-            <Position X="533.4745" Y="-179.3170" />
+          <AbstractNodeData Name="Text_1" ActionTag="1278114205" Tag="1738" IconVisible="False" LeftMargin="266.4745" RightMargin="-533.4745" TopMargin="161.3170" BottomMargin="-197.3170" FontSize="24" LabelText="升级侦查塔解锁更多信息" HorizontalAlignmentType="HT_Center" ShadowOffsetX="0.2000" ShadowOffsetY="0.2000" ShadowEnabled="True" ctype="TextObjectData">
+            <Size X="267.0000" Y="36.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="399.9745" Y="-179.3170" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -28,10 +28,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="255" G="255" B="255" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Image_2" ActionTag="-287037109" Tag="1739" IconVisible="False" LeftMargin="543.8657" RightMargin="-568.8657" TopMargin="159.1045" BottomMargin="-194.1045" LeftEage="8" RightEage="8" TopEage="15" BottomEage="15" Scale9OriginX="8" Scale9OriginY="15" Scale9Width="9" Scale9Height="5" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="Image_2" ActionTag="-287037109" Tag="1739" IconVisible="False" LeftMargin="385.9786" RightMargin="-410.9786" TopMargin="197.1248" BottomMargin="-232.1248" LeftEage="8" RightEage="8" TopEage="15" BottomEage="15" Scale9OriginX="8" Scale9OriginY="15" Scale9Width="9" Scale9Height="5" ctype="ImageViewObjectData">
             <Size X="25.0000" Y="35.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="556.3657" Y="-176.6045" />
+            <Position X="398.4786" Y="-214.6248" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
