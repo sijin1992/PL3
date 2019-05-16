@@ -74,21 +74,21 @@ function ShipInfoLayer:refreshTotal()
 	local cfg_breakNum = CONF.SHIP_BREAK.get(cfg_ship.QUALITY).NUM
 	left:getChildByName("quality"):setTexture("ShipQuality/quality_"..cfg_ship.QUALITY..".png")
 	left:getChildByName("name"):setString(CONF:getStringValue(cfg_ship.NAME_ID))
-	local cfg_breakNum = CONF.SHIP_BREAK.get(cfg_ship.QUALITY).NUM
-	local isShow = 0
-	for i=1,6 do
-		left:getChildByName("star"..i):setVisible(i<=cfg_breakNum)
-		if i<=cfg_breakNum then
-			isShow = isShow + 1
-		end
-		left:getChildByName("star"..i):setTexture("Common/ui/ui_star_gray.png")
-		if i <= ship.ship_break then
-			left:getChildByName("star"..i):setTexture("Common/ui/ui_star_light.png")
-		end
-	end
+--	local cfg_breakNum = CONF.SHIP_BREAK.get(cfg_ship.QUALITY).NUM
+--	local isShow = 0
+--	for i=1,6 do
+--		left:getChildByName("star"..i):setVisible(i<=cfg_breakNum)
+--		if i<=cfg_breakNum then
+--			isShow = isShow + 1
+--		end
+--		left:getChildByName("star"..i):setTexture("Common/ui/ui_star_gray.png")
+--		if i <= ship.ship_break then
+--			left:getChildByName("star"..i):setTexture("Common/ui/ui_star_light.png")
+--		end
+--	end
 	
-	self:resetNodePos(isShow)
-
+--	self:resetNodePos(isShow)
+    ShowShipStar(left,ship.ship_break,"star")
 	left:getChildByName("zhanli"):setString(self.data_.power)
 
 	local node2 = require("app.ExResInterface"):getInstance():FastLoad("sfx/"..cfg_ship.RES_ID)
@@ -1071,13 +1071,14 @@ function ShipInfoLayer:createShipUpgradeNode( id, now_info, info)
 		node:getChildByName("text"..i.."_next"):setVisible(false)
 		node:getChildByName("text"..i.."_jt"):setVisible(false)
 	end
-	if info.ship_break and info.ship_break > 0 then
-		for i=1,info.ship_break do
-            if node:getChildByName("star_"..i) then
-			    node:getChildByName("star_"..i):setTexture("Common/ui/ui_star_light.png")
-            end
-		end
-	end
+--	if info.ship_break and info.ship_break > 0 then
+--		for i=1,info.ship_break do
+--            if node:getChildByName("star_"..i) then
+--			    node:getChildByName("star_"..i):setTexture("Common/ui/ui_star_light.png")
+--            end
+--		end
+--	end
+    ShowShipStar(node,info.ship_break,"star_")
 
 	node:getChildByName("back"):setSwallowTouches(true)
 	node:getChildByName("back"):addClickEventListener(function ( ... )

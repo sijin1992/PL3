@@ -1452,11 +1452,12 @@ function NewFormLayer:creatShipNode(info,flag)
 	node:getChildByName("num"):setString(info.level)
 	node:getChildByName("num"):setVisible(true)
 	node:getChildByName("level"):setVisible(true)
-	for i=1,6 do
-		if i <= info.ship_break then
-			node:getChildByName("star_"..i):setVisible(true)
-		end
-	end
+--	for i=1,6 do
+--		if i <= info.ship_break then
+--			node:getChildByName("star_"..i):setVisible(true)
+--		end
+--	end
+    ShowShipStar(node,info.ship_break,"star_")
 	node:getChildByName("kehecheng"):setTextColor(cc.c4b(255,70,70,255))
 	-- node:getChildByName("kehecheng"):enableShadow(cc.c4b(255,70,70,255),cc.size(0.2,0.2))
 	
@@ -2360,10 +2361,11 @@ function NewFormLayer:resetFormByIndex( index, guid )
 		t:setLocalZOrder(1)
 
 		local ship_info = player:getShipByID(shipId)
-		for i=ship_info.ship_break+1,6 do
-			formship:getChildByName("star_"..i):removeFromParent()
-		end
-		
+--		for i=ship_info.ship_break+1,6 do
+--			formship:getChildByName("star_"..i):removeFromParent()
+--		end
+		ShowShipStar(formship,ship_info.ship_break,"star_")
+
 		return formship
 	end
 

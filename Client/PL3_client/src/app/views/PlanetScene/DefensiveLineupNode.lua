@@ -190,11 +190,12 @@ function DefensiveLineupNode:createInfoNode(ship_info)
         ship_info.ship_break = 0
     end
 
-    for i=ship_info.ship_break+1,6 do
+--    for i=ship_info.ship_break+1,6 do
         -- rn:getChildByName("star_"..i):setTexture("LevelScene/ui/star_outline.png")
         -- rn:getChildByName("star_"..i):setScale(1)
-        rn:getChildByName("star_"..i):removeFromParent()
-    end
+--        rn:getChildByName("star_"..i):removeFromParent()
+--    end
+    ShowShipStar(rn,ship_info.ship_break,"star_")
 
     rn:getChildByName("Image_3"):loadTexture("ShipImage/"..conf.ICON_ID..".png")
     rn:getChildByName("ship_bg"):setTexture("RankLayer/ui/ui_avatar_"..conf.QUALITY..".png")
@@ -338,9 +339,10 @@ function DefensiveLineupNode:onEnterTransitionFinish()
 								ship:getChildByName("shipType"):setTexture("ShipType/"..conf.TYPE..".png")
 								ship:getChildByName("lvNum"):setString(v3.level)
 
-								for j=v3.ship_break+1,6 do
-									ship:getChildByName("star_"..j):setVisible(false)
-								end
+--								for j=v3.ship_break+1,6 do
+--									ship:getChildByName("star_"..j):setVisible(false)
+--								end
+                                ShowShipStar(ship,v3.ship_break,"star_")
 
 								ship:getChildByName("background"):addClickEventListener(function ( ... )
 									local node = self:createInfoNode(v3)

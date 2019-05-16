@@ -154,11 +154,12 @@ function PlanetWarningInfoLayer:resetList( info_list )
 			ship_node:getChildByName("background"):loadTexture("RankLayer/ui/ui_avatar_"..conf.QUALITY..".png")
 
 			if self.see_ship_break then
-				if v2.ship_break and v2.ship_break > 0 then
-					for j=1,v2.ship_break do
-						ship_node:getChildByName("star_"..j):setVisible(true)
-					end
-				end
+--				if v2.ship_break and v2.ship_break > 0 then
+--					for j=1,v2.ship_break do
+--						ship_node:getChildByName("star_"..j):setVisible(true)
+--					end
+--				end
+                ShowShipStar(ship_node,v2.ship_break,"star_")
 			end
 
 			-- ship_node:setPosition(cc.p(ship_pos.x + (i-1)*100, ship_pos.y))

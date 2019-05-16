@@ -521,10 +521,10 @@ function FightFormLayer:resetFormByIndex( index, guid )
 		t:setLocalZOrder(1)
 
 		local ship_info = player:getShipByID(shipId)
-		for i=ship_info.ship_break+1,6 do
-			formship:getChildByName("star_"..i):removeFromParent()
-		end
-		
+--		for i=ship_info.ship_break+1,6 do
+--			formship:getChildByName("star_"..i):removeFromParent()
+--		end
+        ShowShipStar(formship,ship_info.ship_break,"star_")
 		return formship
 	end
 

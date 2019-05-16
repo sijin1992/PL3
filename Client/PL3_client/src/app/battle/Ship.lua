@@ -225,13 +225,15 @@ function Ship:ctor( bm, airShip, group, list_index)
 			self.driver:getChildByName("background"):setTexture(string.format("RankLayer/ui/ui_avatar_%d.png", self.conf_.QUALITY))
 		end
 
-		if airShip.ship_break ~= nil and airShip.ship_break > 0 then
-			for i=1, airShip.ship_break do
-                if self.driver:getChildByName("star_"..i) then
-				    self.driver:getChildByName("star_"..i):setTexture("Common/ui/ui_star_light.png")
-                end
-			end
-		end
+--		if airShip.ship_break ~= nil and airShip.ship_break > 0 then
+--			for i=1, airShip.ship_break do
+--                if self.driver:getChildByName("star_"..i) then
+--				    self.driver:getChildByName("star_"..i):setTexture("Common/ui/ui_star_light.png")
+--                end
+--			end
+--		end
+        ShowShipStar(self.driver,airShip.ship_break,"star_")
+
 		if self.conf_.SKILL ~= 0 then
 			self.skillConf_ = CONF.WEAPON.get(self.conf_.SKILL)
 			assert(self.skillConf_, "error")
