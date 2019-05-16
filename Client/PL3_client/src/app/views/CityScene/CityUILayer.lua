@@ -277,6 +277,7 @@ function CityUILayer:onEnterTransitionFinish()
     end)
 
     rn:getChildByName("mission"):getChildByName("text_miao"):setString(CONF.STRING.get("task").VALUE)
+    animManager:runAnimByCSB(rn:getChildByName("mission"), "AdventureLayer/sfx/qiyu/UIeffect.csb", "1")
     rn:getChildByName("mission"):addClickEventListener(function ()
     	if cc.exports.g_activate_building then
 			return
