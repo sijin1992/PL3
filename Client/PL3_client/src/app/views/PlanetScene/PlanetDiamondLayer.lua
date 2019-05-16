@@ -3154,11 +3154,12 @@ function PlanetDiamondLayer:createInfoNode(ship_info)
 		ship_info.ship_break = 0
 	end
 
-	for i=ship_info.ship_break+1,6 do
+--	for i=ship_info.ship_break+1,6 do
 		-- rn:getChildByName("star_"..i):setTexture("LevelScene/ui/star_outline.png")
 		-- rn:getChildByName("star_"..i):setScale(1)
-		rn:getChildByName("star_"..i):removeFromParent()
-	end
+--		rn:getChildByName("star_"..i):removeFromParent()
+--	end
+    ShowShipStar(rn,ship_info.ship_break,"star_")
 
 	rn:getChildByName("Image_3"):loadTexture("ShipImage/"..conf.ICON_ID..".png")
 	rn:getChildByName("ship_bg"):setTexture("RankLayer/ui/ui_avatar_"..conf.QUALITY..".png")

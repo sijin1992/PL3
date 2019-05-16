@@ -314,9 +314,10 @@ function MailDetailAttackType_spy:initMailDetail(mail_info,data)
 
 							teamNode:getChildByName("node1"..o):getChildByName("shipIcon"):getChildByName("shipType"):setVisible(true)
 							teamNode:getChildByName("node1"..o):getChildByName("shipIcon"):getChildByName("level"):setVisible(true)
-							for i=1,5 do
-								teamNode:getChildByName("node1"..o):getChildByName("shipIcon"):getChildByName("star_"..i):setVisible(i <= p[6])
-							end
+--							for i=1,6 do
+--								teamNode:getChildByName("node1"..o):getChildByName("shipIcon"):getChildByName("star_"..i):setVisible(i <= p[6])
+--							end
+                            ShowShipStar(teamNode:getChildByName("node1"..o):getChildByName("shipIcon"),p[6],"star_")
 
 
 							if not showBatteryInfo or not showShipHP then
@@ -327,18 +328,18 @@ function MailDetailAttackType_spy:initMailDetail(mail_info,data)
 								teamNode:getChildByName("node1"..o):getChildByName("Text_nai"):setVisible(false)
 								-- teamNode:getChildByName("node1"..o):getChildByName("Text_num"):setVisible(false)
 								teamNode:getChildByName("node1"..o):getChildByName("shipIcon"):getChildByName("level"):setVisible(false)
-								for i=1,5 do
+								for i=1,6 do
 									teamNode:getChildByName("node1"..o):getChildByName("shipIcon"):getChildByName("star_"..i):setVisible(false)
 								end
 							end
 							if not showShipLevel then
 								teamNode:getChildByName("node1"..o):getChildByName("shipIcon"):getChildByName("level"):setVisible(false)
-								for i=1,5 do
+								for i=1,6 do
 									teamNode:getChildByName("node1"..o):getChildByName("shipIcon"):getChildByName("star_"..i):setVisible(false)
 								end
 							end
 							if not showShipStar then
-								for i=1,5 do
+								for i=1,6 do
 									teamNode:getChildByName("node1"..o):getChildByName("shipIcon"):getChildByName("star_"..i):setVisible(false)
 								end
 							end

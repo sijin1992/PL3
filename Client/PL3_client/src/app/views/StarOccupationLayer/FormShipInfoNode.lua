@@ -154,11 +154,12 @@ function FormShipInfoNode:init(scene,guid)
         ship_info.ship_break = 0
     end
 
-    for i=ship_info.ship_break+1,6 do
+--    for i=ship_info.ship_break+1,6 do
         -- rn:getChildByName("star_"..i):setTexture("LevelScene/ui/star_outline.png")
         -- rn:getChildByName("star_"..i):setScale(1)
-        rn:getChildByName("star_"..i):removeFromParent()
-    end
+--        rn:getChildByName("star_"..i):removeFromParent()
+--    end
+    ShowShipStar(rn,ship_info.ship_break,"star_")
 
     rn:getChildByName("Image_3"):loadTexture("ShipImage/"..conf.ICON_ID..".png")
     rn:getChildByName("ship_bg"):setTexture("RankLayer/ui/ui_avatar_"..conf.QUALITY..".png")
@@ -432,16 +433,20 @@ function FormShipInfoNode:createNewShipInfoNode(info)
     if starX < breakX then
         addX = breakX - starX
     end
+--    for i=1,6 do
+--        rn:getChildByName("star_"..i):setPositionX(rn:getChildByName("star_"..i):getPositionX()+addX)
+--        rn:getChildByName("star_"..i):setVisible(i <= CONF.SHIP_BREAK.get(cfg_ship.QUALITY).NUM)
+--        rn:getChildByName("star_"..i):setTexture("Common/ui/ui_star_gray.png")
+--        if i <= ship.ship_break then
+--            if rn:getChildByName("star_"..i) then
+--                rn:getChildByName("star_"..i):setTexture("Common/ui/ui_star_light.png")
+--            end
+--        end
+--    end
     for i=1,6 do
         rn:getChildByName("star_"..i):setPositionX(rn:getChildByName("star_"..i):getPositionX()+addX)
-        rn:getChildByName("star_"..i):setVisible(i <= CONF.SHIP_BREAK.get(cfg_ship.QUALITY).NUM)
-        rn:getChildByName("star_"..i):setTexture("Common/ui/ui_star_gray.png")
-        if i <= ship.ship_break then
-            if rn:getChildByName("star_"..i) then
-                rn:getChildByName("star_"..i):setTexture("Common/ui/ui_star_light.png")
-            end
-        end
     end
+    ShowShipStar(rn,ship.ship_break,"star_")
 
 
     local svd = require("util.ScrollViewDelegate"):create( nodeInfo:getChildByName("list"),cc.size(5,5), cc.size(120 ,450))

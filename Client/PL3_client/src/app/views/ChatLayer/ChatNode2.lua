@@ -65,11 +65,12 @@ function ChatNode2:onEnterTransitionFinish()
 				shipNode:getChildByName("num"):setString(info.lv_lineup[i])
 				--star
 				local breakNum = info.break_lineup[i]
-				if breakNum then
-					for j=breakNum + 1,6 do
-						shipNode:getChildByName("star_" .. j):removeFromParent()
-					end
-				end
+--				if breakNum then
+--					for j=breakNum + 1,6 do
+--						shipNode:getChildByName("star_" .. j):removeFromParent()
+--					end
+--				end
+                ShowShipStar(shipNode,breakNum,"star_")
 
 				--type
 				local shipType = "Common/ui/ui_icon_"

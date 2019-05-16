@@ -75,11 +75,12 @@ function MassLayer:resetList( info_list )
 			ship_node:getChildByName("RoleIcon/"..conf.ICON_ID..".png")
 			ship_node:getChildByName("background"):loadTexture("RankLayer/ui/ui_avatar_"..conf.QUALITY..".png")
 
-			if v2.ship_break and v2.ship_break > 0 then
-				for j=1,6 do
-					ship_node:getChildByName("star_"..j):setVisible(true)
-				end
-			end
+--			if v2.ship_break and v2.ship_break > 0 then
+--				for j=1,6 do
+--					ship_node:getChildByName("star_"..j):setVisible(true)
+--				end
+--			end
+            ShowShipStar(ship_node,v2.ship_break,"star_")
 
 			-- ship_node:setPosition(cc.p(ship_pos.x + (i-1)*100, ship_pos.y))
 			ship_node:setPosition(cc.p((i2-1)*100, 0))
