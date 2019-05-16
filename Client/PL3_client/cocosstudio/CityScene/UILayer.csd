@@ -962,6 +962,16 @@
                 <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Normal" Path="GuideLayer/sfx/effect_0.csd" Plist="" />
               </AbstractNodeData>
+              <AbstractNodeData Name="sfx_0" ActionTag="765801007" Tag="6851" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="True" LeftMargin="50.3937" RightMargin="55.6063" TopMargin="52.5799" BottomMargin="48.4201" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+                <Size X="0.0000" Y="0.0000" />
+                <AnchorPoint />
+                <Position X="50.3937" Y="48.4201" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4754" Y="0.4794" />
+                <PreSize X="0.0000" Y="0.0000" />
+                <FileData Type="Normal" Path="AdventureLayer/sfx/qiyu/UIeffect.csd" Plist="" />
+              </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="904.0700" Y="63.2828" />
@@ -3188,13 +3198,13 @@
                 <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Normal" Path="AdventureLayer/sfx/qiyu/UIeffect.csd" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="adventure_Btn" ActionTag="-2057587189" Tag="506" IconVisible="False" LeftMargin="0.5747" RightMargin="-0.5747" TopMargin="0.2232" BottomMargin="-0.2232" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="45" Scale9Height="53" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+              <AbstractNodeData Name="adventure_Btn" ActionTag="-2057587189" Tag="506" IconVisible="False" LeftMargin="0.5751" RightMargin="-0.5751" TopMargin="0.2231" BottomMargin="-0.2231" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="45" Scale9Height="53" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="75.0000" Y="75.0000" />
-                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="38.0747" Y="37.2768" />
+                <AnchorPoint ScaleX="0.4005" ScaleY="0.6382" />
+                <Position X="30.6119" Y="47.6441" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.5077" Y="0.4970" />
+                <PrePosition X="0.4082" Y="0.6353" />
                 <PreSize X="1.0000" Y="1.0000" />
                 <TextColor A="255" R="65" G="65" B="70" />
                 <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
