@@ -1113,11 +1113,11 @@ function ShipInfoLayer:createShipUpgradeNode( id, now_info, info)
 			if f_node:getName() ~= "sj_bottom03_4" then
 				setPos(f_node:getName())
 			else
-				for i=1,6 do
-					if node:getChildByName("star_"..i) then
-						node:getChildByName("star_"..i):setVisible(i <= cfg_breakNum)
-					end
-				end
+--				for i=1,6 do
+--					if node:getChildByName("star_"..i) then
+--						node:getChildByName("star_"..i):setVisible(i <= cfg_breakNum)
+--					end
+--				end
 			end
 			
 		end
