@@ -138,9 +138,11 @@ function RepairScene:createShipNode( guid )
 	bg:getChildByName("shipType"):setTexture("ShipType/"..conf.TYPE..".png")
 	bg:getChildByName("levelNum"):setString(info.level)
 
-	for i=info.ship_break+1,6 do
-		bg:getChildByName("star_"..i):removeFromParent()
-	end
+--	for i=info.ship_break+1,6 do
+--		bg:getChildByName("star_"..i):removeFromParent()
+--	end
+
+    ShowShipStar(bg,info.ship_break,"star_")
 
 	local un_repairing_node = bg:getChildByName("UnrepairingNode")
 

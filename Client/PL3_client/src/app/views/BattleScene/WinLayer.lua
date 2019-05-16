@@ -107,10 +107,10 @@ function WinLayer:createLayer2( ... )
         node:getChildByName("icon2"):setVisible(true)
         node:getChildByName("icon2"):setTexture("ShipImage/"..conf.DRIVER_ID..".png")
 
-		for i=ship_info.ship_break+1,6 do
-			node:getChildByName("star_"..i):removeFromParent()
-		end
-
+--		for i=ship_info.ship_break+1,6 do
+--			node:getChildByName("star_"..i):removeFromParent()
+--		end
+        ShowShipStar(node,ship_info.ship_break,"star_")
 		print(self.ship_exp[i], ship_info.exp)
 
 		node:getChildByName("lv"):setString(self.ship_level[i])

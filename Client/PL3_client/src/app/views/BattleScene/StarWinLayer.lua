@@ -107,9 +107,10 @@ function StarWinLayer:createLayer2( ... )
 		node:getChildByName("bg"):loadTexture("RankLayer/ui/ui_avatar_"..ship_conf.QUALITY..".png")
 		node:getChildByName("icon"):loadTexture("RoleIcon/"..ship_conf.DRIVER_ID..".png")
 
-		for i=ship_info.ship_break+1,6 do
-			node:getChildByName("star_"..i):removeFromParent()
-		end
+--		for i=ship_info.ship_break+1,6 do
+--			node:getChildByName("star_"..i):removeFromParent()
+--		end
+        ShowShipStar(node,ship_info.ship_break,"star_")
 
 		node:getChildByName("lv"):setString(ship_info.level)
 

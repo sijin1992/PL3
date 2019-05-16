@@ -262,14 +262,16 @@ function ShipsDevelopScene:changeMode()
 					info:getChildByName("power"):setString(v.power)
 				end
 				info:getChildByName("ship_name"):setString(CONF:getStringValue(ship.NAME_ID))
-				local cfg_breakNum = CONF.SHIP_BREAK.get(ship.QUALITY).NUM
-				for i=1,6 do
-					info:getChildByName("star"..i):setVisible(i<=cfg_breakNum)
-					info:getChildByName("star"..i):setTexture("Common/ui/ui_star_gray.png")
-					if i <= v.breakNum then
-						info:getChildByName("star"..i):setTexture("Common/ui/ui_star_light.png")
-					end
-				end
+--				local cfg_breakNum = CONF.SHIP_BREAK.get(ship.QUALITY).NUM
+--				for i=1,6 do
+--					info:getChildByName("star"..i):setVisible(i<=cfg_breakNum)
+--					info:getChildByName("star"..i):setTexture("Common/ui/ui_star_gray.png")
+--					if i <= v.breakNum then
+--						info:getChildByName("star"..i):setTexture("Common/ui/ui_star_light.png")
+--					end
+--				end
+                ShowShipStar(info,v.breakNum,"star")
+
 				self:jindu(v)
 				-- local btnText = CONF:getStringValue("")
 				local btnText = CONF:getStringValue("ships_details")
@@ -361,14 +363,15 @@ function ShipsDevelopScene:refreshList(flag)
 				local info = rn:getChildByName("info")
 				info:getChildByName("quality"):setTexture("ShipQuality/quality_"..ship.QUALITY..".png")
 				info:getChildByName("ship_name"):setString(CONF:getStringValue(ship.NAME_ID))
-				local cfg_breakNum = CONF.SHIP_BREAK.get(ship.QUALITY).NUM
-				for i=1,6 do
-					info:getChildByName("star"..i):setVisible(i<=cfg_breakNum)
-					info:getChildByName("star"..i):setTexture("Common/ui/ui_star_gray.png")
-					if i <= v.breakNum then
-						info:getChildByName("star"..i):setTexture("Common/ui/ui_star_light.png")
-					end
-				end
+--				local cfg_breakNum = CONF.SHIP_BREAK.get(ship.QUALITY).NUM
+--				for i=1,6 do
+--					info:getChildByName("star"..i):setVisible(i<=cfg_breakNum)
+--					info:getChildByName("star"..i):setTexture("Common/ui/ui_star_gray.png")
+--					if i <= v.breakNum then
+--						info:getChildByName("star"..i):setTexture("Common/ui/ui_star_light.png")
+--					end
+--				end
+                ShowShipStar(info,v.breakNum,"star")
 				info:getChildByName("pow"):setString(CONF:getStringValue("combat")..":")
 				if v.guid ~= 0 then
 					info:getChildByName("power"):setString(player:calShipFightPower( v.guid ))
@@ -581,14 +584,15 @@ function ShipsDevelopScene:onEnterTransitionFinish()
 		local info = rn:getChildByName("info")
 		info:getChildByName("quality"):setTexture("ShipQuality/quality_"..ship.QUALITY..".png")
 		info:getChildByName("ship_name"):setString(CONF:getStringValue(ship.NAME_ID))
-		local cfg_breakNum = CONF.SHIP_BREAK.get(ship.QUALITY).NUM
-		for i=1,6 do
-			info:getChildByName("star"..i):setVisible(i<=cfg_breakNum)
-			info:getChildByName("star"..i):setTexture("Common/ui/ui_star_gray.png")
-			if i <= self.selectedShip.breakNum then
-				info:getChildByName("star"..i):setTexture("Common/ui/ui_star_light.png")
-			end
-		end
+--		local cfg_breakNum = CONF.SHIP_BREAK.get(ship.QUALITY).NUM
+--		for i=1,6 do
+--			info:getChildByName("star"..i):setVisible(i<=cfg_breakNum)
+--			info:getChildByName("star"..i):setTexture("Common/ui/ui_star_gray.png")
+--			if i <= self.selectedShip.breakNum then
+--				info:getChildByName("star"..i):setTexture("Common/ui/ui_star_light.png")
+--			end
+--		end
+        ShowShipStar(info,self.selectedShip.breakNum,"star")
 		info:getChildByName("pow"):setString(CONF:getStringValue("combat")..":")
 		if self.selectedShip.guid ~= 0 then
 			info:getChildByName("power"):setString(player:calShipFightPower( self.selectedShip.guid ))

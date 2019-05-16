@@ -3030,6 +3030,37 @@ function cleartable(list)
         table.remove(list,i)
     end
 end
+
+function ShowShipStar(node,ship_break,star)
+    if ship_break == nil then
+        ship_break = 0
+    end
+    local isgray = math.modf(tonumber(ship_break)/6)
+    local num = math.fmod(tonumber(ship_break),6)
+    for i=1,6 do
+        local str = "ui_star_gray.png"
+        if isgray == 0 then
+            if i <= num then
+                str = "ui_star_light.png"
+--          else
+--              str = "ui_star_gray.png"
+            end
+        elseif isgray == 1 then
+            if i <= num then
+                str = "ui_star_gold.png"
+            else
+                str = "ui_star_light.png"
+            end
+        elseif isgray == 2 then
+            if i <= num then
+            else
+                str = "ui_star_gold.png"
+            end
+        end
+        node:getChildByName(star..i):setVisible(true)
+        node:getChildByName(star..i):setTexture("Common/ui/"..str)
+    end
+end
 GlobalFunc_instance.playMusic = playMusic
 
 return GlobalFunc_instance
