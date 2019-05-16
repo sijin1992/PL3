@@ -223,13 +223,15 @@ function RankLayer:createElement( info )
 				ship:setName("ship_ship"..k)
 				print("breList[k]" ,k ,breList[k])
 				--飞船突破次数显示
-				if breList[k] then 
-					for i=1,breList[k] do
-						if ship:getChildByName("star_" .. i) then
-							ship:getChildByName("star_" .. i):setVisible(true)
-						end
-					end
-				end
+--				if breList[k] then 
+--					for i=1,breList[k] do
+--						if ship:getChildByName("star_" .. i) then
+--							ship:getChildByName("star_" .. i):setVisible(true)
+--						end
+--					end
+--				end
+                ShowShipStar(ship,breList[k],"star_")
+
 				local conf = CONF.AIRSHIP.get(v)
 				ship:getChildByName("bg"):loadTexture("RankLayer/ui/ui_avatar_" .. conf.QUALITY ..".png")
 				ship:getChildByName("icon"):loadTexture("RoleIcon/"..conf.DRIVER_ID..".png")
@@ -386,13 +388,14 @@ function RankLayer:createElement( info )
 				ship:setPosition(cc.p(posX ,posY))
 
 				--飞船突破次数显示
-				if breList[k] and breList[k] > 0 then 
-					for i=1,breList[k] do
-						if ship:getChildByName("star_" .. i) then
-							ship:getChildByName("star_" .. i):setVisible(true)
-						end
-					end
-				end
+--				if breList[k] and breList[k] > 0 then 
+--					for i=1,breList[k] do
+--						if ship:getChildByName("star_" .. i) then
+--							ship:getChildByName("star_" .. i):setVisible(true)
+--						end
+--					end
+--				end
+                ShowShipStar(ship,breList[k],"star_")
 
 				local shipType = "Common/ui/ui_icon_"
 				if conf.TYPE == 1 then 
