@@ -437,6 +437,16 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="BuildingUpgradeScene/building_led.csd" Plist="" />
           </AbstractNodeData>
+          <AbstractNodeData Name="led_6" ActionTag="586380272" VisibleForFrame="False" Tag="14370" IconVisible="True" LeftMargin="834.4676" RightMargin="301.5324" TopMargin="468.8287" BottomMargin="299.1713" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+            <Size X="0.0000" Y="0.0000" />
+            <AnchorPoint />
+            <Position X="834.4676" Y="299.1713" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.7346" Y="0.3895" />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FileData Type="Normal" Path="BuildingUpgradeScene/building_led.csd" Plist="" />
+          </AbstractNodeData>
           <AbstractNodeData Name="led_7" ActionTag="-1415538209" VisibleForFrame="False" Tag="1074" IconVisible="True" LeftMargin="2644.8250" RightMargin="-1508.8250" TopMargin="460.0864" BottomMargin="307.9136" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />

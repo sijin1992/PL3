@@ -1327,6 +1327,42 @@ function CityScene:onEnterTransitionFinish()
 	end
 	schedulerEntry = scheduler:scheduleScriptFunc(update,self.exConfig.DRAG_ZHUCHENG_FPS_INTERVAL,false)
 
+    self.landInfo = player:getLandInfo()
+    self.res_cd = {}
+    for k,v in ipairs(self.landInfo) do
+        local conf = CONF.RESOURCE.get(v.resource_type)
+        local totalCD = conf.CD + Tools.getValueByTechnologyAddition(conf.CD, CONF.ETechTarget_1.kHomeBuilding, v.land_index, CONF.ETechTarget_3_Building.kCD, player:getTechnolgList(), 	player:getPlayerGroupTech())
+        table.insert(self.res_cd,{id = v.land_index,cd = totalCD})
+    end
+
+    local function showhometime()
+        local hometime = -1
+        local landInfo = player:getLandInfo()
+
+        for k,v in ipairs(landInfo) do
+            if v.resource_status == 1 then
+                if TableFindIdFromValue(self.res_cd,v.land_index) == 0 then
+                    break
+                end
+                local time = self.res_cd[TableFindIdFromValue(self.res_cd,v.land_index)].cd - (player:getServerTime() - v.res_refresh_times)
+                if hometime < 0 then
+                    hometime = time
+                else
+                    if hometime > time then
+                        hometime = time
+                    end
+                end
+            end
+        end
+
+        if hometime > 0 then
+            self:getResourceNode():getChildByName("led_6"):setVisible(true)
+            self:getResourceNode():getChildByName("led_6"):getChildByName("text"):setString(formatTime(hometime))
+        else
+            self:getResourceNode():getChildByName("led_6"):setVisible(false)
+        end
+    end
+
 	local function showLed( ... )
 		local buildings = {1,3,4,5,7,10,11,12,13,14,16}
 		for i,v in ipairs(buildings) do
@@ -1341,6 +1377,7 @@ function CityScene:onEnterTransitionFinish()
 				self:getResourceNode():getChildByName("led_"..v):setVisible(false)
 			end
 		end
+        showhometime()
 	end
 	
 	-- ADD WJJ 20180726
