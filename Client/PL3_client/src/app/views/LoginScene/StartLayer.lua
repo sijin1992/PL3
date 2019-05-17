@@ -320,8 +320,8 @@ function StartLayer:changeServer( ... )
 
 	end
 
-	rn:getChildByName('title_node'):getChildByName('tiaoti_node'):getChildByName('biaoti_en'):setVisible(server_platform==0)
-	rn:getChildByName('title_node'):getChildByName('tiaoti_node'):getChildByName('biaoti_cn'):setVisible(server_platform==1)
+	rn:getChildByName('title_node'):getChildByName('tiaoti_node'):getChildByName('biaoti_en'):setVisible(server_platform==1)
+	rn:getChildByName('title_node'):getChildByName('tiaoti_node'):getChildByName('biaoti_cn'):setVisible(server_platform==0)
 
 	if quName ~= nil and quName ~= "" then
 		rn:getChildByName("qu_name"):setString(quName)
@@ -378,8 +378,8 @@ function StartLayer:onEnterTransitionFinish()
 
 	end
 
-	rn:getChildByName('title_node'):getChildByName('tiaoti_node'):getChildByName('biaoti_en'):setVisible(server_platform==0)
-	rn:getChildByName('title_node'):getChildByName('tiaoti_node'):getChildByName('biaoti_cn'):setVisible(server_platform==1)
+	rn:getChildByName('title_node'):getChildByName('tiaoti_node'):getChildByName('biaoti_en'):setVisible(server_platform==1)
+	rn:getChildByName('title_node'):getChildByName('tiaoti_node'):getChildByName('biaoti_cn'):setVisible(server_platform==0)
 
 	if quName ~= nil and quName ~= "" then
 		rn:getChildByName("qu_name"):setString(quName)
