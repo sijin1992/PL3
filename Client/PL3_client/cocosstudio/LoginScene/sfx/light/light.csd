@@ -26390,7 +26390,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
-                <FileData Type="Normal" Path="LoginScene/sfx/light/1/bj.jpg" Plist="" />
+                <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                 <BlendFunc Src="770" Dst="771" />
               </AbstractNodeData>
               <AbstractNodeData Name="bj1_3" ActionTag="-713505710" Alpha="0" Tag="145" IconVisible="False" LeftMargin="-645.3200" RightMargin="-490.6800" TopMargin="-268.7100" BottomMargin="-499.2900" ctype="SpriteObjectData">

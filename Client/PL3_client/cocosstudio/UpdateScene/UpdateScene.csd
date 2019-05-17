@@ -269,7 +269,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FileData Type="Normal" Path="LoginScene/ui/biaoti_en.png" Plist="" />
+                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
                 </Children>

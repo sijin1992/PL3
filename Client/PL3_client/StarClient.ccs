@@ -4134,7 +4134,6 @@
                 <Image Name="4.png" />
                 <Image Name="5.png" />
                 <Image Name="6.png" />
-                <Image Name="bj.jpg" />
                 <Image Name="bj1.png" />
                 <Image Name="daqiu.png" />
                 <Image Name="feiji1.png" />
@@ -4308,7 +4307,6 @@
             <Image Name="bg_title.png" />
             <Image Name="bg_user.png" />
             <Image Name="biaoti_cn.png" />
-            <Image Name="biaoti_en.png" />
             <Image Name="botton_blue3.png" />
             <Image Name="botton_blue3_gray.png" />
             <Image Name="botton_close.png" />
