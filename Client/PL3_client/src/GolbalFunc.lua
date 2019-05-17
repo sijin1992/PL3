@@ -2070,6 +2070,10 @@ function createLevelUpNode( level,level_now )
 
 	flurryLogEvent("player_level_up", {lineup_id =  player:getForms(), lineup_power = player:getLineupPower(), res = player:getUserInfo().res})
 	
+    if level <= 0 then
+        return
+    end
+
 	local conf = CONF.PLAYERLEVEL.get(level)
 
 	local now_conf = CONF.PLAYERLEVEL.get(level_now)
