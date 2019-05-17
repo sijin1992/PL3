@@ -16,6 +16,8 @@ WinLayer.RESOURCE_FILENAME = "BattleScene/WinLayer/WinLayer.csb"
 
 WinLayer.NEED_ADJUST_POSITION = true
 
+WinLayer.max_player_level = CONF.PLAYERLEVEL.count()
+
 WinLayer.RESOURCE_BINDING = {
 
 }
@@ -357,10 +359,10 @@ function WinLayer:touchLayer()
 					else
 						layer:getChildByName("info"):setVisible(false)
 
-						if self.player_exp + upNum < CONF.PLAYERLEVEL.get(self.player_level+1).EXP_ALL then
+						if self.player_exp + upNum < CONF.PLAYERLEVEL.get(math.min(self.max_player_level,self.player_level+1)).EXP_ALL then
 							local cur = self.player_exp + upNum - CONF.PLAYERLEVEL.get(self.player_level).EXP_ALL
 							self.progress:setPercentage(cur/CONF.PLAYERLEVEL.get(self.player_level+1).EXP*100)
-							layer:getChildByName("lv_num"):setString(self.player_level+1)
+							layer:getChildByName("lv_num"):setString(math.min(self.max_player_level,self.player_level+1))
 						end
 					end
 					
@@ -606,10 +608,10 @@ function WinLayer:onEnterTransitionFinish()
 						else
 							layer:getChildByName("info"):setVisible(false)
 
-							if self.player_exp + upNum < CONF.PLAYERLEVEL.get(self.player_level+1).EXP_ALL then
+							if self.player_exp + upNum < CONF.PLAYERLEVEL.get(math.min(self.max_player_level,self.player_level+1)).EXP_ALL then
 								local cur = self.player_exp + upNum - CONF.PLAYERLEVEL.get(self.player_level).EXP_ALL
-								self.progress:setPercentage(cur/CONF.PLAYERLEVEL.get(self.player_level+1).EXP*100)
-								layer:getChildByName("lv_num"):setString(self.player_level+1)
+								self.progress:setPercentage(cur/CONF.PLAYERLEVEL.get(math.min(self.max_player_level,self.player_level+1)).EXP*100)
+								layer:getChildByName("lv_num"):setString(math.min(self.max_player_level,self.player_level+1))
 							end
 						end
 						
@@ -866,11 +868,10 @@ function WinLayer:skipScene()
 						self.progress:setPercentage(cur/CONF.PLAYERLEVEL.get(self.player_level).EXP*100)
 					else
 						layer:getChildByName("info"):setVisible(false)
-
-						if self.player_exp + upNum < CONF.PLAYERLEVEL.get(self.player_level+1).EXP_ALL then
+						if self.player_exp + upNum < CONF.PLAYERLEVEL.get(math.min(self.max_player_level,self.player_level+1)).EXP_ALL then
 							local cur = self.player_exp + upNum - CONF.PLAYERLEVEL.get(self.player_level).EXP_ALL
-							self.progress:setPercentage(cur/CONF.PLAYERLEVEL.get(self.player_level+1).EXP*100)
-							layer:getChildByName("lv_num"):setString(self.player_level+1)
+							self.progress:setPercentage(cur/CONF.PLAYERLEVEL.get(math.min(self.max_player_level,self.player_level+1)).EXP*100)
+							layer:getChildByName("lv_num"):setString(math.min(self.max_player_level,self.player_level+1))
 						end
 					end
 						
