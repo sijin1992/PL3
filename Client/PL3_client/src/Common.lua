@@ -34,7 +34,7 @@ g_big_version = 1
 
 g_org_res_version = 1 --版本 目前 4是发行 5是审核
 
-server_platform = 1--0:cn 1:en
+server_platform = 0--0:cn 1:en
 
 -- ADD WJJ 20180716
 g_is_quick_sdk = false
