@@ -5652,12 +5652,30 @@ function PlanetDiamondLayer:onEnterTransitionFinish()
 
 		-- animManager:runAnimOnceByCSB(texiao, "PlanetScene/sfx/kongjainzhanqianyi/qianyi.csb", "1", function ( ... )
 
-			
-			local strData = Tools.encode("PlanetMoveBaseReq", {
-					type = 1,
-					pos = {x=self.choose_.m,y=self.choose_.n},
-				 })
-			GameHandler.handler_c.send(Tools.enum_id("CMD_DEFINE","CMD_PLANET_MOVE_BASE_REQ"),strData) 
+        local armylist = planetManager:getPlanetUser().army_list
+        local global_key = planetManager:getPlanetUserBaseElementKey()
+        local flag = true
+		for k,v in ipairs(armylist) do
+			if v.status_machine ~= 5 then
+				tips:tips(CONF:getStringValue("ship lock"))
+				flag = false
+				break
+			else
+				if v.element_global_key ~= global_key then
+					tips:tips(CONF:getStringValue("ship lock"))
+					flag = false
+					break
+				end
+			end
+		end
+		if not flag then
+            return
+        end
+		local strData = Tools.encode("PlanetMoveBaseReq", {
+				type = 1,
+				pos = {x=self.choose_.m,y=self.choose_.n},
+				})
+		GameHandler.handler_c.send(Tools.enum_id("CMD_DEFINE","CMD_PLANET_MOVE_BASE_REQ"),strData) 
 
 		-- end)
 	end)
