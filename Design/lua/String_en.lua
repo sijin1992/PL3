@@ -49942,7 +49942,7 @@ STRING_EN["index"][7135] = 7135
 STRING_EN[7135] = {}
 	STRING_EN[7135]["ID"] = 7135
 	STRING_EN[7135]["KEY"] = "STRENGTHEN_TEXT_12"
-	STRING_EN[7135]["VALUE"] = "Strengthen Equipment"
+	STRING_EN[7135]["VALUE"] = "Strengthen"
 	STRING_EN[7135]["real_idx"] = 7135
 
 STRING_EN["index"][7136] = 7136
