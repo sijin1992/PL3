@@ -490,11 +490,15 @@ function PlanetArmyManager:update(dt)
 						cc.Director:getInstance():getEventDispatcher():dispatchCustomEvent("PlanetUpdateSelect")
 					end
 
-						if v.info.status == 1 and (v.info.status_machine == 1 or v.info.status_machine == 2 or v.info.status_machine == 6 or v.info.status_machine == 8 or v.info.status_machine == 9 or v.info.status_machine == 11) then
-							if v.ship then
-								self:getDiamondLayer():openResWarAnimation(v.info.move_list[#v.info.move_list], v.ship:getTag(), v.ship:getName())
-							end
-						end
+                        local target_info = planetManager:getInfoByRowCol(v.info.move_list[#v.info.move_list].x,v.info.move_list[#v.info.move_list].y)
+                        if target_info.base_data.shield_start_time and target_info.base_data.shield_start_time > 0 then
+                        else
+						    if v.info.status == 1 and (v.info.status_machine == 1 or v.info.status_machine == 2 or v.info.status_machine == 6 or v.info.status_machine == 8 or v.info.status_machine == 9 or v.info.status_machine == 11) then
+							    if v.ship then
+								    self:getDiamondLayer():openResWarAnimation(v.info.move_list[#v.info.move_list], v.ship:getTag(), v.ship:getName())
+							    end
+						    end
+                        end
 
 						local event = cc.EventCustom:new("nodeUpdated")
 						event.node_id_list = v.info.node_id_list
