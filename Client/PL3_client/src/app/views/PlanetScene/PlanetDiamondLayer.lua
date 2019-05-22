@@ -5652,22 +5652,33 @@ function PlanetDiamondLayer:onEnterTransitionFinish()
 
 		-- animManager:runAnimOnceByCSB(texiao, "PlanetScene/sfx/kongjainzhanqianyi/qianyi.csb", "1", function ( ... )
 
-        local armylist = planetManager:getPlanetUser().army_list
-        local global_key = planetManager:getPlanetUserBaseElementKey()
         local flag = true
-		for k,v in ipairs(armylist) do
-			if v.status_machine ~= 5 then
-				tips:tips(CONF:getStringValue("ship lock"))
-				flag = false
-				break
-			else
-				if v.element_global_key ~= global_key then
-					tips:tips(CONF:getStringValue("ship lock"))
-					flag = false
-					break
-				end
-			end
-		end
+        if planetManager:getPlanetUser() then
+            if planetManager:getPlanetUser().army_list and #planetManager:getPlanetUser().army_list > 0 and planetManager:getPlanetUserBaseElementKey() then
+                local armylist = planetManager:getPlanetUser().army_list
+                local global_key = planetManager:getPlanetUserBaseElementKey()
+		        for k,v in ipairs(armylist) do
+			        if v.status_machine ~= 5 then
+				        tips:tips(CONF:getStringValue("ship lock"))
+				        flag = false
+				        break
+			        else
+				        if v.element_global_key ~= global_key then
+					        tips:tips(CONF:getStringValue("ship lock"))
+					        flag = false
+					        break
+				        end
+			        end
+		        end
+            end
+            if planetManager:getPlanetUser().attack_me_list then
+                if #planetManager:getPlanetUser().attack_me_list > 0 then
+                    tips:tips(CONF:getStringValue("be_atked_notransit"))
+                    flag = false
+                end
+            end
+        end
+
 		if not flag then
             return
         end

@@ -636,17 +636,27 @@ function ItemBagScene:setItemDetail(item)
 
 					end
 
+                    local is_be_attack = false
+                    if player:getPlayerPlanetUser() then
+                        if player:getPlayerPlanetUser().attack_me_list and #player:getPlayerPlanetUser().attack_me_list > 0 then
+                            is_be_attack = true
+                        end
+                    end
 					-- if cc.UserDefault:getInstance():getIntegerForKey("PlanetJumpTime") == 0  then
-					if cc.exports.PlanetJumpTime == 0  then
-						createJumpTips()
-					else
-						if player:getIsTodayOne() then
-							createJumpTips()
-						else
-							func()
-						end
+                    if is_be_attack then
+                        tips:tips(CONF:getStringValue("be_atked_notransit"))
+                    else
+					    if cc.exports.PlanetJumpTime == 0  then
+						    createJumpTips()
+					    else
+						    if player:getIsTodayOne() then
+							    createJumpTips()
+						    else
+							    func()
+						    end
 
-					end
+					    end
+                    end
 				end
 
 				local param_energy = CONF.PARAM.get("planet_shield_base_item").PARAM
