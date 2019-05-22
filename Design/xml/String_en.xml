@@ -49505,4 +49505,9 @@
 		<KEY>available</KEY>
 		<VALUE>Receivable</VALUE>
 	</Row>
+ 	<Row>
+		<ID>9902</ID>
+		<KEY>be_atked_notransit</KEY>
+		<VALUE>The base is attacked and cannot be transitioned</VALUE>
+	</Row>
 </Root>
