@@ -69309,7 +69309,14 @@ STRING_EN[9901] = {}
 	STRING_EN[9901]["VALUE"] = "Receivable"
 	STRING_EN[9901]["real_idx"] = 9901
 
+STRING_EN["index"][9902] = 9902
+STRING_EN[9902] = {}
+	STRING_EN[9902]["ID"] = 9902
+	STRING_EN[9902]["KEY"] = "be_atked_notransit"
+	STRING_EN[9902]["VALUE"] = "The base is attacked and cannot be transitioned"
+	STRING_EN[9902]["real_idx"] = 9902
 
-STRING_EN["len"] = 9901
+
+STRING_EN["len"] = 9902
 
 return STRING_EN
