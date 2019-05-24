@@ -232,7 +232,7 @@ function Ship:ctor( bm, airShip, group, list_index)
 --                end
 --			end
 --		end
-        ShowShipStar(self.driver,airShip.ship_break,"star_")
+        player:ShowShipStar(self.driver,airShip.ship_break,"star_")
 
 		if self.conf_.SKILL ~= 0 then
 			self.skillConf_ = CONF.WEAPON.get(self.conf_.SKILL)

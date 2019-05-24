@@ -1457,7 +1457,7 @@ function NewFormLayer:creatShipNode(info,flag)
 --			node:getChildByName("star_"..i):setVisible(true)
 --		end
 --	end
-    ShowShipStar(node,info.ship_break,"star_")
+    player:ShowShipStar(node,info.ship_break,"star_")
 	node:getChildByName("kehecheng"):setTextColor(cc.c4b(255,70,70,255))
 	-- node:getChildByName("kehecheng"):enableShadow(cc.c4b(255,70,70,255),cc.size(0.2,0.2))
 	
@@ -2364,7 +2364,7 @@ function NewFormLayer:resetFormByIndex( index, guid )
 --		for i=ship_info.ship_break+1,6 do
 --			formship:getChildByName("star_"..i):removeFromParent()
 --		end
-		ShowShipStar(formship,ship_info.ship_break,"star_")
+		player:ShowShipStar(formship,ship_info.ship_break,"star_")
 
 		return formship
 	end

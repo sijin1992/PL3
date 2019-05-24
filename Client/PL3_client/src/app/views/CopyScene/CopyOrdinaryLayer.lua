@@ -320,7 +320,7 @@ function CopyOrdinaryLayer:resetFormByIndex( index, guid )
 --		for i=ship_info.ship_break+1,6 do
 --			formship:getChildByName("star_"..i):removeFromParent()
 --		end
-        ShowShipStar(formship,ship_info.ship_break,"star_")
+        player:ShowShipStar(formship,ship_info.ship_break,"star_")
 		return formship
 	end
 

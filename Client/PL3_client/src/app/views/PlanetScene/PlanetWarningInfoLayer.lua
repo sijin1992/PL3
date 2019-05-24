@@ -159,7 +159,7 @@ function PlanetWarningInfoLayer:resetList( info_list )
 --						ship_node:getChildByName("star_"..j):setVisible(true)
 --					end
 --				end
-                ShowShipStar(ship_node,v2.ship_break,"star_")
+                player:ShowShipStar(ship_node,v2.ship_break,"star_")
 			end
 
 			-- ship_node:setPosition(cc.p(ship_pos.x + (i-1)*100, ship_pos.y))
