@@ -317,7 +317,7 @@ function MailDetailAttackType_spy:initMailDetail(mail_info,data)
 --							for i=1,6 do
 --								teamNode:getChildByName("node1"..o):getChildByName("shipIcon"):getChildByName("star_"..i):setVisible(i <= p[6])
 --							end
-                            ShowShipStar(teamNode:getChildByName("node1"..o):getChildByName("shipIcon"),p[6],"star_")
+                            player:ShowShipStar(teamNode:getChildByName("node1"..o):getChildByName("shipIcon"),p[6],"star_")
 
 
 							if not showBatteryInfo or not showShipHP then

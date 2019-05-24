@@ -142,7 +142,7 @@ function RepairScene:createShipNode( guid )
 --		bg:getChildByName("star_"..i):removeFromParent()
 --	end
 
-    ShowShipStar(bg,info.ship_break,"star_")
+    player:ShowShipStar(bg,info.ship_break,"star_")
 
 	local un_repairing_node = bg:getChildByName("UnrepairingNode")
 

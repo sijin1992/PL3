@@ -230,7 +230,7 @@ function RankLayer:createElement( info )
 --						end
 --					end
 --				end
-                ShowShipStar(ship,breList[k],"star_")
+                player:ShowShipStar(ship,breList[k],"star_")
 
 				local conf = CONF.AIRSHIP.get(v)
 				ship:getChildByName("bg"):loadTexture("RankLayer/ui/ui_avatar_" .. conf.QUALITY ..".png")
@@ -395,7 +395,7 @@ function RankLayer:createElement( info )
 --						end
 --					end
 --				end
-                ShowShipStar(ship,breList[k],"star_")
+                player:ShowShipStar(ship,breList[k],"star_")
 
 				local shipType = "Common/ui/ui_icon_"
 				if conf.TYPE == 1 then 
