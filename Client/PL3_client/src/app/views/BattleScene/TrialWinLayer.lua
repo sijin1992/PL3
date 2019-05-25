@@ -113,7 +113,7 @@ function TrialWinLayer:createLayer2( ... )
 --			for i=ship_info.ship_break+1,6 do
 --				node:getChildByName("star_"..i):removeFromParent()
 --			end
-            player:ShowShipStar(node,ship_info.ship_break,"star_")
+            ShowShipStar(node,ship_info.ship_break,"star_")
 
 			node:getChildByName("lv"):setString(ship_info.level)
 

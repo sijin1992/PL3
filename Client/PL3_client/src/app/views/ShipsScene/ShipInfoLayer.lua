@@ -88,7 +88,7 @@ function ShipInfoLayer:refreshTotal()
 --	end
 	
 --	self:resetNodePos(isShow)
-    player:ShowShipStar(left,ship.ship_break,"star")
+    ShowShipStar(left,ship.ship_break,"star")
 	left:getChildByName("zhanli"):setString(self.data_.power)
 
 	local node2 = require("app.ExResInterface"):getInstance():FastLoad("sfx/"..cfg_ship.RES_ID)
@@ -1078,7 +1078,7 @@ function ShipInfoLayer:createShipUpgradeNode( id, now_info, info)
 --            end
 --		end
 --	end
-    player:ShowShipStar(node,info.ship_break,"star_")
+    ShowShipStar(node,info.ship_break,"star_")
 
 	node:getChildByName("back"):setSwallowTouches(true)
 	node:getChildByName("back"):addClickEventListener(function ( ... )

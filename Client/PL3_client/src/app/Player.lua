@@ -3803,36 +3803,4 @@ function Player:getVipPackList()
     return self.data_.user_info.vip_pack_list
 end
 
-function Player:ShowShipStar(node,ship_break,star)
-    if ship_break == nil then
-        ship_break = 0
-    end
-    local color = math.modf(tonumber(ship_break)/6)
-    local num = math.fmod(tonumber(ship_break),6)
-    for i=1,6 do
-        local str = "ui_star_gray.png"
-        local isshow = true
-        if color == 0 then
-            if i <= num then
-                str = "ui_star_light.png"
-            else
-                isshow = false
-            end
-        elseif color == 1 then
-            if i <= num then
-                str = "ui_star_gold.png"
-            else
-                str = "ui_star_light.png"
-            end
-        elseif color == 2 then
-            if i <= num then
-            else
-                str = "ui_star_gold.png"
-            end
-        end
-        node:getChildByName(star..i):setVisible(isshow)
-        node:getChildByName(star..i):setTexture("Common/ui/"..str)
-    end
-end
-
 return Player
