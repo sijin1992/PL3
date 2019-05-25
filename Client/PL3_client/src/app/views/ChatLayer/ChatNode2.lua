@@ -70,7 +70,7 @@ function ChatNode2:onEnterTransitionFinish()
 --						shipNode:getChildByName("star_" .. j):removeFromParent()
 --					end
 --				end
-                player:ShowShipStar(shipNode,breakNum,"star_")
+                ShowShipStar(shipNode,breakNum,"star_")
 
 				--type
 				local shipType = "Common/ui/ui_icon_"

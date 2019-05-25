@@ -453,7 +453,7 @@ function ItemInfoNode:createShipInfoNodeByInfo(ship_info)
         -- rn:getChildByName("star_"..i):setScale(1)
 --        rn:getChildByName("star_"..i):removeFromParent()
 --    end
-    player:ShowShipStar(rn,ship_info.ship_break,"star_")
+    ShowShipStar(rn,ship_info.ship_break,"star_")
 
     rn:getChildByName("Image_3"):loadTexture("ShipImage/"..conf.ICON_ID..".png")
     rn:getChildByName("ship_bg"):setTexture("RankLayer/ui/ui_avatar_"..conf.QUALITY..".png")

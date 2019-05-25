@@ -112,7 +112,7 @@ function WinLayer:createLayer2( ... )
 --		for i=ship_info.ship_break+1,6 do
 --			node:getChildByName("star_"..i):removeFromParent()
 --		end
-        player:ShowShipStar(node,ship_info.ship_break,"star_")
+        ShowShipStar(node,ship_info.ship_break,"star_")
 		print(self.ship_exp[i], ship_info.exp)
 
 		node:getChildByName("lv"):setString(self.ship_level[i])

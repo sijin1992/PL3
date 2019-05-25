@@ -270,7 +270,7 @@ function ShipsDevelopScene:changeMode()
 --						info:getChildByName("star"..i):setTexture("Common/ui/ui_star_light.png")
 --					end
 --				end
-                player:ShowShipStar(info,v.breakNum,"star")
+                ShowShipStar(info,v.breakNum,"star")
 
 				self:jindu(v)
 				-- local btnText = CONF:getStringValue("")
@@ -371,7 +371,7 @@ function ShipsDevelopScene:refreshList(flag)
 --						info:getChildByName("star"..i):setTexture("Common/ui/ui_star_light.png")
 --					end
 --				end
-                player:ShowShipStar(info,v.breakNum,"star")
+                ShowShipStar(info,v.breakNum,"star")
 				info:getChildByName("pow"):setString(CONF:getStringValue("combat")..":")
 				if v.guid ~= 0 then
 					info:getChildByName("power"):setString(player:calShipFightPower( v.guid ))
@@ -592,7 +592,7 @@ function ShipsDevelopScene:onEnterTransitionFinish()
 --				info:getChildByName("star"..i):setTexture("Common/ui/ui_star_light.png")
 --			end
 --		end
-        player:ShowShipStar(info,self.selectedShip.breakNum,"star")
+        ShowShipStar(info,self.selectedShip.breakNum,"star")
 		info:getChildByName("pow"):setString(CONF:getStringValue("combat")..":")
 		if self.selectedShip.guid ~= 0 then
 			info:getChildByName("power"):setString(player:calShipFightPower( self.selectedShip.guid ))

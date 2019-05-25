@@ -159,7 +159,7 @@ function FormShipInfoNode:init(scene,guid)
         -- rn:getChildByName("star_"..i):setScale(1)
 --        rn:getChildByName("star_"..i):removeFromParent()
 --    end
-    player:ShowShipStar(rn,ship_info.ship_break,"star_")
+    ShowShipStar(rn,ship_info.ship_break,"star_")
 
     rn:getChildByName("Image_3"):loadTexture("ShipImage/"..conf.ICON_ID..".png")
     rn:getChildByName("ship_bg"):setTexture("RankLayer/ui/ui_avatar_"..conf.QUALITY..".png")
@@ -446,7 +446,7 @@ function FormShipInfoNode:createNewShipInfoNode(info)
     for i=1,6 do
         rn:getChildByName("star_"..i):setPositionX(rn:getChildByName("star_"..i):getPositionX()+addX)
     end
-    player:ShowShipStar(rn,ship.ship_break,"star_")
+    ShowShipStar(rn,ship.ship_break,"star_")
 
 
     local svd = require("util.ScrollViewDelegate"):create( nodeInfo:getChildByName("list"),cc.size(5,5), cc.size(120 ,450))

@@ -263,7 +263,7 @@ function MailDetailAttackType_field:initMailDetail(mail_info,data)
 --					for i=1,6 do
 --						teamNode:getChildByName("node1"..o):getChildByName("shipIcon"):getChildByName("star_"..i):setVisible(i <= p[6])
 --					end
-                    player:ShowShipStar(teamNode:getChildByName("node1"..o):getChildByName("shipIcon"),p[6],"star_")
+                    ShowShipStar(teamNode:getChildByName("node1"..o):getChildByName("shipIcon"),p[6],"star_")
 					-- teamNode:getChildByName("node1"..o):getChildByName("Text_num"):setVisible(false)
 					teamNode:getChildByName("node1"..o):getChildByName("shipIcon"):getChildByName("Sprite_2"):setVisible(teamNode:getChildByName("node1"..o):getChildByName("shipIcon"):getChildByName("level"):isVisible())
 					height = height + 90
