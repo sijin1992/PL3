@@ -14,8 +14,8 @@ android {
         applicationId "com.haomiao.star"
         minSdkVersion 10
         targetSdkVersion 26
-        versionCode 3
-        versionName "1.1.3"
+        versionCode 4
+        versionName "1.1.4"
 	// WJJ: edit versionName every build!
     }
     sourceSets.main {
