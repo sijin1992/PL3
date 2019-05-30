@@ -23,56 +23,51 @@ THE SOFTWARE.
 ****************************************************************************/
 package com.utu.star;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.List;
-import java.util.UUID;
-
-import org.PayPlugin.GooglePlayIABPlugin;
-import org.cocos2dx.lib.Cocos2dxActivity;
-import org.cocos2dx.lib.Cocos2dxGLSurfaceView;
-
+import android.app.AlarmManager;
 import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
-import android.content.pm.ActivityInfo;
-import android.content.pm.ApplicationInfo;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.net.wifi.WifiInfo;
 import android.net.wifi.WifiManager;
 import android.os.Bundle;
+import android.os.PowerManager;
 import android.provider.Settings;
 import android.util.Log;
+import android.view.KeyEvent;
 import android.view.WindowManager;
-import android.os.PowerManager;
 
 import com.adjust.sdk.Adjust;
 import com.adjust.sdk.AdjustEvent;
-import com.adjust.sdk.AdjustAttribution;
-import com.adjust.sdk.AdjustConfig;
-import com.adjust.sdk.LogLevel;
-import com.adjust.sdk.OnAttributionChangedListener;
-
-import com.flurry.android.FlurryAgent;
-// import com.gameanalytics.sdk.*;
-
 import com.tendcloud.tenddata.TalkingDataGA;
+
+import org.PayPlugin.GooglePlayIABPlugin;
+import org.cocos2dx.lib.Cocos2dxActivity;
+import org.cocos2dx.lib.Cocos2dxGLSurfaceView;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.UUID;
+
+// import com.gameanalytics.sdk.*;
 
 public class AppActivity extends Cocos2dxActivity{
     protected static final String TAG = "AppActivity";
     private PowerManager.WakeLock mWakeLock;
     static String hostIPAdress = "0.0.0.0";
     static String macAddress = "0";
+    protected static Context mContext;
 
     protected GooglePlayIABPlugin mGooglePlayIABPlugin = null;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
         super.onCreate(savedInstanceState);
-        
+
         if(nativeIsLandScape()) {
             //setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_SENSOR_LANDSCAPE);
 			//setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_NOSENSOR)
@@ -132,6 +127,7 @@ public class AppActivity extends Cocos2dxActivity{
         //TD
         TalkingDataGA.init(this, "8BBCC0586EB448159D0922294706E2F8", "10001");
         TalkingDataGA.setVerboseLogDisabled();
+        mContext = this.getApplicationContext();
     }
 
     @Override
@@ -189,6 +185,31 @@ public class AppActivity extends Cocos2dxActivity{
             mWakeLock = null;
         }
     }
+
+    @Override
+    public boolean onKeyDown(int keyCode, KeyEvent event) {
+        if(keyCode == KeyEvent.KEYCODE_BACK) {
+            // 监控返回键
+            exit();
+            return true;
+        }
+        return super.onKeyDown(keyCode, event);
+    }
+	
+	private void exit() {
+        AlertDialog.Builder builder=new AlertDialog.Builder(AppActivity.this);
+        builder.setTitle("Exit");
+        builder.setMessage("Quit the game?");
+        builder.setPositiveButton("Yes",new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface arg0, int arg1) {
+                finish();
+                System.exit(0);
+            }
+        });
+        builder.setNegativeButton("No", null);
+        builder.show();
+	}
 
     private boolean isNetworkConnected() {
             ConnectivityManager cm = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);  
@@ -383,7 +404,15 @@ public class AppActivity extends Cocos2dxActivity{
         GameAnalytics.configureUserId("80001" + userID);
         */
     }
-    
+
+	public static void RestartAPP(){
+        Log.e("RestartAPP","BEGIN");
+        Intent intent = new Intent(mContext, AppActivity.class);
+        intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+        mContext.startActivity(intent);
+        android.os.Process.killProcess(android.os.Process.myPid());
+    }
+
     // quan mian ping  by wjj 20180720
      private void hideSystemUI(Cocos2dxGLSurfaceView glSurfaceView)
     {

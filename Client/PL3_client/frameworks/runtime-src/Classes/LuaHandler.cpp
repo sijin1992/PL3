@@ -274,6 +274,12 @@ static int _onLoginEvent(lua_State *L) {
 	return 0;
 }
 
+static int _RestartAPP(lua_State *L) {
+
+	PaymentMgr::GetInstance()->RestartAPP();
+	return 0;
+}
+
 static int _reconnect(lua_State *L) {
 
 	AppManager::getInstance().getNet().reconnect();
@@ -298,6 +304,7 @@ static const struct luaL_reg _c_lua_handler [] = {
 	{ "onGAAddResourceEvent", _onGAAddResourceEvent },
 	{ "onGAAddProgressionEvent", _onGAAddProgressionEvent },
 	{ "onLoginEvent", _onLoginEvent },
+	{ "RestartAPP", _RestartAPP },
     {"getUUID", _getUUID},
 	{"openUrl", _openUrl},
     {NULL, NULL}

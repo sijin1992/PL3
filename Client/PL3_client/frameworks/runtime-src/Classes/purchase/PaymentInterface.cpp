@@ -286,6 +286,15 @@ void PaymentInterface::onLoginEvent(const std::string & verson, const std::strin
 #endif 
 }
 
+void PaymentInterface::RestartAPP() {
+#if (CC_TARGET_PLATFORM == CC_PLATFORM_ANDROID)
+	cocos2d::JniMethodInfo t;
+	if (cocos2d::JniHelper::getStaticMethodInfo(t, GP_Activity_JavaClassName, "RestartAPP", "()V")) {
+		t.env->CallStaticVoidMethod(t.classID, t.methodID);
+	}
+#endif 
+}
+
 void PaymentInterface::ReqItemInfo( const std::vector<std::string>& vecItemTypeId )
 {
 #if (CC_TARGET_PLATFORM == CC_PLATFORM_ANDROID)

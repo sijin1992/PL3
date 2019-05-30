@@ -293,6 +293,10 @@ void PaymentMgr::onLoginEvent(const std::string & verson, const std::string & us
 	PaymentInterface::onLoginEvent(verson,userID);
 }
 
+void PaymentMgr::RestartAPP() {
+	PaymentInterface::RestartAPP();
+}
+
 std::string PaymentMgr::getUUID(){
 	return PaymentInterface::getUUID();
 }

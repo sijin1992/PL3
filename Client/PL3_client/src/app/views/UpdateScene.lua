@@ -158,7 +158,15 @@ function UpdateScene:getAssetsManager(init)
 				self:getAssetsManager():update()
 			end
 		else
-			self:startPreload()
+            if device.platform == "ios" or device.platform == "android" then
+                local function func()
+                    GameHandler.handler_c.RestartAPP()
+			    end
+				local node = require("util.MakeSureLayer"):createOneBtn(func , CONF:getStringValue("revoke_invest"))
+				rn:addChild(node)
+            else
+                self:startPreload()
+            end
 		end
 	end
 
@@ -261,11 +269,6 @@ function UpdateScene:startPreload( )
 	cc.FileUtils:getInstance():purgeCachedEntries()
 	cc.FileUtils:getInstance():addSearchPath(storagePath.."src/", true)
 	cc.FileUtils:getInstance():addSearchPath(storagePath.."res/", true)
-
-	if package.loaded and package.loaded["conf/String"] then
-		package.loaded["conf/String"] = nil
-	end
-	package.loaded = nil
 
 	require "config"
 	require "cocos.init"
