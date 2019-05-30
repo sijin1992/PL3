@@ -162,7 +162,7 @@ function UpdateScene:getAssetsManager(init)
                 local function func()
                     GameHandler.handler_c.RestartAPP()
 			    end
-				local node = require("util.MakeSureLayer"):createOneBtn(func , CONF:getStringValue("revoke_invest"))
+				local node = require("util.MakeSureLayer"):createOneBtn(func , CONF:getStringValue("restart_app"))
 				rn:addChild(node)
             else
                 self:startPreload()
