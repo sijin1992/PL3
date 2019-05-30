@@ -11,7 +11,7 @@ g_login_server_url = "http://ec2-54-179-167-18.ap-southeast-1.compute.amazonaws.
 
 g_update_server_url = ""
 
-g_xy_url = "http://www.haomiaogame.com/xy_en.php"
+g_xy_url = "http://game01.haomiaogame.com/xy_en.php"
 
 g_create_player_url = "http://ec2-54-179-167-18.ap-southeast-1.compute.amazonaws.com/roles.php"
 --"http://192.168.0.67/roles.php"
@@ -21,7 +21,7 @@ g_create_player_url = "http://ec2-54-179-167-18.ap-southeast-1.compute.amazonaws
 g_apple_store_url = ""--"itms-apps://itunes.apple.com/gb/app/star-civilization/id1121512843?mt=8"
 g_google_store_url = ""-- "https://play.google.com"
 
-g_cdkey_url = "http://www.haomiaogame.com/codes.php"
+g_cdkey_url = "http://game01.haomiaogame.com/codes.php"
 
 g_quick_product_code = "48049914649256734312551978916411"
 
