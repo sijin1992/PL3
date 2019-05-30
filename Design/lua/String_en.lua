@@ -69227,9 +69227,7 @@ STRING_EN["index"][9890] = 9890
 STRING_EN[9890] = {}
 	STRING_EN[9890]["ID"] = 9890
 	STRING_EN[9890]["KEY"] = "increase_purchases"
-	STRING_EN[9890]["VALUE"] = {}
-		STRING_EN[9890]["VALUE"][1] = "The number of purchasing times has reached the upper limit"
-		STRING_EN[9890]["VALUE"][2] = " please upgrade your VIP level to increase"
+	STRING_EN[9890]["VALUE"] = "The number of purchasing times has reached the upper limit， please upgrade your VIP level to increase"
 	STRING_EN[9890]["real_idx"] = 9890
 
 STRING_EN["index"][9891] = 9891
@@ -69316,7 +69314,14 @@ STRING_EN[9902] = {}
 	STRING_EN[9902]["VALUE"] = "The base is attacked and cannot be transitioned"
 	STRING_EN[9902]["real_idx"] = 9902
 
+STRING_EN["index"][9903] = 9903
+STRING_EN[9903] = {}
+	STRING_EN[9903]["ID"] = 9903
+	STRING_EN[9903]["KEY"] = "restart_app"
+	STRING_EN[9903]["VALUE"] = "Restart the game!"
+	STRING_EN[9903]["real_idx"] = 9903
 
-STRING_EN["len"] = 9902
+
+STRING_EN["len"] = 9903
 
 return STRING_EN

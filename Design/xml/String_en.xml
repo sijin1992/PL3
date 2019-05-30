@@ -49448,7 +49448,7 @@
  	<Row>
 		<ID>9890</ID>
 		<KEY>increase_purchases</KEY>
-		<VALUE>The number of purchasing times has reached the upper limit, please upgrade your VIP level to increase</VALUE>
+		<VALUE>The number of purchasing times has reached the upper limit， please upgrade your VIP level to increase</VALUE>
 	</Row>
  	<Row>
 		<ID>9891</ID>
@@ -49509,5 +49509,10 @@
 		<ID>9902</ID>
 		<KEY>be_atked_notransit</KEY>
 		<VALUE>The base is attacked and cannot be transitioned</VALUE>
+	</Row>
+ 	<Row>
+		<ID>9903</ID>
+		<KEY>restart_app</KEY>
+		<VALUE>Restart the game!</VALUE>
 	</Row>
 </Root>
