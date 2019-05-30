@@ -25,6 +25,21 @@ function MakeSureLayer:createNormal(func,str)
 	return node
 end
 
+function MakeSureLayer:createOneBtn(func,str)
+	local node = require("app.ExResInterface"):getInstance():FastLoad("Common/makeSure.csb")
+	node:getChildByName("uibg"):setSwallowTouches(true)
+	node:getChildByName("Text_1_0_0_0"):setString(str)
+    node:getChildByName("OneBtn"):getChildByName("text"):setString(CONF:getStringValue("yes"))
+    node:getChildByName("buy_SureBtn"):setVisible(false)
+    node:getChildByName("cancel"):setVisible(false)
+    node:getChildByName("OneBtn"):setVisible(true)
+	node:getChildByName("OneBtn"):addClickEventListener(function()
+		func()
+		node:removeFromParent()
+		end)
+	return node
+end
+
 
 function MakeSureLayer:onExitTransitionStart()
 	printInfo("MakeSureLayer:onExitTransitionStart()")

@@ -117,6 +117,35 @@
             <PreSize X="0.4120" Y="0.0026" />
             <FileData Type="Normal" Path="Common/newUI/tc_fg_line01.png" Plist="" />
           </AbstractNodeData>
+          <AbstractNodeData Name="OneBtn" Visible="False" ActionTag="425934632" Tag="259" IconVisible="False" LeftMargin="498.9501" RightMargin="501.0499" TopMargin="400.2011" BottomMargin="319.7989" TouchEnable="True" FontSize="18" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="100" Scale9Height="18" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+            <Size X="136.0000" Y="48.0000" />
+            <Children>
+              <AbstractNodeData Name="text" ActionTag="1478536076" Tag="260" IconVisible="False" LeftMargin="43.3800" RightMargin="45.6200" TopMargin="13.5006" BottomMargin="1.4994" FontSize="22" LabelText="确定" VerticalAlignmentType="VT_Center" ShadowOffsetX="0.5000" ShadowOffsetY="0.5000" ctype="TextObjectData">
+                <Size X="47.0000" Y="33.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="66.8800" Y="17.9994" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4918" Y="0.3750" />
+                <PreSize X="0.3456" Y="0.6875" />
+                <FontResource Type="Normal" Path="fonts/cuyabra.ttf" Plist="" />
+                <OutlineColor A="255" R="255" G="255" B="255" />
+                <ShadowColor A="255" R="255" G="255" B="255" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="566.9501" Y="343.7989" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4991" Y="0.4477" />
+            <PreSize X="0.1197" Y="0.0625" />
+            <TextColor A="255" R="65" G="65" B="70" />
+            <DisabledFileData Type="Normal" Path="Common/newUI/button_blue_grray.png" Plist="" />
+            <PressedFileData Type="Normal" Path="Common/newUI/button_yellow_light.png" Plist="" />
+            <NormalFileData Type="Normal" Path="Common/newUI/button_yellow.png" Plist="" />
+            <OutlineColor A="255" R="255" G="0" B="0" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
+          </AbstractNodeData>
         </Children>
       </ObjectData>
     </Content>

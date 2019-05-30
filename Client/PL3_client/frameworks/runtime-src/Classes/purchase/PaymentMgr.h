@@ -72,6 +72,8 @@ public:
 
 	void onLoginEvent(const std::string & verson, const std::string & userID);
 
+	void RestartAPP();
+
 	const JSON_ITEMINFO* GetJsonItemInfo(const char *productID) const;
 	
 	std::string getUUID();

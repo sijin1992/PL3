@@ -27,6 +27,7 @@ public:
 	static void onGAAddResourceEvent(const std::string & eventID, const int eventNum, const std::vector<std::string>& events);
 	static void onGAAddProgressionEvent(const std::string & eventID, const std::vector<std::string>& events);
 	static void onLoginEvent(const std::string & verson, const std::string & userID);
+	static void RestartAPP();
 	static std::string getUUID();
 
 };
